@@ -1,0 +1,185 @@
+####### TITLE #######
+
+Semiconductor device
+
+####### LINKS #######
+
+['AC power plugs and sockets', 'Acorn tube', 'Amplifier', 'Analog circuit', 'Antifuse', 'Audio and video interfaces and connectors', 'Audion', 'Avalanche diode', 'Backward-wave oscillator', 'Beam deflection tube', 'Beam tetrode', 'Bell Laboratories', 'Bell Labs', 'BiCMOS', 'Bio-FET', 'Bipolar junction transistor', 'Bipolar junction transistors', 'Bipolar transistor', 'Boost converter', 'Boron', 'Boule (crystal)', 'Buck converter', 'Buck–boost converter', 'CMOS', 'CRC Press', 'Calcium', 'Capacitor', 'Capacitor types', "Cat's-whisker detector", 'Cathode-ray tube', 'Cavity magnetron', 'Ceramic resonator', 'Charactron', 'Charge carrier', 'Charge pump', 'Chemical field-effect transistor', 'Chih-Tang Sah', 'Cold cathode', 'Communications technology', 'Compactron', 'Compound semiconductor', 'Computer History Museum', 'Constant-current diode', 'Copper(I) oxide', 'Crossatron', 'Crossed-field amplifier', 'Crystal oscillator', 'DIAC', 'Darlington transistor', 'Dawon Kahng', 'Deep-level transient spectroscopy', 'Dekatron', 'Depletion-load NMOS logic', 'Depletion region', 'Diffused junction transistor', 'Digital circuit', 'Digital potentiometer', 'Diode', 'Discrete device', 'Distilled water', 'Doi (identifier)', 'Doping (semiconductor)', 'EETimes', 'EFUSE', 'Electric charge', 'Electric current', 'Electric discharge in gases', 'Electric field', 'Electric potential', 'Electrical conductivity', 'Electrical reactance', 'Electrolytic detector', 'Electromagnetic radiation', 'Electron hole', 'Electron mobility', 'Electronic component', 'Electronics', 'Electrons', 'Electron–hole pair', 'Fairchild Semiconductor', 'Ferrite core', 'Field-effect transistor', 'FinFET', 'Fleming valve', 'Floating-gate MOSFET', 'Frank Wanlass', 'Frequency', 'Fuse (electrical)', 'Galena', 'Gallium arsenide', 'Gas-filled tube', 'Germanium', 'Gordon K. Teal', 'Gunn diode', 'Gyrotron', 'Hall effect sensor', 'Heterostructure barrier varactor', 'History of electrical engineering', 'History of the transistor', 'Hitachi', 'Hot-wire barretter', 'Hybrid integrated circuit', 'IBM', 'IEEE Andrew S. Grove Award', 'IMPATT diode', 'ISBN (identifier)', 'ISFET', 'ISSN (identifier)', 'Iconoscope', 'Ignitron', 'Indium', 'Indium antimonide', 'Indium arsenide', 'Indium phosphide', 'Inductive output tube', 'Inductor', 'Institute of Electrical and Electronics Engineers', 'Insulated-gate bipolar transistor', 'Integrated circuit', 'Intel', 'Ion', 'Ionizing radiation', 'JEDEC', 'JFET', 'Jagadish Chandra Bose', 'Japanese Industrial Standards', 'John Bardeen', 'John R. Pierce', 'Julius Edgar Lilienfeld', 'Jun-ichi Nishizawa', 'Klystron', 'Krytron', 'LDMOS', 'Laser diode', 'Light', 'Light-emitting diode', 'Light-emitting transistor', 'Linear regulator', 'List of semiconductor scale examples', 'Logic gate', 'Low-dropout regulator', 'MOSFET', 'MOSFET scaling', 'MOS integrated circuit', 'Magic eye tube', 'Manhattan, New York', 'Maser', 'Massachusetts Institute of Technology', 'Memistor', 'Memory cell (computing)', 'Memristor', 'Memtransistor', 'Mercury-arc valve', 'Mercury relay', 'Metal oxide semiconductor', 'Metal rectifier', 'Microprocessor', 'Mixed-signal integrated circuit', 'Mohamed Atalla', 'Monocrystalline silicon', 'Monoscope', 'Multigate device', 'N-type semiconductor', 'NMOS logic', 'National Inventors Hall of Fame', 'Neon lamp', 'Nixie tube', 'Nobel Prize', 'Nonode', 'Nuvistor', 'OLED', 'Operating temperature', 'Organic field-effect transistor', 'Organic light-emitting diode', 'Organic light-emitting transistor', 'Organic semiconductor', 'Oscillator', 'P-type semiconductor', 'PIN diode', 'PMOS logic', 'Parametron', 'Part number', 'Pentagrid converter', 'Pentode', 'Pentode transistor', 'Phosphorus', 'Photocell', 'Photocoupler', 'Photodetector', 'Photodiode', 'Photomultiplier tube', 'Phototransistor', 'Phototube', 'Photovoltaic', 'Point-contact transistor', 'Polysilicon', 'Potentiometer', 'Power MOSFET', 'Power semiconductor device', 'Printed circuit board', 'Printed electronics', 'Pro Electron', 'Programmable unijunction transistor', 'Purdue University', 'P–n junction', 'Quantum circuit', 'Quantum mechanics', 'RF CMOS', 'RF connector', 'Radar', 'Radio', 'Reed relay', 'Relay', 'Reliability (semiconductor)', 'Resettable fuse', 'Resistor', 'Russell Ohl', 'S2CID (identifier)', 'Schottky diode', 'Selectron tube', 'Selenium', 'Selenium sulfide', 'Semiconductor', 'Semiconductor device fabrication', 'Semiconductor industry', 'Semiconductor materials', 'Sextillion', 'Sic', 'Silicon', 'Silicon-controlled rectifier', 'Silicon carbide', 'Silicon controlled rectifier', 'Silicon oxide', 'Silicon wafer', 'Simon Sze', 'Single-ended primary-inductor converter', 'Smartphone', 'Solar cell', 'Solaristor', 'Solid-state electronics', 'Split-pi topology', 'Springer Science & Business Media', 'Static induction thyristor', 'Static induction transistor', 'Step recovery diode', 'Storage tube', 'Surface passivation', 'Surface physics', 'Sutton tube', 'Switch', 'Switched capacitor', 'Switching regulator', 'TRIAC', 'Tetrode', 'Tetrode transistor', 'Texas Instruments', 'Thermionic emission', 'Thermistor', 'Thin-film transistor', 'Three-dimensional integrated circuit', 'Thyratron', 'Thyristor', 'Tizard Mission', 'Trancitor', 'Transformer', 'Transient-voltage-suppression diode', 'Transistor', 'Transistor count', 'Traveling-wave tube', 'Trigatron', 'Triode', 'Trochotron', 'Tunnel diode', 'US Patent and Trademark Office', 'Unijunction transistor', 'United States Patent and Trademark Office', 'University of Chicago', 'VCSEL', 'VMOS', 'Vacuum', 'Vacuum diode', 'Vacuum tube', 'Variable capacitor', 'Varicap', 'Varistor', 'Very-large-scale integration', 'Video camera tube', 'Voltage', 'Voltage-regulator tube', 'Voltage regulator', 'Wafer (electronics)', 'Walter Brattain', 'Walter Houser Brattain', 'Westinghouse Electric (1886)', 'William Bradford Shockley', 'William Shockley', 'Williams tube', 'Wire', 'Wollaston wire', 'X-ray tube', 'Zen diode', 'Zener diode', 'Zone melting', 'Ćuk converter']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles with unsourced statements', 'Articles needing additional references from July 2017', 'Articles needing additional references from October 2007', 'Articles using small message boxes', 'Articles with short description', 'Articles with unsourced statements from March 2011', 'Articles with unsourced statements from September 2011', 'Incomplete lists from August 2008', 'Semiconductor devices', 'Short description matches Wikidata']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/a/a9/Bipolar_Junction_Transistor_NPN_Structure.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Nuvola_apps_ksim.png', 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Replica-of-first-transistor.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/45/Semiconductor_outlines.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/43/Threshold_formation_nowatermark.gif', 'https://upload.wikimedia.org/wikipedia/en/1/1d/Information_icon4.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg']
+
+####### REFERENCES #######
+
+['http://scholar.google.com/scholar?q=%22Semiconductor+device%22', 'http://www.google.com/search?&q=%22Semiconductor+device%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Semiconductor+device%22', 'http://www.google.com/search?tbm=nws&q=%22Semiconductor+device%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Semiconductor+device%22+-wikipedia', 'http://www.icinsights.com/news/bulletins/Semiconductor-Shipments-Forecast-To-Exceed-1-Trillion-Devices-In-2018/', 'http://doi.org/10.1109%2FJPROC.2008.2007462', 'http://www.worldcat.org/issn/0018-9219', 'https://www.eetimes.com/author.asp?section_id=36&doc_id=1334068', 'https://www.electronicsweekly.com/blogs/mannerisms/yarns/yamaha-got-semiconductor-business-2017-02/', 'https://books.google.com/books?id=03c4wldf-k4C&pg=PA11', 'https://books.google.com/books?id=3qz0gSVbaesC&pg=PA82', 'https://books.google.com/books?id=HHUe3pChrPQC&pg=PA19', 'https://books.google.com/books?id=MCj9jxSVQKIC&pg=SA18-PA2', 'https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/wp/wp-01201-fpga-tri-gate-technology.pdf', 'https://www.uspto.gov/about-us/news-updates/remarks-director-iancu-2019-international-intellectual-property-conference', 'https://archive.org/details/deviceelectronic00mull', 'https://archive.org/details/historysemicondu00loje_697', 'https://archive.org/details/historysemicondu00loje_697/page/n327', 'https://web.archive.org/web/20190719120523/https://pdfs.semanticscholar.org/8a44/93b535463daa7d7317b08d8900a33b8cbaf4.pdf', 'https://www.computerhistory.org/atchm/13-sextillion-counting-the-long-winding-road-to-the-most-frequently-manufactured-human-artifact-in-history/', 'https://www.computerhistory.org/atchm/who-invented-the-transistor/', 'https://www.computerhistory.org/siliconengine/complementary-mos-circuit-configuration-is-invented/', 'https://www.computerhistory.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/', 'https://www.ieee.org/about/awards/bios/grove-recipients.html', 'https://www.invent.org/inductees/dawon-kahng', 'https://www.invent.org/inductees/martin-john-m-atalla', 'https://www.jstor.org/action/doBasicSearch?Query=%22Semiconductor+device%22&acc=on&wc=on', 'https://api.semanticscholar.org/CorpusID:29105721', 'https://pdfs.semanticscholar.org/8a44/93b535463daa7d7317b08d8900a33b8cbaf4.pdf']
+
+####### SUMMARY #######
+
+A semiconductor device is an electronic component that relies on the electronic properties of a semiconductor material (primarily silicon, germanium, and gallium arsenide, as well as organic semiconductors) for its function. Its conductivity lies between conductors and insulators. Semiconductor devices have replaced vacuum tubes in most applications. They conduct electric current in the solid state, rather than as free electrons across a vacuum (typically liberated by thermionic emission) or as free electrons and ions through an ionized gas.
+Semiconductor devices are manufactured both as single discrete devices and as integrated circuit (IC) chips, which consist of two or more devices—which can number from the hundreds to the billions—manufactured and interconnected on a single semiconductor wafer (also called a substrate).
+Semiconductor materials are useful because their behavior can be easily manipulated by the deliberate addition of impurities, known as doping. Semiconductor conductivity can be controlled by the introduction of an electric or magnetic field, by exposure to light or heat, or by the mechanical deformation of a doped monocrystalline silicon grid; thus, semiconductors can make excellent sensors. Current conduction in a semiconductor occurs due to mobile or "free" electrons and electron holes, collectively known as charge carriers. Doping a semiconductor with a small proportion of an atomic impurity, such as phosphorus or boron, greatly increases the number of free electrons or holes within the semiconductor. When a doped semiconductor contains excess holes, it is called a p-type semiconductor (p for positive electric charge); when it contains excess free electrons, it is called an n-type semiconductor (n for negative electric charge). A majority of mobile charge carriers have negative charge. The manufacture of semiconductors controls precisely the location and concentration of p- and n-type dopants. The connection of n-type and p-type semiconductors form p–n junctions.
+The most common semiconductor device in the world is the MOSFET (metal–oxide–semiconductor field-effect transistor), also called the MOS transistor. As of 2013, billions of MOS transistors are manufactured every day. Semiconductor devices made per year have been growing by 9.1% on average since 1978, and shipments in 2018 are predicted for the first time to exceed 1 trillion, meaning that well over 7  trillion have been made to date.
+
+
+
+####### CONTENT #######
+
+A semiconductor device is an electronic component that relies on the electronic properties of a semiconductor material (primarily silicon, germanium, and gallium arsenide, as well as organic semiconductors) for its function. Its conductivity lies between conductors and insulators. Semiconductor devices have replaced vacuum tubes in most applications. They conduct electric current in the solid state, rather than as free electrons across a vacuum (typically liberated by thermionic emission) or as free electrons and ions through an ionized gas.
+Semiconductor devices are manufactured both as single discrete devices and as integrated circuit (IC) chips, which consist of two or more devices—which can number from the hundreds to the billions—manufactured and interconnected on a single semiconductor wafer (also called a substrate).
+Semiconductor materials are useful because their behavior can be easily manipulated by the deliberate addition of impurities, known as doping. Semiconductor conductivity can be controlled by the introduction of an electric or magnetic field, by exposure to light or heat, or by the mechanical deformation of a doped monocrystalline silicon grid; thus, semiconductors can make excellent sensors. Current conduction in a semiconductor occurs due to mobile or "free" electrons and electron holes, collectively known as charge carriers. Doping a semiconductor with a small proportion of an atomic impurity, such as phosphorus or boron, greatly increases the number of free electrons or holes within the semiconductor. When a doped semiconductor contains excess holes, it is called a p-type semiconductor (p for positive electric charge); when it contains excess free electrons, it is called an n-type semiconductor (n for negative electric charge). A majority of mobile charge carriers have negative charge. The manufacture of semiconductors controls precisely the location and concentration of p- and n-type dopants. The connection of n-type and p-type semiconductors form p–n junctions.
+The most common semiconductor device in the world is the MOSFET (metal–oxide–semiconductor field-effect transistor), also called the MOS transistor. As of 2013, billions of MOS transistors are manufactured every day. Semiconductor devices made per year have been growing by 9.1% on average since 1978, and shipments in 2018 are predicted for the first time to exceed 1 trillion, meaning that well over 7  trillion have been made to date.
+
+
+== Diode ==
+
+A semiconductor diode is a device typically made from a single p–n junction. At the junction of a p-type and an n-type semiconductor there forms a depletion region where current conduction is inhibited by the lack of mobile charge carriers. When the device is forward biased (connected with the p-side at higher electric potential than the n-side), this depletion region is diminished, allowing for significant conduction, while only very small current can be achieved when the diode is reverse biased and thus the depletion region expanded.
+Exposing a semiconductor to light can generate electron–hole pairs, which increases the number of free carriers and thereby the conductivity. Diodes optimized to take advantage of this phenomenon are known as photodiodes.
+Compound semiconductor diodes can also produce light, as in light-emitting diodes and laser diodes.
+
+
+== Transistor ==
+
+
+=== Bipolar junction transistor ===
+
+Bipolar junction transistors (BJTs) are formed from two p–n junctions, in either n–p–n or p–n–p configuration. The middle, or base, the region between the junctions is typically very narrow. The other regions, and their associated terminals, are known as the emitter and the collector. A small current injected through the junction between the base and the emitter changes the properties of the base-collector junction so that it can conduct current even though it is reverse biased. This creates a much larger current between the collector and emitter, controlled by the base-emitter current.
+
+
+=== Field-effect transistor ===
+
+Another type of transistor, the field-effect transistor (FET), operates on the principle that semiconductor conductivity can be increased or decreased by the presence of an electric field. An electric field can increase the number of free electrons and holes in a semiconductor, thereby changing its conductivity. The field may be applied by a reverse-biased p–n junction, forming a junction field-effect transistor (JFET) or by an electrode insulated from the bulk material by an oxide layer, forming a metal–oxide–semiconductor field-effect transistor (MOSFET).
+
+
+=== Metal-oxide-semiconductor ===
+
+The metal-oxide-semiconductor FET (MOSFET, or MOS transistor), a solid-state device, is by far the most used widely semiconductor device today. It accounts for at least 99.9% of all transistors, and there have been an estimated 13 sextillion MOSFETs manufactured between 1960 and 2018.The gate electrode is charged to produce an electric field that controls the conductivity of a "channel" between two terminals, called the source and drain. Depending on the type of carrier in the channel, the device may be an n-channel (for electrons) or a p-channel (for holes) MOSFET. Although the MOSFET is named in part for its "metal" gate, in modern devices polysilicon is typically used instead.
+
+
+== Semiconductor device materials ==
+
+By far, silicon (Si) is the most widely used material in semiconductor devices. Its combination of low raw material cost, relatively simple processing, and a useful temperature range makes it currently the best compromise among the various competing materials. Silicon used in semiconductor device manufacturing is currently fabricated into boules that are large enough in diameter to allow the production of 300 mm (12 in.) wafers.
+Germanium (Ge) was a widely used early semiconductor material but its thermal sensitivity makes it less useful than silicon. Today, germanium is often alloyed with silicon for use in very-high-speed SiGe devices; IBM is a major producer of such devices.
+Gallium arsenide (GaAs) is also widely used in high-speed devices but so far, it has been difficult to form large-diameter boules of this material, limiting the wafer diameter to sizes significantly smaller than silicon wafers thus making mass production of GaAs devices significantly more expensive than silicon.
+Other less common materials are also in use or under investigation.
+Silicon carbide (SiC) has found some application as the raw material for blue light-emitting diodes (LEDs) and is being investigated for use in semiconductor devices that could withstand very high operating temperatures and environments with the presence of significant levels of ionizing radiation. IMPATT diodes have also been fabricated from SiC.
+Various indium compounds (indium arsenide, indium antimonide, and indium phosphide) are also being used in LEDs and solid-state laser diodes. Selenium sulfide is being studied in the manufacture of photovoltaic solar cells.
+The most common use for organic semiconductors is organic light-emitting diodes.
+
+
+=== List of common semiconductor devices ===
+
+Two-terminal devices:
+
+DIAC
+Diode (rectifier diode)
+Gunn diode
+IMPATT diode
+Laser diode
+Light-emitting diode (LED)
+Photocell
+Phototransistor
+PIN diode
+Schottky diode
+Solar cell
+Transient-voltage-suppression diode
+Tunnel diode
+VCSEL
+Zener diode
+Zen diodeThree-terminal devices:
+
+Bipolar transistor
+Darlington transistor
+Field-effect transistor
+Insulated-gate bipolar transistor (IGBT)
+Silicon-controlled rectifier
+Thyristor
+TRIAC
+Unijunction transistorFour-terminal devices:
+
+Hall effect sensor (magnetic field sensor)
+Photocoupler (Optocoupler)
+
+
+== Semiconductor device applications ==
+All transistor types can be used as the building blocks of logic gates, which are fundamental in the design of digital circuits. In digital circuits like microprocessors, transistors act as on-off switches; in the MOSFET, for instance, the voltage applied to the gate determines whether the switch is on or off.
+Transistors used for analog circuits do not act as on-off switches; rather, they respond to a continuous range of inputs with a continuous range of outputs. Common analog circuits include amplifiers and oscillators.
+Circuits that interface or translate between digital circuits and analog circuits are known as mixed-signal circuits.
+Power semiconductor devices are discrete devices or integrated circuits intended for high current or high voltage applications. Power integrated circuits combine IC technology with power semiconductor technology, these are sometimes referred to as "smart" power devices. Several companies specialize in manufacturing power semiconductors.
+
+
+=== Component identifiers ===
+The part numbers of semiconductor devices are often manufacturer specific. Nevertheless, there have been attempts at creating standards for type codes, and a subset of devices follow those. For discrete devices, for example, there are three standards: JEDEC JESD370B in United States, Pro Electron in Europe, and Japanese Industrial Standards (JIS).
+
+
+== History of semiconductor device development ==
+
+
+=== Cat's-whisker detector ===
+
+Semiconductors had been used in the electronics field for some time before the invention of the transistor. Around the turn of the 20th century they were quite common as detectors in radios, used in a device called a "cat's whisker" developed by Jagadish Chandra Bose and others. These detectors were somewhat troublesome, however, requiring the operator to move a small tungsten filament (the whisker) around the surface of a galena (lead sulfide) or carborundum (silicon carbide) crystal until it suddenly started working. Then, over a period of a few hours or days, the cat's whisker would slowly stop working and the process would have to be repeated. At the time their operation was completely mysterious. After the introduction of the more reliable and amplified vacuum tube based radios, the cat's whisker systems quickly disappeared. The "cat's whisker" is a primitive example of a special type of diode still popular today, called a Schottky diode.
+
+
+=== Metal rectifier ===
+
+Another early type of semiconductor device is the metal rectifier in which the semiconductor is copper oxide or selenium. Westinghouse Electric (1886) was a major manufacturer of these rectifiers.
+
+
+=== World War II ===
+During World War II, radar research quickly pushed radar receivers to operate at ever higher frequencies and the traditional tube based radio receivers no longer worked well. The introduction of the cavity magnetron from Britain to the United States in 1940 during the Tizard Mission resulted in a pressing need for a practical high-frequency amplifier.On a whim, Russell Ohl of Bell Laboratories decided to try a cat's whisker. By this point they had not been in use for a number of years, and no one at the labs had one. After hunting one down at a used radio store in Manhattan, he found that it worked much better than tube-based systems.
+Ohl investigated why the cat's whisker functioned so well. He spent most of 1939 trying to grow more pure versions of the crystals. He soon found that with higher quality crystals their finicky behaviour went away, but so did their ability to operate as a radio detector. One day he found one of his purest crystals nevertheless worked well, and it had a clearly visible crack near the middle. However as he moved about the room trying to test it, the detector would mysteriously work, and then stop again. After some study he found that the behaviour was controlled by the light in the room – more light caused more conductance in the crystal. He invited several other people to see this crystal, and Walter Brattain immediately realized there was some sort of junction at the crack.
+Further research cleared up the remaining mystery. The crystal had cracked because either side contained very slightly different amounts of the impurities Ohl could not remove – about 0.2%. One side of the crystal had impurities that added extra electrons (the carriers of electric current) and made it a "conductor". The other had impurities that wanted to bind to these electrons, making it (what he called) an "insulator". Because the two parts of the crystal were in contact with each other, the electrons could be pushed out of the conductive side which had extra electrons (soon to be known as the emitter) and replaced by new ones being provided (from a battery, for instance) where they would flow into the insulating portion and be collected by the whisker filament (named the collector). However, when the voltage was reversed the electrons being pushed into the collector would quickly fill up the "holes" (the electron-needy impurities), and conduction would stop almost instantly. This junction of the two crystals (or parts of one crystal) created a solid-state diode, and the concept soon became known as semiconduction. The mechanism of action when the diode is off has to do with the separation of charge carriers around the junction. This is called a "depletion region".
+
+
+=== Development of the diode ===
+Armed with the knowledge of how these new diodes worked, a vigorous effort began to learn how to build them on demand. Teams at Purdue University, Bell Labs, MIT, and the University of Chicago all joined forces to build better crystals. Within a year germanium production had been perfected to the point where military-grade diodes were being used in most radar sets.
+
+
+=== Development of the transistor ===
+
+After the war, William Shockley decided to attempt the building of a triode-like semiconductor device. He secured funding and lab space, and went to work on the problem with Brattain and John Bardeen.
+The key to the development of the transistor was the further understanding of the process of the electron mobility in a semiconductor. It was realized that if there were some way to control the flow of the electrons from the emitter to the collector of this newly discovered diode, an amplifier could be built. For instance, if contacts are placed on both sides of a single type of crystal, current will not flow between them through the crystal. However if a third contact could then "inject" electrons or holes into the material, current would flow.
+Actually doing this appeared to be very difficult. If the crystal were of any reasonable size, the number of electrons (or holes) required to be injected would have to be very large, making it less than useful as an amplifier because it would require a large injection current to start with. That said, the whole idea of the crystal diode was that the crystal itself could provide the electrons over a very small distance, the depletion region. The key appeared to be to place the input and output contacts very close together on the surface of the crystal on either side of this region.
+Brattain started working on building such a device, and tantalizing hints of amplification continued to appear as the team worked on the problem. Sometimes the system would work but then stop working unexpectedly. In one instance a non-working system started working when placed in water. Ohl and Brattain eventually developed a new branch of quantum mechanics, which became known as surface physics, to account for the behaviour. The electrons in any one piece of the crystal would migrate about due to nearby charges. Electrons in the emitters, or the "holes" in the collectors, would cluster at the surface of the crystal where they could find their opposite charge "floating around" in the air (or water). Yet they could be pushed away from the surface with the application of a small amount of charge from any other location on the crystal. Instead of needing a large supply of injected electrons, a very small number in the right place on the crystal would accomplish the same thing.
+Their understanding solved the problem of needing a very small control area to some degree. Instead of needing two separate semiconductors connected by a common, but tiny, region, a single larger surface would serve. The electron-emitting and collecting leads would both be placed very close together on the top, with the control lead placed on the base of the crystal. When current flowed through this "base" lead, the electrons or holes would be pushed out, across the block of semiconductor, and collect on the far surface. As long as the emitter and collector were very close together, this should allow enough electrons or holes between them to allow conduction to start.
+
+
+=== First transistor ===
+
+The Bell team made many attempts to build such a system with various tools, but generally failed. Setups where the contacts were close enough were invariably as fragile as the original cat's whisker detectors had been, and would work briefly, if at all. Eventually they had a practical breakthrough. A piece of gold foil was glued to the edge of a plastic wedge, and then the foil was sliced with a razor at the tip of the triangle. The result was two very closely spaced contacts of gold. When the wedge was pushed down onto the surface of a crystal and voltage applied to the other side (on the base of the crystal), current started to flow from one contact to the other as the base voltage pushed the electrons away from the base towards the other side near the contacts. The point-contact transistor had been invented.
+While the device was constructed a week earlier, Brattain's notes describe the first demonstration to higher-ups at Bell Labs on the afternoon of 23 December 1947, often given as the birthdate of the transistor. What is now known as the "p–n–p point-contact germanium transistor" operated as a speech amplifier with a power gain of 18 in that trial. John Bardeen, Walter Houser Brattain, and William Bradford Shockley were awarded the 1956 Nobel Prize in physics for their work.
+
+
+=== Etymology of "transistor" ===
+Bell Telephone Laboratories needed a generic name for their new invention: "Semiconductor Triode", "Solid Triode", "Surface States Triode" [sic], "Crystal Triode" and "Iotatron" were all considered, but "transistor", coined by John R. Pierce, won an internal ballot. The rationale for the name is described in the following extract from the company's Technical Memoranda (May 28, 1948) [26] calling for votes:
+
+Transistor. This is an abbreviated combination of the words "transconductance" or "transfer", and "varistor". The device logically belongs in the varistor family, and has the transconductance or transfer impedance of a device having gain, so that this combination is descriptive.
+
+
+=== Improvements in transistor design ===
+Shockley was upset about the device being credited to Brattain and Bardeen, who he felt had built it "behind his back" to take the glory. Matters became worse when Bell Labs lawyers found that some of Shockley's own writings on the transistor were close enough to those of an earlier 1925 patent by Julius Edgar Lilienfeld that they thought it best that his name be left off the patent application.
+Shockley was incensed, and decided to demonstrate who was the real brains of the operation. A few months later he invented an entirely new, considerably more robust, type of transistor with a layer or 'sandwich' structure. This structure went on to be used for the vast majority of all transistors into the 1960s, and evolved into the bipolar junction transistor.
+With the fragility problems solved, a remaining problem was purity. Making germanium of the required purity was proving to be a serious problem, and limited the yield of transistors that actually worked from a given batch of material. Germanium's sensitivity to temperature also limited its usefulness. Scientists theorized that silicon would be easier to fabricate, but few investigated this possibility. Gordon K. Teal was the first to develop a working silicon transistor, and his company, the nascent Texas Instruments, profited from its technological edge. From the late 1960s most transistors were silicon-based. Within a few years transistor-based products, most notably easily portable radios, were appearing on the market.
+The static induction transistor, the first high frequency transistor, was invented by Japanese engineers Jun-ichi Nishizawa and Y. Watanabe in 1950. It was the fastest transistor through to the 1980s.A major improvement in manufacturing yield came when a chemist advised the companies fabricating semiconductors to use distilled rather than tap water: calcium ions present in tap water were the cause of the poor yields. "Zone melting", a technique using a band of molten material moving through the crystal, further increased crystal purity.
+
+
+=== Metal-oxide semiconductor ===
+
+In the 1950s, Mohamed Atalla investigated the surface properties of silicon semiconductors at Bell Labs, where he proposed a new method of semiconductor device fabrication, coating a silicon wafer with an insulating layer of silicon oxide so that electricity could reliably penetrate to the conducting silicon below, overcoming the surface states that prevented electricity from reaching the semiconducting layer. This is known as surface passivation, a method that became critical to the semiconductor industry as it made possible the mass-production of silicon integrated circuits (ICs). Building on his surface passivation method, he developed the metal oxide semiconductor (MOS) process, which he proposed could be used to build the first working silicon field-effect transistor (FET). The led to the invention of the MOSFET (MOS field-effect transistor) by Mohamed Atalla and Dawon Kahng in 1959. With its scalability, and much lower power consumption and higher density than bipolar junction transistors, the MOSFET became the most common type of transistor in computers, electronics, and communications technology such as smartphones. The US Patent and Trademark Office calls the MOSFET a "groundbreaking invention that transformed life and culture around the world".CMOS (complementary MOS) was invented by Chih-Tang Sah and Frank Wanlass at Fairchild Semiconductor in 1963. The first report of a floating-gate MOSFET was made by Dawon Kahng and Simon Sze in 1967. FinFET (fin field-effect transistor), a type of 3D multi-gate MOSFET, was developed by Digh Hisamoto and his team of researchers at Hitachi Central Research Laboratory in 1989.
+
+
+== See also ==
+
+Deep-level transient spectroscopy (DLTS)
+Integrated circuit
+Reliability (semiconductor)
+Semiconductor device fabrication
+VLSI
+
+
+== References ==
+

@@ -1,0 +1,2521 @@
+####### TITLE #######
+
+Complex number
+
+####### LINKS #######
+
+['(ε, δ)-definition of limit', 'AD', 'Abraham de Moivre', 'Absolute square', 'Absolute value', 'Addison-Wesley', 'Addition', 'Additive inverse', 'Aequationes Mathematicae', 'Affine transformation', 'Algebra (ring theory)', 'Algebra of physical space', 'Algebraic closure', 'Algebraic extension', 'Algebraic number', 'Algebraic number theory', 'Algebraic solution', 'Algebraic surface', 'Algebraically closed', 'Algebraically closed field', 'Alternating current', 'American Mathematical Monthly', 'Amplitude', 'Amplitude modulation', 'Analytic continuation', 'Analytic function', 'Analytic number theory', 'Analytic signal', 'Angle notation', 'Angular frequency', 'Applied mathematics', 'Arctan', 'Arg (mathematics)', 'Argand diagram', 'Argument (complex analysis)', 'Argumentum a fortiori', 'Associative law', 'Atan2', 'Augustin-Louis Cauchy', 'Automorphism', 'Axiom of choice', 'BIBO stability', 'Base (topology)', 'Bernhard Riemann', 'Bicomplex number', 'Bijective', 'Bioctonion', 'Biquaternion', 'Blackboard bold', 'Branch cut', 'C. V. Mourey', 'Capacitor', 'Cardinal number', 'Cardinality of the continuum', 'Carl Friedrich Gauss', 'Carl Gustav Jacob Jacobi', 'Cartesian plane', 'Cartography', 'Caspar Wessel', 'Casus irreducibilis', 'Cauchy–Riemann equations', 'Cayley–Dickson construction', 'Characteristic (algebra)', 'Circular motion', 'Cis (mathematics)', 'Codomain', 'Coefficient', 'Collinearity', 'Commutative algebra (structure)', 'Commutative law', 'Commutative property', 'Commutativity', 'Compass and straightedge constructions', 'Complex-base system', 'Complex analysis', 'Complex conjugate', 'Complex conjugation', 'Complex function', 'Complex geometry', 'Complex logarithm', 'Complex plane', 'Composite number', 'Composition algebra', 'Computable number', 'Congruence (geometry)', 'Conjugate transpose', 'Connected space', 'Constructible number', 'Continuity (topology)', 'Continuous function', 'Control theory', 'Convergent sequence', 'Convergent series', 'Copenhagen Academy', 'Coset', 'Cosine', 'Countable set', 'Cubic equation', 'Daniel Pedoe', 'Data compression', "De Moivre's formula", 'Definable real number', 'Denmark', 'Determinant', 'Difference equations', 'Differential equation', 'Digital data', 'Digital image processing', 'Digital signal processing', 'Distributive law', 'Distributive property', 'Diverge (stability theory)', 'Division algebra', 'Doi (identifier)', 'Domain coloring', 'Dover Publications', 'Dual-complex number', 'Dual number', 'Dual quaternion', 'Dyadic rational', 'Eigendecomposition of a matrix', 'Eigenvalue', 'Eisenstein integer', 'Electric circuit', 'Electric current', 'Electrical engineering', 'Electrical impedance', 'Electromagnetism', 'Electronics', 'Elementary function', 'Elements of Algebra', 'Ellipse', 'Encyclopedia of Mathematics', 'Encyclopædia Britannica Eleventh Edition', 'Equation', 'Essential singularity', 'Euclidean norm', 'Euclidean vector', 'Euclidean vector space', "Euler's formula", "Euler's identity", "Euler's number", 'European Mathematical Society', 'Exponential function', 'Exponentiation', 'Extended natural numbers', 'Felix Klein', "Fermat's theorem on sums of two squares", 'Field (mathematics)', 'Field theory (mathematics)', 'Finite decimal', 'Fluid dynamics', 'Focus (geometry)', 'Four dimensional space', 'Fourier analysis', 'Fourier transform', 'Fraction', 'Frequency', 'Frequency domain', 'Frustum', 'Functional equation', 'Fundamental theorem of algebra', 'Fuzzy number', 'G.H. Hardy', 'Galois theory', 'Gaussian integer', 'General relativity', 'Geometric algebra', 'Gerolamo Cardano', 'Giusto Bellavitis', 'Graph of a function of two variables', 'Hellenistic mathematics', 'Henri Poincaré', 'Hermann Schwarz', 'Hermitian matrix', 'Hero of Alexandria', 'Hilbert space', 'Holomorphic function', "Hurwitz's theorem (normed division algebras)", 'Hyperbolic functions', 'Hyperbolic quaternion', 'Hypercomplex number', 'Hyperreal number', 'Hypotenuse', 'ISBN (identifier)', 'ISSN (identifier)', 'Ideal (ring theory)', 'If and only if', 'Imaginary number', 'Imaginary unit', 'Improper integral', 'Inductor', 'Infinite series', 'Infinite set', 'Integer', 'Interval (mathematics)', 'Inverse function', 'Inversive geometry', 'Involution (mathematics)', 'Irrational number', 'Irreducible polynomial', 'Isomorphic', 'Isomorphism', 'Iteration', 'Jacques Frédéric Français', 'Jean-Robert Argand', "Jean le Rond d'Alembert", 'John Derbyshire', 'John Wallis', 'John Warren (mathematician)', 'John Wiley & Sons', 'Journal of Online Mathematics and Its Applications', 'Julia set', 'Karl Weierstrass', 'Laplace transform', 'Lars Ahlfors', 'Leonhard Euler', 'Levi-Civita field', 'Lie algebra', 'Line (geometry)', 'Linear combination', 'Linear complex structure', 'Linear differential equation', 'Linear ordering', 'Linear representation', 'Linear transformation', "Liouville's theorem (complex analysis)", 'List of types of numbers', 'Local field', 'Locally compact', 'MR (identifier)', 'Machin-like formulas', 'Mandelbrot set', "Marden's theorem", 'Marginal stability', 'Mathematical analysis', 'Mathematical formulations of quantum mechanics', 'Mathematical sciences', 'Mathematician', 'Mathematics', 'Matrix (mathematics)', 'Matrix exponential', 'Matrix mechanics', 'Maximal ideal', 'Maximum power transfer theorem', 'McGraw-Hill', 'Meromorphic function', 'Methods of contour integration', 'Metric (mathematics)', 'Metric space', 'Minuend', 'Multicomplex number', 'Multiplicative inverse', 'Multivalued function', 'Natural logarithm', 'Natural number', 'Negative integer', 'Negative number', 'Negative numbers', 'Neighborhood (topology)', 'Network analysis (electrical circuits)', 'Niccolò Fontana Tartaglia', 'Nichols plot', 'Nicolas Bourbaki', 'Niels Henrik Abel', 'Nonagon', 'Nonminimum phase', 'Normal number', 'Normed division algebra', 'Norway', 'Nth root', 'Number', 'Number field', 'Number system', 'Number theory', 'Nyquist plot', 'OCLC (identifier)', 'Octonion', 'One', 'Open subset', 'Ordered field', 'Ordered pair', 'Ordinal number', 'Orientation (geometry)', 'Origin (mathematics)', 'Orthogonal matrix', "Ostrowski's theorem", 'Otto Hölder', 'Oxford University Press', 'P-adic number', 'Parallelogram', 'Period (algebraic geometry)', 'Phase (waves)', 'Phasor', 'Phasor (sine waves)', 'Pi', 'Polar coordinate system', 'Polar decomposition', 'Polar form', 'Polynomial', 'Polynomial equation', 'Polynomial ring', 'Positive real axis', 'Potential flow in two dimensions', 'Power series', 'Prime field', 'Prime number', 'Prime number theorem', 'Princeton University Press', 'Principal value', 'Puiseux series', 'Pyramid', "Pythagoras' theorem", 'Quantum field theory', 'Quantum mechanics', 'Quartic equation', 'Quaternion', 'Quaternions', 'Quotient ring', 'Radian', 'Radius', 'Radius of convergence', 'Rafael Bombelli', 'Rational number', 'Rational root test', 'Rationalisation (mathematics)', 'Real analysis', 'Real line', 'Real number', 'Real numbers', 'Real vector space', 'Reflection symmetry', 'Regular representation', 'René Descartes', 'Repeating decimal', 'Resistor', 'Richard Dedekind', 'Riemann sphere', 'Riemann zeta function', 'Right angle', 'Ring (mathematics)', 'Ring isomorphism', 'Roger Penrose', 'Root locus', 'Root of a function', 'Root of unity', 'Rotation (mathematics)', 'Rotation matrix', 'S2CID (identifier)', 'Schrödinger equation', 'Sedenion', 'Set (mathematics)', 'Shape', 'Sign function', 'Signal analysis', 'Signal processing', 'Similarity (geometry)', 'Sine', 'Sine wave', 'Solenoid (mathematics)', 'Sound', 'Spacetime', 'Spacetime algebra', 'Special relativity', 'Spinor', 'Split-biquaternion', 'Split-complex number', 'Split-octonion', 'Split-quaternion', 'Square matrix', 'Square root', 'Square root of 2', 'Standard basis', 'Steiner inellipse', 'Subring', 'Subtraction', 'Subtrahend', 'Supernatural number', 'Superreal number', 'Surreal number', 'Symmetric matrix', 'Tangent (function)', 'Tensor', 'Time domain', 'Tom Apostol', 'Topological ring', 'Topological space', 'Topology', 'Total order', 'Transcendence degree', 'Transcendental number', 'Translation (geometry)', 'Transpose', 'Triangle', 'Triangle inequality', 'Trigonometric functions', 'Trigonometric identities', 'Turn (geometry)', 'Unary operation', 'Unit circle', 'Unit complex number', 'Unitary matrix', 'Unstable', 'Vector (geometric)', 'Vector space', 'Vibration', 'Video', 'Voltage', 'Wavelet', 'Wayback Machine', 'Wick rotation', 'Wikisource', 'Wilhelm Wirtinger', 'William Rowan Hamilton', 'Winding number', 'Zero', 'Zeros and poles']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles with unsourced statements', 'Articles needing additional references from July 2022', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with LNB identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Articles with unsourced statements from April 2011', 'CS1 Danish-language sources (da)', 'CS1 French-language sources (fr)', 'CS1 German-language sources (de)', 'CS1 Latin-language sources (la)', 'CS1 maint: unfit URL', 'Commons category link is on Wikidata', 'Complex numbers', 'Composition algebras', 'Pages that use a deprecated format of the math tags', 'Short description is different from Wikidata', 'Use dmy dates from June 2020', 'Webarchive template wayback links']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/5/50/A_plus_bi.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/04/Cayley_Q8_quaternion_multiplication_graph.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/e9/Complex-plot.png', 'https://upload.wikimedia.org/wikipedia/commons/6/69/Complex_conjugate_picture.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/91/Complex_multi.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/af/Complex_number_illustration.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/7a/Complex_number_illustration_modarg.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/74/Illustration_of_a_complex_number.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/56/Mandelset_hires.png', 'https://upload.wikimedia.org/wikipedia/commons/7/76/Pentagon_construct.gif', 'https://upload.wikimedia.org/wikipedia/commons/e/e7/Sin1z-cplot.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3d/Vector_Addition.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Visualisation_complex_number_roots.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Wikibooks-logo-en-noslogan.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Wikiversity_logo_2017.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg', 'https://upload.wikimedia.org/wikipedia/en/d/db/Symbol_list_class.svg']
+
+####### REFERENCES #######
+
+['http://www.math.sfu.ca/~cbm/aands/page_17.htm', 'http://scholar.google.com/scholar?q=%22Complex+number%22', 'http://www.google.com/search?&q=%22Complex+number%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Complex+number%22', 'http://www.google.com/search?tbm=nws&q=%22Complex+number%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Complex+number%22+-wikipedia', 'http://apps.nrbook.com/empanel/index.html?pg=225', 'http://www.bibnum.education.fr/mathematiques/geometrie/essai-sur-une-maniere-de-representer-des-quantites-imaginaires-dans-les-cons', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007538749605171', 'http://www.ams.org/mathscinet-getitem?mr=1477154', 'http://doi.org/10.1007%2FBF01818325', 'http://doi.org/10.1080%2F00029890.2008.11920532', 'http://doi.org/10.1098%2Frstl.1806.0003', 'http://doi.org/10.1098%2Frstl.1829.0022', 'http://doi.org/10.1098%2Frstl.1829.0031', 'http://mathdl.maa.org/mathDL/22/?pa=content&sa=viewDocument&nodeId=3338&pf=1', 'http://mathdl.maa.org/mathDL/4/?pa=content&sa=viewDocument&nodeId=1663', 'http://mathforum.org/kb/thread.jspa?forumID=149&threadID=383188&messageID=1181284', 'http://upload.wikimedia.org/wikipedia/commons/0/04/Cayley_Q8_quaternion_multiplication_graph.svg', 'http://worldcat.org/oclc/1080410598', 'http://www.worldcat.org/issn/0002-9890', 'http://www.worldcat.org/oclc/1080410598', 'https://books.google.com/books?id=754KAAAAYAAJ&pg=PA71', 'https://books.google.com/books?id=MtU8uP7XMvoC', 'https://books.google.com/books?id=VWTNCwAAQBAJ&pg=PA73', 'https://books.google.com/books?id=g3VaAAAAcAAJ&pg=PP1#v=onepage&q&f=fals', 'https://books.google.com/books?id=g5j-cT-vg_wC&pg=PA66', 'https://books.google.com/books?id=jQ1bAAAAQAAJ&pg=PA104', 'https://books.google.com/books?id=lUcTsYopfhkC', 'https://books.google.com/books?id=lUcTsYopfhkC&pg=PA59', 'https://books.google.com/books?id=rFhiJqkrALIC&pg=PA14', 'https://books.google.com/books?id=rykSDAAAQBAJ&pg=PA313', 'https://books.google.com/books?id=sxmM8RFL99wC&pg=PA338', 'https://books.google.com/books?id=voFsJ1EhCnYC', 'https://books.google.com/books?id=voFsJ1EhCnYC&pg=PA139', 'https://mathworld.wolfram.com/ComplexNumber.html', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph121761&CON_LNG=ENG', 'https://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/library/H3GRV5AU/pageimg&start=291&mode=imagepath&pn=291', 'https://catalogue.bnf.fr/ark:/12148/cb11981946j', 'https://data.bnf.fr/ark:/12148/cb11981946j', 'https://id.loc.gov/authorities/subjects/sh85093211', 'https://d-nb.info/gnd/4128698-4', 'https://id.ndl.go.jp/auth/ndlna/00563643', 'https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000082623&P_CON_LNG=ENG', 'https://mathscinet.ams.org/mathscinet-getitem?mr=2014924', 'https://archive.org/details/bub_gb_8YxKAAAAYAAJ', 'https://archive.org/details/collegealgebrawi00axle', 'https://archive.org/details/collegealgebrawi00axle/page/n285', 'https://archive.org/details/coursdanalysede00caucgoog/page/n209/mode/2up', 'https://archive.org/details/geometryofrenede00rend', 'https://archive.org/details/isbn_9780309096577', 'https://archive.org/details/roadtorealitycom00penr_0', 'https://archive.org/details/treatiseongeomet00warrrich', 'https://web.archive.org/web/19991003034827/http://members.aol.com/jeff570/m.html', 'https://web.archive.org/web/20090910094533/http://www.math.sfu.ca/~cbm/aands/page_17.htm', 'https://web.archive.org/web/20120208014954/http://mathdl.maa.org/mathDL/4/?pa=content&sa=viewDocument&nodeId=1663', 'https://web.archive.org/web/20120308104622/http://mathdl.maa.org/mathDL/22/?pa=content&sa=viewDocument&nodeId=3338&pf=1', 'https://web.archive.org/web/20121012090553/http://mathforum.org/kb/thread.jspa?forumID=149&threadID=383188&messageID=1181284', 'https://web.archive.org/web/20160423180235/https://books.google.com/books?id=MtU8uP7XMvoC', 'https://web.archive.org/web/20160423183239/https://books.google.com/books?id=lUcTsYopfhkC&pg=PA59', 'https://web.archive.org/web/20160424023007/https://books.google.com/books?id=lUcTsYopfhkC', 'https://www.encyclopediaofmath.org/index.php?title=Complex_number', 'https://babel.hathitrust.org/cgi/pt?id=ien.35556000979690&view=1up&seq=527', 'https://babel.hathitrust.org/cgi/pt?id=mdp.39015073697180&view=1up&seq=292', 'https://babel.hathitrust.org/cgi/pt?id=njp.32101040410779&view=1up&seq=454', 'https://babel.hathitrust.org/cgi/pt?id=uc1.$c126478&view=1up&seq=69', 'https://babel.hathitrust.org/cgi/pt?id=uc1.$c126479&view=1up&seq=209', 'https://www.jstor.org/action/doBasicSearch?Query=%22Complex+number%22&acc=on&wc=on', 'https://projecteuclid.org/euclid.lnl/1235423155', 'https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1806.0003', 'https://api.semanticscholar.org/CorpusID:110394048', 'https://api.semanticscholar.org/CorpusID:121095307', 'https://api.semanticscholar.org/CorpusID:125699726', 'https://api.semanticscholar.org/CorpusID:13222698', 'https://api.semanticscholar.org/CorpusID:186211638', 'https://www.wikidata.org/wiki/Q11567#identifiers', 'https://mathshistory.st-andrews.ac.uk/Biographies/Buee/']
+
+####### SUMMARY #######
+
+In mathematics, a complex number is an element of a number system that extends the real numbers with a specific element denoted i, called the imaginary unit and satisfying the equation i2 = −1; every complex number can be expressed in the form a + bi, where a and b are real numbers. Because no real number satisfies the above equation, i was called an imaginary number by René Descartes. For the complex number a + bi, a is called the real part and b is called the imaginary part. The set of complex numbers is denoted by either of the symbols 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   or C. Despite the historical nomenclature "imaginary", complex numbers are regarded in the mathematical sciences as just as "real" as the real numbers and are fundamental in many aspects of the scientific description of the natural world.Complex numbers allow solutions to all polynomial equations, even those that have no solutions in real numbers. More precisely, the fundamental theorem of algebra asserts that every non-constant polynomial equation with real or complex coefficients has a solution which is a complex number. For example, the equation
+
+  
+    
+      
+        (
+        x
+        +
+        1
+        
+          )
+          
+            2
+          
+        
+        =
+        −
+        9
+      
+    
+    {\displaystyle (x+1)^{2}=-9}
+  
+has no real solution, since the square of a real number cannot be negative, but has the two nonreal complex solutions −1 + 3i and −1 − 3i.
+Addition, subtraction and multiplication of complex numbers can be naturally defined by using the rule i2 = −1 combined with the associative, commutative and distributive laws. Every nonzero complex number has a multiplicative inverse. This makes the complex numbers a field that has the real numbers as a subfield. The complex numbers also form a real vector space of dimension two, with {1, i} as a standard basis.
+This standard basis makes the complex numbers a Cartesian plane, called the complex plane. This allows a geometric interpretation of the complex numbers and their operations, and conversely expressing in terms of complex numbers some geometric properties and constructions. For example, the real numbers form the real line which is identified to the horizontal axis of the complex plane. The complex numbers of absolute value one form the unit circle. The addition of a complex number is a translation in the complex plane, and the multiplication by a complex number is a similarity centered at the origin. The complex conjugation is the reflection symmetry with respect to the real axis. The complex absolute value is a Euclidean norm.
+In summary, the complex numbers form a rich structure that is simultaneously an algebraically closed field, a commutative algebra over the reals, and a Euclidean vector space of dimension two.
+
+####### CONTENT #######
+
+In mathematics, a complex number is an element of a number system that extends the real numbers with a specific element denoted i, called the imaginary unit and satisfying the equation i2 = −1; every complex number can be expressed in the form a + bi, where a and b are real numbers. Because no real number satisfies the above equation, i was called an imaginary number by René Descartes. For the complex number a + bi, a is called the real part and b is called the imaginary part. The set of complex numbers is denoted by either of the symbols 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   or C. Despite the historical nomenclature "imaginary", complex numbers are regarded in the mathematical sciences as just as "real" as the real numbers and are fundamental in many aspects of the scientific description of the natural world.Complex numbers allow solutions to all polynomial equations, even those that have no solutions in real numbers. More precisely, the fundamental theorem of algebra asserts that every non-constant polynomial equation with real or complex coefficients has a solution which is a complex number. For example, the equation
+
+  
+    
+      
+        (
+        x
+        +
+        1
+        
+          )
+          
+            2
+          
+        
+        =
+        −
+        9
+      
+    
+    {\displaystyle (x+1)^{2}=-9}
+  
+has no real solution, since the square of a real number cannot be negative, but has the two nonreal complex solutions −1 + 3i and −1 − 3i.
+Addition, subtraction and multiplication of complex numbers can be naturally defined by using the rule i2 = −1 combined with the associative, commutative and distributive laws. Every nonzero complex number has a multiplicative inverse. This makes the complex numbers a field that has the real numbers as a subfield. The complex numbers also form a real vector space of dimension two, with {1, i} as a standard basis.
+This standard basis makes the complex numbers a Cartesian plane, called the complex plane. This allows a geometric interpretation of the complex numbers and their operations, and conversely expressing in terms of complex numbers some geometric properties and constructions. For example, the real numbers form the real line which is identified to the horizontal axis of the complex plane. The complex numbers of absolute value one form the unit circle. The addition of a complex number is a translation in the complex plane, and the multiplication by a complex number is a similarity centered at the origin. The complex conjugation is the reflection symmetry with respect to the real axis. The complex absolute value is a Euclidean norm.
+In summary, the complex numbers form a rich structure that is simultaneously an algebraically closed field, a commutative algebra over the reals, and a Euclidean vector space of dimension two.
+
+
+== Definition ==
+
+A complex number is a number of the form a + bi, where a and b are real numbers, and i is an indeterminate satisfying i2 = −1. For example, 2 + 3i is a complex number.This way, a complex number is defined as a polynomial with real coefficients in the single indeterminate i, for which the relation i2 + 1 = 0 is imposed. Based on this definition, complex numbers can be added and multiplied, using the addition and multiplication for polynomials. The relation i2 + 1 = 0 induces the equalities i4k = 1, i4k+1 = i, i4k+2 = −1, and i4k+3 = −i, which hold for all integers k; these allow the reduction of any polynomial that results from the addition and multiplication of complex numbers to a linear polynomial in i, again of the form a + bi with real coefficients a, b.
+The real number a is called the real part of the complex number a + bi; the real number b is called its imaginary part. To emphasize, the imaginary part does not include a factor i; that is, the imaginary part is b, not bi.Formally, the complex numbers are defined as the quotient ring of the polynomial ring in the indeterminate i, by the ideal generated by the polynomial i2 + 1 (see below).
+
+
+== Notation ==
+A real number a can be regarded as a complex number a + 0i, whose imaginary part is 0. A purely imaginary number bi is a complex number 0 + bi, whose real part is zero. As with polynomials, it is common to write a for a + 0i and bi for 0 + bi. Moreover, when the imaginary part is negative, that is, b = −|b| < 0, it is common to write a − |b|i instead of a + (−|b|)i; for example, for b = −4, 3 − 4i can be written instead of 3 + (−4)i.
+Since the multiplication of the indeterminate i and a real is commutative in polynomials with real coefficients, the polynomial a + bi may be written as a + ib. This is often expedient for imaginary parts denoted by expressions, for example, when b is a radical.The real part of a complex number z is denoted by Re(z), 
+  
+    
+      
+        
+          
+            R
+            e
+          
+        
+        (
+        z
+        )
+      
+    
+    {\displaystyle {\mathcal {Re}}(z)}
+  , or 
+  
+    
+      
+        
+          
+            R
+          
+        
+        (
+        z
+        )
+      
+    
+    {\displaystyle {\mathfrak {R}}(z)}
+  ; the imaginary part of a complex number z is denoted by Im(z), 
+  
+    
+      
+        
+          
+            I
+            m
+          
+        
+        (
+        z
+        )
+      
+    
+    {\displaystyle {\mathcal {Im}}(z)}
+  , or 
+  
+    
+      
+        
+          
+            I
+          
+        
+        (
+        z
+        )
+        .
+      
+    
+    {\displaystyle {\mathfrak {I}}(z).}
+   For example,
+
+The set of all complex numbers is denoted by 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   (blackboard bold) or C (upright bold).
+In some disciplines, particularly in electromagnetism and electrical engineering, j is used instead of i as i is frequently used to represent electric current. In these cases, complex numbers are written as a + bj, or a + jb.
+
+
+== Visualization ==
+
+A complex number z can thus be identified with an ordered pair 
+  
+    
+      
+        (
+        ℜ
+        (
+        z
+        )
+        ,
+        ℑ
+        (
+        z
+        )
+        )
+      
+    
+    {\displaystyle (\Re (z),\Im (z))}
+   of real numbers, which in turn may be interpreted as coordinates of a point in a two-dimensional space. The most immediate space is the Euclidean plane with suitable coordinates, which is then called complex plane or Argand diagram, named after Jean-Robert Argand. Another prominent space on which the coordinates may be projected is the two-dimensional surface of a sphere, which is then called Riemann sphere.
+
+
+=== Cartesian complex plane ===
+The definition of the complex numbers involving two arbitrary real values immediately suggests the use of Cartesian coordinates in the complex plane. The horizontal (real) axis is generally used to display the real part, with increasing values to the right, and the imaginary part marks the vertical (imaginary) axis, with increasing values upwards.
+A charted number may be viewed either as the coordinatized point or as a position vector from the origin to this point. The coordinate values of a complex number z can hence be expressed in its Cartesian, rectangular, or algebraic form.
+Notably, the operations of addition and multiplication take on a very natural geometric character, when complex numbers are viewed as position vectors: addition corresponds to vector addition, while multiplication (see below) corresponds to multiplying their magnitudes and adding the angles they make with the real axis. Viewed in this way, the multiplication of a complex number by i corresponds to rotating the position vector counterclockwise by a quarter turn (90°) about the origin—a fact which can be expressed algebraically as follows:
+
+
+=== Polar complex plane ===
+
+
+==== Modulus and argument ====
+An alternative option for coordinates in the complex plane is the polar coordinate system that uses the distance of the point z from the origin (O), and the angle subtended between the positive real axis and the line segment Oz in a counterclockwise sense. This leads to the polar form 
+
+  
+    
+      
+        z
+        =
+        r
+        
+          e
+          
+            i
+            φ
+          
+        
+        =
+        r
+        (
+        cos
+        ⁡
+        φ
+        +
+        i
+        sin
+        ⁡
+        φ
+        )
+      
+    
+    {\displaystyle z=re^{i\varphi }=r(\cos \varphi +i\sin \varphi )}
+  of a complex number, where r is the absolute value of z, and 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   is the argument of z.
+The absolute value (or modulus or magnitude) of a complex number z = x + yi is
+If z is a real number (that is, if y = 0), then r = |x|. That is, the absolute value of a real number equals its absolute value as a complex number.
+By Pythagoras' theorem, the absolute value of a complex number is the distance to the origin of the point representing the complex number in the complex plane.
+The argument of z (in many applications referred to as the "phase" φ) is the angle of the radius Oz with the positive real axis, and is written as arg z. As with the modulus, the argument can be found from the rectangular form x + yi—by applying the inverse tangent to the quotient of imaginary-by-real parts. By using a half-angle identity, a single branch of the arctan suffices to cover the range (−π, π] of the arg-function, and avoids a more subtle case-by-case analysis
+
+Normally, as given above, the principal value in the interval (−π, π] is chosen. If the arg value is negative, values in the range (−π, π] or [0, 2π) can be obtained by adding 2π. The value of φ is expressed in radians in this article. It can increase by any integer multiple of 2π and still give the same angle, viewed as subtended by the rays of the positive real axis and from the origin through z. Hence, the arg function is sometimes considered as multivalued. The polar angle for the complex number 0 is indeterminate, but arbitrary choice of the polar angle 0 is common.
+The value of φ equals the result of atan2:
+
+Together, r and φ give another way of representing complex numbers, the polar form, as the combination of modulus and argument fully specify the position of a point on the plane. Recovering the original rectangular co-ordinates from the polar form is done by the formula called trigonometric form
+
+Using Euler's formula this can be written as
+
+Using the cis function, this is sometimes abbreviated to
+
+In angle notation, often used in electronics to represent a phasor with amplitude r and phase φ, it is written as
+
+
+=== Complex graphs ===
+
+When visualizing complex functions, both a complex input and output are needed. Because each complex number is represented in two dimensions, visually graphing a complex function would require the perception of a four dimensional space, which is possible only in projections. Because of this, other ways of visualizing complex functions have been designed.
+In domain coloring the output dimensions are represented by color and brightness, respectively. Each point in the complex plane as domain is ornated, typically with color representing the argument of the complex number, and brightness representing the magnitude. Dark spots mark moduli near zero, brighter spots are farther away from the origin, the gradation may be discontinuous, but is assumed as monotonous. The colors often vary in steps of π/3 for 0 to 2π from red, yellow, green, cyan, blue, to magenta. These plots are called color wheel graphs. This provides a simple way to visualize the functions without losing information. The picture shows zeros for ±1, (2 + i) and poles at 
+  
+    
+      
+        ±
+        
+          
+            −
+            2
+            −
+            2
+            i
+          
+        
+        .
+      
+    
+    {\displaystyle \pm {\sqrt {-2-2i}}.}
+  
+
+
+== History ==
+
+The solution in radicals (without trigonometric functions) of a general cubic equation, when all three of its roots are real numbers, contains the square roots of negative numbers, a situation that cannot be rectified by factoring aided by the rational root test, if the cubic is irreducible; this is the so-called  casus irreducibilis ("irreducible case"). This conundrum led Italian mathematician Gerolamo Cardano to conceive of complex numbers in around 1545 in his Ars Magna, though his understanding was rudimentary; moreover he later dismissed complex numbers as "subtle as they are useless".Work on the problem of general polynomials ultimately led to the fundamental theorem of algebra, which shows that with complex numbers, a solution exists to every polynomial equation of degree one or higher. Complex numbers thus form an algebraically closed field, where any polynomial equation has a root.
+Many mathematicians contributed to the development of complex numbers. The rules for addition, subtraction, multiplication, and root extraction of complex numbers were developed by the Italian mathematician Rafael Bombelli. A more abstract formalism for the complex numbers was further developed by the Irish mathematician William Rowan Hamilton, who extended this abstraction to the theory of quaternions.The earliest fleeting reference to square roots of negative numbers can perhaps be said to occur in the work of the Greek mathematician Hero of Alexandria in the 1st century AD, where in his Stereometrica he considered, apparently in error, the volume of an impossible frustum of a pyramid to arrive at the term 
+  
+    
+      
+        
+          
+            81
+            −
+            144
+          
+        
+      
+    
+    {\displaystyle {\sqrt {81-144}}}
+   in his calculations, which today would simplify to  
+  
+    
+      
+        
+          
+            −
+            63
+          
+        
+        =
+        3
+        i
+        
+          
+            7
+          
+        
+      
+    
+    {\displaystyle {\sqrt {-63}}=3i{\sqrt {7}}}
+  . Negative quantities were not conceived of in Hellenistic mathematics and Hero merely replaced it by its positive 
+  
+    
+      
+        
+          
+            144
+            −
+            81
+          
+        
+        =
+        3
+        
+          
+            7
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt {144-81}}=3{\sqrt {7}}.}
+  The impetus to study complex numbers as a topic in itself first arose in the 16th century when algebraic solutions for the roots of cubic and quartic polynomials were discovered by Italian mathematicians (see Niccolò Fontana Tartaglia, Gerolamo Cardano). It was soon realized (but proved much later) that these formulas, even if one was interested only in real solutions, sometimes required the manipulation of square roots of negative numbers. As an example, Tartaglia's formula for a cubic equation of the form x3 = px + q gives the solution to the equation x3 = x as
+
+At first glance this looks like nonsense. However, formal calculations with complex numbers show that the equation z3 = i has three solutions: 
+  
+    
+      
+        −
+        i
+        ,
+        
+          
+            
+              
+                
+                  3
+                
+              
+              +
+              i
+            
+            2
+          
+        
+        ,
+        
+          
+            
+              −
+              
+                
+                  3
+                
+              
+              +
+              i
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle -i,{\frac {{\sqrt {3}}+i}{2}},{\frac {-{\sqrt {3}}+i}{2}}.}
+   Substituting these in turn for 
+  
+    
+      
+        
+          
+            
+              −
+              1
+            
+          
+          
+            1
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle {\sqrt {-1}}^{1/3}}
+   in Tartaglia's cubic formula and simplifying, one gets 0, 1 and −1 as the solutions of x3 − x = 0. Of course this particular equation can be solved at sight but it does illustrate that when general formulas are used to solve cubic equations with real roots then, as later mathematicians showed rigorously, the use of complex numbers is unavoidable. Rafael Bombelli was the first to address explicitly these seemingly paradoxical solutions of cubic equations and developed the rules for complex arithmetic trying to resolve these issues.
+The term "imaginary" for these quantities was coined by René Descartes in 1637, who was at pains to stress their unreal nature
+... sometimes only imaginary, that is one can imagine as many as I said in each equation, but sometimes there exists no quantity that matches that which we imagine.
+[... quelquefois seulement imaginaires c'est-à-dire que l'on peut toujours en imaginer autant que j'ai dit en chaque équation, mais qu'il n'y a quelquefois aucune quantité qui corresponde à celle qu'on imagine.]
+A further source of confusion was that the equation 
+  
+    
+      
+        
+          
+            
+              −
+              1
+            
+          
+          
+            2
+          
+        
+        =
+        
+          
+            −
+            1
+          
+        
+        
+          
+            −
+            1
+          
+        
+        =
+        −
+        1
+      
+    
+    {\displaystyle {\sqrt {-1}}^{2}={\sqrt {-1}}{\sqrt {-1}}=-1}
+   seemed to be capriciously inconsistent with the algebraic identity 
+  
+    
+      
+        
+          
+            a
+          
+        
+        
+          
+            b
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\sqrt {a}}{\sqrt {b}}={\sqrt {ab}}}
+  , which is valid for non-negative real numbers a and b, and which was also used in complex number calculations with one of a, b positive and the other negative. The incorrect use of this identity (and the related identity 
+  
+    
+      
+        
+          
+            1
+            
+              a
+            
+          
+        
+        =
+        
+          
+            
+              1
+              a
+            
+          
+        
+      
+    
+    {\textstyle {\frac {1}{\sqrt {a}}}={\sqrt {\frac {1}{a}}}}
+  ) in the case when both a and b are negative even bedeviled Leonhard Euler. This difficulty eventually led to the convention of using the special symbol i in place of 
+  
+    
+      
+        
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\sqrt {-1}}}
+   to guard against this mistake. Even so, Euler considered it natural to introduce students to complex numbers much earlier than we do today. In his elementary algebra text book, Elements of Algebra, he introduces these numbers almost at once and then uses them in a natural way throughout.
+In the 18th century complex numbers gained wider use, as it was noticed that formal manipulation of complex expressions could be used to simplify calculations involving trigonometric functions. For instance, in 1730 Abraham de Moivre noted that the complicated identities relating trigonometric functions of an integer multiple of an angle to powers of trigonometric functions of that angle could be simply re-expressed by the following well-known formula which bears his name, de Moivre's formula:
+
+In 1748, Euler went further and obtained Euler's formula of complex analysis:
+by formally manipulating complex power series and observed that this formula could be used to reduce any trigonometric identity to much simpler exponential identities.
+The idea of a complex number as a point in the complex plane (above) was first described by Danish–Norwegian mathematician Caspar Wessel in 1799, although it had been anticipated as early as 1685 in Wallis's A Treatise of Algebra.Wessel's memoir appeared in the Proceedings of the Copenhagen Academy but went largely unnoticed. In 1806 Jean-Robert Argand independently issued a pamphlet on complex numbers and provided a rigorous proof of the fundamental theorem of algebra. Carl Friedrich Gauss had earlier published an essentially topological proof of the theorem in 1797 but expressed his doubts at the time about "the true metaphysics of the square root of −1". It was not until 1831 that he overcame these doubts and published his treatise on complex numbers as points in the plane, largely establishing modern notation and terminology:
+If one formerly contemplated this subject from a false point of view and therefore found a mysterious darkness, this is in large part attributable to clumsy terminology. Had one not called +1, -1, 
+  
+    
+      
+        
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\sqrt {-1}}}
+   positive, negative, or imaginary (or even impossible) units, but instead, say, direct, inverse, or lateral units, then there could scarcely have been talk of such darkness.
+In the beginning of the 19th century, other mathematicians discovered independently the geometrical representation of the complex numbers: Buée, Mourey, Warren, Français and his brother, Bellavitis.The English mathematician G.H. Hardy remarked that Gauss was the first mathematician to use complex numbers in 'a really confident and scientific way' although mathematicians such as Norwegian Niels Henrik Abel and Carl Gustav Jacob Jacobi were necessarily using them routinely before Gauss published his 1831 treatise.Augustin-Louis Cauchy and Bernhard Riemann together brought the fundamental ideas of complex analysis to a high state of completion, commencing around 1825 in Cauchy's case.
+The common terms used in the theory are chiefly due to the founders. Argand called cos φ + i sin φ the direction factor, and 
+  
+    
+      
+        r
+        =
+        
+          
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle r={\sqrt {a^{2}+b^{2}}}}
+   the modulus; Cauchy (1821) called cos φ + i sin φ the reduced form (l'expression réduite) and apparently introduced the term argument; Gauss used i for 
+  
+    
+      
+        
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\sqrt {-1}}}
+  , introduced the term complex number for a + bi, and called a2 + b2 the norm. The expression direction coefficient, often used for cos φ + i sin φ, is due to Hankel (1867), and absolute value, for modulus, is due to Weierstrass.
+Later classical writers on the general theory include Richard Dedekind, Otto Hölder, Felix Klein, Henri Poincaré, Hermann Schwarz, Karl Weierstrass and many others. Important work (including a systematization) in complex multivariate calculus has been started at beginning of the 20th century. Important results have been achieved by Wilhelm Wirtinger in 1927.
+
+
+== Relations and operations ==
+
+
+=== Equality ===
+Complex numbers have a similar definition of equality to real numbers; two complex numbers a1 + b1i and a2 + b2i are equal if and only if both their real and imaginary parts are equal, that is, if a1 = a2 and b1 = b2. Nonzero complex numbers written in polar form are equal if and only if they have the same magnitude and their arguments differ by an integer multiple of 2π.
+
+
+=== Ordering ===
+Unlike the real numbers, there is no natural ordering of the complex numbers. In particular, there is no linear ordering on the complex numbers that is compatible with addition and multiplication. Hence, the complex numbers do not have the structure of an ordered field. One explanation for this is that every non-trivial sum of squares in an ordered field is nonzero, and i2 + 12 = 0 is a non-trivial sum of squares. Thus, complex numbers are naturally thought of as existing on a two-dimensional plane.
+
+
+=== Conjugate ===
+
+The complex conjugate of the complex number z = x + yi is given by x − yi. It is denoted by either z or z*. This unary operation on complex numbers cannot be expressed by applying only their basic operations addition, subtraction, multiplication and division.
+Geometrically, z is the "reflection" of z about the real axis. Conjugating twice gives the original complex number
+
+which makes this operation an involution. The reflection leaves both the real part and the magnitude of z unchanged, that is
+ and 
+  
+    
+      
+        
+        
+          |
+        
+        
+          
+            z
+            ¯
+          
+        
+        
+          |
+        
+        =
+        
+          |
+        
+        z
+        
+          |
+        
+        .
+      
+    
+    {\displaystyle \quad |{\overline {z}}|=|z|.}
+  
+The imaginary part and the argument of a complex number z change their sign under conjugation
+
+For details on argument and magnitude, see the section on Polar form.
+The product of a complex number z = x + yi and its conjugate is known as the absolute square. It is always a non-negative real number and equals the square of the magnitude of each:
+
+This property can be used to convert a fraction with a complex denominator to an equivalent fraction with a real denominator by expanding both numerator and denominator of the fraction by the conjugate of the given denominator. This process is sometimes called "rationalization" of the denominator (although the denominator in the final expression might be an irrational real number), because it resembles the method to remove roots from simple expressions in a denominator.
+The real and imaginary parts of a complex number z can be extracted using the conjugation:
+
+Moreover, a complex number is real if and only if it equals its own conjugate.
+Conjugation distributes over the basic complex arithmetic operations:
+
+Conjugation is also employed in inversive geometry, a branch of geometry studying reflections more general than ones about a line. In the network analysis of electrical circuits, the complex conjugate is used in finding the equivalent impedance when the maximum power transfer theorem is looked for.
+
+
+=== Addition and subtraction ===
+
+Two complex numbers 
+  
+    
+      
+        a
+        =
+        x
+        +
+        y
+        i
+      
+    
+    {\displaystyle a=x+yi}
+   and 
+  
+    
+      
+        b
+        =
+        u
+        +
+        v
+        i
+      
+    
+    {\displaystyle b=u+vi}
+   are most easily added by separately adding their real and imaginary parts. That is to say:
+
+Similarly, subtraction can be performed as
+
+Multiplication of a complex number 
+  
+    
+      
+        a
+        =
+        x
+        +
+        y
+        i
+      
+    
+    {\displaystyle a=x+yi}
+   and a real number r can be done similarly by multiplying separately r and the real and imaginary parts of a:
+
+In particular, subtraction can be done by negating the subtrahend (that is multiplying it with –1) and adding the result to the minuend:
+
+Using the visualization of complex numbers in the complex plane, addition has the following geometric interpretation: the sum of two complex numbers a and b, interpreted as points in the complex plane, is the point obtained by building a parallelogram from the three vertices O, and the points of the arrows labeled a and b (provided that they are not on a line). Equivalently, calling these points A, B, respectively and the fourth point of the parallelogram X the triangles OAB and XBA are congruent.
+
+
+=== Multiplication and square ===
+The rules of  the distributive property, the commutative properties (of addition and multiplication), and the defining property i2 = −1 apply to complex numbers. It follows that 
+
+In particular,
+
+
+=== Reciprocal and division ===
+Using the conjugation, the reciprocal of a nonzero complex number z = x + yi can always be broken down to
+
+since non-zero implies that x2 + y2 is greater than zero.
+This can be used to express a division of an arbitrary complex number w = u + vi by a non-zero complex number z as
+
+
+=== Multiplication and division in polar form ===
+
+Formulas for multiplication, division and exponentiation are simpler in polar form than the corresponding formulas in Cartesian coordinates. Given two complex numbers z1 = r1(cos φ1 + i sin φ1) and z2 = r2(cos φ2 + i sin φ2), because of the trigonometric identities
+
+we may derive
+
+In other words, the absolute values are multiplied and the arguments are added to yield the polar form of the product. For example, multiplying by i corresponds to a quarter-turn counter-clockwise, which gives back i2 = −1. The picture at the right illustrates the multiplication of
+
+Since the real and imaginary part of 5 + 5i are equal, the argument of that number is 45 degrees, or π/4 (in radian). On the other hand, it is also the sum of the angles at the origin of the red and blue triangles are arctan(1/3) and arctan(1/2), respectively. Thus, the formula
+
+holds. As the arctan function can be approximated highly efficiently, formulas like this – known as Machin-like formulas – are used for high-precision approximations of π.
+Similarly, division is given by
+
+
+=== Square root ===
+
+The square roots of a + bi (with b ≠ 0) are 
+  
+    
+      
+        ±
+        (
+        γ
+        +
+        δ
+        i
+        )
+      
+    
+    {\displaystyle \pm (\gamma +\delta i)}
+  , where
+
+and
+
+where sgn is the signum function. This can be seen by squaring 
+  
+    
+      
+        ±
+        (
+        γ
+        +
+        δ
+        i
+        )
+      
+    
+    {\displaystyle \pm (\gamma +\delta i)}
+   to obtain a + bi. Here 
+  
+    
+      
+        
+          
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {a^{2}+b^{2}}}}
+   is called the modulus of a + bi, and the square root sign indicates the square root with non-negative real part, called the principal square root; also 
+  
+    
+      
+        
+          
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            z
+            
+              
+                z
+                ¯
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {a^{2}+b^{2}}}={\sqrt {z{\overline {z}}}},}
+   where z = a + bi.
+
+
+=== Exponential function ===
+The exponential function 
+  
+    
+      
+        exp
+        :
+        
+          C
+        
+        →
+        
+          C
+        
+        ;
+        z
+        ↦
+        exp
+        ⁡
+        z
+      
+    
+    {\displaystyle \exp \colon \mathbb {C} \to \mathbb {C} ;z\mapsto \exp z}
+   can be defined for every complex number z by the power series
+
+which has an infinite radius of convergence.
+The value at 1 of the exponential function is Euler's number
+
+If z is real, one has 
+
+  
+    
+      
+        exp
+        ⁡
+        z
+        =
+        
+          e
+          
+            z
+          
+        
+        .
+      
+    
+    {\displaystyle \exp z=e^{z}.}
+  
+Analytic continuation allows extending this equality for every complex value of z, and thus to define the complex exponentiation with base e as
+
+
+==== Functional equation ====
+The exponential function satisfies the functional equation 
+  
+    
+      
+        
+          e
+          
+            z
+            +
+            t
+          
+        
+        =
+        
+          e
+          
+            z
+          
+        
+        
+          e
+          
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle e^{z+t}=e^{z}e^{t}.}
+  
+This can be proved either by comparing the power series expansion of both members or by applying analytic continuation from the restriction of the equation to real arguments.
+
+
+==== Euler's formula ====
+Euler's formula states that, for any real number y,
+
+The functional equation implies thus that, if x and y are real, one has
+
+which is the decomposition of the exponential function into its real and imaginary parts.
+
+
+=== Complex logarithm ===
+In the real case, the natural logarithm can be defined as the inverse 
+
+  
+    
+      
+        ln
+        :
+        
+          
+            R
+          
+          
+            +
+          
+        
+        →
+        
+          R
+        
+        ;
+        x
+        ↦
+        ln
+        ⁡
+        x
+      
+    
+    {\displaystyle \ln \colon \mathbb {R} ^{+}\to \mathbb {R} ;x\mapsto \ln x}
+   of the exponential function. For extending this to the complex domain, one can start from Euler's formula. It implies that, if a complex number 
+  
+    
+      
+        z
+        ∈
+        
+          
+            C
+          
+          
+            ×
+          
+        
+      
+    
+    {\displaystyle z\in \mathbb {C} ^{\times }}
+   is written in polar form
+
+with 
+  
+    
+      
+        r
+        ,
+        φ
+        ∈
+        
+          R
+        
+        ,
+      
+    
+    {\displaystyle r,\varphi \in \mathbb {R} ,}
+   then with
+
+as complex logarithm one has a proper inverse:
+
+However, because cosine and sine are periodic functions, the addition of an integer multiple of 2π to φ does not change z. For example, eiπ = e3iπ = −1 , so both iπ and 3iπ are possible values for the natural logarithm of −1.
+Therefore, if the complex logarithm is not to be defined as a multivalued function
+
+one has to use a branch cut and to restrict the codomain, resulting in the bijective function
+
+If 
+  
+    
+      
+        z
+        ∈
+        
+          C
+        
+        ∖
+        
+          (
+          
+            −
+            
+              
+                R
+              
+              
+                ≥
+                0
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle z\in \mathbb {C} \setminus \left(-\mathbb {R} _{\geq 0}\right)}
+   is not a non-positive real number (a positive or a non-real number), the resulting principal value of the complex logarithm is obtained with −π < φ < π. It is an analytic function outside the negative real numbers, but it cannot be prolongated to a function that is continuous at any negative real number 
+  
+    
+      
+        z
+        ∈
+        −
+        
+          
+            R
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle z\in -\mathbb {R} ^{+}}
+  , where the principal value is ln z = ln(−z) + iπ.
+
+
+=== Exponentiation ===
+If x > 0 is real and z complex, the exponentiation is defined as 
+
+where ln denotes the natural logarithm.
+It seems natural to extend this formula to complex values of x, but there are some difficulties resulting from the fact that the complex logarithm is not really a function, but a multivalued function.
+It follows that if z is as above, and if t is another complex number, then the exponentiation is the multivalued function
+
+
+==== Integer and fractional exponents ====
+
+If, in the preceding formula, t is an integer, then the sine and the cosine are independent of k. Thus, if the exponent n is an integer, then zn is well defined, and the exponentiation formula simplifies to de Moivre's formula:
+
+The n nth roots of a complex number z are given by
+
+for 0 ≤ k ≤ n − 1. (Here 
+  
+    
+      
+        
+          
+            r
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{r}}}
+   is the usual (positive) nth root of the positive real number r.) Because sine and cosine are periodic, other integer values of k do not give other values.
+While the nth root of a positive real number r is chosen to be the positive real number c satisfying cn = r, there is no natural way of distinguishing one particular complex nth root of a complex number. Therefore, the nth root is a n-valued function of z. This implies that, contrary to the case of positive real numbers, one has  
+
+since the left-hand side consists of n values, and the right-hand side is a single value.
+
+
+== Properties ==
+
+
+=== Field structure ===
+The set 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   of complex numbers is a field. Briefly, this means that the following facts hold: first, any two complex numbers can be added and multiplied to yield another complex number. Second, for any complex number z, its additive inverse –z is also a complex number; and third, every nonzero complex number has a reciprocal complex number. Moreover, these operations satisfy a number of laws, for example the law of commutativity of addition and multiplication for any two complex numbers z1 and z2:
+
+These two laws and the other requirements on a field can be proven by the formulas given above, using the fact that the real numbers themselves form a field.
+Unlike the reals, 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   is not an ordered field, that is to say, it is not possible to define a relation z1 < z2 that is compatible with the addition and multiplication. In fact, in any ordered field, the square of any element is necessarily positive, so i2 = −1 precludes the existence of an ordering on 
+  
+    
+      
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbb {C} .}
+  When the underlying field for a mathematical topic or construct is the field of complex numbers, the topic's name is usually modified to reflect that fact. For example: complex analysis, complex matrix, complex polynomial, and complex Lie algebra.
+
+
+=== Solutions of polynomial equations ===
+Given any complex numbers (called coefficients) a0, ..., an, the equation
+
+has at least one complex solution z, provided that at least one of the higher coefficients a1, ..., an is nonzero. This is the statement of the fundamental theorem of algebra, of Carl Friedrich Gauss and Jean le Rond d'Alembert. Because of this fact, 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   is called an algebraically closed field. This property does not hold for the field of rational numbers 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+   (the polynomial x2 − 2 does not have a rational root, since √2 is not a rational number) nor the real numbers 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   (the polynomial x2 + a does not have a real root for a > 0, since the square of x is positive for any real number x).
+There are various proofs of this theorem, by either analytic methods such as Liouville's theorem, or topological ones such as the winding number, or a proof combining Galois theory and the fact that any real polynomial of odd degree has at least one real root.
+Because of this fact, theorems that hold for any algebraically closed field apply to 
+  
+    
+      
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbb {C} .}
+   For example, any non-empty complex square matrix has at least one (complex) eigenvalue.
+
+
+=== Algebraic characterization ===
+The field 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   has the following three properties:
+
+First, it has characteristic 0. This means that 1 + 1 + ⋯ + 1 ≠ 0 for any number of summands (all of which equal one).
+Second, its transcendence degree over 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  , the prime field of 
+  
+    
+      
+        
+          C
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {C} ,}
+   is the cardinality of the continuum.
+Third, it is algebraically closed (see above).It can be shown that any field having these properties is isomorphic (as a field) to 
+  
+    
+      
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbb {C} .}
+   For example, the algebraic closure of the field 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} _{p}}
+   of the p-adic number also satisfies these three properties, so these two fields are isomorphic (as fields, but not as topological fields). Also, 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   is isomorphic to the field of complex Puiseux series. However, specifying an isomorphism requires the axiom of choice. Another consequence of this algebraic characterization is that 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   contains many proper subfields that are isomorphic to 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  .
+
+
+=== Characterization as a topological field ===
+The preceding characterization of 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   describes only the algebraic aspects of 
+  
+    
+      
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbb {C} .}
+   That is to say, the properties of nearness and continuity, which matter in areas such as analysis and topology, are not dealt with. The following description of 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   as a topological field (that is, a field that is equipped with a topology, which allows the notion of convergence) does take into account the topological properties. 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   contains a subset P (namely the set of positive real numbers) of nonzero elements satisfying the following three conditions:
+
+P is closed under addition, multiplication and taking inverses.
+If x and y are distinct elements of P, then either x − y or y − x is in P.
+If S is any nonempty subset of P, then S + P = x + P for some x in 
+  
+    
+      
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbb {C} .}
+  Moreover, 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   has a nontrivial involutive automorphism x ↦ x* (namely the complex conjugation), such that x x* is in P for any nonzero x in 
+  
+    
+      
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbb {C} .}
+  
+Any field F with these properties can be endowed with a topology by taking the sets B(x, p) = { y | p − (y − x)(y − x)* ∈ P }  as a base, where x ranges over the field and p ranges over P. With this topology F is isomorphic as a topological field to 
+  
+    
+      
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbb {C} .}
+  
+The only connected locally compact topological fields are 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   and 
+  
+    
+      
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbb {C} .}
+   This gives another characterization of 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   as a topological field, since 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   can be distinguished from 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   because the nonzero complex numbers are connected, while the nonzero real numbers are not.
+
+
+== Formal construction ==
+
+
+=== Construction as ordered pairs ===
+William Rowan Hamilton introduced the approach to define the set 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   of complex numbers as the set 
+  
+    
+      
+        
+          
+            R
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{2}}
+   of ordered pairs (a, b) of real numbers, in which the following rules for addition and multiplication are imposed:
+It is then just a matter of notation to express (a, b) as a + bi.
+
+
+=== Construction as a quotient field ===
+Though this low-level construction does accurately describe the structure of the complex numbers, the following equivalent definition reveals the algebraic nature of 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   more immediately. This characterization relies on the notion of fields and polynomials. A field is a set endowed with addition, subtraction, multiplication and division operations that behave as is familiar from, say, rational numbers. For example, the distributive law
+
+must hold for any three elements x, y and z of a field. The set 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   of real numbers does form a field. A polynomial p(X) with real coefficients is an expression of the form
+
+where the a0, ..., an are real numbers. The usual addition and multiplication of polynomials endows the set 
+  
+    
+      
+        
+          R
+        
+        [
+        X
+        ]
+      
+    
+    {\displaystyle \mathbb {R} [X]}
+   of all such polynomials with a ring structure. This ring is called the polynomial ring over the real numbers.
+The set of complex numbers is defined as the quotient ring 
+  
+    
+      
+        
+          R
+        
+        [
+        X
+        ]
+        
+          /
+        
+        (
+        
+          X
+          
+            2
+          
+        
+        +
+        1
+        )
+        .
+      
+    
+    {\displaystyle \mathbb {R} [X]/(X^{2}+1).}
+   This extension field contains two square roots of −1, namely (the cosets of) X and −X, respectively. (The cosets of) 1 and X form a basis of 
+  
+    
+      
+        
+          R
+        
+        [
+        X
+        ]
+        
+          /
+        
+        (
+        
+          X
+          
+            2
+          
+        
+        +
+        1
+        )
+      
+    
+    {\displaystyle \mathbb {R} [X]/(X^{2}+1)}
+   as a real vector space, which means that each element of the extension field can be uniquely written as a linear combination in these two elements. Equivalently, elements of the extension field can be written as ordered pairs (a, b) of real numbers.  The quotient ring is a field, because X2 + 1 is irreducible over 
+  
+    
+      
+        
+          R
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {R} ,}
+   so the ideal it generates is maximal.
+The formulas for addition and multiplication in the ring 
+  
+    
+      
+        
+          R
+        
+        [
+        X
+        ]
+        ,
+      
+    
+    {\displaystyle \mathbb {R} [X],}
+   modulo the relation X2 = −1, correspond to the formulas for addition and multiplication of complex numbers defined as ordered pairs.  So the two definitions of the field 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   are isomorphic (as fields).
+Accepting that 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   is algebraically closed, since it is an algebraic extension of 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   in this approach, 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   is therefore the algebraic closure of 
+  
+    
+      
+        
+          R
+        
+        .
+      
+    
+    {\displaystyle \mathbb {R} .}
+  
+
+
+=== Matrix representation of complex numbers ===
+Complex numbers a + bi can also be represented by 2 × 2 matrices that have the form:
+
+Here the entries a and b are real numbers. As the sum and product of two such matrices is again of this form, these matrices form a subring of the ring 2 × 2 matrices.
+A simple computation shows that the map:
+
+is a ring isomorphism from the field of complex numbers to the ring of these matrices. This isomorphism associates the square of the absolute value of a complex number with the determinant of the corresponding matrix, and the conjugate of a complex number with the transpose of the matrix.
+The geometric description of the multiplication of complex numbers can also be expressed in terms of rotation matrices by using this correspondence between complex numbers and such matrices. The action of the matrix on a vector (x, y) corresponds to the multiplication of x + iy by a + ib. In particular, if the determinant is 1, there is a real number t such that the matrix has the form:
+
+In this case, the action of the matrix on vectors and the multiplication by the complex number 
+  
+    
+      
+        cos
+        ⁡
+        t
+        +
+        i
+        sin
+        ⁡
+        t
+      
+    
+    {\displaystyle \cos t+i\sin t}
+   are both the rotation of the angle t.
+
+
+== Complex analysis ==
+
+The study of functions of a complex variable is known as complex analysis and has enormous practical use in applied mathematics as well as in other branches of mathematics. Often, the most natural proofs for statements in real analysis or even number theory employ techniques from complex analysis (see prime number theorem for an example). Unlike real functions, which are commonly represented as two-dimensional graphs, complex functions have four-dimensional graphs and may usefully be illustrated by color-coding a three-dimensional graph to suggest four dimensions, or by animating the complex function's dynamic transformation of the complex plane.
+
+
+=== Complex exponential and related functions ===
+The notions of convergent series and continuous functions in (real) analysis have natural analogs in complex analysis. A sequence  of complex numbers is said to converge if and only if its real and imaginary parts do. This is equivalent to the (ε, δ)-definition of limits, where the absolute value of real numbers is replaced by the one of complex numbers. From a more abstract point of view, 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  , endowed with the metric
+
+is a complete metric space, which notably includes the triangle inequality
+
+for any two complex numbers z1 and z2.
+Like in real analysis, this notion of convergence is used to construct a number of elementary functions: the exponential function exp z, also written ez, is defined as the infinite series
+
+The series defining the real trigonometric functions sine and cosine, as well as the hyperbolic functions sinh and cosh, also carry over to complex arguments without change. For the other trigonometric and hyperbolic functions, such as tangent, things are slightly more complicated, as the defining series do not converge for all complex values. Therefore, one must define them either in terms of sine, cosine and exponential, or, equivalently, by using the method of analytic continuation.
+Euler's formula states:
+
+for any real number φ, in particular
+, which is Euler's identity.
+Unlike in the situation of real numbers, there is an infinitude of complex solutions z of the equation
+
+for any complex number w ≠ 0. It can be shown that any such solution z – called complex logarithm of w – satisfies
+
+where arg is the argument defined above, and ln the (real) natural logarithm. As arg is a multivalued function, unique only up to a multiple of 2π, log is also multivalued. The principal value of log is often taken by restricting the imaginary part to the interval (−π, π].
+Complex exponentiation zω is defined as
+
+and is multi-valued, except when ω is an integer. For ω = 1 / n, for some natural number n, this recovers the non-uniqueness of nth roots mentioned above.
+Complex numbers, unlike real numbers, do not in general satisfy the unmodified power and logarithm identities, particularly when naïvely treated as single-valued functions; see failure of power and logarithm identities. For example, they do not satisfy
+
+Both sides of the equation are multivalued by the definition of complex exponentiation given here, and the values on the left are a subset of those on the right.
+
+
+=== Holomorphic functions ===
+A function f: 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   → 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   is called holomorphic if it satisfies the Cauchy–Riemann equations. For example, any 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  -linear map 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   → 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   can be written in the form
+
+with complex coefficients a and b. This map is holomorphic if and only if b = 0. The second summand 
+  
+    
+      
+        b
+        
+          
+            z
+            ¯
+          
+        
+      
+    
+    {\displaystyle b{\overline {z}}}
+   is real-differentiable, but does not satisfy the Cauchy–Riemann equations.
+Complex analysis shows some features not apparent in real analysis. For example, any two holomorphic functions f and g that agree on an arbitrarily small open subset of 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   necessarily agree everywhere. Meromorphic functions, functions that can locally be written as f(z)/(z − z0)n with a holomorphic function f, still share some of the features of holomorphic functions. Other functions have essential singularities, such as sin(1/z) at z = 0.
+
+
+== Applications ==
+Complex numbers have applications in many scientific areas, including signal processing, control theory, electromagnetism, fluid dynamics, quantum mechanics, cartography, and vibration analysis. Some of these applications are described below.
+
+
+=== Geometry ===
+
+
+==== Shapes ====
+Three non-collinear points 
+  
+    
+      
+        u
+        ,
+        v
+        ,
+        w
+      
+    
+    {\displaystyle u,v,w}
+   in the plane determine the shape of the triangle 
+  
+    
+      
+        {
+        u
+        ,
+        v
+        ,
+        w
+        }
+      
+    
+    {\displaystyle \{u,v,w\}}
+  . Locating the points in the complex plane, this shape of a triangle may be expressed by complex arithmetic as
+
+The shape 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   of a triangle will remain the same, when the complex plane is transformed by translation or dilation (by an affine transformation), corresponding to the intuitive notion of shape, and describing similarity. Thus each triangle 
+  
+    
+      
+        {
+        u
+        ,
+        v
+        ,
+        w
+        }
+      
+    
+    {\displaystyle \{u,v,w\}}
+   is in a similarity class of triangles with the same shape.
+
+
+==== Fractal geometry ====
+
+The Mandelbrot set is a popular example of a fractal formed on the complex plane. It is defined by plotting every location 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   where iterating the sequence 
+  
+    
+      
+        
+          f
+          
+            c
+          
+        
+        (
+        z
+        )
+        =
+        
+          z
+          
+            2
+          
+        
+        +
+        c
+      
+    
+    {\displaystyle f_{c}(z)=z^{2}+c}
+   does not diverge when iterated infinitely. Similarly, Julia sets have the same rules, except where 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   remains constant.
+
+
+==== Triangles ====
+Every triangle has a unique Steiner inellipse – an ellipse inside the triangle and tangent to the midpoints of the three sides of the triangle. The foci of a triangle's Steiner inellipse can be found as follows, according to Marden's theorem: Denote the triangle's vertices in the complex plane as a = xA + yAi, b = xB + yBi, and c = xC + yCi. Write the cubic equation 
+  
+    
+      
+        (
+        x
+        −
+        a
+        )
+        (
+        x
+        −
+        b
+        )
+        (
+        x
+        −
+        c
+        )
+        =
+        0
+      
+    
+    {\displaystyle (x-a)(x-b)(x-c)=0}
+  , take its derivative, and equate the (quadratic) derivative to zero. Marden's theorem says that the solutions of this equation are the complex numbers denoting the locations of the two foci of the Steiner inellipse.
+
+
+=== Algebraic number theory ===
+
+As mentioned above, any nonconstant polynomial equation (in complex coefficients) has a solution in 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  . A fortiori, the same is true if the equation has rational coefficients. The roots of such equations are called algebraic numbers – they are a principal object of study in algebraic number theory. Compared to 
+  
+    
+      
+        
+          
+            
+              Q
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\mathbb {Q} }}}
+  , the algebraic closure of 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  , which also contains all algebraic numbers, 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   has the advantage of being easily understandable in geometric terms. In this way, algebraic methods can be used to study geometric questions and vice versa. With algebraic methods, more specifically applying the machinery of field theory to the number field containing roots of unity, it can be shown that it is not possible to construct a regular nonagon using only compass and straightedge – a purely geometric problem.
+Another example is the Gaussian integers; that is, numbers of the form x + iy, where x and y are integers, which can be used to classify sums of squares.
+
+
+=== Analytic number theory ===
+
+Analytic number theory studies numbers, often integers or rationals, by taking advantage of the fact that they can be regarded as complex numbers, in which analytic methods can be used. This is done by encoding number-theoretic information in complex-valued functions. For example, the Riemann zeta function ζ(s) is related to the distribution of prime numbers.
+
+
+=== Improper integrals ===
+In applied fields, complex numbers are often used to compute certain real-valued improper integrals, by means of complex-valued functions. Several methods exist to do this; see methods of contour integration.
+
+
+=== Dynamic equations ===
+In differential equations, it is common to first find all complex roots r of the characteristic equation of a linear differential equation or equation system and then attempt to solve the system in terms of base functions of the form f(t) = ert. Likewise, in difference equations, the complex roots r of the characteristic equation of the difference equation system are used, to attempt to solve the system in terms of base functions of the form f(t) = rt.
+
+
+=== Linear Algebra ===
+Eigendecomposition is a useful tool for computing matrix powers and matrix exponentials. However, it often requires the use of complex numbers, even if the matrix is real (for example, a rotation matrix).
+Complex numbers often generalize concepts originally conceived in the real numbers. For example, the conjugate transpose generalizes the transpose, hermitian matrices generalize symmetric matrices, and unitary matrices generalize orthogonal matrices.
+
+
+=== In applied mathematics ===
+
+
+==== Control theory ====
+
+In control theory, systems are often transformed from the time domain to the complex frequency domain using the Laplace transform. The system's zeros and poles are then analyzed in the complex plane. The root locus, Nyquist plot, and Nichols plot techniques all make use of the complex plane.
+In the root locus method, it is important whether zeros and poles are in the left or right half planes, that is, have real part greater than or less than zero. If a linear, time-invariant (LTI) system has poles that are
+
+in the right half plane, it will be unstable,
+all in the left half plane, it will be stable,
+on the imaginary axis, it will have marginal stability.If a system has zeros in the right half plane, it is a nonminimum phase system.
+
+
+==== Signal analysis ====
+Complex numbers are used in signal analysis and other fields for a convenient description for periodically varying signals. For given real functions representing actual physical quantities, often in terms of sines and cosines, corresponding complex functions are considered of which the real parts are the original quantities. For a sine wave of a given frequency, the absolute value |z| of the corresponding z is the amplitude and the argument arg z is the phase.
+If Fourier analysis is employed to write a given real-valued signal as a sum of periodic functions, these periodic functions are often written as complex-valued functions of the form
+
+and
+
+where ω represents the angular frequency and the complex number A encodes the phase and amplitude as explained above.
+This use is also extended into digital signal processing and digital image processing, which utilize digital versions of Fourier analysis (and wavelet analysis) to transmit, compress, restore, and otherwise process digital audio signals, still images, and video signals.
+Another example, relevant to the two side bands of amplitude modulation of AM radio, is:
+
+
+=== In physics ===
+
+
+==== Electromagnetism and electrical engineering ====
+
+In electrical engineering, the Fourier transform is used to analyze varying voltages and currents. The treatment of resistors, capacitors, and inductors can then be unified by introducing imaginary, frequency-dependent resistances for the latter two and combining all three in a single complex number called the impedance. This approach is called phasor calculus.
+In electrical engineering, the imaginary unit is denoted by j, to avoid confusion with I, which is generally in use to denote electric current, or, more particularly, i, which is generally in use to denote instantaneous electric current.
+Since the voltage in an AC circuit is oscillating, it can be represented as
+
+To obtain the measurable quantity, the real part is taken:
+
+The complex-valued signal V(t) is called the analytic representation of the real-valued, measurable signal v(t).
+
+
+==== Fluid dynamics ====
+In fluid dynamics, complex functions are used to describe potential flow in two dimensions.
+
+
+==== Quantum mechanics ====
+The complex number field is intrinsic to the mathematical formulations of quantum mechanics, where complex Hilbert spaces provide the context for one such formulation that is convenient and perhaps most standard. The original foundation formulas of quantum mechanics – the Schrödinger equation and Heisenberg's matrix mechanics – make use of complex numbers.
+
+
+==== Relativity ====
+In special and general relativity, some formulas for the metric on spacetime become simpler if one takes the time component of the spacetime continuum to be imaginary. (This approach is no longer standard in classical relativity, but is used in an essential way in quantum field theory.) Complex numbers are essential to spinors, which are a generalization of the tensors used in relativity.
+
+
+== Generalizations and related notions ==
+
+The process of extending the field 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   of reals to 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   is known as the Cayley–Dickson construction. It can be carried further to higher dimensions, yielding the quaternions 
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {H} }
+   and octonions 
+  
+    
+      
+        
+          O
+        
+      
+    
+    {\displaystyle \mathbb {O} }
+   which (as a real vector space) are of dimension 4 and 8, respectively.
+In this context the complex numbers have been called the binarions.Just as by applying the construction to reals the property of ordering is lost, properties familiar from real and complex numbers vanish with each extension. The quaternions lose commutativity, that is, x·y ≠ y·x for some quaternions x, y, and the multiplication of octonions, additionally to not being commutative, fails to be associative: (x·y)·z ≠ x·(y·z) for some octonions x, y, z.
+Reals, complex numbers, quaternions and octonions are all normed division algebras over 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  . By Hurwitz's theorem they are the only ones; the sedenions, the next step in the Cayley–Dickson construction, fail to have this structure.
+The Cayley–Dickson construction is closely related to the regular representation of 
+  
+    
+      
+        
+          C
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {C} ,}
+   thought of as an 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  -algebra (an 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  -vector space with a multiplication), with respect to the basis (1, i). This means the following: the 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  -linear map
+
+for some fixed complex number w can be represented by a 2 × 2 matrix (once a basis has been chosen). With respect to the basis (1, i), this matrix is
+
+that is, the one mentioned in the section on matrix representation of complex numbers above. While this is a linear representation of 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   in the 2 × 2 real matrices, it is not the only one. Any matrix
+
+has the property that its square is the negative of the identity matrix: J2 = −I. Then
+
+is also isomorphic to the field 
+  
+    
+      
+        
+          C
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {C} ,}
+   and gives an alternative complex structure on 
+  
+    
+      
+        
+          
+            R
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbb {R} ^{2}.}
+   This is generalized by the notion of a linear complex structure.
+Hypercomplex numbers also generalize 
+  
+    
+      
+        
+          R
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {R} ,}
+   
+  
+    
+      
+        
+          C
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {C} ,}
+   
+  
+    
+      
+        
+          H
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {H} ,}
+   and 
+  
+    
+      
+        
+          O
+        
+        .
+      
+    
+    {\displaystyle \mathbb {O} .}
+   For example, this notion contains the split-complex numbers, which are elements of the ring 
+  
+    
+      
+        
+          R
+        
+        [
+        x
+        ]
+        
+          /
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        1
+        )
+      
+    
+    {\displaystyle \mathbb {R} [x]/(x^{2}-1)}
+   (as opposed to 
+  
+    
+      
+        
+          R
+        
+        [
+        x
+        ]
+        
+          /
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        1
+        )
+      
+    
+    {\displaystyle \mathbb {R} [x]/(x^{2}+1)}
+   for complex numbers). In this ring, the equation a2 = 1 has four solutions.
+The field 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   is the completion of 
+  
+    
+      
+        
+          Q
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {Q} ,}
+   the field of rational numbers, with respect to the usual absolute value metric. Other choices of metrics on 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+   lead to the fields 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} _{p}}
+   of p-adic numbers (for any prime number p), which are thereby analogous to 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  . There are no other nontrivial ways of completing 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+   than 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   and 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            p
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {Q} _{p},}
+   by Ostrowski's theorem. The algebraic closures 
+  
+    
+      
+        
+          
+            
+              
+                Q
+              
+              
+                p
+              
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\mathbb {Q} _{p}}}}
+   of 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} _{p}}
+   still carry a norm, but (unlike 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  ) are not complete with respect to it. The completion 
+  
+    
+      
+        
+          
+            C
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {C} _{p}}
+   of 
+  
+    
+      
+        
+          
+            
+              
+                Q
+              
+              
+                p
+              
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\mathbb {Q} _{p}}}}
+   turns out to be algebraically closed. By analogy, the field is called p-adic complex numbers.
+The fields 
+  
+    
+      
+        
+          R
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {R} ,}
+   
+  
+    
+      
+        
+          
+            Q
+          
+          
+            p
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {Q} _{p},}
+   and their finite field extensions, including 
+  
+    
+      
+        
+          C
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {C} ,}
+   are called local fields.
+
+
+== See also ==
+
+Algebraic surface
+Circular motion using complex numbers
+Complex-base system
+Complex geometry
+Dual-complex number
+Eisenstein integer
+Euler's identity
+Geometric algebra (which includes the complex plane as the 2-dimensional spinor subspace 
+  
+    
+      
+        
+          
+            
+              G
+            
+          
+          
+            2
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle {\mathcal {G}}_{2}^{+}}
+  )
+Unit complex number
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Works cited ===
+
+
+== Further reading ==
+
+Penrose, Roger (2005). The Road to Reality: A complete guide to the laws of the universe. Alfred A. Knopf. ISBN 978-0-679-45443-4.
+Derbyshire, John (2006). Unknown Quantity: A real and imaginary history of algebra. Joseph Henry Press. ISBN 978-0-309-09657-7.
+Needham, Tristan (1997). Visual Complex Analysis. Clarendon Press. ISBN 978-0-19-853447-1.
+
+
+=== Mathematical ===
+
+
+=== Historical ===
+

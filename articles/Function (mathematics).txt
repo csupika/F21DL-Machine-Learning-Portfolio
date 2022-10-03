@@ -1,0 +1,4437 @@
+####### TITLE #######
+
+Function (mathematics)
+
+####### LINKS #######
+
+['Abstraction (computer science)', 'Abuse of notation', 'Addison-Wesley', 'Al-Biruni', 'Algebraic function', 'Algorithm', 'Analytic continuation', 'Analytic function', 'Andrew M. Bruckner', 'Antiderivative', 'Arccosine', 'Arithmetic operations', 'Associative array', 'Associative property', 'Axiom', 'Axiom of choice', 'Axiom of extensionality', 'Bar chart', 'Bijection', 'Bijective', 'Binary operation', 'Binary relation', 'Binary representation', 'Bit', 'Black box', 'Boolean-valued function', 'Boolean function', 'Branch cut', 'Bra–ket notation', 'Bring radical', 'Calculus', 'Calculus of variations', 'Cambridge University Press', 'Cartesian coordinates', 'Cartesian plane', 'Cartesian product', 'Category (mathematics)', 'Category theory', 'Church–Turing thesis', 'CiteSeerX (identifier)', 'Class (set theory)', 'Closed-form expression', 'Codomain', 'Commutative diagram', 'Commutative property', 'Compact set', 'Compact support', 'Complex-valued function', 'Complex analysis', 'Complex number', 'Complex plane', 'Computability theory', 'Computable function', 'Computer memory', 'Computer program', 'Computer programming', 'Computer science', 'Constant (mathematics)', 'Constant function', 'Continuous function', 'Converse relation', 'Cosine', 'Cosine function', 'D. C. Heath and Company', 'Derivative', 'Differentiability', 'Differentiable function', 'Differential equation', 'Disc of convergence', 'Discrete-time dynamical system', 'Distribution (mathematics)', 'Division by zero', 'Doi (identifier)', 'Domain of a function', 'Dual pair', 'Duality (mathematics)', 'Dynamical system', 'Elementary function', 'Empty set', 'Encyclopedia of Mathematics', 'Engineering', 'Error function', 'Euclidean division', 'Euclidean space', 'European Mathematical Society', 'Exponential function', 'Exponential functions', 'Exponentiation', 'Expression (mathematics)', 'F(x)', 'F(x) (musical group)', 'Factorial', 'Factorization', "Fermat's spiral", 'Fiber (mathematics)', 'Foundations of mathematics', 'Fourier analysis', 'Function (programming)', 'Function application', 'Function composition', 'Function fitting', 'Function of a complex variable', 'Function of a real variable', 'Function of several complex variables', 'Function of several real variables', 'Function space', 'Functional (mathematics)', 'Functional analysis', 'Functional decomposition', 'Functional predicate', 'Functional programming', 'Functions of a complex variable', 'Functor', 'Fundamental theorem of calculus', 'Graph of a function', 'Group (mathematics)', 'Group homomorphism', 'Gunther Schmidt', 'Harmonic analysis', 'Higher-order function', 'History of the function concept', 'Homography', 'Homological algebra', 'Homomorphism', 'Hyperbola', 'Hypercomplex analysis', 'ISBN (identifier)', 'Identity function', 'Image (mathematics)', 'Implementation', 'Implicit function', 'Implicit function theorem', 'Imre Leader', 'Inclusion map', 'Indexed family', 'Infinitesimal calculus', 'Infinity', 'Injective function', 'Integer', 'Integer-valued function', 'Integral', 'Interpolation', 'Interpunct', 'Interval (mathematics)', 'Inverse function', 'Inverse image', 'Inverse trigonometric functions', 'JSTOR (identifier)', 'John Wiley & Sons', 'June Barrow-Green', 'Kurt Gödel', 'LCCN (identifier)', 'Lambda calculus', 'Laura Taalman', 'Least-squares spectral analysis', 'Left identity', 'Left inverse function', 'Leonhard Euler', 'Limit (mathematics)', 'Line chart', 'Linear algebra', 'Linear differential equation', 'Linear form', 'Linear function', 'Linear map', 'List of functions', 'List of types of functions', 'Lists of integrals', 'Logarithm', 'MR (identifier)', 'Manifold', 'Manifolds', 'Map (mathematics)', 'Maps of manifolds', 'Mathematical analysis', 'Mathematical logic', 'Mathematical operation', 'Mathematical table', 'Mathematics', 'Matrix calculus', 'Measurable function', 'Measure (mathematics)', 'Michael Spivak', 'Microfunction', 'Models of computation', 'Monodromy', 'Monotonic function', 'Morphism', 'Multi-valued function', 'Multiplication table', 'Multivalued function', 'Natural logarithm', 'Natural number', 'Neighbourhood (mathematics)', 'New York City', 'Nicolas Bourbaki', 'Nth root', 'OCLC (identifier)', 'OL (identifier)', 'Open interval', 'Operation (mathematics)', 'Ordered pair', 'Ordinary differential equation', 'P-adic analysis', 'P-adic number', 'Pair (mathematics)', 'Parabola', 'Parameter', 'Parametric equation', 'Partial application', 'Partial differential equation', 'Partial function', 'Paul Halmos', 'Pearson Education', 'Placeholder name', 'Planet', 'Plot (graphics)', 'Poincaré map', 'Pointwise operation', 'Polar coordinates', 'Polynomial', 'Polynomial function', 'Power series', 'Powerset', 'Preimage', 'Prentice Hall', 'Primitive recursion', 'Princeton, New Jersey', 'Princeton University Press', 'Principal value', 'Program proof', 'Programming language', 'Programming paradigm', 'Projection function', 'Projectively extended real line', 'Quadratic function', 'Quaternionic analysis', 'Range of a function', 'Rational function', 'Real-valued function', 'Real analysis', 'Real line', 'Real multivariate function', 'Real number', 'Rectangle', 'Recurrence relation', 'Representation theory', 'Restriction (mathematics)', 'Restriction of a function', 'Right identity', 'Right inverse function', 'Robert G. Bartle', 'Roman type', 'Root of a function', 'STEM', 'Scalar-valued function', 'Science', 'Sequence', 'Sequence (mathematics)', 'Serge Lang', 'Series (mathematics)', 'Set (mathematics)', 'Set function', 'Set intersection', 'Set theory', 'Set union', 'Sharaf al-Din al-Tusi', 'Simple function', 'Sine', 'Sine function', 'Singleton set', 'Smooth curve', 'Smooth function', 'Special function', 'Special functions', 'Springer-Verlag', 'Square function', 'Square root', 'Stack Exchange', 'Stochastic differential equation', 'Structure (mathematics)', 'Subroutine', 'Subset', 'Successor function', 'Surjective', 'Surjective function', 'Table of derivatives', 'Taylor series', 'Tensor calculus', 'The Princeton Companion to Mathematics', 'Theory of computation', 'Thomas Jech', 'Timothy Gowers', 'Topological', 'Topological vector space', 'Topology', 'Total relation', 'Trigonometric functions', 'Tuple', 'Turing machine', 'Typed lambda calculus', 'Unit circle', 'Univalent relation', 'University of Tennessee', 'Vector-valued function', 'Vector (mathematics and physics)', 'Vector calculus', 'Vector field', 'Vector space', 'Velocity vector', 'Vertical line test', 'Virginia Commonwealth University', 'Von Neumann–Bernays–Gödel set theory', 'W. H. Freeman and Company', 'Zbl (identifier)', 'Zero of a function', 'Μ-recursive function', 'Μ operator']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles with unsourced statements', 'Articles needing additional references from July 2022', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Articles with unsourced statements from August 2022', 'Articles with unsourced statements from January 2021', 'Articles with unsourced statements from July 2022', 'Basic concepts in set theory', 'CS1 errors: missing periodical', 'Commons category link is on Wikidata', 'Elementary mathematics', 'Functions and mappings', 'Harv and Sfn no-target errors', 'Pages that use a deprecated format of the math tags', 'Short description matches Wikidata']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/7/79/Binary_operations_as_black_box.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/c9/Compfun.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/38/Example_for_a_composition_of_two_functions.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Function_color_example_3.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Function_machine2.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/21/Function_machine5.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Function_with_two_values_1.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/76/Gerade.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/96/Graph_of_example_function.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Injection_keine_Injektion_1.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/83/Injection_keine_Injektion_2a.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Motor_vehicle_deaths_in_the_US.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Motor_vehicle_deaths_in_the_US_histogram.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Polynomialdeg2.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/71/Sine_cosine_one_period.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/da/Xto3minus3x.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg']
+
+####### REFERENCES #######
+
+['http://scholar.google.com/scholar?q=%22Function%22+mathematics', 'http://www.google.com/search?&q=%22Function%22+mathematics&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Function%22+mathematics', 'http://www.google.com/search?tbm=nws&q=%22Function%22+mathematics+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Function%22+mathematics+-wikipedia', 'http://functions.wolfram.com/', 'http://mathworld.wolfram.com/Map.html', 'http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.113.6352', 'http://archives.math.utk.edu/visual.calculus/', 'http://www.people.vcu.edu/~rhammack/BookOfProof/', 'http://www.people.vcu.edu/~rhammack/BookOfProof/Functions.pdf', 'http://lccn.loc.gov/2002032369', 'http://lccn.loc.gov/2008020450', 'http://lccn.loc.gov/2012947365', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007553160705171', 'http://www.ams.org/mathscinet-getitem?mr=2467561', 'http://doi.org/10.1007%2FS10649-006-9023-7', 'http://doi.org/10.1080%2F0020739800110404', 'http://doi.org/10.1515%2F9781400830398', 'http://doi.org/10.2307%2F2686848', 'http://encyclopediaofmath.org/index.php?title=Codomain&oldid=35690', 'http://www.jstor.org/stable/2686848', 'http://www.jstor.org/stable/j.ctt7sd01', 'http://openlibrary.org/books/OL19327100M', 'http://openlibrary.org/books/OL27544563M', 'http://openlibrary.org/books/OL31844948M', 'http://www.worldcat.org/oclc/1105855173', 'http://www.worldcat.org/oclc/227205932', 'http://www.worldcat.org/oclc/25409557', 'http://www.worldcat.org/oclc/856545590', 'http://www.worldcat.org/oclc/953799815', 'http://zbmath.org/?format=complete&q=an:0872.26001', 'http://zbmath.org/?format=complete&q=an:1204.00023', 'http://zbmath.org/?format=complete&q=an:1242.00016', 'https://www.britannica.com/science/function-mathematics', 'https://books.google.com/books?id=7JKVu_9InRUC', 'https://books.google.com/books?id=B3WvWhJTTX8C&pg=PA468', 'https://books.google.com/books?id=QJ_537n8zKYC', 'https://books.google.com/books?id=x6cZBQ9qtgoC', 'https://math.stackexchange.com/q/1403122', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph114594&CON_LNG=ENG', 'https://digitalcommons.trinity.edu/mono/7/', 'https://catalogue.bnf.fr/ark:/12148/cb11946892t', 'https://data.bnf.fr/ark:/12148/cb11946892t', 'https://id.loc.gov/authorities/subjects/sh85052327', 'https://dlmf.nist.gov/', 'https://books.google.co.in/books?id=rqmABwAAQBAJ&pg=PA30&dq=al+biruni+first+to+study+mathematical+function&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&ved=2ahUKEwjsnKuNgpH6AhUbT2wGHcV5A-AQ6AF6BAgHEAM#v=onepage&q=al%20biruni%20first%20to%20study%20mathematical%20function&f=false', 'https://www.classicalrealanalysis.info/com/documents/TBB-AllChapters-Portrait.pdf', 'https://d-nb.info/gnd/4071510-3', 'https://id.ndl.go.jp/auth/ndlna/00564960', 'https://archive.org/details/calculusanalytic00geor_0', 'https://archive.org/details/studentssolution00anto', 'https://www.encyclopediaofmath.org/index.php?title=Bijection&oldid=30987', 'https://www.encyclopediaofmath.org/index.php?title=Function&oldid=36823', 'https://www.encyclopediaofmath.org/index.php?title=Function', 'https://www.encyclopediaofmath.org/index.php?title=Injection&oldid=30986', 'https://www.encyclopediaofmath.org/index.php?title=Surjection&oldid=35689', 'https://www.jstor.org/action/doBasicSearch?Query=%22Function%22+mathematics&acc=on&wc=on', 'https://www.semanticscholar.org/paper/Stages-in-the-History-of-Algebra-with-Implications-Katz-Barton/dc525a55b020e13a65595d19e3db9f3a808d98d1', 'https://www.wikidata.org/wiki/Q11348#identifiers', 'https://www.worldcat.org/oclc/25409557']
+
+####### SUMMARY #######
+
+In mathematics, a function from a set X to a set Y assigns to each element of X exactly one element of Y. The set X is called the domain of the function and the set Y is called the codomain of the function.The earliest known approach to the notion of function can be traced back to works of Persian mathematicians Al-Biruni and Sharaf al-Din al-Tusi. Functions were originally the idealization of how a varying quantity depends on another quantity. For example, the position of a planet is a function of time. Historically, the concept was elaborated with the infinitesimal calculus at the end of the 17th century, and, until the 19th century, the functions that were considered were differentiable (that is, they had a high degree of regularity). The concept of a function was formalized at the end of the 19th century in terms of set theory, and this greatly enlarged the domains of application of the concept.
+A function is most often denoted by letters such as f, g and h, and the value of a function f at an element x of its domain is denoted by f(x); the numerical value resulting from the function evaluation at a particular input value is denoted by replacing x with this value; for example, the value of f at x = 4 is denoted by f(4). When the function is not named and is represented by an expression E, the value of the function at, say, x = 4 may be denoted by E|x=4. For example, the value at 4 of the function that maps x to 
+  
+    
+      
+        (
+        x
+        +
+        1
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (x+1)^{2}}
+   may be denoted by 
+  
+    
+      
+        
+          
+            
+            
+              (
+              x
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+            |
+          
+          
+            x
+            =
+            4
+          
+        
+      
+    
+    {\displaystyle \left.(x+1)^{2}\right\vert _{x=4}}
+   (which results in 25).A function is uniquely represented by the set of all pairs (x, f (x)), called the graph of the function, a popular means of illustrating the function. When the domain and the codomain are sets of real numbers, each such pair may be thought of as the Cartesian coordinates of a point in the plane.
+Functions are widely used in science, engineering, and in most fields of mathematics. It has been said that functions are "the central objects of investigation" in most fields of mathematics.
+
+####### CONTENT #######
+
+In mathematics, a function from a set X to a set Y assigns to each element of X exactly one element of Y. The set X is called the domain of the function and the set Y is called the codomain of the function.The earliest known approach to the notion of function can be traced back to works of Persian mathematicians Al-Biruni and Sharaf al-Din al-Tusi. Functions were originally the idealization of how a varying quantity depends on another quantity. For example, the position of a planet is a function of time. Historically, the concept was elaborated with the infinitesimal calculus at the end of the 17th century, and, until the 19th century, the functions that were considered were differentiable (that is, they had a high degree of regularity). The concept of a function was formalized at the end of the 19th century in terms of set theory, and this greatly enlarged the domains of application of the concept.
+A function is most often denoted by letters such as f, g and h, and the value of a function f at an element x of its domain is denoted by f(x); the numerical value resulting from the function evaluation at a particular input value is denoted by replacing x with this value; for example, the value of f at x = 4 is denoted by f(4). When the function is not named and is represented by an expression E, the value of the function at, say, x = 4 may be denoted by E|x=4. For example, the value at 4 of the function that maps x to 
+  
+    
+      
+        (
+        x
+        +
+        1
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (x+1)^{2}}
+   may be denoted by 
+  
+    
+      
+        
+          
+            
+            
+              (
+              x
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+            |
+          
+          
+            x
+            =
+            4
+          
+        
+      
+    
+    {\displaystyle \left.(x+1)^{2}\right\vert _{x=4}}
+   (which results in 25).A function is uniquely represented by the set of all pairs (x, f (x)), called the graph of the function, a popular means of illustrating the function. When the domain and the codomain are sets of real numbers, each such pair may be thought of as the Cartesian coordinates of a point in the plane.
+Functions are widely used in science, engineering, and in most fields of mathematics. It has been said that functions are "the central objects of investigation" in most fields of mathematics.
+
+
+== Definition ==
+
+A function from a set X to a set Y is an assignment of an element of Y to each element of X. The set X is called the domain of the function and the set Y is called the codomain of the function.
+A function, its domain, and its codomain, are declared by the notation f: X→Y, and the value of a function f at an element x of X, denoted by f(x), is called the image of x under f, or the value of f applied to the argument x. 
+Functions are also called maps or mappings, though some authors make some distinction between "maps" and "functions" (see § Other terms).
+Two functions f and g are equal if their domain and codomain sets are the same and their output values agree on the whole domain. More formally, given  f: X → Y and g: X → Y, we have f = g if and only if f(x) = g(x) for all x ∈ X.The domain and codomain are not always explicitly given when a function is defined, and, without some (possibly difficult) computation, one might only know that the domain is contained in a larger set. Typically, this occurs in mathematical analysis, where "a function from X to Y " often refers to a function that may have a proper subset of X as domain. For example, a "function from the reals to the reals" may refer to a real-valued function of a real variable. However, a "function from the reals to the reals" does not mean that the domain of the function is the whole set of the real numbers, but only that the domain is a set of real numbers that contains a non-empty open interval. Such a function is then called a partial function. For example, if f is a function that has the real numbers as domain and codomain, then a function mapping the value x to the value g(x) = 1/f(x) is a function g from the reals to the reals, whose domain is the set of the reals x, such that f(x) ≠ 0.
+The range or image of a function is the set of the images of all elements in the domain.
+
+
+=== Total, univalent relation ===
+Any subset of the Cartesian product of two sets X and Y defines a binary relation R ⊆ X × Y between these two sets. It is immediate that an arbitrary relation may contain pairs that violate the necessary conditions for a function given above.
+A binary relation is univalent (also called right-unique) if
+
+  
+    
+      
+        ∀
+        x
+        ∈
+        X
+        ,
+        ∀
+        y
+        ∈
+        Y
+        ,
+        ∀
+        z
+        ∈
+        Y
+        ,
+        
+        (
+        (
+        x
+        ,
+        y
+        )
+        ∈
+        R
+        ∧
+        (
+        x
+        ,
+        z
+        )
+        ∈
+        R
+        )
+        
+        ⟹
+        
+        y
+        =
+        z
+        .
+      
+    
+    {\displaystyle \forall x\in X,\forall y\in Y,\forall z\in Y,\quad ((x,y)\in R\land (x,z)\in R)\implies y=z.}
+  A binary relation is total if
+
+  
+    
+      
+        ∀
+        x
+        ∈
+        X
+        ,
+        ∃
+        y
+        ∈
+        Y
+        ,
+        
+        (
+        x
+        ,
+        y
+        )
+        ∈
+        R
+        .
+      
+    
+    {\displaystyle \forall x\in X,\exists y\in Y,\quad (x,y)\in R.}
+  A partial function is a binary relation that is univalent, and a function is a binary relation that is univalent and total.
+Various properties of functions and function composition may be reformulated in the language of relations. For example, a function is injective if the converse relation RT ⊆ Y × X is univalent, where the converse relation is defined as RT = {(y, x) | (x, y) ∈ R}.
+
+
+=== Set exponentiation ===
+
+The set of all functions from a set 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   to a set 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   is commonly denoted as
+
+  
+    
+      
+        
+          Y
+          
+            X
+          
+        
+        ,
+      
+    
+    {\displaystyle Y^{X},}
+  which is read as 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   to the power 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  .
+This notation is the same as the notation for the Cartesian product of a family of copies of 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   indexed by 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  :
+
+  
+    
+      
+        
+          Y
+          
+            X
+          
+        
+        =
+        
+          ∏
+          
+            x
+            ∈
+            X
+          
+        
+        Y
+        .
+      
+    
+    {\displaystyle Y^{X}=\prod _{x\in X}Y.}
+  The identity of these two notations is motivated by the fact that a function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   can be identified with the element of the Cartesian product such that the component of index 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  .
+When 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   has two elements, 
+  
+    
+      
+        
+          Y
+          
+            X
+          
+        
+      
+    
+    {\displaystyle Y^{X}}
+   is commonly denoted 
+  
+    
+      
+        
+          2
+          
+            X
+          
+        
+      
+    
+    {\displaystyle 2^{X}}
+   and called the powerset of X. It can be identified with the set of all subsets of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , through the one-to-one correspondence that associates to each subset 
+  
+    
+      
+        S
+        ⊆
+        X
+      
+    
+    {\displaystyle S\subseteq X}
+   the function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   such that 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        1
+      
+    
+    {\displaystyle f(x)=1}
+   if 
+  
+    
+      
+        x
+        ∈
+        X
+      
+    
+    {\displaystyle x\in X}
+   and 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        0
+      
+    
+    {\displaystyle f(x)=0}
+   otherwise.
+
+
+== Notation ==
+There are various standard ways for denoting functions. The most commonly used notation is functional notation, which is the first notation described below.
+
+
+=== Functional notation ===
+In functional notation, the function is immediately given a name, such as f, and its definition is given by what f does to the explicit argument x, using a formula in terms of x. For example, the function which takes a real number as input and outputs that number plus 1 is denoted by
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        x
+        +
+        1
+      
+    
+    {\displaystyle f(x)=x+1}
+  .If a function is defined in this notation, its domain and codomain are implicitly taken to both be 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  , the set of real numbers. If the formula cannot be evaluated at all real numbers, then the domain is implicitly taken to be the maximal subset of 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   on which the formula can be evaluated; see Domain of a function.
+A more complicated example is the function
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        sin
+        ⁡
+        (
+        
+          x
+          
+            2
+          
+        
+        +
+        1
+        )
+      
+    
+    {\displaystyle f(x)=\sin(x^{2}+1)}
+  .In this example, the function f takes a real number as input, squares it, then adds 1 to the result, then takes the sine of the result, and returns the final result as the output.
+When the symbol denoting the function consists of several characters and no ambiguity may arise, the parentheses of functional notation might be omitted. For example, it is common to write sin x instead of sin(x).
+Functional notation was first used by Leonhard Euler in 1734. Some widely used functions are represented by a symbol consisting of several letters (usually two or three, generally an abbreviation of their name). In this case, a roman type is customarily used instead, such as "sin" for the sine function, in contrast to italic font for single-letter symbols.
+When using this notation, one often encounters the abuse of notation whereby the notation f(x) can refer to the value of f at x, or to the function itself. If the variable x was previously declared, then the notation f(x) unambiguously means the value of f at x. Otherwise, it is useful to understand the notation as being both simultaneously; this allows one to denote composition of two functions f and g in a succinct manner by the notation f(g(x)).
+However, distinguishing f and f(x) can become important in cases where functions themselves serve as inputs for other functions. (A function taking another function as an input is termed a functional.) Other approaches of notating functions, detailed below, avoid this problem but are less commonly used.
+
+
+=== Arrow notation ===
+Arrow notation defines the rule of a function inline, without requiring a name to be given to the function. For example, 
+  
+    
+      
+        x
+        ↦
+        x
+        +
+        1
+      
+    
+    {\displaystyle x\mapsto x+1}
+   is the function which takes a real number as input and outputs that number plus 1. Again a domain and codomain of 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   is implied.
+The domain and codomain can also be explicitly stated, for example:
+
+  
+    
+      
+        
+          
+            
+              
+                sqr
+                :
+                
+                  Z
+                
+              
+              
+                
+                →
+                
+                  Z
+                
+              
+            
+            
+              
+                x
+              
+              
+                
+                ↦
+                
+                  x
+                  
+                    2
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\operatorname {sqr} \colon \mathbb {Z} &\to \mathbb {Z} \\x&\mapsto x^{2}.\end{aligned}}}
+  This defines a function sqr from the integers to the integers that returns the square of its input.
+As a common application of the arrow notation, suppose 
+  
+    
+      
+        f
+        :
+        X
+        ×
+        X
+        →
+        Y
+        ;
+        
+        (
+        x
+        ,
+        t
+        )
+        ↦
+        f
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle f\colon X\times X\to Y;\;(x,t)\mapsto f(x,t)}
+   is a function in two variables, and we want to refer to a partially applied function 
+  
+    
+      
+        X
+        →
+        Y
+      
+    
+    {\displaystyle X\to Y}
+   produced by fixing the second argument to the value t0 without introducing a new function name.  The map in question could be denoted 
+  
+    
+      
+        x
+        ↦
+        f
+        (
+        x
+        ,
+        
+          t
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle x\mapsto f(x,t_{0})}
+   using the arrow notation. The expression 
+  
+    
+      
+        x
+        ↦
+        f
+        (
+        x
+        ,
+        
+          t
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle x\mapsto f(x,t_{0})}
+   (read: "the map taking x to f(x, t0)") represents this new function with just one argument, whereas the expression f(x0, t0) refers to the value of the function f at the point (x0, t0).
+
+
+=== Index notation ===
+Index notation is often used instead of functional notation. That is, instead of writing f (x), one writes 
+  
+    
+      
+        
+          f
+          
+            x
+          
+        
+        .
+      
+    
+    {\displaystyle f_{x}.}
+  
+This is typically the case for functions whose domain is the set of the natural numbers. Such a function is called a sequence, and, in this case the element 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f_{n}}
+   is called the nth element of sequence.
+The index notation is also often used for distinguishing some variables called parameters from the "true variables". In fact, parameters are specific variables that are considered as being fixed during the study of a problem.  For example, the map 
+  
+    
+      
+        x
+        ↦
+        f
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle x\mapsto f(x,t)}
+   (see above) would be denoted 
+  
+    
+      
+        
+          f
+          
+            t
+          
+        
+      
+    
+    {\displaystyle f_{t}}
+   using index notation, if we define the collection of maps 
+  
+    
+      
+        
+          f
+          
+            t
+          
+        
+      
+    
+    {\displaystyle f_{t}}
+   by the formula 
+  
+    
+      
+        
+          f
+          
+            t
+          
+        
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle f_{t}(x)=f(x,t)}
+   for all 
+  
+    
+      
+        x
+        ,
+        t
+        ∈
+        X
+      
+    
+    {\displaystyle x,t\in X}
+  .
+
+
+=== Dot notation ===
+In the notation
+
+  
+    
+      
+        x
+        ↦
+        f
+        (
+        x
+        )
+        ,
+      
+    
+    {\displaystyle x\mapsto f(x),}
+  
+the symbol x does not represent any value, it is simply a placeholder meaning that, if x is replaced by any value on the left of the arrow, it should be replaced by the same value on the right of the arrow. Therefore, x may be replaced by any symbol, often an interpunct " ⋅ ". This may be useful for distinguishing the function f (⋅) from its value f (x) at x.
+For example, 
+  
+    
+      
+        a
+        (
+        ⋅
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a(\cdot )^{2}}
+   may stand for the function 
+  
+    
+      
+        x
+        ↦
+        a
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x\mapsto ax^{2}}
+  , and 
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            
+            (
+            ⋅
+            )
+          
+        
+        f
+        (
+        u
+        )
+        
+        d
+        u
+      
+    
+    {\textstyle \int _{a}^{\,(\cdot )}f(u)\,du}
+   may stand for a function defined by an integral with variable upper bound: 
+  
+    
+      
+        x
+        ↦
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        u
+        )
+        
+        d
+        u
+      
+    
+    {\textstyle x\mapsto \int _{a}^{x}f(u)\,du}
+  .
+
+
+=== Specialized notations ===
+There are other, specialized notations for functions in sub-disciplines of mathematics.  For example, in linear algebra and functional analysis, linear forms and the vectors they act upon are denoted using a dual pair to show the underlying duality.  This is similar to the use of bra–ket notation in quantum mechanics.  In logic and the theory of computation, the function notation of lambda calculus is used to explicitly express the basic notions of function abstraction and application.  In category theory and homological algebra, networks of functions are described in terms of how they and their compositions commute with each other using commutative diagrams that extend and generalize the arrow notation for functions described above.
+
+
+== Other terms ==
+
+A function is often also called a map or a mapping, but some authors make a distinction between the term "map" and "function". For example, the term "map" is often reserved for a "function" with some sort of special structure (e.g. maps of manifolds). In particular map is often used in place of homomorphism for the sake of succinctness (e.g., linear map or map from G to H instead of group homomorphism from G to H). Some authors reserve the word mapping for the case where the structure of the codomain belongs explicitly to the definition of the function.
+Some authors, such as Serge Lang, use "function" only to refer to maps for which the codomain is a subset of the real or complex numbers, and use the term mapping for more general functions.
+In the theory of dynamical systems, a map denotes an evolution function used to create discrete dynamical systems. See also Poincaré map.
+Whichever definition of map is used, related terms like domain, codomain, injective, continuous have the same meaning as for a function.
+
+
+== Specifying a function ==
+Given a function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  , by definition, to each element 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   of the domain of the function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  , there is a unique element associated to it, the value 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   at 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  . There are several ways to specify or describe how 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is related to 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  , both explicitly and implicitly. Sometimes, a theorem or an axiom asserts the existence of a function having some properties, without describing it more precisely. Often, the specification or description is referred to as the definition of the function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  .
+
+
+=== By listing function values ===
+On a finite set, a function may be defined by listing the elements of the codomain that are associated to the elements of the domain. For example, if 
+  
+    
+      
+        A
+        =
+        {
+        1
+        ,
+        2
+        ,
+        3
+        }
+      
+    
+    {\displaystyle A=\{1,2,3\}}
+  , then one can define a function 
+  
+    
+      
+        f
+        :
+        A
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f\colon A\to \mathbb {R} }
+   by 
+  
+    
+      
+        f
+        (
+        1
+        )
+        =
+        2
+        ,
+        f
+        (
+        2
+        )
+        =
+        3
+        ,
+        f
+        (
+        3
+        )
+        =
+        4.
+      
+    
+    {\displaystyle f(1)=2,f(2)=3,f(3)=4.}
+  
+
+
+=== By a formula ===
+Functions are often defined by a formula that describes a combination of arithmetic operations and previously defined functions; such a formula allows computing the value of the function from the value of any element of the domain.
+For example, in the above example, 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   can be defined by the formula 
+  
+    
+      
+        f
+        (
+        n
+        )
+        =
+        n
+        +
+        1
+      
+    
+    {\displaystyle f(n)=n+1}
+  , for 
+  
+    
+      
+        n
+        ∈
+        {
+        1
+        ,
+        2
+        ,
+        3
+        }
+      
+    
+    {\displaystyle n\in \{1,2,3\}}
+  .
+When a function is defined this way, the determination of its domain is sometimes difficult. If the formula that defines the function contains divisions, the values of the variable for which a denominator is zero must be excluded from the domain; thus, for a complicated function, the determination of the domain passes through the computation of the zeros of auxiliary functions. Similarly, if square roots occur in the definition of a function from 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   to 
+  
+    
+      
+        
+          R
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {R} ,}
+   the domain is included in the set of the values of the variable for which the arguments of the square roots are nonnegative.
+For example, 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            1
+            +
+            
+              x
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle f(x)={\sqrt {1+x^{2}}}}
+   defines a function 
+  
+    
+      
+        f
+        :
+        
+          R
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f\colon \mathbb {R} \to \mathbb {R} }
+   whose domain is 
+  
+    
+      
+        
+          R
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {R} ,}
+   because 
+  
+    
+      
+        1
+        +
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 1+x^{2}}
+   is always positive if x is a real number. On the other hand, 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            1
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle f(x)={\sqrt {1-x^{2}}}}
+   defines a function from the reals to the reals whose domain is reduced to the interval [−1, 1]. (In old texts, such a domain was called the domain of definition of the function.)
+Functions are often classified by the nature of formulas that define them:
+
+A quadratic function is a function that may be written 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        ,
+      
+    
+    {\displaystyle f(x)=ax^{2}+bx+c,}
+   where a, b, c are constants.
+More generally, a polynomial function is a function that can be defined by a formula involving only additions, subtractions, multiplications, and exponentiation to nonnegative integers. For example, 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          x
+          
+            3
+          
+        
+        −
+        3
+        x
+        −
+        1
+        ,
+      
+    
+    {\displaystyle f(x)=x^{3}-3x-1,}
+   and 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        (
+        x
+        −
+        1
+        )
+        (
+        
+          x
+          
+            3
+          
+        
+        +
+        1
+        )
+        +
+        2
+        
+          x
+          
+            2
+          
+        
+        −
+        1.
+      
+    
+    {\displaystyle f(x)=(x-1)(x^{3}+1)+2x^{2}-1.}
+  
+A rational function is the same, with divisions also allowed, such as 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            
+              x
+              −
+              1
+            
+            
+              x
+              +
+              1
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle f(x)={\frac {x-1}{x+1}},}
+   and 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            1
+            
+              x
+              +
+              1
+            
+          
+        
+        +
+        
+          
+            3
+            x
+          
+        
+        −
+        
+          
+            2
+            
+              x
+              −
+              1
+            
+          
+        
+        .
+      
+    
+    {\displaystyle f(x)={\frac {1}{x+1}}+{\frac {3}{x}}-{\frac {2}{x-1}}.}
+  
+An algebraic function is the same, with nth roots and roots of polynomials also allowed.
+An elementary function is the same, with logarithms and exponential functions allowed.
+
+
+=== Inverse and implicit functions ===
+A function 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+        ,
+      
+    
+    {\displaystyle f\colon X\to Y,}
+   with domain X and codomain Y, is bijective, if for every y in Y, there is one and only one element x in X such that y = f(x). In this case, the inverse function of f is the function 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        :
+        Y
+        →
+        X
+      
+    
+    {\displaystyle f^{-1}\colon Y\to X}
+   that maps 
+  
+    
+      
+        y
+        ∈
+        Y
+      
+    
+    {\displaystyle y\in Y}
+   to the element 
+  
+    
+      
+        x
+        ∈
+        X
+      
+    
+    {\displaystyle x\in X}
+   such that y = f(x). For example, the natural logarithm is a bijective function from the positive real numbers to the real numbers. It thus has an inverse, called the exponential function, that maps the real numbers onto the positive numbers.
+If a function 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f\colon X\to Y}
+   is not bijective, it may occur that one can select subsets 
+  
+    
+      
+        E
+        ⊆
+        X
+      
+    
+    {\displaystyle E\subseteq X}
+   and 
+  
+    
+      
+        F
+        ⊆
+        Y
+      
+    
+    {\displaystyle F\subseteq Y}
+   such that the restriction of f to E is a bijection from E to F, and has thus an inverse. The inverse trigonometric functions are defined this way. For example, the cosine function induces, by restriction, a bijection from the interval [0, π] onto the interval [−1, 1], and its inverse function, called arccosine, maps [−1, 1] onto [0, π]. The other inverse trigonometric functions are defined similarly.
+More generally, given a binary relation R between two sets X and Y, let E be a subset of X such that, for every 
+  
+    
+      
+        x
+        ∈
+        E
+        ,
+      
+    
+    {\displaystyle x\in E,}
+   there is some 
+  
+    
+      
+        y
+        ∈
+        Y
+      
+    
+    {\displaystyle y\in Y}
+   such that x R y. If one has a criterion allowing selecting such an y for every 
+  
+    
+      
+        x
+        ∈
+        E
+        ,
+      
+    
+    {\displaystyle x\in E,}
+   this defines a function 
+  
+    
+      
+        f
+        :
+        E
+        →
+        Y
+        ,
+      
+    
+    {\displaystyle f\colon E\to Y,}
+   called an implicit function, because it is implicitly defined by the relation R.
+For example, the equation of the unit circle 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle x^{2}+y^{2}=1}
+   defines a relation on real numbers. If −1 < x < 1 there are two possible values of y, one positive and one negative. For x = ± 1, these two values become both equal to 0. Otherwise, there is no possible value of y. This means that the equation defines two implicit functions with domain [−1, 1] and respective codomains [0, +∞) and (−∞, 0].
+In this example, the equation can be solved in y, giving 
+  
+    
+      
+        y
+        =
+        ±
+        
+          
+            1
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle y=\pm {\sqrt {1-x^{2}}},}
+   but, in more complicated examples, this is impossible. For example, the relation 
+  
+    
+      
+        
+          y
+          
+            5
+          
+        
+        +
+        y
+        +
+        x
+        =
+        0
+      
+    
+    {\displaystyle y^{5}+y+x=0}
+   defines y as an implicit function of x, called the Bring radical, which has 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   as domain and range. The Bring radical cannot be expressed in terms of the four arithmetic operations and nth roots.
+The implicit function theorem provides mild differentiability conditions for existence and uniqueness of an implicit function in the neighborhood of a point.
+
+
+=== Using differential calculus ===
+Many functions can be defined as the antiderivative of another function. This is the case of the natural logarithm, which is the antiderivative of 1/x that is 0 for x = 1. Another common example is the error function.
+More generally, many functions, including most special functions, can be defined as solutions of differential equations. The simplest example is probably the exponential function, which can be defined as the unique function that is equal to its derivative and takes the value 1 for x = 0.
+Power series can be used to define functions on the domain in which they converge. For example, the exponential function is given by 
+  
+    
+      
+        
+          e
+          
+            x
+          
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              x
+              
+                n
+              
+            
+            
+              n
+              !
+            
+          
+        
+      
+    
+    {\displaystyle e^{x}=\sum _{n=0}^{\infty }{x^{n} \over n!}}
+  . However, as the coefficients of a series are quite arbitrary, a function that is the sum of a convergent series is generally defined otherwise, and the sequence of the coefficients is the result of some computation based on another definition. Then, the power series can be used to enlarge the domain of the function. Typically, if a function for a real variable is the sum of its Taylor series in some interval, this power series allows immediately enlarging the domain to a subset of the complex numbers, the disc of convergence of the series. Then analytic continuation allows enlarging further the domain for including almost the whole complex plane. This process is the method that is generally used for defining the logarithm, the exponential and the trigonometric functions of a complex number.
+
+
+=== By recurrence ===
+
+Functions whose domain are the nonnegative integers, known as sequences, are often defined by recurrence relations.
+The factorial function on the nonnegative integers (
+  
+    
+      
+        n
+        ↦
+        n
+        !
+      
+    
+    {\displaystyle n\mapsto n!}
+  ) is a basic example, as it can be defined by the recurrence relation
+
+  
+    
+      
+        n
+        !
+        =
+        n
+        (
+        n
+        −
+        1
+        )
+        !
+        
+        
+          for
+        
+        
+        n
+        >
+        0
+        ,
+      
+    
+    {\displaystyle n!=n(n-1)!\quad {\text{for}}\quad n>0,}
+  and the initial condition
+
+  
+    
+      
+        0
+        !
+        =
+        1.
+      
+    
+    {\displaystyle 0!=1.}
+  
+
+
+== Representing a function ==
+A graph is commonly used to give an intuitive picture of a function.  As an example of how a graph helps to understand a function, it is easy to see from its graph whether a function is increasing or decreasing. Some functions may also be represented by bar charts.
+
+
+=== Graphs and plots ===
+
+Given a function 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+        ,
+      
+    
+    {\displaystyle f\colon X\to Y,}
+   its graph is, formally, the set
+
+  
+    
+      
+        G
+        =
+        {
+        (
+        x
+        ,
+        f
+        (
+        x
+        )
+        )
+        ∣
+        x
+        ∈
+        X
+        }
+        .
+      
+    
+    {\displaystyle G=\{(x,f(x))\mid x\in X\}.}
+  In the frequent case where X and Y are subsets of the real numbers (or may be identified with such subsets, e.g. intervals), an element 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+        ∈
+        G
+      
+    
+    {\displaystyle (x,y)\in G}
+   may be identified with a point having coordinates x, y in a 2-dimensional coordinate system, e.g. the Cartesian plane. Parts of this may create a plot that represents (parts of) the function. The use of plots is so ubiquitous that they too are called the graph of the function. Graphic representations of functions are also possible in other coordinate systems. For example, the graph of the square function
+
+  
+    
+      
+        x
+        ↦
+        
+          x
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle x\mapsto x^{2},}
+  consisting of all points with coordinates 
+  
+    
+      
+        (
+        x
+        ,
+        
+          x
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle (x,x^{2})}
+   for 
+  
+    
+      
+        x
+        ∈
+        
+          R
+        
+        ,
+      
+    
+    {\displaystyle x\in \mathbb {R} ,}
+   yields, when depicted in Cartesian coordinates, the well known parabola. If the same quadratic function 
+  
+    
+      
+        x
+        ↦
+        
+          x
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle x\mapsto x^{2},}
+   with the same formal graph, consisting of pairs of numbers, is plotted instead in polar coordinates 
+  
+    
+      
+        (
+        r
+        ,
+        θ
+        )
+        =
+        (
+        x
+        ,
+        
+          x
+          
+            2
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle (r,\theta )=(x,x^{2}),}
+   the plot obtained is Fermat's spiral.
+
+
+=== Tables ===
+
+A function can be represented as a table of values.  If the domain of a function is finite, then the function can be completely specified in this way.  For example, the multiplication function 
+  
+    
+      
+        f
+        :
+        {
+        1
+        ,
+        …
+        ,
+        5
+        
+          }
+          
+            2
+          
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f\colon \{1,\ldots ,5\}^{2}\to \mathbb {R} }
+   defined as 
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        =
+        x
+        y
+      
+    
+    {\displaystyle f(x,y)=xy}
+   can be represented by the familiar multiplication table
+
+On the other hand, if a function's domain is continuous, a table can give the values of the function at specific values of the domain.  If an intermediate value is needed, interpolation can be used to estimate the value of the function.  For example, a portion of a table for the sine function might be given as follows, with values rounded to 6 decimal places:
+
+Before the advent of handheld calculators and personal computers, such tables were often compiled and published for functions such as logarithms and trigonometric functions.
+
+
+=== Bar chart ===
+
+Bar charts are often used for representing functions whose domain is a finite set, the natural numbers, or the integers. In this case, an element x of the domain is represented by an interval of the x-axis, and the corresponding value of the function, f(x), is represented by a rectangle whose base is the interval corresponding to x and whose height is f(x) (possibly negative, in which case the bar extends below the x-axis).
+
+
+== General properties ==
+This section describes general properties of functions, that are independent of specific properties of the domain and the codomain.
+
+
+=== Standard functions ===
+There are a number of standard functions that occur frequently:
+
+For every set X, there is a unique function, called the empty function, or empty map, from the empty set to X. The graph of an empty function is the empty set. The existence of empty functions is needed both for the coherency of the theory and for avoiding exceptions concerning the empty set in many statements. Under the usual set-theoretic definition of a function as an ordered triplet (or equivalent ones), there is exactly one empty function for each set, thus the empty function 
+  
+    
+      
+        ∅
+        ↦
+        X
+      
+    
+    {\displaystyle \varnothing \mapsto X}
+   is not equal to 
+  
+    
+      
+        ∅
+        ↦
+        Y
+      
+    
+    {\displaystyle \varnothing \mapsto Y}
+   if and only if 
+  
+    
+      
+        X
+        ≠
+        Y
+      
+    
+    {\displaystyle X\neq Y}
+  , although their graph are both the empty set.
+For every set X and every singleton set {s}, there is a unique function from X to {s}, which maps every element of X to s. This is a surjection (see below) unless X is the empty set.
+Given a function 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+        ,
+      
+    
+    {\displaystyle f\colon X\to Y,}
+   the canonical surjection of f onto its image 
+  
+    
+      
+        f
+        (
+        X
+        )
+        =
+        {
+        f
+        (
+        x
+        )
+        ∣
+        x
+        ∈
+        X
+        }
+      
+    
+    {\displaystyle f(X)=\{f(x)\mid x\in X\}}
+   is the function from X to f(X) that maps x to f(x).
+For every subset A of a set X, the inclusion map of A into X is the injective (see below) function that maps every element of A to itself.
+The identity function on a set X, often denoted by idX, is the inclusion of X into itself.
+
+
+=== Function composition ===
+
+Given two functions 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f\colon X\to Y}
+   and 
+  
+    
+      
+        g
+        :
+        Y
+        →
+        Z
+      
+    
+    {\displaystyle g\colon Y\to Z}
+   such that the domain of g is the codomain of f, their composition is the function 
+  
+    
+      
+        g
+        ∘
+        f
+        :
+        X
+        →
+        Z
+      
+    
+    {\displaystyle g\circ f\colon X\rightarrow Z}
+   defined by
+
+  
+    
+      
+        (
+        g
+        ∘
+        f
+        )
+        (
+        x
+        )
+        =
+        g
+        (
+        f
+        (
+        x
+        )
+        )
+        .
+      
+    
+    {\displaystyle (g\circ f)(x)=g(f(x)).}
+  That is, the value of 
+  
+    
+      
+        g
+        ∘
+        f
+      
+    
+    {\displaystyle g\circ f}
+   is obtained by first applying f to x to obtain y = f(x) and then applying g to the result y to obtain g(y) = g(f(x)). In the notation the function that is applied first is always written on the right.
+The composition 
+  
+    
+      
+        g
+        ∘
+        f
+      
+    
+    {\displaystyle g\circ f}
+   is an operation on functions that is defined only if the codomain of the first function is the domain of the second one. Even when both 
+  
+    
+      
+        g
+        ∘
+        f
+      
+    
+    {\displaystyle g\circ f}
+   and 
+  
+    
+      
+        f
+        ∘
+        g
+      
+    
+    {\displaystyle f\circ g}
+   satisfy these conditions, the composition is not necessarily commutative, that is, the functions 
+  
+    
+      
+        g
+        ∘
+        f
+      
+    
+    {\displaystyle g\circ f}
+   and 
+  
+    
+      
+        f
+        ∘
+        g
+      
+    
+    {\displaystyle f\circ g}
+   need not be equal, but may deliver different values for the same argument. For example, let f(x) = x2 and g(x) = x + 1, then 
+  
+    
+      
+        g
+        (
+        f
+        (
+        x
+        )
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle g(f(x))=x^{2}+1}
+   and 
+  
+    
+      
+        f
+        (
+        g
+        (
+        x
+        )
+        )
+        =
+        (
+        x
+        +
+        1
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f(g(x))=(x+1)^{2}}
+   agree just for 
+  
+    
+      
+        x
+        =
+        0.
+      
+    
+    {\displaystyle x=0.}
+  
+The function composition is associative in the sense that, if one of 
+  
+    
+      
+        (
+        h
+        ∘
+        g
+        )
+        ∘
+        f
+      
+    
+    {\displaystyle (h\circ g)\circ f}
+   and 
+  
+    
+      
+        h
+        ∘
+        (
+        g
+        ∘
+        f
+        )
+      
+    
+    {\displaystyle h\circ (g\circ f)}
+   is defined, then the other is also defined, and they are equal. Thus, one writes
+
+  
+    
+      
+        h
+        ∘
+        g
+        ∘
+        f
+        =
+        (
+        h
+        ∘
+        g
+        )
+        ∘
+        f
+        =
+        h
+        ∘
+        (
+        g
+        ∘
+        f
+        )
+        .
+      
+    
+    {\displaystyle h\circ g\circ f=(h\circ g)\circ f=h\circ (g\circ f).}
+  The identity functions 
+  
+    
+      
+        
+          id
+          
+            X
+          
+        
+      
+    
+    {\displaystyle \operatorname {id} _{X}}
+   and 
+  
+    
+      
+        
+          id
+          
+            Y
+          
+        
+      
+    
+    {\displaystyle \operatorname {id} _{Y}}
+   are respectively a right identity and a left identity for functions from X to Y. That is, if f is a function with domain X, and codomain Y, one has
+
+  
+    
+      
+        f
+        ∘
+        
+          id
+          
+            X
+          
+        
+        =
+        
+          id
+          
+            Y
+          
+        
+        ∘
+        f
+        =
+        f
+        .
+      
+    
+    {\displaystyle f\circ \operatorname {id} _{X}=\operatorname {id} _{Y}\circ f=f.}
+  
+
+		
+		
+
+
+=== Image and preimage ===
+
+Let 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+        .
+      
+    
+    {\displaystyle f\colon X\to Y.}
+   The image under f of an element x of the domain X is f(x). If A is any subset of X, then the image of A under f, denoted f(A), is the subset of the codomain Y consisting of all images of elements of A, that is,
+
+  
+    
+      
+        f
+        (
+        A
+        )
+        =
+        {
+        f
+        (
+        x
+        )
+        ∣
+        x
+        ∈
+        A
+        }
+        .
+      
+    
+    {\displaystyle f(A)=\{f(x)\mid x\in A\}.}
+  The image of f is the image of the whole domain, that is, f(X). It is also called the range of f, although the term range may also refer to the codomain.On the other hand, the inverse image or preimage under f of an element y of the codomain Y is the set of all elements of the domain X whose images under f equal y. In symbols, the preimage of y is denoted by 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle f^{-1}(y)}
+   and is given by the equation
+
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        y
+        )
+        =
+        {
+        x
+        ∈
+        X
+        ∣
+        f
+        (
+        x
+        )
+        =
+        y
+        }
+        .
+      
+    
+    {\displaystyle f^{-1}(y)=\{x\in X\mid f(x)=y\}.}
+  Likewise, the preimage of a subset B of the codomain Y is the set of the preimages of the elements of B, that is, it is the subset of the domain X consisting of all elements of X whose images belong to B. It is denoted by 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        B
+        )
+      
+    
+    {\displaystyle f^{-1}(B)}
+   and is given by the equation
+
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        B
+        )
+        =
+        {
+        x
+        ∈
+        X
+        ∣
+        f
+        (
+        x
+        )
+        ∈
+        B
+        }
+        .
+      
+    
+    {\displaystyle f^{-1}(B)=\{x\in X\mid f(x)\in B\}.}
+  For example, the preimage of 
+  
+    
+      
+        {
+        4
+        ,
+        9
+        }
+      
+    
+    {\displaystyle \{4,9\}}
+   under the square function is the set 
+  
+    
+      
+        {
+        −
+        3
+        ,
+        −
+        2
+        ,
+        2
+        ,
+        3
+        }
+      
+    
+    {\displaystyle \{-3,-2,2,3\}}
+  .
+By definition of a function, the image of an element x of the domain is always a single element of the codomain. However, the preimage 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle f^{-1}(y)}
+   of an element y of the codomain may be empty or contain any number of elements. For example, if f is the function from the integers to themselves that maps every integer to 0, then 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        0
+        )
+        =
+        
+          Z
+        
+      
+    
+    {\displaystyle f^{-1}(0)=\mathbb {Z} }
+  .
+If 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f\colon X\to Y}
+   is a function, A and B are subsets of X, and C and D are subsets of Y, then one has the following properties:
+
+  
+    
+      
+        A
+        ⊆
+        B
+        ⟹
+        f
+        (
+        A
+        )
+        ⊆
+        f
+        (
+        B
+        )
+      
+    
+    {\displaystyle A\subseteq B\Longrightarrow f(A)\subseteq f(B)}
+  
+
+  
+    
+      
+        C
+        ⊆
+        D
+        ⟹
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        C
+        )
+        ⊆
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        D
+        )
+      
+    
+    {\displaystyle C\subseteq D\Longrightarrow f^{-1}(C)\subseteq f^{-1}(D)}
+  
+
+  
+    
+      
+        A
+        ⊆
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        f
+        (
+        A
+        )
+        )
+      
+    
+    {\displaystyle A\subseteq f^{-1}(f(A))}
+  
+
+  
+    
+      
+        C
+        ⊇
+        f
+        (
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        C
+        )
+        )
+      
+    
+    {\displaystyle C\supseteq f(f^{-1}(C))}
+  
+
+  
+    
+      
+        f
+        (
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        f
+        (
+        A
+        )
+        )
+        )
+        =
+        f
+        (
+        A
+        )
+      
+    
+    {\displaystyle f(f^{-1}(f(A)))=f(A)}
+  
+
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        f
+        (
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        C
+        )
+        )
+        )
+        =
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        C
+        )
+      
+    
+    {\displaystyle f^{-1}(f(f^{-1}(C)))=f^{-1}(C)}
+  The preimage by f of an element y of the codomain is sometimes called, in some contexts, the fiber of y under f.
+If a function f has an inverse (see below), this inverse is denoted 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle f^{-1}.}
+   In this case 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        C
+        )
+      
+    
+    {\displaystyle f^{-1}(C)}
+   may denote either the image by 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle f^{-1}}
+   or the preimage by f of C. This is not a problem, as these sets are equal. The notation 
+  
+    
+      
+        f
+        (
+        A
+        )
+      
+    
+    {\displaystyle f(A)}
+   and 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        C
+        )
+      
+    
+    {\displaystyle f^{-1}(C)}
+   may be ambiguous in the case of sets that contain some subsets as elements, such as 
+  
+    
+      
+        {
+        x
+        ,
+        {
+        x
+        }
+        }
+        .
+      
+    
+    {\displaystyle \{x,\{x\}\}.}
+   In this case, some care may be needed, for example, by using square brackets 
+  
+    
+      
+        f
+        [
+        A
+        ]
+        ,
+        
+          f
+          
+            −
+            1
+          
+        
+        [
+        C
+        ]
+      
+    
+    {\displaystyle f[A],f^{-1}[C]}
+   for images and preimages of subsets and ordinary parentheses for images and preimages of elements.
+
+
+=== Injective, surjective and bijective functions ===
+Let 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f\colon X\to Y}
+   be a function.
+The function f is injective (or one-to-one, or is an injection) if f(a) ≠ f(b) for any two different elements a and b of X. Equivalently, f is injective if and only if, for any 
+  
+    
+      
+        y
+        ∈
+        Y
+        ,
+      
+    
+    {\displaystyle y\in Y,}
+   the preimage 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle f^{-1}(y)}
+   contains at most one element. An empty function is always injective. If X is not the empty set, then f is injective if and only if there exists a function 
+  
+    
+      
+        g
+        :
+        Y
+        →
+        X
+      
+    
+    {\displaystyle g\colon Y\to X}
+   such that 
+  
+    
+      
+        g
+        ∘
+        f
+        =
+        
+          id
+          
+            X
+          
+        
+        ,
+      
+    
+    {\displaystyle g\circ f=\operatorname {id} _{X},}
+   that is, if f has a left inverse. Proof: If f is injective, for defining g, one chooses an element 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x_{0}}
+   in X (which exists as X is supposed to be nonempty), and one defines g by 
+  
+    
+      
+        g
+        (
+        y
+        )
+        =
+        x
+      
+    
+    {\displaystyle g(y)=x}
+   if 
+  
+    
+      
+        y
+        =
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle y=f(x)}
+   and 
+  
+    
+      
+        g
+        (
+        y
+        )
+        =
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle g(y)=x_{0}}
+   if 
+  
+    
+      
+        y
+        ∉
+        f
+        (
+        X
+        )
+        .
+      
+    
+    {\displaystyle y\not \in f(X).}
+   Conversely, if 
+  
+    
+      
+        g
+        ∘
+        f
+        =
+        
+          id
+          
+            X
+          
+        
+        ,
+      
+    
+    {\displaystyle g\circ f=\operatorname {id} _{X},}
+   and 
+  
+    
+      
+        y
+        =
+        f
+        (
+        x
+        )
+        ,
+      
+    
+    {\displaystyle y=f(x),}
+    then 
+  
+    
+      
+        x
+        =
+        g
+        (
+        y
+        )
+        ,
+      
+    
+    {\displaystyle x=g(y),}
+   and thus 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        y
+        )
+        =
+        {
+        x
+        }
+        .
+      
+    
+    {\displaystyle f^{-1}(y)=\{x\}.}
+  
+The function f is surjective (or onto, or is a surjection) if its range 
+  
+    
+      
+        f
+        (
+        X
+        )
+      
+    
+    {\displaystyle f(X)}
+   equals its codomain 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  , that is, if, for each element 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   of the codomain, there exists some element 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   of the domain such that 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        y
+      
+    
+    {\displaystyle f(x)=y}
+   (in other words, the preimage 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle f^{-1}(y)}
+   of every 
+  
+    
+      
+        y
+        ∈
+        Y
+      
+    
+    {\displaystyle y\in Y}
+   is nonempty). If, as usual in modern mathematics, the axiom of choice is assumed, then f is surjective if and only if there exists a function 
+  
+    
+      
+        g
+        :
+        Y
+        →
+        X
+      
+    
+    {\displaystyle g\colon Y\to X}
+   such that 
+  
+    
+      
+        f
+        ∘
+        g
+        =
+        
+          id
+          
+            Y
+          
+        
+        ,
+      
+    
+    {\displaystyle f\circ g=\operatorname {id} _{Y},}
+   that is, if f has a right inverse. The axiom of choice is needed, because, if f is surjective, one defines g by 
+  
+    
+      
+        g
+        (
+        y
+        )
+        =
+        x
+        ,
+      
+    
+    {\displaystyle g(y)=x,}
+   where 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is an arbitrarily chosen element of 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        y
+        )
+        .
+      
+    
+    {\displaystyle f^{-1}(y).}
+  
+The function f is bijective (or is a bijection or a one-to-one correspondence) if it is both injective and surjective. That is, f is bijective if, for any 
+  
+    
+      
+        y
+        ∈
+        Y
+        ,
+      
+    
+    {\displaystyle y\in Y,}
+   the preimage 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle f^{-1}(y)}
+   contains exactly one element. The function f is bijective if and only if it admits an inverse function, that is, a function 
+  
+    
+      
+        g
+        :
+        Y
+        →
+        X
+      
+    
+    {\displaystyle g\colon Y\to X}
+   such that 
+  
+    
+      
+        g
+        ∘
+        f
+        =
+        
+          id
+          
+            X
+          
+        
+      
+    
+    {\displaystyle g\circ f=\operatorname {id} _{X}}
+   and 
+  
+    
+      
+        f
+        ∘
+        g
+        =
+        
+          id
+          
+            Y
+          
+        
+        .
+      
+    
+    {\displaystyle f\circ g=\operatorname {id} _{Y}.}
+   (Contrarily to the case of surjections, this does not require the axiom of choice; the proof is straightforward).
+Every function 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f\colon X\to Y}
+   may be factorized as the composition 
+  
+    
+      
+        i
+        ∘
+        s
+      
+    
+    {\displaystyle i\circ s}
+   of a surjection followed by an injection, where s is the canonical surjection of X onto f(X) and i is the canonical injection of f(X) into Y. This is the canonical factorization of f.
+"One-to-one" and "onto" are terms that were more common in the older English language literature; "injective", "surjective", and "bijective" were originally coined as French words in the second quarter of the 20th century by the Bourbaki group and imported into English.  As a word of caution, "a one-to-one function" is one that is injective, while a "one-to-one correspondence" refers to a bijective function.  Also, the statement "f maps X onto Y" differs from "f  maps X into B", in that the former implies that f is surjective, while the latter makes no assertion about the nature of f. In a complicated reasoning, the one letter difference can easily be missed. Due to the confusing nature of this older terminology, these terms have declined in popularity relative to the Bourbakian terms, which have also the advantage of being more symmetrical.
+
+
+=== Restriction and extension ===
+
+If 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f\colon X\to Y}
+   is a function and S is a subset of X, then the restriction of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   to S, denoted 
+  
+    
+      
+        f
+        
+          
+            |
+          
+          
+            S
+          
+        
+      
+    
+    {\displaystyle f|_{S}}
+  , is the function from S to Y defined by
+
+  
+    
+      
+        f
+        
+          
+            |
+          
+          
+            S
+          
+        
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f|_{S}(x)=f(x)}
+  for all x in S. Restrictions can be used to define partial inverse functions: if there is a subset S of the domain of a function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   such that 
+  
+    
+      
+        f
+        
+          
+            |
+          
+          
+            S
+          
+        
+      
+    
+    {\displaystyle f|_{S}}
+   is injective, then the canonical surjection of 
+  
+    
+      
+        f
+        
+          
+            |
+          
+          
+            S
+          
+        
+      
+    
+    {\displaystyle f|_{S}}
+   onto its image 
+  
+    
+      
+        f
+        
+          
+            |
+          
+          
+            S
+          
+        
+        (
+        S
+        )
+        =
+        f
+        (
+        S
+        )
+      
+    
+    {\displaystyle f|_{S}(S)=f(S)}
+   is a bijection, and thus has an inverse function from 
+  
+    
+      
+        f
+        (
+        S
+        )
+      
+    
+    {\displaystyle f(S)}
+   to S. One application is the definition of inverse trigonometric functions. For example, the cosine function is injective when restricted to the interval [0, π]. The image of this restriction is the interval [−1, 1], and thus the restriction has an inverse function from [−1, 1] to [0, π], which is called arccosine and is denoted arccos.
+Function restriction may also be used for "gluing" functions together. Let 
+  
+    
+      
+        X
+        =
+        
+          ⋃
+          
+            i
+            ∈
+            I
+          
+        
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\textstyle X=\bigcup _{i\in I}U_{i}}
+   be the decomposition of X as a union of subsets, and suppose that a function 
+  
+    
+      
+        
+          f
+          
+            i
+          
+        
+        :
+        
+          U
+          
+            i
+          
+        
+        →
+        Y
+      
+    
+    {\displaystyle f_{i}\colon U_{i}\to Y}
+   is defined on each 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+      
+    
+    {\displaystyle U_{i}}
+   such that for each pair 
+  
+    
+      
+        i
+        ,
+        j
+      
+    
+    {\displaystyle i,j}
+   of indices, the restrictions of 
+  
+    
+      
+        
+          f
+          
+            i
+          
+        
+      
+    
+    {\displaystyle f_{i}}
+   and 
+  
+    
+      
+        
+          f
+          
+            j
+          
+        
+      
+    
+    {\displaystyle f_{j}}
+   to 
+  
+    
+      
+        
+          U
+          
+            i
+          
+        
+        ∩
+        
+          U
+          
+            j
+          
+        
+      
+    
+    {\displaystyle U_{i}\cap U_{j}}
+   are equal. Then this defines a unique function 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f\colon X\to Y}
+   such that 
+  
+    
+      
+        f
+        
+          
+            |
+          
+          
+            
+              U
+              
+                i
+              
+            
+          
+        
+        =
+        
+          f
+          
+            i
+          
+        
+      
+    
+    {\displaystyle f|_{U_{i}}=f_{i}}
+   for all i. This is the way that functions on manifolds are defined.
+An extension of a function f is a function g such that f is a restriction of g. A typical use of this concept is the process of analytic continuation, that allows extending functions whose domain is a small part of the complex plane to functions whose domain is almost the whole complex plane.
+Here is another classical example of a function extension that is encountered when studying homographies of the real line. A homography is a function 
+  
+    
+      
+        h
+        (
+        x
+        )
+        =
+        
+          
+            
+              a
+              x
+              +
+              b
+            
+            
+              c
+              x
+              +
+              d
+            
+          
+        
+      
+    
+    {\displaystyle h(x)={\frac {ax+b}{cx+d}}}
+   such that ad − bc ≠ 0. Its domain is the set of all real numbers different from 
+  
+    
+      
+        −
+        d
+        
+          /
+        
+        c
+        ,
+      
+    
+    {\displaystyle -d/c,}
+   and its image is the set of all real numbers different from 
+  
+    
+      
+        a
+        
+          /
+        
+        c
+        .
+      
+    
+    {\displaystyle a/c.}
+   If one extends the real line to the projectively extended real line by including ∞, one may extend h to a bijection from the extended real line to itself by setting 
+  
+    
+      
+        h
+        (
+        ∞
+        )
+        =
+        a
+        
+          /
+        
+        c
+      
+    
+    {\displaystyle h(\infty )=a/c}
+   and 
+  
+    
+      
+        h
+        (
+        −
+        d
+        
+          /
+        
+        c
+        )
+        =
+        ∞
+      
+    
+    {\displaystyle h(-d/c)=\infty }
+  .
+
+
+== Multivariate function ==
+
+A multivariate function, or function of several variables is a function that depends on several arguments. Such functions are commonly encountered. For example, the position of a car on a road is a function of the time travelled and its average speed.
+More formally, a function of n variables is a function whose domain is a set of n-tuples.
+For example, multiplication of integers is a function of two variables, or bivariate function, whose domain is the set of all pairs (2-tuples) of integers, and whose codomain is the set of integers. The same is true for every binary operation. More generally, every mathematical operation is defined as a multivariate function.
+The Cartesian product 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        ×
+        ⋯
+        ×
+        
+          X
+          
+            n
+          
+        
+      
+    
+    {\displaystyle X_{1}\times \cdots \times X_{n}}
+   of n sets 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            n
+          
+        
+      
+    
+    {\displaystyle X_{1},\ldots ,X_{n}}
+   is the set of all n-tuples 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{1},\ldots ,x_{n})}
+   such that 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        ∈
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}\in X_{i}}
+   for every i with 
+  
+    
+      
+        1
+        ≤
+        i
+        ≤
+        n
+      
+    
+    {\displaystyle 1\leq i\leq n}
+  . Therefore, a function of n variables is a function
+
+  
+    
+      
+        f
+        :
+        U
+        →
+        Y
+        ,
+      
+    
+    {\displaystyle f\colon U\to Y,}
+  where the domain U has the form
+
+  
+    
+      
+        U
+        ⊆
+        
+          X
+          
+            1
+          
+        
+        ×
+        ⋯
+        ×
+        
+          X
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle U\subseteq X_{1}\times \cdots \times X_{n}.}
+  When using function notation, one usually omits the parentheses surrounding tuples, writing 
+  
+    
+      
+        f
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle f(x_{1},x_{2})}
+   instead of 
+  
+    
+      
+        f
+        (
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        )
+        )
+        .
+      
+    
+    {\displaystyle f((x_{1},x_{2})).}
+  
+In the case where all the 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{i}}
+   are equal to the set 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   of real numbers, one has a function of several real variables. If the 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X_{i}}
+   are equal to the set 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   of complex numbers, one has a function of several complex variables.
+It is common to also consider functions whose codomain is a product of sets. For example, Euclidean division maps every pair (a, b) of integers with b ≠ 0 to a pair of integers called the quotient and the remainder:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  Euclidean division
+                
+                :
+                
+                
+                  Z
+                
+                ×
+                (
+                
+                  Z
+                
+                ∖
+                {
+                0
+                }
+                )
+              
+              
+                
+                →
+                
+                  Z
+                
+                ×
+                
+                  Z
+                
+              
+            
+            
+              
+                (
+                a
+                ,
+                b
+                )
+              
+              
+                
+                ↦
+                (
+                quotient
+                ⁡
+                (
+                a
+                ,
+                b
+                )
+                ,
+                remainder
+                ⁡
+                (
+                a
+                ,
+                b
+                )
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\text{Euclidean division}}\colon \quad \mathbb {Z} \times (\mathbb {Z} \setminus \{0\})&\to \mathbb {Z} \times \mathbb {Z} \\(a,b)&\mapsto (\operatorname {quotient} (a,b),\operatorname {remainder} (a,b)).\end{aligned}}}
+  The codomain may also be a vector space. In this case, one talks of a vector-valued function. If the domain is contained in a Euclidean space, or more generally a manifold, a vector-valued function is often called a vector field.
+
+
+== In calculus ==
+The idea of function, starting in the 17th century, was fundamental to the new infinitesimal calculus (see History of the function concept). At that time, only real-valued functions of a real variable were considered, and all functions were assumed to be smooth. But the definition was soon extended to functions of several variables and to functions of a complex variable. In the second half of the 19th century, the mathematically rigorous definition of a function was introduced, and functions with arbitrary domains and codomains were defined.
+Functions are now used throughout all areas of mathematics. In introductory calculus, when the word function is used without qualification, it means a real-valued function of a single real variable. The more general definition of a function is usually introduced to second or third year college students with STEM majors, and in their senior year they are introduced to calculus in a larger, more rigorous setting in courses such as real analysis and complex analysis.
+
+
+=== Real function ===
+
+A real function is a real-valued function of a real variable, that is, a function whose codomain is the field of real numbers and whose domain is a set of real numbers that contains an interval. In this section, these functions are simply called functions.
+The functions that are most commonly considered in mathematics and its applications have some regularity, that is they are continuous, differentiable, and even analytic. This regularity insures that these functions can be visualized by their graphs. In this section, all functions are differentiable in some interval.
+Functions enjoy pointwise operations, that is, if f and g are functions, their sum, difference and product are functions defined by
+
+  
+    
+      
+        
+          
+            
+              
+                (
+                f
+                +
+                g
+                )
+                (
+                x
+                )
+              
+              
+                
+                =
+                f
+                (
+                x
+                )
+                +
+                g
+                (
+                x
+                )
+              
+            
+            
+              
+                (
+                f
+                −
+                g
+                )
+                (
+                x
+                )
+              
+              
+                
+                =
+                f
+                (
+                x
+                )
+                −
+                g
+                (
+                x
+                )
+              
+            
+            
+              
+                (
+                f
+                ⋅
+                g
+                )
+                (
+                x
+                )
+              
+              
+                
+                =
+                f
+                (
+                x
+                )
+                ⋅
+                g
+                (
+                x
+                )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\begin{aligned}(f+g)(x)&=f(x)+g(x)\\(f-g)(x)&=f(x)-g(x)\\(f\cdot g)(x)&=f(x)\cdot g(x)\\\end{aligned}}.}
+  The domains of the resulting functions are the intersection of the domains of f and g. The quotient of two functions is defined similarly by
+
+  
+    
+      
+        
+          
+            f
+            g
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            
+              f
+              (
+              x
+              )
+            
+            
+              g
+              (
+              x
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {f}{g}}(x)={\frac {f(x)}{g(x)}},}
+  but the domain of the resulting function is obtained by removing the zeros of g from the intersection of the domains of f and g.
+The polynomial functions are defined by polynomials, and their domain is the whole set of real numbers. They include constant functions, linear functions and quadratic functions. Rational functions are quotients of two polynomial functions, and their domain is the real numbers with a finite number of them removed to avoid division by zero. The simplest rational function is the function 
+  
+    
+      
+        x
+        ↦
+        
+          
+            1
+            x
+          
+        
+        ,
+      
+    
+    {\displaystyle x\mapsto {\frac {1}{x}},}
+   whose graph is a hyperbola, and whose domain is the whole real line except for 0.
+The derivative of a real differentiable function is a real function. An antiderivative of a continuous real function is a real function that has the original function as a derivative. For example, the function 
+  
+    
+      
+        x
+        ↦
+        
+          
+            1
+            x
+          
+        
+      
+    
+    {\displaystyle x\mapsto {\frac {1}{x}}}
+   is continuous, and even differentiable, on the positive real numbers. Thus one antiderivative, which takes the value zero for x = 1, is a differentiable function called the natural logarithm.
+A real function f is monotonic in an interval if the sign of 
+  
+    
+      
+        
+          
+            
+              f
+              (
+              x
+              )
+              −
+              f
+              (
+              y
+              )
+            
+            
+              x
+              −
+              y
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {f(x)-f(y)}{x-y}}}
+   does not depend of the choice of x and y in the interval. If the function is differentiable in the interval, it is monotonic if the sign of the derivative is constant in the interval. If a real function f is monotonic in an interval I, it has an inverse function, which is a real function with domain f(I) and image I. This is how inverse trigonometric functions are defined in terms of trigonometric functions, where the trigonometric functions are monotonic. Another example: the natural logarithm is monotonic on the positive real numbers, and its image is the whole real line; therefore it has an inverse function that is a bijection between the real numbers and the positive real numbers. This inverse is the exponential function.
+Many other real functions are defined either by the implicit function theorem (the inverse function is a particular instance) or as solutions of differential equations. For example, the sine and the cosine functions are the solutions of the linear differential equation
+
+  
+    
+      
+        
+          y
+          ″
+        
+        +
+        y
+        =
+        0
+      
+    
+    {\displaystyle y''+y=0}
+  such that
+
+  
+    
+      
+        sin
+        ⁡
+        0
+        =
+        0
+        ,
+        
+        cos
+        ⁡
+        0
+        =
+        1
+        ,
+        
+        
+          
+            
+              ∂
+              sin
+              ⁡
+              x
+            
+            
+              ∂
+              x
+            
+          
+        
+        (
+        0
+        )
+        =
+        1
+        ,
+        
+        
+          
+            
+              ∂
+              cos
+              ⁡
+              x
+            
+            
+              ∂
+              x
+            
+          
+        
+        (
+        0
+        )
+        =
+        0.
+      
+    
+    {\displaystyle \sin 0=0,\quad \cos 0=1,\quad {\frac {\partial \sin x}{\partial x}}(0)=1,\quad {\frac {\partial \cos x}{\partial x}}(0)=0.}
+  
+
+
+=== Vector-valued function ===
+
+When the elements of the codomain of a function are vectors, the function is said to be a vector-valued function. These functions are particularly useful in applications, for example modeling physical properties. For example, the function that associates to each point of a fluid its velocity vector is a vector-valued function.
+Some vector-valued functions are defined on a subset of 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   or other spaces that share geometric or topological properties of 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  , such as manifolds. These vector-valued functions are given the name vector fields.
+
+
+== Function space ==
+
+In mathematical analysis, and more specifically in functional analysis, a function space is a set of scalar-valued or vector-valued functions, which share a specific property and form a topological vector space. For example, the real smooth functions with a compact support (that is, they are zero outside some compact set) form a function space that is at the basis of the theory of distributions.
+Function spaces play a fundamental role in advanced mathematical analysis, by allowing the use of their algebraic and topological properties for studying properties of functions. For example, all theorems of existence and uniqueness of solutions of ordinary or partial differential equations result of the study of function spaces.
+
+
+== Multi-valued functions ==
+
+Several methods for specifying functions of real or complex variables start from a local definition of the function at a point or on a neighbourhood of a point, and then extend by continuity the function to a much larger domain. Frequently, for a starting point 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle x_{0},}
+   there are several possible starting values for the function.
+For example, in defining the square root as the inverse function of the square function, for any positive real number 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle x_{0},}
+   there are two choices for the value of the square root, one of which is positive and denoted 
+  
+    
+      
+        
+          
+            
+              x
+              
+                0
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {x_{0}}},}
+   and another which is negative and denoted 
+  
+    
+      
+        −
+        
+          
+            
+              x
+              
+                0
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle -{\sqrt {x_{0}}}.}
+   These choices define two continuous functions, both having the nonnegative real numbers as a domain, and having either the nonnegative or the nonpositive real numbers as images. When looking at the graphs of these functions, one can see that, together, they form a single smooth curve. It is therefore often useful to consider these two square root functions as a single function that has two values for positive x, one value for 0 and no value for negative x.
+In the preceding example, one choice, the positive square root, is more natural than the other. This is not the case in general. For example, let consider the implicit function that maps y to a root x of 
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        −
+        3
+        x
+        −
+        y
+        =
+        0
+      
+    
+    {\displaystyle x^{3}-3x-y=0}
+   (see the figure on the right). For y = 0 one may choose either 
+  
+    
+      
+        0
+        ,
+        
+          
+            3
+          
+        
+        ,
+        
+           or 
+        
+        −
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 0,{\sqrt {3}},{\text{ or }}-{\sqrt {3}}}
+   for x. By the implicit function theorem, each choice defines a function; for the first one, the (maximal) domain is the interval [−2, 2] and the image is [−1, 1]; for the second one, the domain is [−2, ∞) and the image is [1, ∞); for the last one, the domain is (−∞, 2] and the image is (−∞, −1]. As the three graphs together form a smooth curve, and there is no reason for preferring one choice, these three functions are often considered as a single multi-valued function of y that has three values for −2 < y < 2, and only one value for y ≤ −2 and y ≥ −2.
+Usefulness of the concept of multi-valued functions is clearer when considering complex functions, typically analytic functions. The domain to which a complex function may be extended by analytic continuation generally consists of almost the whole complex plane. However, when extending the domain through two different paths, one often gets different values. For example, when extending the domain of the square root function, along a path of complex numbers with positive imaginary parts, one gets i for the square root of −1; while, when extending through complex numbers with negative imaginary parts, one gets −i. There are generally two ways of solving the problem. One may define a function that is not continuous along some curve, called a branch cut. Such a function is called the principal value of the function. The other way is to consider that one has a multi-valued function, which is analytic everywhere except for isolated singularities, but whose value may "jump" if one follows a closed loop around a singularity. This jump is called the monodromy.
+
+
+== In the foundations of mathematics and set theory ==
+The definition of a function that is given in this article requires the concept of set, since the domain and the codomain of a function must be a set. This is not a problem in usual mathematics, as it is generally not difficult to consider only functions whose domain and codomain are sets, which are well defined, even if the domain is not explicitly defined. However, it is sometimes useful to consider more general functions.
+For example, the singleton set may be considered as a function 
+  
+    
+      
+        x
+        ↦
+        {
+        x
+        }
+        .
+      
+    
+    {\displaystyle x\mapsto \{x\}.}
+   Its domain would include all sets, and therefore would not be a set. In usual mathematics, one avoids this kind of problem by specifying a domain, which means that one has many singleton functions. However, when establishing foundations of mathematics, one may have to use functions whose domain, codomain or both are not specified, and some authors, often logicians, give precise definition for these weakly specified functions.These generalized functions may be critical in the development of a formalization of the foundations of mathematics. For example, Von Neumann–Bernays–Gödel set theory, is an extension of the set theory in which the collection of all sets is a class. This theory includes the replacement axiom, which may be stated as: If X is a set and F is a function, then F[X] is a set.
+
+
+== In computer science ==
+
+In computer programming, a function is, in general, a piece of a computer program, which implements the abstract concept of function. That is, it is a program unit that produces an output for each input. However, in many programming languages every subroutine is called a function, even when there is no output, and when the functionality consists simply of modifying some data in the computer memory.
+Functional programming is the programming paradigm consisting of building programs by using only subroutines that behave like mathematical functions. For example, if_then_else is a function that takes three functions as arguments, and, depending on the result of the first function (true or false), returns the result of either the second or the third function. An important advantage of functional programming is that it makes easier program proofs, as being based on a well founded theory, the lambda calculus (see below).
+Except for computer-language terminology, "function" has the usual mathematical meaning in computer science. In this area, a property of major interest is the computability of a function. For giving a precise meaning to this concept, and to the related concept of algorithm, several models of computation have been introduced, the old ones being general recursive functions, lambda calculus and Turing machine. The fundamental theorem of computability theory is that these three models of computation define the same set of computable functions, and that all the other models of computation that have ever been proposed define the same set of computable functions or a smaller one. The Church–Turing thesis is the claim that every philosophically acceptable definition of a computable function defines also the same functions.
+General recursive functions are partial functions from integers to integers that can be defined from 
+
+constant functions,
+successor, and
+projection functionsvia the operators
+
+composition,
+primitive recursion, and
+minimization.Although defined only for functions from integers to integers, they can model any computable function as a consequence of the following properties:
+
+a computation is the manipulation of finite sequences of symbols (digits of numbers, formulas, ...),
+every sequence of symbols may be coded as a sequence of bits,
+a bit sequence can be interpreted as the binary representation of an integer.Lambda calculus is a theory that defines computable functions without using set theory, and is the theoretical background of functional programming. It consists of terms that are either variables, function definitions (𝜆-terms), or applications of functions to terms. Terms are manipulated through some rules, (the α-equivalence, the β-reduction, and the η-conversion), which are the axioms of the theory and may be interpreted as rules of computation.
+In its original form, lambda calculus does not include the concepts of domain and codomain of a function. Roughly speaking, they have been introduced in the theory under the name of type in typed lambda calculus. Most kinds of typed lambda calculi can define fewer functions than untyped lambda calculus.
+
+
+== See also ==
+
+
+=== Subpages ===
+
+
+=== Generalizations ===
+
+
+=== Related topics ===
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Sources ==
+Bartle, Robert (1967). The Elements of Real Analysis. John Wiley & Sons.
+Bloch, Ethan D. (2011). Proofs and Fundamentals: A First Course in Abstract Mathematics. Springer. ISBN 978-1-4419-7126-5.
+Cunningham, Daniel W. (2016). Set theory: A First Course. Cambridge University Press. ISBN 978-1-107-12032-7.
+Gödel, Kurt (1940). The Consistency of the Continuum Hypothesis. Princeton University Press. ISBN 978-0-691-07927-1.
+Halmos, Paul R. (1970). Naive Set Theory. Springer-Verlag. ISBN 978-0-387-90092-6.
+Jech, Thomas (2003). Set theory (Third Millennium ed.). Springer-Verlag. ISBN 978-3-540-44085-7.
+Spivak, Michael (2008). Calculus (4th ed.). Publish or Perish. ISBN 978-0-914098-91-1.
+
+
+== Further reading ==
+Anton, Howard (1980). Calculus with Analytical Geometry. Wiley. ISBN 978-0-471-03248-9.
+Bartle, Robert G. (1976). The Elements of Real Analysis (2nd ed.). Wiley. ISBN 978-0-471-05464-1.
+Dubinsky, Ed; Harel, Guershon (1992). The Concept of Function: Aspects of Epistemology and Pedagogy. Mathematical Association of America. ISBN 978-0-88385-081-7.
+Hammack, Richard (2009). "12. Functions" (PDF). Book of Proof. Virginia Commonwealth University. Retrieved 2012-08-01.
+Husch, Lawrence S. (2001). Visual Calculus. University of Tennessee. Retrieved 2007-09-27.
+Katz, Robert (1964). Axiomatic Analysis. D. C. Heath and Company.
+Kleiner, Israel (1989). "Evolution of the Function Concept: A Brief Survey". The College Mathematics Journal. 20 (4): 282–300. CiteSeerX 10.1.1.113.6352. doi:10.2307/2686848. JSTOR 2686848.
+Lützen, Jesper (2003). "Between rigor and applications: Developments in the concept of function in mathematical analysis".  In Porter, Roy (ed.). The Cambridge History of Science: The modern physical and mathematical sciences. Cambridge University Press. ISBN 978-0-521-57199-9. An approachable and diverting historical presentation.
+Malik, M. A. (1980). "Historical and pedagogical aspects of the definition of function". International Journal of Mathematical Education in Science and Technology. 11 (4): 489–492. doi:10.1080/0020739800110404.
+Reichenbach, Hans (1947) Elements of Symbolic Logic, Dover Publishing Inc., New York, ISBN 0-486-24004-5.
+Ruthing, D. (1984). "Some definitions of the concept of function from Bernoulli, Joh. to Bourbaki, N.". Mathematical Intelligencer. 6 (4): 72–77.
+Thomas, George B.; Finney, Ross L. (1995). Calculus and Analytic Geometry (9th ed.). Addison-Wesley. ISBN 978-0-201-53174-9.
+
+
+== External links ==
+
+"Function", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+The Wolfram Functions Site gives formulae and visualizations of many mathematical functions.
+NIST Digital Library of Mathematical Functions
+

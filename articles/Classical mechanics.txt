@@ -1,0 +1,1057 @@
+####### TITLE #######
+
+Classical mechanics
+
+####### LINKS #######
+
+['0 (number)', 'Abraham de Moivre', 'Absolute space and time', 'Absolute time', 'Acceleration', 'Acoustics', 'Action (physics)', 'Action and reaction', 'Action at a distance', 'Albert of Saxony (philosopher)', 'Alexis Clairaut', 'An Historical Account of Two Notable Corruptions of Scripture', 'Analytical dynamics', 'Analytical mechanics', 'Ancient philosophy', 'Angle', 'Angular acceleration', 'Angular displacement', 'Angular frequency', 'Angular momentum', 'Angular resolution', 'Angular velocity', 'Antiderivative', "Appell's equation of motion", 'Applied mathematics', 'Applied mechanics', 'Applied physics', 'Aristotelian physics', 'Aristotle', 'Arithmetica Universalis', 'Astronomia nova', 'Astronomical objects', 'Astrophysics', 'Atmospheric physics', 'Atomic, molecular, and optical physics', 'Atomic physics', 'Atoms', 'Augustin-Louis Cauchy', 'Baseball (ball)', 'Basic research', 'Benjamin Pulleyn', 'Bernard Koopman', 'Biophysics', 'Branches of physics', 'Bucket argument', 'Calculus', 'Canonical momentum', 'Catherine Barton', 'Causal', 'Celestial mechanics', 'Center of mass', 'Centrifugal force', 'Centrifugal force (fictitious)', 'Centripetal force', 'Chemical physics', 'Christiaan Huygens', 'Circular motion', 'Classical Mechanics (Goldstein)', 'Classical Mechanics (Goldstein book)', 'Classical Mechanics (Kibble and Berkshire)', 'Classical antiquity', 'Classical architecture', 'Classical electromagnetism', 'Classical mechanics', 'Classical optics', 'Classical physics', 'Clinton Davisson', 'Common sense', 'Complex domain', 'Computational physics', 'Condensed matter physics', 'Conservation of energy', 'Conservation of momentum', 'Conservative force', 'Continuum mechanics', 'Coordinate system', 'Copernican Revolution', 'Coriolis force', 'Cornell University', 'Corpuscular theory of light', 'Couple (mechanics)', 'Course of Theoretical Physics', 'Cranbury Park', 'Crystal', 'Cyclotron', "D'Alembert's principle", 'Damping ratio', 'Daniel Bernoulli', 'De Broglie wavelength', 'De analysi per aequationes numero terminorum infinitas', 'De motu corporum in gyrum', 'Degrees of freedom (physics and chemistry)', 'Density', 'Derivative', 'Difference quotient', 'Diffraction', 'Displacement (geometry)', 'Dynamic viscosity', 'Dynamical systems', 'Early life of Isaac Newton', 'Edmond Halley', 'Edward Routh', 'Electromagnetic theory', 'Electromagnetism', 'Electron', 'Electrons', 'Ellipse', 'Energy', 'Energy density', 'Energy flux', 'Energy levels', 'Engineering', 'Engineering physics', 'Entropy', 'Equations of motion', 'Euclidean geometry', "Euler's equations (rigid body dynamics)", "Euler's laws", "Euler's laws of motion", 'Experiment', 'Experimental physics', 'Exponential decay', 'Feynman Lectures on Physics', 'Fictitious force', 'Field (physics)', 'Finite difference', 'Fluid', 'Fluxion', 'Force', 'Forces', 'Frame of reference', 'Frank H. Berkshire', 'Friction', 'Galaxies', 'Galilean relativity', 'Galilean transformation', 'Galileo Galilei', 'Gas', 'Gate (transistor)', 'Gauss–Newton algorithm', 'General Scholium', 'General relativity', 'Generalized Gauss–Newton method', 'Generalized coordinates', 'Geometric optics', 'Geometrical optics', 'Geophysics', 'Gerald Jay Sussman', 'Gibbs paradox', 'Gottfried Wilhelm Leibniz', 'Gradient', 'Gravitational constant', 'Gravity', 'Greek philosophers', 'Group transformation', 'Gyrotron', 'Hamiltonian mechanics', 'Hamilton–Jacobi equation', 'Harmonic oscillator', 'Herbert Goldstein', 'High frequency approximation', 'History of classical mechanics', 'History of physics', "Hooke's law", 'Horologium Oscillatorium', 'Hypotheses non fingo', 'ISBN (identifier)', 'Impact depth', 'Imperial College Press', 'Impulse (physics)', 'Inclined plane', 'Inertia', 'Inertial frame of reference', 'Inertial frames', 'Institute of Physics Isaac Newton Medal', 'Integral', 'Integrated circuit', 'Invariant mass', 'Irradiance', 'Isaac Barrow', 'Isaac Newton', "Isaac Newton's occult studies", 'Isaac Newton Group of Telescopes', 'Isaac Newton Institute', 'Isaac Newton Telescope', 'Isaac Newton in popular culture', 'Jack Wisdom', "Jean le Rond d'Alembert", 'Jeremiah Horrocks', 'Jerk (physics)', 'Johann Bernoulli', 'Johannes Kepler', 'John Conduitt', 'John Keill', 'John von Neumann', 'Jordanus de Nemore', 'Joseph-Louis Lagrange', 'Joseph Liouville', 'Joseph Louis Lagrange', 'Josiah Willard Gibbs', "Kepler's laws", "Kepler's laws of planetary motion", 'Kinematic viscosity', 'Kinematics', 'Kinetic energy', 'Kinetics (physics)', 'Kissing number', 'Koopman–von Neumann classical mechanics', 'Lagrangian mechanics', 'Later life of Isaac Newton', 'Law of inertia', 'Leaning Tower of Pisa', 'Leibniz–Newton calculus controversy', 'Leonhard Euler', 'Lester Germer', 'Library of Congress', 'Light', 'Line integral', 'Linear motion', 'Liquid', 'List of equations in classical mechanics', 'List of publications in physics', 'List of textbooks on classical and quantum mechanics', 'List of textbooks on classical mechanics and quantum mechanics', 'List of things named after Isaac Newton', 'Lorentz force', 'Luminiferous aether', 'Machine (mechanical)', 'Macroscopic', 'Magnetron', 'Mars', 'Mass', 'Materials science', 'Mathematical model', 'Mathematical physics', 'Mechanical equilibrium', 'Mechanics', 'Mechanics of planar particle motion', 'Medical physics', 'Method of Fluxions', 'Michelson–Morley experiment', 'Milliradian', 'Modern physics', 'Molecular dynamics', 'Molecular physics', 'Moment (physics)', 'Moment of inertia', 'Momentum', 'Motion', "Newton's cannonball", "Newton's cradle", "Newton's identities", "Newton's inequalities", "Newton's law of cooling", "Newton's law of universal gravitation", "Newton's laws of motion", "Newton's metal", "Newton's method", "Newton's method in optimization", "Newton's notation", "Newton's reflector", "Newton's rings", "Newton's second law", "Newton's theorem about ovals", "Newton's theorem of revolving orbits", "Newton's third law", 'Newton (Blake)', 'Newton (Paolozzi)', 'Newton (unit)', 'Newton International Fellowship', 'Newton disc', 'Newton fractal', 'Newton polygon', 'Newton polynomial', 'Newton scale', 'Newtonian dynamics', 'Newtonian fluid', 'Newtonian mechanics', 'Newtonian potential', 'Newtonian telescope', 'Newtonianism', 'Newton–Cartan theory', 'Newton–Cotes formulas', 'Newton–Euler equations', 'Newton–Okounkov body', 'Newton–Pepys problem', 'Nobel Prize in Physics', 'Non-equilibrium thermodynamics', 'Non-inertial reference frame', 'Notes on the Jewish Temple', 'Nuclear physics', 'Number density', 'OCLC (identifier)', 'Observer (special relativity)', 'Opticks', 'Optics', 'Ordinary differential equation', 'Parallelogram of force', 'Parameter', 'Parameterized post-Newtonian formalism', 'Particle', 'Particle physics', 'Paul Émile Appell', 'Pendulum (mechanics)', 'Philosophiae Naturalis Principia Mathematica', 'Philosophiæ Naturalis Principia Mathematica', 'Photo-electric effect', 'Physical body', 'Physical oceanography', 'Physical optics', 'Physics', 'Physics education', 'Pierre-Simon Laplace', 'Pierre Louis Maupertuis', "Planck's constant", "Planck's law", 'Planet', 'Planets', 'Poincaré group', 'Point particle', 'Post-Newtonian expansion', 'Potential energy', 'Power (physics)', 'Power number', 'Poynting vector', 'Pressure', 'Problem of Apollonius', 'Projectile', 'Projectile motion', 'Puiseux series', 'Quaestiones quaedam philosophicae', 'Quantum', 'Quantum field theory', 'Quantum gravity', 'Quantum information science', 'Quantum mechanics', 'Quantum optics', 'Quantum tunneling', 'Reactive centrifugal force', 'Reference frames', 'Relative velocity', 'Relativistic mechanics', 'Religious views of Isaac Newton', 'Rest mass', 'Richard Feynman', 'Rigid body', 'Rigid body dynamics', 'Rocket equation', 'Rotating reference frame', 'Rotating spheres', 'Rotation', 'Rotation around a fixed axis', 'Rotational speed', 'Routhian mechanics', 'SI', 'Scalar product', 'Schrödinger–Newton equation', 'Schwarzschild radius', 'Science', 'Scientific Revolution', 'Second', 'Second law of motion', 'Side lobe', 'Simple harmonic motion', 'Siméon Denis Poisson', 'Sir Isaac Newton Sixth Form', 'Solid', 'Space', 'Spacecraft', 'Special relativity', 'Special theory of relativity', 'Specific energy', 'Specific weight', 'Spectrum', 'Speed', 'Speed of light', 'Spring (device)', 'Spring constant', 'Standard model', 'Standing on the shoulders of giants', 'Star', 'Statal Institute of Higher Education Isaac Newton', 'Statics', 'Statistical mechanics', 'Structural coloration', 'Structure and Interpretation of Classical Mechanics', 'Surface tension', 'Table of Newtonian series', 'Technology', 'The Chronology of Ancient Kingdoms Amended', 'The Feynman Lectures on Physics', 'The Queries', 'Theoretical physics', 'Theory', 'Theory of everything', 'Theory of impetus', 'Thermal physics', 'Thermodynamics', 'Time', 'Time interval', 'Timeline of classical mechanics', 'Timeline of fundamental physics discoveries', 'Tom Kibble', 'Torque', 'Transistor', 'Truncated Newton method', 'Tunnel diode', 'Tycho Brahe', 'Unit vector', 'Vacuum chamber', 'Vector (geometric)', 'Vector analysis', 'Velocity', 'Vibration', 'Virtual work', 'Wave interference', 'William Clarke (apothecary)', 'William Jones (mathematician)', 'William Rowan Hamilton', 'William Stukeley', 'Woolsthorpe Manor', 'Work (physics)', 'Work–energy theorem', 'Writing of Principia Mathematica']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'Articles needing additional references from July 2022', 'Articles with GND identifiers', 'Articles with short description', 'Classical mechanics', 'Commons category link from Wikidata', 'Short description is different from Wikidata', 'Webarchive template other archives', 'Wikipedia articles needing clarification from January 2016', 'Wikipedia pending changes protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/6/69/Joseph_Louis_Lagrange2.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Orbital_motion.gif', 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Physicsdomains.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/68/Theory_of_impetus.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/34/Tir_parab%C3%B2lic.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/81/WilliamRowanHamilton.jpeg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/b/b7/Pending-protection-shackle.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg']
+
+####### REFERENCES #######
+
+['http://www.yorku.ca/marko/PHYS2010/index.htm', 'http://doc.cern.ch//archive/electronic/other/ext/ext-2004-126.pdf', 'http://scholar.google.com/scholar?q=%22Classical+mechanics%22', 'http://www.google.com/search?&q=%22Classical+mechanics%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Classical+mechanics%22', 'http://www.google.com/search?tbm=nws&q=%22Classical+mechanics%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Classical+mechanics%22+-wikipedia', 'http://www.lightandmatter.com/lm', 'http://torassa.tripod.com/paper.htm', 'http://kmoddl.library.cornell.edu/e-books.php', 'http://kmoddl.library.cornell.edu/index.php', 'http://ocw.mit.edu/courses/physics/8-01-physics-i-fall-2003/lecture-notes/binder1.pdf', 'http://www.physics.rutgers.edu/ugrad/494/bookr03D.pdf', 'http://farside.ph.utexas.edu/teaching/301/301.html', 'http://webarchive.loc.gov/all/20130709154423/http://ocw.mit.edu/courses/physics/8-01-physics-i-fall-2003/lecture-notes/binder1.pdf', 'http://www.worldcat.org/oclc/53887772', 'http://www.damtp.cam.ac.uk/user/tong/dynamics.html', 'https://books.google.com/books?id=rkP1CAAAQBAJ', 'https://books.google.com/books?id=rkP1CAAAQBAJ&pg=PA30', 'https://muse.jhu.edu/article/28020/summary', 'https://d-nb.info/gnd/4038168-7', 'https://archive.org/details/classicaldynamic00thor', 'https://archive.org/details/classicaldynamic00thor/page/n67', 'https://archive.org/details/introductiontocl00mori', 'https://archive.org/details/introductiontome00dani', 'https://web.archive.org/web/20120920024409/http://mitpress.mit.edu/SICM/', 'https://web.archive.org/web/20190327102351/https://ocw.mit.edu/courses/physics/8-01sc-physics-i-classical-mechanics-fall-2010/', 'https://arxiv.org/abs/1001.0131', 'https://arxiv.org/abs/physics/9909035', 'https://www.cambridge.org/core/books/unrolling-time/1427509C7A14C464B08209322E42ABB6', 'https://dx.doi.org/10.1007/978-88-7642-379-6_1', 'https://www.jstor.org/action/doBasicSearch?Query=%22Classical+mechanics%22&acc=on&wc=on', 'https://www.wikidata.org/wiki/Q11397#identifiers']
+
+####### SUMMARY #######
+
+Classical mechanics is a physical theory describing the motion of macroscopic objects, from projectiles to parts of machinery, and astronomical objects, such as spacecraft, planets, stars, and galaxies. For objects governed by classical mechanics, if the present state is known, it is possible to predict how it will move in the future (determinism), and how it has moved in the past (reversibility).
+The earliest development of classical mechanics is often referred to as Newtonian mechanics. It consists of the physical concepts based on foundational works of Sir Isaac Newton, and the mathematical methods invented by Gottfried Wilhelm Leibniz, Joseph-Louis Lagrange, Leonhard Euler, and other contemporaries, in the 17th century to describe the motion of bodies under the influence of a system of forces. Later, more abstract methods were developed, leading to the reformulations of classical mechanics known as Lagrangian mechanics and Hamiltonian mechanics. These advances, made predominantly in the 18th and 19th centuries, extend substantially beyond earlier works, particularly through their use of analytical mechanics. They are, with some modification, also used in all areas of modern physics.
+Classical mechanics provides extremely accurate results when studying large objects that are not extremely massive and speeds not approaching the speed of light. When the objects being examined have about the size of an atom diameter, it becomes necessary to introduce the other major sub-field of mechanics: quantum mechanics. To describe velocities that are not small compared to the speed of light, special relativity is needed. In cases where objects become extremely massive, general relativity becomes applicable. However, a number of modern sources do include relativistic mechanics in classical physics, which in their view represents classical mechanics in its most developed and accurate form.
+
+####### CONTENT #######
+
+Classical mechanics is a physical theory describing the motion of macroscopic objects, from projectiles to parts of machinery, and astronomical objects, such as spacecraft, planets, stars, and galaxies. For objects governed by classical mechanics, if the present state is known, it is possible to predict how it will move in the future (determinism), and how it has moved in the past (reversibility).
+The earliest development of classical mechanics is often referred to as Newtonian mechanics. It consists of the physical concepts based on foundational works of Sir Isaac Newton, and the mathematical methods invented by Gottfried Wilhelm Leibniz, Joseph-Louis Lagrange, Leonhard Euler, and other contemporaries, in the 17th century to describe the motion of bodies under the influence of a system of forces. Later, more abstract methods were developed, leading to the reformulations of classical mechanics known as Lagrangian mechanics and Hamiltonian mechanics. These advances, made predominantly in the 18th and 19th centuries, extend substantially beyond earlier works, particularly through their use of analytical mechanics. They are, with some modification, also used in all areas of modern physics.
+Classical mechanics provides extremely accurate results when studying large objects that are not extremely massive and speeds not approaching the speed of light. When the objects being examined have about the size of an atom diameter, it becomes necessary to introduce the other major sub-field of mechanics: quantum mechanics. To describe velocities that are not small compared to the speed of light, special relativity is needed. In cases where objects become extremely massive, general relativity becomes applicable. However, a number of modern sources do include relativistic mechanics in classical physics, which in their view represents classical mechanics in its most developed and accurate form.
+
+
+== Description of the theory ==
+
+The following introduces the basic concepts of classical mechanics. For simplicity, it often models real-world objects as point particles (objects with negligible size). The motion of a point particle is characterized by a small number of parameters: its position, mass, and the forces applied to it. Each of these parameters is discussed in turn.
+In reality, the kind of objects that classical mechanics can describe always have a non-zero size. (The physics of very small particles, such as the electron, is more accurately described by quantum mechanics.) Objects with non-zero size have more complicated behavior than hypothetical point particles, because of the additional degrees of freedom, e.g., a baseball can spin while it is moving. However, the results for point particles can be used to study such objects by treating them as composite objects, made of a large number of collectively acting point particles. The center of mass of a composite object behaves like a point particle.
+Classical mechanics uses common sense notions of how matter and forces exist and interact. It assumes that matter and energy have definite, knowable attributes such as location in space and speed. Non-relativistic mechanics also assumes that forces act instantaneously (see also Action at a distance).
+
+
+=== Position and its derivatives ===
+
+The position of a point particle is defined in relation to a coordinate system centered on an arbitrary fixed reference point in space called the origin O. A simple coordinate system might describe the position of a particle P with a vector notated by an arrow labeled r that points from the origin O to point P. In general, the point particle does not need to be stationary relative to O.  In cases where P is moving relative to O, r is defined as a function of t, time. In pre-Einstein relativity (known as Galilean relativity), time is considered an absolute, i.e., the time interval that is observed to elapse between any given pair of events is the same for all observers. In addition to relying on absolute time, classical mechanics assumes Euclidean geometry for the structure of space.
+
+
+==== Velocity and speed ====
+
+The velocity, or the rate of change of displacement with time, is defined as the derivative of the position with respect to time:
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                r
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+        
+      
+    
+    {\displaystyle \mathbf {v} ={\mathrm {d} \mathbf {r}  \over \mathrm {d} t}\,\!}
+  .In classical mechanics, velocities are directly additive and subtractive. For example, if one car travels east at 60 km/h and passes another car traveling in the same direction at 50 km/h, the slower car perceives the faster car as traveling east at 60 − 50 = 10 km/h. However, from the perspective of the faster car, the slower car is moving 10 km/h to the west, often denoted as −10 km/h where the sign implies opposite direction. Velocities are directly additive as vector quantities; they must be dealt with using vector analysis.
+Mathematically, if the velocity of the first object in the previous discussion is denoted by the vector u = ud and the velocity of the second object by the vector v = ve, where u is the speed of the first object, v is the speed of the second object, and d and e are unit vectors in the directions of motion of each object respectively, then the velocity of the first object as seen by the second object is:
+
+  
+    
+      
+        
+          
+            u
+          
+          ′
+        
+        =
+        
+          u
+        
+        −
+        
+          v
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {u} '=\mathbf {u} -\mathbf {v} \,.}
+  Similarly, the first object sees the velocity of the second object as:
+
+  
+    
+      
+        
+          
+            v
+            ′
+          
+        
+        =
+        
+          v
+        
+        −
+        
+          u
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {v'} =\mathbf {v} -\mathbf {u} \,.}
+  When both objects are moving in the same direction, this equation can be simplified to:
+
+  
+    
+      
+        
+          
+            u
+          
+          ′
+        
+        =
+        (
+        u
+        −
+        v
+        )
+        
+          d
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {u} '=(u-v)\mathbf {d} \,.}
+  Or, by ignoring direction, the difference can be given in terms of speed only:
+
+  
+    
+      
+        
+          u
+          ′
+        
+        =
+        u
+        −
+        v
+        
+        .
+      
+    
+    {\displaystyle u'=u-v\,.}
+  
+
+
+==== Acceleration ====
+
+The acceleration, or rate of change of velocity, is the derivative of the velocity with respect to time (the second derivative of the position with respect to time):
+
+  
+    
+      
+        
+          a
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                v
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  d
+                  
+                    2
+                  
+                
+              
+              
+                r
+              
+            
+            
+              
+                d
+              
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {a} ={\mathrm {d} \mathbf {v}  \over \mathrm {d} t}={\mathrm {d^{2}} \mathbf {r}  \over \mathrm {d} t^{2}}.}
+  Acceleration represents the velocity's change over time.  Velocity can change in either magnitude or direction, or both. Occasionally, a decrease in the magnitude of velocity "v" is referred to as deceleration, but generally any change in the velocity over time, including deceleration, is simply referred to as acceleration.
+
+
+==== Frames of reference ====
+
+While the position, velocity and acceleration of a particle can be described with respect to any observer in any state of motion, classical mechanics assumes the existence of a special family of reference frames in which the mechanical laws of nature take a comparatively simple form. These special reference frames are called inertial frames.  An inertial frame is an idealized frame of reference within which an object has no external force acting upon it.  Because there is no external force acting upon it, the object has a constant velocity; that is, it is either at rest or moving uniformly in a straight line.
+A key concept of inertial frames is the method for identifying them. For practical purposes, reference frames that do not accelerate with respect to distant stars (an extremely distant point) are regarded as good approximations to inertial frames. Non-inertial reference frames accelerate in relation to an existing inertial frame. They form the basis for Einstein's relativity.  Due to the relative motion, particles in the non-inertial frame appear to move in ways not explained by forces from existing fields in the reference frame. Hence, it appears that there are other forces that enter the equations of motion solely as a result of the relative acceleration. These forces are referred to as fictitious forces, inertia forces, or pseudo-forces.
+Consider two reference frames S and S'. For observers in each of the reference frames an event has space-time coordinates of (x,y,z,t) in frame S and (x',y',z',t') in frame S'. Assuming time is measured the same in all reference frames, and if we require x = x' when t = 0, then the relation between the space-time coordinates of the same event observed from the reference frames S' and S, which are moving at a relative velocity of u in the x direction is:
+
+  
+    
+      
+        
+          x
+          ′
+        
+        =
+        x
+        −
+        u
+        t
+        
+      
+    
+    {\displaystyle x'=x-ut\,}
+  
+
+  
+    
+      
+        
+          y
+          ′
+        
+        =
+        y
+        
+      
+    
+    {\displaystyle y'=y\,}
+  
+
+  
+    
+      
+        
+          z
+          ′
+        
+        =
+        z
+        
+      
+    
+    {\displaystyle z'=z\,}
+  
+
+  
+    
+      
+        
+          t
+          ′
+        
+        =
+        t
+        
+        .
+      
+    
+    {\displaystyle t'=t\,.}
+  This set of formulas defines a group transformation known as the Galilean transformation (informally, the Galilean transform). This group is a limiting case of the Poincaré group used in special relativity. The limiting case applies when the velocity u is very small compared to c, the speed of light.
+The transformations have the following consequences:
+
+v′ = v − u (the velocity v′ of a particle from the perspective of S′ is slower by u than its velocity v from the perspective of S)
+a′ = a (the acceleration of a particle is the same in any inertial reference frame)
+F′ = F (the force on a particle is the same in any inertial reference frame)
+the  speed of light is not a constant in classical mechanics, nor does the special position given to the speed of light in relativistic mechanics have a counterpart in classical mechanics.For some problems, it is convenient to use rotating coordinates (reference frames). Thereby one can either keep a mapping to a convenient inertial frame, or introduce additionally a fictitious centrifugal force and Coriolis force.
+
+
+=== Forces and Newton's second law ===
+
+A force in physics is any action that causes an object's velocity to change; that is, to accelerate.  A force originates from within a field, such as an electro-static field (caused by static electrical charges), electro-magnetic field (caused by moving charges), or gravitational field (caused by mass), among others.
+Newton was the first to mathematically express the relationship between force and momentum. Some physicists interpret Newton's second law of motion as a definition of force and mass, while others consider it a fundamental postulate, a law of nature. Either interpretation has the same mathematical consequences, historically known as "Newton's Second Law":
+
+  
+    
+      
+        
+          F
+        
+        =
+        
+          
+            
+              
+                d
+              
+              
+                p
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                d
+              
+              (
+              m
+              
+                v
+              
+              )
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {F} ={\mathrm {d} \mathbf {p}  \over \mathrm {d} t}={\mathrm {d} (m\mathbf {v} ) \over \mathrm {d} t}.}
+  The quantity mv is called the (canonical) momentum. The net force on a particle is thus equal to the rate of change of the momentum of the particle with time. Since the definition of acceleration is a = dv/dt, the second law can be written in the simplified and more familiar form:
+
+  
+    
+      
+        
+          F
+        
+        =
+        m
+        
+          a
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {F} =m\mathbf {a} \,.}
+  So long as the force acting on a particle is known, Newton's second law is sufficient to describe the motion of a particle. Once independent relations for each force acting on a particle are available, they can be substituted into Newton's second law to obtain an ordinary differential equation, which is called the equation of motion.
+As an example, assume that friction is the only force acting on the particle, and that it may be modeled as a function of the velocity of the particle, for example:
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            
+              R
+            
+          
+        
+        =
+        −
+        λ
+        
+          v
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {F} _{\rm {R}}=-\lambda \mathbf {v} \,,}
+  where λ is a positive constant, the negative sign states that the force is opposite the sense of the velocity. Then the equation of motion is
+
+  
+    
+      
+        −
+        λ
+        
+          v
+        
+        =
+        m
+        
+          a
+        
+        =
+        m
+        
+          
+            
+              
+                d
+              
+              
+                v
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle -\lambda \mathbf {v} =m\mathbf {a} =m{\mathrm {d} \mathbf {v}  \over \mathrm {d} t}\,.}
+  This can be integrated to obtain
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          
+            v
+          
+          
+            0
+          
+        
+        
+          e
+          
+            
+              −
+              λ
+              t
+            
+            
+              /
+            
+            
+              m
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} =\mathbf {v} _{0}e^{{-\lambda t}/{m}}}
+  where v0 is the initial velocity. This means that the velocity of this particle decays exponentially to zero as time progresses. In this case, an equivalent viewpoint is that the kinetic energy of the particle is absorbed by friction (which converts it to heat energy in accordance with the conservation of energy), and the particle is slowing down. This expression can be further integrated to obtain the position r of the particle as a function of time.
+Important forces include the gravitational force and the Lorentz force for electromagnetism. In addition, Newton's third law can sometimes be used to deduce the forces acting on a particle: if it is known that particle A exerts a force F on another particle B, it follows that B must exert an equal and opposite reaction force, −F, on A. The strong form of Newton's third law requires that F and −F act along the line connecting A and B, while the weak form does not. Illustrations of the weak form of Newton's third law are often found for magnetic forces.
+
+
+=== Work and energy ===
+
+If a constant force F is applied to a particle that makes a displacement Δr, the work done by the force is defined as the scalar product of the force and displacement vectors:
+
+  
+    
+      
+        W
+        =
+        
+          F
+        
+        ⋅
+        Δ
+        
+          r
+        
+        
+        .
+      
+    
+    {\displaystyle W=\mathbf {F} \cdot \Delta \mathbf {r} \,.}
+  More generally, if the force varies as a function of position as the particle moves from r1 to r2 along a path C, the work done on the particle is given by the line integral
+
+  
+    
+      
+        W
+        =
+        
+          ∫
+          
+            C
+          
+        
+        
+          F
+        
+        (
+        
+          r
+        
+        )
+        ⋅
+        
+          d
+        
+        
+          r
+        
+        
+        .
+      
+    
+    {\displaystyle W=\int _{C}\mathbf {F} (\mathbf {r} )\cdot \mathrm {d} \mathbf {r} \,.}
+  If the work done in moving the particle from r1 to r2 is the same no matter what path is taken, the force is said to be conservative. Gravity is a conservative force, as is the force due to an idealized spring, as given by Hooke's law. The force due to friction is non-conservative.
+The kinetic energy Ek of a particle of mass m travelling at speed v is given by
+
+  
+    
+      
+        
+          E
+          
+            
+              k
+            
+          
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle E_{\mathrm {k} }={\tfrac {1}{2}}mv^{2}\,.}
+  For extended objects composed of many particles, the kinetic energy of the composite body is the sum of the kinetic energies of the particles.
+The work–energy theorem states that for a particle of constant mass m, the total work W done on the particle as it moves from position r1 to r2 is equal to the change in kinetic energy Ek of the particle:
+
+  
+    
+      
+        W
+        =
+        Δ
+        
+          E
+          
+            
+              k
+            
+          
+        
+        =
+        
+          E
+          
+            
+              
+                k
+                
+                  2
+                
+              
+            
+          
+        
+        −
+        
+          E
+          
+            
+              
+                k
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        m
+        
+          (
+          
+            
+              v
+              
+                2
+              
+              
+                
+                2
+              
+            
+            −
+            
+              v
+              
+                1
+              
+              
+                
+                2
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle W=\Delta E_{\mathrm {k} }=E_{\mathrm {k_{2}} }-E_{\mathrm {k_{1}} }={\tfrac {1}{2}}m\left(v_{2}^{\,2}-v_{1}^{\,2}\right).}
+  Conservative forces can be expressed as the gradient of a scalar function, known as the potential energy and denoted Ep:
+
+  
+    
+      
+        
+          F
+        
+        =
+        −
+        
+          ∇
+        
+        
+          E
+          
+            
+              p
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {F} =-\mathbf {\nabla } E_{\mathrm {p} }\,.}
+  If all the forces acting on a particle are conservative, and Ep is the total potential energy (which is defined as a work of involved forces to rearrange mutual positions of bodies), obtained by summing the potential energies corresponding to each force
+
+  
+    
+      
+        
+          F
+        
+        ⋅
+        Δ
+        
+          r
+        
+        =
+        −
+        
+          ∇
+        
+        
+          E
+          
+            
+              p
+            
+          
+        
+        ⋅
+        Δ
+        
+          r
+        
+        =
+        −
+        Δ
+        
+          E
+          
+            
+              p
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {F} \cdot \Delta \mathbf {r} =-\mathbf {\nabla } E_{\mathrm {p} }\cdot \Delta \mathbf {r} =-\Delta E_{\mathrm {p} }\,.}
+  The decrease in the potential energy is equal to the increase in the kinetic energy
+
+  
+    
+      
+        −
+        Δ
+        
+          E
+          
+            
+              p
+            
+          
+        
+        =
+        Δ
+        
+          E
+          
+            
+              k
+            
+          
+        
+        ⇒
+        Δ
+        (
+        
+          E
+          
+            
+              k
+            
+          
+        
+        +
+        
+          E
+          
+            
+              p
+            
+          
+        
+        )
+        =
+        0
+        
+        .
+      
+    
+    {\displaystyle -\Delta E_{\mathrm {p} }=\Delta E_{\mathrm {k} }\Rightarrow \Delta (E_{\mathrm {k} }+E_{\mathrm {p} })=0\,.}
+  This result is known as conservation of energy and states that the total energy,
+
+  
+    
+      
+        ∑
+        E
+        =
+        
+          E
+          
+            
+              k
+            
+          
+        
+        +
+        
+          E
+          
+            
+              p
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \sum E=E_{\mathrm {k} }+E_{\mathrm {p} }\,,}
+  is constant in time. It is often useful, because many commonly encountered forces are conservative.
+
+
+=== Beyond Newton's laws ===
+Classical mechanics also describes the more complex motions of extended non-pointlike objects. Euler's laws provide extensions to Newton's laws in this area. The concepts of angular momentum rely on the same calculus used to describe one-dimensional motion. The rocket equation extends the notion of rate of change of an object's momentum to include the effects of an object "losing mass".
+(These generalizations/extensions are derived from Newton's laws, say, by decomposing a solid body into a collection of points.)
+There are two important alternative formulations of classical mechanics: Lagrangian mechanics and Hamiltonian mechanics. These, and other modern formulations, usually bypass the concept of "force", instead referring to other physical quantities, such as energy, speed and momentum, for describing mechanical systems in generalized coordinates. These are basically mathematical rewriting of Newton's laws, but complicated mechanical problems are much easier to solve in these forms. Also, analogy with quantum mechanics is more explicit in Hamiltonian formalism. 
+The expressions given above for momentum and kinetic energy are only valid when there is no significant electromagnetic contribution. In electromagnetism, Newton's second law for current-carrying wires breaks down unless one includes the electromagnetic field contribution to the momentum of the system as expressed by the Poynting vector divided by c2, where c is the speed of light in free space.
+
+
+== Limits of validity ==
+
+Many branches of classical mechanics are simplifications or approximations of more accurate forms; two of the most accurate being general relativity and relativistic statistical mechanics. Geometric optics is an approximation to the quantum theory of light, and does not have a superior "classical" form.
+When both quantum mechanics and classical mechanics cannot apply, such as at the quantum level with many degrees of freedom, quantum field theory (QFT) is of use. QFT deals with small distances, and large speeds with many degrees of freedom as well as the possibility of any change in the number of particles throughout the interaction. When treating large degrees of freedom at the macroscopic level, statistical mechanics becomes useful. Statistical mechanics describes the behavior of large (but countable) numbers of particles and their interactions as a whole at the macroscopic level. Statistical mechanics is mainly used in thermodynamics for systems that lie outside the bounds of the assumptions of classical thermodynamics. In the case of high velocity objects approaching the speed of light, classical mechanics is enhanced by special relativity. In case that objects become extremely heavy (i.e., their Schwarzschild radius is not negligibly small for a given application), deviations from Newtonian mechanics become apparent and can be quantified by using the parameterized post-Newtonian formalism. In that case, general relativity (GR) becomes applicable. However, until now there is no theory of quantum gravity unifying GR and QFT in the sense that it could be used when objects become extremely small and heavy.[4][5]
+
+
+=== The Newtonian approximation to special relativity ===
+In special relativity, the momentum of a particle is given by
+
+  
+    
+      
+        
+          p
+        
+        =
+        
+          
+            
+              m
+              
+                v
+              
+            
+            
+              1
+              −
+              
+                
+                  
+                    v
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {p} ={\frac {m\mathbf {v} }{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}\,,}
+  where m is the particle's rest mass, v its velocity, v is the modulus of v, and c is the speed of light.
+If v is very small compared to c, v2/c2 is approximately zero, and so
+
+  
+    
+      
+        
+          p
+        
+        ≈
+        m
+        
+          v
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {p} \approx m\mathbf {v} \,.}
+  Thus the Newtonian equation p = mv is an approximation of the relativistic equation for bodies moving with low speeds compared to the speed of light.
+For example, the relativistic cyclotron frequency of a cyclotron, gyrotron, or high voltage magnetron is given by
+
+  
+    
+      
+        f
+        =
+        
+          f
+          
+            
+              c
+            
+          
+        
+        
+          
+            
+              m
+              
+                0
+              
+            
+            
+              
+                m
+                
+                  0
+                
+              
+              +
+              
+                
+                  T
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle f=f_{\mathrm {c} }{\frac {m_{0}}{m_{0}+{\frac {T}{c^{2}}}}}\,,}
+  where fc is the classical frequency of an electron (or other charged particle) with kinetic energy T and (rest) mass m0 circling in a magnetic field. The (rest) mass of an electron is 511 keV. So the frequency correction is 1% for a magnetic vacuum tube with a 5.11 kV direct current accelerating voltage.
+
+
+=== The classical approximation to quantum mechanics ===
+The ray approximation of classical mechanics breaks down when the de Broglie wavelength is not much smaller than other dimensions of the system. For non-relativistic particles, this wavelength is
+
+  
+    
+      
+        λ
+        =
+        
+          
+            h
+            p
+          
+        
+      
+    
+    {\displaystyle \lambda ={\frac {h}{p}}}
+  where h is Planck's constant and p is the momentum.
+Again, this happens with electrons before it happens with heavier particles. For example, the electrons used by Clinton Davisson and Lester Germer in 1927, accelerated by 54 V, had a wavelength of 0.167 nm, which was long enough to exhibit a single diffraction side lobe when reflecting from the face of a nickel crystal with atomic spacing of 0.215 nm. With a larger vacuum chamber, it would seem relatively easy to increase the angular resolution from around a radian to a milliradian and see quantum diffraction from the periodic patterns of integrated circuit computer memory.
+More practical examples of the failure of classical mechanics on an engineering scale are conduction by quantum tunneling in tunnel diodes and very narrow transistor gates in integrated circuits.
+Classical mechanics is the same extreme high frequency approximation as geometric optics. It is more often accurate because it describes particles and bodies with rest mass. These have more momentum and therefore shorter De Broglie wavelengths than massless particles, such as light, with the same kinetic energies.
+
+
+== History ==
+
+The study of the motion of bodies is an ancient one, making classical mechanics one of the oldest and largest subjects in science, engineering, and technology.
+Some Greek philosophers of antiquity, among them Aristotle, founder of Aristotelian physics, may have been the first to maintain the idea that "everything happens for a reason" and that theoretical principles can assist in the understanding of nature. While to a modern reader, many of these preserved ideas come forth as eminently reasonable, there is a conspicuous lack of both mathematical theory and controlled experiment, as we know it. These later became decisive factors in forming modern science, and their early application came to be known as classical mechanics. In his Elementa super demonstrationem ponderum, medieval mathematician Jordanus de Nemore introduced the concept of "positional gravity" and the use of component forces.
+
+The first published causal explanation of the motions of planets was Johannes Kepler's Astronomia nova, published in 1609. He concluded, based on Tycho Brahe's observations on the orbit of Mars, that the planet's orbits were ellipses. This break with ancient thought was happening around the same time that Galileo was proposing abstract mathematical laws for the motion of objects. He may (or may not) have performed the famous experiment of dropping two cannonballs of different weights from the tower of Pisa, showing that they both hit the ground at the same time. The reality of that particular experiment is disputed, but he did carry out quantitative experiments by rolling balls on an inclined plane. His theory of accelerated motion was derived from the results of such experiments and forms a cornerstone of classical mechanics. In 1673 Christiaan Huygens described in his Horologium Oscillatorium the first two laws of motion. The work is also the first modern treatise in which a physical problem (the accelerated motion of a falling body) is idealized by a set of parameters then analyzed mathematically and constitutes one of the seminal works of applied mathematics.
+
+Newton founded his principles of natural philosophy on three proposed laws of motion: the law of inertia, his second law of acceleration (mentioned above), and the law of action and reaction; and hence laid the foundations for classical mechanics. Both Newton's second and third laws were given the proper scientific and mathematical treatment in Newton's Philosophiæ Naturalis Principia Mathematica. Here they are distinguished from earlier attempts at explaining similar phenomena, which were either incomplete, incorrect, or given little accurate mathematical expression. Newton also enunciated the principles of conservation of momentum and angular momentum. In mechanics, Newton was also the first to provide the first correct scientific and mathematical formulation of gravity in Newton's law of universal gravitation. The combination of Newton's laws of motion and gravitation provide the fullest and most accurate description of classical mechanics. He demonstrated that these laws apply to everyday objects as well as to celestial objects. In particular, he obtained a theoretical explanation of Kepler's laws of motion of the planets.
+Newton had previously invented the calculus, of mathematics, and used it to perform the mathematical calculations. For acceptability, his book, the Principia, was formulated entirely in terms of the long-established geometric methods, which were soon eclipsed by his calculus. However, it was Leibniz who developed the notation of the derivative and integral preferred today. Newton, and most of his contemporaries, with the notable exception of Huygens, worked on the assumption that classical mechanics would be able to explain all phenomena, including light, in the form of geometric optics. Even when discovering the so-called Newton's rings (a wave interference phenomenon) he maintained his own corpuscular theory of light.
+
+After Newton, classical mechanics became a principal field of study in mathematics as well as physics. Mathematical formulations progressively allowed finding solutions to a far greater number of problems. The first notable mathematical treatment was in 1788 by Joseph Louis Lagrange. Lagrangian mechanics was in turn re-formulated in 1833 by William Rowan Hamilton.
+
+Some difficulties were discovered in the late 19th century that could only be resolved by more modern physics. Some of these difficulties related to compatibility with electromagnetic theory, and the famous Michelson–Morley experiment. The resolution of these problems led to the special theory of relativity, often still considered a part of classical mechanics.
+A second set of difficulties were related to thermodynamics. When combined with thermodynamics, classical mechanics leads to the Gibbs paradox of classical statistical mechanics, in which entropy is not a well-defined quantity. Black-body radiation was not explained without the introduction of quanta. As experiments reached the atomic level, classical mechanics failed to explain, even approximately, such basic things as the energy levels and sizes of atoms and the photo-electric effect. The effort at resolving these problems led to the development of quantum mechanics.
+Since the end of the 20th century, classical mechanics in physics has no longer been an independent theory. Instead, classical mechanics is now considered an approximate theory to the more general quantum mechanics. Emphasis has shifted to understanding the fundamental forces of nature as in the Standard model and its more modern extensions into a unified theory of everything. Classical mechanics is a theory useful for the study of the motion of non-quantum mechanical, low-energy particles in weak gravitational fields. Also, it has been extended into the complex domain where complex classical mechanics exhibits behaviors very similar to quantum mechanics.
+
+
+== Branches ==
+Classical mechanics was traditionally divided into three main branches:
+
+Statics, the study of equilibrium and its relation to forces
+Dynamics, the study of motion and its relation to forces
+Kinematics, dealing with the implications of observed motions without regard for circumstances causing themAnother division is based on the choice of mathematical formalism:
+
+Newtonian mechanics
+Lagrangian mechanics
+Hamiltonian mechanicsAlternatively, a division can be made by region of application:
+
+Celestial mechanics, relating to stars, planets and other celestial bodies
+Continuum mechanics, for materials modelled as a continuum, e.g., solids and fluids (i.e., liquids and gases).
+Relativistic mechanics (i.e. including the special and general theories of relativity), for bodies whose speed is close to the speed of light.
+Statistical mechanics, which provides a framework for relating the microscopic properties of individual atoms and molecules to the macroscopic or bulk thermodynamic properties of materials.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Alonso, M.; Finn, J. (1992). Fundamental University Physics. Addison-Wesley.
+Feynman, Richard (1999). The Feynman Lectures on Physics. Perseus Publishing. ISBN 978-0-7382-0092-7.
+Feynman, Richard; Phillips, Richard (1998). Six Easy Pieces. Perseus Publishing. ISBN 978-0-201-32841-7.
+Goldstein, Herbert; Charles P. Poole; John L. Safko (2002). Classical Mechanics (3rd ed.). Addison Wesley. ISBN 978-0-201-65702-9.
+Kibble, Tom W.B.; Berkshire, Frank H. (2004). Classical Mechanics (5th ed.). Imperial College Press. ISBN 978-1-86094-424-6.
+Kleppner, D.; Kolenkow, R.J. (1973). An Introduction to Mechanics. McGraw-Hill. ISBN 978-0-07-035048-9.
+Landau, L.D.; Lifshitz, E.M. (1972). Course of Theoretical Physics, Vol. 1 – Mechanics. Franklin Book Company. ISBN 978-0-08-016739-8.
+Morin, David (2008). Introduction to Classical Mechanics: With Problems and Solutions (1st ed.). Cambridge: Cambridge University Press. ISBN 978-0-521-87622-3.
+Gerald Jay Sussman; Jack Wisdom (2001). Structure and Interpretation of Classical Mechanics. MIT Press. ISBN 978-0-262-19455-6.
+O'Donnell, Peter J. (2015). Essential Dynamics and Relativity. CRC Press. ISBN 978-1-4665-8839-4.
+Thornton, Stephen T.; Marion, Jerry B. (2003). Classical Dynamics of Particles and Systems (5th ed.). Brooks Cole. ISBN 978-0-534-40896-1.
+
+
+== External links ==
+
+Crowell, Benjamin. Light and Matter (an introductory text, uses algebra with optional sections involving calculus)
+Fitzpatrick, Richard. Classical Mechanics (uses calculus)
+Hoiland, Paul (2004). Preferred Frames of Reference & Relativity
+Horbatsch, Marko, "Classical Mechanics Course Notes".
+Rosu, Haret C., "Classical Mechanics". Physics Education. 1999. [arxiv.org : physics/9909035]
+Shapiro, Joel A. (2003). Classical Mechanics
+Sussman, Gerald Jay & Wisdom, Jack &  Mayer, Meinhard E. (2001). Structure and Interpretation of Classical Mechanics
+Tong, David. Classical Dynamics (Cambridge lecture notes on Lagrangian and Hamiltonian formalism)
+Kinematic Models for Design Digital Library (KMODDL) Movies and photos of hundreds of working mechanical-systems models at Cornell University. Also includes an e-book library of classic texts on mechanical design and engineering.
+MIT OpenCourseWare 8.01: Classical Mechanics Free videos of actual course lectures with links to lecture notes, assignments and exams.
+Alejandro A. Torassa, On Classical Mechanics
+

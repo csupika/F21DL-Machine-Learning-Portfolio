@@ -1,0 +1,7485 @@
+####### TITLE #######
+
+Exponentiation
+
+####### LINKS #######
+
+['1001001, Inc.', '10 (number)', '4 (number)', '80 Micro', 'ABAP', 'APL (programming language)', 'ASCII', 'AWK', 'Abelian group', 'Absolute value', 'Abū al-Hasan ibn Alī al-Qalasādī', 'Accumulation point', 'Ackermann function', 'Ada (programming language)', 'Addition', 'Addition-chain exponentiation', 'Additive group', 'Affine algebraic set', 'Algebraic extension', 'Algebraic function', 'Algebraic geometry', 'Algebraic number', 'Algebraic structure', 'Algol', 'Algol programming language', 'Algorithm', 'American Mathematical Society', 'Analytic continuation', 'Analytica (software)', 'Ancient Greek', 'Apache Groovy', 'Approximation', 'Archimedes', 'Argument (complex analysis)', 'Arithmetic operation', 'Arithmetic operations', 'Associative', 'Associative operation', 'Associativity', 'Asymptotic', 'Atan2', 'B. G. Teubner Verlagsgesellschaft', 'BASIC', 'Base (exponentiation)', 'Bash (Unix shell)', 'Basis (linear algebra)', 'Bc programming language', 'Binary number', 'Binary number system', 'Binary operation', 'Binary point', 'Binary representation', 'Binomial formula', 'Biology', 'Bit', 'Bronstein and Semendjajew', 'Byte', 'C++', 'C0-semigroup', 'COBOL', 'CRC Press', 'C (programming language)', 'C Sharp (programming language)', 'Cambridge University Press', 'Canonical map', 'Cardinal number', 'Caret', 'Cartesian closed category', 'Cartesian product', 'Category of sets', 'Characterizations of the exponential function', 'Chemical reaction kinetics', 'Chemistry', 'Circular permutation', 'Circular reasoning', 'CiteSeerX (identifier)', 'Classification of finite simple groups', 'Codomain', 'CoffeeScript', 'Commodore BASIC', 'Common Lisp', 'Commutative', 'Commutative property', 'Commutative ring', 'Complex differentiable', 'Complex logarithm', 'Complex number', 'Complex numbers', 'Complex plane', 'Compound interest', 'Computer algebra', 'Computer algebra system', 'Computer science', 'Conjugacy class', 'Continuous function', 'Conway chained arrow notation', 'Coordinate ring', 'Coprime integers', "Crelle's Journal", 'Cube (algebra)', 'Currying', 'Cyclic group', 'D. Reidel', 'D (programming language)', 'David Sayre', 'Decimal', 'Derivative', 'Difference Equations: From Rabbits to Chaos', 'Diffie–Hellman key exchange', 'Direct product', 'Direct sum', 'Discrete Fourier transform', 'Discrete dynamical system', 'Discrete logarithm', 'Disjoint union', 'Division (mathematics)', 'Doi (identifier)', 'Domain of a function', 'Double exponential function', 'Economics', 'Edmund F. Robertson', 'Eigenvalues and eigenvectors', 'Empty product', 'Endomorphism', 'Equation x^y = y^x', 'Erlang (programming language)', 'Euclid', "Euler's formula", "Euler's number", "Euler's totient function", 'Even functions', 'Exponent', 'Exponent (disambiguation)', 'Exponential (category theory)', 'Exponential decay', 'Exponential field', 'Exponential function', 'Exponential growth', 'Exponentiation by squaring', 'Extended real number line', 'F Sharp (programming language)', 'Field (mathematics)', 'Field automorphism', 'Field extension', 'Finite field', 'Finite group', 'Finite set', 'Florian Cajori', 'Formal proof', 'Fortran', 'Fourth power', 'FoxPro 2', 'Fractional calculus', 'Fractional derivative', 'Fractional integral', "Freshman's dream", 'Frobenius automorphism', 'Function (mathematics)', 'Function composition', 'Functional notation', 'Galois group', 'Gelfond–Schneider theorem', 'Geometric transformation', 'Gert Wanka', 'Giuseppe Peano', 'Gnuplot', 'Graduate Studies in Mathematics', 'Graph of a function', 'Greek mathematics', 'Group (mathematics)', 'Group theory', 'Grzegorczyk hierarchy', 'Hamel basis', 'Hans Heinrich Bürmann', 'Haskell (programming language)', 'Heat equation', 'Henricus Grammateus', "Hilbert's Nullstellensatz", 'Hippocrates of Chios', 'Holomorphic', "Horner's rule", 'Hyperoperation', 'ISBN (identifier)', 'ISSN (identifier)', 'Ideal (ring theory)', 'Identity (mathematics)', 'Identity element', 'Ilya Nikolaevich Bronshtein', 'Imaginary part', 'Indeterminate form', 'Infinite sequence', 'Infinite set', 'Infinity (mathematics)', 'InfoWorld', 'Integer', 'International Business Machines Corporation', 'Inverse function', 'Inverse image', 'Invertible element', 'Involution (mathematics)', 'Irrational number', 'Isaac Newton', 'Isomorphic', 'Isomorphism', 'JSTOR (identifier)', 'J programming language', 'JavaScript', 'Java (programming language)', 'Johannes Petreius', 'John Frederick William Herschel', "John J. O'Connor (mathematician)", 'John Warner Backus', 'Joseph J. Rotman', 'Jost Bürgi', 'Juraj Hromkovič', 'Kaaba', 'Kilo-', "Knuth's up-arrow notation", 'Konstantin Adolfovic Semendyayev', 'KornShell', 'Kāf', 'La Géométrie', 'Lagrange resolvent', 'Latin language', 'Laws of Indices', 'Laws of Indices (horse)', 'Leonhard Euler', 'Library (computing)', 'Limit of a sequence', 'Linear map', 'Linear operator', 'List of exponential topics', 'Logarithm', 'Lua (programming language)', 'MATLAB', 'MIT Press', 'MR (identifier)', 'MacTutor History of Mathematics archive', 'Macmillan Publishers', 'Markov chain', 'Mary Flahive', 'Mathematical fallacy', 'Mathematical induction', 'Mathematical notation', 'Mathematical structure', 'Mathematics', 'Mathematics in medieval Islam', 'Matlab', 'Matrix (mathematics)', 'Matrix power', 'Mercury (programming language)', 'Metres per second', 'Michael Quinion', 'Michael Stifel', 'Microsoft Excel', 'Microsoft Office Excel', 'Modular exponentiation', 'Module (mathematics)', 'Monoid', 'Monotone function', 'Morphism', 'Muhammad ibn Mūsā al-Khwārizmī', 'Multiplication', 'Multiplicative group', 'Multiplicative identity', 'Multiplicative inverse', 'Multivalued function', 'Mīm', 'NIST Handbook of Mathematical Functions', 'National Institute of Standards and Technology', 'Natural logarithm', 'Nicolas Chuquet', 'Niels Henrik Abel', 'Nilpotent', 'Nilradical of a ring', 'Non-terminating decimal', 'Nth root', 'OCaml', 'Odd functions', 'Odd number', 'One half', 'Open Court Publishing Company', 'Open court publishing company', 'Operation (mathematics)', 'Operator (computer programming)', 'Operator associativity', 'Order (group theory)', 'Order of operations', 'Ordered pair', 'Oxford English Dictionary', 'Oxford University Press', 'PHP', 'PL/I', 'Pentation', 'Periodic function', 'Perl', 'Philosophical Transactions of the Royal Society of London', 'Physics', 'Pointwise multiplication', 'Polar form', 'Polynomial', 'Polynomial ring', 'Popular Computing, Inc.', 'Population growth', 'Positive integer', 'PowerShell', 'Power associativity', 'Power of 10', 'Power of two', 'Power set', 'Prime number', 'Prime power', 'Primitive element (finite field)', 'Primitive recursive function', 'Principal branch', 'Principal root', 'Principal value', 'Proceedings of the American Mathematical Society', 'Product (mathematics)', 'Product topology', 'Programming language', 'Proper subset', 'Public-key cryptography', 'Python (programming language)', 'Quotient', 'R (programming language)', 'Radical ideal', 'Radical of an ideal', 'Radicand', 'Raphael Mitchel Robinson', 'Rational number', 'Real and imaginary parts', 'Real function', 'Real number', 'Real part', 'Recurrence relation', 'Reduced ring', 'Regular polygon', 'René Descartes', 'Rexx', 'Richard Goldberg', 'Right adjoint', 'Ring (mathematics)', 'Robert Recorde', 'Root of unity', 'Roy Nutt', 'Royal Society of London', 'Ruby (programming language)', 'S2CID (identifier)', 'SAS programming language', 'SI prefix', 'Samuel Jeake', 'Schrödinger equation', 'Scientific notation', 'Secure communication', 'Seed7', 'Sequence', 'Sequence (mathematics)', 'Serial exponentiation', 'Set (mathematics)', 'Set theory', 'Siegfried Gottwald', 'Speed of light', 'Springer-Handbuch der Mathematik', 'Springer Fachmedien Wiesbaden', 'Springer Spektrum', 'Square (algebra)', 'Square matrices', 'Steinhaus–Moser notation', 'Subgroup', 'Subset', 'Subset sum problem', 'Subtraction', 'Successor function', 'Super-logarithm', 'Super-root', 'Superscript', 'Sylow theorems', 'Symmetry', 'TI-BASIC', 'TRS-80 Level II BASIC', 'Tcl', 'TeX', 'Tetration', 'The Sand Reckoner', 'Thomas Clausen (mathematician)', 'Topological space', 'Transcendental number', 'Trigonometric functions', 'Trigonometry', 'Tuple', 'Turing (programming language)', 'U.S. Department of Commerce', 'Undergraduate Texts in Mathematics', 'Unicode subscripts and superscripts', 'Unit circle', 'University of California', 'University of St Andrews', 'Up to', 'VHDL', 'Vector space', 'Verlag Harri Deutsch', 'W. W. Rouse Ball', 'Wave', 'Wave equation', 'Wayback Machine', 'Well-defined expression', 'Wolfgang Hackbusch', 'Wolfram Language', 'Wolfram Mathematica', 'Z shell', 'Zenzizenzizenzic', 'Zero ideal', 'Zero to the power of zero', "Zorn's lemma"]
+
+####### CATEGORIES #######
+
+['All articles with unsourced statements', 'Articles containing Latin-language text', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with short description', 'Articles with unsourced statements from August 2021', 'CS1 French-language sources (fr)', 'CS1 German-language sources (de)', 'CS1 Latin-language sources (la)', 'CS1 location test', 'Exponentials', 'Short description matches Wikidata', 'Unary operations', 'Use dmy dates from July 2020', 'Webarchive template wayback links', 'Wikipedia articles needing clarification from August 2021']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/b/be/Continuity_of_the_Exponential_at_0.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Expo02.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/61/Mplwp_roots_01.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/63/One3Root.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/19/Potenssi_1_3_5.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/75/Potenssi_2_4_6.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg']
+
+####### REFERENCES #######
+
+['http://highered.mcgraw-hill.com/sites/0070131511/student_view0/chapter30/glossary.html', 'http://jeff560.tripod.com/e.html', 'http://mathworld.wolfram.com/PrincipalRootofUnity.html', 'http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.7076', 'http://gallica.bnf.fr/ark:/12148/btv1b86069594/f383.image', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007562810505171', 'http://www.ams.org/mathscinet-getitem?mr=2723248', 'http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=9780521140638', 'http://www.ccrwest.org/gordon/jalg.pdf', 'http://archive.computerhistory.org/resources/text/Fortran/102649787.05.01.acc.pdf', 'http://doi.org/10.1006%2Fjagm.1997.0913', 'http://doi.org/10.1007%2F978-3-658-00285-5', 'http://doi.org/10.1090%2Fs0002-9939-1958-0096614-7', 'http://doi.org/10.1098%2Frstl.1813.0005', 'http://www.jstor.org/stable/107384', 'http://www.worldcat.org/issn/0744-7868', 'http://www.worldwidewords.org/weirdwords/ww-zen1.htm', 'https://books.google.com/books?id=NDAEAAAAMBAJ&pg=PA42', 'https://books.google.com/books?id=PWcSAAAAIAAJ&pg=PA5', 'https://books.google.com/books?id=YOdtemSmzQQC&pg=PA101', 'https://books.google.com/books?id=bT5suOONXlgC', 'https://books.google.com/books?id=kd8R_Y10U3oC&pg=PA105', 'https://books.google.com/books?id=qToTAgAAQBAJ&pg=PA94', 'https://oed.com/search?searchType=dictionary&q=involution', 'https://www.oed.com/public/login/loggingin#withyourlibrary', 'https://mathworld.wolfram.com/Power.html', 'https://www.digizeitschriften.de/dms/img/?PID=PPN243919689_0002%7Clog33&physid=phys301#navi', 'https://gallica.bnf.fr/ark:/12148/bpt6k33510/f93.image', 'https://id.loc.gov/authorities/subjects/sh85046490', 'https://www.ams.org/books/gsm/165/04', 'https://www.ams.org/journals/proc/1958-009-05/S0002-9939-1958-0096614-7/S0002-9939-1958-0096614-7.pdf', 'https://archive.org/details/80-microcomputing-magazine-1983-10', 'https://archive.org/details/TheBeginningsOfGreekMathematics/page/n37', 'https://archive.org/details/TheBeginningsOfGreekMathematics', 'https://archive.org/details/acollectionexam00lacrgoog', 'https://archive.org/details/bub_gb_fndPsRv08R0C/page/n491', 'https://archive.org/details/calculusearlytra00anto_656', 'https://archive.org/details/calculusearlytra00anto_656/page/n51', 'https://archive.org/details/historyofmathema031756mbp', 'https://archive.org/details/historyofmathema031756mbp/page/n363', 'https://archive.org/details/linearalgebrageo0000bloo', 'https://archive.org/details/linearalgebrageo0000bloo/page/45', 'https://archive.org/details/shortaccountofhi00ballrich', 'https://archive.org/details/shortaccountofhi00ballrich/page/38', 'https://web.archive.org/web/20070930201902/http://highered.mcgraw-hill.com/sites/0070131511/student_view0/chapter30/glossary.html', 'https://web.archive.org/web/20200207104336/https://books.google.de/books?id=NDAEAAAAMBAJ&pg=PA42&focus=viewport#v=onepage&q=TRS-80%20exponention', 'https://web.archive.org/web/20200628100823/https://www.ams.org/journals/proc/1958-009-05/S0002-9939-1958-0096614-7/S0002-9939-1958-0096614-7.pdf', 'https://web.archive.org/web/20200804031020/https://books.google.de/books?id=PWcSAAAAIAAJ&jtp=5', 'https://web.archive.org/web/20220226160938/https://books.google.com/books?id=kd8R_Y10U3oC&pg=PA105#v=onepage', 'https://web.archive.org/web/20220329234459/https://archive.computerhistory.org/resources/text/Fortran/102679231.05.01.acc.pdf', 'https://web.archive.org/web/20220704193549/http://archive.computerhistory.org/resources/text/Fortran/102649787.05.01.acc.pdf', 'https://archive.computerhistory.org/resources/text/Fortran/102679231.05.01.acc.pdf', 'https://mathinsight.org/exponentiation_basic_rules', 'https://api.semanticscholar.org/CorpusID:118124706', 'https://www.wikidata.org/wiki/Q33456#identifiers', 'https://mathshistory.st-andrews.ac.uk/Biographies/Al-Qalasadi.html', 'https://mathshistory.st-andrews.ac.uk/Miscellaneous/Mathematical_notation.html']
+
+####### SUMMARY #######
+
+Exponentiation is a mathematical operation, written as bn, involving two numbers, the base b and the exponent or power n, and pronounced as "b (raised) to the (power of) n". When n is a positive integer, exponentiation corresponds to repeated multiplication of the base: that is, bn is the product of multiplying n bases:
+The exponent is usually shown as a superscript to the right of the base. In that case, bn is called "b raised to the nth power", "b (raised) to the power of n", "the nth power of b", "b to the nth power", or most briefly as "b to the nth".
+Starting from the basic fact stated above that, for any positive integer 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , 
+  
+    
+      
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{n}}
+   is 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   occurrences of 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   all multiplied by each other, several other properties of exponentiation directly follow. In particular:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  b
+                  
+                    n
+                    +
+                    m
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        b
+                        ×
+                        ⋯
+                        ×
+                        b
+                      
+                      ⏟
+                    
+                  
+                  
+                    n
+                    +
+                    m
+                    
+                       times
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        b
+                        ×
+                        ⋯
+                        ×
+                        b
+                      
+                      ⏟
+                    
+                  
+                  
+                    n
+                    
+                       times
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      
+                        b
+                        ×
+                        ⋯
+                        ×
+                        b
+                      
+                      ⏟
+                    
+                  
+                  
+                    m
+                    
+                       times
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  b
+                  
+                    n
+                  
+                
+                ×
+                
+                  b
+                  
+                    m
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}b^{n+m}&=\underbrace {b\times \dots \times b} _{n+m{\text{ times}}}\\[1ex]&=\underbrace {b\times \dots \times b} _{n{\text{ times}}}\times \underbrace {b\times \dots \times b} _{m{\text{ times}}}\\[1ex]&=b^{n}\times b^{m}\end{aligned}}}
+  
+In other words, when multiplying a base raised to one exponent by the same base raised to another exponent, the exponents add. From this basic rule that exponents add, we can derive that 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle b^{0}}
+   must be equal to 1, as follows. For any 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+        ⋅
+        
+          b
+          
+            n
+          
+        
+        =
+        
+          b
+          
+            0
+            +
+            n
+          
+        
+        =
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{0}\cdot b^{n}=b^{0+n}=b^{n}}
+  . Dividing both sides by 
+  
+    
+      
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{n}}
+   gives 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+        =
+        
+          b
+          
+            n
+          
+        
+        
+          /
+        
+        
+          b
+          
+            n
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle b^{0}=b^{n}/b^{n}=1}
+  .
+The fact that 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{1}=b}
+   can similarly be derived from the same rule. For example, 
+  
+    
+      
+        (
+        
+          b
+          
+            1
+          
+        
+        
+          )
+          
+            3
+          
+        
+        =
+        
+          b
+          
+            1
+          
+        
+        ⋅
+        
+          b
+          
+            1
+          
+        
+        ⋅
+        
+          b
+          
+            1
+          
+        
+        =
+        
+          b
+          
+            1
+            +
+            1
+            +
+            1
+          
+        
+        =
+        
+          b
+          
+            3
+          
+        
+      
+    
+    {\displaystyle (b^{1})^{3}=b^{1}\cdot b^{1}\cdot b^{1}=b^{1+1+1}=b^{3}}
+  . Taking the cube root of both sides gives 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{1}=b}
+  .
+The rule that multiplying makes exponents add can also be used to derive the properties of 
+negative integer exponents. Consider the question of what 
+  
+    
+      
+        
+          b
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle b^{-1}}
+   should mean. In order to respect the "exponents add" rule, it must be the case that 
+  
+    
+      
+        
+          b
+          
+            −
+            1
+          
+        
+        ⋅
+        
+          b
+          
+            1
+          
+        
+        =
+        
+          b
+          
+            −
+            1
+            +
+            1
+          
+        
+        =
+        
+          b
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle b^{-1}\cdot b^{1}=b^{-1+1}=b^{0}=1}
+  . Dividing both sides by 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b^{1}}
+   gives 
+
+  
+    
+      
+        
+          b
+          
+            −
+            1
+          
+        
+        =
+        1
+        
+          /
+        
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b^{-1}=1/b^{1}}
+  , which can be more simply written as 
+  
+    
+      
+        
+          b
+          
+            −
+            1
+          
+        
+        =
+        1
+        
+          /
+        
+        b
+      
+    
+    {\displaystyle b^{-1}=1/b}
+  , using the result from above that 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{1}=b}
+  . By a similar argument, 
+  
+    
+      
+        
+          b
+          
+            −
+            n
+          
+        
+        =
+        1
+        
+          /
+        
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{-n}=1/b^{n}}
+  .
+The properties of fractional exponents also follow from the same rule. For example, suppose we consider 
+  
+    
+      
+        
+          
+            b
+          
+        
+      
+    
+    {\displaystyle {\sqrt {b}}}
+   and ask if there is some suitable exponent,  which we may call 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , such that 
+  
+    
+      
+        
+          b
+          
+            r
+          
+        
+        =
+        
+          
+            b
+          
+        
+      
+    
+    {\displaystyle b^{r}={\sqrt {b}}}
+  . From the definition of the square root, we have that 
+  
+    
+      
+        
+          
+            b
+          
+        
+        ⋅
+        
+          
+            b
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle {\sqrt {b}}\cdot {\sqrt {b}}=b}
+  . Therefore, the exponent 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   must be such that 
+  
+    
+      
+        
+          b
+          
+            r
+          
+        
+        ⋅
+        
+          b
+          
+            r
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{r}\cdot b^{r}=b}
+  . Using the fact that multiplying makes exponents add gives 
+  
+    
+      
+        
+          b
+          
+            r
+            +
+            r
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{r+r}=b}
+  . The 
+
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   on the right-hand side can also be written as 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b^{1}}
+  , giving 
+  
+    
+      
+        
+          b
+          
+            r
+            +
+            r
+          
+        
+        =
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b^{r+r}=b^{1}}
+  . Equating the exponents on both sides, we have 
+  
+    
+      
+        r
+        +
+        r
+        =
+        1
+      
+    
+    {\displaystyle r+r=1}
+  . Therefore, 
+  
+    
+      
+        r
+        =
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle r={\frac {1}{2}}}
+  , so 
+  
+    
+      
+        
+          
+            b
+          
+        
+        =
+        
+          b
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {b}}=b^{\frac {1}{2}}}
+  .
+The definition of exponentiation can be extended to allow any real or complex exponent. Exponentiation by integer exponents can also be defined for a wide variety of algebraic structures, including matrices.
+Exponentiation is used extensively in many fields, including economics, biology, chemistry, physics, and computer science, with applications such as compound interest, population growth, chemical reaction kinetics, wave behavior, and public-key cryptography.
+
+####### CONTENT #######
+
+Exponentiation is a mathematical operation, written as bn, involving two numbers, the base b and the exponent or power n, and pronounced as "b (raised) to the (power of) n". When n is a positive integer, exponentiation corresponds to repeated multiplication of the base: that is, bn is the product of multiplying n bases:
+The exponent is usually shown as a superscript to the right of the base. In that case, bn is called "b raised to the nth power", "b (raised) to the power of n", "the nth power of b", "b to the nth power", or most briefly as "b to the nth".
+Starting from the basic fact stated above that, for any positive integer 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , 
+  
+    
+      
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{n}}
+   is 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   occurrences of 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   all multiplied by each other, several other properties of exponentiation directly follow. In particular:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  b
+                  
+                    n
+                    +
+                    m
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        b
+                        ×
+                        ⋯
+                        ×
+                        b
+                      
+                      ⏟
+                    
+                  
+                  
+                    n
+                    +
+                    m
+                    
+                       times
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        b
+                        ×
+                        ⋯
+                        ×
+                        b
+                      
+                      ⏟
+                    
+                  
+                  
+                    n
+                    
+                       times
+                    
+                  
+                
+                ×
+                
+                  
+                    
+                      
+                        b
+                        ×
+                        ⋯
+                        ×
+                        b
+                      
+                      ⏟
+                    
+                  
+                  
+                    m
+                    
+                       times
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  b
+                  
+                    n
+                  
+                
+                ×
+                
+                  b
+                  
+                    m
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}b^{n+m}&=\underbrace {b\times \dots \times b} _{n+m{\text{ times}}}\\[1ex]&=\underbrace {b\times \dots \times b} _{n{\text{ times}}}\times \underbrace {b\times \dots \times b} _{m{\text{ times}}}\\[1ex]&=b^{n}\times b^{m}\end{aligned}}}
+  
+In other words, when multiplying a base raised to one exponent by the same base raised to another exponent, the exponents add. From this basic rule that exponents add, we can derive that 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle b^{0}}
+   must be equal to 1, as follows. For any 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+        ⋅
+        
+          b
+          
+            n
+          
+        
+        =
+        
+          b
+          
+            0
+            +
+            n
+          
+        
+        =
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{0}\cdot b^{n}=b^{0+n}=b^{n}}
+  . Dividing both sides by 
+  
+    
+      
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{n}}
+   gives 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+        =
+        
+          b
+          
+            n
+          
+        
+        
+          /
+        
+        
+          b
+          
+            n
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle b^{0}=b^{n}/b^{n}=1}
+  .
+The fact that 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{1}=b}
+   can similarly be derived from the same rule. For example, 
+  
+    
+      
+        (
+        
+          b
+          
+            1
+          
+        
+        
+          )
+          
+            3
+          
+        
+        =
+        
+          b
+          
+            1
+          
+        
+        ⋅
+        
+          b
+          
+            1
+          
+        
+        ⋅
+        
+          b
+          
+            1
+          
+        
+        =
+        
+          b
+          
+            1
+            +
+            1
+            +
+            1
+          
+        
+        =
+        
+          b
+          
+            3
+          
+        
+      
+    
+    {\displaystyle (b^{1})^{3}=b^{1}\cdot b^{1}\cdot b^{1}=b^{1+1+1}=b^{3}}
+  . Taking the cube root of both sides gives 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{1}=b}
+  .
+The rule that multiplying makes exponents add can also be used to derive the properties of 
+negative integer exponents. Consider the question of what 
+  
+    
+      
+        
+          b
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle b^{-1}}
+   should mean. In order to respect the "exponents add" rule, it must be the case that 
+  
+    
+      
+        
+          b
+          
+            −
+            1
+          
+        
+        ⋅
+        
+          b
+          
+            1
+          
+        
+        =
+        
+          b
+          
+            −
+            1
+            +
+            1
+          
+        
+        =
+        
+          b
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle b^{-1}\cdot b^{1}=b^{-1+1}=b^{0}=1}
+  . Dividing both sides by 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b^{1}}
+   gives 
+
+  
+    
+      
+        
+          b
+          
+            −
+            1
+          
+        
+        =
+        1
+        
+          /
+        
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b^{-1}=1/b^{1}}
+  , which can be more simply written as 
+  
+    
+      
+        
+          b
+          
+            −
+            1
+          
+        
+        =
+        1
+        
+          /
+        
+        b
+      
+    
+    {\displaystyle b^{-1}=1/b}
+  , using the result from above that 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{1}=b}
+  . By a similar argument, 
+  
+    
+      
+        
+          b
+          
+            −
+            n
+          
+        
+        =
+        1
+        
+          /
+        
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{-n}=1/b^{n}}
+  .
+The properties of fractional exponents also follow from the same rule. For example, suppose we consider 
+  
+    
+      
+        
+          
+            b
+          
+        
+      
+    
+    {\displaystyle {\sqrt {b}}}
+   and ask if there is some suitable exponent,  which we may call 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , such that 
+  
+    
+      
+        
+          b
+          
+            r
+          
+        
+        =
+        
+          
+            b
+          
+        
+      
+    
+    {\displaystyle b^{r}={\sqrt {b}}}
+  . From the definition of the square root, we have that 
+  
+    
+      
+        
+          
+            b
+          
+        
+        ⋅
+        
+          
+            b
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle {\sqrt {b}}\cdot {\sqrt {b}}=b}
+  . Therefore, the exponent 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   must be such that 
+  
+    
+      
+        
+          b
+          
+            r
+          
+        
+        ⋅
+        
+          b
+          
+            r
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{r}\cdot b^{r}=b}
+  . Using the fact that multiplying makes exponents add gives 
+  
+    
+      
+        
+          b
+          
+            r
+            +
+            r
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{r+r}=b}
+  . The 
+
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   on the right-hand side can also be written as 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b^{1}}
+  , giving 
+  
+    
+      
+        
+          b
+          
+            r
+            +
+            r
+          
+        
+        =
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b^{r+r}=b^{1}}
+  . Equating the exponents on both sides, we have 
+  
+    
+      
+        r
+        +
+        r
+        =
+        1
+      
+    
+    {\displaystyle r+r=1}
+  . Therefore, 
+  
+    
+      
+        r
+        =
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle r={\frac {1}{2}}}
+  , so 
+  
+    
+      
+        
+          
+            b
+          
+        
+        =
+        
+          b
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {b}}=b^{\frac {1}{2}}}
+  .
+The definition of exponentiation can be extended to allow any real or complex exponent. Exponentiation by integer exponents can also be defined for a wide variety of algebraic structures, including matrices.
+Exponentiation is used extensively in many fields, including economics, biology, chemistry, physics, and computer science, with applications such as compound interest, population growth, chemical reaction kinetics, wave behavior, and public-key cryptography.
+
+
+== History of the notation ==
+The term power (Latin: potentia, potestas, dignitas) is a mistranslation of the ancient Greek δύναμις (dúnamis, here: "amplification") used by the Greek mathematician Euclid for the square of a line, following Hippocrates of Chios. In The Sand Reckoner, Archimedes discovered and proved the law of exponents, 10a · 10b = 10a+b, necessary to manipulate powers of 10. In the 9th century, the Persian mathematician Muhammad ibn Mūsā al-Khwārizmī used the terms مَال (māl, "possessions", "property") for a square—the Muslims, "like most mathematicians of those and earlier times, thought of a squared number as a depiction of an area, especially of land, hence property"—and كَعْبَة (kaʿbah, "cube") for a cube, which later Islamic mathematicians represented in mathematical notation as the letters mīm (m) and kāf (k), respectively, by the 15th century, as seen in the work of Abū al-Hasan ibn Alī al-Qalasādī.In the late 16th century, Jost Bürgi used Roman numerals for exponents.Nicolas Chuquet used a form of exponential notation in the 15th century, which was later used by Henricus Grammateus and Michael Stifel in the 16th century. The word exponent was coined in 1544 by Michael Stifel. Samuel Jeake introduced the term indices in 1696. In the 16th century, Robert Recorde used the terms square, cube, zenzizenzic (fourth power), sursolid (fifth), zenzicube (sixth), second sursolid (seventh), and zenzizenzizenzic (eighth). Biquadrate has been used to refer to the fourth power as well.
+Early in the 17th century, the first form of our modern exponential notation was introduced by René Descartes in his text titled La Géométrie; there, the notation is introduced in Book I.Some mathematicians (such as Isaac Newton) used exponents only for powers greater than two, preferring to represent squares as repeated multiplication. Thus they would write polynomials, for example, as ax + bxx + cx3 + d.
+Another historical synonym, involution, is now rare and should not be confused with its more common meaning.
+
+In 1748, Leonhard Euler introduced variable exponents, and, implicitly, non-integer exponents by writing:"consider exponentials or powers in which the exponent itself is a variable. It is clear that quantities of this kind are not algebraic functions, since in those the exponents must be constant." 
+
+
+== Terminology ==
+The expression b2 = b · b is called "the square of b" or "b squared", because the area of a square with side-length b is b2.
+Similarly, the expression b3 = b · b · b  is called "the cube of b" or "b cubed", because the volume of a cube with side-length b is b3.
+When it is a positive integer, the exponent indicates how many copies of the base are multiplied together. For example, 35 = 3 · 3 · 3 · 3 · 3 = 243. The base 3 appears 5 times in the multiplication, because the exponent is 5. Here, 243 is the 5th power of 3, or 3 raised to the 5th power.
+The word "raised" is usually omitted, and sometimes "power" as well, so 35 can be simply read "3 to the 5th", or "3 to the 5". Therefore, the exponentiation bn can be expressed as "b to the power of n", "b to the nth power", "b to the nth", or most briefly as "b to the n".
+A formula with nested exponentiation, such as 357 (which means 3(57) and not (35)7), is called a tower of powers, or simply a tower.
+
+
+== Integer exponents ==
+The exponentiation operation with integer exponents may be defined directly from elementary arithmetic operations.
+
+
+=== Positive exponents ===
+The definition of the exponentiation as an iterated multiplication can be formalized by using induction, and this definition can be used as soon one has an associative multiplication:
+The base case is 
+
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        =
+        b
+      
+    
+    {\displaystyle b^{1}=b}
+  and the recurrence is
+
+  
+    
+      
+        
+          b
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          b
+          
+            n
+          
+        
+        ⋅
+        b
+        .
+      
+    
+    {\displaystyle b^{n+1}=b^{n}\cdot b.}
+  The associativity of multiplication implies that for any positive integers m and n,
+
+  
+    
+      
+        
+          b
+          
+            m
+            +
+            n
+          
+        
+        =
+        
+          b
+          
+            m
+          
+        
+        ⋅
+        
+          b
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle b^{m+n}=b^{m}\cdot b^{n},}
+  and
+
+  
+    
+      
+        (
+        
+          b
+          
+            m
+          
+        
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          b
+          
+            m
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle (b^{m})^{n}=b^{mn}.}
+  
+
+
+=== Zero exponent ===
+By definition, any nonzero number raised to the 0 power is 1:
+
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle b^{0}=1.}
+  This definition is the only possible that allows extending the formula
+
+  
+    
+      
+        
+          b
+          
+            m
+            +
+            n
+          
+        
+        =
+        
+          b
+          
+            m
+          
+        
+        ⋅
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{m+n}=b^{m}\cdot b^{n}}
+  to zero exponents. It may be used in every algebraic structure with a multiplication that has an identity.
+Intuitionally, 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle b^{0}}
+   may be interpreted as the empty product of copies of b. So, the equality 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle b^{0}=1}
+   is a special case of the general convention for the empty product.
+The case of 00 is more complicated. In contexts where only integer powers are considered, the value 1 is generally assigned to 
+  
+    
+      
+        
+          0
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle 0^{0},}
+   but, otherwise, the choice of whether to assign it a value and what value to assign may depend on context. For more details, see Zero to the power of zero.
+
+
+=== Negative exponents ===
+Exponentiation with negative exponents is defined by the following identity, which holds for any integer n and nonzero b:
+
+  
+    
+      
+        
+          b
+          
+            −
+            n
+          
+        
+        =
+        
+          
+            1
+            
+              b
+              
+                n
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle b^{-n}={\frac {1}{b^{n}}}.}
+  Raising 0 to a negative exponent is undefined but, in some circumstances, it may be interpreted as infinity (
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  ).
+This definition of exponentiation with negative exponents is the only one that allows extending the identity 
+  
+    
+      
+        
+          b
+          
+            m
+            +
+            n
+          
+        
+        =
+        
+          b
+          
+            m
+          
+        
+        ⋅
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{m+n}=b^{m}\cdot b^{n}}
+   to negative exponents (consider the case 
+  
+    
+      
+        m
+        =
+        −
+        n
+      
+    
+    {\displaystyle m=-n}
+  ).
+The same definition applies to invertible elements in a multiplicative monoid, that is, an algebraic structure, with an associative multiplication and a multiplicative identity denoted 1 (for example, the square matrices of a given dimension). In particular, in such a structure, the inverse of an invertible element x is standardly denoted 
+  
+    
+      
+        
+          x
+          
+            −
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle x^{-1}.}
+  
+
+
+=== Identities and properties ===
+
+The following identities, often called exponent rules, hold for all integer exponents, provided that the base is non-zero:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  b
+                  
+                    m
+                    +
+                    n
+                  
+                
+              
+              
+                
+                =
+                
+                  b
+                  
+                    m
+                  
+                
+                ⋅
+                
+                  b
+                  
+                    n
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    (
+                    
+                      b
+                      
+                        m
+                      
+                    
+                    )
+                  
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                
+                  b
+                  
+                    m
+                    ⋅
+                    n
+                  
+                
+              
+            
+            
+              
+                (
+                b
+                ⋅
+                c
+                
+                  )
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                
+                  b
+                  
+                    n
+                  
+                
+                ⋅
+                
+                  c
+                  
+                    n
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}b^{m+n}&=b^{m}\cdot b^{n}\\\left(b^{m}\right)^{n}&=b^{m\cdot n}\\(b\cdot c)^{n}&=b^{n}\cdot c^{n}\end{aligned}}}
+  Unlike addition and multiplication, exponentiation is not commutative. For example, 23 = 8 ≠ 32 = 9.  Also unlike addition and multiplication, exponentiation is not associative. For example, (23)2 = 82 = 64, whereas 2(32) = 29 = 512. Without parentheses, the conventional order of operations for serial exponentiation in superscript notation is top-down (or right-associative), not bottom-up (or left-associative). That is, 
+
+  
+    
+      
+        
+          b
+          
+            
+              p
+              
+                q
+              
+            
+          
+        
+        =
+        
+          b
+          
+            
+              (
+              
+                p
+                
+                  q
+                
+              
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle b^{p^{q}}=b^{\left(p^{q}\right)},}
+  which, in general, is different from 
+
+  
+    
+      
+        
+          
+            (
+            
+              b
+              
+                p
+              
+            
+            )
+          
+          
+            q
+          
+        
+        =
+        
+          b
+          
+            p
+            q
+          
+        
+        .
+      
+    
+    {\displaystyle \left(b^{p}\right)^{q}=b^{pq}.}
+  
+
+
+=== Powers of a sum ===
+The powers of a sum can normally be computed from the powers of the summands by the binomial formula
+
+  
+    
+      
+        (
+        a
+        +
+        b
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              i
+            
+            
+              )
+            
+          
+        
+        
+          a
+          
+            i
+          
+        
+        
+          b
+          
+            n
+            −
+            i
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              n
+              !
+            
+            
+              i
+              !
+              (
+              n
+              −
+              i
+              )
+              !
+            
+          
+        
+        
+          a
+          
+            i
+          
+        
+        
+          b
+          
+            n
+            −
+            i
+          
+        
+        .
+      
+    
+    {\displaystyle (a+b)^{n}=\sum _{i=0}^{n}{\binom {n}{i}}a^{i}b^{n-i}=\sum _{i=0}^{n}{\frac {n!}{i!(n-i)!}}a^{i}b^{n-i}.}
+  However, this formula is true only if the summands commute (i.e. that ab = ba), which is implied if they belong to a structure that is commutative. Otherwise, if a and b are, say, square matrices of the same size, this formula cannot be used. It follows that in computer algebra, many algorithms involving integer exponents must be changed when the exponentiation bases do not commute. Some general purpose computer algebra systems use a different notation (sometimes ^^ instead of ^) for exponentiation with non-commuting bases, which is then called non-commutative exponentiation.
+
+
+=== Combinatorial interpretation ===
+
+For nonnegative integers n and m, the value of nm is the number of functions from a set of m elements to a set of n elements (see cardinal exponentiation). Such functions can be represented as m-tuples from an n-element set (or as m-letter words from an n-letter alphabet).  Some examples for particular values of m and n are given in the following table:
+
+
+=== Particular bases ===
+
+
+==== Powers of ten ====
+
+In the base ten (decimal) number system, integer powers of 10 are written as the digit 1 followed or preceded by a number of zeroes determined by the sign and magnitude of the exponent.  For example, 103 = 1000 and 10−4 = 0.0001.
+Exponentiation with base 10 is used in scientific notation to denote large or small numbers. For instance, 299792458 m/s (the speed of light in vacuum, in metres per second) can be written as 2.99792458×108 m/s and then approximated as 2.998×108 m/s.
+SI prefixes based on powers of 10 are also used to describe small or large quantities. For example, the prefix kilo means 103 = 1000, so a kilometre is 1000 m.
+
+
+==== Powers of two ====
+
+The first negative powers of 2 are commonly used, and have special names, e.g.: half and quarter.
+Powers of 2 appear in set theory, since a set with n members has a power set, the set of all of its subsets, which has 2n members.
+Integer powers of 2 are important in computer science. The positive integer powers 2n give the number of possible values for an n-bit integer binary number; for example, a byte may take 28 = 256 different values. The binary number system expresses any number as a sum of powers of 2, and denotes it as a sequence of 0 and 1, separated by a binary point, where 1 indicates a power of 2 that appears in the sum; the exponent is determined by the place of this 1: the nonnegative exponents are the rank of the 1 on the left of the point (starting from 0), and the negative exponents are determined by the rank on the right of the point.
+
+
+==== Powers of one ====
+The powers of one are all one: 1n = 1.
+The first power of a number is the number itself: 
+  
+    
+      
+        
+          n
+          
+            1
+          
+        
+        =
+        n
+        .
+      
+    
+    {\displaystyle n^{1}=n.}
+  
+
+
+==== Powers of zero ====
+If the exponent n is positive (n > 0), the nth power of zero is zero: 0n = 0.
+If the exponent n is negative (n < 0), the nth power of zero 0n is undefined, because it must equal 
+  
+    
+      
+        1
+        
+          /
+        
+        
+          0
+          
+            −
+            n
+          
+        
+      
+    
+    {\displaystyle 1/0^{-n}}
+   with −n > 0, and this would be 
+  
+    
+      
+        1
+        
+          /
+        
+        0
+      
+    
+    {\displaystyle 1/0}
+   according to above.
+The expression 00 is either defined as 1, or it is left undefined.
+
+
+==== Powers of negative one ====
+If n is an even integer, then (−1)n = 1.
+If n is an odd integer, then (−1)n = −1.
+Because of this, powers of −1 are useful for expressing alternating sequences.  For a similar discussion of powers of the complex number i, see § Powers of complex numbers.
+
+
+=== Large exponents ===
+The limit of a sequence of powers of a number greater than one diverges; in other words, the sequence grows without bound:
+
+bn → ∞ as n → ∞ when b > 1This can be read as "b to the power of n tends to +∞ as n tends to infinity when b is greater than one".
+Powers of a number with absolute value less than one tend to zero:
+
+bn → 0 as n → ∞ when |b| < 1Any power of one is always one:
+
+bn = 1 for all n if b = 1Powers of –1 alternate between 1 and –1 as n alternates between even and odd, and thus do not tend to any limit as n grows.
+If b < –1, bn alternates between larger and larger positive and negative numbers as n alternates between even and odd, and thus does not tend to any limit as n grows.
+If the exponentiated number varies while tending to 1 as the exponent tends to infinity, then the limit is not necessarily one of those above. A particularly important case is
+
+(1 + 1/n)n → e as n → ∞See § The exponential function below.
+Other limits, in particular those of expressions that take on an indeterminate form, are described in § Limits of powers below.
+
+
+=== Power functions ===
+
+Real functions of the form 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        c
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f(x)=cx^{n}}
+  , where 
+  
+    
+      
+        c
+        ≠
+        0
+      
+    
+    {\displaystyle c\neq 0}
+  , are sometimes called power functions. When 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is an integer and 
+  
+    
+      
+        n
+        ≥
+        1
+      
+    
+    {\displaystyle n\geq 1}
+  , two primary families exist: for 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   even, and for 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   odd.  In general for 
+  
+    
+      
+        c
+        >
+        0
+      
+    
+    {\displaystyle c>0}
+  , when 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is even 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        c
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f(x)=cx^{n}}
+   will tend towards positive infinity with increasing 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , and also towards positive infinity with decreasing 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  .  All graphs from the family of even power functions have the general shape of 
+  
+    
+      
+        y
+        =
+        c
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle y=cx^{2}}
+  , flattening more in the middle as 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   increases.  Functions with this kind of symmetry (
+  
+    
+      
+        f
+        (
+        −
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(-x)=f(x)}
+  ) are called even functions.
+When 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is odd, 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  's asymptotic behavior reverses from positive 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   to negative 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  .  For 
+  
+    
+      
+        c
+        >
+        0
+      
+    
+    {\displaystyle c>0}
+  , 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        c
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f(x)=cx^{n}}
+   will also tend towards positive infinity with increasing 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , but towards negative infinity with decreasing 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  . All graphs from the family of odd power functions have the general shape of 
+  
+    
+      
+        y
+        =
+        c
+        
+          x
+          
+            3
+          
+        
+      
+    
+    {\displaystyle y=cx^{3}}
+  , flattening more in the middle as 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   increases and losing all flatness there in the straight line for 
+  
+    
+      
+        n
+        =
+        1
+      
+    
+    {\displaystyle n=1}
+  . Functions with this kind of symmetry (
+  
+    
+      
+        f
+        (
+        −
+        x
+        )
+        =
+        −
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(-x)=-f(x)}
+  ) are called odd functions.
+For 
+  
+    
+      
+        c
+        <
+        0
+      
+    
+    {\displaystyle c<0}
+  , the opposite asymptotic behavior is true in each case.
+
+
+=== Table of powers of decimal digits ===
+
+
+== Rational exponents ==
+
+If x is a nonnegative real number, and n is a positive integer, 
+  
+    
+      
+        
+          x
+          
+            
+              1
+              n
+            
+          
+        
+      
+    
+    {\displaystyle x^{\frac {1}{n}}}
+   or 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}}
+   denotes the unique positive real nth root of x, that is, the unique positive real number y such that 
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+        =
+        x
+        .
+      
+    
+    {\displaystyle y^{n}=x.}
+  
+If x is a positive real number, and 
+  
+    
+      
+        
+          
+            p
+            q
+          
+        
+      
+    
+    {\displaystyle {\frac {p}{q}}}
+   is a rational number, with p and q ≠ 0 integers, then 
+  
+    
+      
+        
+          x
+          
+            
+              p
+              q
+            
+          
+        
+      
+    
+    {\textstyle x^{\frac {p}{q}}}
+   is defined as
+
+  
+    
+      
+        
+          x
+          
+            
+              p
+              q
+            
+          
+        
+        =
+        
+          
+            (
+            
+              x
+              
+                p
+              
+            
+            )
+          
+          
+            
+              1
+              q
+            
+          
+        
+        =
+        (
+        
+          x
+          
+            
+              1
+              q
+            
+          
+        
+        
+          )
+          
+            p
+          
+        
+        .
+      
+    
+    {\displaystyle x^{\frac {p}{q}}=\left(x^{p}\right)^{\frac {1}{q}}=(x^{\frac {1}{q}})^{p}.}
+  The equality on the right may be derived by setting 
+  
+    
+      
+        y
+        =
+        
+          x
+          
+            
+              1
+              q
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle y=x^{\frac {1}{q}},}
+   and writing 
+  
+    
+      
+        (
+        
+          x
+          
+            
+              1
+              q
+            
+          
+        
+        
+          )
+          
+            p
+          
+        
+        =
+        
+          y
+          
+            p
+          
+        
+        =
+        
+          
+            (
+            
+              (
+              
+                y
+                
+                  p
+                
+              
+              
+                )
+                
+                  q
+                
+              
+            
+            )
+          
+          
+            
+              1
+              q
+            
+          
+        
+        =
+        
+          
+            (
+            
+              (
+              
+                y
+                
+                  q
+                
+              
+              
+                )
+                
+                  p
+                
+              
+            
+            )
+          
+          
+            
+              1
+              q
+            
+          
+        
+        =
+        (
+        
+          x
+          
+            p
+          
+        
+        
+          )
+          
+            
+              1
+              q
+            
+          
+        
+        .
+      
+    
+    {\displaystyle (x^{\frac {1}{q}})^{p}=y^{p}=\left((y^{p})^{q}\right)^{\frac {1}{q}}=\left((y^{q})^{p}\right)^{\frac {1}{q}}=(x^{p})^{\frac {1}{q}}.}
+  
+If r is a positive rational number, 
+  
+    
+      
+        
+          0
+          
+            r
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle 0^{r}=0,}
+   by definition.
+All these definitions are required for extending the identity 
+  
+    
+      
+        (
+        
+          x
+          
+            r
+          
+        
+        
+          )
+          
+            s
+          
+        
+        =
+        
+          x
+          
+            r
+            s
+          
+        
+      
+    
+    {\displaystyle (x^{r})^{s}=x^{rs}}
+   to rational exponents.
+On the other hand, there are problems with the extension of these definitions to bases that are not positive real numbers. For example, a negative real number has a real nth root, which is negative if n is odd, and no real root if n is even. In the latter case, whichever complex nth root one chooses for 
+  
+    
+      
+        
+          x
+          
+            
+              1
+              n
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle x^{\frac {1}{n}},}
+   the identity 
+  
+    
+      
+        (
+        
+          x
+          
+            a
+          
+        
+        
+          )
+          
+            b
+          
+        
+        =
+        
+          x
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle (x^{a})^{b}=x^{ab}}
+   cannot be satisfied. For example,  
+
+  
+    
+      
+        
+          
+            (
+            
+              (
+              −
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+            )
+          
+          
+            
+              1
+              2
+            
+          
+        
+        =
+        
+          1
+          
+            
+              1
+              2
+            
+          
+        
+        =
+        1
+        ≠
+        (
+        −
+        1
+        
+          )
+          
+            2
+            ⋅
+            
+              
+                1
+                2
+              
+            
+          
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            1
+          
+        
+        =
+        −
+        1.
+      
+    
+    {\displaystyle \left((-1)^{2}\right)^{\frac {1}{2}}=1^{\frac {1}{2}}=1\neq (-1)^{2\cdot {\frac {1}{2}}}=(-1)^{1}=-1.}
+  See § Real exponents and § Non-integer powers of complex numbers for details on the way these problems may be handled.
+
+
+== Real exponents ==
+For positive real numbers, exponentiation to real powers can be defined in two equivalent ways, either by extending the rational powers to reals by continuity (§ Limits of rational exponents, below), or in terms of the logarithm of the base and the exponential function (§ Powers via logarithms, below). The result is always a positive real number, and the identities and properties shown above for integer exponents remain true with these definitions for real exponents. The second definition is more commonly used, since it generalizes straightforwardly to complex exponents.
+On the other hand, exponentiation to a real power of a negative real number is much more difficult to define consistently, as it may be non-real and have several values (see § Real exponents with negative bases). One may choose one of these values, called the principal value, but there is no choice of the principal value for which the identity
+
+  
+    
+      
+        
+          
+            (
+            
+              b
+              
+                r
+              
+            
+            )
+          
+          
+            s
+          
+        
+        =
+        
+          b
+          
+            r
+            s
+          
+        
+      
+    
+    {\displaystyle \left(b^{r}\right)^{s}=b^{rs}}
+  is true; see § Failure of power and logarithm identities. Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.
+
+
+=== Limits of rational exponents ===
+
+Since any irrational number can be expressed as the limit of a sequence of rational numbers, exponentiation of a positive real number b with an arbitrary real exponent x can be defined by continuity with the rule
+
+  
+    
+      
+        
+          b
+          
+            x
+          
+        
+        =
+        
+          lim
+          
+            r
+            (
+            ∈
+            
+              Q
+            
+            )
+            →
+            x
+          
+        
+        
+          b
+          
+            r
+          
+        
+        
+        (
+        b
+        ∈
+        
+          
+            R
+          
+          
+            +
+          
+        
+        ,
+        
+        x
+        ∈
+        
+          R
+        
+        )
+        ,
+      
+    
+    {\displaystyle b^{x}=\lim _{r(\in \mathbb {Q} )\to x}b^{r}\quad (b\in \mathbb {R} ^{+},\,x\in \mathbb {R} ),}
+  where the limit is taken over rational values of r only. This limit exists for every positive b and every real x.
+For example, if x = π, the non-terminating decimal representation π = 3.14159... and the monotonicity of the rational powers can be used to obtain intervals bounded by rational powers that are as small as desired, and must contain 
+  
+    
+      
+        
+          b
+          
+            π
+          
+        
+        :
+      
+    
+    {\displaystyle b^{\pi }:}
+  
+
+  
+    
+      
+        
+          [
+          
+            
+              b
+              
+                3
+              
+            
+            ,
+            
+              b
+              
+                4
+              
+            
+          
+          ]
+        
+        ,
+        
+          [
+          
+            
+              b
+              
+                3.1
+              
+            
+            ,
+            
+              b
+              
+                3.2
+              
+            
+          
+          ]
+        
+        ,
+        
+          [
+          
+            
+              b
+              
+                3.14
+              
+            
+            ,
+            
+              b
+              
+                3.15
+              
+            
+          
+          ]
+        
+        ,
+        
+          [
+          
+            
+              b
+              
+                3.141
+              
+            
+            ,
+            
+              b
+              
+                3.142
+              
+            
+          
+          ]
+        
+        ,
+        
+          [
+          
+            
+              b
+              
+                3.1415
+              
+            
+            ,
+            
+              b
+              
+                3.1416
+              
+            
+          
+          ]
+        
+        ,
+        
+          [
+          
+            
+              b
+              
+                3.14159
+              
+            
+            ,
+            
+              b
+              
+                3.14160
+              
+            
+          
+          ]
+        
+        ,
+        …
+      
+    
+    {\displaystyle \left[b^{3},b^{4}\right],\left[b^{3.1},b^{3.2}\right],\left[b^{3.14},b^{3.15}\right],\left[b^{3.141},b^{3.142}\right],\left[b^{3.1415},b^{3.1416}\right],\left[b^{3.14159},b^{3.14160}\right],\ldots }
+  So, the upper bounds and the lower bounds of the intervals form two sequences that have the same limit, denoted 
+  
+    
+      
+        
+          b
+          
+            π
+          
+        
+        .
+      
+    
+    {\displaystyle b^{\pi }.}
+  
+This defines 
+  
+    
+      
+        
+          b
+          
+            x
+          
+        
+      
+    
+    {\displaystyle b^{x}}
+   for every positive b and real x as a continuous function of b and x. See also Well-defined expression.
+
+
+=== The exponential function ===
+
+The exponential function is often defined as 
+  
+    
+      
+        x
+        ↦
+        
+          e
+          
+            x
+          
+        
+        ,
+      
+    
+    {\displaystyle x\mapsto e^{x},}
+   where 
+  
+    
+      
+        e
+        ≈
+        2.718
+      
+    
+    {\displaystyle e\approx 2.718}
+   is Euler's number. For avoiding circular reasoning, this definition cannot be used here. So, a definition of the exponential function, denoted 
+  
+    
+      
+        exp
+        ⁡
+        (
+        x
+        )
+        ,
+      
+    
+    {\displaystyle \exp(x),}
+   and of Euler's number are given, which rely only on exponentiation with positive integer exponents. Then a proof is sketched that, if one uses the definition of exponentiation given in preceding sections, one has 
+
+  
+    
+      
+        exp
+        ⁡
+        (
+        x
+        )
+        =
+        
+          e
+          
+            x
+          
+        
+        .
+      
+    
+    {\displaystyle \exp(x)=e^{x}.}
+  There are many equivalent ways to define the exponential function, one of them being
+
+  
+    
+      
+        exp
+        ⁡
+        (
+        x
+        )
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  x
+                  n
+                
+              
+            
+            )
+          
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle \exp(x)=\lim _{n\rightarrow \infty }\left(1+{\frac {x}{n}}\right)^{n}.}
+  One has 
+  
+    
+      
+        exp
+        ⁡
+        (
+        0
+        )
+        =
+        1
+        ,
+      
+    
+    {\displaystyle \exp(0)=1,}
+   and the exponential identity 
+  
+    
+      
+        exp
+        ⁡
+        (
+        x
+        +
+        y
+        )
+        =
+        exp
+        ⁡
+        (
+        x
+        )
+        exp
+        ⁡
+        (
+        y
+        )
+      
+    
+    {\displaystyle \exp(x+y)=\exp(x)\exp(y)}
+   holds as well, since
+
+  
+    
+      
+        exp
+        ⁡
+        (
+        x
+        )
+        exp
+        ⁡
+        (
+        y
+        )
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  x
+                  n
+                
+              
+            
+            )
+          
+          
+            n
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  y
+                  n
+                
+              
+            
+            )
+          
+          
+            n
+          
+        
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  
+                    x
+                    +
+                    y
+                  
+                  n
+                
+              
+              +
+              
+                
+                  
+                    x
+                    y
+                  
+                  
+                    n
+                    
+                      2
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle \exp(x)\exp(y)=\lim _{n\rightarrow \infty }\left(1+{\frac {x}{n}}\right)^{n}\left(1+{\frac {y}{n}}\right)^{n}=\lim _{n\rightarrow \infty }\left(1+{\frac {x+y}{n}}+{\frac {xy}{n^{2}}}\right)^{n},}
+  and the second-order term 
+  
+    
+      
+        
+          
+            
+              x
+              y
+            
+            
+              n
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {xy}{n^{2}}}}
+   does not affect the limit, yielding 
+  
+    
+      
+        exp
+        ⁡
+        (
+        x
+        )
+        exp
+        ⁡
+        (
+        y
+        )
+        =
+        exp
+        ⁡
+        (
+        x
+        +
+        y
+        )
+      
+    
+    {\displaystyle \exp(x)\exp(y)=\exp(x+y)}
+  .
+Euler's number can be defined as 
+  
+    
+      
+        e
+        =
+        exp
+        ⁡
+        (
+        1
+        )
+      
+    
+    {\displaystyle e=\exp(1)}
+  . It follows from the preceding equations that 
+  
+    
+      
+        exp
+        ⁡
+        (
+        x
+        )
+        =
+        
+          e
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \exp(x)=e^{x}}
+   when x is an integer (this results from the repeated-multiplication definition of the exponentiation). If x is real, 
+  
+    
+      
+        exp
+        ⁡
+        (
+        x
+        )
+        =
+        
+          e
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \exp(x)=e^{x}}
+   results from the definitions given in preceding sections, by using the exponential identity if x is rational, and the continuity of the exponential function otherwise.
+The limit that defines the exponential function converges for every complex value of x, and therefore it can be used to extend the definition of 
+  
+    
+      
+        exp
+        ⁡
+        (
+        z
+        )
+      
+    
+    {\displaystyle \exp(z)}
+  , and thus 
+  
+    
+      
+        
+          e
+          
+            z
+          
+        
+        ,
+      
+    
+    {\displaystyle e^{z},}
+   from the real numbers to any complex argument z. This extended exponential function still satisfies the exponential identity, and is commonly used for defining exponentiation for complex base and exponent.
+
+
+=== Powers via logarithms ===
+The definition of ex as the exponential function allows defining   bx for every positive real numbers b, in terms of exponential and logarithm function.  Specifically, the fact that the natural logarithm ln(x) is the inverse of the exponential function ex means that one has
+
+  
+    
+      
+        b
+        =
+        exp
+        ⁡
+        (
+        ln
+        ⁡
+        b
+        )
+        =
+        
+          e
+          
+            ln
+            ⁡
+            b
+          
+        
+      
+    
+    {\displaystyle b=\exp(\ln b)=e^{\ln b}}
+  for  every b > 0. For preserving the identity 
+  
+    
+      
+        (
+        
+          e
+          
+            x
+          
+        
+        
+          )
+          
+            y
+          
+        
+        =
+        
+          e
+          
+            x
+            y
+          
+        
+        ,
+      
+    
+    {\displaystyle (e^{x})^{y}=e^{xy},}
+   one must have
+
+  
+    
+      
+        
+          b
+          
+            x
+          
+        
+        =
+        
+          
+            (
+            
+              e
+              
+                ln
+                ⁡
+                b
+              
+            
+            )
+          
+          
+            x
+          
+        
+        =
+        
+          e
+          
+            x
+            ln
+            ⁡
+            b
+          
+        
+      
+    
+    {\displaystyle b^{x}=\left(e^{\ln b}\right)^{x}=e^{x\ln b}}
+  So, 
+  
+    
+      
+        
+          e
+          
+            x
+            ln
+            ⁡
+            b
+          
+        
+      
+    
+    {\displaystyle e^{x\ln b}}
+   can be used as an alternative definition of bx for any positive real b. This agrees with the definition given above using rational exponents and continuity, with the advantage to extend straightforwardly to any complex exponent.
+
+
+== Complex exponents with a positive real base ==
+If b is a positive real number, exponentiation with base b and complex exponent z is defined by means of the exponential function with complex argument (see the end of § The exponential function, above) as
+
+  
+    
+      
+        
+          b
+          
+            z
+          
+        
+        =
+        
+          e
+          
+            (
+            z
+            ln
+            ⁡
+            b
+            )
+          
+        
+        ,
+      
+    
+    {\displaystyle b^{z}=e^{(z\ln b)},}
+  where 
+  
+    
+      
+        ln
+        ⁡
+        b
+      
+    
+    {\displaystyle \ln b}
+   denotes the natural logarithm of b.
+This satisfies the identity 
+
+  
+    
+      
+        
+          b
+          
+            z
+            +
+            t
+          
+        
+        =
+        
+          b
+          
+            z
+          
+        
+        
+          b
+          
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle b^{z+t}=b^{z}b^{t},}
+  In general,
+
+  
+    
+      
+        
+          
+            (
+            
+              b
+              
+                z
+              
+            
+            )
+          
+          
+            t
+          
+        
+      
+    
+    {\textstyle \left(b^{z}\right)^{t}}
+   is not defined, since bz is not a real number. If a meaning is given to the exponentiation of a complex number (see § Non-integer powers of complex numbers, below), one has, in general,
+
+  
+    
+      
+        
+          
+            (
+            
+              b
+              
+                z
+              
+            
+            )
+          
+          
+            t
+          
+        
+        ≠
+        
+          b
+          
+            z
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle \left(b^{z}\right)^{t}\neq b^{zt},}
+  unless z is real or t is an integer.
+Euler's formula,
+
+  
+    
+      
+        
+          e
+          
+            i
+            y
+          
+        
+        =
+        cos
+        ⁡
+        y
+        +
+        i
+        sin
+        ⁡
+        y
+        ,
+      
+    
+    {\displaystyle e^{iy}=\cos y+i\sin y,}
+  allows expressing the polar form of 
+  
+    
+      
+        
+          b
+          
+            z
+          
+        
+      
+    
+    {\displaystyle b^{z}}
+   in terms of the real and imaginary parts of z, namely
+
+  
+    
+      
+        
+          b
+          
+            x
+            +
+            i
+            y
+          
+        
+        =
+        
+          b
+          
+            x
+          
+        
+        (
+        cos
+        ⁡
+        (
+        y
+        ln
+        ⁡
+        b
+        )
+        +
+        i
+        sin
+        ⁡
+        (
+        y
+        ln
+        ⁡
+        b
+        )
+        )
+        ,
+      
+    
+    {\displaystyle b^{x+iy}=b^{x}(\cos(y\ln b)+i\sin(y\ln b)),}
+  where the absolute value of the trigonometric factor is one. This results from
+
+  
+    
+      
+        
+          b
+          
+            x
+            +
+            i
+            y
+          
+        
+        =
+        
+          b
+          
+            x
+          
+        
+        
+          b
+          
+            i
+            y
+          
+        
+        =
+        
+          b
+          
+            x
+          
+        
+        
+          e
+          
+            i
+            y
+            ln
+            ⁡
+            b
+          
+        
+        =
+        
+          b
+          
+            x
+          
+        
+        (
+        cos
+        ⁡
+        (
+        y
+        ln
+        ⁡
+        b
+        )
+        +
+        i
+        sin
+        ⁡
+        (
+        y
+        ln
+        ⁡
+        b
+        )
+        )
+        .
+      
+    
+    {\displaystyle b^{x+iy}=b^{x}b^{iy}=b^{x}e^{iy\ln b}=b^{x}(\cos(y\ln b)+i\sin(y\ln b)).}
+  
+
+
+== Non-integer powers of complex numbers ==
+In the preceding sections, exponentiation with non-integer exponents has been defined for positive real bases only. For other bases, difficulties appear already with the apparently simple case of nth roots, that is, of exponents 
+  
+    
+      
+        1
+        
+          /
+        
+        n
+        ,
+      
+    
+    {\displaystyle 1/n,}
+   where n is a positive integer. Although the general theory of exponentiation with non-integer exponents applies to nth roots, this case deserves to be considered first, since it does not need to use complex logarithms, and is therefore easier to understand.
+
+
+=== nth roots of a complex number ===
+Every nonzero complex number z may be written in polar form as 
+
+  
+    
+      
+        z
+        =
+        ρ
+        
+          e
+          
+            i
+            θ
+          
+        
+        =
+        ρ
+        (
+        cos
+        ⁡
+        θ
+        +
+        i
+        sin
+        ⁡
+        θ
+        )
+        ,
+      
+    
+    {\displaystyle z=\rho e^{i\theta }=\rho (\cos \theta +i\sin \theta ),}
+  where 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the absolute value of z, and 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is its argument. The argument is defined up to an integer multiple of 2π; this means that, if 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is the argument of a complex number, then 
+  
+    
+      
+        θ
+        +
+        2
+        k
+        π
+      
+    
+    {\displaystyle \theta +2k\pi }
+   is also an argument of the same complex number.
+The polar form of the product of two complex numbers is obtained by multiplying the absolute values and adding the arguments. It follows that the polar form of an nth root of a complex number can be obtained by taking the nth root of the absolute value and dividing its argument by n:
+
+  
+    
+      
+        
+          
+            (
+            
+              ρ
+              
+                e
+                
+                  i
+                  θ
+                
+              
+            
+            )
+          
+          
+            
+              1
+              n
+            
+          
+        
+        =
+        
+          
+            ρ
+            
+              n
+            
+          
+        
+        
+        
+          e
+          
+            
+              
+                i
+                θ
+              
+              n
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \left(\rho e^{i\theta }\right)^{\frac {1}{n}}={\sqrt[{n}]{\rho }}\,e^{\frac {i\theta }{n}}.}
+  If 
+  
+    
+      
+        2
+        i
+        π
+      
+    
+    {\displaystyle 2i\pi }
+   is added to 
+  
+    
+      
+        θ
+        ,
+      
+    
+    {\displaystyle \theta ,}
+   the complex number in not changed, but this adds 
+  
+    
+      
+        2
+        i
+        π
+        
+          /
+        
+        n
+      
+    
+    {\displaystyle 2i\pi /n}
+   to the argument of the nth root, and provides a new nth root. This can be done n times, and provides the n nth roots of the complex number.
+It is usual to choose one of the n nth root as the principal root. The common choice is to choose the nth root for which 
+  
+    
+      
+        −
+        π
+        <
+        θ
+        ≤
+        π
+        ,
+      
+    
+    {\displaystyle -\pi <\theta \leq \pi ,}
+   that is, the nth root that has the largest real part, and, if they are two, the one with positive imaginary part. This makes the principal nth root a continuous function in the whole complex plane, except for negative real values of the radicand. This function equals the usual nth root for positive real radicands.  For negative real radicands, and odd exponents, the principal nth root is not real, although the usual nth root is real. Analytic continuation shows that the principal nth root is the unique complex differentiable function that extends the usual nth root to the complex plane without the nonpositive real numbers.
+If the complex number is moved around zero by increasing its argument, after an increment of 
+  
+    
+      
+        2
+        π
+        ,
+      
+    
+    {\displaystyle 2\pi ,}
+   the complex number comes back to its initial position, and its nth roots are permuted circularly (they are multiplied by 
+  
+    
+      e
+      
+        2
+        i
+        π
+        
+          /
+        
+        n
+      
+    
+    e^{2i\pi /n}
+  ). This shows that it is not possible to define a nth root function that is not continuous in the whole complex plane.
+
+
+==== Roots of unity ====
+
+The nth roots of unity are the n complex numbers such that wn = 1, where n is a positive integer. They arise in various areas of mathematics, such as in discrete Fourier transform or algebraic solutions of algebraic equations (Lagrange resolvent).
+The n nth roots of unity are the n first powers of 
+  
+    
+      
+        ω
+        =
+        
+          e
+          
+            
+              
+                2
+                π
+                i
+              
+              n
+            
+          
+        
+      
+    
+    {\displaystyle \omega =e^{\frac {2\pi i}{n}}}
+  , that is 
+  
+    
+      
+        1
+        =
+        
+          ω
+          
+            0
+          
+        
+        =
+        
+          ω
+          
+            n
+          
+        
+        ,
+        ω
+        =
+        
+          ω
+          
+            1
+          
+        
+        ,
+        
+          ω
+          
+            2
+          
+        
+        ,
+        
+          ω
+          
+            n
+            −
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle 1=\omega ^{0}=\omega ^{n},\omega =\omega ^{1},\omega ^{2},\omega ^{n-1}.}
+   The nth roots of unity that have this generating property are called primitive nth roots of unity; they have the form 
+  
+    
+      
+        
+          ω
+          
+            k
+          
+        
+        =
+        
+          e
+          
+            
+              
+                2
+                k
+                π
+                i
+              
+              n
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \omega ^{k}=e^{\frac {2k\pi i}{n}},}
+   with k coprime with n. The unique primitive square root of unity is 
+  
+    
+      
+        −
+        1
+        ;
+      
+    
+    {\displaystyle -1;}
+   the primitive fourth roots of unity are 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and 
+  
+    
+      
+        −
+        i
+        .
+      
+    
+    {\displaystyle -i.}
+  
+The nth roots of unity allow expressing all nth roots of a complex number z as the n products of a given nth roots of z with a nth root of unity.
+Geometrically, the nth roots of unity lie on the unit circle of the complex plane at the vertices of a regular n-gon with one vertex on the real number 1.
+As the number 
+  
+    
+      
+        
+          e
+          
+            
+              
+                2
+                k
+                π
+                i
+              
+              n
+            
+          
+        
+      
+    
+    {\displaystyle e^{\frac {2k\pi i}{n}}}
+   is the primitive nth root of unity with the smallest positive argument, it is called the principal primitive nth root of unity, sometimes shortened as principal nth root of unity, although this terminology can be confused with the principal value of 
+  
+    
+      
+        
+          1
+          
+            1
+            
+              /
+            
+            n
+          
+        
+      
+    
+    {\displaystyle 1^{1/n}}
+   which is 1.
+
+
+=== Complex exponentiation ===
+Defining exponentiation with complex bases leads to difficulties that are similar to those described in the preceding section, except that there are, in general, infinitely many possible values for 
+  
+    
+      z
+      
+        w
+      
+    
+    z^{w}
+  . So, either a principal value is defined, which is not continuous for the values of z that are real and nonpositive, or 
+  
+    
+      z
+      
+        w
+      
+    
+    z^{w}
+   is defined as a multivalued function.
+In all cases, the complex logarithm is used to define complex exponentiation as
+
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+        =
+        
+          e
+          
+            w
+            log
+            ⁡
+            z
+          
+        
+        ,
+      
+    
+    {\displaystyle z^{w}=e^{w\log z},}
+  where 
+  
+    
+      
+        log
+        ⁡
+        z
+      
+    
+    {\displaystyle \log z}
+   is the variant of the complex logarithm that is used, which is, a function or a multivalued function such that 
+
+  
+    
+      
+        
+          e
+          
+            log
+            ⁡
+            z
+          
+        
+        =
+        z
+      
+    
+    {\displaystyle e^{\log z}=z}
+  for every z in its domain of definition.
+
+
+==== Principal value ====
+The principal value of the complex logarithm is the unique function, commonly denoted 
+  
+    
+      
+        log
+        ,
+      
+    
+    {\displaystyle \log ,}
+   such that, for every nonzero complex number z, 
+
+  
+    
+      
+        
+          e
+          
+            log
+            ⁡
+            z
+          
+        
+        =
+        z
+        ,
+      
+    
+    {\displaystyle e^{\log z}=z,}
+  and the imaginary part of z satisfies
+
+  
+    
+      
+        −
+        π
+        <
+        
+          I
+          m
+        
+        ≤
+        π
+        .
+      
+    
+    {\displaystyle -\pi <\mathrm {Im} \leq \pi .}
+  The principal value of the complex logarithm is not defined for 
+  
+    
+      
+        z
+        =
+        0
+        ,
+      
+    
+    {\displaystyle z=0,}
+   it is discontinuous at negative real values of z, and it is holomorphic (that is, complex differentiable) elsewhere. If z is real and positive, the principal value of the complex logarithm is the natural logarithm: 
+  
+    
+      
+        log
+        ⁡
+        z
+        =
+        ln
+        ⁡
+        z
+        .
+      
+    
+    {\displaystyle \log z=\ln z.}
+  
+The principal value of 
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle z^{w}}
+   is defined as 
+
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+        =
+        
+          e
+          
+            w
+            log
+            ⁡
+            z
+          
+        
+        ,
+      
+    
+    {\displaystyle z^{w}=e^{w\log z},}
+  
+where 
+  
+    
+      
+        log
+        ⁡
+        z
+      
+    
+    {\displaystyle \log z}
+   is the principal value of the logarithm.
+The function 
+  
+    
+      
+        (
+        z
+        ,
+        w
+        )
+        →
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle (z,w)\to z^{w}}
+   is holomorphic except in the neighbourhood of the points where z is real and nonpositive.
+If z is real and positive, the principal value of 
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle z^{w}}
+   equals its usual value defined above. If 
+  
+    
+      
+        w
+        =
+        1
+        
+          /
+        
+        n
+        ,
+      
+    
+    {\displaystyle w=1/n,}
+   where n is an integer, this principal value is the same as the one defined above.
+
+
+==== Multivalued function ====
+In some contexts, there is a problem with the discontinuity of the principal values of 
+  
+    
+      
+        log
+        ⁡
+        z
+      
+    
+    {\displaystyle \log z}
+   and 
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle z^{w}}
+   at the negative real values of z. In this case, it is useful to consider these functions as multivalued functions.
+If 
+  
+    
+      
+        log
+        ⁡
+        z
+      
+    
+    {\displaystyle \log z}
+   denotes one of the values of the multivalued logarithm (typically its principal value), the other values are  
+  
+    
+      
+        2
+        i
+        k
+        π
+        +
+        log
+        ⁡
+        z
+        ,
+      
+    
+    {\displaystyle 2ik\pi +\log z,}
+   where k is any integer. Similarly, if 
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle z^{w}}
+   is one value of the exponentiation, then the other values are given by
+
+  
+    
+      
+        
+          e
+          
+            w
+            (
+            2
+            i
+            k
+            π
+            +
+            log
+            ⁡
+            z
+            )
+          
+        
+        =
+        
+          z
+          
+            w
+          
+        
+        
+          e
+          
+            2
+            i
+            k
+            π
+            w
+          
+        
+        ,
+      
+    
+    {\displaystyle e^{w(2ik\pi +\log z)}=z^{w}e^{2ik\pi w},}
+  where k is any integer.
+Different values of k give different values of 
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle z^{w}}
+   unless w is a rational number, that is, there is an integer d such that dw is an integer. This results from the periodicity of the exponential function, more specifically, that 
+  
+    
+      
+        
+          e
+          
+            a
+          
+        
+        =
+        
+          e
+          
+            b
+          
+        
+      
+    
+    {\displaystyle e^{a}=e^{b}}
+   if and only if 
+  
+    
+      
+        a
+        −
+        b
+      
+    
+    {\displaystyle a-b}
+   is an integer multiple of 
+  
+    
+      
+        2
+        π
+        i
+        .
+      
+    
+    {\displaystyle 2\pi i.}
+  
+If 
+  
+    
+      
+        w
+        =
+        
+          
+            m
+            n
+          
+        
+      
+    
+    {\displaystyle w={\frac {m}{n}}}
+   is a rational number with m and n coprime integers with 
+  
+    
+      
+        n
+        >
+        0
+        ,
+      
+    
+    {\displaystyle n>0,}
+   then 
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle z^{w}}
+   has exactly n values. In the case 
+  
+    
+      
+        m
+        =
+        1
+        ,
+      
+    
+    {\displaystyle m=1,}
+   these values are the same as those described in § nth roots of a complex number. If w is an integer, there is only one value that agrees with that of § Integer exponents.
+The multivalued exponentiation is holomorphic for 
+  
+    
+      
+        z
+        ≠
+        0
+        ,
+      
+    
+    {\displaystyle z\neq 0,}
+   in the sense that its graph consists of several sheets that define each a holomorphic function in the neighborhood of every point. If z varies continuously along a circle around 0, then, after a turn, the value of 
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle z^{w}}
+   has changed of sheet.
+
+
+==== Computation ====
+The canonical form 
+  
+    
+      
+        x
+        +
+        i
+        y
+      
+    
+    {\displaystyle x+iy}
+   of 
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle z^{w}}
+   can be computed from the canonical form of z and w. Although this can be described by a single formula, it is clearer to split the computation in several steps.
+
+Polar form of z. If 
+  
+    
+      
+        z
+        =
+        a
+        +
+        i
+        b
+      
+    
+    {\displaystyle z=a+ib}
+   is the canonical form of z (a and b being real), then its polar form is  where 
+  
+    
+      
+        ρ
+        =
+        
+          
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho ={\sqrt {a^{2}+b^{2}}}}
+   and 
+  
+    
+      
+        θ
+        =
+        atan2
+        ⁡
+        (
+        a
+        ,
+        b
+        )
+      
+    
+    {\displaystyle \theta =\operatorname {atan2} (a,b)}
+   (see atan2 for the definition of this function).
+Logarithm of z. The principal value of this logarithm is 
+  
+    
+      
+        log
+        ⁡
+        z
+        =
+        ln
+        ⁡
+        ρ
+        +
+        i
+        θ
+        ,
+      
+    
+    {\displaystyle \log z=\ln \rho +i\theta ,}
+   where 
+  
+    
+      
+        ln
+      
+    
+    {\displaystyle \ln }
+   denotes the natural logarithm. The other values of the logarithm are obtained by adding 
+  
+    
+      
+        2
+        i
+        k
+        π
+      
+    
+    {\displaystyle 2ik\pi }
+   for any integer k.
+Canonical form of 
+  
+    
+      
+        w
+        log
+        ⁡
+        z
+        .
+      
+    
+    {\displaystyle w\log z.}
+   If 
+  
+    
+      
+        w
+        =
+        c
+        +
+        d
+        i
+      
+    
+    {\displaystyle w=c+di}
+   with c and d real, the values of 
+  
+    
+      
+        w
+        log
+        ⁡
+        z
+      
+    
+    {\displaystyle w\log z}
+   are  the principal value corresponding to 
+  
+    
+      
+        k
+        =
+        0.
+      
+    
+    {\displaystyle k=0.}
+  
+Final result. Using the identities 
+  
+    
+      
+        
+          e
+          
+            x
+            +
+            y
+          
+        
+        =
+        
+          e
+          
+            x
+          
+        
+        
+          e
+          
+            y
+          
+        
+      
+    
+    {\displaystyle e^{x+y}=e^{x}e^{y}}
+   and 
+  
+    
+      
+        
+          e
+          
+            y
+            ln
+            ⁡
+            x
+          
+        
+        =
+        
+          x
+          
+            y
+          
+        
+        ,
+      
+    
+    {\displaystyle e^{y\ln x}=x^{y},}
+   one gets  with 
+  
+    
+      
+        k
+        =
+        0
+      
+    
+    {\displaystyle k=0}
+   for the principal value.
+
+
+===== Examples =====
+
+  
+    
+      
+        
+          i
+          
+            i
+          
+        
+      
+    
+    {\displaystyle i^{i}}
+   The polar form of i is 
+  
+    
+      
+        i
+        =
+        
+          e
+          
+            i
+            π
+            
+              /
+            
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle i=e^{i\pi /2},}
+   and the values of 
+  
+    
+      
+        log
+        ⁡
+        i
+      
+    
+    {\displaystyle \log i}
+   are thus  It follows that  So, all values of 
+  
+    
+      
+        
+          i
+          
+            i
+          
+        
+      
+    
+    {\displaystyle i^{i}}
+   are real, the principal one being 
+
+  
+    
+      
+        (
+        −
+        2
+        
+          )
+          
+            3
+            +
+            4
+            i
+          
+        
+      
+    
+    {\displaystyle (-2)^{3+4i}}
+  Similarly, the polar form of −2 is 
+  
+    
+      
+        −
+        2
+        =
+        2
+        
+          e
+          
+            i
+            π
+          
+        
+        .
+      
+    
+    {\displaystyle -2=2e^{i\pi }.}
+   So, the above described method gives the values In this case, all the values have the same argument 
+  
+    
+      
+        4
+        ln
+        ⁡
+        2
+        ,
+      
+    
+    {\displaystyle 4\ln 2,}
+   and different absolute values.In both examples, all values of 
+  
+    
+      
+        
+          z
+          
+            w
+          
+        
+      
+    
+    {\displaystyle z^{w}}
+   have the same argument. More generally, this is true if and only if the real part of w is an integer.
+
+
+==== Failure of power and logarithm identities ====
+Some identities for powers and logarithms for positive real numbers will fail for complex numbers, no matter how complex powers and complex logarithms are defined as single-valued functions. For example:
+
+
+== Irrationality and transcendence ==
+
+If b is a positive real algebraic number, and x is a rational number, then  bx is an algebraic number. This results from the theory of algebraic extensions. This remains true if b is any algebraic number, in which case, all values of  bx (as a multivalued function) are algebraic. If x is irrational (that is, not rational), and both b and x are algebraic, Gelfond–Schneider theorem asserts that all values of  bx are transcendental (that is, not algebraic), except if b equals 0 or 1.
+In other words, if x is irrational and 
+  
+    
+      
+        b
+        ∉
+        {
+        0
+        ,
+        1
+        }
+        ,
+      
+    
+    {\displaystyle b\not \in \{0,1\},}
+   then at least one of b, x and bx is transcendental.
+
+
+== Integer powers in algebra ==
+The definition of exponentiation with positive integer exponents as repeated multiplication may apply to any associative operation denoted as a multiplication. The definition of 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x^{0}}
+   requires further the existence of a multiplicative identity.An algebraic structure consisting of a set together with an associative operation denoted multiplicatively, and a multiplicative identity denoted by 1 is a monoid. In such a monoid, exponentiation of an element x is defined inductively by
+
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+        =
+        1
+        ,
+      
+    
+    {\displaystyle x^{0}=1,}
+  
+
+  
+    
+      
+        
+          x
+          
+            n
+            +
+            1
+          
+        
+        =
+        x
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x^{n+1}=xx^{n}}
+   for every nonnegative integer n.If n is a negative integer, 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x^{n}}
+   is defined only if x has a multiplicative inverse. In this case, the inverse of x is denoted 
+  
+    
+      
+        
+          x
+          
+            −
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle x^{-1},}
+   and 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x^{n}}
+   is defined as 
+  
+    
+      
+        
+          
+            (
+            
+              x
+              
+                −
+                1
+              
+            
+            )
+          
+          
+            −
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle \left(x^{-1}\right)^{-n}.}
+  
+Exponentiation with integer exponents obeys the following laws, for x and y in the algebraic structure, and m and n integers:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  x
+                  
+                    0
+                  
+                
+              
+              
+                
+                =
+                1
+              
+            
+            
+              
+                
+                  x
+                  
+                    m
+                    +
+                    n
+                  
+                
+              
+              
+                
+                =
+                
+                  x
+                  
+                    m
+                  
+                
+                
+                  x
+                  
+                    n
+                  
+                
+              
+            
+            
+              
+                (
+                
+                  x
+                  
+                    m
+                  
+                
+                
+                  )
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                
+                  x
+                  
+                    m
+                    n
+                  
+                
+              
+            
+            
+              
+                (
+                x
+                y
+                
+                  )
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                
+                  x
+                  
+                    n
+                  
+                
+                
+                  y
+                  
+                    n
+                  
+                
+                
+                
+                  if 
+                
+                x
+                y
+                =
+                y
+                x
+                ,
+                
+                  and, in particular, if the multiplication is commutative.
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}x^{0}&=1\\x^{m+n}&=x^{m}x^{n}\\(x^{m})^{n}&=x^{mn}\\(xy)^{n}&=x^{n}y^{n}\quad {\text{if }}xy=yx,{\text{and, in particular, if the multiplication is commutative.}}\end{aligned}}}
+  These definitions are widely used in many areas of mathematics, notably for groups, rings, fields, square matrices (which form a ring). They apply also to functions from a set to itself, which form a monoid under function composition. This includes, as specific instances, geometric transformations, and endomorphisms of any mathematical structure.
+When there are several operations that may be repeated, it is common to indicate the repeated operation by placing its symbol in the superscript, before the exponent. For example, if f is a real function whose valued can be multiplied, 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f^{n}}
+   denotes the exponentiation with respect of multiplication, and 
+  
+    
+      
+        
+          f
+          
+            ∘
+            n
+          
+        
+      
+    
+    {\displaystyle f^{\circ n}}
+   may denote exponentiation with respect of function composition. That is, 
+
+  
+    
+      
+        (
+        
+          f
+          
+            n
+          
+        
+        )
+        (
+        x
+        )
+        =
+        (
+        f
+        (
+        x
+        )
+        
+          )
+          
+            n
+          
+        
+        =
+        f
+        (
+        x
+        )
+        
+        f
+        (
+        x
+        )
+        ⋯
+        f
+        (
+        x
+        )
+        ,
+      
+    
+    {\displaystyle (f^{n})(x)=(f(x))^{n}=f(x)\,f(x)\cdots f(x),}
+  and
+
+  
+    
+      
+        (
+        
+          f
+          
+            ∘
+            n
+          
+        
+        )
+        (
+        x
+        )
+        =
+        f
+        (
+        f
+        (
+        ⋯
+        f
+        (
+        f
+        (
+        x
+        )
+        )
+        ⋯
+        )
+        )
+        .
+      
+    
+    {\displaystyle (f^{\circ n})(x)=f(f(\cdots f(f(x))\cdots )).}
+  Commonly, 
+  
+    
+      
+        (
+        
+          f
+          
+            n
+          
+        
+        )
+        (
+        x
+        )
+      
+    
+    {\displaystyle (f^{n})(x)}
+   is denoted 
+  
+    
+      
+        f
+        (
+        x
+        
+          )
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle f(x)^{n},}
+   while 
+  
+    
+      
+        (
+        
+          f
+          
+            ∘
+            n
+          
+        
+        )
+        (
+        x
+        )
+      
+    
+    {\displaystyle (f^{\circ n})(x)}
+   is denoted 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle f^{n}(x).}
+  
+
+
+=== In a group ===
+A multiplicative group is a set with as associative operation denoted as multiplication, that has an identity element, and such that every element has an inverse.
+So, if G is a group, 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x^{n}}
+   is defined for every 
+  
+    
+      
+        x
+        ∈
+        G
+      
+    
+    {\displaystyle x\in G}
+   and every integer n.
+The set of all powers of an element of a group form a subgroup. A group (or subgroup) that consists of all powers of a specific element x is the cyclic group generated by x. If all the powers of x are distinct, the group is isomorphic to the additive group 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   of the integers. Otherwise, the cyclic group is finite (it has a finite number of elements), and its number of elements is the order of x. If the order of x is n, then 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        =
+        
+          x
+          
+            0
+          
+        
+        =
+        1
+        ,
+      
+    
+    {\displaystyle x^{n}=x^{0}=1,}
+   and the cyclic group generated by x consists of the n first powers of x (starting indifferently from the exponent 0 or 1).
+Order of elements play a fundamental role in group theory. For example, the order of an element in a finite group is always a divisor of the number of elements of the group (the order of the group). The possible orders of group elements are important in the study of the structure of a group (see Sylow theorems), and in the classification of finite simple groups.
+Superscript notation is also used for conjugation; that is, gh = h−1gh, where g and h are elements of a group. This notation cannot be confused with exponentiation, since the superscript is not an integer. The motivation of this notation is that conjugation obeys some of the laws of exponentiation, namely 
+  
+    
+      
+        (
+        
+          g
+          
+            h
+          
+        
+        
+          )
+          
+            k
+          
+        
+        =
+        
+          g
+          
+            h
+            k
+          
+        
+      
+    
+    {\displaystyle (g^{h})^{k}=g^{hk}}
+   and 
+  
+    
+      
+        (
+        g
+        h
+        
+          )
+          
+            k
+          
+        
+        =
+        
+          g
+          
+            k
+          
+        
+        
+          h
+          
+            k
+          
+        
+        .
+      
+    
+    {\displaystyle (gh)^{k}=g^{k}h^{k}.}
+  
+
+
+=== In a ring ===
+In a ring, it may occur that some nonzero elements satisfy 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle x^{n}=0}
+   for some integer n. Such an element is said to be nilpotent. In a commutative ring, the nilpotent elements form an ideal, called the nilradical of the ring.
+If the nilradical is reduced to the zero ideal (that is, if 
+  
+    
+      
+        x
+        ≠
+        0
+      
+    
+    {\displaystyle x\neq 0}
+   implies 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        ≠
+        0
+      
+    
+    {\displaystyle x^{n}\neq 0}
+   for every positive integer n), the commutative ring is said reduced. Reduced rings important in algebraic geometry, since the coordinate ring of an affine algebraic set is always a reduced ring.
+More generally, given an ideal I in a commutative ring R, the set of the elements of R that have a power in I is an ideal, called the radical of I. The nilradical is the radical of the zero ideal. A radical ideal is an ideal that equals its own radical. In a polynomial ring 
+  
+    
+      
+        k
+        [
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        ]
+      
+    
+    {\displaystyle k[x_{1},\ldots ,x_{n}]}
+   over a field k, an ideal is radical if and only if it is the set of all polynomials that are zero on an affine algebraic set (this is a consequence of Hilbert's Nullstellensatz).
+
+
+=== Matrices and linear operators ===
+If A is a square matrix, then the product of A with itself n times is called the matrix power.  Also 
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A^{0}}
+   is defined to be the identity matrix, and if A is invertible, then 
+  
+    
+      
+        
+          A
+          
+            −
+            n
+          
+        
+        =
+        
+          
+            (
+            
+              A
+              
+                −
+                1
+              
+            
+            )
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle A^{-n}=\left(A^{-1}\right)^{n}}
+  .
+Matrix powers appear often in the context of discrete dynamical systems, where the matrix A expresses a transition from a state vector x of some system to the next state Ax of the system.  This is the standard interpretation of a Markov chain, for example.  Then 
+  
+    
+      
+        
+          A
+          
+            2
+          
+        
+        x
+      
+    
+    {\displaystyle A^{2}x}
+   is the state of the system after two time steps, and so forth: 
+  
+    
+      
+        
+          A
+          
+            n
+          
+        
+        x
+      
+    
+    {\displaystyle A^{n}x}
+   is the state of the system after n time steps.  The matrix power 
+  
+    
+      
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle A^{n}}
+   is the transition matrix between the state now and the state at a time n steps in the future.  So computing matrix powers is equivalent to solving the evolution of the dynamical system.  In many cases, matrix powers can be expediently computed by using eigenvalues and eigenvectors.
+Apart from matrices, more general linear operators can also be exponentiated.  An example is the derivative operator of calculus, 
+  
+    
+      
+        d
+        
+          /
+        
+        d
+        x
+      
+    
+    {\displaystyle d/dx}
+  , which is a linear operator acting on functions 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   to give a new function 
+  
+    
+      
+        (
+        d
+        
+          /
+        
+        d
+        x
+        )
+        f
+        (
+        x
+        )
+        =
+        
+          f
+          ′
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle (d/dx)f(x)=f'(x)}
+  .  The n-th power of the differentiation operator is the n-th derivative:
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                d
+                
+                  d
+                  x
+                
+              
+            
+            )
+          
+          
+            n
+          
+        
+        f
+        (
+        x
+        )
+        =
+        
+          
+            
+              d
+              
+                n
+              
+            
+            
+              d
+              
+                x
+                
+                  n
+                
+              
+            
+          
+        
+        f
+        (
+        x
+        )
+        =
+        
+          f
+          
+            (
+            n
+            )
+          
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle \left({\frac {d}{dx}}\right)^{n}f(x)={\frac {d^{n}}{dx^{n}}}f(x)=f^{(n)}(x).}
+  These examples are for discrete exponents of linear operators, but in many circumstances it is also desirable to define powers of such operators with continuous exponents.  This is the starting point of the mathematical theory of semigroups.  Just as computing matrix powers with discrete exponents solves discrete dynamical systems, so does computing matrix powers with continuous exponents solve systems with continuous dynamics.  Examples include approaches to solving the heat equation, Schrödinger equation, wave equation, and other partial differential equations including a time evolution.  The special case of exponentiating the derivative operator to a non-integer power is called the fractional derivative which, together with the fractional integral, is one of the basic operations of the fractional calculus.
+
+
+=== Finite fields ===
+
+A field is an algebraic structure in which multiplication, addition, subtraction, and division are defined and satisfy the properties that multiplication is associative and every nonzero element has a multiplicative inverse. This implies that exponentiation with integer exponents is well-defined, except for nonpositive powers of 0. Common examples are the complex numbers and their subfields, the rational numbers and the real numbers, which have been considered earlier in this article, and are all infinite.
+A finite field is a field with a finite number of elements. This number of elements is either a prime number or a prime power; that is, it has the form 
+  
+    
+      
+        q
+        =
+        
+          p
+          
+            k
+          
+        
+        ,
+      
+    
+    {\displaystyle q=p^{k},}
+   where p is a prime number, and k is a positive integer. For every such q, there are fields with q elements. The fields with q elements are all isomorphic, which allows, in general, working as if there were only one field with q elements, denoted 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbb {F} _{q}.}
+  
+One has
+
+  
+    
+      
+        
+          x
+          
+            q
+          
+        
+        =
+        x
+      
+    
+    {\displaystyle x^{q}=x}
+  for every 
+  
+    
+      
+        x
+        ∈
+        
+          
+            F
+          
+          
+            q
+          
+        
+        .
+      
+    
+    {\displaystyle x\in \mathbb {F} _{q}.}
+  
+A primitive element in 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+      
+    
+    {\displaystyle \mathbb {F} _{q}}
+   is an element g such the set of the q − 1 first powers of g (that is, 
+  
+    
+      
+        {
+        
+          g
+          
+            1
+          
+        
+        =
+        g
+        ,
+        
+          g
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          g
+          
+            p
+            −
+            1
+          
+        
+        =
+        
+          g
+          
+            0
+          
+        
+        =
+        1
+        }
+      
+    
+    {\displaystyle \{g^{1}=g,g^{2},\ldots ,g^{p-1}=g^{0}=1\}}
+  ) equals the set of the nonzero elements of 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbb {F} _{q}.}
+   There are 
+  
+    
+      
+        φ
+        (
+        p
+        −
+        1
+        )
+      
+    
+    {\displaystyle \varphi (p-1)}
+   primitive elements in 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {F} _{q},}
+   where 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   is Euler's totient function.
+In 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {F} _{q},}
+   the Freshman's dream identity 
+
+  
+    
+      
+        (
+        x
+        +
+        y
+        
+          )
+          
+            p
+          
+        
+        =
+        
+          x
+          
+            p
+          
+        
+        +
+        
+          y
+          
+            p
+          
+        
+      
+    
+    {\displaystyle (x+y)^{p}=x^{p}+y^{p}}
+  is true for the exponent p. As 
+  
+    
+      
+        
+          x
+          
+            p
+          
+        
+        =
+        x
+      
+    
+    {\displaystyle x^{p}=x}
+   in 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {F} _{q},}
+   It follows that the map
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                :
+                
+
+                
+              
+              
+                
+                  
+                    F
+                  
+                  
+                    q
+                  
+                
+                →
+                
+                  
+                    F
+                  
+                  
+                    q
+                  
+                
+              
+            
+            
+              
+              
+                x
+                ↦
+                
+                  x
+                  
+                    p
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}F\colon {}&\mathbb {F} _{q}\to \mathbb {F} _{q}\\&x\mapsto x^{p}\end{aligned}}}
+  is linear over 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {F} _{q},}
+   and is a field automorphism, called the Frobenius automorphism. If 
+  
+    
+      
+        q
+        =
+        
+          p
+          
+            k
+          
+        
+        ,
+      
+    
+    {\displaystyle q=p^{k},}
+   the field 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+      
+    
+    {\displaystyle \mathbb {F} _{q}}
+   has k automorphisms, which are the k first powers (under composition) of F. In other words, the Galois group of 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+      
+    
+    {\displaystyle \mathbb {F} _{q}}
+   is cyclic of order k, generated by the Frobenius automorphism.
+The Diffie–Hellman key exchange is an application of exponentiation in finite fields that is widely used for secure communications. It uses the fact that exponentiation is computationally inexpensive, whereas the inverse operation, the discrete logarithm, is computationally expensive. More precisely, if g is a primitive element in 
+  
+    
+      
+        
+          
+            F
+          
+          
+            q
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {F} _{q},}
+   then 
+  
+    
+      
+        
+          g
+          
+            e
+          
+        
+      
+    
+    {\displaystyle g^{e}}
+   can be efficiently computed with exponentiation by squaring for any e, even if q is large, while there is no known algorithm allowing retrieving e from 
+  
+    
+      
+        
+          g
+          
+            e
+          
+        
+      
+    
+    {\displaystyle g^{e}}
+   if q is sufficiently large.
+
+
+== Powers of sets ==
+The Cartesian product of two sets S and T is the set of the ordered pairs 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle (x,y)}
+   such that 
+  
+    
+      
+        x
+        ∈
+        S
+      
+    
+    {\displaystyle x\in S}
+   and 
+  
+    
+      
+        y
+        ∈
+        T
+        .
+      
+    
+    {\displaystyle y\in T.}
+   This operation is not properly commutative nor associative, but has these properties up to canonical isomorphisms, that allow identifying, for example, 
+  
+    
+      
+        (
+        x
+        ,
+        (
+        y
+        ,
+        z
+        )
+        )
+        ,
+      
+    
+    {\displaystyle (x,(y,z)),}
+   
+  
+    
+      
+        (
+        (
+        x
+        ,
+        y
+        )
+        ,
+        z
+        )
+        ,
+      
+    
+    {\displaystyle ((x,y),z),}
+   and 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        .
+      
+    
+    {\displaystyle (x,y,z).}
+  
+This allows defining the nth power 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S^{n}}
+   of a set S as the set of all n-tuples 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{1},\ldots ,x_{n})}
+   of elements of S.
+When S is endowed with some structure, it is frequent that 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S^{n}}
+   is naturally endowed with a similar structure. In this case, the term "direct product" is generally used instead of "Cartesian product", and exponentiation denotes product structure. For example 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   (where 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   denotes the real numbers) denotes the Cartesian product of n copies of 
+  
+    
+      
+        
+          R
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {R} ,}
+   as well as their direct product as vector space, topological spaces, rings, etc.
+
+
+=== Sets as exponents ===
+
+A n-tuple 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{1},\ldots ,x_{n})}
+   of elements of S can be considered as a function from 
+  
+    
+      
+        {
+        1
+        ,
+        …
+        ,
+        n
+        }
+        .
+      
+    
+    {\displaystyle \{1,\ldots ,n\}.}
+   This generalizes to the following notation.
+Given two sets S and T, the set of all functions from T to S is denoted 
+  
+    
+      
+        
+          S
+          
+            T
+          
+        
+      
+    
+    {\displaystyle S^{T}}
+  . This exponential notation is justified by the following canonical isomorphisms (for the first one, see Currying):
+
+  
+    
+      
+        (
+        
+          S
+          
+            T
+          
+        
+        
+          )
+          
+            U
+          
+        
+        ≅
+        
+          S
+          
+            T
+            ×
+            U
+          
+        
+        ,
+      
+    
+    {\displaystyle (S^{T})^{U}\cong S^{T\times U},}
+  
+
+  
+    
+      
+        
+          S
+          
+            T
+            ⊔
+            U
+          
+        
+        ≅
+        
+          S
+          
+            T
+          
+        
+        ×
+        
+          S
+          
+            U
+          
+        
+        ,
+      
+    
+    {\displaystyle S^{T\sqcup U}\cong S^{T}\times S^{U},}
+  where 
+  
+    
+      
+        ×
+      
+    
+    {\displaystyle \times }
+   denotes the Cartesian product, and 
+  
+    
+      
+        ⊔
+      
+    
+    {\displaystyle \sqcup }
+   the disjoint union.
+One can use sets as exponents for other operations on sets, typically for direct sums of abelian groups, vector spaces, or modules. For distinguishing direct sums from direct products, the exponent of a direct sum is placed between parentheses. For example, 
+  
+    
+      
+        
+          
+            R
+          
+          
+            
+              N
+            
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{\mathbb {N} }}
+   denotes the vector space of the infinite sequences of real numbers, and 
+  
+    
+      
+        
+          
+            R
+          
+          
+            (
+            
+              N
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{(\mathbb {N} )}}
+   the vector space of those sequences that have a finite number of nonzero elements. The latter has a basis consisting of the sequences with exactly one nonzero element that equals 1, while the Hamel bases of the former cannot be explicitly described (because there existence involves Zorn's lemma).
+In this context, 2 can represents the set 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        }
+        .
+      
+    
+    {\displaystyle \{0,1\}.}
+   So, 
+  
+    
+      
+        
+          2
+          
+            S
+          
+        
+      
+    
+    {\displaystyle 2^{S}}
+   denotes the power set of S, that is the set of the functions from S to 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        }
+        ,
+      
+    
+    {\displaystyle \{0,1\},}
+   which can be identified with the set of the subsets of S, by mapping each function to the inverse image of 1.
+This fits in with the exponentiation of cardinal numbers, in the sense that |ST| = |S||T|, where |X| is the cardinality of X.
+
+
+=== In category theory ===
+
+In the category of sets, the morphisms between sets X and Y are the functions from X to Y. It results that the set of the functions from X to Y that is denoted 
+  
+    
+      
+        
+          Y
+          
+            X
+          
+        
+      
+    
+    {\displaystyle Y^{X}}
+   in the preceding section can also be denoted 
+  
+    
+      
+        hom
+        ⁡
+        (
+        X
+        ,
+        Y
+        )
+        .
+      
+    
+    {\displaystyle \hom(X,Y).}
+   The isomorphism 
+  
+    
+      
+        (
+        
+          S
+          
+            T
+          
+        
+        
+          )
+          
+            U
+          
+        
+        ≅
+        
+          S
+          
+            T
+            ×
+            U
+          
+        
+      
+    
+    {\displaystyle (S^{T})^{U}\cong S^{T\times U}}
+   can be  rewritten
+
+  
+    
+      
+        hom
+        ⁡
+        (
+        U
+        ,
+        
+          S
+          
+            T
+          
+        
+        )
+        ≅
+        hom
+        ⁡
+        (
+        T
+        ×
+        U
+        ,
+        S
+        )
+        .
+      
+    
+    {\displaystyle \hom(U,S^{T})\cong \hom(T\times U,S).}
+  This means the functor "exponentiation to the power T " is a right adjoint to the functor "direct product with T ".
+This generalizes to the definition of exponentiation in a category in which finite direct products exist: in such a category, the functor 
+  
+    
+      
+        X
+        →
+        
+          X
+          
+            T
+          
+        
+      
+    
+    {\displaystyle X\to X^{T}}
+   is, if it exists, a right adjoint to the functor 
+  
+    
+      
+        Y
+        →
+        T
+        ×
+        Y
+        .
+      
+    
+    {\displaystyle Y\to T\times Y.}
+   A category is called a Cartesian closed category, if direct products exist, and the functor 
+  
+    
+      
+        Y
+        →
+        X
+        ×
+        Y
+      
+    
+    {\displaystyle Y\to X\times Y}
+   has a right adjoint for every T.
+
+
+== Repeated exponentiation ==
+
+Just as exponentiation of natural numbers is motivated by repeated multiplication, it is possible to define an operation based on repeated exponentiation; this operation is sometimes called hyper-4 or tetration.  Iterating tetration leads to another operation, and so on, a concept named hyperoperation.  This sequence of operations is expressed by the Ackermann function and Knuth's up-arrow notation. Just as exponentiation grows faster than multiplication, which is faster-growing than addition, tetration is faster-growing than exponentiation. Evaluated at (3, 3), the functions addition, multiplication, exponentiation, and tetration yield 6, 9, 27, and 7625597484987 (= 327 = 333 = 33) respectively.
+
+
+== Limits of powers ==
+Zero to the power of zero gives a number of examples of limits that are of the indeterminate form 00. The limits in these examples exist, but have different values, showing that the two-variable function xy has no limit at the point (0, 0). One may consider at what points this function does have a limit.
+More precisely, consider the function 
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          x
+          
+            y
+          
+        
+      
+    
+    {\displaystyle f(x,y)=x^{y}}
+   defined on 
+  
+    
+      
+        D
+        =
+        {
+        (
+        x
+        ,
+        y
+        )
+        ∈
+        
+          
+            R
+          
+          
+            2
+          
+        
+        :
+        x
+        >
+        0
+        }
+      
+    
+    {\displaystyle D=\{(x,y)\in \mathbf {R} ^{2}:x>0\}}
+  . Then D can be viewed as a subset of R2 (that is, the set of all pairs (x, y) with x, y belonging to the extended real number line R = [−∞, +∞], endowed with the product topology), which will contain the points at which the function f has a limit.
+In fact, f has a limit at all accumulation points of D, except for (0, 0), (+∞, 0), (1, +∞) and (1, −∞). Accordingly, this allows one to define the powers xy by continuity whenever 0 ≤ x ≤ +∞, −∞ ≤ y ≤ +∞, except for 00, (+∞)0, 1+∞ and 1−∞, which remain indeterminate forms.
+Under this definition by continuity, we obtain:
+
+x+∞ = +∞ and x−∞ = 0, when 1 < x ≤ +∞.
+x+∞ = 0 and x−∞ = +∞, when 0 ≤ x < 1.
+0y = 0 and (+∞)y = +∞, when 0 < y ≤ +∞.
+0y = +∞ and (+∞)y = 0, when −∞ ≤ y < 0.These powers are obtained by taking limits of xy for positive values of x. This method does not permit a definition of xy when x < 0, since pairs (x, y) with x < 0 are not accumulation points of D.
+On the other hand, when n is an integer, the power xn is already meaningful for all values of x, including negative ones. This may make the definition 0n = +∞ obtained above for negative n problematic when n is odd, since in this case xn → +∞ as x tends to 0 through positive values, but not negative ones.
+
+
+== Efficient computation with integer exponents ==
+Computing bn using iterated multiplication requires n − 1 multiplication operations, but it can be computed more efficiently than that, as  illustrated by the following example.  To compute 2100, apply Horner's rule to the exponent 100 written in binary: 
+
+  
+    
+      
+        100
+        =
+        
+          2
+          
+            2
+          
+        
+        +
+        
+          2
+          
+            5
+          
+        
+        +
+        
+          2
+          
+            6
+          
+        
+        =
+        
+          2
+          
+            2
+          
+        
+        (
+        1
+        +
+        
+          2
+          
+            3
+          
+        
+        (
+        1
+        +
+        2
+        )
+        )
+      
+    
+    {\displaystyle 100=2^{2}+2^{5}+2^{6}=2^{2}(1+2^{3}(1+2))}
+  .Then compute the following terms in order, reading Horner's rule from right to left.
+
+This series of steps only requires 8 multiplications instead of 99.
+In general, the number of multiplication operations required to compute bn can be reduced to 
+  
+    
+      
+        ♯
+        n
+        +
+        ⌊
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        n
+        ⌋
+        −
+        1
+        ,
+      
+    
+    {\displaystyle \sharp n+\lfloor \log _{2}n\rfloor -1,}
+   by using exponentiation by squaring, where 
+  
+    
+      
+        ♯
+        n
+      
+    
+    {\displaystyle \sharp n}
+   denotes the number of 1 in the binary representation of n. For some exponents (100 is not among them), the number of multiplications can be further reduced by computing and using the minimal addition-chain exponentiation.  Finding the minimal sequence of multiplications (the minimal-length addition chain for the exponent) for bn is a difficult problem, for which no efficient algorithms are currently known (see Subset sum problem), but many reasonably efficient heuristic algorithms are available. However, in practical computations, exponentiation by squaring is efficient enough, and much more  easy to implement.
+
+
+== Iterated functions ==
+Function composition is a binary operation that is defined on functions such that the codomain of the function written on the right is included in the domain of the function written on the left. It is denoted 
+  
+    
+      
+        g
+        ∘
+        f
+        ,
+      
+    
+    {\displaystyle g\circ f,}
+   and defined as
+
+  
+    
+      
+        (
+        g
+        ∘
+        f
+        )
+        (
+        x
+        )
+        =
+        g
+        (
+        f
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle (g\circ f)(x)=g(f(x))}
+  for every x in the domain of f.
+If the domain of a function f equals its codomain, one may compose the function with itself an arbitrary number of time, and this defines the nth power of the function under composition, commonly called the nth iterate of the function. Thus 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f^{n}}
+   denotes generally the nth iterate of f; for example, 
+  
+    
+      
+        
+          f
+          
+            3
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f^{3}(x)}
+   means 
+  
+    
+      
+        f
+        (
+        f
+        (
+        f
+        (
+        x
+        )
+        )
+        )
+        .
+      
+    
+    {\displaystyle f(f(f(x))).}
+  When a multiplication is defined on the codomain of the function, this defines a multiplication on functions, the pointwise multiplication, which induces another exponentiation. When using functional notation, the two kinds of exponentiation are generally distinguished by placing the exponent of the functional iteration before the parentheses enclosing the arguments of the function, and placing the exponent of pointwise multiplication after the parentheses. Thus 
+  
+    
+      
+        
+          f
+          
+            2
+          
+        
+        (
+        x
+        )
+        =
+        f
+        (
+        f
+        (
+        x
+        )
+        )
+        ,
+      
+    
+    {\displaystyle f^{2}(x)=f(f(x)),}
+   and 
+  
+    
+      
+        f
+        (
+        x
+        
+          )
+          
+            2
+          
+        
+        =
+        f
+        (
+        x
+        )
+        ⋅
+        f
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle f(x)^{2}=f(x)\cdot f(x).}
+   When functional notation is not used, disambiguation is often done by placing the composition symbol before the exponent; for example 
+  
+    
+      
+        
+          f
+          
+            ∘
+            3
+          
+        
+        =
+        f
+        ∘
+        f
+        ∘
+        f
+        ,
+      
+    
+    {\displaystyle f^{\circ 3}=f\circ f\circ f,}
+   and 
+  
+    
+      
+        
+          f
+          
+            3
+          
+        
+        =
+        f
+        ⋅
+        f
+        ⋅
+        f
+        .
+      
+    
+    {\displaystyle f^{3}=f\cdot f\cdot f.}
+   For historical reasons, the exponent of a repeated multiplication is placed before the argument for some specific functions, typically the trigonometric functions. So, 
+  
+    
+      
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        x
+      
+    
+    {\displaystyle \sin ^{2}x}
+    and 
+  
+    
+      
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle \sin ^{2}(x)}
+   both mean 
+  
+    
+      
+        sin
+        ⁡
+        (
+        x
+        )
+        ⋅
+        sin
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle \sin(x)\cdot \sin(x)}
+   and not 
+  
+    
+      
+        sin
+        ⁡
+        (
+        sin
+        ⁡
+        (
+        x
+        )
+        )
+        ,
+      
+    
+    {\displaystyle \sin(\sin(x)),}
+   which, in any case, is rarely considered. Historically, several variants of these notations were used by different authors.In this context, the exponent 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+   denotes always the inverse function, if it exists. So 
+  
+    
+      
+        
+          sin
+          
+            −
+            1
+          
+        
+        ⁡
+        x
+        =
+        
+          sin
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        arcsin
+        ⁡
+        x
+        .
+      
+    
+    {\displaystyle \sin ^{-1}x=\sin ^{-1}(x)=\arcsin x.}
+   For the multiplicative inverse fractions are generally used as in 
+  
+    
+      
+        1
+        
+          /
+        
+        sin
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            1
+            
+              sin
+              ⁡
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle 1/\sin(x)={\frac {1}{\sin x}}.}
+  
+
+
+== In programming languages ==
+Programming languages generally express exponentiation either as an infix operator or as a function application, as they do not support superscripts. The most common operator symbol for exponentiation is the caret (^). The original version of ASCII included an uparrow symbol (↑), intended for exponentiation, but this was replaced by the caret in 1967, so the caret became usual in programming languages.
+The notations include:
+
+x ^ y: AWK, BASIC, J, MATLAB, Wolfram Language (Mathematica), R, Microsoft Excel, Analytica, TeX (and its derivatives), TI-BASIC, bc (for integer exponents), Haskell (for nonnegative integer exponents), Lua and most computer algebra systems.
+x ** y. The Fortran character set did not include lowercase characters or punctuation symbols other than +-*/()&=.,' and so used ** for exponentiation (the initial version used a xx b instead.). Many other languages followed suit: Ada, Z shell, KornShell, Bash, COBOL, CoffeeScript, Fortran, FoxPro, Gnuplot, Groovy, JavaScript, OCaml, F#, Perl, PHP, PL/I, Python, Rexx, Ruby, SAS, Seed7, Tcl, ABAP, Mercury, Haskell (for floating-point exponents), Turing, VHDL.
+x ↑ y: Algol Reference language, Commodore BASIC, TRS-80 Level II/III BASIC.
+x ^^ y: Haskell (for fractional base, integer exponents), D.
+x⋆y: APL.In most programming languages with an infix exponentiation operator, it is right-associative, that is, a^b^c is interpreted as a^(b^c). This is because (a^b)^c is equal to a^(b*c) and thus not as useful. In some languages, it is left-associative, notably in Algol, Matlab and the Microsoft Excel formula language.
+Other programming languages use functional notation:
+
+(expt x y): Common Lisp.
+pown x y: F# (for integer base, integer exponent).Still others only provide exponentiation as part of standard libraries:
+
+pow(x, y): C, C++ (in math library).
+Math.Pow(x, y): C#.
+math:pow(X, Y): Erlang.
+Math.pow(x, y): Java.
+[Math]::Pow(x, y): PowerShell.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+

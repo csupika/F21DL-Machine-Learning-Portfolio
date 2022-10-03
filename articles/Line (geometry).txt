@@ -1,0 +1,812 @@
+####### TITLE #######
+
+Line (geometry)
+
+####### LINKS #######
+
+['Affine coordinates', 'Affine geometry', 'Affine space', 'Affine transformation', 'Ahmes', 'Alessandro Padoa', 'Algebraic curve', 'Algebraic geometry', 'Alhazen', 'Altitude (triangle)', 'Analytic geometry', 'Angle', 'Angle difference identities', 'Apollonius of Perga', 'Archimedes', 'Area', 'Area of a circle', 'Arithmetic geometry', 'Arrangement of lines', 'Aryabhata', 'Asymptote', 'Axiom', 'Axiomatic system', 'Baudhayana', 'Before Common Era', 'Bernhard Riemann', 'Bertrand Russell', 'Blaise Pascal', 'Boyd Patterson', 'Brahmagupta', 'Brooks Cole', 'Cambridge University Press', 'Carl Friedrich Gauss', 'Cartesian coordinate system', 'Cartesian coordinates', 'Cartesian plane', 'Central line (geometry)', 'Circle', 'Circumference', 'CiteSeerX (identifier)', 'Coefficient', 'Collinearity', 'Collineation group', 'Complex geometry', 'Complex number', 'Complex plane', 'Computational geometry', 'Congruence (geometry)', 'Conic section', 'Convex geometry', 'Convex polygon', 'Coordinate geometry', 'Coplanar', 'Cube', 'Cuboid', 'Curvature', 'Curve', 'Cut-the-Knot', 'Cylinder (geometry)', 'David Hilbert', 'Determinant', 'Diagonal', 'Diameter', 'Differential geometry', 'Digital geometry', 'Dimension', 'Diophantine geometry', 'Directrix of a conic section', 'Discrete differential geometry', 'Discrete geometry', 'Disjoint union', 'Distance', 'Distance between two parallel lines', 'Distance from a point to a line', 'Doi (identifier)', 'Ellipse', 'Elliptic geometry', 'Encyclopedia of Mathematics', 'Encyclopædia Britannica Eleventh Edition', 'Euclid', "Euclid's Elements", 'Euclidean distance', 'Euclidean geometry', 'Euclidean plane', 'Euclidean space', 'Euclidean triangle', 'Euler line', 'European Mathematical Society', 'Felix Klein', 'Finite field', 'Finite geometry', 'First degree equation', 'Four-dimensional space', 'Fractal', 'General position', 'Geodesic', 'Geometry', 'Google Books', 'Great circle', 'Half-space (geometry)', 'Harold Scott MacDonald Coxeter', 'Henri Poincaré', 'Hermann Minkowski', 'Hesse normal form', 'Hexagon', "Hilbert's axioms", 'History of geometry', 'Holt, Rinehart and Winston', 'Hyperbola', 'Hyperbolic geometry', 'Hypersphere', 'Hypotenuse', 'ISBN (identifier)', 'Ibn al-Yasamin', 'Imaginary line (mathematics)', 'Imaginary number', 'Incidence (geometry)', 'Incidence geometry', 'Independent variable', 'Integer', 'International Congress of Mathematicians', 'JSTOR (identifier)', 'James Stewart (mathematician)', 'Jyeṣṭhadeva', 'János Bolyai', 'Kite (geometry)', 'Kātyāyana', 'LCCN (identifier)', 'Length', 'Leonhard Euler', 'Line-line intersection', 'Line (disambiguation)', 'Line (geometry)', 'Line (graphics)', 'Line coordinates', 'Line segment', 'Linear equation', 'List of geometers', 'List of geometry topics', 'Locus (mathematics)', 'MR (identifier)', 'Manava', 'Manhattan distance', 'Matrix (mathematics)', 'Maxime Bôcher', 'Metric space', 'Michael Atiyah', 'Mikhail Leonidovich Gromov', 'Minggatu', 'Murray H. Protter', 'Nasir al-Din al-Tusi', 'Newton line', 'Nikolai Lobachevsky', 'Non-Archimedean geometry', 'Non-Euclidean geometry', 'Noncommutative algebraic geometry', 'Noncommutative geometry', 'Normal (geometry)', 'Number line', 'OCLC (identifier)', 'Omar Khayyám', 'One-dimensional space', 'Ordered field', 'Origin (mathematics)', 'Orthogonality', 'Oswald Veblen', 'Otto Hesse', 'Outline of geometry', "Pappus's hexagon theorem", 'Parabola', 'Parallel (geometry)', 'Parallelogram', 'Parameshvara', 'Parametric equation', 'Pascal line', 'Perpendicular', 'Perpendicular lines', 'Plane (geometry)', 'Plane (mathematics)', 'Point (geometry)', 'Polar coordinates', 'Polygon', 'Polyline', 'Postulate', 'Primitive notion', 'Projective geometry', 'Pyramid (geometry)', 'Pythagoras', 'Pythagorean theorem', 'Quadrilateral', 'Rank (linear algebra)', 'Ray (disambiguation)', 'Ray (geometry)', 'Real number', 'Rectangle', 'René Descartes', 'Rhomboid', 'Rhombus', 'Riemannian geometry', 'Right angle', 'Right triangle', 'Root of a function', 'Sakabe Kōhan', 'Scalar (mathematics)', 'Secant line', 'Sijzi', 'Similarity (geometry)', 'Simson line', 'Skew lines', 'Slope', 'Slope-intercept form', 'Sphere', 'Spherical geometry', 'Square', 'Straightedge and compass construction', 'Symmetry', 'Symplectic geometry', 'Synthetic geometry', 'Tangent line', 'Tesseract', 'The Principles of Mathematics', 'Three-dimensional space', 'Transitive action', 'Transversal (geometry)', 'Trapezoid', 'Triangle', 'Triangle inequality', 'Trigonometric functions', 'Two-dimensional Euclidean space', 'Two-dimensional space', 'Vector (geometric)', 'Vertex (geometry)', 'Virasena', 'Volume', 'Wikisource', 'Y-intercept', 'Yang Hui', 'Yasuaki Aida', 'Zero-dimensional space', 'Zhang Heng', 'Élie Cartan']
+
+####### CATEGORIES #######
+
+['All articles to be expanded', 'All articles with empty sections', 'All articles with unsourced statements', 'Analytic geometry', 'Articles to be expanded from August 2022', 'Articles using small message boxes', 'Articles with GND identifiers', 'Articles with empty sections from August 2022', 'Articles with short description', 'Articles with unsourced statements from August 2022', 'CS1 French-language sources (fr)', 'Commons category link from Wikidata', 'Elementary geometry', 'Mathematical concepts', 'Short description is different from Wikidata', 'Use British English from August 2022']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/6/65/Adcinak.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/76/Gerade.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/04/Great_circle_hemispheres.png', 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Hesse_normalenform.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Linear_Function_Graph.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/77/Number_line_with_x_smaller_than_y.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Parametres_polaires_droite.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Ray_%28A%2C_B%2C_C%29.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/88/Stereographic_projection_in_3D.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Tangent_to_a_curve.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/1c/Wiki_letter_w_cropped.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg']
+
+####### REFERENCES #######
+
+['http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.502.72', 'http://lccn.loc.gov/69-12075', 'http://www.ams.org/mathscinet-getitem?mr=0006034', 'http://www.cut-the-knot.org/Curriculum/Calculus/StraightLine.shtml', 'http://doi.org/10.2307%2F2303867', 'http://doi.org/10.2307%2F2690881', 'http://www.jstor.org/stable/2303867', 'http://www.jstor.org/stable/2690881', 'http://www.worldcat.org/oclc/47870', 'http://www.worldcat.org/oclc/747274805', 'https://books.google.com/books?id=bYkLAAAAYAAJ&pg=PA44', 'https://books.google.com/books?id=jTmuOwwGDwoC&pg=PA62', 'https://books.google.com/books?id=mIT5-BN_L0oC&pg=PA108', 'https://d-nb.info/gnd/4156780-8', 'https://archive.org/details/introductiontoge0002coxe', 'https://web.archive.org/web/20160513124511/https://books.google.com/books?id=bYkLAAAAYAAJ&pg=PA44', 'https://www.encyclopediaofmath.org/index.php?title=Angle', 'https://www.encyclopediaofmath.org/index.php?title=Line_(curve)', 'https://www.wikidata.org/wiki/Q37105#identifiers', 'https://www.worldcat.org/oclc/747274805']
+
+####### SUMMARY #######
+
+In geometry, a line is an infinitely long object with no width, depth, or curvature. Thus, lines are one-dimensional objects, though they may exist in two, three, or higher dimension spaces. The word line may also refer to a line segment in everyday life, which have two points to denote its ends. Lines can be referred by two points that lay on it (e.g., 
+  
+    
+      
+        
+          
+            
+              A
+              B
+            
+            ↔
+          
+        
+      
+    
+    {\textstyle {\overleftrightarrow {AB}}}
+  ) or by a single letter (e.g., 
+  
+    
+      
+        ℓ
+      
+    
+    {\displaystyle \ell }
+  ).
+Euclid described a line as "breadthless length" which "lies equally with respect to the points on itself"; he introduced several postulates as basic unprovable properties from which he constructed all of geometry, which is now called Euclidean geometry to avoid confusion with other geometries which have been introduced since the end of the 19th century (such as non-Euclidean, projective and affine geometry).
+In modern mathematics, given the multitude of geometries, the concept of a line is closely tied to the way the geometry is described. For instance, in analytic geometry, a line in the plane is often defined as the set of points whose coordinates satisfy a given linear equation, but in a more abstract setting, such as incidence geometry, a line may be an independent object, distinct from the set of points which lie on it.
+When a geometry is described by a set of axioms, the notion of a line is usually left undefined (a so-called primitive object). The properties of lines are then determined by the axioms which refer to them. One advantage to this approach is the flexibility it gives to users of the geometry. Thus in differential geometry, a line may be interpreted as a geodesic (shortest path between points), while in some projective geometries, a line is a 2-dimensional vector space (all linear combinations of two independent vectors). This flexibility also extends beyond mathematics and, for example, permits physicists to think of the path of a light ray as being a line.
+
+####### CONTENT #######
+
+In geometry, a line is an infinitely long object with no width, depth, or curvature. Thus, lines are one-dimensional objects, though they may exist in two, three, or higher dimension spaces. The word line may also refer to a line segment in everyday life, which have two points to denote its ends. Lines can be referred by two points that lay on it (e.g., 
+  
+    
+      
+        
+          
+            
+              A
+              B
+            
+            ↔
+          
+        
+      
+    
+    {\textstyle {\overleftrightarrow {AB}}}
+  ) or by a single letter (e.g., 
+  
+    
+      
+        ℓ
+      
+    
+    {\displaystyle \ell }
+  ).
+Euclid described a line as "breadthless length" which "lies equally with respect to the points on itself"; he introduced several postulates as basic unprovable properties from which he constructed all of geometry, which is now called Euclidean geometry to avoid confusion with other geometries which have been introduced since the end of the 19th century (such as non-Euclidean, projective and affine geometry).
+In modern mathematics, given the multitude of geometries, the concept of a line is closely tied to the way the geometry is described. For instance, in analytic geometry, a line in the plane is often defined as the set of points whose coordinates satisfy a given linear equation, but in a more abstract setting, such as incidence geometry, a line may be an independent object, distinct from the set of points which lie on it.
+When a geometry is described by a set of axioms, the notion of a line is usually left undefined (a so-called primitive object). The properties of lines are then determined by the axioms which refer to them. One advantage to this approach is the flexibility it gives to users of the geometry. Thus in differential geometry, a line may be interpreted as a geodesic (shortest path between points), while in some projective geometries, a line is a 2-dimensional vector space (all linear combinations of two independent vectors). This flexibility also extends beyond mathematics and, for example, permits physicists to think of the path of a light ray as being a line.
+
+
+== Properties ==
+When geometry was first formalised by Euclid in the Elements, he defined a general line (straight or curved) to be "breadthless length" with a straight line being a line "which lies evenly with the points on itself".: 291  These definitions serve little purpose, since they use terms which are not by themselves defined. In fact, Euclid himself did not use these definitions in this work, and probably included them just to make it clear to the reader what was being discussed. In modern geometry, a line is simply taken as an undefined object with properties given by axioms,: 95  but is sometimes defined as a set of points obeying a linear relationship when some other fundamental concept is left undefined.
+In an axiomatic formulation of Euclidean geometry, such as that of Hilbert (Euclid's original axioms contained various flaws which have been corrected by modern mathematicians),: 108  a line is stated to have certain properties which relate it to other lines and points. For example, for any two distinct points, there is a unique line containing them, and any two distinct lines intersect in at most one point.: 300  In two dimensions (i.e., the Euclidean plane), two lines which do not intersect are called parallel. In higher dimensions, two lines that do not intersect are parallel if they are contained in a plane, or skew if they are not.
+On an Euclidean plane, a line can be represented as a boundary between two regions.: 104  Any collection of finitely many lines partitions the plane into convex polygons (possibly unbounded); this partition is known as an arrangement of lines.
+
+
+=== In higher dimensions ===
+In three-dimensional space, a first degree equation in the variables x, y, and z defines a plane, so two such equations, provided the planes they give rise to are not parallel, define a line which is the intersection of the planes. More generally, in n-dimensional space n−1 first-degree equations in the n coordinate variables define a line under suitable conditions.
+In more general Euclidean space, Rn (and analogously in every other affine space), the line L passing through two different points a and b (considered as vectors) is the subset
+
+The direction of the line is from a (t = 0) to b (t = 1), or in other words, in the direction of the vector b − a. Different choices of a and b can yield the same line.
+
+
+==== Collinear points ====
+
+Three points are said to be collinear if they lie on the same line. Three points usually determine a plane, but in the case of three collinear points this does not happen.
+In affine coordinates, in n-dimensional space the points X = (x1, x2, ..., xn), Y = (y1, y2, ..., yn), and Z = (z1, z2, ..., zn) are collinear if the matrix
+
+has a rank less than 3. In particular, for three points in the plane (n = 2), the above matrix is square and the points are collinear if and only if its determinant is zero.
+Equivalently for three points in a plane, the points are collinear if and only if the slope between one pair of points equals the slope between any other pair of points (in which case the slope between the remaining pair of points will equal the other slopes). By extension, k points in a plane are collinear if and only if any (k–1) pairs of points have the same pairwise slopes.
+In Euclidean geometry, the Euclidean distance d(a,b) between two points a and b may be used to express the collinearity between three points by:
+The points a, b and c are collinear if and only if d(x,a) = d(c,a) and d(x,b) = d(c,b) implies x = c.However, there are other notions of distance (such as the Manhattan distance) for which this property is not true.
+In the geometries where the concept of a line is a primitive notion, as may be the case in some synthetic geometries, other methods of determining collinearity are needed.
+
+
+=== Types ===
+
+In a sense, all lines in Euclidean geometry are equal, in that, without coordinates, one can not tell them apart from one another. However, lines may play special roles with respect to other objects in the geometry and be divided into types according to that relationship. For instance, with respect to a conic (a circle, ellipse, parabola, or hyperbola), lines can be:
+
+tangent lines, which touch the conic at a single point;
+secant lines, which intersect the conic at two points and pass through its interior;
+exterior lines, which do not meet the conic at any point of the Euclidean plane; or
+a directrix, whose distance from a point helps to establish whether the point is on the conic.In the context of determining parallelism in Euclidean geometry, a transversal is a line that intersects two other lines that may or not be parallel to each other.
+For more general algebraic curves, lines could also be:
+
+i-secant lines, meeting the curve in i points counted without multiplicity, or
+asymptotes, which a curve approaches arbitrarily closely without touching it.With respect to triangles we have:
+
+the Euler line,
+the Simson lines, and
+central lines.For a convex quadrilateral with at most two parallel sides, the Newton line is the line that connects the midpoints of the two diagonals.For a hexagon with vertices lying on a conic we have the Pascal line and, in the special case where the conic is a pair of lines, we have the Pappus line.
+Parallel lines are lines in the same plane that never cross. Intersecting lines share a single point in common. Coincidental lines coincide with each other—every point that is on either one of them is also on the other.
+Perpendicular lines are lines that intersect at right angles.In three-dimensional space, skew lines are lines that are not in the same plane and thus do not intersect each other.
+
+
+=== In axiomatic systems ===
+The concept of line is often considered in geometry as a primitive notion in axiomatic systems,: 95  meaning it is not being defined by other concepts. In those situations where a line is a defined concept, as in coordinate geometry, some other fundamental ideas are taken as primitives. When the line concept is a primitive, the behaviour and properties of lines are dictated by the axioms which they must satisfy.In a non-axiomatic or simplified axiomatic treatment of geometry, the concept of a primitive notion may be too abstract to be dealt with. In this circumstance, it is possible to provide a description or mental image of a primitive notion, to give a foundation to build the notion on which would formally be based on the (unstated) axioms. Descriptions of this type may be referred to, by some authors, as definitions in this informal style of presentation. These are not true definitions, and could not be used in formal proofs of statements. The "definition" of line in Euclid's Elements falls into this category.: 95  Even in the case where a specific geometry is being considered (for example, Euclidean geometry), there is no generally accepted agreement among authors as to what an informal description of a line should be when the subject is not being treated formally.
+
+
+== Definition ==
+
+
+=== Linear equation ===
+
+Lines in a Cartesian plane or, more generally, in affine coordinates, are characterized by linear equations. More precisely, every line 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   (including vertical lines) is the set of all points whose coordinates (x, y) satisfy a linear equation; that is,
+
+where a, b and c are fixed real numbers (called coefficients) such that a and b are not both zero. Using this form, vertical lines correspond to equations with b = 0.
+One can further suppose either c = 1 or c = 0, by dividing everything by c if it is not zero.
+There are many variant ways to write the equation of a line which can all be converted from one to another by algebraic manipulation. The above form is sometimes called the standard form. If the constant term is put on the left, the equation becomes
+
+and this is sometimes called the general form of the equation. However, this terminology is not universally accepted, and many authors do not distinguish these two forms.
+These forms are generally named by the type of information (data) about the line that is needed to write down the form. Some of the important data of a line is its slope, x-intercept, known points on the line and y-intercept.
+The equation of the line passing through two different points 
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+        (
+        
+          x
+          
+            0
+          
+        
+        ,
+        
+          y
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle P_{0}(x_{0},y_{0})}
+   and 
+  
+    
+      
+        
+          P
+          
+            1
+          
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle P_{1}(x_{1},y_{1})}
+   may be written as
+
+If x0 ≠ x1, this equation may be rewritten as
+
+or
+In two dimensions, the equation for non-vertical lines is often given in the slope-intercept form:
+
+where:
+
+m is the slope or gradient of the line.
+b is the y-intercept of the line.
+x is the independent variable of the function y = f(x).The slope of the line through points 
+  
+    
+      
+        A
+        (
+        
+          x
+          
+            a
+          
+        
+        ,
+        
+          y
+          
+            a
+          
+        
+        )
+      
+    
+    {\displaystyle A(x_{a},y_{a})}
+   and 
+  
+    
+      
+        B
+        (
+        
+          x
+          
+            b
+          
+        
+        ,
+        
+          y
+          
+            b
+          
+        
+        )
+      
+    
+    {\displaystyle B(x_{b},y_{b})}
+  , when 
+  
+    
+      
+        
+          x
+          
+            a
+          
+        
+        ≠
+        
+          x
+          
+            b
+          
+        
+      
+    
+    {\displaystyle x_{a}\neq x_{b}}
+  , is given by 
+  
+    
+      
+        m
+        =
+        (
+        
+          y
+          
+            b
+          
+        
+        −
+        
+          y
+          
+            a
+          
+        
+        )
+        
+          /
+        
+        (
+        
+          x
+          
+            b
+          
+        
+        −
+        
+          x
+          
+            a
+          
+        
+        )
+      
+    
+    {\displaystyle m=(y_{b}-y_{a})/(x_{b}-x_{a})}
+   and the equation of this line can be written 
+  
+    
+      
+        y
+        =
+        m
+        (
+        x
+        −
+        
+          x
+          
+            a
+          
+        
+        )
+        +
+        
+          y
+          
+            a
+          
+        
+      
+    
+    {\displaystyle y=m(x-x_{a})+y_{a}}
+  .
+
+
+=== Parametric equation ===
+
+Parametric equations are also used to specify lines, particularly in those in three dimensions or more because in more than two dimensions lines cannot be described by a single linear equation.
+In three dimensions lines are frequently described by parametric equations:
+
+where:
+
+x, y, and z are all functions of the independent variable t which ranges over the real numbers.
+(x0, y0, z0) is any point on the line.
+a, b, and c are related to the slope of the line, such that the direction vector (a, b, c) is parallel to the line.Parametric equations for lines in higher dimensions are similar in that they are based on the specification of one point on the line and a direction vector.
+As a note, lines in three dimensions may also be described as the simultaneous solutions of two linear equations
+
+such that 
+  
+    
+      
+        (
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          b
+          
+            1
+          
+        
+        ,
+        
+          c
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{1},b_{1},c_{1})}
+   and 
+  
+    
+      
+        (
+        
+          a
+          
+            2
+          
+        
+        ,
+        
+          b
+          
+            2
+          
+        
+        ,
+        
+          c
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{2},b_{2},c_{2})}
+   are not proportional (the relations 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        =
+        t
+        
+          a
+          
+            2
+          
+        
+        ,
+        
+          b
+          
+            1
+          
+        
+        =
+        t
+        
+          b
+          
+            2
+          
+        
+        ,
+        
+          c
+          
+            1
+          
+        
+        =
+        t
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a_{1}=ta_{2},b_{1}=tb_{2},c_{1}=tc_{2}}
+   imply 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+  ). This follows since in three dimensions a single linear equation typically describes a plane and a line is what is common to two distinct intersecting planes.
+
+
+=== Hesse normal form ===
+
+The normal form (also called the Hesse normal form, after the German mathematician Ludwig Otto Hesse), is based on the normal segment for a given line, which is defined to be the line segment drawn from the origin perpendicular to the line. This segment joins the origin with the closest point on the line to the origin. The normal form of the equation of a straight line on the plane is given by:
+
+where 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   is the angle of inclination of the normal segment (the oriented angle from the unit vector of the x-axis to this segment), and p is the (positive) length of the normal segment. The normal form can be derived from the standard form 
+  
+    
+      
+        a
+        x
+        +
+        b
+        y
+        =
+        c
+      
+    
+    {\displaystyle ax+by=c}
+   by dividing all of the coefficients by
+
+Unlike the slope-intercept and intercept forms, this form can represent any line but also requires only two finite parameters, 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   and p, to be specified. If p > 0, then 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   is uniquely defined modulo 2π. On the other hand, if the line is through the origin (c = p = 0), one drops the c/|c| term to compute 
+  
+    
+      
+        sin
+        ⁡
+        φ
+      
+    
+    {\displaystyle \sin \varphi }
+   and 
+  
+    
+      
+        cos
+        ⁡
+        φ
+      
+    
+    {\displaystyle \cos \varphi }
+  , and it follows that 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   is only defined modulo π.
+
+
+== Other representations ==
+
+
+=== Vectors ===
+The vector equation of the line through points A and B is given by 
+  
+    
+      
+        
+          r
+        
+        =
+        
+          O
+          A
+        
+        +
+        λ
+        
+        
+          A
+          B
+        
+      
+    
+    {\displaystyle \mathbf {r} =\mathbf {OA} +\lambda \,\mathbf {AB} }
+   (where λ is a scalar).
+If a is vector OA and b is vector OB, then the equation of the line can be written: 
+  
+    
+      
+        
+          r
+        
+        =
+        
+          a
+        
+        +
+        λ
+        (
+        
+          b
+        
+        −
+        
+          a
+        
+        )
+      
+    
+    {\displaystyle \mathbf {r} =\mathbf {a} +\lambda (\mathbf {b} -\mathbf {a} )}
+  .
+A ray starting at point A is described by limiting λ. One ray is obtained if λ ≥ 0, and the opposite ray comes from λ ≤ 0.
+
+
+=== Polar coordinates ===
+
+In a Cartesian plane, polar coordinates (r, θ) are related to Cartesian coordinates by the parametric equations:
+In polar coordinates, the equation of a line not passing through the origin—the point with coordinates (0, 0)—can be written
+
+with r > 0 and 
+  
+    
+      
+        φ
+        −
+        π
+        
+          /
+        
+        2
+        <
+        θ
+        <
+        φ
+        +
+        π
+        
+          /
+        
+        2.
+      
+    
+    {\displaystyle \varphi -\pi /2<\theta <\varphi +\pi /2.}
+   Here, p is the (positive) length of the line segment perpendicular to the line and delimited by the origin and the line, and 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   is the (oriented) angle from the x-axis to this segment.
+It may be useful to express the equation in terms of the angle 
+  
+    
+      
+        α
+        =
+        φ
+        +
+        π
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \alpha =\varphi +\pi /2}
+   between the x-axis and the line. In this case, the equation becomes
+
+with r > 0 and 
+  
+    
+      
+        0
+        <
+        θ
+        <
+        α
+        +
+        π
+        .
+      
+    
+    {\displaystyle 0<\theta <\alpha +\pi .}
+  
+These equations can be derived from the normal form of the line equation by setting 
+  
+    
+      
+        x
+        =
+        r
+        cos
+        ⁡
+        θ
+        ,
+      
+    
+    {\displaystyle x=r\cos \theta ,}
+   and 
+  
+    
+      
+        y
+        =
+        r
+        sin
+        ⁡
+        θ
+        ,
+      
+    
+    {\displaystyle y=r\sin \theta ,}
+   and then applying the angle difference identity for sine or cosine.
+These equations can also be proven geometrically by applying right triangle definitions of sine and cosine to the right triangle that has a point of the line and the origin as vertices, and the line and its perpendicular through the origin as sides.
+The previous forms do not apply for a line passing through the origin, but a simpler formula can be written: the polar coordinates 
+  
+    
+      
+        (
+        r
+        ,
+        θ
+        )
+      
+    
+    {\displaystyle (r,\theta )}
+   of the points of a line passing through the origin and making an angle of 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   with the x-axis, are the pairs 
+  
+    
+      
+        (
+        r
+        ,
+        θ
+        )
+      
+    
+    {\displaystyle (r,\theta )}
+   such that 
+
+
+=== Projective geometry ===
+
+In many models of projective geometry, the representation of a line rarely conforms to the notion of the "straight curve" as it is visualised in Euclidean geometry. In elliptic geometry we see a typical example of this.: 108  In the spherical representation of elliptic geometry, lines are represented by great circles of a sphere with diametrically opposite points identified. In a different model of elliptic geometry, lines are represented by Euclidean planes passing through the origin. Even though these representations are visually distinct, they satisfy all the properties (such as, two points determining a unique line) that make them suitable representations for lines in this geometry.
+The "shortness" and "straightness" of a line, interpreted as the property that the distance along the line between any two of its points is minimized (see triangle inequality), can be generalized and leads to the concept of geodesics in metric spaces.
+
+
+== Extensions ==
+
+
+=== Ray ===
+
+Given a line and any point A on it, we may consider A as decomposing this line into two parts.
+Each such part is called a ray and the point A is called its initial point. It is also known as half-line, a one-dimensional half-space. The point A is considered to be a member of the ray. Intuitively, a ray consists of those points on a line passing through A and proceeding indefinitely, starting at A, in one direction only along the line. However, in order to use this concept of a ray in proofs a more precise definition is required.
+Given distinct points A and B, they determine a unique ray with initial point A. As two points define a unique line, this ray consists of all the points between A and B (including A and B) and all the points C on the line through A and B such that B is between A and C. This is, at times, also expressed as the set of all points C on the line determined by A and B such that A is not between B and C. A point D, on the line determined by A and B but not in the ray with initial point A determined by B, will determine another ray with initial point A. With respect to the AB ray, the AD ray is called the opposite ray.
+Thus, we would say that two different points, A and B, define a line and a decomposition of this line into the disjoint union of an open segment (A, B) and two rays, BC and AD (the point D is not drawn in the diagram, but is to the left of A on the line AB). These are not opposite rays since they have different initial points.
+In Euclidean geometry two rays with a common endpoint form an angle.The definition of a ray depends upon the notion of betweenness for points on a line. It follows that rays exist only for geometries for which this notion exists, typically Euclidean geometry or affine geometry over an ordered field. On the other hand, rays do not exist in projective geometry nor in a geometry over a non-ordered field, like the complex numbers or any finite field.
+
+
+=== Line segment ===
+
+A line segment is a part of a line that is bounded by two distinct end points and contains every point on the line between its end points. Depending on how the line segment is defined, either of the two end points may or may not be part of the line segment. Two or more line segments may have some of the same relationships as lines, such as being parallel, intersecting, or skew, but unlike lines they may be none of these, if they are coplanar and either do not intersect or are collinear.
+
+
+=== Number line ===
+
+A point on number line corresponds to a real number and vice versa. Usually, integers are evenly spaced on the line, with positive numbers are on the right, negative numbers on the left. As an extension to the concept, an imaginary line representing imaginary numbers can be drawn perpendicular to the number line at zero. The two lines forms the complex plane, a geometrical representation of the set of complex numbers.
+
+
+== In graphics design ==
+
+
+== See also ==
+Affine transformation
+Curve
+Distance between two parallel lines
+Distance from a point to a line
+Imaginary line (mathematics)
+Incidence (geometry)
+Line segment
+Locus
+Plane (geometry)
+Polyline
+
+
+== References ==
+
+
+== External links ==
+
+"Line (curve)", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Equations of the Straight Line at Cut-the-Knot
+

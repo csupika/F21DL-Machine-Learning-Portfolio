@@ -1,0 +1,402 @@
+####### TITLE #######
+
+Sound
+
+####### LINKS #######
+
+['A-weighting', 'ANSI/ASA S1.1-2013', 'ANSI S1.1-1994', 'Acoustic impedance', 'Acoustic oscillations', 'Acoustic resonance', 'Acoustic theory', 'Acoustic velocity', 'Acoustic wave', 'Acoustical engineering', 'Acoustics', 'Adiabatic process', 'Aeroacoustics', 'American National Standards Institute', 'Amplitude', 'Anharmonicity', 'ArXiv (identifier)', 'Architectural acoustics', 'Astronomy Picture of the Day', 'Atmosphere', 'Attenuation', 'Audio engineer', 'Audio frequency', 'Audio signal processing', 'Bark scale', 'Beat (acoustics)', 'Bibcode (identifier)', 'Bioacoustics', 'Bird vocalization', 'Brain', 'Bulk modulus', 'Cacophony', 'Carleen Hutchins', 'Characteristic impedance', 'CiteSeerX (identifier)', 'Combination tone', 'Compression (physical)', 'D. Van Holliday', 'Decibel', 'Defence mechanism (biology)', 'Density', 'Diaphragm (acoustics)', 'Direction (geometry, geography)', 'Doi (identifier)', 'Doppler effect', 'Drum cadence', 'Duration (music)', 'Earphones', 'Echo (phenomenon)', 'Environmental noise', 'Equal-loudness contour', 'Ernst Chladni', 'F/A-18 Hornet', 'Fletcher–Munson curves', 'Formant', 'Franz Melde', 'Frequencies', 'Frequency', 'Frequency spectrum', 'Fundamental frequency', 'Harmonic', 'Harmonic series (music)', 'Harmonic spectrum', 'Hearing range', 'Heat capacity ratio', 'Hermann von Helmholtz', 'Hertz', 'Homophony', 'Hydrosphere', 'ISBN (identifier)', 'ISSN (identifier)', 'If a tree falls in a forest', 'Infrasound', 'Inharmonicity', 'International Electrotechnical Commission', 'Isaac Newton', 'Jens Blauert', 'John Backus (acoustician)', 'John William Strutt, 3rd Baron Rayleigh', 'Joseph Sauveur', 'KHz', 'List of unexplained sounds', 'Longitudinal wave', 'Loudness', 'Mammal', 'Marin Mersenne', 'Marine mammals', 'Mechanical equilibrium', 'Mechanical wave', 'Medical ultrasound', 'Mel scale', 'Membrane', "Mersenne's laws", 'Micropascal', 'Missing fundamental', 'Monochord', 'Musical acoustics', 'Musical instrument', 'Musical tone', 'NASA', 'Navigation', 'Node (physics)', 'Noise', 'Noise control', 'Ocean surface wave', 'Organ (anatomy)', 'Oscillation', 'Overtone', 'PMC (identifier)', 'PMID (identifier)', 'Parametric array', 'Particle acceleration', 'Particle amplitude', 'Particle displacement', 'Particle velocity', 'Pascal (unit)', 'Perception of infrasound', 'Phon', 'Physical phenomenon', 'Physics', 'Physiology', 'Piano acoustics', 'Pierre-Simon Laplace', 'Pink noise', 'Pitch (music)', 'Plane wave', 'Plasma (physics)', 'Polarization (waves)', 'Polyphony', 'Prandtl–Glauert singularity', 'Predation', 'Pressure', 'Psychoacoustics', 'Psychology', 'Rarefaction', 'Ratio', 'Reference sound pressure', 'Reflection (physics)', 'Refracted', 'Refraction', 'Relativistic Euler equations', 'Resonance', 'Responsivity', 'Reverberation', 'Root-mean-square', 'Root mean square', 'Sense', 'Shear stress', 'Sine wave', 'Solids', 'Sonar', 'Sone', 'Sonic weaponry', 'Sound (disambiguation)', 'Sound box', 'Sound energy', 'Sound energy density', 'Sound energy flux', 'Sound exposure', 'Sound impedance', 'Sound intensity', 'Sound intensity level', 'Sound localization', 'Sound power', 'Sound power level', 'Sound pressure', 'Sound reproduction', 'Sound synthesis', 'Soundproofing', 'Soundscape', 'Special relativity', 'Spectrogram', 'Speech', 'Speech communication', 'Speed of sound', 'Square root', 'Standard temperature and pressure', 'Standing wave', 'State of matter', 'Strain (materials science)', 'String vibration', 'Structural acoustics', 'Sympathetic resonance', 'Temporal envelope and fine structure', 'Texture (music)', 'Thomas Young (scientist)', 'Timbre', 'Transmission loss (duct acoustics)', 'Transmission medium', 'Transverse wave', 'Tuning fork', 'Ultrasound', 'Undertone series', 'Underwater acoustics', 'Unison', 'United States Navy Band', 'Vacuum', 'Vector (geometric)', 'Velocity', 'Vibration', 'Violin acoustics', 'Viscosity', 'Wave', 'Wave vector', 'Wavelength', 'Wayback Machine', 'Werner Meyer-Eppler', 'White noise', 'Wikisource']
+
+####### CATEGORIES #######
+
+['Acoustics', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with EMU identifiers', 'Articles with FAST identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with hAudio microformats', 'Articles with short description', 'CS1 errors: missing periodical', 'Commons category link from Wikidata', 'Hearing', 'Qualia', 'Short description matches Wikidata', 'Sound', 'Waves', 'Webarchive template wayback links', 'Wikipedia indefinitely move-protected pages', 'Wikipedia indefinitely semi-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/9/99/23._%D0%97%D0%B2%D1%83%D1%87%D0%BD%D0%B8_%D0%B2%D0%B8%D0%BB%D1%83%D1%88%D0%BA%D0%B8.ogv', 'https://upload.wikimedia.org/wikipedia/commons/9/91/Duration_perception.png', 'https://upload.wikimedia.org/wikipedia/commons/f/f5/FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29_-_filtered.jpg', 'https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/68/Loudness_perception_v5.gif', 'https://upload.wikimedia.org/wikipedia/commons/6/6d/Onde_cisaillement_impulsion_1d_30_petit.gif', 'https://upload.wikimedia.org/wikipedia/commons/6/62/Onde_compression_impulsion_1d_30_petit.gif', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Pitch_perception.png', 'https://upload.wikimedia.org/wikipedia/commons/6/6d/Sine_waves_different_frequencies.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/26/Spectrogram_showing_shared_partials.png', 'https://upload.wikimedia.org/wikipedia/commons/8/82/Spherical_pressure_waves.gif', 'https://upload.wikimedia.org/wikipedia/commons/6/68/The_Elements_of_Sound_jpg.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Thoth08BigasDrumEvansChalmette.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/ed/Timbre_perception.png', 'https://upload.wikimedia.org/wikipedia/commons/7/74/Ultrasound_range_diagram.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Wikibooks-logo-en-noslogan.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/e1/Drum_-_Cadence_A.ogg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg']
+
+####### REFERENCES #######
+
+['http://www.phys.unsw.edu.au/~jw/hearing.html', 'http://www.audiodesignline.com/howto/audioprocessing/193303241', 'http://www.bartleby.com/61/65/S0576500.html', 'http://podcomplex.com/guide/physics.html', 'http://www.sengpielaudio.com/Calculations03.htm', 'http://www.sengpielaudio.com/calculator-soundlevel.htm', 'http://curious.astro.cornell.edu/about-us/150-people-in-astronomy/space-exploration-and-astronauts/general-questions/918-can-you-hear-sounds-in-space-beginner', 'http://hyperphysics.phy-astr.gsu.edu/hbase/sound/soucon.html', 'http://pages.jh.edu/~virtlab/ray/acoustic.htm', 'http://www.qrg.northwestern.edu/projects/vss/docs/space-environment/1-is-there-sound-in-space.html', 'http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.468.6614', 'http://www.medicine.virginia.edu/basic-science/departments/neurosci/research/corwin-lab/educationresearch/handouts/Auditory-System-handout-revised-for-2009-by-JTC.pdf', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX524570', 'http://pubmed.ncbi.nlm.nih.gov/12816892', 'http://pubmed.ncbi.nlm.nih.gov/1354376', 'http://pubmed.ncbi.nlm.nih.gov/16934315', 'http://pubmed.ncbi.nlm.nih.gov/18855069', 'http://pubmed.ncbi.nlm.nih.gov/25170608', 'http://pubmed.ncbi.nlm.nih.gov/33036979', 'http://pubmed.ncbi.nlm.nih.gov/5024158', 'http://pubmed.ncbi.nlm.nih.gov/5804115', 'http://pubmed.ncbi.nlm.nih.gov/9566626', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2580810', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4149571', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7546695', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007558440305171', 'http://www.audiocheck.net', 'http://www.aip.org/pacs/pacs2010/individuals/pacs2010_regular_edition/reg_acoustics_appendix.htm', 'http://arxiv.org/abs/2004.04818', 'http://doi.org/10.1007%2F978-1-4612-2728-1_4', 'http://doi.org/10.1007%2F978-1-4614-2314-0_13', 'http://doi.org/10.1007%2Fs10162-008-0143-x', 'http://doi.org/10.1016%2Fj.pbiomolbio.2006.07.006', 'http://doi.org/10.1016%2Fs0168-5597(97)00077-4', 'http://doi.org/10.1037%2Fh0032264', 'http://doi.org/10.1080%2F09298219708570732', 'http://doi.org/10.1093%2Fcercor%2F13.7.765', 'http://doi.org/10.1098%2Frstb.1992.0070', 'http://doi.org/10.1121%2F1.1911708', 'http://doi.org/10.1126%2Fsciadv.abc8662', 'http://doi.org/10.1371%2Fjournal.pone.0106553', 'http://id.worldcat.org/fast/1126935/', 'http://www.worldcat.org/issn/0079-6107', 'http://www.worldcat.org/issn/0962-8436', 'http://www.worldcat.org/issn/1525-3961', 'http://esu.com.ua/search_articles.php?id=16980', 'http://www.acoustics.salford.ac.uk/schools/index1.htm', 'http://salfordacoustics.co.uk/sound-waves', 'https://search.informit.com.au/documentSummary;dn=649996699786780;res=IELHSS', 'https://www.cnet.com/news/stanford-scientists-created-a-sound-so-loud-it-instantly-boils-water/', 'https://books.google.com/books?hl=en&lr=&id=OywDx9pxCMYC&oi=fnd&pg=PA425&dq=%22Timbre+perception+and+auditory+object+identification%22&ots=P_6L53f1rX&sig=UF2k3GyEzCF1rOnDKHhgeA2MyJc', 'https://www.youtube.com/watch?v=px3oVGXr4mo', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph127699&CON_LNG=ENG', 'https://ui.adsabs.harvard.edu/abs/1969ASAJ...46..431Z', 'https://ui.adsabs.harvard.edu/abs/1992RSPTB.336..367R', 'https://ui.adsabs.harvard.edu/abs/2014PLoSO...9j6553N', 'https://ui.adsabs.harvard.edu/abs/2020SciA....6.8662T', 'https://catalogue.bnf.fr/ark:/12148/cb119348192', 'https://data.bnf.fr/ark:/12148/cb119348192', 'https://id.loc.gov/authorities/subjects/sh85125363', 'https://apod.nasa.gov/apod/ap070819.html', 'https://d-nb.info/gnd/4129541-9', 'https://id.ndl.go.jp/auth/ndlna/00568989', 'https://www.researchgate.net/publication/233076257', 'https://archive.org/details/musicphysicsengi0000olso', 'https://archive.org/details/musicphysicsengi0000olso/page/249', 'https://web.archive.org/web/20080625012016/http://www.bartleby.com/61/65/S0576500.html', 'https://web.archive.org/web/20130514111126/http://www.aip.org/pacs/pacs2010/individuals/pacs2010_regular_edition/reg_acoustics_appendix.htm', 'https://web.archive.org/web/20130628061206/http://www.medicine.virginia.edu/basic-science/departments/neurosci/research/corwin-lab/educationresearch/handouts/Auditory-System-handout-revised-for-2009-by-JTC.pdf', 'https://web.archive.org/web/20140410064648/http://www.youtube.com/watch?v=px3oVGXr4mo', 'https://web.archive.org/web/20150430054640/http://pages.jh.edu/~virtlab/ray/acoustic.htm', 'https://web.archive.org/web/20151121084708/http://www.researchgate.net/profile/Shlomo_Dubnov/publication/233076257_Polyspectra_as_measures_of_sound_texture_and_timbre*/links/0f31752f6ce3c49334000000.pdf', 'https://web.archive.org/web/20170618062312/http://curious.astro.cornell.edu/about-us/150-people-in-astronomy/space-exploration-and-astronauts/general-questions/918-can-you-hear-sounds-in-space-beginner', 'https://web.archive.org/web/20171016010300/http://www.qrg.northwestern.edu/projects/vss/docs/space-environment/1-is-there-sound-in-space.html', 'https://web.archive.org/web/20200110135929/https://books.google.com/books?hl=en&lr=&id=OywDx9pxCMYC&oi=fnd&pg=PA425&dq=%22Timbre+perception+and+auditory+object+identification%22&ots=P_6L53f1rX&sig=UF2k3GyEzCF1rOnDKHhgeA2MyJc', 'https://web.archive.org/web/20200510200056/https://search.informit.com.au/documentSummary;dn=649996699786780;res=IELHSS', 'https://web.archive.org/web/20201009190631/https://phys.org/news/2020-10-scientists-upper-limit.html', 'https://phys.org/news/2020-10-scientists-upper-limit.html', 'https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Sound', 'https://www.wikidata.org/wiki/Q11461#identifiers']
+
+####### SUMMARY #######
+
+In physics, sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid.
+In human physiology and psychology, sound is the reception of such waves and their perception by the brain. Only acoustic waves that have  frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.7 centimeters (0.67 in).   Sound waves above 20 kHz are known as ultrasound and are not audible to humans. Sound waves below 20 Hz are known as infrasound. Different animal species have varying hearing ranges.
+
+####### CONTENT #######
+
+In physics, sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid.
+In human physiology and psychology, sound is the reception of such waves and their perception by the brain. Only acoustic waves that have  frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.7 centimeters (0.67 in).   Sound waves above 20 kHz are known as ultrasound and are not audible to humans. Sound waves below 20 Hz are known as infrasound. Different animal species have varying hearing ranges.
+
+
+== Acoustics ==
+
+Acoustics is the interdisciplinary science that deals with the study of mechanical waves in gasses, liquids, and solids including vibration, sound, ultrasound, and infrasound. A scientist who works in the field of acoustics is an acoustician, while someone working in the field of acoustical engineering may be called an acoustical engineer. An audio engineer, on the other hand, is concerned with the recording, manipulation, mixing, and reproduction of sound.
+Applications of acoustics are found in almost all aspects of modern society, subdisciplines include aeroacoustics, audio signal processing, architectural acoustics, bioacoustics, electro-acoustics, environmental noise, musical acoustics, noise control, psychoacoustics, speech, ultrasound,  underwater acoustics, and vibration.
+
+
+== Definition ==
+Sound is defined as "(a) Oscillation  in pressure, stress, particle displacement, particle velocity, etc., propagated in a medium with internal forces (e.g., elastic or viscous), or the superposition of such propagated oscillation. (b) Auditory sensation evoked by the oscillation described in (a)." Sound can be viewed as a wave motion in  air or other elastic media. In this case, sound is a stimulus. Sound can also be viewed as an excitation of the hearing mechanism that results in the perception of sound. In this case, sound is a sensation.
+
+
+== Physics ==
+
+Sound can propagate through a medium such as air, water and solids as longitudinal waves and also as a transverse wave in solids. The sound waves are generated by a sound source, such as the vibrating diaphragm of a stereo speaker. The sound source creates vibrations in the surrounding medium. As the source continues to vibrate the medium, the vibrations propagate away from the source at the speed of sound, thus forming the sound wave. At a fixed distance from the source, the pressure, velocity, and displacement of the medium vary in time. At an instant in time, the pressure, velocity, and displacement vary in space. Note that the particles of the medium do not travel with the sound wave. This is intuitively obvious for a solid, and the same is true for liquids and gases (that is, the vibrations of particles in the gas or liquid transport the vibrations, while the average position of the particles over time does not change).  During propagation, waves can be reflected, refracted, or attenuated by the medium.The behavior of sound propagation is generally affected by three things:
+
+A complex relationship between the density and pressure of the medium. This relationship, affected by temperature, determines the speed of sound within the medium.
+Motion of the medium itself. If the medium is moving, this movement may increase or decrease the absolute speed of the sound wave depending on the direction of the movement. For example, sound moving through wind will have its speed of propagation increased by the speed of the wind if the sound and wind are moving in the same direction. If the sound and wind are moving in opposite directions, the speed of the sound wave will be decreased by the speed of the wind.
+The viscosity of the medium. Medium viscosity determines the rate at which sound is attenuated. For many media, such as air or water, attenuation due to viscosity is negligible.When sound is moving through a medium that does not have constant physical properties, it may be refracted (either dispersed or focused).
+
+The mechanical vibrations that can be interpreted as sound can travel through all forms of matter: gases, liquids, solids, and plasmas. The matter that supports the sound is called the medium. Sound cannot travel through a vacuum.
+
+
+=== Waves ===
+Sound is transmitted through gases, plasma, and liquids as longitudinal waves, also called compression waves. It requires a medium to propagate. Through solids, however, it can be transmitted as both longitudinal waves and transverse waves. Longitudinal sound waves are waves of alternating pressure deviations from the equilibrium pressure, causing local regions of compression and rarefaction, while transverse waves (in solids) are waves of alternating shear stress at right angle to the direction of propagation.
+Sound waves may be viewed using parabolic mirrors and objects that produce sound.The energy carried by an oscillating sound wave converts back and forth between the potential energy of the extra compression (in case of longitudinal waves) or lateral displacement strain (in case of transverse waves) of the matter, and the kinetic energy of the displacement velocity of particles of the medium.
+
+Although there are many complexities relating to the transmission of sounds, at the point of reception (i.e. the ears), sound is readily dividable into two simple elements: pressure and time. These fundamental elements form the basis of all sound waves. They can be used to describe, in absolute terms, every sound we hear.
+In order to understand the sound more fully, a complex wave such as the one shown in a blue background on the right of this text, is usually separated into its component parts, which are a combination of various sound wave frequencies (and noise).Sound waves are often simplified to a description in terms of sinusoidal plane waves, which are characterized by these generic properties:
+
+Frequency, or its inverse, wavelength
+Amplitude, sound pressure or Intensity
+Speed of sound
+DirectionSound that is perceptible by humans has frequencies from about 20 Hz to 20,000 Hz. In air at standard temperature and pressure, the corresponding wavelengths of sound waves range from 17 m (56 ft) to 17 mm (0.67 in).  Sometimes speed and direction are combined as a velocity vector; wave number and direction are combined as a wave vector.
+Transverse waves, also known as shear waves, have the additional property, polarization, and are not a characteristic of sound waves.
+
+
+=== Speed ===
+
+The speed of sound depends on the medium the waves pass through, and is a fundamental property of the material. The first significant effort towards measurement of the speed of sound was made by Isaac Newton. He believed the speed of sound in a particular substance was equal to the square root of the pressure acting on it divided by its density:
+
+  
+    
+      
+        c
+        =
+        
+          
+            
+              p
+              ρ
+            
+          
+        
+        .
+      
+    
+    {\displaystyle c={\sqrt {\frac {p}{\rho }}}.}
+  This was later proven wrong and the French mathematician Laplace corrected the formula by deducing that the phenomenon of sound travelling is not isothermal, as believed by Newton, but adiabatic.  He added another factor to the equation—gamma—and multiplied
+
+  
+    
+      
+        
+          
+            γ
+          
+        
+      
+    
+    {\displaystyle {\sqrt {\gamma }}}
+  
+by
+
+  
+    
+      
+        
+          
+            p
+            
+              /
+            
+            ρ
+          
+        
+      
+    
+    {\displaystyle {\sqrt {p/\rho }}}
+  ,
+thus coming up with the equation
+
+  
+    
+      
+        c
+        =
+        
+          
+            γ
+            ⋅
+            p
+            
+              /
+            
+            ρ
+          
+        
+      
+    
+    {\displaystyle c={\sqrt {\gamma \cdot p/\rho }}}
+  .
+Since
+
+  
+    
+      
+        K
+        =
+        γ
+        ⋅
+        p
+      
+    
+    {\displaystyle K=\gamma \cdot p}
+  ,
+the final equation came up to be
+
+  
+    
+      
+        c
+        =
+        
+          
+            K
+            
+              /
+            
+            ρ
+          
+        
+      
+    
+    {\displaystyle c={\sqrt {K/\rho }}}
+  ,
+which is also known as the Newton–Laplace equation. In this equation, K is the elastic bulk modulus, c is the velocity of sound, and 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the density.  Thus, the speed of sound is proportional to the square root of the ratio of the bulk modulus of the medium to its density.
+Those physical properties and the speed of sound change with ambient conditions.  For example, the speed of sound in gases depends on temperature.  In 20 °C (68 °F) air at sea level, the speed of sound is approximately 343 m/s (1,230 km/h; 767 mph) using the formula v [m/s] = 331 + 0.6 T [°C].  The speed of sound is also slightly sensitive, being subject to a second-order anharmonic effect, to the sound amplitude, which means there are non-linear propagation effects, such as the production of harmonics and mixed tones not present in the original sound (see parametric array). If relativistic effects are important, the speed of sound is calculated from the relativistic Euler equations.
+In fresh water the speed of sound is approximately 1,482 m/s (5,335 km/h; 3,315 mph). In steel, the speed of sound is about 5,960 m/s (21,460 km/h; 13,330 mph). Sound moves the fastest in solid atomic hydrogen at about 36,000 m/s (129,600 km/h; 80,530 mph).
+
+
+=== Sound pressure level ===
+Sound pressure is the difference, in a given medium, between average local pressure and the pressure in the sound wave. A square of this difference (i.e., a square of the deviation from the equilibrium pressure) is usually averaged over time and/or space, and a square root of this average provides a root mean square (RMS) value. For example, 1 Pa RMS sound pressure (94 dBSPL) in atmospheric air implies that the actual pressure in the sound wave oscillates between (1 atm 
+  
+    
+      
+        −
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle -{\sqrt {2}}}
+   Pa) and (1 atm 
+  
+    
+      
+        +
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle +{\sqrt {2}}}
+   Pa), that is between 101323.6 and 101326.4 Pa.
+As the human ear can detect sounds with a wide range of amplitudes, sound pressure is often measured as a level on a logarithmic decibel scale. The sound pressure level (SPL) or Lp is defined as
+
+  
+    
+      
+        
+          L
+          
+            
+              p
+            
+          
+        
+        =
+        10
+        
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  p
+                
+                
+                  2
+                
+              
+              
+                
+                  
+                    p
+                    
+                      
+                        r
+                        e
+                        f
+                      
+                    
+                  
+                
+                
+                  2
+                
+              
+            
+          
+          )
+        
+        =
+        20
+        
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            
+              p
+              
+                p
+                
+                  
+                    r
+                    e
+                    f
+                  
+                
+              
+            
+          
+          )
+        
+        
+          
+             dB
+          
+        
+        
+      
+    
+    {\displaystyle L_{\mathrm {p} }=10\,\log _{10}\left({\frac {{p}^{2}}{{p_{\mathrm {ref} }}^{2}}}\right)=20\,\log _{10}\left({\frac {p}{p_{\mathrm {ref} }}}\right){\mbox{ dB}}\,}
+  where p is the root-mean-square sound pressure and 
+  
+    
+      
+        
+          p
+          
+            
+              r
+              e
+              f
+            
+          
+        
+      
+    
+    {\displaystyle p_{\mathrm {ref} }}
+   is a reference sound pressure. Commonly used reference sound pressures, defined in the standard ANSI S1.1-1994, are 20 µPa in air and 1 µPa in water. Without a specified reference sound pressure, a value expressed in decibels cannot represent a sound pressure level.Since the human ear does not have a flat spectral response, sound pressures are often frequency weighted so that the measured level matches perceived levels more closely. The International Electrotechnical Commission (IEC) has defined several weighting schemes. A-weighting attempts to match the response of the human ear to noise and A-weighted sound pressure levels are labeled dBA. C-weighting is used to measure peak levels.
+
+
+== Perception ==
+
+A distinct use of the term sound from its use in physics is that in physiology and psychology, where the term refers to the subject of perception by the brain. The field of psychoacoustics is dedicated to such studies. Webster's 1936 dictionary defined sound as: "1. The sensation of hearing, that which is heard; specif.: a. Psychophysics. Sensation due to stimulation of the auditory nerves and auditory centers of the brain, usually by vibrations transmitted in a material medium, commonly air, affecting the organ of hearing. b. Physics. Vibrational energy which occasions such a sensation. Sound is propagated by progressive longitudinal vibratory disturbances (sound waves)." This means that the correct response to the question: "if a tree falls in the forest with no one to hear it fall, does it make a sound?" is "yes", and "no", dependent on whether being answered using the physical, or the psychophysical definition, respectively.
+The physical reception of sound in any hearing organism is limited to a range of frequencies. Humans normally hear sound frequencies between approximately 20 Hz and 20,000 Hz (20 kHz),: 382  The upper limit decreases with age.: 249  Sometimes sound refers to only those vibrations with frequencies that are within the hearing range for humans or sometimes it relates to a particular animal. Other species have different ranges of hearing. For example, dogs can perceive vibrations higher than 20 kHz.
+As a signal perceived by one of the major senses, sound is used by many species for detecting danger, navigation, predation, and communication. Earth's atmosphere, water, and virtually any physical phenomenon, such as fire, rain, wind, surf, or earthquake, produces (and is characterized by) its unique sounds. Many species, such as frogs, birds, marine and terrestrial mammals, have also developed special organs to produce sound. In some species, these produce song and speech. Furthermore, humans have developed culture and technology (such as music, telephone and radio) that allows them to generate, record, transmit, and broadcast sound.
+Noise is a term often used to refer to an unwanted sound. In science and engineering, noise is an undesirable component that obscures a wanted signal. However, in sound perception it can often be used to identify the source of a sound and is an important component of timbre perception (see above).
+Soundscape is the component of the acoustic environment that can be perceived by humans. The acoustic environment is the combination of all sounds (whether audible to humans or not) within a given area as modified by the environment and understood by people, in context of the surrounding environment.
+There are, historically, six experimentally separable ways in which sound waves are analysed. They are:  pitch, duration, loudness, timbre, sonic texture and  spatial location. Some of these terms have a standardised definition (for instance in the ANSI Acoustical Terminology ANSI/ASA S1.1-2013). More recent approaches have also considered temporal envelope and temporal fine structure as perceptually relevant analyses.
+
+
+=== Pitch ===
+
+Pitch is perceived as how "low" or "high" a sound is and represents the cyclic, repetitive nature of the vibrations that make up sound. For simple sounds, pitch relates to the frequency of the slowest vibration in the sound (called the fundamental harmonic). In the case of complex sounds, pitch perception can vary. Sometimes individuals identify different pitches for the same sound, based on their personal experience of particular sound patterns. Selection of a particular pitch is determined by pre-conscious examination of vibrations, including their frequencies and the balance between them. Specific attention is given to recognising potential harmonics.  Every sound is placed on a pitch continuum from low to high. For example: white noise (random noise spread evenly across all frequencies) sounds higher in pitch than pink noise (random noise spread evenly across octaves) as white noise has more high frequency content.  Figure 1 shows an example of pitch recognition. During the listening process, each sound is analysed for a repeating pattern (See Figure 1: orange arrows) and the results forwarded to the auditory cortex as a single pitch of a certain height (octave) and chroma (note name).
+
+
+=== Duration ===
+
+Duration is perceived as how "long" or "short" a sound is and relates to onset and offset signals created by nerve responses to sounds. The duration of a sound usually lasts from the time the sound is first noticed until the sound is identified as having changed or ceased. Sometimes this is not directly related to the physical duration of a sound. For example; in a noisy environment, gapped sounds (sounds that stop and start) can sound as if they are continuous because the offset messages are missed owing to disruptions from noises in the same general bandwidth. This can be of great benefit in understanding distorted messages such as radio signals that suffer from interference, as (owing to this effect) the message is heard as if it was continuous. Figure 2 gives an example of duration identification. When a new sound is noticed (see Figure 2, Green arrows), a sound onset message is sent to the auditory cortex. When the repeating pattern is missed, a sound offset messages is sent.
+
+
+=== Loudness ===
+
+Loudness is perceived as how "loud" or "soft" a sound is and relates to the totalled number of auditory nerve stimulations over short cyclic time periods, most likely over the duration of theta wave cycles. This means that at short durations, a very short sound can sound softer than a longer sound even though they are presented at the same intensity level. Past around 200 ms this is no longer the case and the duration of the sound no longer affects the apparent loudness of the sound. Figure 3 gives an impression of how loudness information is summed over a period of about 200 ms before being sent to the auditory cortex. Louder signals create a greater 'push' on the Basilar membrane and thus stimulate more nerves, creating a stronger loudness signal. A more complex signal also creates more nerve firings and so sounds louder (for the same wave amplitude) than a simpler sound, such as a sine wave.
+
+
+=== Timbre ===
+
+Timbre is perceived as the quality of different sounds (e.g. the thud of a fallen rock, the whir of a drill, the tone of a musical instrument or the quality of a voice) and represents the pre-conscious allocation of a sonic identity to a sound (e.g. “it's an oboe!"). This identity is based on information gained from frequency transients, noisiness, unsteadiness, perceived pitch and the spread and intensity of overtones in the sound over an extended time frame. The way a sound changes over time (see figure 4) provides most of the information for timbre identification. Even though a small section of the wave form from each instrument looks very similar (see the expanded sections indicated by the orange arrows in figure 4), differences in changes over time between the clarinet and the piano are evident in both loudness and harmonic content. Less noticeable are the different noises heard, such as air hisses for the clarinet and hammer strikes for the piano.
+
+
+=== Texture ===
+Sonic texture relates to the number of sound sources and the interaction between them. The word texture, in this context, relates to the cognitive separation of auditory objects. In music, texture is often referred to as the difference between unison, polyphony and homophony, but it can also relate (for example) to a busy cafe; a sound which might be referred to as cacophony.
+
+
+=== Spatial location ===
+
+Spatial location represents the cognitive placement of a sound in an environmental context; including the placement of a sound on both the horizontal and vertical plane, the distance from the sound source and the characteristics of the sonic environment. In a thick texture, it is possible to identify multiple sound sources using a combination of spatial location and timbre identification.
+
+
+== Frequency ==
+
+
+=== Ultrasound ===
+
+Ultrasound is sound waves with frequencies higher than 20,000 Hz. Ultrasound is not different from audible sound in its physical properties it just cannot be heard by humans. Ultrasound devices operate with frequencies from 20 kHz up to several gigahertz.
+Medical ultrasound is commonly used for diagnostics and treatment.
+
+
+=== Infrasound ===
+
+Infrasound is sound waves with frequencies lower than 20 Hz. Although sounds of such low frequency are too low for humans to hear, whales, elephants and other animals can detect infrasound and use it to communicate. It can be used to detect volcanic eruptions and is used in some types of music.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+Eric Mack (20 May 2019). "Stanford scientists created a sound so loud it instantly boils water". CNET.
+Sounds Amazing; a KS3/4 learning resource for sound and waves (uses Flash)
+HyperPhysics: Sound and Hearing
+Introduction to the Physics of Sound
+Hearing curves and on-line hearing test
+Audio for the 21st Century
+Conversion of sound units and levels
+Sound calculations
+Audio Check: a free collection of audio tests and test tones playable on-line
+More Sounds Amazing; a sixth-form learning resource about sound waves
+

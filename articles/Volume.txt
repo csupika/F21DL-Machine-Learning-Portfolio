@@ -1,0 +1,729 @@
+####### TITLE #######
+
+Volume
+
+####### LINKS #######
+
+['1-form', '2019 redefinition of the SI base units', 'Academic Press', 'Acre-foot', 'Air displacement pipette', 'Algorithm', 'Amber (unit)', 'Ancient Egypt', "Apothecaries' system", 'Approximation algorithm', 'Archimedes', "Archimedes' principle", 'Arithmetic', 'Assize of Bread and Ale', 'Baggage allowance', 'Banach–Tarski paradox', 'Barrel (unit)', 'Base (geometry)', 'Bibcode (identifier)', 'Biochemistry', 'Biology', 'Bonaventura Cavalieri', 'Buffalo State College', 'Bushel', 'Caesium standard', 'Cambridge University Press', "Cavalieri's principle", 'Computational geometry', 'Cone', 'Congius', 'Conserved quantity', 'Container', 'Convex body', 'Convex volume approximation', 'Cooking ingredient', 'Coomb (unit)', 'Coordinate transformation', 'Cord (unit)', 'Cotangent bundle', 'Cube', 'Cube (algebra)', 'Cubic foot', 'Cubic inch', 'Cubic metre', 'Cubic mile', 'Cubic yard', 'Cubit', 'Cuboid', 'Cup (unit)', 'Cylinder', 'Cylindrical coordinate system', 'Density', 'Density on a manifold', 'Determinant', 'Differentiable manifold', 'Differential form', 'Differential geometry', 'Digit (unit)', 'Dimensional analysis', 'Dimensional weight', 'Dimensioning', 'Disc integration', 'Discharge (hydrology)', 'Doi (identifier)', 'Dram (unit)', 'Drexel University', 'Earth', 'Ellipsoid', "Euclid's Elements", 'Exact algorithm', 'Extensive parameter', 'Femtometre', 'Fluid', 'Fluid dram', 'Fluid ounce', 'Formula', 'Four-dimensional space', 'Frustum', 'Fuel oil', 'Function (mathematics)', 'Gallon', 'Gas', 'Gill (volume)', 'Glass production', 'Glenn Research Center', 'Gottfried Wilhelm Leibniz', 'Gourd', 'Graduated cylinder', 'Gram', 'Granular material', 'Heat capacity', 'Henry III of England', 'History of calculus', 'History of the metric system', 'Hogshead', 'Hydrogen', 'Hydrostatic Balance', 'ISBN (identifier)', 'Imperial gallon', 'Imperial units', 'India', 'Integral', 'Integral calculus', 'Intensive and extensive properties', 'International Bureau of Weights and Measures', 'International Prototype Metre', 'Isaac Barrow', 'Isaac Newton', 'James Gregory (mathematician)', 'James Stewart (mathematician)', 'John Wallis', 'Krypton-86', 'LCCN (identifier)', 'Laboratory', 'Length', 'Line (geometry)', 'Liquid', 'List of formulas in elementary geometry', 'List of physical quantities', 'Litre', 'Liu Hui', 'Local coordinates', 'London Pharmacopoeia', 'Low poly', 'Manifold', 'Maria Gaetana Agnesi', 'Mass', 'Mathematics', 'McGraw-Hill', 'Measuring cup', 'Measuring spoon', 'Mesopotamia', 'Metallurgy', 'Method of exhaustion', 'Metre', 'Metric prefix', 'Metric system', 'Metric tensor', 'Middle Ages', 'Middle East', 'Millilitre', 'Minim (unit)', 'Moscow Mathematical Papyrus', 'Multiple (mathematics)', 'Naphtha', 'National Institute of Standards and Technology', 'New SI', 'OCLC (identifier)', 'Observable universe', 'One-dimensional space', 'Oracle machine', 'Orders of magnitude (volume)', 'Orientable', 'Orientable manifold', 'Orientation (space)', 'Oxford University Press', 'PMID (identifier)', 'Palm (unit)', 'Parallelepiped', 'Peck', 'Picometre', 'Pierre de Fermat', 'Pinch (action)', 'Pint', 'Pipette', 'Planck length', 'Planck volume', 'Plane curve', 'Plasma (physics)', 'Polygon', 'Polygon mesh', 'Pompeii', 'Pound (mass)', 'Power of 10', 'Princeton University Press', 'Prism (geometry)', 'Proton', 'Proton radius puzzle', 'Pseudo-Riemannian manifold', 'Pyramid', 'Pyramid (geometry)', 'Quart', 'Region (mathematics)', 'Reisner Papyrus', 'Reservoir', 'Rochester Institute of Technology', 'Royal Pharmaceutical Society', 'SI base unit', 'SI derived unit', 'SI unit', 'Seam (unit)', 'Second', 'Semi-major and semi-minor axes', 'Sester', 'Shell integration', 'Solid', 'Solid of revolution', 'Specific volume', 'Spectral line', 'Speed of light', 'Sphere', 'Spherical coordinate system', 'Springer Science+Business Media', 'Stomach', 'Stopper (plug)', 'Storage tank', 'Stère', 'Tablespoon', 'Teaspoon', 'Tetrahedron', 'Thermodynamic state', 'Thermodynamic system', 'Three-dimensional space', 'Three dimensional', 'Two-dimensional', 'Unit of volume', 'United States customary units', 'Urinary bladder', 'Van der Waals volume', 'Volume (disambiguation)', 'Volume (thermodynamics)', 'Volume element', 'Volume form', 'Volume integral', 'Volume mesh', 'Volumetric flask', 'Volumetric flow rate', 'Volumetric heat capacity', 'Weighing scale', 'Weight', 'Weights and Measures Act 1985', 'Zero-dimensional space', 'Zu Chongzhi']
+
+####### CATEGORIES #######
+
+['All Wikipedia articles needing clarification', 'All articles that are too technical', 'All articles with unsourced statements', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with short description', 'Articles with unsourced statements from August 2022', 'Commons category link from Wikidata', 'Pages using multiple image with auto scaled images', 'Short description matches Wikidata', 'Volume', 'Wikipedia articles needing clarification from August 2022', 'Wikipedia articles needing page number citations from August 2022', 'Wikipedia articles that are too technical from August 2022']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/2/2c/%22How_to_Measure%22_diagram%2C_with_graduated_cylinder_measuring_fluid_drams%2C_1926.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Dolphin_triangle_mesh.png', 'https://upload.wikimedia.org/wikipedia/commons/2/20/Ellipsoid-1-tab.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/b4/Graduated_Measuring_Cylinder_with_Stopper_.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Integral_apl_rot_objem3.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Kegel-1-tab.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Kugel-1-tab.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Parallelepiped-1-tab.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Pompeji_6_Hohlma%C3%9Fe_aus_Glas.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Prisma-1-e.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/d3/Pyramide-46-e.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/7f/Quader-1-tab.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/27/Simple_Measuring_Cup.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/42/Tetraeder-1-tab.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/e9/Visualisation_litre_gram.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Wikibooks-logo-en-noslogan.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Wuerfel-1-tab.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/81/Zylinder-1-tab.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/f/f2/Edit-clear.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg']
+
+####### REFERENCES #######
+
+['http://faculty.buffalostate.edu/wadswogj/courses/bio211%20page/resources/micropipetting%20lab.pdf', 'http://www.math.nyu.edu/~crorres/Archimedes/Crown/CrownIntro.html', 'http://lccn.loc.gov/2018940415', 'http://pubmed.ncbi.nlm.nih.gov/31695215', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007546191305171', 'http://doi.org/10.1038%2Fd41586-019-03364-z', 'http://doi.org/10.1119%2F1.1737965', 'http://www.worldcat.org/oclc/1036766223', 'http://www.worldcat.org/oclc/22861139', 'http://www.worldcat.org/oclc/646803097', 'http://www.worldcat.org/oclc/828776235', 'http://www.worldcat.org/oclc/934433864', 'http://www.worldcat.org/oclc/959922612', 'https://books.google.com/books?id=fFSMatekilIC&pg=PA27', 'https://www.rpharms.com/Portals/0/MuseumLearningResources/11%20Balances%20Weights%20and%20Measures.pdf', 'https://ui.adsabs.harvard.edu/abs/2004PhTea..42..296G', 'https://ui.adsabs.harvard.edu/abs/2019Natur.575...61K', 'https://www.rit.edu/academicsuccesscenter/sites/rit.edu.academicsuccesscenter/files/documents/math-handouts/C8_VolumesbyIntegration_BP_9_22_14.pdf', 'https://id.loc.gov/authorities/subjects/sh85144330', 'https://www.grc.nasa.gov/WWW/BGH/fluden.html', 'https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html', 'https://physics.nist.gov/cgi-bin/cuu/Value?plkl', 'https://www.nist.gov/pml/owm/area-and-volume', 'https://www.nist.gov/pml/owm/si-units-volume', 'https://d-nb.info/gnd/4136953-1', 'https://archive.org/details/calculusearlytra00stew_1', 'https://archive.org/details/thermodynamicsen00ceng_0/page/11', 'https://web.archive.org/web/20090311051318/http://www.math.nyu.edu/~crorres/Archimedes/Crown/CrownIntro.html', 'https://web.archive.org/web/20130508021904/http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html', 'https://web.archive.org/web/20160804033455/http://faculty.buffalostate.edu/wadswogj/courses/bio211%20page/resources/micropipetting%20lab.pdf', 'https://web.archive.org/web/20170113133953/http://www.bipm.org/utils/common/pdf/si-brochure-draft-2016b.pdf', 'https://web.archive.org/web/20210414102422/https://aapt.scitation.org/doi/10.1119/1.1737965', 'https://web.archive.org/web/20220202194113/https://www.rit.edu/academicsuccesscenter/sites/rit.edu.academicsuccesscenter/files/documents/math-handouts/C8_VolumesbyIntegration_BP_9_22_14.pdf', 'https://web.archive.org/web/20220520094140/https://www.rpharms.com/Portals/0/MuseumLearningResources/11%20Balances%20Weights%20and%20Measures.pdf', 'https://web.archive.org/web/20220807105244/https://www.nist.gov/pml/owm/si-units-volume', 'https://web.archive.org/web/20220807105300/https://www.nist.gov/pml/owm/area-and-volume', 'https://web.archive.org/web/20220809085244/https://www.grc.nasa.gov/WWW/BGH/fluden.html', 'https://web.archive.org/web/20220813164032/https://www.bipm.org/documents/20126/41489670/SI-App2-metre.pdf', 'https://www.bipm.org/documents/20126/41489670/SI-App2-metre.pdf', 'https://www.bipm.org/utils/common/pdf/si-brochure/SI-Brochure-9.pdf', 'https://aapt.scitation.org/doi/10.1119/1.1737965', 'https://www.wikidata.org/wiki/Q39297#identifiers']
+
+####### SUMMARY #######
+
+Volume is a measure of occupied three-dimensional space. It is often quantified numerically using SI derived units (such as the cubic meter and liter) or by various imperial units (such as the gallon, quart, cubic inch). The definition of length (cubed) is interrelated with volume. The volume of a container is generally understood to be the capacity of the container; i.e., the amount of fluid (gas or liquid) that the container could hold, rather than the amount of space the container itself displaces.
+In ancient times, volume is measured using similar-shaped natural containers and later on, standardized containers. Some simple three-dimensional shapes can have its volume easily calculated using arithmetic formulas. Volumes of more complicated shapes can be calculated with integral calculus if a formula exists for the shape's boundary. Zero-, one- and two-dimensional objects have no volume; in fourth and higher dimensions, an analogous concept to the normal volume is the hypervolume.
+
+####### CONTENT #######
+
+Volume is a measure of occupied three-dimensional space. It is often quantified numerically using SI derived units (such as the cubic meter and liter) or by various imperial units (such as the gallon, quart, cubic inch). The definition of length (cubed) is interrelated with volume. The volume of a container is generally understood to be the capacity of the container; i.e., the amount of fluid (gas or liquid) that the container could hold, rather than the amount of space the container itself displaces.
+In ancient times, volume is measured using similar-shaped natural containers and later on, standardized containers. Some simple three-dimensional shapes can have its volume easily calculated using arithmetic formulas. Volumes of more complicated shapes can be calculated with integral calculus if a formula exists for the shape's boundary. Zero-, one- and two-dimensional objects have no volume; in fourth and higher dimensions, an analogous concept to the normal volume is the hypervolume.
+
+
+== History ==
+
+
+=== Ancient history ===
+
+The precision of volume measurements in the ancient period usually ranges between 10–50 mL (0.3–2 US fl oz; 0.4–2 imp fl oz).: 8  The earliest evidence of volume calculation came from ancient Egypt and Mesopotamia as mathematical problems, approximating volume of simple shapes such as cuboids, cylinders, frustum and cones. These math problems have been written in the Moscow Mathematical Papyrus (c. 1820 BCE).: 403  In the Reisner Papyrus, ancient Egyptians have written concrete units of volume for grain and liquids, as well as a table of length, width, depth, and volume for blocks of material.: 116  The Egyptians use their units of length (the cubit, palm, digit) to devise their units of volume, such as the volume cubit: 117  or deny: 396  (1 cubit × 1 cubit × 1 cubit), volume palm (1 cubit × 1 cubit × 1 palm), and volume digit (1 cubit × 1 cubit × 1 digit).: 117 The last three books of Euclid's Elements, written in around 300 BCE, detailed the exact formulas for calculating the volume of parallelepipeds, cones, pyramids, cylinders, and spheres. The formula were determined by prior mathematicians by using a primitive form of integration, by breaking the shapes into smaller and simpler pieces.: 403  A century later, Archimedes (c. 287 – 212 BCE) devised approximate volume formula of several shapes used the method of exhaustion approach, meaning to derive solutions from previous known formulas from similar shapes. Primitive integration of shapes was also discovered independently by Liu Hui in the 3rd century CE, Zu Chongzhi in the 5th century CE, the Middle East and India.: 404 Archimedes also devised a way to calculate the volume of an irregular object, by submerging it underwater and measure the difference between the initial and final water volume. The water volume difference is the volume of the object.: 404  Though highly popularized, Archimedes probably does not submerge the golden crown to find its volume, and thus its density and purity, due to the extreme precision involved. Instead, he likely have devised a primitive form of a hydrostatic balance. Here, the crown and a chunk of pure gold with a similar weight are put on both ends of a weighing scale submerged underwater, which will tip accordingly due to the Archimedes' principle.
+
+
+=== Calculus and standardization of units ===
+
+In the Middle Ages, many units for measuring volume were made, such as the sester, amber, coomb, and seam. The sheer quantity of such units motivated British kings to standardize them, culminated in the Assize of Bread and Ale statute in 1258 by Henry III of England. The statute standardized weight, length and volume as well as introduced the peny, ounce, pound, gallon and bushel.: 73–74  In 1618, the London Pharmacopoeia (medicine compound catalog) adopted the Roman gallon or congius as a basic unit of volume and gave a conversion table to the apothecaries' units of weight. Around this time, volume measurements are becoming more precise and the uncertainty is narrowed to between 1–5 mL (0.03–0.2 US fl oz; 0.04–0.2 imp fl oz).: 8 Around the early 17th century, Bonaventura Cavalieri applied the philosophy of modern integral calculus to calculate the volume of any object. He devised the Cavalieri's principle, which said that using thinner and thinner slices of the shape would make the resulting volume more and more accurate. This idea would then be later expanded by Pierre de Fermat, John Wallis, Isaac Barrow, James Gregory, Isaac Newton, Gottfried Wilhelm Leibniz and Maria Gaetana Agnesi in the 17th and 18th centuries to form the modern integral calculus that is still being used in the 21st century.: 404 
+
+
+=== Metrication and redefinitions ===
+
+On 7 April 1795, the metric system was formally defined in French law using six units. Three of these are related to volume: the stère (1 m3) for volume of firewood; the litre (1 dm3) for volumes of liquid; and the gramme, for mass—defined as the mass of one cubic centimetre of water at maximum density, at about 4 °C (39 °F). Thirty years later in 1824, the imperial gallon was defined to be the volume occupied by ten pounds of water at 17 °C (62 °F).: 394  This definition was further refined until the United Kingdom's Weights and Measures Act 1985, which makes 1 imperial gallon precisely equal to 4.54609 liters with no use of water.The 1960 redefinition of the meter from the International Prototype Metre to the orange-red emission line of krypton-86 atoms unbounded the meter, cubic meter, and liter from physical objects. This also make the meter and meter-derived units of volume resilient to changes to the International Prototype Metre. The meter definition was further redefined again in 1983 to use the speed of light and second (which is derived from the caesium standard) and reworded for clarity in 2019.
+
+
+== Measurement ==
+
+The oldest way to roughly measure a volume of an object is using the human body, such as using hand size and pinches. However, the human body's variations make it extremely unreliable. A better way to measure volume is to use roughly consistent and durable containers found in nature, such as gourds, sheep or pig stomachs, and bladders. Later on, as metallurgy and glass production improved, small volumes nowadays are usually measured using standardized human-made containers.: 393  This method is common for measuring small volume of fluids or granular materials, by using a multiple or fraction of the container. For granular materials, the container is shaken or leveled off to form a roughly flat surface. This method is not the most accurate way to measure volume but is often used to measure cooking ingredients.: 399 Air displacement pipette is used in biology and biochemistry to measure volume of fluids at the microscopic scale. Calibrated measuring cups and spoons are adequate for cooking and daily life applications, however, they are not precise enough for laboratories. There, volume of liquids is measured using graduated cylinders, pipettes and volumetric flasks. The largest of such calibrated containers are petroleum storage tanks, some can hold up to 1,000,000 bbl (160,000,000 L) of fluids.: 399  Even at this scale, by knowing petroleum's density and temperature, very precise volume measurement in these tanks can still be made.: 403 For even larger volumes such as in a reservoir, the container's volume is modeled by shapes and calculated using mathematics.: 403  The task of numerically computing the volume of objects is studied in the field of computational geometry in computer science, investigating efficient algorithms to perform this computation, approximately or exactly, for various types of objects. For instance, the convex volume approximation technique shows how to approximate the volume of any convex body using a membership oracle.
+
+
+=== Units ===
+
+The general form of a unit of volume is the cube (x3) of a unit of length. For instance, if the metre (m) is chosen as a unit of length, the corresponding unit of volume is the cubic metre (m3). Thus, volume is a SI derived unit and its unit dimension is L3. The metric units of volume uses metric prefixes, strictly in powers of ten. When applying prefixes to units of volume, which are expressed in units of length cubed, the cube operators are applied to the unit of length including the prefix. An example of converting cubic centimeter to cubic meter is: 2.3 cm3 = 2.3 (cm)3 = 2.3 (0.01 m)3 = 0.0000023 m3 (five zeros).: 143 Commonly used prefixes for meter-based cubed length units are the cubic millimeter (mm3), cubic centimeter (cm3), cubic decimeter (dm3), cubic meter (m3) and the cubic kilometer (km3). The conversion between the prefix units are as follows: 1000 mm3 = 1 cm3, 1000 cm3 = 1 dm3, and 1000 dm3 = 1 m3. The metric system also includes the litre (L) as a unit of volume, where 1 L = 1 dm3 = 1000 cm3 = 0.001 m3.: 145  For liter units, the commonly used prefixes are the milliliter (mL), centiliter (cL), and the liter (L), with 1000 mL = 1 L, 10 mL = 1 cL, 10 cL = 1 dL, and 10 dL = 1 L.Litres are most commonly used for items (such as fluids and solids that can be poured) which are measured by the capacity or size of their container, whereas cubic metres (and derived units) are most commonly used for items measured either by their dimensions or their displacements.Various other imperial or U.S. customary units of volume are also in use, including:: 396–398 
+cubic inch, cubic foot, cubic yard, acre-foot, cubic mile;
+minim, drachm, fluid ounce, pint;
+teaspoon, tablespoon;
+gill, quart, gallon, barrel;
+cord, peck, bushel, hogshead.The smallest volume that can exist is the Planck volume (4.2217×10−105 m3), derived from the Planck length (1.616255(18)×10−35 m) cubed. The smallest volume known to be occupied by matter is probably the proton, with its radius is known to be smaller than 1 femtometers. This means its volume must be smaller than 4.19×10−45 m3, though the exact value is still under debate as of 2019 as the proton radius puzzle. The van der Waals volume of a hydrogen atom is far larger, which ranges from 4.19×10−30 m3 to 7.24×10−30 m3 as a sphere with a radius between 100 and 120 picometers. At the other end of the scale, the Earth has a volume of around 1.083×1021 m3. The largest possible volume in the observable universe is the observable universe itself, at 2.85×1081 m3 by a sphere of 8.8×1026 m in radius.
+
+
+=== Capacity and volume ===
+Capacity is the maximum amount of material that a container can hold, measured in volume or weight. However, the contained volume does not need to fill towards the container's capacity, or vice versa. Containers can only hold a specific amount of physical volume, not weight (excluding practical concerns). For example, a 50,000 bbl (7,900,000 L) tank that can hold 7,200 t (15,900,000 lb) of fuel oil will not be able to contain the same 7,200 t (15,900,000 lb) of naphtha, due to naphtha's lower density and thus larger volume.: 390–391 
+
+
+== Calculation ==
+
+
+=== Basic shapes ===
+
+This is a list of volume formulas of basic shapes:: 405–406 
+Cone – 
+  
+    
+      
+        
+          
+            1
+            3
+          
+        
+        π
+        
+          r
+          
+            2
+          
+        
+        h
+      
+    
+    {\textstyle {\frac {1}{3}}\pi r^{2}h}
+  , where 
+  
+    
+      
+        r
+      
+    
+    {\textstyle r}
+   is the base's radius and 
+  
+    
+      
+        h
+      
+    
+    {\textstyle h}
+   is the cone's height;
+Cube – 
+  
+    
+      
+        
+          a
+          
+            3
+          
+        
+      
+    
+    {\textstyle a^{3}}
+  , where 
+  
+    
+      
+        a
+      
+    
+    {\textstyle a}
+   is the side's length;
+Cuboid – 
+  
+    
+      
+        a
+        b
+        c
+      
+    
+    {\textstyle abc}
+  , where 
+  
+    
+      
+        a
+      
+    
+    {\textstyle a}
+  , 
+  
+    
+      
+        b
+      
+    
+    {\textstyle b}
+  , and 
+  
+    
+      
+        c
+      
+    
+    {\textstyle c}
+   are the sides' length;
+Cylinder – 
+  
+    
+      
+        π
+        
+          r
+          
+            2
+          
+        
+        h
+      
+    
+    {\textstyle \pi r^{2}h}
+  , where 
+  
+    
+      
+        r
+      
+    
+    {\textstyle r}
+   is the base's radius and 
+  
+    
+      
+        h
+      
+    
+    {\textstyle h}
+   is the cone's height;
+Ellipsoid – 
+  
+    
+      
+        
+          
+            4
+            3
+          
+        
+        π
+        a
+        b
+        c
+      
+    
+    {\textstyle {\frac {4}{3}}\pi abc}
+  , where 
+  
+    
+      
+        a
+      
+    
+    {\textstyle a}
+  , 
+  
+    
+      
+        b
+      
+    
+    {\textstyle b}
+  , and 
+  
+    
+      
+        c
+      
+    
+    {\textstyle c}
+   are the semi-major and semi-minor axes' length;
+Sphere – 
+  
+    
+      
+        
+          
+            4
+            3
+          
+        
+        π
+        
+          r
+          
+            3
+          
+        
+      
+    
+    {\textstyle {\frac {4}{3}}\pi r^{3}}
+  , where 
+  
+    
+      
+        r
+      
+    
+    {\textstyle r}
+   is the radius;
+Parallelepiped – 
+  
+    
+      
+        a
+        b
+        c
+        
+          
+            K
+          
+        
+      
+    
+    {\textstyle abc{\sqrt {K}}}
+  , where 
+  
+    
+      
+        a
+      
+    
+    {\textstyle a}
+  , 
+  
+    
+      
+        b
+      
+    
+    {\textstyle b}
+  , and 
+  
+    
+      
+        c
+      
+    
+    {\textstyle c}
+   are the sides' length,
+  
+    
+      
+        K
+        =
+        1
+        +
+        2
+        cos
+        ⁡
+        (
+        α
+        )
+        cos
+        ⁡
+        (
+        β
+        )
+        cos
+        ⁡
+        (
+        γ
+        )
+        −
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        α
+        )
+        −
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        β
+        )
+        −
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        γ
+        )
+      
+    
+    {\textstyle K=1+2\cos(\alpha )\cos(\beta )\cos(\gamma )-\cos ^{2}(\alpha )-\cos ^{2}(\beta )-\cos ^{2}(\gamma )}
+  , and 
+  
+    
+      
+        α
+      
+    
+    {\textstyle \alpha }
+  , 
+  
+    
+      
+        β
+      
+    
+    {\textstyle \beta }
+  , and 
+  
+    
+      
+        γ
+      
+    
+    {\textstyle \gamma }
+   are angles between the two sides;
+Prism – 
+  
+    
+      
+        B
+        h
+      
+    
+    {\textstyle Bh}
+  , where 
+  
+    
+      
+        B
+      
+    
+    {\textstyle B}
+   is the base's area and 
+  
+    
+      
+        h
+      
+    
+    {\textstyle h}
+   is the prism's height;
+Pyramid – 
+  
+    
+      
+        
+          
+            1
+            3
+          
+        
+        B
+        h
+      
+    
+    {\textstyle {\frac {1}{3}}Bh}
+  , where 
+  
+    
+      
+        B
+      
+    
+    {\textstyle B}
+   is the base's area and 
+  
+    
+      
+        h
+      
+    
+    {\textstyle h}
+   is the pyramid's height;
+Tetrahedron – 
+  
+    
+      
+        
+          
+            
+              
+                2
+              
+            
+            12
+          
+        
+        
+          a
+          
+            3
+          
+        
+      
+    
+    {\textstyle {{\sqrt {2}} \over 12}a^{3}}
+  , where 
+  
+    
+      
+        a
+      
+    
+    {\textstyle a}
+   is the side's length.
+
+
+=== Integral calculus ===
+
+The calculation of volume is a vital part of integral calculus. One of which is calculating the volume of solids of revolution, by rotating a plane curve around a line on the same plane. The washer or disc integration method is used when integrating by an axis parallel to the axis of rotation. The general equation can be written as:where 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\textstyle f(x)}
+   and 
+  
+    
+      
+        g
+        (
+        x
+        )
+      
+    
+    {\textstyle g(x)}
+   are the plane curve boundaries.: 1, 3  The shell integration method is used when integrating by an axis perpendicular to the axis of rotation. The equation can be written as:: 6 The volume of a region D in three-dimensional space is given by the triple or volume integral of the constant function 
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+        =
+        1
+      
+    
+    {\displaystyle f(x,y,z)=1}
+   over the region. It is usually written as:
+  
+    
+      
+        
+          ∭
+          
+            D
+          
+        
+        1
+        
+        d
+        x
+        
+        d
+        y
+        
+        d
+        z
+        .
+      
+    
+    {\displaystyle \iiint \limits _{D}1\,dx\,dy\,dz.}
+  In cylindrical coordinates, the volume integral is
+
+  
+    
+      
+        
+          ∭
+          
+            D
+          
+        
+        r
+        
+        d
+        r
+        
+        d
+        θ
+        
+        d
+        z
+        ,
+      
+    
+    {\displaystyle \iiint \limits _{D}r\,dr\,d\theta \,dz,}
+  In spherical coordinates (using the convention for angles with 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   as the azimuth and 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   measured from the polar axis; see more on conventions), the volume integral is
+
+  
+    
+      
+        
+          ∭
+          
+            D
+          
+        
+        
+          ρ
+          
+            2
+          
+        
+        sin
+        ⁡
+        φ
+        
+        d
+        ρ
+        
+        d
+        θ
+        
+        d
+        φ
+        .
+      
+    
+    {\displaystyle \iiint \limits _{D}\rho ^{2}\sin \varphi \,d\rho \,d\theta \,d\varphi .}
+  
+
+
+=== Geometric modeling ===
+
+A polygon mesh is a representation of the object's surface, using polygons. The volume mesh explicitly define its volume and surface properties.
+
+
+=== Differential geometry ===
+In differential geometry, a branch of mathematics, a volume form on a differentiable manifold is a differential form of top degree (i.e., whose degree is equal to the dimension of the manifold) that is nowhere equal to zero. A manifold has a volume form if and only if it is orientable. An orientable manifold has infinitely many volume forms, since multiplying a volume form by a non-vanishing function yields another volume form. On non-orientable manifolds, one may instead define the weaker notion of a density. Integrating the volume form gives the volume of the manifold according to that form.
+An oriented pseudo-Riemannian manifold has a natural volume form. In local coordinates, it can be expressed as
+
+  
+    
+      
+        ω
+        =
+        
+          
+            
+              |
+            
+            g
+            
+              |
+            
+          
+        
+        
+        d
+        
+          x
+          
+            1
+          
+        
+        ∧
+        ⋯
+        ∧
+        d
+        
+          x
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle \omega ={\sqrt {|g|}}\,dx^{1}\wedge \dots \wedge dx^{n},}
+  where the 
+  
+    
+      
+        d
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle dx^{i}}
+   are 1-forms that form a positively oriented basis for the cotangent bundle of the manifold, and 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   is the determinant of the matrix representation of the metric tensor on the manifold in terms of the same basis.
+
+
+== Derived quantities ==
+
+Density is the substance's mass per unit volume, or total mass divided by total volume.
+Specific volume is total volume divided by mass, or the inverse of density.
+The volumetric flow rate or discharge is the volume of fluid which passes through a given surface per unit time.
+The volumetric heat capacity is the heat capacity of the substance divided by its volume.
+The volume of a thermodynamic system is an important extensive parameter for describing its thermodynamic state.
+
+
+== See also ==
+Baggage allowance
+Banach–Tarski paradox
+Dimensional weight
+Dimensioning
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+ Perimeters, Areas, Volumes at Wikibooks
+ Volume at Wikibooks
+

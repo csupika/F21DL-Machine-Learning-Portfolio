@@ -1,0 +1,1431 @@
+####### TITLE #######
+
+Integer
+
+####### LINKS #######
+
+['0', '0 (number)', '1', '1,000,000', '1,000,000,000', '10', '10,000', '10,000,000', '100', '100,000', '100,000,000', '1000 (number)', '101 (number)', '102 (number)', '103 (number)', '104 (number)', '105 (number)', '106 (number)', '107 (number)', '108 (number)', '109 (number)', '110 (number)', '111 (number)', '112 (number)', '113 (number)', '114 (number)', '115 (number)', '116 (number)', '117 (number)', '118 (number)', '119 (number)', '11 (number)', '120 (number)', '121 (number)', '122 (number)', '123 (number)', '124 (number)', '125 (number)', '126 (number)', '127 (number)', '128 (number)', '129 (number)', '12 (number)', '130 (number)', '131 (number)', '132 (number)', '133 (number)', '134 (number)', '135 (number)', '136 (number)', '137 (number)', '138 (number)', '139 (number)', '13 (number)', '140 (number)', '141 (number)', '142 (number)', '143 (number)', '144 (number)', '145 (number)', '146 (number)', '147 (number)', '148 (number)', '149 (number)', '14 (number)', '150 (number)', '151 (number)', '152 (number)', '153 (number)', '154 (number)', '155 (number)', '156 (number)', '157 (number)', '158 (number)', '159 (number)', '15 (number)', '160 (number)', '161 (number)', '162 (number)', '163 (number)', '164 (number)', '165 (number)', '166 (number)', '167 (number)', '168 (number)', '169 (number)', '16 (number)', '170 (number)', '171 (number)', '172 (number)', '173 (number)', '174 (number)', '175 (number)', '176 (number)', '177 (number)', '178 (number)', '179 (number)', '17 (number)', '180 (number)', '181 (number)', '182 (number)', '183 (number)', '184 (number)', '185 (number)', '186 (number)', '187 (number)', '188 (number)', '189 (number)', '18 (number)', '190 (number)', '191 (number)', '192 (number)', '193 (number)', '194 (number)', '195 (number)', '196 (number)', '197 (number)', '198 (number)', '199 (number)', '19 (number)', '1 (number)', '2', '20,000', '2000 (number)', '200 (number)', '201 (number)', '202 (number)', '203 (number)', '204 (number)', '205 (number)', '206 (number)', '207 (number)', '208 (number)', '209 (number)', '20 (number)', '210 (number)', '211 (number)', '212 (number)', '213 (number)', '214 (number)', '215 (number)', '216 (number)', '217 (number)', '218 (number)', '219 (number)', '21 (number)', '220 (number)', '221 (number)', '222 (number)', '223 (number)', '224 (number)', '225 (number)', '226 (number)', '227 (number)', '228 (number)', '229 (number)', '22 (number)', '230 (number)', '231 (number)', '232 (number)', '233 (number)', '234 (number)', '235 (number)', '236 (number)', '237 (number)', '238 (number)', '239 (number)', '23 (number)', '240 (number)', '241 (number)', '242 (number)', '243 (number)', '244 (number)', '245 (number)', '246 (number)', '247 (number)', '248 (number)', '249 (number)', '24 (number)', '250 (number)', '251 (number)', '252 (number)', '253 (number)', '254 (number)', '255 (number)', '256 (number)', '257 (number)', '258 (number)', '259 (number)', '25 (number)', '260 (number)', '261 (number)', '262 (number)', '263 (number)', '264 (number)', '265 (number)', '266 (number)', '267 (number)', '268 (number)', '269 (number)', '26 (number)', '270 (number)', '271 (number)', '272 (number)', '273 (number)', '274 (number)', '275 (number)', '276 (number)', '277 (number)', '278 (number)', '279 (number)', '27 (number)', '280 (number)', '281 (number)', '282 (number)', '283 (number)', '284 (number)', '285 (number)', '286 (number)', '287 (number)', '288 (number)', '289 (number)', '28 (number)', '290 (number)', '291 (number)', '292 (number)', '293 (number)', '294 (number)', '295 (number)', '296 (number)', '297 (number)', '298 (number)', '299 (number)', '29 (number)', '2 (number)', '3', '30,000', '3000 (number)', '300 (number)', '301 (number)', '302 (number)', '303 (number)', '304 (number)', '305 (number)', '306 (number)', '307 (number)', '308 (number)', '309 (number)', '30 (number)', '310 (number)', '311 (number)', '312 (number)', '313 (number)', '314 (number)', '315 (number)', '316 (number)', '317 (number)', '318 (number)', '319 (number)', '31 (number)', '320 (number)', '321 (number)', '322 (number)', '323 (number)', '324 (number)', '325 (number)', '326 (number)', '327 (number)', '328 (number)', '329 (number)', '32 (number)', '330 (number)', '331 (number)', '332 (number)', '333 (number)', '334 (number)', '335 (number)', '336 (number)', '337 (number)', '338 (number)', '339 (number)', '33 (number)', '340 (number)', '341 (number)', '342 (number)', '343 (number)', '344 (number)', '345 (number)', '346 (number)', '347 (number)', '348 (number)', '349 (number)', '34 (number)', '350 (number)', '351 (number)', '352 (number)', '353 (number)', '354 (number)', '355 (number)', '356 (number)', '357 (number)', '358 (number)', '359 (number)', '35 (number)', '360 (number)', '361 (number)', '362 (number)', '363 (number)', '364 (number)', '365 (number)', '366 (number)', '367 (number)', '368 (number)', '369 (number)', '36 (number)', '370 (number)', '371 (number)', '372 (number)', '373 (number)', '374 (number)', '375 (number)', '376 (number)', '377 (number)', '378 (number)', '379 (number)', '37 (number)', '380 (number)', '381 (number)', '382 (number)', '383 (number)', '384 (number)', '385 (number)', '386 (number)', '387 (number)', '388 (number)', '389 (number)', '38 (number)', '390 (number)', '391 (number)', '392 (number)', '393 (number)', '394 (number)', '395 (number)', '396 (number)', '397 (number)', '398 (number)', '399 (number)', '39 (number)', '3 (number)', '4', '40,000', '4000 (number)', '400 (number)', '401 (number)', '402 (number)', '403 (number)', '404 (number)', '405 (number)', '406 (number)', '407 (number)', '408 (number)', '409 (number)', '40 (number)', '410 (number)', '411 (number)', '412 (number)', '413 (number)', '414 (number)', '415 (number)', '416 (number)', '417 (number)', '418 (number)', '419 (number)', '41 (number)', '420 (number)', '421 (number)', '422 (number)', '423 (number)', '424 (number)', '425 (number)', '426 (number)', '427 (number)', '428 (number)', '429 (number)', '42 (number)', '430 (number)', '431 (number)', '432 (number)', '433 (number)', '434 (number)', '435 (number)', '436 (number)', '437 (number)', '438 (number)', '439 (number)', '43 (number)', '440 (number)', '441 (number)', '442 (number)', '443 (number)', '444 (number)', '445 (number)', '446 (number)', '447 (number)', '448 (number)', '449 (number)', '44 (number)', '450 (number)', '451 (number)', '452 (number)', '453 (number)', '454 (number)', '455 (number)', '456 (number)', '457 (number)', '458 (number)', '459 (number)', '45 (number)', '460 (number)', '461 (number)', '462 (number)', '463 (number)', '464 (number)', '465 (number)', '466 (number)', '467 (number)', '468 (number)', '469 (number)', '46 (number)', '470 (number)', '471 (number)', '472 (number)', '473 (number)', '474 (number)', '475 (number)', '476 (number)', '477 (number)', '478 (number)', '479 (number)', '47 (number)', '480 (number)', '481 (number)', '482 (number)', '483 (number)', '484 (number)', '485 (number)', '486 (number)', '487 (number)', '488 (number)', '489 (number)', '48 (number)', '490 (number)', '491 (number)', '492 (number)', '493 (number)', '494 (number)', '495 (number)', '496 (number)', '497 (number)', '498 (number)', '499 (number)', '49 (number)', '5', '50,000', '5000 (number)', '500 (number)', '501 (number)', '502 (number)', '503 (number)', '504 (number)', '505 (number)', '506 (number)', '507 (number)', '508 (number)', '509 (number)', '50 (number)', '510 (number)', '511 (number)', '512 (number)', '513 (number)', '514 (number)', '515 (number)', '516 (number)', '517 (number)', '518 (number)', '519 (number)', '51 (number)', '520 (number)', '521 (number)', '522 (number)', '523 (number)', '524 (number)', '525 (number)', '526 (number)', '527 (number)', '528 (number)', '529 (number)', '52 (number)', '530 (number)', '531 (number)', '532 (number)', '533 (number)', '534 (number)', '535 (number)', '536 (number)', '537 (number)', '538 (number)', '539 (number)', '53 (number)', '540 (number)', '541 (number)', '542 (number)', '543 (number)', '544 (number)', '545 (number)', '546 (number)', '547 (number)', '548 (number)', '549 (number)', '54 (number)', '550 (number)', '551 (number)', '552 (number)', '553 (number)', '554 (number)', '555 (number)', '556 (number)', '557 (number)', '558 (number)', '559 (number)', '55 (number)', '560 (number)', '561 (number)', '562 (number)', '563 (number)', '564 (number)', '565 (number)', '566 (number)', '567 (number)', '568 (number)', '569 (number)', '56 (number)', '570 (number)', '571 (number)', '572 (number)', '573 (number)', '574 (number)', '575 (number)', '576 (number)', '577 (number)', '578 (number)', '579 (number)', '57 (number)', '580 (number)', '581 (number)', '582 (number)', '583 (number)', '584 (number)', '585 (number)', '586 (number)', '587 (number)', '588 (number)', '589 (number)', '58 (number)', '590 (number)', '591 (number)', '592 (number)', '593 (number)', '594 (number)', '595 (number)', '596 (number)', '597 (number)', '598 (number)', '599 (number)', '59 (number)', '6', '60,000', '6000 (number)', '600 (number)', '601 (number)', '602 (number)', '603 (number)', '604 (number)', '605 (number)', '606 (number)', '607 (number)', '608 (number)', '609 (number)', '60 (number)', '610 (number)', '611 (number)', '612 (number)', '613 (number)', '614 (number)', '615 (number)', '616 (number)', '617 (number)', '618 (number)', '619 (number)', '61 (number)', '620 (number)', '621 (number)', '622 (number)', '623 (number)', '624 (number)', '625 (number)', '626 (number)', '627 (number)', '628 (number)', '629 (number)', '62 (number)', '630 (number)', '631 (number)', '632 (number)', '633 (number)', '634 (number)', '635 (number)', '636 (number)', '637 (number)', '638 (number)', '639 (number)', '63 (number)', '640 (number)', '641 (number)', '642 (number)', '643 (number)', '644 (number)', '645 (number)', '646 (number)', '647 (number)', '648 (number)', '649 (number)', '64 (number)', '650 (number)', '651 (number)', '652 (number)', '653 (number)', '654 (number)', '655 (number)', '656 (number)', '657 (number)', '658 (number)', '659 (number)', '65 (number)', '660 (number)', '661 (number)', '662 (number)', '663 (number)', '664 (number)', '665 (number)', '666 (number)', '667 (number)', '668 (number)', '669 (number)', '66 (number)', '670 (number)', '671 (number)', '672 (number)', '673 (number)', '674 (number)', '675 (number)', '676 (number)', '677 (number)', '678 (number)', '679 (number)', '67 (number)', '680 (number)', '681 (number)', '682 (number)', '683 (number)', '684 (number)', '685 (number)', '686 (number)', '687 (number)', '688 (number)', '689 (number)', '68 (number)', '690 (number)', '691 (number)', '692 (number)', '693 (number)', '694 (number)', '695 (number)', '696 (number)', '697 (number)', '698 (number)', '699 (number)', '69 (number)', '7', '70,000', '7000 (number)', '700 (number)', '701 (number)', '702 (number)', '703 (number)', '704 (number)', '705 (number)', '706 (number)', '707 (number)', '708 (number)', '709 (number)', '70 (number)', '710 (number)', '711 (number)', '712 (number)', '713 (number)', '714 (number)', '715 (number)', '716 (number)', '717 (number)', '718 (number)', '719 (number)', '71 (number)', '720 (number)', '721 (number)', '722 (number)', '723 (number)', '724 (number)', '725 (number)', '726 (number)', '727 (number)', '728 (number)', '729 (number)', '72 (number)', '730 (number)', '731 (number)', '732 (number)', '733 (number)', '734 (number)', '735 (number)', '736 (number)', '737 (number)', '738 (number)', '739 (number)', '73 (number)', '740 (number)', '741 (number)', '742 (number)', '743 (number)', '744 (number)', '745 (number)', '746 (number)', '747 (number)', '748 (number)', '749 (number)', '74 (number)', '750 (number)', '751 (number)', '752 (number)', '753 (number)', '754 (number)', '755 (number)', '756 (number)', '757 (number)', '758 (number)', '759 (number)', '75 (number)', '760 (number)', '761 (number)', '762 (number)', '763 (number)', '764 (number)', '765 (number)', '766 (number)', '767 (number)', '768 (number)', '769 (number)', '76 (number)', '770 (number)', '771 (number)', '772 (number)', '773 (number)', '774 (number)', '775 (number)', '776 (number)', '777 (number)', '778 (number)', '779 (number)', '77 (number)', '780 (number)', '781 (number)', '782 (number)', '783 (number)', '784 (number)', '785 (number)', '786 (number)', '787 (number)', '788 (number)', '789 (number)', '78 (number)', '790 (number)', '791 (number)', '792 (number)', '793 (number)', '794 (number)', '795 (number)', '796 (number)', '797 (number)', '798 (number)', '799 (number)', '79 (number)', '8', '80,000', '8000 (number)', '800 (number)', '801 (number)', '802 (number)', '803 (number)', '804 (number)', '805 (number)', '806 (number)', '807 (number)', '808 (number)', '809 (number)', '80 (number)', '810 (number)', '811 (number)', '812 (number)', '813 (number)', '814 (number)', '815 (number)', '816 (number)', '817 (number)', '818 (number)', '819 (number)', '81 (number)', '820 (number)', '821 (number)', '822 (number)', '823 (number)', '824 (number)', '825 (number)', '826 (number)', '827 (number)', '828 (number)', '829 (number)', '82 (number)', '830 (number)', '831 (number)', '832 (number)', '833 (number)', '834 (number)', '835 (number)', '836 (number)', '837 (number)', '838 (number)', '839 (number)', '83 (number)', '840 (number)', '841 (number)', '842 (number)', '843 (number)', '844 (number)', '845 (number)', '846 (number)', '847 (number)', '848 (number)', '849 (number)', '84 (number)', '850 (number)', '851 (number)', '852 (number)', '853 (number)', '854 (number)', '855 (number)', '856 (number)', '857 (number)', '858 (number)', '859 (number)', '85 (number)', '860 (number)', '861 (number)', '862 (number)', '863 (number)', '864 (number)', '865 (number)', '866 (number)', '867 (number)', '868 (number)', '869 (number)', '86 (number)', '870 (number)', '871 (number)', '872 (number)', '873 (number)', '874 (number)', '875 (number)', '876 (number)', '877 (number)', '878 (number)', '879 (number)', '87 (number)', '880 (number)', '881 (number)', '882 (number)', '883 (number)', '884 (number)', '885 (number)', '886 (number)', '887 (number)', '888 (number)', '889 (number)', '88 (number)', '890 (number)', '891 (number)', '892 (number)', '893 (number)', '894 (number)', '895 (number)', '896 (number)', '897 (number)', '898 (number)', '899 (number)', '89 (number)', '9', '90,000', '9000 (number)', '900 (number)', '901 (number)', '902 (number)', '903 (number)', '904 (number)', '905 (number)', '906 (number)', '907 (number)', '908 (number)', '909 (number)', '90 (number)', '910 (number)', '911 (number)', '912 (number)', '913 (number)', '914 (number)', '915 (number)', '916 (number)', '917 (number)', '918 (number)', '919 (number)', '91 (number)', '920 (number)', '921 (number)', '922 (number)', '923 (number)', '924 (number)', '925 (number)', '926 (number)', '927 (number)', '928 (number)', '929 (number)', '92 (number)', '930 (number)', '931 (number)', '932 (number)', '933 (number)', '934 (number)', '935 (number)', '936 (number)', '937 (number)', '938 (number)', '939 (number)', '93 (number)', '940 (number)', '941 (number)', '942 (number)', '943 (number)', '944 (number)', '945 (number)', '946 (number)', '947 (number)', '948 (number)', '949 (number)', '94 (number)', '950 (number)', '951 (number)', '952 (number)', '953 (number)', '954 (number)', '955 (number)', '956 (number)', '957 (number)', '958 (number)', '959 (number)', '95 (number)', '960 (number)', '961 (number)', '962 (number)', '963 (number)', '964 (number)', '965 (number)', '966 (number)', '967 (number)', '968 (number)', '969 (number)', '96 (number)', '970 (number)', '971 (number)', '972 (number)', '973 (number)', '974 (number)', '975 (number)', '976 (number)', '977 (number)', '978 (number)', '979 (number)', '97 (number)', '980 (number)', '981 (number)', '982 (number)', '983 (number)', '984 (number)', '985 (number)', '986 (number)', '987 (number)', '988 (number)', '989 (number)', '98 (number)', '990 (number)', '991 (number)', '992 (number)', '993 (number)', '994 (number)', '995 (number)', '996 (number)', '997 (number)', '998 (number)', '999 (number)', '99 (number)', 'Abelian group', 'Abelian variety', 'Absolute value', 'Additive group', 'Additive identity', 'Additive inverse', 'Affine variety', 'Aleph number', 'Algebra of physical space', 'Algebraic expression', 'Algebraic geometry', 'Algebraic group', 'Algebraic independence', 'Algebraic integer', 'Algebraic number', 'Algebraic number field', 'Algebraic number theory', 'Algebraic structure', 'Algol68', 'Alternating group', 'Arithmetic group', 'Associative algebra', 'Associativity', 'Automated theorem proving', 'Bicomplex number', 'Bignum', 'Bijection', 'Binary operation', 'Bioctonion', 'Biquaternion', 'Blackboard bold', 'Boldface', 'C (computer language)', 'Canonical representation of a positive integer', 'Cardinal number', 'Cardinality', 'Category of rings', "Cauchy's theorem (group theory)", 'Circle group', 'Classification of finite simple groups', 'Clifford algebra', 'Closure (mathematics)', 'Commutative algebra', 'Commutative monoid', 'Commutative ring', 'Commutativity', 'Commutator (ring theory)', 'Complex number', 'Composite number', 'Composition algebra', 'Composition ring', 'Computable number', 'Computer language', 'Conformal group', 'Congruence relation', 'Constructible number', 'Continuous group', 'Countable set', 'Cyclic group', 'Data type', 'David Hilbert', 'Dedekind cut', 'Definable real number', 'Dicyclic group', 'Diffeomorphism', 'Dihedral group', 'Direct limit', 'Direct product of groups', 'Direct sum of groups', 'Discrete group', 'Discrete valuation ring', 'Disjoint sets', 'Distributivity', 'Division (mathematics)', 'Division algebra', 'Division ring', 'Doi (identifier)', 'Double-struck', 'Dual-complex number', 'Dual number', 'Dual quaternion', 'Dyadic rational', 'E6 (mathematics)', 'E7 (mathematics)', 'E8 (mathematics)', 'Elementary abelian group', 'Elements of Algebra', 'Elliptic curve', 'Embedding', 'Encyclopedia of Mathematics', 'Equality (mathematics)', 'Equivalence class', 'Equivalence relation', 'Eric Temple Bell', 'Eric W. Weisstein', 'Essentially unique', 'Euclidean algorithm', 'Euclidean division', 'Euclidean domain', 'Euclidean group', 'European Mathematical Society', 'Exponentiation', 'Extended natural numbers', 'F4 (mathematics)', 'Fibonacci', 'Field (mathematics)', 'Field of fractions', 'Finite decimal', 'Finite field', 'Finite group', 'For all', 'Formal power series ring', 'Fraction', 'Fractional ideal', 'Free algebra', 'Free group', 'Free product of associative algebras', 'French language', 'Frobenius endomorphism', 'Frobenius group', 'Fundamental theorem of arithmetic', 'Fuzzy number', 'G2 (mathematics)', 'GCD domain', 'Garrett Birkhoff', 'Gaussian integer', 'General linear group', 'Geometric algebra', 'German language', 'Glossary of group theory', 'Glossary of mathematical symbols', 'Graded ring', 'Graph of a function', 'Greatest common divisor', 'Group (mathematics)', 'Group action', 'Group homomorphism', 'Group isomorphism', 'Group of Lie type', 'Group of units', 'Group representation', 'Group theory', 'Half-integer', 'Hall subgroup', 'Hyperbolic group', 'Hyperbolic quaternion', 'Hypercomplex number', 'Hyperinteger', 'Hyperreal number', 'ISBN (identifier)', 'Ideal (ring theory)', 'Identity element', 'If and only if', 'Image (mathematics)', 'Imaginary number', 'Infinite dimensional Lie group', 'Infinite group', 'Initial object', 'Injective', 'Inner automorphism', 'Integer-valued function', 'Integer (computer science)', 'Integer complexity', 'Integer lattice', 'Integer part', 'Integer sequence', 'Integers', 'Integers modulo n', 'Integral domain', 'Integrally closed domain', 'Inverse element', 'Inverse function', 'Inverse limit', 'Involutive ring', 'Irrational number', 'Isabelle (proof assistant)', 'Java (programming language)', 'Jordan ring', 'Kernel (algebra)', 'Klein four-group', "Lagrange's theorem (group theory)", 'Language of mathematics', 'Latin', 'Lattice (discrete subgroup)', 'Lattice (group)', 'Leonhard Euler', 'Levi-Civita field', 'Lie group', 'Lie ring', 'Linear algebraic group', 'List of group theory topics', 'List of types of numbers', 'Loop group', 'Lorentz group', 'MathWorld', 'Mathematical symbols', 'Men of Mathematics', 'Mixed number', 'Modular group', 'Module (mathematics)', 'Multicomplex number', 'Multiplication', 'Multiplicative group', 'Multiplicative identity', 'Natural number', 'Natural numbers', 'Negation', 'Negative integer', 'Negative number', 'New Math', 'Nicolas Bourbaki', 'Nilpotent group', 'Noetherian ring', 'Non-associative ring', 'Noncommutative algebra', 'Noncommutative algebraic geometry', 'Noncommutative ring', 'Normal number', 'Normal subgroup', 'Number', 'Number line', 'Number system', 'OEIS', 'Object Pascal', 'Octonion', 'One', 'Operator algebra', 'Ordered pair', 'Ordered ring', 'Ordinal number', 'Orthogonal group', 'P-adic integer', 'P-adic number', 'P-group', 'Parity (mathematics)', 'Peano axioms', 'Period (algebraic geometry)', 'Piecewise', 'PlanetMath', 'Poincaré group', 'Polynomial ring', 'Positional notation', 'Prime number', 'Principal ideal domain', 'Product of rings', 'Profinite integer', 'Proof assistant', 'Prüfer group', 'Quaternion', 'Quaternion group', 'Quotient group', 'Quotient ring', 'Radix', 'Rational number', 'Real number', 'Reductive group', 'Remainder', 'Repeating decimal', 'Rewriting', 'Ring (mathematics)', 'Ring homomorphism', 'Ring of integers', 'Ring theory', 'Saunders Mac Lane', 'Schur multiplier', 'Sedenion', 'Semidirect product', 'Semifield', 'Semiprimitive ring', 'Semiring', 'Serge Lang', 'Set (mathematics)', 'Sign (mathematics)', 'Simple group', 'Simple ring', 'Solenoid (mathematics)', 'Solvable group', 'Spacetime algebra', 'Special linear group', 'Special orthogonal group', 'Special unitary group', 'Split-biquaternion', 'Split-complex number', 'Split-octonion', 'Split-quaternion', 'Sporadic group', 'Subgroup', 'Subring', 'Subset', 'Subtraction', 'Supernatural number', 'Superparticular ratio', 'Superreal number', 'Surjective', 'Surreal number', 'Sylow theorems', 'Symmetric group', 'Symplectic group', 'Tensor product of algebras', 'Term algebra', 'Topological group', 'Total order', 'Total ring of fractions', 'Totally ordered', 'Transcendence degree', 'Transcendental number', 'Transcendental number theory', "Two's complement", 'Unique factorization domain', 'Unit (ring theory)', 'Unital ring', 'Unitary group', 'Universal property', 'Upper and lower bounds', 'Valuation ring', 'Well-ordered', 'Wreath product', 'Zero', 'Zero divisor', 'Zero ring', 'Éléments de mathématique', '−1']
+
+####### CATEGORIES #######
+
+['Abelian group theory', 'Algebraic number theory', 'Articles with GND identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'CS1: long volume value', 'CS1 French-language sources (fr)', 'CS1 German-language sources (de)', 'CS1 Latin-language sources (la)', 'Elementary mathematics', 'Elementary number theory', 'Integers', 'Pages that use a deprecated format of the math tags', 'Ring theory', 'Short description is different from Wikidata', 'Use dmy dates from July 2020', 'Wikipedia articles incorporating text from PlanetMath']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/5/5f/Cyclic_group.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Latex_integers.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/93/Number-line.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Relative_numbers_representation.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/d/db/Symbol_list_class.svg']
+
+####### REFERENCES #######
+
+['http://jeff560.tripod.com/nth.html', 'http://doi.org/10.1007%2F978-3-319-72044-9_9', 'http://doi.org/10.31274%2Frtd-180813-5631', 'http://oeis.org/', 'http://www.positiveintegers.org', 'https://www.ahdictionary.com/word/search.html?q=whole+number', 'https://www.britannica.com/science/integer', 'https://books.google.com/books?id=3domViIV7HMC&pg=PA86', 'https://books.google.com/books?id=KwJQIt4jQHUC&pg=PA126', 'https://books.google.com/books?id=NlQL97qBSZkC', 'https://books.google.com/books?id=TqHDAgAAQBAJ&pg=PA185', 'https://books.google.com/books?id=syYYl-NVM5IC&pg=PA4', 'https://books.google.com/books?id=uMAXOmLTCGsC&dq=integer%20set%20Z&pg=PA374', 'https://www.google.com/books/edition/Contemporary_Progress_in_Mathematics/dhJPAQAAMAAJ?hl=en&gbpv=1&bsq=integer+set+Z&dq=integer+set+Z&printsec=frontcover', 'https://www.google.com/books/edition/Elementary_School_Mathematics_New_Direct/bAUJAQAAMAAJ?hl=en&gbpv=1&pg=PA42', 'https://www.google.com/books/edition/Elements_of_Algebra/tclXAAAAYAAJ?hl=en&gbpv=1&bsq=integers+whole+numbers&dq=integers+whole+numbers&printsec=frontcover', 'https://www.google.com/books/edition/Encyclop%C3%A6dia_Metropolitana_Or_Universal/ZVI_AQAAMAAJ?hl=en&gbpv=1&pg=PA537', 'https://www.google.com/books/edition/Encyclopaedia_Britannica/d50qAQAAMAAJ?hl=en&gbpv=1&pg=PA367', 'https://www.google.com/books/edition/Encyclopaedia_Britannica/d50qAQAAMAAJ?hl=en&gbpv=1&pg=PA83', 'https://www.google.com/books/edition/Encyclopaedia_Britannica/d50qAQAAMAAJ?hl=en', 'https://www.google.com/books/edition/GMAT_Complete_2020/6l_sDwAAQBAJ?hl=en&gbpv=1&pg=PA708', 'https://www.google.com/books/edition/Introduction_to_Proof_in_Abstract_Mathem/PEP_AwAAQBAJ?hl=en&gbpv=1&pg=PA237', 'https://www.google.com/books/edition/Junior_Mathematics_for_Today/RzNCAAAAIAAJ?hl=en', 'https://www.google.com/books/edition/Mathematical_Methods_in_Linguistics/qV7TUuaYcUIC?hl=en&gbpv=1&pg=PA80', 'https://www.google.com/books/edition/Meaning_in_Mathematics/DCqQDwAAQBAJ?hl=en&gbpv=1&pg=PA68', 'https://www.google.com/books/edition/Science_and_Technology_Encyclopedia/PZIdcYCCf2kC?hl=en&gbpv=1&dq=integer&pg=PA280', 'https://www.google.com/books/edition/The_Growth_of_Mathematical_Ideas_Grades/OO9RAQAAIAAJ?hl=en&gbpv=1&pg=PA14', 'https://www.google.com/books/edition/The_University_of_Leeds_Review/Z-7kAAAAMAAJ', 'https://www.google.com/books/edition/Theory_of_Numbers/iQ_vAAAAMAAJ?hl=en&gbpv=1&pg=PA2', 'https://mathworld.wolfram.com/Integer.html', 'https://mathworld.wolfram.com/Z%5E*.html', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph135364&CON_LNG=ENG', 'https://dr.lib.iastate.edu/handle/20.500.12876/80303', 'https://hal.inria.fr/hal-01667321', 'https://d-nb.info/gnd/4134668-3', 'https://bibdig.museogalileo.it/tecanew/opera?bid=1072400&seq=30', 'https://id.ndl.go.jp/auth/ndlna/00570428', 'https://archive.org/details/1770LEULERVollstandigeAnleitungZurAlgebraVol1/page/n31/mode/2up', 'https://archive.org/details/algebrebour00bour/page/26/mode/2up', 'https://archive.org/details/in.ernet.dli.2015.166886/page/n63/mode/2up', 'https://archive.org/details/numbersystemsfou0000mend/page/152/mode/2up', 'https://archive.org/details/structureofarith00camp/page/83', 'https://web.archive.org/web/20100131022510/http://jeff560.tripod.com/nth.html', 'https://web.archive.org/web/20150906083836/https://books.google.com/books?id=TqHDAgAAQBAJ&pg=PA185', 'https://web.archive.org/web/20161208121843/https://books.google.com/books?id=KwJQIt4jQHUC&pg=PA126', 'https://web.archive.org/web/20161208142220/https://books.google.com/books?id=syYYl-NVM5IC&pg=PA4', 'https://web.archive.org/web/20161208233040/https://books.google.com/books?id=3domViIV7HMC&pg=PA86', 'https://web.archive.org/web/20180126125528/https://hal.inria.fr/hal-01667321', 'https://www.encyclopediaofmath.org/index.php?title=Integer', 'https://www.oercommons.org/authoring/13198-integers-introduction-to-the-concept-with-activiti/1/view', 'https://www.wikidata.org/wiki/Q12503#identifiers']
+
+####### SUMMARY #######
+
+An integer is the number zero (0), a positive natural number (1, 2, 3, etc.) or a negative integer with a minus sign (−1, −2, −3, etc.). The negative numbers are the additive inverses of the corresponding positive numbers. In the language of mathematics, the set of integers is often denoted by the boldface Z or blackboard bold 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  .The set of natural numbers 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   is a subset of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , which in turn is a subset of the set of all rational numbers 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  , itself a subset of the real numbers 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  . Like the natural numbers, 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is countably infinite. An integer may be regarded as a real number that can be written without a fractional component. For example, 21, 4, 0, and −2048 are integers, while 9.75, 5+1/2, and √2 are not.The integers form the smallest group and the smallest ring containing the natural numbers. In algebraic number theory, the integers are sometimes qualified as rational integers to distinguish them from the more general algebraic integers. In fact, (rational) integers are algebraic integers that are also rational numbers.
+
+
+
+####### CONTENT #######
+
+An integer is the number zero (0), a positive natural number (1, 2, 3, etc.) or a negative integer with a minus sign (−1, −2, −3, etc.). The negative numbers are the additive inverses of the corresponding positive numbers. In the language of mathematics, the set of integers is often denoted by the boldface Z or blackboard bold 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  .The set of natural numbers 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   is a subset of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , which in turn is a subset of the set of all rational numbers 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  , itself a subset of the real numbers 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  . Like the natural numbers, 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is countably infinite. An integer may be regarded as a real number that can be written without a fractional component. For example, 21, 4, 0, and −2048 are integers, while 9.75, 5+1/2, and √2 are not.The integers form the smallest group and the smallest ring containing the natural numbers. In algebraic number theory, the integers are sometimes qualified as rational integers to distinguish them from the more general algebraic integers. In fact, (rational) integers are algebraic integers that are also rational numbers.
+
+
+== History ==
+The word integer comes from the Latin integer meaning "whole" or (literally) "untouched", from in ("not") plus tangere ("to touch"). "Entire" derives from the same origin via the French word entier, which means both entire and integer. Historically the term was used for a number that was a multiple of 1, or to the whole part of a mixed number. Only positive integers were considered, making the term synonymous with the natural numbers. The definition of integer expanded over time to include negative numbers as their usefulness was recognized. For example Leonhard Euler in his 1765 Elements of Algebra defined integers to include both positive and negative numbers. However, European mathematicians, for the most part, resisted the concept of negative numbers until the middle of the 19th century.The use of the letter Z to denote the set of integers comes from the German word Zahlen ("number") and has been attributed to David Hilbert. The earliest known use of the notation in a textbook occurs in Algébre written by the collective Nicolas Bourbaki, dating to 1947. The notation was not adopted immediately, for example another textbook used the letter J and a 1960 paper used Z to denote the non-negative integers. But by 1961, Z was generally used by modern algebra texts to denote the positive and negative integers.The symbol 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is often annotated to denote various sets, with varying usage amongst different authors: 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} ^{+}}
+  ,
+  
+    
+      
+        
+          
+            Z
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{+}}
+   or 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            >
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} ^{>}}
+   for the positive integers, 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            0
+            +
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} ^{0+}}
+   or 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            ≥
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} ^{\geq }}
+   for non-negative integers, and 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            ≠
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} ^{\neq }}
+   for non-zero integers. Some authors use 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} ^{*}}
+   for non-zero integers, while others use it for non-negative integers, or for {–1, 1} (the group of units of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  ). Additionally, 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \mathbb {Z} _{p}}
+   is used to denote either the set of integers modulo p (i.e., the set of congruence classes of integers), or the set of p-adic integers.The whole numbers were synonymous with the integers up until the early 1950s. In the late 1950s, as part of the New Math movement, American elementary school teachers began teaching that "whole numbers" referred to the natural numbers, excluding negative numbers, while "integer" included the negative numbers. "Whole number" remains ambiguous to the present day.
+
+
+== Algebraic properties ==
+
+Like the natural numbers, 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is closed under the operations of addition and multiplication, that is, the sum and product of any two integers is an integer. However, with the inclusion of the negative natural numbers (and importantly, 0), 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , unlike the natural numbers, is also closed under subtraction.The integers form a unital ring which is the most basic one, in the following sense: for any unital ring, there is a unique ring homomorphism from the integers into this ring. This universal property, namely to be an initial object in the category of rings, characterizes the ring 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  .
+
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is not closed under division, since the quotient of two integers (e.g., 1 divided by 2) need not be an integer. Although the natural numbers are closed under exponentiation, the integers are not (since the result can be a fraction when the exponent is negative).
+The following table lists some of the basic properties of addition and multiplication for any integers a, b and c:
+
+The first five properties listed above for addition say that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , under addition, is an abelian group. It is also a cyclic group, since every non-zero integer can be written as a finite sum 1 + 1 + ... + 1 or (−1) + (−1) + ... + (−1). In fact, 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   under addition is the only infinite cyclic group—in the sense that any infinite cyclic group is isomorphic to 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  .
+The first four properties listed above for multiplication say that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   under multiplication is a commutative monoid. However, not every integer has a multiplicative inverse (as is the case of the number 2), which means that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   under multiplication is not a group.
+All the rules from the above property table (except for the last), when taken together, say that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   together with addition and multiplication is a commutative ring with unity. It is the prototype of all objects of such algebraic structure. Only those equalities of expressions are true in 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   for all values of variables, which are true in any unital commutative ring. Certain non-zero integers map to zero in certain rings.
+The lack of zero divisors in the integers (last property in the table) means that the commutative ring 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is an integral domain.
+The lack of multiplicative inverses, which is equivalent to the fact that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is not closed under division, means that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is not a field. The smallest field containing the integers as a subring is the field of rational numbers. The process of constructing the rationals from the integers can be mimicked to form the field of fractions of any integral domain. And back, starting from an algebraic number field (an extension of rational numbers), its ring of integers can be extracted, which includes 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   as its subring.
+Although ordinary division is not defined on 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , the division "with remainder" is defined on them. It is called Euclidean division, and possesses the following important property: given two integers a and b with b ≠ 0, there exist unique integers q and r such that a = q × b + r and 0 ≤ r <  |b|, where |b| denotes the absolute value of b. The integer q is called the quotient and r is called the remainder of the division of a by b. The Euclidean algorithm for computing greatest common divisors works by a sequence of Euclidean divisions.
+The above says that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is a Euclidean domain. This implies that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is a principal ideal domain, and any positive integer can be written as the products of primes in an essentially unique way. This is the fundamental theorem of arithmetic.
+
+
+== Order-theoretic properties ==
+
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is a totally ordered set without upper or lower bound. The ordering of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   is given by:
+:... −3 < −2 < −1 < 0 < 1 < 2 < 3 < ...
+An integer is positive if it is greater than zero, and negative if it is less than zero. Zero is defined as neither negative nor positive.
+The ordering of integers is compatible with the algebraic operations in the following way:
+
+if a < b and c < d, then a + c < b + d
+if a < b and 0 < c, then ac < bc.Thus it follows that 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   together with the above ordering is an ordered ring.
+The integers are the only nontrivial totally ordered abelian group whose positive elements are well-ordered. This is equivalent to the statement that any Noetherian valuation ring is either a field—or a discrete valuation ring.
+
+
+== Construction ==
+
+
+=== Traditional development ===
+In elementary school teaching, integers are often intuitively defined as the union of the (positive) natural numbers, zero, and the negations of the natural numbers. This can be formalized as follows. First construct the set of natural numbers according to the Peano axioms, call this 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  . Then construct a set 
+  
+    
+      
+        
+          P
+          
+            −
+          
+        
+      
+    
+    {\displaystyle P^{-}}
+   which is disjoint from 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   and in one-to-one correspondence with 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   via a function 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  . For example, take 
+  
+    
+      
+        
+          P
+          
+            −
+          
+        
+      
+    
+    {\displaystyle P^{-}}
+   to be the ordered pairs 
+  
+    
+      
+        (
+        1
+        ,
+        n
+        )
+      
+    
+    {\displaystyle (1,n)}
+   with the mapping 
+  
+    
+      
+        ψ
+        =
+        n
+        ↦
+        (
+        1
+        ,
+        n
+        )
+      
+    
+    {\displaystyle \psi =n\mapsto (1,n)}
+  . Finally let 0 be some object not in 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   or 
+  
+    
+      
+        
+          P
+          
+            −
+          
+        
+      
+    
+    {\displaystyle P^{-}}
+  , for example the ordered pair 
+  
+    
+      
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,0)}
+  . Then the integers are defined to be the union 
+  
+    
+      
+        P
+        ∪
+        
+          P
+          
+            −
+          
+        
+        ∪
+        {
+        0
+        }
+      
+    
+    {\displaystyle P\cup P^{-}\cup \{0\}}
+  . 
+The traditional arithmetic operations can then be defined on the integers in a piecewise fashion, for each of positive numbers, negative numbers, and zero. For example negation is defined as follows:
+
+The traditional style of definition leads to many different cases (each arithmetic operation needs to be defined on each combination of types of integer) and makes it tedious to prove that integers obey the various laws of arithmetic.
+
+
+=== Equivalence classes of ordered pairs ===
+
+In modern set-theoretic mathematics, a more abstract construction allowing one to define arithmetical operations without any case distinction is often used instead. The integers can thus be formally constructed as the equivalence classes of ordered pairs of natural numbers (a,b).The intuition is that (a,b) stands for the result of subtracting b from a. To confirm our expectation that 1 − 2 and 4 − 5 denote the same number, we define an equivalence relation ~ on these pairs with the following rule:
+
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+        ∼
+        (
+        c
+        ,
+        d
+        )
+      
+    
+    {\displaystyle (a,b)\sim (c,d)}
+  precisely when
+
+  
+    
+      
+        a
+        +
+        d
+        =
+        b
+        +
+        c
+        .
+      
+    
+    {\displaystyle a+d=b+c.}
+  Addition and multiplication of integers can be defined in terms of the equivalent operations on the natural numbers; by using [(a,b)] to denote the equivalence class having (a,b) as a member, one has:
+
+  
+    
+      
+        [
+        (
+        a
+        ,
+        b
+        )
+        ]
+        +
+        [
+        (
+        c
+        ,
+        d
+        )
+        ]
+        :=
+        [
+        (
+        a
+        +
+        c
+        ,
+        b
+        +
+        d
+        )
+        ]
+        .
+      
+    
+    {\displaystyle [(a,b)]+[(c,d)]:=[(a+c,b+d)].}
+  
+
+  
+    
+      
+        [
+        (
+        a
+        ,
+        b
+        )
+        ]
+        ⋅
+        [
+        (
+        c
+        ,
+        d
+        )
+        ]
+        :=
+        [
+        (
+        a
+        c
+        +
+        b
+        d
+        ,
+        a
+        d
+        +
+        b
+        c
+        )
+        ]
+        .
+      
+    
+    {\displaystyle [(a,b)]\cdot [(c,d)]:=[(ac+bd,ad+bc)].}
+  The negation (or additive inverse) of an integer is obtained by reversing the order of the pair:
+
+  
+    
+      
+        −
+        [
+        (
+        a
+        ,
+        b
+        )
+        ]
+        :=
+        [
+        (
+        b
+        ,
+        a
+        )
+        ]
+        .
+      
+    
+    {\displaystyle -[(a,b)]:=[(b,a)].}
+  Hence subtraction can be defined as the addition of the additive inverse:
+
+  
+    
+      
+        [
+        (
+        a
+        ,
+        b
+        )
+        ]
+        −
+        [
+        (
+        c
+        ,
+        d
+        )
+        ]
+        :=
+        [
+        (
+        a
+        +
+        d
+        ,
+        b
+        +
+        c
+        )
+        ]
+        .
+      
+    
+    {\displaystyle [(a,b)]-[(c,d)]:=[(a+d,b+c)].}
+  The standard ordering on the integers is given by:
+
+  
+    
+      
+        [
+        (
+        a
+        ,
+        b
+        )
+        ]
+        <
+        [
+        (
+        c
+        ,
+        d
+        )
+        ]
+      
+    
+    {\displaystyle [(a,b)]<[(c,d)]}
+   if and only if 
+  
+    
+      
+        a
+        +
+        d
+        <
+        b
+        +
+        c
+        .
+      
+    
+    {\displaystyle a+d<b+c.}
+  It is easily verified that these definitions are independent of the choice of representatives of the equivalence classes.
+Every equivalence class has a unique member that is of the form (n,0) or (0,n) (or both at once). The natural number n is identified with the class [(n,0)] (i.e., the natural numbers are embedded into the integers by map sending n to [(n,0)]), and the class [(0,n)] is denoted −n (this covers all remaining classes, and gives the class [(0,0)] a second time since −0 = 0.
+Thus, [(a,b)] is denoted by
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  a
+                  −
+                  b
+                  ,
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  a
+                  ≥
+                  b
+                
+              
+              
+                
+                  −
+                  (
+                  b
+                  −
+                  a
+                  )
+                  ,
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  a
+                  <
+                  b
+                  .
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}a-b,&{\mbox{if }}a\geq b\\-(b-a),&{\mbox{if }}a<b.\end{cases}}}
+  If the natural numbers are identified with the corresponding integers (using the embedding mentioned above), this convention creates no ambiguity.
+This notation recovers the familiar representation of the integers as {..., −2, −1, 0, 1, 2, ...} .
+Some examples are:
+
+  
+    
+      
+        
+          
+            
+              
+                0
+              
+              
+                
+                =
+                [
+                (
+                0
+                ,
+                0
+                )
+                ]
+              
+              
+                =
+                [
+                (
+                1
+                ,
+                1
+                )
+                ]
+              
+              
+                
+                =
+                ⋯
+              
+              
+              
+                
+                =
+                [
+                (
+                k
+                ,
+                k
+                )
+                ]
+              
+            
+            
+              
+                1
+              
+              
+                
+                =
+                [
+                (
+                1
+                ,
+                0
+                )
+                ]
+              
+              
+                =
+                [
+                (
+                2
+                ,
+                1
+                )
+                ]
+              
+              
+                
+                =
+                ⋯
+              
+              
+              
+                
+                =
+                [
+                (
+                k
+                +
+                1
+                ,
+                k
+                )
+                ]
+              
+            
+            
+              
+                −
+                1
+              
+              
+                
+                =
+                [
+                (
+                0
+                ,
+                1
+                )
+                ]
+              
+              
+                =
+                [
+                (
+                1
+                ,
+                2
+                )
+                ]
+              
+              
+                
+                =
+                ⋯
+              
+              
+              
+                
+                =
+                [
+                (
+                k
+                ,
+                k
+                +
+                1
+                )
+                ]
+              
+            
+            
+              
+                2
+              
+              
+                
+                =
+                [
+                (
+                2
+                ,
+                0
+                )
+                ]
+              
+              
+                =
+                [
+                (
+                3
+                ,
+                1
+                )
+                ]
+              
+              
+                
+                =
+                ⋯
+              
+              
+              
+                
+                =
+                [
+                (
+                k
+                +
+                2
+                ,
+                k
+                )
+                ]
+              
+            
+            
+              
+                −
+                2
+              
+              
+                
+                =
+                [
+                (
+                0
+                ,
+                2
+                )
+                ]
+              
+              
+                =
+                [
+                (
+                1
+                ,
+                3
+                )
+                ]
+              
+              
+                
+                =
+                ⋯
+              
+              
+              
+                
+                =
+                [
+                (
+                k
+                ,
+                k
+                +
+                2
+                )
+                ]
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}0&=[(0,0)]&=[(1,1)]&=\cdots &&=[(k,k)]\\1&=[(1,0)]&=[(2,1)]&=\cdots &&=[(k+1,k)]\\-1&=[(0,1)]&=[(1,2)]&=\cdots &&=[(k,k+1)]\\2&=[(2,0)]&=[(3,1)]&=\cdots &&=[(k+2,k)]\\-2&=[(0,2)]&=[(1,3)]&=\cdots &&=[(k,k+2)].\end{aligned}}}
+  
+
+
+=== Other approaches ===
+In theoretical computer science, other approaches for the construction of integers are used by automated theorem provers and term rewrite engines.
+Integers are represented as algebraic terms built using a few basic operations (e.g.,  zero, succ, pred) and, possibly, using natural numbers, which are assumed to be already constructed (using, say, the Peano approach).
+There exist at least ten such constructions of signed integers. These constructions differ in several ways: the number of basic operations used for the construction, the number (usually, between 0 and 2) and the types of arguments accepted by these operations; the presence or absence of natural numbers as arguments of some of these operations, and the fact that these operations are free constructors or not, i.e., that the same integer can be represented using only one or many algebraic terms.
+The technique for the construction of integers presented in the previous section corresponds to the particular case where there is a single basic operation pair
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle (x,y)}
+   that takes as arguments two natural numbers 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  , and returns an integer (equal to 
+  
+    
+      
+        x
+        −
+        y
+      
+    
+    {\displaystyle x-y}
+  ). This operation is not free since the integer 0 can be written pair(0,0), or pair(1,1), or pair(2,2), etc. This technique of construction is used by the proof assistant Isabelle; however, many other tools use alternative construction techniques, notable those based upon free constructors, which are simpler and can be implemented more efficiently in computers.
+
+
+== Computer science ==
+
+An integer is often a primitive data type in computer languages. However, integer data types can only represent a subset of all integers, since practical computers are of finite capacity. Also, in the common two's complement representation, the inherent definition of sign distinguishes between "negative" and "non-negative" rather than "negative, positive, and 0". (It is, however, certainly possible for a computer to determine whether an integer value is truly positive.) Fixed length integer approximation data types (or subsets) are denoted int or Integer in several programming languages (such as Algol68, C, Java, Delphi, etc.).
+Variable-length representations of integers, such as bignums, can store any integer that fits in the computer's memory. Other integer data types are implemented with a fixed size, usually a number of bits which is a power of 2 (4, 8, 16, etc.) or a memorable number of decimal digits (e.g., 9 or 10).
+
+
+== Cardinality ==
+The cardinality of the set of integers is equal to ℵ0 (aleph-null). This is readily demonstrated by the construction of a bijection, that is, a function that is injective and surjective from 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   to 
+  
+    
+      
+        
+          N
+        
+        =
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        .
+        .
+        .
+        }
+        .
+      
+    
+    {\displaystyle \mathbb {N} =\{0,1,2,...\}.}
+   Such a function may be defined as
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  −
+                  2
+                  x
+                  ,
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  x
+                  ≤
+                  0
+                
+              
+              
+                
+                  2
+                  x
+                  −
+                  1
+                  ,
+                
+                
+                  
+                    
+                      if 
+                    
+                  
+                  x
+                  >
+                  0
+                  ,
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle f(x)={\begin{cases}-2x,&{\mbox{if }}x\leq 0\\2x-1,&{\mbox{if }}x>0,\end{cases}}}
+  with graph (set of the pairs 
+  
+    
+      
+        (
+        x
+        ,
+        f
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle (x,f(x))}
+   is
+
+{... (−4,8), (−3,6), (−2,4), (−1,2), (0,0), (1,1), (2,3), (3,5), ...}.Its inverse function is defined by
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  g
+                  (
+                  2
+                  x
+                  )
+                  =
+                  −
+                  x
+                
+              
+              
+                
+                  g
+                  (
+                  2
+                  x
+                  −
+                  1
+                  )
+                  =
+                  x
+                  ,
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}g(2x)=-x\\g(2x-1)=x,\end{cases}}}
+  with graph
+
+{(0, 0), (1, 1), (2, −1), (3, 2), (4, −2), (5, −3), ...}.
+
+
+== See also ==
+
+Canonical factorization of a positive integer
+Hyperinteger
+Integer complexity
+Integer lattice
+Integer part
+Integer sequence
+Integer-valued function
+Mathematical symbols
+Parity (mathematics)
+Profinite integer
+
+
+== Footnotes ==
+
+
+== References ==
+
+
+== Sources ==
+
+
+== External links ==
+
+"Integer", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+The Positive Integers – divisor tables and numeral representation tools
+On-Line Encyclopedia of Integer Sequences cf OEIS
+Weisstein, Eric W. "Integer". MathWorld.This article incorporates material from Integer on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.
+

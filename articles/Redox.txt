@@ -1,0 +1,187 @@
+####### TITLE #######
+
+Redox
+
+####### LINKS #######
+
+['Acetoacetate', 'Activated complex', 'Activation energy', 'Addition reaction', 'Adenosine triphosphate', 'Alcohol (chemistry)', 'Alcohols', 'Aldehyde', 'Alkene', 'Aluminium', 'Ammonia', 'Anaerobic respiration', 'Anode', 'Antioxidant', 'Antoine Lavoisier', 'Aromaticity', 'Arrhenius equation', 'Arrow pushing', 'Ascorbic acid', 'Automotive', 'Bessemer process', 'Beta-hydroxybutyrate', 'Biology', 'Bioremediation', 'Blast furnace', 'Bromine', 'Cage effect', 'Calvin cycle', 'Carbon', 'Carbon dioxide', 'Carbon monoxide', 'Carbonyl', 'Carboxylic acid', 'Catalysis', 'Cathode', 'Cathodic protection', 'Cellular respiration', 'Charge transfer complex', 'Chemical equation', 'Chemical kinetics', 'Chemical looping combustion', 'Chemical reaction', 'Chemical species', 'Chlorine', 'Chrome plating', 'Chromium trioxide', 'Citric acid cycle', 'CoRR hypothesis', 'Coenzyme', 'Collision theory', 'Combustion', 'Copper', 'Copper(II) sulfate', 'Corrosion', 'Cutlery', 'Cycloaddition', 'Dehydroascorbic acid', 'Denitrification', 'Deprotonation', 'Dichromate', 'Diffusion-controlled reaction', 'Disproportionation', 'Doi (identifier)', 'E1 elimination', 'E1cB-elimination reaction', 'E2 elimination', 'Ei mechanism', 'Electrochemical cell', 'Electrochemical series', 'Electrochemistry', 'Electrode', 'Electrode potential', 'Electrolysis', 'Electrolytic cell', 'Electron', 'Electron acceptor', 'Electron configuration', 'Electron donor', 'Electron equivalent', 'Electron transfer', 'Electron transport chain', 'Electronegativity', 'Electrophilic addition', 'Electrophilic aromatic substitution', 'Electrophilic substitution', 'Electroplating', 'Electropositive', 'Electrosynthesis', 'Elementary reaction', 'Elimination reaction', 'Energy', 'Energy profile (chemistry)', 'Enzyme', 'Equilibrium constant', 'Exothermic', 'Eyring equation', 'Fluoride', 'Fluorine', 'Food browning', 'Free-radical addition', 'Free radical', 'Fuel cell', 'Futile cycle', 'GHS hazard pictograms', 'Galvanic cell', 'Galvanization', 'Globally Harmonized System of Classification and Labeling of Chemicals', 'Glucose', 'Glutathione', 'Glycerol', 'Gold-plated', 'Grotthuss mechanism', 'Half-reaction', 'Harpoon reaction', 'Hdl (identifier)', 'Homeostasis', 'Hydrocarbon', 'Hydrofluoric acid', 'Hydrogen', 'Hydrogen anion', 'Hydrogen ion', 'Hydrogen peroxide', 'Hydrogenation', 'Hypoxia (medical)', 'ISBN (identifier)', 'IUPAC', 'Inner sphere electron transfer', 'Internal combustion engine', 'Intramolecular reaction', 'Iron', 'Iron(III) oxide', 'Iron(III) oxide-hydroxide', 'Iron oxide', 'Isomerization', 'Jewelry', 'John Bockris', 'Ketone', 'LCCN (identifier)', 'Lactic acid', 'Lindemann–Hinshelwood mechanism', 'List of chemistry mnemonics', 'Lithium', 'Lithium aluminium hydride', 'Magnesium', 'Magnetite', 'Marcus theory', 'Matrix isolation', 'Membrane potential', 'Metal', 'Metal oxide', 'Michaelis–Menten kinetics', 'Microbial fuel cell', 'Mitochondria', 'Mnemonics', 'Molecularity', 'Murburn concept', 'Nicotinamide adenine dinucleotide', 'Nicotinamide adenine dinucleotide phosphate', 'Nitrate', 'Nitric acid', 'Nitrogen', 'Nucleophilic abstraction', 'Nucleophilic acyl substitution', 'Nucleophilic addition', 'Nucleophilic aromatic substitution', 'Nucleophilic substitution', 'OCLC (identifier)', 'Oil rig', 'Online Etymology Dictionary', 'Ore', 'Organic chemistry', 'Organic redox reaction', 'Osmium(VIII) oxide', 'Outer sphere electron transfer', 'Oxidation state', 'Oxidative addition', 'Oxidative phosphorylation', 'Oxidizing agent', 'Oxygen', 'Partial oxidation', 'Permanganate', 'Peroxide', 'Photodissociation', 'Photon', 'Photosynthesis', 'Plating', 'Portmanteau', 'Potassium permanganate', 'Potential energy surface', 'Pro-oxidant', 'Proton gradient', 'Protonation', 'Pyrite', 'Pyruvate', 'RRKM theory', 'Radical (chemistry)', 'Rate-determining step', 'Rate equation', 'Reaction coordinate', 'Reaction dynamics', 'Reaction mechanism', 'Reactive intermediate', 'Redox (disambiguation)', 'Redox gradient', 'Redox potential', 'Reducing agent', 'Reducing atmosphere', 'Reduction potential', 'Rust', 'Rusting', 'Rutile', 'S2CID (identifier)', 'SN1 reaction', 'SN2 reaction', 'SNi', 'Sacrificial anode', 'Sepsis', 'Shock (circulatory)', 'Smelting', 'Sodium', 'Sodium borohydride', 'Sodium fluoride', 'Solvent effects', 'Standard hydrogen electrode', 'Standard state', 'Stereochemistry', 'Substrate (chemistry)', 'Sugar', 'Sulfur cycle', 'Sulfur dioxide', 'Superoxide', 'Thiosulfate', 'Transition state theory', 'Transmetalation', 'Třinec Iron and Steel Works', "Ullmann's Encyclopedia of Industrial Chemistry", 'Vitamin C', 'Voltage', 'Water', 'Water (molecule)', 'Zinc']
+
+####### CATEGORIES #######
+
+['All Wikipedia articles written in American English', 'All articles with unsourced statements', 'Articles containing video clips', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Articles with unsourced statements from January 2021', 'Chemical reactions', 'Commons category link is on Wikidata', 'Reaction mechanisms', 'Redox', 'Short description is different from Wikidata', 'Soil chemistry', 'Use American English from November 2020', 'Use mdy dates from November 2020']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/2/20/16._%D0%A0%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%98%D0%B0_%D0%BC%D0%B5%D1%93%D1%83_%D1%81%D0%B8%D0%BB%D0%BD%D0%BE_%D0%BE%D0%BA%D1%81%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BE_%D0%B8_%D1%80%D0%B5%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BE_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE.webm', 'https://upload.wikimedia.org/wikipedia/commons/5/57/Ascorbic_acid_structure.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Dehydroascorbic_acid_2.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/51/Extremely_overripe_banana.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e5/GHS-pictogram-rondflam.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6d/Galvanic_cell_with_no_cation_flow.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a8/NaF.gif', 'https://upload.wikimedia.org/wikipedia/commons/e/e1/PyOx.JPG', 'https://upload.wikimedia.org/wikipedia/commons/1/19/Redox_example.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Redox_reaction.png', 'https://upload.wikimedia.org/wikipedia/commons/4/4d/Rust_screw.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/f4/VysokePece1.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg']
+
+####### REFERENCES #######
+
+['http://www.berkeleychurchill.com/software/chembal.php', 'http://www.wiley.com/college/boyer/0470003790/reviews/redox/redox.htm', 'http://lccn.loc.gov/2001032331', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007555741305171', 'http://hdl.handle.net/10013%2Fepic.31694.d001', 'http://doi.org/10.1002%2F14356007.a14_461.pub2', 'http://doi.org/10.1016%2FS0065-2113(08)60633-1', 'http://doi.org/10.1021%2Fbk-2011-1071', 'http://doi.org/10.1515%2F9783110589771-005', 'http://doi.org/10.1515%2Fpac-2018-0109', 'http://www.shodor.org/UNChem/advanced/redox/redoxcalc.html', 'http://www.webqc.org/balance.php', 'http://www.worldcat.org/oclc/46872308', 'http://www.worldcat.org/oclc/986827885', 'http://www.chemguide.co.uk/inorganic/redox/definitions.html#top', 'https://www.degruyter.com/document/doi/10.1515/9783110589771-005', 'https://www.etymonline.com/?term=redox', 'https://link.gale.com/apps/doc/CV2644031629/SCIC?u=dc_demo&sid=SCIC&xid=baa9fde9', 'https://books.google.com/books?id=IdhYqXy37KIC&pg=PA160', 'https://www.google.com/books/edition/_/0xzlBwAAQBAJ?hl=en&gbpv=1&pg=PA494', 'https://www.google.com/books/edition/_/g_ybia0hGw8C?hl=en&gbpv=1&pg=PA330', 'https://www.google.com/books/edition/_/hIzuarlXtH4C?hl=en&gbpv=1&pg=PA82', 'https://en.oxforddictionaries.com/definition/redox', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph561417&CON_LNG=ENG', 'https://catalogue.bnf.fr/ark:/12148/cb119794566', 'https://data.bnf.fr/ark:/12148/cb119794566', 'https://id.loc.gov/authorities/subjects/sh85096311', 'https://d-nb.info/gnd/4177303-2', 'https://id.ndl.go.jp/auth/ndlna/00570151', 'https://archive.org/details/generalchemistry00hill', 'https://archive.org/details/generalchemistry00hill/page/832', 'https://archive.org/details/oxidationsinorga00hudl/page/456', 'https://web.archive.org/web/20120530081215/http://www.wiley.com/college/boyer/0470003790/reviews/redox/redox.htm', 'https://web.archive.org/web/20171001031248/https://en.oxforddictionaries.com/definition/redox', 'https://goldbook.iupac.org/terms/view/R05222', 'https://api.semanticscholar.org/CorpusID:242013948', 'https://www.wikidata.org/wiki/Q82682#identifiers', 'https://www.bbc.co.uk/bitesize/guides/zx2bh39/revision/5']
+
+####### SUMMARY #######
+
+Redox (reduction–oxidation,  RED-oks,  REE-doks) is a type of chemical reaction in which the oxidation states of substrate change.
+Oxidation is the loss of electrons or an increase in the oxidation state of a chemical or atoms within it.
+Reduction is the gain of electrons or a decrease in the oxidation state of a chemical or atoms within it.There are two classes of redox reactions: 
+
+electron-transfer where only one (usually) electron flows from the reducing agent to the oxidant. This type of redox reaction is often discussed in term of redox couples and electrode potentials.
+atom transfer, where an atom transfers from one substrate to another.  For example, in the rusting of iron, the oxidation state of iron atoms increases as it converts to an oxide and simultaneously the oxidation state of oxygen decreases as it accepts electrons released by iron.  Although oxidation reactions are commonly associated with the formation of oxides, other chemical species can serve the same function. In hydrogenation, C=C (and other) bonds are reduced by transfer of hydrogen atoms.
+
+####### CONTENT #######
+
+Redox (reduction–oxidation,  RED-oks,  REE-doks) is a type of chemical reaction in which the oxidation states of substrate change.
+Oxidation is the loss of electrons or an increase in the oxidation state of a chemical or atoms within it.
+Reduction is the gain of electrons or a decrease in the oxidation state of a chemical or atoms within it.There are two classes of redox reactions: 
+
+electron-transfer where only one (usually) electron flows from the reducing agent to the oxidant. This type of redox reaction is often discussed in term of redox couples and electrode potentials.
+atom transfer, where an atom transfers from one substrate to another.  For example, in the rusting of iron, the oxidation state of iron atoms increases as it converts to an oxide and simultaneously the oxidation state of oxygen decreases as it accepts electrons released by iron.  Although oxidation reactions are commonly associated with the formation of oxides, other chemical species can serve the same function. In hydrogenation, C=C (and other) bonds are reduced by transfer of hydrogen atoms.
+
+
+== Terminology ==
+"Redox" is a combination of the words "reduction" and "oxidation". The term "redox" was first used in 1928. The processes of oxidation and reduction occur simultaneously and cannot occur independently. In redox processes, the reductant transfers electrons to the oxidant. Thus, in the reaction, the reductant or reducing agent loses electrons and is oxidized, and the oxidant or oxidizing agent gains electrons and is reduced. The pair of an oxidizing and reducing agent that is involved in a particular reaction is called a redox pair. A redox couple is a reducing species and its corresponding oxidizing form, e.g., Fe2+/ Fe3+.The oxidation alone and the reduction alone are each called a half-reaction because two half-reactions always occur together to form a whole reaction.
+
+
+=== Oxidants ===
+Oxidation originally implied reaction with oxygen to form an oxide. Later, the term was expanded to encompass oxygen-like substances that accomplished parallel chemical reactions. Ultimately, the meaning was generalized to include all processes involving the loss of electrons. Substances that have the ability to oxidize other substances (cause them to lose electrons) are said to be oxidative or oxidizing, and are known as oxidizing agents, oxidants, or oxidizers. The oxidant (oxidizing agent) removes electrons from another substance, and is thus itself reduced. And, because it "accepts" electrons, the oxidizing agent is also called an electron acceptor. Oxidants are usually chemical substances with elements in high oxidation states (e.g., H2O2, MnO−4, CrO3, Cr2O2−7, OsO4), or else highly electronegative elements (O2, F2, Cl2, Br2) that can gain extra electrons by oxidizing another substance.Oxidizers are oxidants but the term is mainly reserved for sources of oxygen, particularly in the context of explosions.  Nitric acid is an oxidizer. 
+
+ Oxygen is the quintessential oxidizer.
+
+
+=== Reducers ===
+
+Substances that have the ability to reduce other substances (cause them to gain electrons) are said to be reductive or reducing and are known as reducing agents, reductants, or reducers. The reductant (reducing agent) transfers electrons to another substance and is thus itself oxidized. And, because it donates electrons, the reducing agent is also called an electron donor. Electron donors can also form charge transfer complexes with electron acceptors. The word reduction originally referred to the loss in weight upon heating a metallic ore such as a metal oxide to extract the metal. In other words, ore was "reduced" to metal. Antoine Lavoisier demonstrated that this loss of weight was due to the loss of oxygen as a gas. Later, scientists realized that the metal atom gains electrons in this process. The meaning of reduction then became generalized to include all processes involving a gain of electrons.  Reducing equivalent refers to chemical species which transfer the equivalent of one electron in redox reactions.  The term is common in biochemistry.  A reducing equivalent can be an electron, a hydrogen atom, as a hydride ion.Reductants in chemistry are very diverse. Electropositive elemental metals, such as lithium, sodium, magnesium, iron, zinc, and aluminium, are good reducing agents. These metals donate or give away electrons relatively readily. They transfer electrons.
+Hydride transfer reagents, such as NaBH4 and LiAlH4, reduce by atom transfer: they transfer the equivalent of hydride or H−. These reagents widely used in [the reduction of carbonyl compounds to alcohols.  A related method of reduction involves the use of hydrogen gas (H2) as sources of H atoms.
+
+
+=== Electronation and deelectronation ===
+The electrochemist John Bockris proposed the words electronation and deelectronation to describe reduction and oxidation processes, respectively, when they occur at electrodes. These words are analogous to protonation and deprotonation. They have not been widely adopted by chemists worldwide, although IUPAC has recognized the term electronation.
+
+
+== Rates, mechanisms, and energies ==
+Redox reactions can occur slowly, as in the formation of rust, or rapidly, as in the case of burning fuel.  Electron transfer reactions are generally fast, occurring within the time of mixing.
+The mechanisms of atom-transfer reactions are highly variable because many kinds of atoms can be transferred.  Such reactions can also be quite complex, i.e. involve many steps.  The mechanisms of electron-transfer reactions occur by two distinct pathways, inner sphere electron transfer and outer sphere electron transfer.
+Analysis of bond energies and ionization energies in water allow calculation of the thermodynamic aspects of redox reactions.
+
+
+== Standard electrode potentials (reduction potentials) ==
+Each half-reaction has a standard electrode potential (Eocell), which is equal to the potential difference or voltage at equilibrium under standard conditions of an electrochemical cell in which the cathode reaction is the half-reaction considered, and the anode is a standard hydrogen electrode where hydrogen is oxidized:
+
+1⁄2 H2 → H+ + e−The electrode potential of each half-reaction is also known as its reduction potential Eored, or potential when the half-reaction takes place at a cathode. The reduction potential is a measure of the tendency of the oxidizing agent to be reduced. Its value is zero for H+ + e− → 1⁄2 H2 by definition, positive for oxidizing agents stronger than H+ (e.g., +2.866 V for F2) and negative for oxidizing agents that are weaker than H+ (e.g., −0.763 V for Zn2+).For a redox reaction that takes place in a cell, the potential difference is:
+
+Eocell = Eocathode – EoanodeHowever, the potential of the reaction at the anode is sometimes expressed as an oxidation potential:
+
+Eoox = –EoredThe oxidation potential is a measure of the tendency of the reducing agent to be oxidized but does not represent the physical potential at an electrode. With this notation, the cell voltage equation is written with a plus sign
+
+Eocell = Eored(cathode) + Eoox(anode)
+
+
+== Examples of redox reactions ==
+
+In the reaction between hydrogen and fluorine, hydrogen is being oxidized and fluorine is being reduced:
+
+H2 + F2  →  2 HFThis reaction is spontaneous and releases 542 kJ per 2 g of hydrogen because the H-F bond is much stronger than the F-F bond. This reaction can be analyzed as two half-reactions. The oxidation reaction converts hydrogen to protons:
+
+H2  →  2 H+ + 2 e−The reduction reaction converts fluorine to the fluoride anion:
+
+F2 + 2 e−  →  2 F−The half reactions are combined so that the electrons cancel:
+
+The protons and fluoride combine to form hydrogen fluoride in a non-redox reaction:
+
+2 H+ + 2 F− → 2 HFThe overall reaction is:
+
+H2 + F2  →  2 HF
+
+
+=== Metal displacement ===
+
+In this type of reaction, a metal atom in a compound (or in a solution) is replaced by an atom of another metal. For example, copper is deposited when zinc metal is placed in a copper(II) sulfate solution:
+
+Zn (s) + CuSO4 (aq)  →  ZnSO4 (aq) + Cu (s)In the above reaction, zinc metal displaces the copper(II) ion from copper sulfate solution and thus liberates free copper metal. The reaction is spontaneous and releases 213 kJ per 65 g of zinc.
+The ionic equation for this reaction is:
+
+Zn + Cu2+  →  Zn2+ + CuAs two half-reactions, it is seen that the zinc is oxidized:
+
+Zn  →  Zn2+ + 2 e−And the copper is reduced:
+
+Cu2+ + 2 e−  →  Cu
+
+
+=== Other examples ===
+The reduction of nitrate to nitrogen in the presence of an acid (denitrification):2 NO−3 + 10 e− + 12 H+  →  N2 + 6 H2OThe combustion of hydrocarbons, such as in an internal combustion engine, produces water, carbon dioxide, some partially oxidized forms such as carbon monoxide, and heat energy. Complete oxidation of materials containing carbon produces carbon dioxide.
+The stepwise oxidation of a hydrocarbon by oxygen, in organic chemistry, produces water and, successively: an alcohol, an aldehyde or a ketone, a carboxylic acid, and then a peroxide.
+
+
+=== Corrosion and rusting ===
+
+The term corrosion refers to the electrochemical oxidation of metals in reaction with an oxidant such as oxygen. Rusting, the formation of iron oxides, is a well-known example of electrochemical corrosion; it forms as a result of the oxidation of iron metal. Common rust often refers to iron(III) oxide, formed in the following chemical reaction:4 Fe + 3 O2  →  2 Fe2O3The oxidation of iron(II) to iron(III) by hydrogen peroxide in the presence of an acid:Fe2+  →  Fe3+ + e−
+H2O2 + 2 e−  →  2 OH−
+Here the overall equation involves adding the reduction equation to twice the oxidation equation, so that the electrons cancel:
+2 Fe2+ + H2O2 + 2 H+  →  2 Fe3+ + 2 H2O
+
+
+=== Disproportionation ===
+A disproportionation reaction is one in which a single substance is both oxidized and reduced. For example, thiosulfate ion with sulfur in oxidation state +2 can react in the presence of acid to form elemental sulfur (oxidation state 0) and sulfur dioxide (oxidation state +4).
+
+S2O2−3 + 2 H+  →  S + SO2 + H2OThus one sulfur atom is reduced from +2 to 0, while the other is oxidized from +2 to +4.
+
+
+== Redox reactions in industry ==
+Cathodic protection is a technique used to control the corrosion of a metal surface by making it the cathode of an electrochemical cell. A simple method of protection connects protected metal to a more easily corroded "sacrificial anode" to act as the anode. The sacrificial metal instead of the protected metal, then, corrodes. A common application of cathodic protection is in galvanized steel, in which a sacrificial coating of zinc on steel parts protects them from rust.Oxidation is used in a wide variety of industries such as in the production of cleaning products and oxidizing ammonia to produce nitric acid.
+Redox reactions are the foundation of electrochemical cells, which can generate electrical energy or support electrosynthesis. Metal ores often contain metals in oxidized states such as oxides or sulfides, from which the pure metals are extracted by smelting at high temperature in the presence of a reducing agent. The process of electroplating uses redox reactions to coat objects with a thin layer of a material, as in chrome-plated automotive parts, silver plating cutlery, galvanization and gold-plated jewelry.
+
+
+== Redox reactions in biology ==
+
+Many important biological processes involve redox reactions. Before some of these processes can begin iron must be assimilated from the environment.Cellular respiration, for instance, is the oxidation of glucose (C6H12O6) to CO2 and the reduction of oxygen to water. The summary equation for cell respiration is:
+
+C6H12O6 + 6 O2  →  6 CO2 + 6 H2OThe process of cell respiration also depends heavily on the reduction of NAD+ to NADH and the reverse reaction (the oxidation of NADH to NAD+). Photosynthesis and cellular respiration are complementary, but photosynthesis is not the reverse of the redox reaction in cell respiration:
+
+6 CO2 + 6 H2O + light energy  →  C6H12O6 + 6 O2Biological energy is frequently stored and released by means of redox reactions. Photosynthesis involves the reduction of carbon dioxide into sugars and the oxidation of water into molecular oxygen. The reverse reaction, respiration, oxidizes sugars to produce carbon dioxide and water. As intermediate steps, the reduced carbon compounds are used to reduce nicotinamide adenine dinucleotide (NAD+) to NADH, which then contributes to the creation of a proton gradient, which drives the synthesis of adenosine triphosphate (ATP) and is maintained by the reduction of oxygen.
+In animal cells, mitochondria perform similar functions. See the Membrane potential article.
+Free radical reactions are redox reactions that occur as a part of homeostasis and killing microorganisms, where an electron detaches from a molecule and then reattaches almost instantaneously. Free radicals are a part of redox molecules and can become harmful to the human body if they do not reattach to the redox molecule or an antioxidant. Unsatisfied free radicals can spur the mutation of cells they encounter and are, thus, causes of cancer.
+The term redox state is often used to describe the balance of GSH/GSSG, NAD+/NADH and NADP+/NADPH in a biological system such as a cell or organ. The redox state is reflected in the balance of several sets of metabolites (e.g., lactate and pyruvate, beta-hydroxybutyrate, and acetoacetate), whose interconversion is dependent on these ratios. An abnormal redox state can develop in a variety of deleterious situations, such as hypoxia, shock, and sepsis. Redox mechanism also control some cellular processes. Redox proteins and their genes must be co-located for redox regulation according to the CoRR hypothesis for the function of DNA in mitochondria and chloroplasts.
+
+
+=== Redox cycling ===
+Wide varieties of aromatic compounds are enzymatically reduced to form free radicals that contain one more electron than their parent compounds. In general, the electron donor is any of a wide variety of flavoenzymes and their coenzymes. Once formed, these anion free radicals reduce molecular oxygen to superoxide and regenerate the unchanged parent compound. The net reaction is the oxidation of the flavoenzyme's coenzymes and the reduction of molecular oxygen to form superoxide. This catalytic behavior has been described as a futile cycle or redox cycling.
+
+
+== Redox reactions in geology ==
+
+Minerals are generally oxidized derivatives of metals.  Iron is mined as its magnetite (Fe3O4).  Titanium is mined as its dioxide, usually in the form of rutile (TiO2).  To obtain the corresponding metals, these oxides must be reduced, which is often achieved by heating these oxides with carbon or carbon monoxide as reducing agents.  Blast furnaces are the reactors where iron oxides and coke (a form of carbon) are combined to produce molten iron.The main chemical reaction producing the molten iron is:
+Fe2O3 + 3 CO  →  2 Fe + 3 CO2
+
+
+== Redox reactions in soils ==
+Electron transfer reactions are central to myriad processes and properties in soils, and electron "activity", quantified as Eh (platinum electrode potential (voltage) relative to the standard hydrogen electrode) or pe (analogous to pH as -log electron activity), is a master variable, along with pH, that controls and is governed by chemical reactions and biological processes. Early theoretical research with applications to flooded soils and paddy rice production was seminal for subsequent work on thermodynamic aspects of redox and plant root growth in soils. Later work built on this foundation, and expanded it for understanding redox reactions related to heavy metal oxidation state changes, pedogenesis and morphology, organic compound degradation and formation, free radical chemistry, wetland delineation, soil remediation, and various methodological approaches for characterizing the redox status of soils.
+
+
+== Mnemonics ==
+
+The key terms involved in redox can be confusing. For example, a reagent that is oxidized loses electrons; however, that reagent is referred to as the reducing agent. Likewise, a reagent that is reduced gains electrons and is referred to as the oxidizing agent. These mnemonics are commonly used by students to help memorise the terminology:
+"OIL RIG" — oxidation is loss of electrons, reduction is gain of electrons
+"LEO the lion says GER [grr]" — loss of electrons is oxidation, gain of electrons is reduction
+"LEORA says GEROA" — the loss of electrons is called oxidation (reducing agent); the gain of electrons is called reduction (oxidizing agent).
+"RED CAT" and "AN OX", or "AnOx RedCat" ("an ox-red cat") — reduction occurs at the cathode and the anode is for oxidation
+"RED CAT gains what AN OX loses" – reduction at the cathode gains (electrons) what anode oxidation loses (electrons)
+"PANIC" – Positive Anode and Negative is Cathode. This applies to electrolytic cells which release stored electricity, and can be recharged with electricity. PANIC does not apply to cells that can be recharged with redox materials. These galvanic or voltaic cells, such as fuel cells, produce electricity from internal redox reactions. Here, the positive electrode is the cathode and the negative is the anode.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Schüring, J.; Schulz, H. D.; Fischer, W. R.; Böttcher, J.; Duijnisveld, W. H., eds. (1999). Redox: Fundamentals, Processes and Applications. Heidelberg: Springer-Verlag. p. 246. hdl:10013/epic.31694.d001. ISBN 978-3-540-66528-1.
+Tratnyek, Paul G.; Grundl, Timothy J.; Haderlein, Stefan B., eds. (2011). Aquatic Redox Chemistry. ACS Symposium Series. Vol. 1071. doi:10.1021/bk-2011-1071. ISBN 978-0-8412-2652-4.
+
+
+== External links ==
+
+Chemical Equation Balancer – An open-source chemical equation balancer that handles redox reactions.
+Redox reactions calculator
+Redox reactions at Chemguide
+Online redox reaction equation balancer, balances equations of any half-cell and full reactions
+

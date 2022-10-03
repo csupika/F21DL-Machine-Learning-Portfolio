@@ -1,0 +1,478 @@
+####### TITLE #######
+
+Mathematical analysis
+
+####### LINKS #######
+
+['(ε, δ)-definition of limit', 'A History of Vector Analysis', 'Abstract algebra', 'Addison–Wesley', 'Adequality', 'Aleksandr Danilovich Aleksandrov', 'Aleksandr Khinchin', 'Aleksei Georgievich Postnikov', 'Algebra', 'Algebra of physical space', 'Algebraic geometry', 'Algebraic number theory', 'Algebraic structures', 'Algebraic topology', 'Algorithm', 'Algorithm design', 'Amazon Standard Identification Number', 'American Mathematical Society', 'Analysis of algorithms', 'Analytic combinatorics', 'Analytic function', 'Analytic geometry', 'Analytic number theory', 'Analytical mechanics', "Anatoly Ivanovich Mal'cev", 'Andrey Kolmogorov', 'Andrey Nikolaevich Kolmogorov', 'Applied mathematics', 'Approximation', 'Approximation theory', 'Archimedes', 'Area', 'Areas of mathematics', 'Arithmetic', 'Arithmetic geometry', 'Arithmetic series', 'Arithmetization of analysis', 'At the University Press', 'Augustin Louis Cauchy', 'Automata theory', 'Axiom of choice', 'Baire category theorem', 'Bernard Bolzano', 'Bernhard Riemann', 'Bhadrabahu', 'Bhāskara II', 'Bibcode (identifier)', 'Biology', 'Boris Demidovich', 'Boris Nikolaevich Delaunay', 'Bosonic string theory', 'Calculus', 'Calculus of variations', 'Cambridge University Press', 'Camille Jordan', 'Cartesian coordinate system', 'Category theory', 'Cauchy sequence', "Cavalieri's principle", 'Celestial mechanics', 'Chaos theory', 'Chinese mathematics', 'Choice sequence', 'Classical field theory', 'Classical mechanics', 'Classification of discontinuities', 'Clifford algebra', 'Clifford analysis', 'Coding theory', 'Combinatorics', 'Commutative algebra', 'Complement (set theory)', 'Complete metric space', 'Complex analysis', 'Complex number', 'Complex numbers', 'Complex plane', 'Computability theory', 'Computable analysis', 'Computational biology', 'Computational complexity theory', 'Computational linguistics', 'Computational mathematics', 'Computational number theory', 'Computational science', 'Computer algebra', 'Computer science', 'Conformal field theory', 'Constructive analysis', 'Constructive logic', 'Continuous function', 'Continuous probability', 'Continuum (set theory)', 'Control theory', 'Convex analysis', 'Countable', 'Countably', 'Counting measure', 'Creative Commons', 'Cryptography', 'David Eugene Smith', 'David Hilbert', 'Decimal expansion', 'Decision theory', 'Dedekind cut', 'Derivative', 'Descartes', 'Deterministic system (mathematics)', 'Differentiable manifolds', 'Differential entropy', 'Differential equation', 'Differential equations', 'Differential form', 'Differential game', 'Differential geometry', 'Differential topology', 'Diophantine geometry', 'Discrete geometry', 'Discrete mathematics', 'Distance', 'Dmitry Konstantinovich Faddeev', 'Doi (identifier)', 'Dover Publications', 'Dynamical system', 'EDP Sciences', 'Economics', 'Edmund Taylor Whittaker', 'Edwin Hewitt', 'Effective field theory', 'Einstein field equations', 'Electrical engineering', 'Element (mathematics)', 'Elementary algebra', 'Elias M. Stein', 'Empty set', 'Encyclopaedia of Mathematics', 'Engineering', 'Engineering mathematics', 'Equation', 'Equations of motion', 'Euclidean geometry', 'Euclidean space', 'Eudoxus of Cnidus', 'Extended real number line', 'Exterior algebra', 'Exterior calculus', 'Fermat', 'Field theory (physics)', 'Finite geometry', 'Foundations of mathematics', 'Fourier analysis', 'Fourier series', 'Fourier transform', 'Francis B. Hildebrand', 'Function (mathematics)', 'Function space', 'Functional (mathematics)', 'Functional analysis', 'Functional integration', 'Fundamental theorem of calculus', 'Game theory', 'Gauge theory', 'Gauge theory (mathematics)', 'General topology', 'Generality of algebra', 'Generating function', 'Geometric algebra', 'Geometric analysis', 'Geometric calculus', 'Geometric series', 'Geometric topology', 'Geometry', 'Georg Cantor', 'George Neville Watson', 'George Pólya', 'Georgiy Shilov', 'Glossary of mathematical symbols', 'Gottfried Leibniz', 'Graph theory', 'Greek mathematics', 'Grigorii Fichtenholz', 'Group theory', 'Gábor Szegő', 'Hamiltonian mechanics', 'Harmonic analysis', 'Harmonic analysis (mathematics)', 'Hdl (identifier)', 'Henri Lebesgue', 'Hilbert space', 'History of calculus', 'History of mathematics', 'Homological algebra', 'Homotopy theory', 'Hydrodynamics', 'Hypercomplex analysis', 'Hyperreal number', 'ISBN (identifier)', 'Idempotent analysis', 'Idempotent semiring', 'Identity of indiscernibles', 'If and only if', 'Imaginary number', 'Indian mathematics', 'Infinite sequence', 'Infinitesimal', 'Infinitesimal calculus', 'Infinitesimals', 'Infinity', 'Informal mathematics', 'Information theory', 'Inner product space', 'Integer', 'Integral', 'Integral equation', 'Integral equations', 'International Council for Industrial and Applied Mathematics', 'Intersection (set theory)', 'Interval (mathematics)', 'Intuitionistic analysis', 'Inverse trigonometric functions', 'Isaac Newton', 'Isidor Natanson', "Israïl Moyseyovich Gel'fand", 'Ivan Georgievich Petrovsky', 'JSTOR (identifier)', 'Japan Society for Industrial and Applied Mathematics', 'John Bligh Conway', 'John Colin Stillwell', 'Jordan measure', 'Joseph Fourier', 'Joseph Liouville', 'Karl Weierstrass', 'Kenneth George Binmore', 'Kerala School of Astronomy and Mathematics', 'Kurt August Hirsch', 'LCCN (identifier)', 'La Géométrie', 'Lagrangian mechanics', "Laplace's equation", 'Lars Valerian Ahlfors', 'Lawrence Craig Evans', 'Least-squares spectral analysis', 'Lebesgue measure', 'Length', 'Leonhard Euler', 'Leonid Vitaliyevich Kantorovich', 'Liguori Editore', 'Limit (mathematics)', 'Limit of a function', 'Limit of a sequence', 'Linear algebra', 'Linear transformation', 'List of mathematics topics', 'Lists of integrals', 'Lists of mathematicians', 'Lists of mathematics topics', 'Liu Hui', 'Logic in computer science', 'M. Dekker', 'Madhava of Sangamagrama', 'Malliavin calculus', 'Manifold', 'Markov chain', 'Mathematical and theoretical biology', 'Mathematical chemistry', 'Mathematical economics', 'Mathematical finance', 'Mathematical logic', 'Mathematical object', 'Mathematical optimization', 'Mathematical physics', 'Mathematical psychology', 'Mathematical sociology', 'Mathematical statistics', 'Mathematics', 'Mathematics and art', 'Mathematics education', 'Matrix calculus', 'Max-plus algebra', 'McGraw-Hill', 'McGraw-Hill Science', 'Measure (mathematics)', 'Measure theory', 'Mechanical engineering', 'Meromorphic function', 'Method of exhaustion', 'Metric (mathematics)', 'Metric space', 'Michiel Hazewinkel', 'Mikhail Alekseevich Lavrentyev', 'Min-plus algebra', 'Mstislav Vsevolodovich Keldysh', 'Multilinear algebra', 'Multivariable calculus', 'Music theory', 'Naive set theory', 'Natural numbers', 'Neuroscience', "Newton's laws of motion", "Newton's second law", 'Nicola Fusco', 'Nikolai Piskunov', 'Non-measurable set', 'Non-standard analysis', 'Norm (mathematics)', 'Normed vector space', 'Nowhere continuous function', 'Number theory', 'Numerical analysis', 'Numerical linear algebra', 'Numerical methods for ordinary differential equations', 'Numerical methods for partial differential equations', 'Olga Aleksandrovna Ladyzhenskaya', 'Operations research', 'Operator algebra', 'Operator theory', 'Order theory', 'Ordered pair', 'Ordinary differential equation', 'Outline of mathematics', 'P-adic analysis', 'P-adic number', 'Paolo Marcellini', 'Paraconsistent analysis', 'Paraconsistent logic', 'Partial differential equation', 'Partial differential equations', 'Particle physics and representation theory', 'Path integral formulation', 'Pathological (mathematics)', 'Pavel Sergeyevich Alexandrov', 'Perturbation theory', 'Perturbation theory (quantum mechanics)', 'Philosophy of mathematics', 'Physics', 'Poisson algebra', 'Potential theory', 'Prentice-Hall', 'Probability', 'Probability distribution', 'Probability theory', 'Pure mathematics', 'Quantum field theory', 'Quantum group', 'Quantum mechanics', 'Quaternionic analysis', 'Radio wave', 'Random variable', 'Real analysis', 'Real line', 'Real number', 'Recreational mathematics', 'Regular polygon', 'Renormalization group', 'René-Louis Baire', 'Representation theory', 'Richard Dedekind', 'Richard Johnsonbaugh', 'Riemann integral', 'Rigour', 'Roger Cooke (mathematician)', "Rolle's theorem", 'S2CID (identifier)', 'Scalar (mathematics)', 'Schrödinger equation', 'Science', 'Scientific Revolution', 'Seismic waves', 'Sequence', 'Serge Lang', 'Sergei Fomin', 'Sergei Lvovich Sobolev', 'Sergey Alexeyevich Lebedev', 'Sergey Borisovich Stechkin', 'Sergey Mikhailovich Nikolsky', 'Sergey Nikolsky', 'Series (mathematics)', 'Set-valued analysis', 'Set (mathematics)', 'Set theory', 'Sigma-algebra', 'Signal', 'Signal processing', 'Simon Stevin', 'Siméon Denis Poisson', 'Smooth function', 'Smooth infinitesimal analysis', 'Social choice theory', 'Society for Industrial and Applied Mathematics', 'Société de Mathématiques Appliquées et Industrielles', 'Sound', 'Space-filling curve', 'Space (mathematics)', 'Spacetime algebra', 'Special functions', 'Sphere', 'Springer-Verlag', 'Springer Science+Business Media Inc.', 'Statistical field theory', 'Statistics', 'Stefan Banach', 'Stochastic calculus', 'Stochastic differential equation', 'Stochastic process', 'Stochastic processes', 'Strange attractor', 'String theory', 'Subset', 'Superalgebra', 'Superposition principle', 'Supersymmetric quantum mechanics', 'Supersymmetric theory of stochastic dynamics', 'Supersymmetry', 'Supersymmetry algebra', 'Symbolic computation', 'Systems science', 'Table of derivatives', 'Taylor series', 'Tensor', 'Tensor (mathematics)', 'Tensor calculus', 'Terence Tao', 'The M.I.T. Press', 'The Method of Mechanical Theorems', 'The Unreasonable Effectiveness of Mathematics in the Natural Sciences', 'Theorem', 'Theory of computation', 'Theory of relativity', 'Thermodynamics', 'Tidal analysis', 'Timeline of calculus and mathematical analysis', 'Timeline of mathematics', 'Tom M. Apostol', 'Topic outline of mathematics', 'Topological field theory', 'Topological space', 'Topological string theory', 'Topological vector space', 'Topology', 'Totally ordered', 'Triangle inequality', 'Trigonometric functions', 'Tropical analysis', 'Tropical semiring', 'Type theory', 'Union (set theory)', 'Unitary operator', 'Universal algebra', 'Validated numerics', 'Variable (mathematics)', 'Vector (mathematics)', 'Vector Analysis', 'Vector calculus', 'Vector space', 'Vladimir A. Zorich', 'Vladimir Smirnov (mathematician)', 'Volume', 'Walter Rudin', 'Wave', 'Wayback Machine', 'Weierstrass function', 'Whittaker and Watson', 'Witold Hurewicz', "Zeno's paradoxes", 'Zeno of Elea', 'Zu Chongzhi']
+
+####### CATEGORIES #######
+
+['Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with EMU identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'CS1 French-language sources (fr)', 'CS1 Italian-language sources (it)', 'Commons category link from Wikidata', 'Mathematical analysis', 'Pages using sidebar with the child parameter', 'Short description matches Wikidata', 'Use dmy dates from May 2021', 'Webarchive template wayback links']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/c/c9/Archimedes_pi.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a2/Nuvola_Math_and_Inf.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/37/People_icon.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/95/Attracteur_%C3%A9trange_de_Lorenz.png', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg']
+
+####### REFERENCES #######
+
+['http://mathworld.wolfram.com/topics/CalculusandAnalysis.html', 'http://www.math.harvard.edu/~ctm/home/text/class/harvard/114/07/html/home/course/course.pdf', 'http://www.math.rutgers.edu/~cherlin/History/Papers2000/pellegrino.html', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX525032', 'http://lccn.loc.gov/64-7547', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007555766505171', 'http://hdl.handle.net/2027%2Fmdp.39015004845684', 'http://doi.org/10.1007%2FBF00348142', 'http://doi.org/10.1038%2F097177a0', 'http://doi.org/10.1086%2F368443', 'http://www.jirka.org/ra/', 'http://www.jstor.org/stable/301627', 'http://esu.com.ua/search_articles.php?id=66941', 'http://www.economics.soton.ac.uk/staff/aldrich/Calculus%20and%20Analysis%20Earliest%20Uses.htm', 'https://www.amazon.ca/dp/0070856133', 'https://www.amazon.ca/dp/0080134734', 'https://www.amazon.ca/dp/0201002884', 'https://www.amazon.ca/dp/0691113858', 'https://www.amazon.ca/dp/0691113866', 'https://www.amazon.ca/dp/0691113874', 'https://www.amazon.ca/dp/1483169561', 'https://www.amazon.ca/dp/1483213153', 'https://www.amazon.ca/dp/3540636404', 'https://www.amazon.ca/dp/3540636862', 'https://www.amazon.ca/dp/3662569558', 'https://www.amazon.ca/dp/3662569663', 'https://www.amazon.ca/dp/9380250649', 'https://www.amazon.ca/dp/9380250657', 'https://www.britannica.com/topic/analysis-mathematics', 'https://books.google.com/books?id=2MRuus-5GGoC', 'https://books.google.com/books?id=CVRZEXFVsZkC&pg=PR7', 'https://books.google.com/books?id=HoGDAwAAQBAJ', 'https://books.google.com/books?id=R3Hk4Uhb1Z0C&pg=PR27', 'https://books.google.com/books?id=bLbfhYrhyJUC&pg=PA7', 'https://books.google.com/books?id=ix4P1e6AkeIC', 'https://books.google.com/books?id=jaQH6_8Ju-MC', 'https://books.google.com/books?id=jaQH6_8Ju-MC&pg=PA279', 'https://books.google.com/books?id=mbyqAAAAQBAJ', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph115238&CON_LNG=ENG', 'https://ui.adsabs.harvard.edu/abs/1916Natur..97..177.', 'https://catalogue.bnf.fr/ark:/12148/cb131626631', 'https://data.bnf.fr/ark:/12148/cb131626631', 'https://id.loc.gov/authorities/subjects/sh85082116', 'https://insa.nic.in/writereaddata/UpLoadedFiles/IJHS/Vol48_2_7_KBBasant.pdf', 'https://d-nb.info/gnd/4001865-9', 'https://id.ndl.go.jp/auth/ndlna/00564620', 'https://archive.org/details/B-001-014-344/mode/2up', 'https://archive.org/details/B-001-014-346', 'https://archive.org/details/B-001-014-359', 'https://archive.org/details/DemidovichEtAlProblemsInMathematicalAnalysisMir1970', 'https://archive.org/details/eulermasterofusa0000dunh', 'https://archive.org/details/eulermasterofusa0000dunh/page/17', 'https://archive.org/details/foundationsofana0000binm', 'https://archive.org/details/functionalanalys0000rudi', 'https://archive.org/details/historyofmathema0000cook/page/379', 'https://archive.org/details/historyofmathema0002smit', 'https://archive.org/details/khinchin-a-course-of-mathematical-analysis', 'https://archive.org/details/kolmogorov-fomin-introductory-real-analysis', 'https://archive.org/details/n.-piskunov-differential-and-integral-calculus-mir-1969/page/1/mode/2up', 'https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-1-mir/page/1/mode/2up', 'https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-2-mir', 'https://archive.org/details/principlesofmath00rudi', 'https://archive.org/details/smirnov-a-course-of-higher-mathematics-vol-3-1-linear-algebra', 'https://archive.org/details/smirnov-a-course-of-higher-mathematics-vol-2-advanced-calculus', 'https://archive.org/details/smirnov-a-course-of-higher-mathematics-vol-3-2-complex-variables-special-functions', 'https://archive.org/details/smirnov-a-course-of-higher-mathematics-vol-4-integral-and-partial-differential-equations', 'https://archive.org/details/smirnov-a-course-of-higher-mathematics-vol-5-integration-and-functional-analysis', 'https://archive.org/details/theoryapplicatio00rabi', 'https://archive.org/details/theoryoffunction0002nata', 'https://archive.org/details/theoryoffunction00nata', 'https://web.archive.org/web/20081012024028/http://www.math.rutgers.edu/~cherlin/History/Papers2000/pellegrino.html', 'https://web.archive.org/web/20150726223522/https://www.britannica.com/topic/analysis-mathematics', 'https://web.archive.org/web/20160517180439/https://books.google.com/books?id=CVRZEXFVsZkC&pg=PR7', 'https://web.archive.org/web/20160526221958/https://books.google.com/books?id=jaQH6_8Ju-MC&pg=PA279', 'https://web.archive.org/web/20160611045431/https://books.google.com/books?id=bLbfhYrhyJUC&pg=PA7', 'https://web.archive.org/web/20160617055211/https://books.google.com/books?id=jaQH6_8Ju-MC', 'https://web.archive.org/web/20180919020341/http://index-of.es/Varios-2/Mathemathics%20Its%20Content,%20Methods,%20Applications.pdf', 'https://web.archive.org/web/20190421114230/https://books.google.com/books?id=R3Hk4Uhb1Z0C&pg=PR27', 'https://web.archive.org/web/20191227145317/https://books.google.com/books?id=HoGDAwAAQBAJ', 'https://web.archive.org/web/20200909165657/https://books.google.com/books?id=ix4P1e6AkeIC', 'https://web.archive.org/web/20210609153458/http://index-of.es/Varios-2/Mathemathics%20Its%20Content,%20Methods,%20Applications.pdf', 'https://encyclopediaofmath.org/wiki/Mathematical_analysis', 'https://www.jstor.org/stable/301627', 'https://api.semanticscholar.org/CorpusID:144760421', 'https://api.semanticscholar.org/CorpusID:3958488', 'https://api.semanticscholar.org/CorpusID:51861422', 'https://www.wikidata.org/wiki/Q7754#identifiers', 'https://www.mathedu.ru/text/matematika_ee_soderzhanie_metody_i_znachenie_t1_1956/', 'https://www.mathedu.ru/text/matematika_ee_soderzhanie_metody_i_znachenie_t2_1956/', 'https://www.mathedu.ru/text/matematika_ee_soderzhanie_metody_i_znachenie_t3_1956/']
+
+####### SUMMARY #######
+
+Analysis is the branch of mathematics dealing with continuous functions, limits, and related theories, such as differentiation, integration, measure, infinite sequences, series, and analytic functions.These theories are usually studied in the context of real and complex numbers and functions. Analysis evolved from calculus, which involves the elementary concepts and techniques of analysis.
+Analysis may be distinguished from geometry; however, it can be applied to any space of mathematical objects that has a definition of nearness (a topological space) or specific distances between objects  (a metric space).
+
+####### CONTENT #######
+
+Analysis is the branch of mathematics dealing with continuous functions, limits, and related theories, such as differentiation, integration, measure, infinite sequences, series, and analytic functions.These theories are usually studied in the context of real and complex numbers and functions. Analysis evolved from calculus, which involves the elementary concepts and techniques of analysis.
+Analysis may be distinguished from geometry; however, it can be applied to any space of mathematical objects that has a definition of nearness (a topological space) or specific distances between objects  (a metric space).
+
+
+== History ==
+
+
+=== Ancient ===
+Mathematical analysis formally developed in the 17th century during the Scientific Revolution, but many of its ideas can be traced back to earlier mathematicians. Early results in analysis were implicitly present in the early days of ancient Greek mathematics. For instance, an infinite geometric sum is implicit in Zeno's paradox of the dichotomy. (Strictly speaking, the point of the paradox is to deny that the infinite sum exists.) Later, Greek mathematicians such as Eudoxus and Archimedes made more explicit, but informal, use of the concepts of limits and convergence when they used the method of exhaustion to compute the area and volume of regions and solids. The explicit use of infinitesimals appears in Archimedes' The Method of Mechanical Theorems, a work rediscovered in the 20th century. In Asia, the Chinese mathematician Liu Hui used the method of exhaustion in the 3rd century AD to find the area of a circle. From Jain literature, it appears that Hindus were in possession of the formulae for the sum of the arithmetic and geometric series as early as the 4th century B.C.Ācārya Bhadrabāhu uses the sum of a geometric series in his Kalpasūtra in 433 B.C. In Indian mathematics, particular instances of arithmetic series have been found to implicitly occur in Vedic Literature as early as 2000 B.C.
+
+
+=== Medieval ===
+Zu Chongzhi established a method that would later be called Cavalieri's principle to find the volume of a sphere in the 5th century. In the 12th century, the Indian mathematician Bhāskara II gave examples of derivatives and used what is now known as Rolle's theorem.In the 14th century, Madhava of Sangamagrama developed infinite series expansions, now called Taylor series, of functions such as sine, cosine, tangent and arctangent. Alongside his development of Taylor series of trigonometric functions, he also estimated the magnitude of the error terms resulting of truncating these series, and gave a rational approximation of some infinite series.  His followers at the Kerala School of Astronomy and Mathematics further expanded his works, up to the 16th century.
+
+
+=== Modern ===
+
+
+==== Foundations ====
+The modern foundations of mathematical analysis were established in 17th century Europe. This began when Fermat and Descartes developed analytic geometry, which is the precursor to modern calculus. Fermat's method of adequality allowed him to determine the maxima and minima of functions and the tangents of curves. Descartes's publication of La Géométrie in 1637, which introduced the Cartesian coordinate system, is considered to be the establishment of mathematical analysis. It would be a few decades later that Newton and Leibniz independently developed infinitesimal calculus, which grew, with the stimulus of applied work that continued through the 18th century, into analysis topics such as the calculus of variations, ordinary and partial differential equations, Fourier analysis, and generating functions. During this period, calculus techniques were applied to approximate discrete problems by continuous ones.
+
+
+==== Modernization ====
+In the 18th century, Euler introduced the notion of mathematical function. Real analysis began to emerge as an independent subject when Bernard Bolzano introduced the modern definition of continuity in 1816, but Bolzano's work did not become widely known until the 1870s. In 1821, Cauchy began to put calculus on a firm logical foundation by rejecting the principle of the generality of algebra widely used in earlier work, particularly by Euler.  Instead, Cauchy formulated calculus in terms of geometric ideas and infinitesimals.  Thus, his definition of continuity required an infinitesimal change in x to correspond to an infinitesimal change in y.  He also introduced the concept of the Cauchy sequence, and started the formal theory of complex analysis. Poisson, Liouville, Fourier and others studied partial differential equations and harmonic analysis.  The contributions of these mathematicians and others, such as Weierstrass, developed the (ε, δ)-definition of limit approach, thus founding the modern field of mathematical analysis.
+In the middle of the 19th century Riemann introduced his theory of integration. The last third of the century saw the arithmetization of analysis by Weierstrass, who thought that geometric reasoning was inherently misleading, and introduced the "epsilon-delta" definition of limit. Then, mathematicians started worrying that they were assuming the existence of a continuum of real numbers without proof. Dedekind then constructed the real numbers by Dedekind cuts, in which irrational numbers are formally defined, which serve to fill the "gaps" between rational numbers, thereby creating a complete set: the continuum of real numbers, which had already been developed by Simon Stevin in terms of decimal expansions. Around that time, the attempts to refine the theorems of Riemann integration led to the study of the "size" of the set of discontinuities of real functions.
+Also, "monsters" (nowhere continuous functions, continuous but nowhere differentiable functions, space-filling curves) began to be investigated. In this context, Jordan developed his theory of measure, Cantor developed what is now called naive set theory, and Baire proved the Baire category theorem. In the early 20th century, calculus was formalized using an axiomatic set theory. Lebesgue solved the problem of measure, and Hilbert introduced Hilbert spaces to solve integral equations. The idea of normed vector space was in the air, and in the 1920s Banach created functional analysis.
+
+
+== Important concepts ==
+
+
+=== Metric spaces ===
+
+In mathematics, a metric space is a set where a notion of distance (called a metric) between elements of the set is defined.
+Much of analysis happens in some metric space; the most commonly used are the real line, the complex plane, Euclidean space, other vector spaces, and the integers. Examples of analysis without a metric include measure theory (which describes size rather than distance) and functional analysis (which studies topological vector spaces that need not have any sense of distance).
+Formally, a metric space is an ordered pair 
+  
+    
+      
+        (
+        M
+        ,
+        d
+        )
+      
+    
+    {\displaystyle (M,d)}
+   where 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is a set and 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   is a metric on 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  , i.e., a function
+
+  
+    
+      
+        d
+        :
+        M
+        ×
+        M
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle d\colon M\times M\rightarrow \mathbb {R} }
+  such that for any 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        z
+        ∈
+        M
+      
+    
+    {\displaystyle x,y,z\in M}
+  , the following holds:
+
+  
+    
+      
+        d
+        (
+        x
+        ,
+        y
+        )
+        =
+        0
+      
+    
+    {\displaystyle d(x,y)=0}
+   if and only if 
+  
+    
+      
+        x
+        =
+        y
+      
+    
+    {\displaystyle x=y}
+      (identity of indiscernibles),
+
+  
+    
+      
+        d
+        (
+        x
+        ,
+        y
+        )
+        =
+        d
+        (
+        y
+        ,
+        x
+        )
+      
+    
+    {\displaystyle d(x,y)=d(y,x)}
+      (symmetry), and
+
+  
+    
+      
+        d
+        (
+        x
+        ,
+        z
+        )
+        ≤
+        d
+        (
+        x
+        ,
+        y
+        )
+        +
+        d
+        (
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle d(x,z)\leq d(x,y)+d(y,z)}
+      (triangle inequality).By taking the third property and letting 
+  
+    
+      
+        z
+        =
+        x
+      
+    
+    {\displaystyle z=x}
+  , it can be shown that 
+  
+    
+      
+        d
+        (
+        x
+        ,
+        y
+        )
+        ≥
+        0
+      
+    
+    {\displaystyle d(x,y)\geq 0}
+       (non-negative).
+
+
+=== Sequences and limits ===
+
+A sequence is an ordered list. Like a set, it contains members (also called elements, or terms). Unlike a set, order matters, and exactly the same elements can appear multiple times at different positions in the sequence. Most precisely, a sequence can be defined as a function whose domain is a countable totally ordered set, such as the natural numbers.
+One of the most important properties of a sequence is convergence. Informally, a sequence converges if it has a limit. Continuing informally, a (singly-infinite) sequence has a limit if it approaches some point x, called the limit, as n becomes very large. That is, for an abstract sequence (an) (with n running from 1 to infinity understood) the distance between an and x approaches 0 as n → ∞, denoted
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+        =
+        x
+        .
+      
+    
+    {\displaystyle \lim _{n\to \infty }a_{n}=x.}
+  
+
+
+== Main branches ==
+
+
+=== Real analysis ===
+
+Real analysis (traditionally, the theory of functions of a real variable) is a branch of mathematical analysis dealing with the real numbers and real-valued functions of a real variable. In particular, it deals with the analytic properties of real functions and sequences, including convergence and limits of sequences of real numbers, the calculus of the real numbers, and continuity, smoothness and related properties of real-valued functions.
+
+
+=== Complex analysis ===
+
+Complex analysis (traditionally known as the theory of functions of a complex variable) is the branch of mathematical analysis that investigates functions of complex numbers. It is useful in many branches of mathematics, including algebraic geometry, number theory, applied mathematics; as well as in physics, including hydrodynamics, thermodynamics, mechanical engineering, electrical engineering, and particularly, quantum field theory.
+Complex analysis is particularly concerned with the analytic functions of complex variables (or, more generally, meromorphic functions). Because the separate real and imaginary parts of any analytic function must satisfy Laplace's equation, complex analysis is widely applicable to two-dimensional problems in physics.
+
+
+=== Functional analysis ===
+
+Functional analysis is a branch of mathematical analysis, the core of which is formed by the study of vector spaces endowed with some kind of limit-related structure (e.g. inner product, norm, topology, etc.) and the linear operators acting upon these spaces and respecting these structures in a suitable sense. The historical roots of functional analysis lie in the study of spaces of functions and the formulation of properties of transformations of functions such as the Fourier transform as transformations defining continuous, unitary etc. operators between function spaces.  This point of view turned out to be particularly useful for the study of differential and integral equations.
+
+
+=== Harmonic analysis ===
+
+Harmonic analysis is a branch of mathematical analysis concerned with the representation of functions and signals as the superposition of basic waves. This includes the study of the notions of Fourier series and Fourier transforms (Fourier analysis), and of their generalizations. Harmonic analysis has applications in areas as diverse as music theory, number theory, representation theory, signal processing, quantum mechanics, tidal analysis, and neuroscience.
+
+
+=== Differential equations ===
+
+A differential equation is a mathematical equation for an unknown function of one or several variables that relates the values of the function itself and its derivatives of various orders. Differential equations play a prominent role in engineering, physics, economics, biology, and other disciplines.
+Differential equations arise in many areas of science and technology, specifically whenever a deterministic relation involving some continuously varying quantities (modeled by functions) and their rates of change in space or time (expressed as derivatives) is known or postulated. This is illustrated in classical mechanics, where the motion of a body is described by its position and velocity as the time value varies. Newton's laws allow one (given the position, velocity, acceleration and various forces acting on the body) to express these variables dynamically as a differential equation for the unknown position of the body as a function of time. In some cases, this differential equation (called an equation of motion) may be solved explicitly.
+
+
+=== Measure theory ===
+
+A measure on a set is a systematic way to assign a number to each suitable subset of that set, intuitively interpreted as its size. In this sense, a measure is a generalization of the concepts of length, area, and volume. A particularly important example is the Lebesgue measure on a Euclidean space, which assigns the conventional length, area, and volume of Euclidean geometry to suitable subsets of the 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensional Euclidean space 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  . For instance, the Lebesgue measure of the interval 
+  
+    
+      
+        
+          [
+          
+            0
+            ,
+            1
+          
+          ]
+        
+      
+    
+    {\displaystyle \left[0,1\right]}
+   in the real numbers is its length in the everyday sense of the word – specifically, 1.
+Technically, a measure is a function that assigns a non-negative real number or +∞ to (certain) subsets of a set 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  . It must assign 0 to the empty set and be (countably) additive: the measure of a 'large' subset that can be decomposed into a finite (or countable) number of 'smaller' disjoint subsets, is the sum of the measures of the "smaller" subsets. In general, if one wants to associate a consistent size to each subset of a given set while satisfying the other axioms of a measure, one only finds trivial examples like the counting measure. This problem was resolved by defining measure only on a sub-collection of all subsets; the so-called measurable subsets, which are required to form a 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  -algebra. This means that countable unions, countable intersections and complements of measurable subsets are measurable. Non-measurable sets in a Euclidean space, on which the Lebesgue measure cannot be defined consistently, are necessarily complicated in the sense of being badly mixed up with their complement. Indeed, their existence is a non-trivial consequence of the axiom of choice.
+
+
+=== Numerical analysis ===
+
+Numerical analysis is the study of algorithms that use numerical approximation (as opposed to general symbolic manipulations) for the problems of mathematical analysis (as distinguished from discrete mathematics).Modern numerical analysis does not seek exact answers, because exact answers are often impossible to obtain in practice. Instead, much of numerical analysis is concerned with obtaining approximate solutions while maintaining reasonable bounds on errors.
+Numerical analysis naturally finds applications in all fields of engineering and the physical sciences, but in the 21st century, the life sciences and even the arts have adopted elements of scientific computations. Ordinary differential equations appear in celestial mechanics (planets, stars and galaxies); numerical linear algebra is important for data analysis; stochastic differential equations and Markov chains are essential in simulating living cells for medicine and biology.
+
+
+=== Vector analysis ===
+
+Vector analysis is a branch of mathematical analysis dealing with values which have both magnitude and direction. Some examples of vectors include velocity, force, and displacement. Vectors are commonly associated with scalars, values which describe magnitude.
+
+
+=== Scalar analysis ===
+
+Scalar analysis is a branch of mathematical analysis dealing with values related to scale as opposed to direction. Values such as temperature are scalar because they describe the magnitude of a value without regard to direction, force, or displacement that value may or may not have.
+
+
+=== Tensor analysis ===
+
+
+== Other topics ==
+Calculus of variations deals with extremizing functionals, as opposed to ordinary calculus which deals with functions.
+Harmonic analysis deals with the representation of functions or signals as the superposition of basic waves.
+Geometric analysis involves the use of geometrical methods in the study of partial differential equations and the application of the theory of partial differential equations to geometry.
+Clifford analysis, the study of Clifford valued functions that are annihilated by Dirac or Dirac-like operators,  termed in general as monogenic or Clifford analytic functions.
+p-adic analysis, the study of analysis within the context of p-adic numbers, which differs in some interesting and surprising ways from its real and complex counterparts.
+Non-standard analysis, which investigates the hyperreal numbers and their functions and gives a rigorous treatment of infinitesimals and infinitely large numbers.
+Computable analysis, the study of which parts of analysis can be carried out in a computable manner.
+Stochastic calculus – analytical notions developed for stochastic processes.
+Set-valued analysis – applies ideas from analysis and topology to set-valued functions.
+Convex analysis, the study of convex sets and functions.
+Idempotent analysis – analysis in the context of an idempotent semiring, where the lack of an additive inverse is compensated somewhat by the idempotent rule A + A = A.
+Tropical analysis  – analysis of the idempotent semiring called the tropical semiring (or max-plus algebra/min-plus algebra).
+Constructive analysis, which is built upon a foundation of constructive, rather than classical, logic and set theory.
+Intuitionistic analysis, which is developed from constructive logic like constructive analysis but also incorporates choice sequences.
+Paraconsistent analysis, which is built upon a foundation of paraconsistent, rather than classical, logic and set theory.
+Smooth infinitesimal analysis, which is developed in a smooth topos.
+
+
+== Applications ==
+Techniques from analysis are also found in other areas such as:
+
+
+=== Physical sciences ===
+The vast majority of classical mechanics, relativity, and quantum mechanics is based on applied analysis, and differential equations in particular. Examples of important differential equations include Newton's second law, the Schrödinger equation, and the Einstein field equations.
+Functional analysis is also a major factor in quantum mechanics.
+
+
+=== Signal processing ===
+When processing signals, such as audio, radio waves, light waves, seismic waves, and even images, Fourier analysis can isolate individual components of a compound waveform, concentrating them for easier detection or removal.  A large family of signal processing techniques consist of Fourier-transforming a signal, manipulating the Fourier-transformed data in a simple way, and reversing the transformation.
+
+
+=== Other areas of mathematics ===
+Techniques from analysis are used in many areas of mathematics, including:
+
+Analytic number theory
+Analytic combinatorics
+Continuous probability
+Differential entropy in information theory
+Differential games
+Differential geometry, the application of calculus to specific mathematical spaces known as manifolds that possess a complicated internal structure but behave in a simple manner locally.
+Differentiable manifolds
+Differential topology
+Partial differential equations
+
+
+== Famous Textbooks ==
+Introductory Real Analysis, by Andrey Kolmogorov, Sergei Fomin
+Differential and Integral Calculus (3 volumes), by Grigorii Fichtenholz
+The Fundamentals of Mathematical Analysis (2 volumes), by Grigorii Fichtenholz
+A Course Of Mathematical Analysis (2 volumes), by Sergey Nikolsky
+Mathematical Analysis (2 volumes), by Vladimir Zorich
+A Course of Higher Mathematics (5 volumes, 6 parts), by Vladimir Smirnov
+Differential And Integral Calculus, by Nikolai Piskunov
+A Course of Mathematical Analysis, by Aleksandr Khinchin
+Mathematical Analysis: A Special Course, by Georgiy Shilov
+Theory of Functions of a Real Variable (2 volumes), by Isidor Natanson
+Problems in Mathematical Analysis, by Boris Demidovich
+Problems and Theorems in Analysis (2 volumes), by George Polya, Gabor Szegö
+Mathematical Analysis: A Modern Approach to Advanced Calculus, by Tom Apostol
+Principles of Mathematical Analysis, by Walter Rudin
+Real Analysis: Measure Theory, Integration, and Hilbert Spaces, by Elias Stein
+Complex Analysis, by Elias Stein
+Functional Analysis: Introduction to Further Topics in Analysis, by Elias Stein
+Analysis (2 volumes), by Terence Tao
+Analysis (3 volumes), by Herbert Amann, Joachim Escher
+Real and Functional Analysis, by Vladimir Bogachev, Oleg Smolyanov
+Real and Functional Analysis, by Serge Lang
+
+
+== See also ==
+
+Constructive analysis
+History of calculus
+Hypercomplex analysis
+Multivariable calculus
+Paraconsistent logic
+Smooth infinitesimal analysis
+Timeline of calculus and mathematical analysis
+
+
+== References ==
+
+
+== Further reading ==
+Aleksandrov [Алекса́ндров], Aleksandr Danilovich [Алекса́ндр Дани́лович]; Lavrent'ev [Лавре́нтьев], Mikhail Alexseevich [Михаи́л Алексе́евич]; Nikol'skiĭ [Нико́льский], Sergey Mikhailovich [Серге́й Миха́йлович]; Delone [Делоне́], Boris Nikolaevich [Бори́с Никола́евич]; Petrovskiĭ [Петро́вский], Ivan Georgievich [Ива́н Гео́ргиевич]; Sobolev [Со́болев], Sergei Lvovich [Серге́й Льво́вич]; Ladyženskaja [Лады́женская], Olga Aleksandrovna [Óльга Алекса́ндровна]; Krylov [Крылоў], Vladimir Ivanovich [Уладзімір Іванавіч]; Keldyš [Ке́лдыш], Mstislav Vsevolodovich [Мстисла́в Все́володович]; Mardzanisvili [Марджанишвили], Konstantin Konstantinovich [Константин Константинович]; Postnikov [Постников], Aleksei Georgievich [Алексей Георгиевич]; Kolmogorov [Колмого́ров], Andrey Nikolaevich [Андре́й Никола́евич]; Lebedev [Ле́бедев], Sergey Alexeyevich [Серге́й Алексе́евич]; Kantorovič [Канторо́вич], Leonid Vitaliyevich [Леони́д Вита́льевич]; Stečkin [Сте́чкин], Sergey Borisovich [Серге́й Бори́сович]; Faddeev [Фадде́ев], Dmitry Konstantinovich [Дми́трий Константи́нович]; Aleksandrov [Алекса́ндров], Pavel Sergeyevich [Па́вел Серге́евич]; Gel'fand [Гельфа́нд], Israïl Moyseyovich [Изра́иль Моисе́евич]; Mal'cev [Ма́льцев], Anatoly Ivanovich [Анато́лий Ива́нович] (March 1969).  Aleksandrov [Алекса́ндров], Aleksandr Danilovich [Алекса́ндр Дани́лович]; Kolmogorov [Колмого́ров], Andrey Nikolaevich [Андре́й Никола́евич]; Lavrent'ev [Лавре́нтьев], Mikhail Alexseevich [Михаи́л Алексе́евич] (eds.). Mathematics: Its Content, Methods, and Meaning. Vol. 1–3. Translated by Gould, Sydney Henry; Hirsch, Kurt August; Bartha, Tamas. Translation edited by Gould (2nd ed.). Cambridge, Massachusetts, USA: The M.I.T. Press / American Mathematical Society. LCCN 64-7547. MIT 106, 107, 108.  ark:/13960/t4sj8550w. [1] (NB. 3 softcover volumes in slipcase. Original Russian title in March 1956: Математика, ее содержание, методы и значение [2][3][4]. First English edition in 6 volumes by AMS in 1962/1963, revised English edition in 3 volumes by MIT Press in August 1964: [5], 2nd printing by MIT Press in April 1965. First MIT paperback edition in March 1969. Reprinted in one volume by Dover.)
+Apostol, Tom M. (1974). Mathematical Analysis (2nd ed.). Addison–Wesley. ISBN 978-0-201-00288-1.
+Binmore, Kenneth George (1981) [1981]. The foundations of analysis: a straightforward introduction. Cambridge University Press.
+Johnsonbaugh, Richard; Pfaffenberger, William Elmer (1981). Foundations of mathematical analysis. New York: M. Dekker.
+Nikol'skiĭ [Нико́льский], Sergey Mikhailovich [Серге́й Миха́йлович] (2002). "Mathematical analysis".  In Hazewinkel, Michiel (ed.). Encyclopaedia of Mathematics. Springer-Verlag. ISBN 978-1-4020-0609-8.
+Fusco, Nicola; Marcellini, Paolo; Sbordone, Carlo (1996). Analisi Matematica Due (in Italian). Liguori Editore. ISBN 978-88-207-2675-1.
+Rombaldi, Jean-Étienne (2004). Éléments d'analyse réelle : CAPES et agrégation interne de mathématiques (in French). EDP Sciences. ISBN 978-2-86883-681-6.
+Rudin, Walter (1976). Principles of Mathematical Analysis (3rd ed.). New York, USA: McGraw-Hill. ISBN 978-0-07-054235-8.
+Rudin, Walter (1987). Real and Complex Analysis (3rd ed.). New York, USA: McGraw-Hill. ISBN 978-0-07-054234-1.
+Whittaker, Edmund Taylor; Watson, George Neville (1927-01-02). A Course Of Modern Analysis: An Introduction to the General Theory of Infinite Processes and of Analytic Functions; with an Account of the Principal Transcendental Functions (4th ed.). Cambridge, UK: at the University Press. ISBN 0-521-06794-4. (vi+608 pages) (reprinted: 1935, 1940, 1946, 1950, 1952, 1958, 1962, 1963, 1992)
+"Real Analysis - Course Notes" (PDF).
+
+
+== External links ==
+
+Earliest Known Uses of Some of the Words of Mathematics: Calculus & Analysis
+Basic Analysis: Introduction to Real Analysis by Jiri Lebl (Creative Commons BY-NC-SA)
+Mathematical Analysis-Encyclopædia Britannica
+Calculus and Analysis
+

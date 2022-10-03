@@ -1,0 +1,558 @@
+####### TITLE #######
+
+Set (mathematics)
+
+####### LINKS #######
+
+['Abraham Fraenkel', 'Abstract algebra', 'Abstract logic', 'Aleph-nought', 'Aleph number', 'Algebra of sets', 'Algebraic number', 'Algebraic structure', 'Alphabet (formal languages)', 'Alternative set theory', 'Amorphous set', 'Argument', 'Arity', 'Atomic formula', 'Atomic sentence', 'Automata theory', 'Axiom', 'Axiom of adjunction', 'Axiom of choice', 'Axiom of constructibility', 'Axiom of countable choice', 'Axiom of dependent choice', 'Axiom of determinacy', 'Axiom of extensionality', 'Axiom of global choice', 'Axiom of infinity', 'Axiom of limitation of size', 'Axiom of pairing', 'Axiom of power set', 'Axiom of regularity', 'Axiom of union', 'Axiom schema', 'Axiom schema of replacement', 'Axiom schema of specification', 'Axiomatic set theory', 'Axiomatic system', 'Axiomatization of Boolean algebras', 'Axioms', 'Banach–Tarski paradox', 'Bernard Bolzano', 'Bertrand Russell', 'Bibcode (identifier)', 'Bijection', 'Bijective', 'Binary operation', 'Blackboard bold', 'Boolean algebra', 'Boolean algebras canonically defined', 'Boolean function', 'Boolean ring', 'Burali-Forti paradox', 'Cambridge University Press', "Cantor's diagonal argument", "Cantor's paradox", "Cantor's theorem", 'Capital letters', 'Cardinal number', 'Cardinality', 'Cartesian product', 'Categorical theory', 'Category (mathematics)', 'Category of sets', 'Category theory', 'Church encoding', 'Church–Turing thesis', 'Class (set theory)', 'Classical logic', 'Closure (mathematics)', 'Codomain', 'Colon (punctuation)', 'Compactness theorem', 'Complement (set theory)', 'Complete theory', 'Complex number', 'Complex numbers', 'Computability theory', 'Computable function', 'Computable set', 'Computably enumerable set', 'Concrete category', 'Consistency', 'Constructible universe', 'Construction of the real numbers', 'Constructive set theory', 'Continuum hypothesis', 'Countable', 'Countable set', 'Countably infinite set', 'Curly bracket', "De Morgan's laws", 'Decidability (logic)', 'Decision problem', 'Dedekind-infinite set', 'Deductive system', 'Dense set', 'Diagram (mathematical logic)', 'Dimension (mathematics)', 'Disjoint union', 'Doi (identifier)', 'Domain of a function', 'Dover Publications', 'E (mathematical constant)', 'Element (mathematics)', 'Elementary diagram', 'Elementary equivalence', 'Elementary function arithmetic', 'Ellipsis', 'Empty set', 'Enumeration', 'Enumerative definition', 'Equality (mathematics)', 'Equiconsistency', 'Equivalence relation', 'Ernst Zermelo', "Euclid's Elements", 'Euclidean geometry', 'Euclidean space', 'Euler diagram', 'Existential quantification', 'Expression (mathematics)', 'Extension by new constant and function names', 'Extensional definition', 'Extensionality', 'Family of sets', 'Field (mathematics)', 'Filter (set theory)', 'Filter base', 'Filter subbase', 'Finitary relation', 'Finite-valued logic', 'Finite model theory', 'Finite set', 'First-order logic', 'Flag of France', 'Forcing (mathematics)', 'Formal grammar', 'Formal language', 'Formal proof', 'Formal semantics (logic)', 'Formal system', 'Formation rule', 'Foundations of geometry', 'Foundations of mathematics', 'Free logic', 'Free variables and bound variables', 'Function (mathematics)', 'Functional predicate', 'Fuzzy set', 'General set theory', 'Georg Cantor', 'Grothendieck universe', 'Ground expression', 'Ground formula', 'Group (mathematics)', "Gödel's completeness theorem", "Gödel's incompleteness theorems", 'Gödel numbering', 'Halting problem', 'Harvard University Press', 'Hereditarily finite set', 'Hereditary set', 'Higher-order logic', "Hilbert's axioms", 'Hilbert system', 'History of logic', 'History of mathematical logic', 'ISBN (identifier)', 'Image (mathematics)', 'Improper fraction', 'Inaccessible cardinal', 'Inclusion–exclusion principle', 'Independence (mathematical logic)', 'Inference', 'Infinite-valued logic', 'Infinite set', 'Information theory', 'Inhabited set', 'Injective', 'Injective function', 'Integer', 'Integers', 'Intensional definition', 'Internal set', 'Interpretation (logic)', 'Intersection (set theory)', 'Irrational number', 'Isomorphism', 'Italic type', 'JSTOR (identifier)', 'John von Neumann', 'Joseph Dauben', 'Journal für die Reine und Angewandte Mathematik', 'Kolmogorov complexity', "Kripke's theory of truth", 'Kripke–Platek set theory', 'Kurt Gödel', 'Lambda calculus', 'Large cardinal', "Lindström's theorem", 'Line segment', 'List of Hilbert systems', 'List of axioms', 'List of first-order theories', 'List of set identities and relations', 'List of statements independent of ZFC', 'Logic', 'Logical biconditional', 'Logical conjunction', 'Logical connective', 'Logical consequence', 'Logical constant', 'Logical disjunction', 'Logical equality', 'Logical equivalence', 'Logical truth', 'Logicism', 'Löwenheim–Skolem theorem', 'Many-valued logic', 'Map (mathematics)', "Martin's axiom", 'Material conditional', 'Mathematical logic', 'Mathematical model', 'Mathematical object', 'Mereology', 'Metalanguage', 'Minimal axioms for Boolean algebra', 'Model complete theory', 'Model theory', 'Monadic predicate calculus', 'Monadic second-order logic', 'Morse–Kelley set theory', 'Multiset', 'NP (complexity)', 'Naive set theory', 'Natural deduction', 'Natural number', 'Natural numbers', 'Negation', 'New Foundations', 'Non-Euclidean geometry', 'Non-logical symbol', 'Non-standard model', 'Non-standard model of arithmetic', 'Nonnegative integer', 'Open formula', 'Operation (mathematics)', 'Ordered pair', 'Ordered pairs', 'Ordinal analysis', 'Ordinal number', 'Ostensive definition', 'PMC (identifier)', 'PMID (identifier)', 'P (complexity)', 'P versus NP problem', 'Pairwise disjoint', 'Paradoxes of set theory', 'Paradoxes of the Infinite', 'Partition of a set', 'Paul Bernays', 'Paul Cohen', 'Paul Halmos', 'Peano axioms', 'Permutation', 'Philosophy', 'Philosophy of mathematics', 'Pi', 'Plane (mathematics)', 'Power set', 'Predicate (mathematical logic)', 'Predicate logic', 'Predicate variable', 'Primitive notion', 'Primitive recursive arithmetic', 'Primitive recursive function', 'Principia Mathematica', 'Proof of impossibility', 'Proof theory', 'Proper fraction', 'Proposition', 'Proposition (mathematics)', 'Propositional calculus', 'Propositional formula', 'Propositional variable', 'Quantifier (logic)', 'Quantifier rank', 'Rational number', 'Rational numbers', 'Real number', 'Real numbers', 'Recursion', 'Recursive set', 'Relation (mathematics)', 'Reverse mathematics', 'Richard Dedekind', 'Ring (mathematics)', 'Robinson arithmetic', 'Rock paper scissors', 'Rough set', 'Rule of inference', "Russell's paradox", 'Satisfiability', 'Saturated model', 'Schröder–Bernstein theorem', 'Second-order arithmetic', 'Second-order logic', 'Self-verifying theories', 'Semantic theory of truth', 'Semantics of logic', 'Sentence (mathematical logic)', 'Sequence', 'Sequent calculus', 'Set-builder notation', 'Set (mathematics)', 'Set difference', 'Set theory', 'Signature (logic)', 'Singleton (mathematics)', 'Skolem arithmetic', 'Soundness', 'Square of opposition', 'Straight line', 'Strength (mathematical logic)', 'String (formal languages)', 'Structure (mathematical logic)', 'Subset', 'Subset and superset', 'Substitution (logic)', 'Substructure (mathematics)', 'Supertask', 'Surjective', 'Surjective function', "Suslin's problem", 'Syllogism', 'Symbol (formal)', 'Symmetric difference', 'Syntax (logic)', 'T-schema', "Tarski's axiomatization of the reals", "Tarski's axioms", "Tarski's theory of truth", "Tarski's undefinability theorem", 'Tarski–Grothendieck set theory', 'Tautology (logic)', 'Term (logic)', 'Term logic', 'The Principles of Mathematics', 'Theorem', 'Theories of truth', 'Theory (mathematical logic)', 'Thomas Jech', 'Thoralf Skolem', 'Three-valued logic', 'Timeline of mathematical logic', 'Transcendental numbers', 'Transfer principle', 'Transfinite induction', 'Transitive set', 'True arithmetic', 'Truth predicate', 'Truth table', 'Truth value', 'Tuple', 'Turing machine', 'Type (model theory)', 'Type theory', 'Ultrafilter (set theory)', 'Ultraproduct', 'Uncountable', 'Uncountable set', 'Undecidable problem', 'Uninterpreted function', 'Union (set theory)', 'Uniqueness quantification', 'Universal quantification', 'Universal set', 'Universe (mathematics)', 'Urelement', 'Validity (logic)', 'Variable (mathematics)', 'Venn diagram', 'Vertical bar', 'Von Neumann universe', 'Von Neumann–Bernays–Gödel set theory', 'Well-defined', 'Well-formed formula', 'Willard Van Orman Quine', 'Zermelo set theory', 'Zermelo–Fraenkel set theory']
+
+####### CATEGORIES #######
+
+['All articles with unsourced statements', 'Articles with GND identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Articles with unsourced statements from February 2021', 'CS1: long volume value', 'CS1 German-language sources (de)', 'Concepts in logic', 'Mathematical objects', 'Pages that use a deprecated format of the math tags', 'Set theory', 'Short description is different from Wikidata']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/8/86/A_union_B.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/37/Example_of_a_set.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a0/NumberSetinC.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Passage_with_the_set_definition_of_Georg_Cantor.png', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Venn0001.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/e6/Venn0100.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/46/Venn0110.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/30/Venn0111.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Venn1010.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6d/Venn_A_intersect_B.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/b0/Venn_A_subset_B.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg']
+
+####### REFERENCES #######
+
+['http://brinkmann-du.de/mathe/fos/fos01_03.htm', 'http://www.digizeitschriften.de/dms/img/?PPN=PPN243919689_0084&DMDID=dmdlog15', 'http://pubmed.ncbi.nlm.nih.gov/16578557', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC221287', 'http://doi.org/10.1073%2Fpnas.50.6.1143', 'http://doi.org/10.1515%2Fcrll.1878.84.242', 'http://www.jstor.org/stable/71858', 'https://books.google.com/books?id=-0x2JszrkooC&pg=PA401', 'https://books.google.com/books?id=-hqJDwAAQBAJ&pg=PA430', 'https://books.google.com/books?id=5NvrH4w8WGsC', 'https://books.google.com/books?id=6A5g3RiYiBUC&pg=PA1', 'https://books.google.com/books?id=CmzFx9rB_FcC&pg=PA2', 'https://books.google.com/books?id=DITy0nsYQQoC', 'https://books.google.com/books?id=Kdb7-YnnOVwC&pg=PA7', 'https://books.google.com/books?id=M-qK8anbZmwC&pg=PA183', 'https://books.google.com/books?id=NLngYyWFl_YC&pg=PA1070', 'https://books.google.com/books?id=NjBLnLyE4jAC&pg=PA45', 'https://books.google.com/books?id=PPc_2qUhXrAC&pg=PA13', 'https://books.google.com/books?id=PfbiBQAAQBAJ&pg=PA1', 'https://books.google.com/books?id=TXRBwwEACAAJ', 'https://books.google.com/books?id=VPe8BAAAQBAJ', 'https://books.google.com/books?id=VUYLAAAAQBAJ&pg=PA3', 'https://books.google.com/books?id=VV0SBwAAQBAJ&pg=PA151', 'https://books.google.com/books?id=ZQAqzxLFXhoC&pg=PA220', 'https://books.google.com/books?id=_0vNBQAAQBAJ&pg=PA11', 'https://books.google.com/books?id=c42oYf4zBzMC&pg=PA3', 'https://books.google.com/books?id=cdmy2eOhJdkC&pg=PA27', 'https://books.google.com/books?id=czKqBgAAQBAJ&pg=PA212', 'https://books.google.com/books?id=d8Se_8DWTQ4C&pg=PA47', 'https://books.google.com/books?id=jdnGYuh58YUC&pg=PA2', 'https://books.google.com/books?id=jklsb5JUgoQC&pg=PA108', 'https://books.google.com/books?id=lcg3gY3444IC', 'https://books.google.com/books?id=nFkrl_kDiTAC&pg=PA36', 'https://books.google.com/books?id=ndx0_6VCypcC', 'https://books.google.com/books?id=nparMXao59QC&pg=PA137', 'https://books.google.com/books?id=rykSDAAAQBAJ&pg=PA249', 'https://books.google.com/books?id=v4ueCgAAQBAJ&pg=PA7', 'https://books.google.com/books?id=yZ68h97pnAkC&pg=PA1', 'https://books.google.com/books?id=yvVIdH16k0YC&pg=PA30', 'https://books.google.com/books?id=zp7cLQn0x3gC&pg=PR28', 'https://www.mathsisfun.com/sets/sets-introduction.html', 'https://www.mathsisfun.com/sets/symbols.html', 'https://mathworld.wolfram.com/Set.html', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph122926&CON_LNG=ENG', 'https://gdz.sub.uni-goettingen.de/download/pdf/PPN235181684_0046/LOG_0044.pdf', 'https://ui.adsabs.harvard.edu/abs/1963PNAS...50.1143C', 'https://d-nb.info/gnd/4038613-2', 'https://archive.org/details/georgcantorhisma0000daub', 'https://archive.org/details/naivesettheory00halm', 'https://archive.org/details/naivesettheory00halm/page/18/mode/2up', 'https://archive.org/details/naivesettheory00halm/page/2/mode/2up', 'https://archive.org/details/naivesettheory00halm/page/20/mode/2up', 'https://archive.org/details/naivesettheory00halm/page/28/mode/2up', 'https://archive.org/details/naivesettheory00halm/page/4/mode/2up', 'https://archive.org/details/naivesettheory00halm/page/8/mode/2up', 'https://archive.org/details/naivesettheory00halm/page/n11/mode/2up', 'https://archive.org/details/setslogicaxiomat0000stol', 'https://archive.org/details/setslogicaxiomat0000stol/page/5', 'https://web.archive.org/web/20110610133240/http://brinkmann-du.de/mathe/fos/fos01_03.htm', 'https://www.wikidata.org/wiki/Q36161#identifiers']
+
+####### SUMMARY #######
+
+A set is the mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets.  The set with no element is the empty set; a set with a single element is a singleton.  A set may have a finite number of elements or be an infinite set.  Two sets are equal if they have precisely the same elements.Sets are ubiquitous in modern mathematics. Indeed, set theory, more specifically Zermelo–Fraenkel set theory, has been the standard way to provide rigorous foundations for all branches of mathematics since the first half of the 20th century.
+
+
+
+####### CONTENT #######
+
+A set is the mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets.  The set with no element is the empty set; a set with a single element is a singleton.  A set may have a finite number of elements or be an infinite set.  Two sets are equal if they have precisely the same elements.Sets are ubiquitous in modern mathematics. Indeed, set theory, more specifically Zermelo–Fraenkel set theory, has been the standard way to provide rigorous foundations for all branches of mathematics since the first half of the 20th century.
+
+
+== History ==
+
+The concept of a set emerged in mathematics at the end of the 19th century. The German word for set, Menge, was coined by Bernard Bolzano in his work Paradoxes of the Infinite. Georg Cantor, one of the founders of set theory,   gave the following definition at the beginning of his Beiträge zur Begründung der transfiniten Mengenlehre:A set is a gathering together into a whole of definite, distinct objects of our perception or our thought—which are called elements of the set.
+Bertrand Russell called a set a class:
+When mathematicians deal with what they call a manifold, aggregate, Menge, ensemble, or some equivalent name, it is  common, especially where the number of terms involved is finite, to regard the object in question (which is in fact a class) as defined by the enumeration of its terms, and as consisting possibly of a single term, which in that case is the class.
+
+
+=== Naive set theory ===
+
+The foremost property of a set is that it can have elements, also called members. Two sets are equal when they have the same elements. More precisely, sets A and B are equal if every element of A is an element of B, and every element of B is an element of A; this property is called the extensionality of sets.The simple concept of a set has proved enormously useful in mathematics, but paradoxes arise if no restrictions are placed on how sets can be constructed:
+
+Russell's paradox shows that the "set of all sets that do not contain themselves", i.e., {x | x is a set and x ∉ x}, cannot exist.
+Cantor's paradox shows that "the set of all sets" cannot exist.Naïve set theory defines a set as any well-defined collection of distinct elements, but problems arise from the vagueness of the term well-defined.
+
+
+=== Axiomatic set theory ===
+In subsequent efforts to resolve these paradoxes since the time of the original formulation of naïve set theory, the properties of sets have been defined by axioms. Axiomatic set theory takes the concept of a set as a primitive notion. The purpose of the axioms is to provide a basic framework from which to deduce the truth or falsity of particular mathematical propositions (statements) about sets, using first-order logic. According to Gödel's incompleteness theorems however, it is not possible to use first-order logic to prove any such particular axiomatic set theory is free from paradox.
+
+
+== How sets are defined and set notation ==
+Mathematical texts commonly denote sets by capital letters in italic, such as A, B, C. A set may also be called a collection or family, especially when its elements are themselves sets.
+
+
+=== Roster notation ===
+Roster or enumeration notation defines a set by listing its elements between curly brackets, separated by commas:
+
+In a set, all that matters is whether each element is in it or not, so the ordering of the elements in roster notation is irrelevant (in contrast, in a sequence, a tuple, or a permutation of a set, the ordering of the terms matters). For example, {2, 4, 6} and {4, 6, 4, 2} represent the same set.For sets with many elements, especially those following an implicit pattern, the list of members can be abbreviated using an ellipsis '...'. For instance, the set of the first thousand positive integers may be specified in roster notation as
+
+
+==== Infinite sets in roster notation ====
+An infinite set is a set with an endless list of elements. To describe an infinite set in roster notation, an ellipsis is placed at the end of the list, or at both ends, to indicate that the list continues forever. For example, the set of nonnegative integers is
+
+and the set of all integers is
+
+
+=== Semantic definition ===
+Another way to define a set is to use a rule to determine what the elements are:
+
+Such a definition is called a semantic description.
+
+
+=== Set-builder notation ===
+
+Set-builder notation specifies a set as a selection from a larger set, determined by a condition on the elements. For example, a set F can be defined as follows:
+
+In this notation, the vertical bar "|" means "such that", and the description can be interpreted as "F is the set of all numbers n such that n is an integer in the range from 0 to 19 inclusive". Some authors use a colon ":" instead of the vertical bar.
+
+
+=== Classifying methods of definition ===
+Philosophy uses specific terms to classify types of definitions:
+
+An intensional definition uses a rule to determine membership. Semantic definitions and definitions using set-builder notation are examples.
+An extensional definition describes a set by listing all its elements. Such definitions are also called enumerative.
+An ostensive definition is one that describes a set by giving examples of elements; a roster involving an ellipsis would be an example.
+
+
+== Membership ==
+
+If B is a set and x is an element of B, this is written in shorthand as x ∈ B, which can also be read as "x belongs to B", or "x is in B". The statement "y is not an element of B" is written as y ∉ B, which can also be read as "y is not in B".For example, with respect to the sets A = {1, 2, 3, 4}, B = {blue, white, red}, and F = {n | n is an integer, and 0 ≤ n ≤ 19},
+
+
+== The empty set ==
+
+The empty set (or null set) is the unique set that has no members. It is denoted ∅ or 
+  
+    
+      
+        ∅
+      
+    
+    {\displaystyle \emptyset }
+   or { } or ϕ (or ϕ).
+
+
+== Singleton sets ==
+
+A singleton set is a set with exactly one element; such a set may also be called a unit set. Any such set can be written as {x}, where x is the element.
+The set {x} and the element x mean different things; Halmos draws the analogy that a box containing a hat is not the same as the hat.
+
+
+== Subsets ==
+
+If every element of set A is also in B, then A is described as being a subset of B, or contained in B, written A ⊆ B, or B ⊇ A. The latter notation may be read B contains A, B includes A, or B is a superset of A. The relationship between sets established by ⊆ is called inclusion or containment. Two sets are equal if they contain each other: A ⊆ B and B ⊆ A is equivalent to A = B.If A is a subset of B, but A is not equal to B, then A is called a proper subset of B. This can be written A ⊊ B. Likewise, B ⊋ A means B is a proper superset of A, i.e. B contains A, and is not equal to A.
+A third pair of operators ⊂ and ⊃ are used differently by different authors: some authors use A ⊂ B and B ⊃ A to mean A is any subset of B (and not necessarily a proper subset), while others reserve A ⊂ B and B ⊃ A for cases where A is a proper subset of B.Examples:
+
+The set of all humans is a proper subset of the set of all mammals.
+{1, 3} ⊂ {1, 2, 3, 4}.
+{1, 2, 3, 4} ⊆ {1, 2, 3, 4}.The empty set is a subset of every set, and every set is a subset of itself:
+∅ ⊆ A.
+A ⊆ A.
+
+
+== Euler and Venn diagrams ==
+
+An Euler diagram is a graphical representation of a collection of sets; each set is depicted as a planar region enclosed by a loop, with its elements inside. If A is a subset of B, then the region representing A is completely inside the region representing B. If two sets have no elements in common, the regions do not overlap. 
+A Venn diagram, in contrast, is a graphical representation of n sets in which the n loops divide the plane into 2n zones such that for each way of selecting some of the n sets (possibly all or none), there is a zone for the elements that belong to all the selected sets and none of the others. For example, if the sets are A, B, and C, there should be a zone for the elements that are inside A and C and outside B (even if such elements do not exist).
+
+
+== Special sets of numbers in mathematics ==
+
+There are sets of such mathematical importance, to which mathematicians refer so frequently, that they have acquired special names and notational conventions to identify them. 
+Many of these important sets are represented in mathematical texts using bold (e.g. 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbf {Z} }
+  ) or blackboard bold (e.g. 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  ) typeface. These include
+
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbf {N} }
+   or 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+  , the set of all natural numbers: 
+  
+    
+      
+        
+          N
+        
+        =
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        .
+        .
+        .
+        }
+      
+    
+    {\displaystyle \mathbf {N} =\{0,1,2,3,...\}}
+   (often, authors exclude 0);
+
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbf {Z} }
+   or 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , the set of all integers (whether positive, negative or zero): 
+  
+    
+      
+        
+          Z
+        
+        =
+        {
+        .
+        .
+        .
+        ,
+        −
+        2
+        ,
+        −
+        1
+        ,
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        .
+        .
+        .
+        }
+      
+    
+    {\displaystyle \mathbf {Z} =\{...,-2,-1,0,1,2,3,...\}}
+  ;
+
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbf {Q} }
+   or 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  , the set of all rational numbers (that is, the set of all proper and improper fractions): 
+  
+    
+      
+        
+          Q
+        
+        =
+        
+          {
+          
+            
+              
+                a
+                b
+              
+            
+            ∣
+            a
+            ,
+            b
+            ∈
+            
+              Z
+            
+            ,
+            b
+            ≠
+            0
+          
+          }
+        
+      
+    
+    {\displaystyle \mathbf {Q} =\left\{{\frac {a}{b}}\mid a,b\in \mathbf {Z} ,b\neq 0\right\}}
+  . For example, −7/4 ∈ Q and 5 = 5/1 ∈ Q;
+
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbf {R} }
+   or 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  , the set of all real numbers, including all rational numbers and all irrational numbers (which include algebraic numbers such as 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   that cannot be rewritten as fractions, as well as transcendental numbers such as π and e);
+
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbf {C} }
+   or 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  , the set of all complex numbers: C = {a + bi | a, b ∈ R}, for example, 1 + 2i ∈ C.Each of the above sets of numbers has an infinite number of elements. Each is a subset of the sets listed below it. 
+Sets of positive or negative numbers are sometimes denoted by superscript plus and minus signs, respectively. For example, 
+  
+    
+      
+        
+          
+            Q
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle \mathbf {Q} ^{+}}
+   represents the set of positive rational numbers.
+
+
+== Functions ==
+A function (or mapping) from a set A to a set B is a rule that assigns to each "input" element of A an "output" that is an element of B; more formally, a function is a special kind of relation, one that relates each element of A to exactly one element of B. A function is called
+
+injective (or one-to-one) if it maps any two different elements of A to different elements of B,
+surjective (or onto) if for every element of B, there is at least one element of A that maps to it, and
+bijective (or a one-to-one correspondence) if the function is both injective and surjective — in this case, each element of A is paired with a unique element of B, and each element of B is paired with a unique element of A, so that there are no unpaired elements.An injective function is called an injection, a surjective function is called a surjection, and a bijective function is called a bijection or one-to-one correspondence.
+
+
+== Cardinality ==
+
+The cardinality of a set S, denoted |S|, is the number of members of S. For example, if B = {blue, white, red}, then |B| = 3. Repeated members in roster notation are not counted, so |{blue, white, red, blue, white}| = 3, too.
+More formally, two sets share the same cardinality if there exists a one-to-one correspondence between them.
+The cardinality of the empty set is zero.
+
+
+=== Infinite sets and infinite cardinality ===
+The list of elements of some sets is endless, or infinite. For example, the set 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   of natural numbers is infinite. In fact, all the special sets of numbers mentioned in the section above are infinite. Infinite sets have infinite cardinality. 
+Some infinite cardinalities are greater than others. Arguably one of the most significant results from set theory is that the set of real numbers has greater cardinality than the set of natural numbers. Sets with cardinality less than or equal to that of 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   are called countable sets; these are either finite sets or countably infinite sets (sets of the same cardinality as 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+  ); some authors use "countable" to mean "countably infinite". Sets with cardinality strictly greater than that of 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+   are called uncountable sets.
+However, it can be shown that the cardinality of a straight line (i.e., the number of points on a line) is the same as the cardinality of any segment of that line, of the entire plane, and indeed of any finite-dimensional Euclidean space.
+
+
+=== The continuum hypothesis ===
+
+The continuum hypothesis, formulated by Georg Cantor in 1878, is the statement that there is no set with cardinality strictly between the cardinality of the natural numbers and the cardinality of a straight line. In 1963, Paul Cohen proved that the continuum hypothesis is independent of the axiom system ZFC consisting of Zermelo–Fraenkel set theory with the axiom of choice. (ZFC is the most widely-studied version of axiomatic set theory.)
+
+
+== Power sets ==
+
+The power set of a set S is the set of all subsets of S. The empty set and S itself are elements of the power set of S, because these are both subsets of S. For example, the power set of {1, 2, 3} is {∅, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}. The power set of a set S is commonly written as P(S) or 2S.If S has n elements, then P(S) has 2n elements. For example, {1, 2, 3} has three elements, and its power set has 23 = 8 elements, as shown above.
+If S is infinite (whether countable or uncountable), then P(S) is uncountable. Moreover, the power set is always strictly "bigger" than the original set, in the sense that any attempt to pair up the elements of S with the elements of P(S) will leave some elements of P(S) unpaired. (There is never a bijection from S onto P(S).)
+
+
+== Partitions ==
+
+A partition of a set S is a set of nonempty subsets of S, such that every element x in S is in exactly one of these subsets. That is, the subsets are pairwise disjoint (meaning any two sets of the partition contain no element in common), and the union of all the subsets of the partition is S.
+
+
+== Basic operations ==
+
+Suppose that a universal set U (a set containing all elements being discussed) has been fixed, and that A is a subset of U.
+
+The complement of A is the set of all elements (of U) that do not belong to A.  It may be denoted Ac or A′.  In set-builder notation, 
+  
+    
+      
+        
+          A
+          
+            c
+          
+        
+        =
+        {
+        a
+        ∈
+        U
+        :
+        a
+        ∉
+        A
+        }
+      
+    
+    {\displaystyle A^{\text{c}}=\{a\in U:a\notin A\}}
+  .  The complement may also be called the absolute complement to distinguish it from the relative complement below.  Example: If the universal set is taken to be the set of integers, then the complement of the set of even integers is the set of odd integers.
+
+Given any two sets A and B, 
+
+their union A ∪ B is the set of all things that are members of A or B or both.
+their intersection A ∩ B is the set of all things that are members of both A and B.  If A ∩ B = ∅, then A and B are said to be disjoint.
+the set difference A \ B (also written A − B) is the set of all things that belong to A but not B.  Especially when B is a subset of A, it is also called the relative complement of B in A.
+their symmetric difference A Δ B is the set of all things that belong to A or B but not both.  One has 
+  
+    
+      
+        A
+        
+        Δ
+        
+        B
+        =
+        (
+        A
+        ∖
+        B
+        )
+        ∪
+        (
+        B
+        ∖
+        A
+        )
+      
+    
+    {\displaystyle A\,\Delta \,B=(A\setminus B)\cup (B\setminus A)}
+  .
+their cartesian product A × B is the set of all ordered pairs (a,b) such that a is an element of A and b is an element of B.Examples:
+
+{1, 2, 3} ∪ {3, 4, 5} = {1, 2, 3, 4, 5}.
+{1, 2, 3} ∩ {3, 4, 5} = {3}.
+{1, 2, 3} − {3, 4, 5} = {1, 2}.
+{1, 2, 3} Δ {3, 4, 5} = {1, 2, 4, 5}.
+{a, b} × {1, 2, 3} = {(a,1), (a,2), (a,3), (b,1), (b,2), (b,3)}.The operations above satisfy many identities.  For example, one of De Morgan's laws states that (A ∪ B)′ = A′ ∩ B′ (that is, the elements outside the union of A and B are the elements that are outside A and outside B).
+The cardinality of A × B is the product of the cardinalities of A and B.
+(This is an elementary fact when A and B are finite.  When one or both are infinite, multiplication of cardinal numbers is defined to make this true.)
+The power set of any set becomes a Boolean ring with symmetric difference as the addition of the ring and intersection as the multiplication of the ring.
+
+
+== Applications ==
+Sets are ubiquitous in modern mathematics. For example, structures in abstract algebra, such as groups, fields and rings, are sets closed under one or more operations.
+One of the main applications of naive set theory is in the construction of relations. A relation from a domain A to a codomain B is a subset of the Cartesian product A × B. For example, considering the set S = {rock, paper, scissors} of shapes in the game of the same name, the relation "beats" from S to S is the set B = {(scissors,paper), (paper,rock), (rock,scissors)}; thus x beats y in the game if the pair (x,y) is a member of B. Another example is the set F of all pairs (x, x2), where x is real. This relation is a subset of R × R, because the set of all squares is subset of the set of all real numbers. Since for every x in R, one and only one pair (x,...) is found in F, it is called a function. In functional notation, this relation can be written as F(x) = x2.
+
+
+== Principle of inclusion and exclusion ==
+
+The inclusion–exclusion principle is a technique for counting the elements in a union of two finite sets in terms of the sizes of the two sets and their intersection. It can be expressed symbolically as
+
+A more general form of the principle gives the cardinality of any finite union of finite sets:
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Dauben, Joseph W. (1979). Georg Cantor: His Mathematics and Philosophy of the Infinite. Boston: Harvard University Press. ISBN 0-691-02447-2.
+Halmos, Paul R. (1960). Naive Set Theory. Princeton, N.J.: Van Nostrand. ISBN 0-387-90092-6.
+Stoll, Robert R. (1979). Set Theory and Logic. Mineola, N.Y.: Dover Publications. ISBN 0-486-63829-4.
+Velleman, Daniel (2006). How To Prove It: A Structured Approach. Cambridge University Press. ISBN 0-521-67599-5.
+
+
+== External links ==
+ The dictionary definition of set at Wiktionary
+Cantor's "Beiträge zur Begründung der transfiniten Mengenlehre" (in German)
+

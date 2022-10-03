@@ -1,0 +1,1314 @@
+####### TITLE #######
+
+Photon
+
+####### LINKS #######
+
+['A dynamical theory of the electromagnetic field', 'Abdus Salam', 'Abelian group', 'Abraham Pais', 'Absorption (electromagnetic radiation)', 'Acceleration', 'Acta Physica Polonica A', 'Advanced Photon Source', 'Albert Einstein', 'American Journal of Physics', 'Ancient Greek language', 'Angular frequency', 'Angular momentum of light', 'Annalen der Physik', 'Annals of Physics', 'Annals of Science', 'Annihilation', 'Anomalous magnetic dipole moment', 'Anthony Zee', 'Antineutron', 'Antiparticle', 'Antiproton', 'Anyon', 'Applied Physics B', 'ArXiv (identifier)', 'Arthur Compton', 'Astronomy Letters', 'Atom', 'Atomic nucleus', 'Augustin-Jean Fresnel', 'Axino', 'Axion', 'BKS theory', 'B meson', 'Ballistic photon', 'Baryon', 'Baryon number', 'Beam-splitter', 'Beam splitter', 'Bhabha scattering', 'Bibcode (identifier)', 'Biochemist', 'Birefringence', 'Black-body radiation', 'Bohr model', 'Boltzmann constant', 'Boltzmann statistics', 'Bose gas', 'Bose–Einstein condensate', 'Bose–Einstein condensation', 'Bose–Einstein statistics', 'Boson', 'Bosonic', 'Bottom antiquark', 'Bottom eta meson', 'Bottom quark', 'Bound state', 'Breit–Wheeler process', 'Bremsstrahlung', 'Brillouin scattering', 'C-parity', 'C. V. Raman', 'C parity', 'Calcite', 'Capacitor', 'Carl Wieman', 'Cauchy–Schwarz inequality', 'Cengage Learning', 'Center of momentum frame', 'Charge-coupled device', 'Chargino', 'Charm antiquark', 'Charm quark', 'Chemistry', 'Chlorine', 'Christiaan Huygens', 'Circular polarization', 'Cis–trans', 'CiteSeerX (identifier)', 'Coherent state', 'Color charge', 'Complex geometry', 'Complex number', "Comptes Rendus des Séances de l'Académie des Sciences", 'Compton scattering', 'Conservation law (physics)', 'Conservation of energy', 'Conservation of momentum', "Coulomb's law", 'Curvaton', 'D meson', 'Dalton (unit)', 'Dark photon', 'David H. Frisch', 'David Van Nostrand', 'Davydov soliton', 'Degenerate energy level', 'Degree of freedom', 'Delbrück scattering', 'Delta baryon', 'Diffraction', 'Dilaton', 'Diquark', 'Dirac equation', 'Dispersion (optics)', 'Doi (identifier)', 'Doppler effect', 'Double-charm tetraquark', 'Double-slit experiment', 'Down antiquark', 'Down quark', 'Dropleton', 'Dual graviton', 'Dual photon', 'EISSN (identifier)', 'EPL (journal)', 'EPR paradox', 'Earle Hesse Kennard', 'Edward Andrade', 'Effective mass (solid-state physics)', 'Eightfold way (physics)', 'Electric charge', 'Electric field', 'Electric polarization', 'Electrical conductivity', 'Electromagnetic field', 'Electromagnetic force', 'Electromagnetic four-potential', 'Electromagnetic interaction', 'Electromagnetic radiation', 'Electromagnetic wave equation', 'Electromagnetism', 'Electron', 'Electron hole', 'Electron neutrino', 'Electronvolt', 'Electron–positron annihilation', 'Electroweak interaction', 'Elementary charge', 'Elementary particle', 'Emission spectrum', 'Energy', 'Energy level', 'Enrico Fermi', 'Eric Allin Cornell', 'Ernest Rutherford', 'Eta meson', 'Eugene Wigner', 'Euler–Heisenberg Lagrangian', 'European Journal of Physics', 'European Physical Journal', 'Evgeny Lifshitz', 'Exciton', 'Exotic atom', 'Exotic hadron', 'Exotic matter', 'Faddeev–Popov ghost', 'Fermion', 'Fermi–Dirac statistics', 'Feynman diagram', 'Flavor (particle physics)', 'Fluorescence', 'Fluorescence resonance energy transfer', 'Fock state', 'Force carrier', 'Fourier series', 'Fracton (subdimensional particle)', 'Frame of reference', 'Frequency', 'Fundamental interaction', "Furry's theorem", 'Galilean transformation', 'Gamma', 'Gamma ray', 'Gas-discharge lamp', 'Gas in a box', 'Gauge boson', 'Gauge field', 'Gauge fixing', 'Gauge symmetry', 'Gauge theory', 'Gaugino', 'Geiger counter', 'General relativity', 'Geoffrey Ingram Taylor', 'George Wald', 'Ghost (physics)', 'Gilbert N. Lewis', 'Glueball', 'Gluino', 'Gluon', 'Grand unification theory', 'Graviphoton', 'Gravitational lens', 'Gravitational redshift', 'Gravitational waves', 'Gravitino', 'Graviton', 'Gravity', 'Greek alphabet', 'Greek language', 'Group velocity', 'Gupta–Bleuler formalism', 'Hadron', 'Hardware random number generator', 'Hdl (identifier)', 'Heinrich Hertz', "Heisenberg's microscope", 'Helge Kragh', 'Helicity (particle physics)', 'Hendrik Anthony Kramers', 'Heptaquark', 'Hermann Weyl', 'Hermitian operator', 'Hexaquark', 'Higgs boson', 'Higgs mechanism', 'Higgsino', 'High energy X-ray imaging technology', 'History of subatomic physics', 'Hydrogen atom', 'Hyperfine structure', 'Hypothetical particles', 'IOP Publishing', 'ISBN (identifier)', 'ISSN (identifier)', 'Identical particles', 'Infinity', 'Inflaton', 'Integer', 'Intensity (physics)', 'Interference (wave propagation)', 'International Linear Collider', 'Invariant mass', 'Ionize', 'Isaac Asimov', 'Isaac Newton', 'Isomerization', 'J/psi meson', 'JSTOR (identifier)', 'James Clerk Maxwell', 'John Baez', 'John C. Slater', 'John Joly', 'Journal of Modern Optics', 'Journal of Physics: Conference Series', 'Kaon', 'Karel Svoboda (scientist)', 'Khan Academy', 'Klein–Nishina formula', 'LCCN (identifier)', 'Lagrangian (field theory)', 'Lamb shift', 'Lambda baryon', 'Landau pole', 'Laser', 'Laser beam', 'Lene Hau', 'Leonard Mandel', 'Leonard T. Troland', 'Lepton', 'Lepton number', 'Leptoquark', 'Lev Landau', 'Light', 'Linear polarization', 'List of baryons', 'List of mesons', 'List of particles', 'List of quasiparticles', 'Lorentz boost', 'Lorentz group', 'Luminiferous aether', 'Mach–Zehnder interferometer', 'Magnetic field', 'Magnetic monopole', 'Magnetic vector potential', 'Magnetism', 'Magnitude (mathematics)', 'Magnon', 'Majorana fermion', 'Majoron', 'Mass in general relativity', 'Mass in special relativity', 'Massless particle', 'Material', 'Mathematical formulation of the Standard Model', 'Matrix mechanics', 'Matter', 'Max Born', 'Max Planck', "Maxwell's equations", 'Mean lifetime', 'Measurement in quantum mechanics', 'Medipix', 'Meson', 'Mesonic molecule', 'Modern physics', 'Modulational instability', 'Molecular biology', 'Molecule', 'Momentum', 'Muon', 'Muon neutrino', 'Muonium', 'Møller scattering', 'Nature (journal)', 'Neuron (journal)', 'Neutralino', 'Neutrino', 'Neutron', 'Newsweek', 'Niels Bohr', 'Nobel Prize', 'Nonlinear optics', 'Nu (letter)', 'Nuclear physics', 'Nucleon', 'Number density', 'OCLC (identifier)', 'Observable', 'Omega baryon', 'Omega meson', 'Onium', 'Optical communication', 'Optical engineering', 'Optical imaging', 'Optical parametric oscillator', 'Optics and Photonics News', 'Orbital angular momentum of light', 'PMC (identifier)', 'PMID (identifier)', 'Pair production', 'Parity (physics)', 'Particle', 'Particle Data Group', 'Particle chauvinism', 'Particle physics', 'Particle statistics', 'Pascual Jordan', 'Path integral formulation', 'Paul Busch (physicist)', 'Paul Dirac', 'Paul Ulrich Villard', 'Pauli exclusion principle', 'Pentaquark', 'Pergamon Press', 'Perturbation theory', 'Perturbation theory (quantum mechanics)', 'Peter Debye', 'Phase space', 'Phi meson', 'Philosophical Magazine', 'Philosophical Transactions of the Royal Society', 'Philosophy of Science (journal)', 'Phonon', 'Photino', 'Photochemistry', 'Photodissociation', 'Photoelectric effect', 'Photography', 'Photomultiplier', 'Photon-counting detector', 'Photon (disambiguation)', 'Photon Structure Function', 'Photon counting', 'Photon energy', 'Photon epoch', 'Photon gas', 'Photon polarization', 'Photon structure function', 'Photonic molecule', 'Photonics', 'Physical Review', 'Physical Review D', 'Physical Review Letters', 'Physics Letters B', 'Physics World', 'Physikalische Zeitschrift', 'Pion', 'Pionium', "Planck's law", "Planck's law of black-body radiation", 'Planck constant', 'Plasmaron', 'Plasmon', 'Point-like particle', 'Polariton', 'Polarization (waves)', 'Polaron', 'Pomeron', 'Ponderomotive energy', 'Positron', 'Positronium', 'Potential energy', 'Pound–Rebka experiment', 'Preon', 'Princeton University Press', 'Probability amplitude', 'Probability distribution', 'Progress in Optics', 'Project Gutenberg', 'Protein', 'Proton', 'Proton decay', 'Protonium', 'QED: The Strange Theory of Light and Matter', 'QED vacuum', 'Quantity', 'Quantum', 'Quantum Field Theory in a Nutshell', 'Quantum chromodynamics', 'Quantum computer', 'Quantum cryptography', 'Quantum electrodynamics', 'Quantum entanglement', 'Quantum field theory', 'Quantum harmonic oscillator', 'Quantum mechanics', 'Quantum optics', 'Quantum state', 'Quark', 'Quark model', 'Quarkonium', 'Quasi-particle', 'Quasiparticle', 'R-hadron', 'Radians per second', 'Radiant energy', 'Radiation pressure', 'Radiative correction', 'Radio', 'Radio wave', 'Raman scattering', 'Rate constant', 'Real number', 'Refraction', 'Refractive index', 'Relativistic mass', 'Relativistic particle', 'Renormalization', 'René Descartes', 'Rest mass', 'Retinal', 'Review of Scientific Instruments', 'Reviews of Modern Physics', 'Rho meson', 'Richard Feynman', 'Robert Hooke', 'Robert Millikan', 'Roton', 'Royal Society of London', 'S2CID (identifier)', 'Satyendra Nath Bose', 'Scalar boson', 'Schwinger effect', 'Schwinger limit', 'Science (journal)', 'Self-phase modulation', 'Semiconductor', 'Sfermion', 'Sheldon Glashow', 'Sigma baryon', 'Simple harmonic oscillator', 'Single-photon source', 'Skyrmion', 'Slow light', 'Solar core', 'Spacetime', 'Special relativity', 'Special unitary group', 'Speed of light', 'Spin-statistics theorem', 'Spin (physics)', 'Spin angular momentum of light', 'Spontaneous emission', 'Spontaneous parametric down conversion', 'Springer Science+Business Media', 'Stable particle', 'Standard Model', 'Static forces and virtual-particle exchange', 'Sterile neutrino', 'Steven Weinberg', 'Stimulated emission', 'Stop squark', 'Strange antiquark', 'Strange quark', 'Stress–energy tensor', 'Subatomic particle', 'Subtle is the Lord: The Science and the Life of Albert Einstein', 'Superatom', 'Supernova/Acceleration Probe', 'Superpartner', 'Svante Arrhenius', 'Symmetry (physics)', 'Synchrotron radiation', 'T meson', 'Tachyon', 'Tau (particle)', 'Tau neutrino', 'Tauonium', 'Temperature', 'Tensor product', 'Tests of electromagnetism', 'Tetraquark', 'Thermal equilibrium', 'Theta meson', 'Thomas Young (scientist)', 'Thought experiment', 'Timeline of atomic and subatomic physics', 'Timeline of particle discoveries', 'Top antiquark', 'Top quark', 'Total angular momentum', 'Traité de la lumière', 'Translational invariance', 'Trion (physics)', 'Truly neutral particle', 'Two-photon absorption', 'Two-photon excitation microscopy', 'Two-photon physics', 'Uehling potential', 'Ultraviolet catastrophe', 'Uncertainty principle', 'Unitary group', 'University of California, Riverside', 'University of Oregon', 'Up antiquark', 'Up quark', 'Upper bound', 'Upsilon meson', 'Vacuum polarization', 'Variable speed of light', 'Vector Meson Dominance', 'Vector component', 'Verhandlungen der Deutschen Physikalischen Gesellschaft', 'Vertex function', 'Virtual particle', 'Virtual photon', 'Visual perception', 'W and Z bosons', 'Walker (publisher)', 'Ward–Takahashi identity', 'Wave', 'Wave function', 'Wave number', 'Wave vector', 'Wavelength', 'Wave–particle duality', 'Weak interaction', 'Weak isospin', 'Werner Heisenberg', 'Wikisource', 'Wilhelm Wien', 'Willis Lamb', 'Winfried Denk', 'Wolfgang P. Schleich', 'Wolfgang Pauli', 'W′ and Z′ bosons', 'X and Y bosons', 'Xi baryon']
+
+####### CATEGORIES #######
+
+['All articles with incomplete citations', 'Articles containing Ancient Greek (to 1453)-language text', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with German-language sources (de)', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with incomplete citations from November 2020', 'Articles with short description', 'Bosons', 'CS1: long volume value', 'CS1 French-language sources (fr)', 'CS1 German-language sources (de)', 'CS1 location test', 'CS1 maint: others', 'Commons category link from Wikidata', 'Electromagnetism', 'Elementary particles', 'Force carriers', 'Gauge bosons', 'Optics', 'Photons', 'Quantum electrodynamics', 'Short description is different from Wikidata', 'Subatomic particles with spin 1']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/0/0c/1926_Gilbert_N._Lewis_letter_which_brought_the_word_%22photon%22_into_common_usage.jpg', 'https://upload.wikimedia.org/wikipedia/commons/9/93/Bohr_atom_model.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/93/Bohr_atom_model.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Electron-scattering.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Light-wave.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/56/Light_cone_colour.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a0/Mach-Zehnder_photons_animation.gif', 'https://upload.wikimedia.org/wikipedia/commons/a/a6/Photoelectric_effect_in_a_solid_-_diagram.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8a/Stimulatedemission.png', 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/e2/VisibleEmrWavelengths.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8a/Young_Diffraction.png', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/39/Fluorescence_in_calcite.jpg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/e/e2/Symbol_portal_class.svg', 'https://upload.wikimedia.org/wikipedia/en/5/5c/Symbol_template_class.svg']
+
+####### REFERENCES #######
+
+['http://cds.cern.ch/record/1062641/files/RevModPhys.21.400.pdf', 'http://www.newsweek.com/photons-light-physics-808862', 'http://www.nobeliefs.com/photon.htm', 'http://www.photonics.com/Article.aspx?AID=28520', 'http://www.ekkehard-friebe.de/EINSTEIN-1909-P.pdf', 'http://www.QuantumLab.de', 'http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_132-148.pdf', 'http://news.harvard.edu/gazette/1999/02.18/light.html', 'http://philsci-archive.pitt.edu/15858/1/Jaeger%20Are%20Virtual%20Particles%20Less%20Real_%20entropy-21-00141-v3.pdf', 'http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.178.4356', 'http://math.ucr.edu/home/baez/physics/ParticleAndNuclear/photon_mass.html', 'http://scipp.ucsc.edu/~haber/pubs/Review_of_Particle_Physics_2014.pdf', 'http://physics.uoregon.edu/~soper/Light/photons.html', 'http://people.whitman.edu/~beckmk/QM/grangier/Thorn_ajp.pdf', 'http://digital.library.wisc.edu/1711.dl/HistSciTech.HookeMicro', 'http://pdg.lbl.gov/2009/tables/contents_tables.html', 'http://pdg.lbl.gov/2009/tables/rpp2009-sum-gauge-higgs-bosons.pdf', 'http://lccn.loc.gov/66022515', 'http://pubmed.ncbi.nlm.nih.gov/10020536', 'http://pubmed.ncbi.nlm.nih.gov/17358459', 'http://pubmed.ncbi.nlm.nih.gov/17789847', 'http://pubmed.ncbi.nlm.nih.gov/24182239', 'http://pubmed.ncbi.nlm.nih.gov/29449489', 'http://pubmed.ncbi.nlm.nih.gov/33266857', 'http://pubmed.ncbi.nlm.nih.gov/9115730', 'http://pubmed.ncbi.nlm.nih.gov/9912446', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6467536', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7514619', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007543630305171', 'http://dspace.rri.res.in/bitstream/2289/2123/1/1931%20IJP%20V6%20p353.pdf', 'http://hdl.handle.net/10821%2F664', 'http://hdl.handle.net/1854%2FLU-685594', 'http://arxiv.org/abs/0711.3003', 'http://arxiv.org/abs/1306.1565', 'http://arxiv.org/abs/1401.0293', 'http://arxiv.org/abs/1602.09002', 'http://arxiv.org/abs/1709.01478', 'http://arxiv.org/abs/hep-ex/9912049', 'http://arxiv.org/abs/hep-ph/0306245', 'http://arxiv.org/abs/hep-ph/0411398', 'http://arxiv.org/abs/quant-ph/9912118', 'http://arxiv.org/archive/physics.hist-ph', 'http://doi.org/10.1002%2F3527608958.ch28', 'http://doi.org/10.1002%2Fandp.19013090310', 'http://doi.org/10.1002%2Fandp.19053220607', 'http://doi.org/10.1002%2Fandp.19103381617', 'http://doi.org/10.1006%2Faphy.1995.1001', 'http://doi.org/10.1007%2FBF01135846', 'http://doi.org/10.1007%2FBF01327326', 'http://doi.org/10.1007%2FBF01340129', 'http://doi.org/10.1007%2FBF01341423', 'http://doi.org/10.1007%2FBF01379806', 'http://doi.org/10.1007%2FBF01397184', 'http://doi.org/10.1007%2FBF01397477', 'http://doi.org/10.1016%2F0003-4916(60)90126-3', 'http://doi.org/10.1016%2F0370-2693(73)90520-0', 'http://doi.org/10.1016%2F0550-3213(77)90038-4', 'http://doi.org/10.1016%2FS0079-6638(08)70018-0', 'http://doi.org/10.1016%2FS0079-6638(08)70316-0', 'http://doi.org/10.1016%2FS0370-1573(99)00115-5', 'http://doi.org/10.1016%2FS0896-6273(00)81237-4', 'http://doi.org/10.1016%2Fj.physletb.2008.07.018', 'http://doi.org/10.1038%2F118874a0', 'http://doi.org/10.1038%2F129022a0', 'http://doi.org/10.1063%2F1.1150518', 'http://doi.org/10.1063%2F1.2810533', 'http://doi.org/10.1063%2F1.50410', 'http://doi.org/10.1070%2FPU1976v019n07ABEH005277', 'http://doi.org/10.1080%2F00033798000200121', 'http://doi.org/10.1080%2F095003400147908', 'http://doi.org/10.1080%2F14786440508635156', 'http://doi.org/10.1080%2F14786442408565262', 'http://doi.org/10.1086%2F425941', 'http://doi.org/10.1088%2F0143-0807%2F30%2F2%2F014', 'http://doi.org/10.1088%2F1742-6596%2F110%2F4%2F042033', 'http://doi.org/10.1088%2F2058-7058%2F13%2F12%2F34', 'http://doi.org/10.1098%2Frspa.1926.0133', 'http://doi.org/10.1098%2Frspa.1927.0039', 'http://doi.org/10.1098%2Frspa.1927.0071', 'http://doi.org/10.1098%2Frstl.1865.0008', 'http://doi.org/10.1103%2FPhysRev.21.483', 'http://doi.org/10.1103%2FPhysRev.50.1066', 'http://doi.org/10.1103%2FPhysRevA.52.1875', 'http://doi.org/10.1103%2FPhysRevD.9.853', 'http://doi.org/10.1103%2FPhysRevLett.111.160405', 'http://doi.org/10.1103%2FPhysRevLett.26.721', 'http://doi.org/10.1103%2FPhysRevLett.39.691', 'http://doi.org/10.1103%2FPhysRevLett.80.1826', 'http://doi.org/10.1103%2FPhysRevLett.98.010402', 'http://doi.org/10.1103%2FRevModPhys.21.400', 'http://doi.org/10.1103%2FRevModPhys.4.87', 'http://doi.org/10.1103%2FRevModPhys.50.261', 'http://doi.org/10.1119%2F1.13917', 'http://doi.org/10.1119%2F1.1737397', 'http://doi.org/10.1126%2Fscience.269.5221.198', 'http://doi.org/10.1126%2Fscience.aao7293', 'http://doi.org/10.1134%2F1.1883345', 'http://doi.org/10.1209%2F0295-5075%2F1%2F4%2F004', 'http://doi.org/10.12693%2FAPhysPolA.86.97', 'http://doi.org/10.3390%2Fe18050174', 'http://doi.org/10.3390%2Fe21020141', 'http://www.escholarship.org/uc/item/3wm0v847', 'http://www.jstor.org/stable/10.1086/425941', 'http://www.jstor.org/stable/2888436', 'http://nobelprize.org/nobel_prizes/medicine/laureates/1967/wald-lecture.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/1911/wien-lecture.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/1918/planck-lecture.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/1921/press.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/1923/millikan-lecture.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/1932/heisenberg-lecture.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/1979/glashow-lecture.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/1979/salam-lecture.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/1979/weinberg-lecture.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/2005/glauber-lecture.pdf', 'http://www.worldcat.org/issn/0031-8248', 'http://www.worldcat.org/issn/0031-9007', 'http://www.worldcat.org/issn/1476-4687', 'http://www.worldcat.org/oclc/18069573', 'http://www.worldcat.org/oclc/2284121', 'http://www.worldcat.org/oclc/40180195', 'http://www.worldcat.org/oclc/50479292', 'http://www.sheffield.ac.uk/polopoly_fs/1.14183!/file/photon.pdf', 'https://books.google.com/books?id=-PSybuLNxcAC&pg=PA529', 'https://books.google.com/books?id=-SkMngEACAAJ', 'https://books.google.com/books?id=06_9B7S_q_YC&pg=PA16', 'https://books.google.com/books?id=20ISsQCKKmQC', 'https://books.google.com/books?id=4UC4AAAAIAAJ', 'https://books.google.com/books?id=6n64CAAAQBAJ&pg=PA16', 'https://books.google.com/books?id=6rTttN4ZdyoC&pg=PA102', 'https://books.google.com/books?id=EbDw1lV_MKsC', 'https://books.google.com/books?id=Eo5xpO83YpoC', 'https://books.google.com/books?id=HbdEAgAAQBAJ&pg=PA66', 'https://books.google.com/books?id=NmM-KujxMtoC', 'https://books.google.com/books?id=PLYECqs2geEC', 'https://books.google.com/books?id=Q-4dIthPuL4C', 'https://books.google.com/books?id=V04_vLQvstcC&pg=PA86', 'https://books.google.com/books?id=ZJ-ZY8NW9TIC', 'https://books.google.com/books?id=bSiTKcLf07UC', 'https://books.google.com/books?id=difXAAAAMAAJ', 'https://books.google.com/books?id=mREnwpAqz-YC&pg=PA260', 'https://books.google.com/books?id=nnuW_kVJ500C', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph137951&CON_LNG=ENG', 'https://eldorado.tu-dortmund.de/handle/2003/24257', 'https://www.repo.uni-hannover.de/bitstream/123456789/8834/1/Proof%20of%20Heisenberg%E2%80%99s%20Error-Disturbance%20Relation.pdf', 'https://authors.library.caltech.edu/6051/1/KIMprl77.pdf', 'https://ui.adsabs.harvard.edu/abs/1865RSPT..155..459C', 'https://ui.adsabs.harvard.edu/abs/1901AnP...309..553P', 'https://ui.adsabs.harvard.edu/abs/1905AnP...322..132E', 'https://ui.adsabs.harvard.edu/abs/1910AnP...338.1427D', 'https://ui.adsabs.harvard.edu/abs/1916DPhyG..18..318E', 'https://ui.adsabs.harvard.edu/abs/1923PhRv...21..483C', 'https://ui.adsabs.harvard.edu/abs/1924ZPhy...26..178B', 'https://ui.adsabs.harvard.edu/abs/1926Natur.118..874L', 'https://ui.adsabs.harvard.edu/abs/1926RSPSA.112..661D', 'https://ui.adsabs.harvard.edu/abs/1926ZPhy...35..557B', 'https://ui.adsabs.harvard.edu/abs/1926ZPhy...37..863B', 'https://ui.adsabs.harvard.edu/abs/1926ZPhy...38..803B', 'https://ui.adsabs.harvard.edu/abs/1927RSPSA.114..243D', 'https://ui.adsabs.harvard.edu/abs/1927RSPSA.114..710D', 'https://ui.adsabs.harvard.edu/abs/1929ZPhy...56....1H', 'https://ui.adsabs.harvard.edu/abs/1930ZPhy...59..168H', 'https://ui.adsabs.harvard.edu/abs/1932Natur.129...22R', 'https://ui.adsabs.harvard.edu/abs/1932RvMP....4...87F', 'https://ui.adsabs.harvard.edu/abs/1936PhRv...50.1066P', 'https://ui.adsabs.harvard.edu/abs/1949RvMP...21..400N', 'https://ui.adsabs.harvard.edu/abs/1960AnPhy..11....1S', 'https://ui.adsabs.harvard.edu/abs/1971PhRvL..26..721W', 'https://ui.adsabs.harvard.edu/abs/1973PhLB...44..195W', 'https://ui.adsabs.harvard.edu/abs/1974PhRvD...9..853C', 'https://ui.adsabs.harvard.edu/abs/1976PrOpt..13...27M', 'https://ui.adsabs.harvard.edu/abs/1976SvPhU..19..624C', 'https://ui.adsabs.harvard.edu/abs/1977NuPhB.120..189W', 'https://ui.adsabs.harvard.edu/abs/1977PhRvL..39..691K', 'https://ui.adsabs.harvard.edu/abs/1978RvMP...50..261B', 'https://ui.adsabs.harvard.edu/abs/1984AmJPh..52..119M', 'https://ui.adsabs.harvard.edu/abs/1986EL......1..173G', 'https://ui.adsabs.harvard.edu/abs/1990PhT....43d..78B', 'https://ui.adsabs.harvard.edu/abs/1994AcPPA..86...97B', 'https://ui.adsabs.harvard.edu/abs/1995AnPhy.237....1B', 'https://ui.adsabs.harvard.edu/abs/1995ApPhB..60...77L', 'https://ui.adsabs.harvard.edu/abs/1995PhRvA..52.1875S', 'https://ui.adsabs.harvard.edu/abs/1995Sci...269..198A', 'https://ui.adsabs.harvard.edu/abs/1996AIPC..369.1234B', 'https://ui.adsabs.harvard.edu/abs/1996PrOpt..36..245B', 'https://ui.adsabs.harvard.edu/abs/1998PhRvL..80.1826L', 'https://ui.adsabs.harvard.edu/abs/2000PhR...332..165N', 'https://ui.adsabs.harvard.edu/abs/2000RScI...71.1675J', 'https://ui.adsabs.harvard.edu/abs/2004AmJPh..72.1210T', 'https://ui.adsabs.harvard.edu/abs/2005AstL...31..147K', 'https://ui.adsabs.harvard.edu/abs/2007PhRvL..98a0402A', 'https://ui.adsabs.harvard.edu/abs/2008JPhCS.110d2033W', 'https://ui.adsabs.harvard.edu/abs/2008PhLB..667....1A', 'https://ui.adsabs.harvard.edu/abs/2009EJPh...30..345B', 'https://ui.adsabs.harvard.edu/abs/2013PhRvL.111p0405B', 'https://ui.adsabs.harvard.edu/abs/2016Entrp..18..174A', 'https://ui.adsabs.harvard.edu/abs/2018Sci...359..783L', 'https://ui.adsabs.harvard.edu/abs/2019Entrp..21..141J', 'https://catalogue.bnf.fr/ark:/12148/cb11979547h', 'https://data.bnf.fr/ark:/12148/cb11979547h', 'https://id.loc.gov/authorities/subjects/sh85101398', 'https://d-nb.info/gnd/4045922-6', 'https://id.ndl.go.jp/auth/ndlna/00566716', 'https://history.aip.org/history/exhibits/gap/Compton/Compton.html#compton1', 'https://www.aps.org/publications/apsnews/201212/physicshistory.cfm', 'https://archive.org/details/QuantumMechanics_104', 'https://archive.org/details/electricdischarg00waym', 'https://archive.org/details/elementarypartic00hugh', 'https://archive.org/details/isbn_0471216437', 'https://archive.org/details/origindevelopmen00planrich', 'https://archive.org/details/quantumfieldtheo0000itzy', 'https://archive.org/details/subtleislordscie00pais', 'https://web.archive.org/web/20080418002757/http://dbhs.wvusd.k12.ca.us/webdocs/Chem-History/Planck-1901/Planck-1901.html', 'https://web.archive.org/web/20080723150609/http://nobelprize.org/nobel_prizes/physics/laureates/2005/glauber-lecture.pdf', 'https://web.archive.org/web/20160603235132/http://dspace.rri.res.in/bitstream/2289/2123/1/1931%20IJP%20V6%20p353.pdf', 'https://www.atomicheritage.org/profile/gilbert-n-lewis', 'https://www.gutenberg.org/ebooks/14725', 'https://spectrum.ieee.org/telecom/wireless/twisted-light-could-dramatically-boost-data-rates', 'https://www.khanacademy.org/science/physics/quantum-physics/photons/v/photon-energy', 'https://www.nobelprize.org/uploads/2018/06/compton-lecture.pdf', 'https://api.semanticscholar.org/CorpusID:118320287', 'https://api.semanticscholar.org/CorpusID:118517359', 'https://api.semanticscholar.org/CorpusID:119409823', 'https://api.semanticscholar.org/CorpusID:119437227', 'https://api.semanticscholar.org/CorpusID:119896026', 'https://api.semanticscholar.org/CorpusID:121928597', 'https://api.semanticscholar.org/CorpusID:126244962', 'https://api.semanticscholar.org/CorpusID:13118587', 'https://api.semanticscholar.org/CorpusID:17695022', 'https://api.semanticscholar.org/CorpusID:186207827', 'https://api.semanticscholar.org/CorpusID:186219228', 'https://api.semanticscholar.org/CorpusID:186235974', 'https://api.semanticscholar.org/CorpusID:186237037', 'https://api.semanticscholar.org/CorpusID:2414593', 'https://api.semanticscholar.org/CorpusID:24507489', 'https://api.semanticscholar.org/CorpusID:250837011', 'https://api.semanticscholar.org/CorpusID:31249827', 'https://api.semanticscholar.org/CorpusID:38626417', 'https://api.semanticscholar.org/CorpusID:4064852', 'https://api.semanticscholar.org/CorpusID:4110026', 'https://api.semanticscholar.org/CorpusID:9454552', 'https://www.wikidata.org/wiki/Q3198#identifiers', 'https://zenodo.org/record/1424189', 'https://zenodo.org/record/2278669']
+
+####### SUMMARY #######
+
+A photon (from Ancient Greek  φῶς, φωτός (phôs, phōtós) 'light') is an elementary particle that is a quantum of the electromagnetic field, including electromagnetic radiation such as light and radio waves, and the force carrier for the electromagnetic force. Photons are massless, so they always move at the speed of light in vacuum, 299792458 m/s (or about 186,282 mi/s). The photon belongs to the class of bosons.
+As with other elementary particles, photons are best explained by quantum mechanics and exhibit wave–particle duality, their behavior featuring properties of both waves and particles. The modern photon concept originated during the first two decades of the 20th century with the work of Albert Einstein, who built upon the research of Max Planck. While trying to explain how matter and electromagnetic radiation could be in thermal equilibrium with one another, Planck proposed that the energy stored within a material object should be regarded as composed of an integer number of discrete, equal-sized parts. To explain the photoelectric effect, Einstein introduced the idea that light itself is made of discrete units of energy. In 1926, Gilbert N. Lewis popularized the term photon for these energy units. Subsequently, many other experiments validated Einstein's approach.In the Standard Model of particle physics, photons and other elementary particles are described as a necessary consequence of physical laws having a certain symmetry at every point in spacetime. The intrinsic properties of particles, such as charge, mass, and spin, are determined by gauge symmetry.  The photon concept has led to momentous advances in experimental and theoretical physics, including lasers, Bose–Einstein condensation, quantum field theory, and the probabilistic interpretation of quantum mechanics. It has been applied to photochemistry, high-resolution microscopy, and measurements of molecular distances. Moreover, photons have been studied as elements of quantum computers, and for applications in optical imaging and optical communication such as quantum cryptography.
+
+####### CONTENT #######
+
+A photon (from Ancient Greek  φῶς, φωτός (phôs, phōtós) 'light') is an elementary particle that is a quantum of the electromagnetic field, including electromagnetic radiation such as light and radio waves, and the force carrier for the electromagnetic force. Photons are massless, so they always move at the speed of light in vacuum, 299792458 m/s (or about 186,282 mi/s). The photon belongs to the class of bosons.
+As with other elementary particles, photons are best explained by quantum mechanics and exhibit wave–particle duality, their behavior featuring properties of both waves and particles. The modern photon concept originated during the first two decades of the 20th century with the work of Albert Einstein, who built upon the research of Max Planck. While trying to explain how matter and electromagnetic radiation could be in thermal equilibrium with one another, Planck proposed that the energy stored within a material object should be regarded as composed of an integer number of discrete, equal-sized parts. To explain the photoelectric effect, Einstein introduced the idea that light itself is made of discrete units of energy. In 1926, Gilbert N. Lewis popularized the term photon for these energy units. Subsequently, many other experiments validated Einstein's approach.In the Standard Model of particle physics, photons and other elementary particles are described as a necessary consequence of physical laws having a certain symmetry at every point in spacetime. The intrinsic properties of particles, such as charge, mass, and spin, are determined by gauge symmetry.  The photon concept has led to momentous advances in experimental and theoretical physics, including lasers, Bose–Einstein condensation, quantum field theory, and the probabilistic interpretation of quantum mechanics. It has been applied to photochemistry, high-resolution microscopy, and measurements of molecular distances. Moreover, photons have been studied as elements of quantum computers, and for applications in optical imaging and optical communication such as quantum cryptography.
+
+
+== Nomenclature ==
+
+The word quanta (singular quantum, Latin for how much) was used before 1900 to mean particles or amounts of different quantities, including electricity. In 1900, the German physicist Max Planck was studying black-body radiation, and he suggested that the experimental observations, specifically at shorter wavelengths, would be explained if the energy stored within a molecule was a "discrete quantity composed of an integral number of finite equal parts", which he called "energy elements". In 1905, Albert Einstein published a paper in which he proposed that many light-related phenomena—including black-body radiation and the photoelectric effect—would be better explained by modelling electromagnetic waves as consisting of spatially localized, discrete wave-packets. He called such a wave-packet the light quantum (German: das Lichtquant).The name photon derives from the Greek word for light, φῶς (transliterated phôs). Arthur Compton used photon in 1928, referring to G.N. Lewis, who coined the term in a letter to Nature on 18 December 1926. The same name was used earlier but was never widely adopted before Lewis: in 1916 by the American physicist and psychologist Leonard T. Troland, in 1921 by the Irish physicist Joly, in 1924 by the French physiologist René Wurmser (1890–1993), and in 1926 by the French physicist Frithiof Wolfers (1891–1971). The name was suggested initially as a unit related to the illumination of the eye and the resulting sensation of light and was used later in a physiological context. Although Wolfers's and Lewis's theories were contradicted by many experiments and never accepted, the new name was adopted by most physicists very soon after Compton used it.In physics, a photon is usually denoted by the symbol γ (the Greek letter gamma). This symbol for the photon probably derives from gamma rays, which were discovered in 1900 by Paul Villard, named by Ernest Rutherford in 1903, and shown to be a form of electromagnetic radiation in 1914 by Rutherford and Edward Andrade. In chemistry and optical engineering, photons are usually symbolized by hν, which is the photon energy, where h is Planck constant and the Greek letter ν (nu) is the photon's frequency. Much less commonly, the photon can be symbolized by hf, where its frequency is denoted by f.
+
+
+== Physical properties ==
+A photon is massless, has no electric charge, and is a stable particle. In a vacuum, a photon has three possible polarization states. The photon is the gauge boson for electromagnetism,: 29–30  and therefore all other quantum numbers of the photon (such as lepton number, baryon number, and flavour quantum numbers) are zero. Also, the photon obeys Bose–Einstein statistics, not the Pauli exclusion principle.: 1221 Photons are emitted in many natural processes. For example, when a charge is accelerated it emits synchrotron radiation. During a molecular, atomic or nuclear transition to a lower energy level, photons of various energy will be emitted, ranging from radio waves to gamma rays. Photons can also be emitted when a particle and its corresponding antiparticle are annihilated (for example, electron–positron annihilation).: 572, 1114, 1172 
+
+
+=== Relativistic energy and momentum ===
+
+In empty space, the photon moves at c (the speed of light) and its energy and momentum are related by E  = p c , where p is the magnitude of the momentum vector p. This derives from the following relativistic relation, with m = 0 :
+
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+        =
+        
+          p
+          
+            2
+          
+        
+        
+          c
+          
+            2
+          
+        
+        +
+        
+          m
+          
+            2
+          
+        
+        
+          c
+          
+            4
+          
+        
+         
+        .
+      
+    
+    {\displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}~.}
+  The energy and momentum of a photon depend only on its frequency (
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  ) or inversely, its wavelength (λ):
+
+  
+    
+      
+        E
+        =
+        ℏ
+        
+        ω
+        =
+        h
+        
+        ν
+        =
+        
+          
+            
+              
+              h
+              
+              c
+              
+            
+            λ
+          
+        
+      
+    
+    {\displaystyle E=\hbar \,\omega =h\,\nu ={\frac {\,h\,c\,}{\lambda }}}
+  
+  
+    
+      
+        
+          p
+        
+        =
+        ℏ
+        
+        
+          k
+        
+         
+        ,
+      
+    
+    {\displaystyle {\boldsymbol {p}}=\hbar \,{\boldsymbol {k}}~,}
+  where k is the wave vector, where
+
+ k ≡ |k| =  2π /λ     is the wave number, and
+ ω ≡ 2 π ν    is the angular frequency, and
+ ħ ≡ h/ 2π      is the reduced Planck constant.Since p points in the direction of the photon's propagation, the magnitude of its momentum is
+
+  
+    
+      
+        p
+        ≡
+        
+          |
+          
+            p
+          
+          |
+        
+        =
+        ℏ
+        
+        k
+        =
+        
+          
+            
+              
+              h
+              
+              ν
+              
+            
+            c
+          
+        
+        =
+        
+          
+            
+              
+              h
+              
+            
+            λ
+          
+        
+         
+        .
+      
+    
+    {\displaystyle p\equiv \left|{\boldsymbol {p}}\right|=\hbar \,k={\frac {\,h\,\nu \,}{c}}={\frac {\,h\,}{\lambda }}~.}
+  
+
+
+=== Polarization and angular momentum ===
+
+The photon also carries two other quantities called spin angular momentum (which is related to linear or circular photon polarization) and orbital angular momentum.
+
+
+==== Spin angular momentum ====
+
+The spin angular momentum of light does not depend on its frequency, and was experimentally verified by Raman and Bhagavantam in 1931.Because photons always move at the speed of light, the spin is best expressed in terms of the component measured along its direction of motion, its helicity, which must be either +ħ or −ħ.
+These two possible helicities, called right-handed and left-handed, correspond to the two possible circular polarization states of the photon.To illustrate the significance of these formulae, the annihilation of a particle with its antiparticle in free space must result in the creation of at least two photons for the following reason:
+In the center of momentum frame, the colliding antiparticles have no net momentum, whereas a single photon always has momentum (since, as we have seen, it is determined by the photon's frequency or wavelength, which cannot be zero). Hence, conservation of momentum (or equivalently, translational invariance) requires that at least two photons are created, with zero net momentum.: 64–65  The energy of the two photons, or, equivalently, their frequency, may be determined from conservation of four-momentum.
+
+Seen another way, the photon can be considered as its own antiparticle (thus an "antiphoton" is simply a normal photon with opposite momentum, equal polarization, and 180° out of phase). The reverse process, pair production, is the dominant mechanism by which high-energy photons such as gamma rays lose energy while passing through matter. That process is the reverse of "annihilation to one photon" allowed in the electric field of an atomic nucleus.
+The classical formulae for the energy and momentum of electromagnetic radiation can be re-expressed in terms of photon events. For example, the pressure of electromagnetic radiation on an object derives from the transfer of photon momentum per unit time and unit area to that object, since pressure is force per unit area and force is the change in momentum per unit time.
+
+
+==== Orbital angular momentum ====
+
+Each photon carries two distinct and independent forms of angular momentum: spin and orbital angular momentum. As discussed above, the spin angular momentum of light of a particular photon is always either +ħ, 0, or −ħ. In contrast, the light orbital angular momentum of a particular photon can be any integer N, including zero.
+
+
+=== Experimental checks on photon mass ===
+Current commonly accepted physical theories imply or assume the photon to be strictly massless. If the photon is not a strictly massless particle, it would not move at the exact speed of light, c, in vacuum. Its speed would be lower and depend on its frequency. Relativity would be unaffected by this; the so-called speed of light, c, would then not be the actual speed at which light moves, but a constant of nature which is the upper bound on speed that any object could theoretically attain in spacetime. Thus, it would still be the speed of spacetime ripples (gravitational waves and gravitons), but it would not be the speed of photons.
+If a photon did have non-zero mass, there would be other effects as well. Coulomb's law would be modified and the electromagnetic field would have an extra physical degree of freedom. These effects yield more sensitive experimental probes of the photon mass than the frequency dependence of the speed of light. If Coulomb's law is not exactly valid, then that would allow the presence of an electric field to exist within a hollow conductor when it is subjected to an external electric field. This provides a means for very-high-precision tests of Coulomb's law. A null result of such an experiment has set a limit of m ≲ 10−14 eV/c2.Sharper upper limits on the mass of light have been obtained in experiments designed to detect effects caused by the galactic vector potential. Although the galactic vector potential is very large because the galactic magnetic field exists on very great length scales, only the magnetic field would be observable if the photon is massless. In the case that the photon has mass, the mass term 1/2m2AμAμ would affect the galactic plasma. The fact that no such effects are seen implies an upper bound on the photon mass of m < 3×10−27 eV/c2. The galactic vector potential can also be probed directly by measuring the torque exerted on a magnetized ring. Such methods were used to obtain the sharper upper limit of 1.07×10−27 eV/c2 (the equivalent of 10−36 daltons) given by the Particle Data Group.These sharp limits from the non-observation of the effects caused by the galactic vector potential have been shown to be model-dependent. If the photon mass is generated via the Higgs mechanism then the upper limit of m ≲ 10−14 eV/c2 from the test of Coulomb's law is valid.
+
+
+== Historical development ==
+
+In most theories up to the eighteenth century, light was pictured as being made up of particles. Since particle models cannot easily account for the refraction, diffraction and birefringence of light, wave theories of light were proposed by René Descartes (1637), Robert Hooke (1665), and Christiaan Huygens (1678); however, particle models remained dominant, chiefly due to the influence of Isaac Newton. In the early 19th century, Thomas Young and August Fresnel clearly demonstrated the interference and diffraction of light, and by 1850 wave models were generally accepted. James Clerk Maxwell's 1865 prediction that light was an electromagnetic wave – which was confirmed experimentally in 1888 by Heinrich Hertz's detection of radio waves – seemed to be the final blow to particle models of light.
+
+The Maxwell wave theory, however, does not account for all properties of light. The Maxwell theory predicts that the energy of a light wave depends only on its intensity, not on its frequency; nevertheless, several independent types of experiments show that the energy imparted by light to atoms depends only on the light's frequency, not on its intensity. For example, some chemical reactions are provoked only by light of frequency higher than a certain threshold; light of frequency lower than the threshold, no matter how intense, does not initiate the reaction. Similarly, electrons can be ejected from a metal plate by shining light of sufficiently high frequency on it (the photoelectric effect); the energy of the ejected electron is related only to the light's frequency, not to its intensity.At the same time, investigations of black-body radiation carried out over four decades (1860–1900) by various researchers culminated in Max Planck's hypothesis that the energy of any system that absorbs or emits electromagnetic radiation of frequency ν is an integer multiple of an energy quantum  E = hν . As shown by Albert Einstein, some form of energy quantization must be assumed to account for the thermal equilibrium observed between matter and electromagnetic radiation; for this explanation of the photoelectric effect, Einstein received the 1921 Nobel Prize in physics.Since the Maxwell theory of light allows for all possible energies of electromagnetic radiation, most physicists assumed initially that the energy quantization resulted from some unknown constraint on the matter that absorbs or emits the radiation. In 1905, Einstein was the first to propose that energy quantization was a property of electromagnetic radiation itself. Although he accepted the validity of Maxwell's theory, Einstein pointed out that many anomalous experiments could be explained if the energy of a Maxwellian light wave were localized into point-like quanta that move independently of one another, even if the wave itself is spread continuously over space. In 1909 and 1916, Einstein showed that, if Planck's law regarding black-body radiation is accepted, the energy quanta must also carry momentum  p =  h / λ  , making them full-fledged particles. This photon momentum was observed experimentally by Arthur Compton, for which he received the Nobel Prize in 1927. The pivotal question then, was how to unify Maxwell's wave theory of light with its experimentally observed particle nature? The answer to this question occupied Albert Einstein for the rest of his life, and was solved in quantum electrodynamics and its successor, the Standard Model. (See § Second quantization and § As a gauge boson, below.)
+
+Einstein's 1905 predictions were verified experimentally in several ways in the first two decades of the 20th century, as recounted in Robert Millikan's Nobel lecture. However, before Compton's experiment showed that photons carried momentum proportional to their wave number (1922), most physicists were reluctant to believe that electromagnetic radiation itself might be particulate. (See, for example, the Nobel lectures of Wien, Planck and Millikan.) Instead, there was a widespread belief that energy quantization resulted from some unknown constraint on the matter that absorbed or emitted radiation. Attitudes changed over time. In part, the change can be traced to experiments such as those revealing Compton scattering, where it was much more difficult not to ascribe quantization to light itself to explain the observed results.Even after Compton's experiment, Niels Bohr, Hendrik Kramers and John Slater made one last attempt to preserve the Maxwellian continuous electromagnetic field model of light, the so-called BKS theory. An important feature of the BKS theory is how it treated the conservation of energy and the conservation of momentum. In the BKS theory, energy and momentum are only conserved on the average across many interactions between matter and radiation. However, refined Compton experiments showed that the conservation laws hold for individual interactions. Accordingly, Bohr and his co-workers gave their model "as honorable a funeral as possible". Nevertheless, the failures of the BKS model inspired Werner Heisenberg in his development of matrix mechanics.A few physicists persisted in developing semiclassical models in which electromagnetic radiation is not quantized, but matter appears to obey the laws of quantum mechanics. Although the evidence from chemical and physical experiments for the existence of photons was overwhelming by the 1970s, this evidence could not be considered as absolutely definitive; since it relied on the interaction of light with matter, and a sufficiently complete theory of matter could in principle account for the evidence. Nevertheless, all semiclassical theories were refuted definitively in the 1970s and 1980s by photon-correlation experiments.
+Hence, Einstein's hypothesis that quantization is a property of light itself is considered to be proven.
+
+
+== Wave–particle duality and uncertainty principles ==
+
+Photons obey the laws of quantum mechanics, and so their behavior has both wave-like and particle-like aspects. When a photon is detected by a measuring instrument, it is registered as a single, particulate unit. However, the probability of detecting a photon is calculated by equations that describe waves. This combination of aspects is known as wave–particle duality. For example, the probability distribution for the location at which a photon might be detected displays clearly wave-like phenomena such as diffraction and interference. A single photon passing through a double-slit experiment has its energy received at a point on the screen with a probability distribution given by its interference pattern determined by Maxwell's wave equations. However, experiments confirm that the photon is not a short pulse of electromagnetic radiation; a photon's Maxwell waves will diffract, but photon energy does not spread out as it propagates, nor does this energy divide when it encounters a beam splitter. Rather, the received photon acts like a point-like particle since it is absorbed or emitted as a whole by arbitrarily small systems, including systems much smaller than its wavelength, such as an atomic nucleus (≈10−15 m across) or even the point-like electron.
+While many introductory texts treat photons using the mathematical techniques of non-relativistic quantum mechanics, this is in some ways an awkward oversimplification, as photons are by nature intrinsically relativistic. Because photons have zero rest mass, no wave function defined for a photon can have all the properties familiar from wave functions in non-relativistic quantum mechanics. In order to avoid these difficulties, physicists employ the second-quantized theory of photons described below, quantum electrodynamics, in which photons are quantized excitations of electromagnetic modes.Another difficulty is finding the proper analogue for the uncertainty principle, an idea frequently attributed to Heisenberg, who introduced the concept in analyzing a thought experiment involving an electron and a high-energy photon. However, Heisenberg did not give precise mathematical definitions of what the "uncertainty" in these measurements meant. The precise mathematical statement of the position–momentum uncertainty principle is due to Kennard, Pauli, and Weyl. The uncertainty principle applies to situations where an experimenter has a choice of measuring either one of two "canonically conjugate" quantities, like the position and the momentum of a particle. According to the uncertainty principle, no matter how the particle is prepared, it is not possible to make a precise prediction for both of the two alternative measurements: if the outcome of the position measurement is made more certain, the outcome of the momentum measurement becomes less so, and vice versa. A coherent state minimizes the overall uncertainty as far as quantum mechanics allows. Quantum optics makes use of coherent states for modes of the electromagnetic field. There is a tradeoff, reminiscent of the position–momentum uncertainty relation, between measurements of an electromagnetic wave's amplitude and its phase. This is sometimes informally expressed in terms of the uncertainty in the number of photons present in the electromagnetic wave, 
+  
+    
+      
+        Δ
+        N
+      
+    
+    {\displaystyle \Delta N}
+  , and the uncertainty in the phase of the wave, 
+  
+    
+      
+        Δ
+        ϕ
+      
+    
+    {\displaystyle \Delta \phi }
+  . However, this cannot be an uncertainty relation of the Kennard–Pauli–Weyl type, since unlike position and momentum, the phase 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   cannot be represented by a Hermitian operator.
+
+
+== Bose–Einstein model of a photon gas ==
+
+In 1924, Satyendra Nath Bose derived Planck's law of black-body radiation without using any electromagnetism, but rather by using a modification of coarse-grained counting of phase space. Einstein showed that this modification is equivalent to assuming that photons are rigorously identical and that it implied a "mysterious non-local interaction", now understood as the requirement for a symmetric quantum mechanical state. This work led to the concept of coherent states and the development of the laser. In the same papers, Einstein extended Bose's formalism to material particles (bosons) and predicted that they would condense into their lowest quantum state at low enough temperatures; this Bose–Einstein condensation was observed experimentally in 1995. It was later used by Lene Hau to slow, and then completely stop, light in 1999 and 2001.The modern view on this is that photons are, by virtue of their integer spin, bosons (as opposed to fermions with half-integer spin). By the spin-statistics theorem, all bosons obey Bose–Einstein statistics (whereas all fermions obey Fermi–Dirac statistics).
+
+
+== Stimulated and spontaneous emission ==
+
+In 1916, Albert Einstein showed that Planck's radiation law could be derived from a semi-classical, statistical treatment of photons and atoms, which implies a link between the rates at which atoms emit and absorb photons. The condition follows from the assumption that functions of the emission and absorption of radiation by the atoms are independent of each other, and that thermal equilibrium is made by way of the radiation's interaction with the atoms. Consider a cavity in thermal equilibrium with all parts of itself and filled with electromagnetic radiation and that the atoms can emit and absorb that radiation. Thermal equilibrium requires that the energy density 
+  
+    
+      
+        ρ
+        (
+        ν
+        )
+      
+    
+    {\displaystyle \rho (\nu )}
+   of photons with frequency 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   (which is proportional to their number density) is, on average, constant in time; hence, the rate at which photons of any particular frequency are emitted must equal the rate at which they are absorbed.Einstein began by postulating simple proportionality relations for the different reaction rates involved. In his model, the rate 
+  
+    
+      
+        
+          R
+          
+            j
+            i
+          
+        
+      
+    
+    {\displaystyle R_{ji}}
+   for a system to absorb a photon of frequency 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   and transition from a lower energy 
+  
+    
+      
+        
+          E
+          
+            j
+          
+        
+      
+    
+    {\displaystyle E_{j}}
+   to a higher energy 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+      
+    
+    {\displaystyle E_{i}}
+   is proportional to the number 
+  
+    
+      
+        
+          N
+          
+            j
+          
+        
+      
+    
+    {\displaystyle N_{j}}
+   of atoms with energy 
+  
+    
+      
+        
+          E
+          
+            j
+          
+        
+      
+    
+    {\displaystyle E_{j}}
+   and to the energy density 
+  
+    
+      
+        ρ
+        (
+        ν
+        )
+      
+    
+    {\displaystyle \rho (\nu )}
+   of ambient photons of that frequency,
+
+  
+    
+      
+        
+          R
+          
+            j
+            i
+          
+        
+        =
+        
+          N
+          
+            j
+          
+        
+        
+          B
+          
+            j
+            i
+          
+        
+        ρ
+        (
+        ν
+        )
+        
+      
+    
+    {\displaystyle R_{ji}=N_{j}B_{ji}\rho (\nu )\!}
+  where 
+  
+    
+      
+        
+          B
+          
+            j
+            i
+          
+        
+      
+    
+    {\displaystyle B_{ji}}
+   is the rate constant for absorption. For the reverse process, there are two possibilities: spontaneous emission of a photon, or the emission of a photon initiated by the interaction of the atom with a passing photon and the return of the atom to the lower-energy state. Following Einstein's approach, the corresponding rate 
+  
+    
+      
+        
+          R
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle R_{ij}}
+   for the emission of photons of frequency 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   and transition from a higher energy 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+      
+    
+    {\displaystyle E_{i}}
+   to a lower energy 
+  
+    
+      
+        
+          E
+          
+            j
+          
+        
+      
+    
+    {\displaystyle E_{j}}
+   is
+
+  
+    
+      
+        
+          R
+          
+            i
+            j
+          
+        
+        =
+        
+          N
+          
+            i
+          
+        
+        
+          A
+          
+            i
+            j
+          
+        
+        +
+        
+          N
+          
+            i
+          
+        
+        
+          B
+          
+            i
+            j
+          
+        
+        ρ
+        (
+        ν
+        )
+        
+      
+    
+    {\displaystyle R_{ij}=N_{i}A_{ij}+N_{i}B_{ij}\rho (\nu )\!}
+  where 
+  
+    
+      
+        
+          A
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle A_{ij}}
+   is the rate constant for emitting a photon spontaneously, and 
+  
+    
+      
+        
+          B
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle B_{ij}}
+   is the rate constant for emissions in response to ambient photons (induced or stimulated emission). In thermodynamic equilibrium, the number of atoms in state 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and those in state 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   must, on average, be constant; hence, the rates 
+  
+    
+      
+        
+          R
+          
+            j
+            i
+          
+        
+      
+    
+    {\displaystyle R_{ji}}
+   and 
+  
+    
+      
+        
+          R
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle R_{ij}}
+   must be equal. Also, by arguments analogous to the derivation of Boltzmann statistics, the ratio of 
+  
+    
+      
+        
+          N
+          
+            i
+          
+        
+      
+    
+    {\displaystyle N_{i}}
+   and 
+  
+    
+      
+        
+          N
+          
+            j
+          
+        
+      
+    
+    {\displaystyle N_{j}}
+   is 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+        
+          /
+        
+        
+          g
+          
+            j
+          
+        
+        exp
+        ⁡
+        
+          (
+          
+            E
+            
+              j
+            
+          
+          −
+          
+            E
+            
+              i
+            
+          
+          )
+          
+            /
+          
+          (
+          k
+          T
+          )
+        
+        ,
+      
+    
+    {\displaystyle g_{i}/g_{j}\exp {(E_{j}-E_{i})/(kT)},}
+   where 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+   and 
+  
+    
+      
+        
+          g
+          
+            j
+          
+        
+      
+    
+    {\displaystyle g_{j}}
+   are the degeneracy of the state 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   and that of 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  , respectively, 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+      
+    
+    {\displaystyle E_{i}}
+   and 
+  
+    
+      
+        
+          E
+          
+            j
+          
+        
+      
+    
+    {\displaystyle E_{j}}
+   their energies, 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   the Boltzmann constant and 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   the system's temperature. From this, it is readily derived that
+
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+        
+          B
+          
+            i
+            j
+          
+        
+        =
+        
+          g
+          
+            j
+          
+        
+        
+          B
+          
+            j
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}B_{ij}=g_{j}B_{ji}}
+   and
+
+  
+    
+      
+        
+          A
+          
+            i
+            j
+          
+        
+        =
+        
+          
+            
+              8
+              π
+              h
+              
+                ν
+                
+                  3
+                
+              
+            
+            
+              c
+              
+                3
+              
+            
+          
+        
+        
+          B
+          
+            i
+            j
+          
+        
+        .
+      
+    
+    {\displaystyle A_{ij}={\frac {8\pi h\nu ^{3}}{c^{3}}}B_{ij}.}
+  The 
+  
+    
+      
+        
+          A
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle A_{ij}}
+   and 
+  
+    
+      
+        
+          B
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle B_{ij}}
+   are collectively known as the Einstein coefficients.Einstein could not fully justify his rate equations, but claimed that it should be possible to calculate the coefficients 
+  
+    
+      
+        
+          A
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle A_{ij}}
+  , 
+  
+    
+      
+        
+          B
+          
+            j
+            i
+          
+        
+      
+    
+    {\displaystyle B_{ji}}
+   and 
+  
+    
+      
+        
+          B
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle B_{ij}}
+   once physicists had obtained "mechanics and electrodynamics modified to accommodate the quantum hypothesis". Not long thereafter, in 1926, Paul Dirac derived the 
+  
+    
+      
+        
+          B
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle B_{ij}}
+   rate constants by using a semiclassical approach, and, in 1927, succeeded in deriving all the rate constants from first principles within the framework of quantum theory. Dirac's work was the foundation of quantum electrodynamics, i.e., the quantization of the electromagnetic field itself. Dirac's approach is also called second quantization or quantum field theory; earlier quantum mechanical treatments only treat material particles as quantum mechanical, not the electromagnetic field.
+Einstein was troubled by the fact that his theory seemed incomplete, since it did not determine the direction of a spontaneously emitted photon. A probabilistic nature of light-particle motion was first considered by Newton in his treatment of birefringence and, more generally, of the splitting of light beams at interfaces into a transmitted beam and a reflected beam. Newton hypothesized that hidden variables in the light particle determined which of the two paths a single photon would take. Similarly, Einstein hoped for a more complete theory that would leave nothing to chance, beginning his separation from quantum mechanics. Ironically, Max Born's probabilistic interpretation of the wave function was inspired by Einstein's later work searching for a more complete theory.
+
+
+== Quantum field theory ==
+
+
+=== Quantization of the electromagnetic field ===
+
+In 1910, Peter Debye derived Planck's law of black-body radiation from a relatively simple assumption. He decomposed the electromagnetic field in a cavity into its Fourier modes, and assumed that the energy in any mode was an integer multiple of 
+  
+    
+      
+        h
+        ν
+      
+    
+    {\displaystyle h\nu }
+  , where 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   is the frequency of the electromagnetic mode. Planck's law of black-body radiation follows immediately as a geometric sum. However, Debye's approach failed to give the correct formula for the energy fluctuations of black-body radiation, which were derived by Einstein in 1909.In 1925, Born, Heisenberg and Jordan reinterpreted Debye's concept in a key way. As may be shown classically, the Fourier modes of the electromagnetic field—a complete set of electromagnetic plane waves indexed by their wave vector k and polarization state—are equivalent to a set of uncoupled simple harmonic oscillators. Treated quantum mechanically, the energy levels of such oscillators are known to be 
+  
+    
+      
+        E
+        =
+        n
+        h
+        ν
+      
+    
+    {\displaystyle E=nh\nu }
+  , where 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   is the oscillator frequency. The key new step was to identify an electromagnetic mode with energy 
+  
+    
+      
+        E
+        =
+        n
+        h
+        ν
+      
+    
+    {\displaystyle E=nh\nu }
+   as a state with 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   photons, each of energy 
+  
+    
+      
+        h
+        ν
+      
+    
+    {\displaystyle h\nu }
+  . This approach gives the correct energy fluctuation formula.
+
+Dirac took this one step further. He treated the interaction between a charge and an electromagnetic field as a small perturbation that induces transitions in the photon states, changing the numbers of photons in the modes, while conserving energy and momentum overall. Dirac was able to derive Einstein's 
+  
+    
+      
+        
+          A
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle A_{ij}}
+   and 
+  
+    
+      
+        
+          B
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle B_{ij}}
+   coefficients from first principles, and showed that the Bose–Einstein statistics of photons is a natural consequence of quantizing the electromagnetic field correctly (Bose's reasoning went in the opposite direction; he derived Planck's law of black-body radiation by assuming B–E statistics). In Dirac's time, it was not yet known that all bosons, including photons, must obey Bose–Einstein statistics.
+Dirac's second-order perturbation theory can involve virtual photons, transient intermediate states of the electromagnetic field; the static electric and magnetic interactions are mediated by such virtual photons. In such quantum field theories, the probability amplitude of observable events is calculated by summing over all possible intermediate steps, even ones that are unphysical; hence, virtual photons are not constrained to satisfy 
+  
+    
+      
+        E
+        =
+        p
+        c
+      
+    
+    {\displaystyle E=pc}
+  , and may have extra polarization states; depending on the gauge used, virtual photons may have three or four polarization states, instead of the two states of real photons. Although these transient virtual photons can never be observed, they contribute measurably to the probabilities of observable events. 
+Indeed, such second-order and higher-order perturbation calculations can give apparently infinite contributions to the sum. Such unphysical results are corrected for using the technique of renormalization.Other virtual particles may contribute to the summation as well; for example, two photons may interact indirectly through virtual electron–positron pairs. Such photon–photon scattering (see two-photon physics), as well as electron–photon scattering, is meant to be one of the modes of operations of the planned particle accelerator, the International Linear Collider.In modern physics notation, the quantum state of the electromagnetic field is written as a Fock state, a tensor product of the states for each electromagnetic mode
+
+  
+    
+      
+        
+          |
+        
+        
+          n
+          
+            
+              k
+              
+                0
+              
+            
+          
+        
+        ⟩
+        ⊗
+        
+          |
+        
+        
+          n
+          
+            
+              k
+              
+                1
+              
+            
+          
+        
+        ⟩
+        ⊗
+        ⋯
+        ⊗
+        
+          |
+        
+        
+          n
+          
+            
+              k
+              
+                n
+              
+            
+          
+        
+        ⟩
+        …
+      
+    
+    {\displaystyle |n_{k_{0}}\rangle \otimes |n_{k_{1}}\rangle \otimes \dots \otimes |n_{k_{n}}\rangle \dots }
+  where 
+  
+    
+      
+        
+          |
+        
+        
+          n
+          
+            
+              k
+              
+                i
+              
+            
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |n_{k_{i}}\rangle }
+   represents the state in which 
+  
+    
+      
+        
+        
+          n
+          
+            
+              k
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle \,n_{k_{i}}}
+   photons are in the mode 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle k_{i}}
+  . In this notation, the creation of a new photon in mode 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle k_{i}}
+   (e.g., emitted from an atomic transition) is written as 
+  
+    
+      
+        
+          |
+        
+        
+          n
+          
+            
+              k
+              
+                i
+              
+            
+          
+        
+        ⟩
+        →
+        
+          |
+        
+        
+          n
+          
+            
+              k
+              
+                i
+              
+            
+          
+        
+        +
+        1
+        ⟩
+      
+    
+    {\displaystyle |n_{k_{i}}\rangle \rightarrow |n_{k_{i}}+1\rangle }
+  . This notation merely expresses the concept of Born, Heisenberg and Jordan described above, and does not add any physics.
+
+
+=== As a gauge boson ===
+
+The electromagnetic field can be understood as a gauge field, i.e., as a field that results from requiring that a gauge symmetry holds independently at every position in spacetime. For the electromagnetic field, this gauge symmetry is the Abelian U(1) symmetry of complex numbers of absolute value 1, which reflects the ability to vary the phase of a complex field without affecting observables or real valued functions made from it, such as the energy or the Lagrangian.
+The quanta of an Abelian gauge field must be massless, uncharged bosons, as long as the symmetry is not broken; hence, the photon is predicted to be massless, and to have zero electric charge and integer spin. The particular form of the electromagnetic interaction specifies that the photon must have spin ±1; thus, its helicity must be 
+  
+    
+      
+        ±
+        ℏ
+      
+    
+    {\displaystyle \pm \hbar }
+  . These two spin components correspond to the classical concepts of right-handed and left-handed circularly polarized light. However, the transient virtual photons of quantum electrodynamics may also adopt unphysical polarization states.In the prevailing Standard Model of physics, the photon is one of four gauge bosons in the electroweak interaction; the other three are denoted W+, W− and Z0 and are responsible for the weak interaction. Unlike the photon, these gauge bosons have mass, owing to a mechanism that breaks their SU(2) gauge symmetry. The unification of the photon with W and Z gauge bosons in the electroweak interaction was accomplished by Sheldon Glashow, Abdus Salam and Steven Weinberg, for which they were awarded the 1979 Nobel Prize in physics. Physicists continue to hypothesize grand unified theories that connect these four gauge bosons with the eight gluon gauge bosons of quantum chromodynamics; however, key predictions of these theories, such as proton decay, have not been observed experimentally.
+
+
+=== Hadronic properties ===
+
+Measurements of the interaction between energetic photons and hadrons show that the interaction is much more intense than expected by the interaction of merely photons with the hadron's electric charge. Furthermore, the interaction of energetic photons with protons is similar to the interaction of photons with neutrons in spite of the fact that the electric charge structures of protons and neutrons are substantially different. A theory called Vector Meson Dominance (VMD) was developed to explain this effect. According to VMD, the photon is a superposition of the pure electromagnetic photon which interacts only with electric charges and vector mesons. However, if experimentally probed at very short distances, the intrinsic structure of the photon is recognized as a flux of quark and gluon components, quasi-free according to asymptotic freedom in QCD and described by the photon structure function. A comprehensive comparison of data with theoretical predictions was presented in a review in 2000.
+
+
+=== Contributions to the mass of a system ===
+
+The energy of a system that emits a photon is decreased by the energy 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   of the photon as measured in the rest frame of the emitting system, which may result in a reduction in mass in the amount 
+  
+    
+      
+        
+          E
+        
+        
+          /
+        
+        
+          
+            c
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {E}/{c^{2}}}
+  . Similarly, the mass of a system that absorbs a photon is increased by a corresponding amount. As an application, the energy balance of nuclear reactions involving photons is commonly written in terms of the masses of the nuclei involved, and terms of the form 
+  
+    
+      
+        
+          E
+        
+        
+          /
+        
+        
+          
+            c
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {E}/{c^{2}}}
+   for the gamma photons (and for other relevant energies, such as the recoil energy of nuclei).This concept is applied in key predictions of quantum electrodynamics (QED, see above). In that theory, the mass of electrons (or, more generally, leptons) is modified by including the mass contributions of virtual photons, in a technique known as renormalization. Such "radiative corrections" contribute to a number of predictions of QED, such as the magnetic dipole moment of leptons, the Lamb shift, and the hyperfine structure of bound lepton pairs, such as muonium and positronium.Since photons contribute to the stress–energy tensor, they exert a gravitational attraction on other objects, according to the theory of general relativity. Conversely, photons are themselves affected by gravity; their normally straight trajectories may be bent by warped spacetime, as in gravitational lensing, and their frequencies may be lowered by moving to a higher gravitational potential, as in the Pound–Rebka experiment. However, these effects are not specific to photons; exactly the same effects would be predicted for classical electromagnetic waves.
+
+
+== In matter ==
+
+Light that travels through transparent matter does so at a lower speed than c, the speed of light in a vacuum. The factor by which the speed is decreased is called the refractive index of the material. In a classical wave picture, the slowing can be explained by the light inducing electric polarization in the matter, the polarized matter radiating new light, and that new light interfering with the original light wave to form a delayed wave. In a particle picture, the slowing can instead be described as a blending of the photon with quantum excitations of the matter to produce quasi-particles known as polariton (see this list for some other quasi-particles); this polariton has a nonzero effective mass, which means that it cannot travel at c. Light of different frequencies may travel through matter at different speeds; this is called dispersion (not to be confused with scattering). In some cases, it can result in extremely slow speeds of light in matter. The effects of photon interactions with other quasi-particles may be observed directly in Raman scattering and Brillouin scattering.Photons can be scattered by matter. For example, photons engage in so many collisions on the way from the core of the Sun that radiant energy can take about a million years to reach the surface; however, once in open space, a photon takes only 8.3 minutes to reach Earth.Photons can also be absorbed by nuclei, atoms or molecules, provoking transitions between their energy levels. A classic example is the molecular transition of retinal (C20H28O), which is responsible for vision, as discovered in 1958 by Nobel laureate biochemist George Wald and co-workers. The absorption provokes a cis–trans isomerization that, in combination with other such transitions, is transduced into nerve impulses. The absorption of photons can even break chemical bonds, as in the photodissociation of chlorine; this is the subject of photochemistry.
+
+
+== Technological applications ==
+Photons have many applications in technology. These examples are chosen to illustrate applications of photons per se, rather than general optical devices such as lenses, etc. that could operate under a classical theory of light. The laser is an extremely important application and is discussed above under stimulated emission.
+Individual photons can be detected by several methods. The classic photomultiplier tube exploits the photoelectric effect: a photon of sufficient energy strikes a metal plate and knocks free an electron, initiating an ever-amplifying avalanche of electrons. Semiconductor charge-coupled device chips use a similar effect: an incident photon generates a charge on a microscopic capacitor that can be detected. Other detectors such as Geiger counters use the ability of photons to ionize gas molecules contained in the device, causing a detectable change of conductivity of the gas.Planck's energy formula 
+  
+    
+      
+        E
+        =
+        h
+        ν
+      
+    
+    {\displaystyle E=h\nu }
+   is often used by engineers and chemists in design, both to compute the change in energy resulting from a photon absorption and to determine the frequency of the light emitted from a given photon emission. For example, the emission spectrum of a gas-discharge lamp can be altered by filling it with (mixtures of) gases with different electronic energy level configurations.Under some conditions, an energy transition can be excited by "two" photons that individually would be insufficient. This allows for higher resolution microscopy, because the sample absorbs energy only in the spectrum  where two beams of different colors overlap significantly, which can be made much smaller than the excitation volume of a single beam (see two-photon excitation microscopy). Moreover, these photons cause less damage to the sample, since they are of lower energy.In some cases, two energy transitions can be coupled so that, as one system absorbs a photon, another nearby system "steals" its energy and re-emits a photon of a different frequency. This is the basis of fluorescence resonance energy transfer, a technique that is used in molecular biology to study the interaction of suitable proteins.Several different kinds of hardware random number generators involve the detection of single photons. In one example, for each bit in the random sequence that is to be produced, a photon is sent to a beam-splitter. In such a situation, there are two possible outcomes of equal probability. The actual outcome is used to determine whether the next bit in the sequence is "0" or "1".
+
+
+== Quantum optics and computation ==
+Much research has been devoted to applications of photons in the field of quantum optics. Photons seem well-suited to be elements of an extremely fast quantum computer, and the quantum entanglement of photons is a focus of research. Nonlinear optical processes are another active research area, with topics such as two-photon absorption, self-phase modulation, modulational instability and optical parametric oscillators. However, such processes generally do not require the assumption of photons per se; they may often be modeled by treating atoms as nonlinear oscillators. The nonlinear process of spontaneous parametric down conversion is often used to produce single-photon states. Finally, photons are essential in some aspects of optical communication, especially for quantum cryptography.Two-photon physics studies interactions between photons, which are rare.  In 2018, MIT researchers announced the discovery of bound photon triplets, which may involve polaritons.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+ Quotations related to Photon at Wikiquote
+ The dictionary definition of photon at Wiktionary
+ Media related to Photon at Wikimedia Commons
+

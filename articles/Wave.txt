@@ -1,0 +1,2342 @@
+####### TITLE #######
+
+Wave
+
+####### LINKS #######
+
+['Absorption (acoustics)', 'Absorption (electromagnetic radiation)', 'Acoustic resonance', 'Acoustic wave', 'Adolf Zeising', 'Airplane', 'Airport', 'Airy wave theory', 'Alan Turing', 'Alfvén wave', 'Amplitude', 'Amplitude modulation', 'Analytic geometry', 'Angular spectrum method', 'Antinode', 'Antiphase', 'Aristid Lindenmayer', 'Atmospheric wave', 'Austria', 'Beat (acoustics)', 'Belousov–Zhabotinsky reaction', 'Benoit Mandelbrot', 'Bibcode (identifier)', 'Biology', "Bloch's theorem", 'Bridge (instrument)', 'Camouflage', 'Capillary wave', 'Cathode-ray tube', 'Chaos theory', 'Cherenkov radiation', 'Chiang C. Mei', 'Christian Doppler', 'CiteSeerX (identifier)', 'Cnoidal wave', 'Complex number', 'Continuous wave', 'Coriolis effect', 'Cortical spreading depression', 'Cosine', 'Creeping wave', 'Crest (physics)', 'Crystal', 'Crystal structure', 'Curve', 'Cymatics', "D'Alembert's formula", "D'Arcy Wentworth Thompson", 'De Broglie wavelength', 'Deformation (mechanics)', 'Density', 'Dielectric', 'Diffraction', 'Dirac equation', 'Disk (mathematics)', 'Dispersion (optics)', 'Dispersion (water waves)', 'Dispersion relation', 'Doi (identifier)', 'Doppler effect', 'Drum stick', 'Drumhead', "Duhamel's principle", 'Dune', 'Dyakonov surface waves', 'Dyakonov–Voigt wave', 'Earth-Ionosphere waveguide', 'Earthquakes', 'Edge wave', 'Electric field', 'Electromagnetic spectrum', 'Electromagnetic wave', 'Electromagnetic wave equation', 'Electromagnetic waves', 'Electron', 'Electronics', 'Emergence', 'Empedocles', 'Energy', 'Energy transfer', 'Engineering', 'Envelope (waves)', 'Envelope detector', 'Ernst Haeckel', 'Evanescent wave', 'Faraday wave', 'Fibonacci', 'Field (physics)', 'Fir wave', 'Floral symmetry', 'Fluid', 'Fluid dynamics', 'Foam', 'Fourier analysis', 'Fourier transform', 'Fractal', 'Fracture', 'Frequency', 'Frequency modulation', 'Front velocity', 'Function (mathematics)', 'Fundamental frequency', 'Gamma ray', 'Gamma rays', 'Gaussian function', 'General relativity', 'Gerald B. Whitham', 'Graph of a function', 'Gravitational radiation', 'Gravitational wave', 'Gravity wave', 'Gravity waves', 'Group velocity', 'Harmonic', 'Heat diffusion', 'Heat equation', 'Heisenberg uncertainty principle', 'Helmholtz resonator', 'Homogeneous', 'How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension', 'Hydraulic jump', 'ISBN (identifier)', 'ISSN (identifier)', 'Incident ray', 'Index of wave articles', 'Inertial wave', 'Inertial waves', 'Information', 'Infrared', 'Infrared radiation', 'Insertion loss', 'Interference (wave propagation)', 'Internal wave', 'Isaac Newton', 'Isotropic', 'James Clerk Maxwell', 'James Lighthill', 'John N. Shive', 'Joseph Plateau', 'Kármán vortex street', 'Lamb waves', 'Least-squares spectral analysis', 'Liber Abaci', 'Linear', 'Linear mass density', 'Linear polarization', 'List of types of equilibrium', 'List of waves named after people', 'Logarithmic spiral', 'Longitudinal wave', 'Loudspeaker', 'Louis de Broglie', 'Magnetic field', 'Mathematics', 'Mathematics and art', 'Matter wave', "Maxwell's equations", 'McGraw-Hill', 'Meander', 'Mechanical wave', 'Metachronal rhythm', 'Microwave', 'Microwaves', 'Mimicry', 'Momentum', 'Momentum (physics)', 'Natural selection', 'Node (physics)', 'Nonlinear', 'Normal (geometry)', 'Nut (string instrument)', 'OCLC (identifier)', 'Observer (physics)', 'Ocean surface wave', 'On Growth and Form', 'One-way wave equation', 'Operator (mathematics)', 'Opticks', 'Organ pipe', 'Orthogonal', 'Overtone', 'PMID (identifier)', 'Parameter', 'Partial differential equation', 'Particle velocity', 'Pattern formation', 'Pattern recognition (psychology)', 'Patterns in nature', 'Periodic function', 'Periodic travelling wave', 'Perpendicular', 'Phase (waves)', 'Phase modulation', 'Phase velocity', 'Phyllotaxis', 'Physics', 'Pilot wave', 'Piston', "Planck's constant", 'Plane wave', 'Plasma wave', "Plateau's laws", 'Plato', 'Polarization (waves)', 'Polarizer', 'Poynting vector', 'Pp-wave spacetime', 'Pressure', 'Prism (optics)', 'Probability wave', 'Pulse (physics)', 'Pythagoras', 'Quantities', 'Quantum mechanics', 'Quasicrystal', 'Radar', 'Radio wave', 'Radio waves', 'Rayleigh waves', 'Reaction–diffusion system', 'Real number', 'Recorder (musical instrument)', 'Rectilinear propagation', 'Reflection (physics)', 'Refraction', 'Refractive index', 'Relativistic wave equations', 'Resonance', 'Ripple tank', 'Rogue wave', 'S2CID (identifier)', 'Sawtooth wave', 'Scalar (physics)', 'Schrödinger equation', 'Sea wave spectrum', 'Seismic wave', 'Seismic waves', 'Self-organization', 'Sexual selection', 'Shallow water equations', 'Shock wave', 'Signal', 'Signal processing', 'Signal velocity', 'Simple harmonic motion', 'Sine', 'Sine wave', 'Sinusoidal plane wave', 'Smoothness', "Snell's law", 'Soap bubble', 'Solution (mathematics)', 'Sonic boom', 'Sound', 'Sound pressure', 'Spacetime', 'Speed of light', 'Speed of sound', 'Spin-density wave', 'Spin wave', 'Square wave', 'Standing wave', 'Standing wave ratio', 'Strain (mechanics)', 'Stress (mechanics)', 'String (music)', 'String vibration', 'Subset', 'Superposition principle', 'Surface wave', 'Symmetry', 'Symmetry in biology', 'Temperature', 'Tension (mechanics)', 'Terahertz waves', 'Tessellation', 'Test particles', 'The Chemical Basis of Morphogenesis', 'Tollmien–Schlichting wave', 'Traffic wave', 'Transmission medium', 'Transmittance', 'Transparency and translucency', 'Transverse wave', 'Triangle wave', 'Trigonometric function', 'Trojan wave packet', 'Tsunami', 'Ultraviolet', 'Ultraviolet radiation', 'Vacuum', 'Vector (mathematics)', 'Vibrating string', 'Vibrations of a circular drum', 'Violin', 'Visible light', 'Vortex', 'Water waves', 'Wave (disambiguation)', 'Wave Motion (journal)', 'Wave equation', 'Wave function', 'Wave packet', 'Wave period', 'Wave propagation', 'Wave turbulence', 'Wave vector', 'Waveform', 'Wavefront', 'Wavelength', 'Wavenumber', 'Waves in plasmas', 'Wave–particle duality', 'Widmanstätten pattern', 'Wilson Bentley', 'Wind instrument', 'Wind wave', 'X-ray', 'X-rays']
+
+####### CATEGORIES #######
+
+['All accuracy disputes', 'All articles to be merged', 'Articles containing video clips', 'Articles to be merged from May 2022', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with disputed statements from August 2020', 'Articles with excerpts', 'Articles with short description', 'Differential equations', 'Harv and Sfn no-target errors', 'Pages using Sister project links with hidden wikidata', 'Short description matches Wikidata', 'Waves']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/4/43/2006-01-14_Surface_waves.jpg', 'https://upload.wikimedia.org/wikipedia/commons/9/97/Amplitudemodulation.gif', 'https://upload.wikimedia.org/wikipedia/commons/8/84/Circular.Polarization.Circularly.Polarized.Light_Circular.Polarizer_Creating.Left.Handed.Helix.View.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/15/Drum_vibration_mode01.gif', 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Drum_vibration_mode21.gif', 'https://upload.wikimedia.org/wikipedia/commons/b/b8/GravitationalWave_CrossPolarization.gif', 'https://upload.wikimedia.org/wikipedia/commons/3/33/Half-open_pipe_wave.gif', 'https://upload.wikimedia.org/wikipedia/commons/f/f5/Light_dispersion_conceptual_waves.gif', 'https://upload.wikimedia.org/wikipedia/commons/1/1f/Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg', 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Mergefrom.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Nonsinusoidal_wavelength.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Onde_electromagn%C3%A9tique.png', 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Santos_E_et_al_Neuroimage_2014_.gif', 'https://upload.wikimedia.org/wikipedia/commons/b/be/Shallow_water_wave.gif', 'https://upload.wikimedia.org/wikipedia/commons/d/d2/Sine_and_Cosine.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Standing_wave.gif', 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Standing_waves_on_a_string.gif', 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Superpositionprinciple.gif', 'https://upload.wikimedia.org/wikipedia/commons/d/d4/Transonico-en.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Two_sources_interference.gif', 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Wave_group.gif', 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Wave_opposite-group-phase-velocity.gif', 'https://upload.wikimedia.org/wikipedia/commons/f/ff/Wave_packet.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/b0/Wave_packet_%28dispersion%29.gif', 'https://upload.wikimedia.org/wikipedia/commons/4/49/Wave_refraction.gif', 'https://upload.wikimedia.org/wikipedia/commons/7/77/Waveforms.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Yemen_Chameleon_%28cropped%29.jpg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/0/06/Wiktionary-logo-v2.svg']
+
+####### REFERENCES #######
+
+['http://www.cbc.ca/news/technology/ligo-gravitational-wave-1.3443697', 'http://resonanceswavesandfields.blogspot.com/2007/08/true-waves.html', 'http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.205.4573', 'http://prism.texarkanacollege.edu/physicsjournal/wave-eq.html', 'http://gallica.bnf.fr/ark:/12148/bpt6k3362k.image.f128.pagination', 'http://pubmed.ncbi.nlm.nih.gov/24852458', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007553504305171', 'http://doi.org/10.1016%2Fj.neuroimage.2014.05.021', 'http://doi.org/10.1098%2Frspa.1955.0088', 'http://doi.org/10.1287%2Fopre.4.1.42', 'http://www.scholarpedia.org/article/Linear_and_nonlinear_waves', 'http://www.worldcat.org/issn/1095-9572', 'http://www.worldcat.org/oclc/163810889', 'https://www.amazon.com/gp/product/0801873258', 'https://books.google.com/books?id=3SOwc6npkIwC&pg=PA59', 'https://books.google.com/books?id=5cZFRwLuhdQC', 'https://books.google.com/books?id=6kOoT_AX2CwC&pg=PA9', 'https://books.google.com/books?id=7qCMUfwoQcAC&pg=PA60', 'https://books.google.com/books?id=8t4DiXKIvRgC&pg=PA17', 'https://books.google.com/books?id=BwistUlpZ7cC&pg=PA424', 'https://books.google.com/books?id=FTdDMtpkSkIC&pg=PA33', 'https://books.google.com/books?id=LxzWPskhns0C&pg=PA363', 'https://books.google.com/books?id=VM4GFlzHg34C&pg=PA23', 'https://books.google.com/books?id=WHMNEL-9lqkC&pg=PA47', 'https://books.google.com/books?id=WdPGzHG3DN0C&pg=PA128', 'https://books.google.com/books?id=YWd7zHU0U7UC&pg=PA57', 'https://books.google.com/books?id=g5q6tZRwUu4C&pg=PA271', 'https://books.google.com/books?id=geYKPFoLgoMC&pg=PA365', 'https://books.google.com/books?id=o7sXm2GSr9IC&pg=PA77', 'https://books.google.com/books?id=s7bp6ezoRhcC&pg=PA134', 'https://books.google.com/books?id=xxbXgL967PwC&pg=PA329', 'https://books.google.com/books?id=zsasG2axbSoC&pg=PA37', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph305894&CON_LNG=ENG', 'https://feynmanlectures.caltech.edu/I_51.html', 'https://ui.adsabs.harvard.edu/abs/1955RSPSA.229..281L', 'https://ui.adsabs.harvard.edu/abs/2015sgw..book.....F', 'https://catalogue.bnf.fr/ark:/12148/cb11941861b', 'https://data.bnf.fr/ark:/12148/cb11941861b', 'https://id.loc.gov/authorities/subjects/sh85145789', 'https://d-nb.info/gnd/4065310-9', 'https://id.ndl.go.jp/auth/ndlna/00562750', 'https://www.scienceaid.net/physics/waves/properties.html', 'https://archive.org/details/modernmathematic0000cant', 'https://archive.org/details/modernmathematic0000cant/page/677', 'https://web.archive.org/web/20130724011045/http://prism.texarkanacollege.edu/physicsjournal/wave-eq.html', 'https://doi.org/10.1109%2FMSP.2018.2832195', 'https://api.semanticscholar.org/CorpusID:1347927', 'https://api.semanticscholar.org/CorpusID:18301080', 'https://www.wikidata.org/wiki/Q37172#identifiers']
+
+####### SUMMARY #######
+
+In physics, mathematics, and related fields, a wave is a propagating dynamic disturbance (change from equilibrium) of one or more quantities. Waves can be periodic, in which case those quantities oscillate repeatedly about an equilibrium (resting) value at some frequency. When the entire waveform moves in one direction, it is said to be a traveling wave; by contrast, a pair of superimposed periodic waves traveling in opposite directions makes a standing wave. In a standing wave, the amplitude of vibration has nulls at some positions where the wave amplitude appears smaller or even zero. Waves are often described by a wave equation (standing wave field of two opposite waves) or a one-way wave equation for single wave propagation in a defined direction. 
+Two types of waves are most commonly studied in classical physics. In a mechanical wave, stress and strain fields oscillate about a mechanical equilibrium. A mechanical wave is a local deformation (strain) in some physical medium that propagates from particle to particle by creating local stresses that cause strain in neighboring particles too. For example, sound waves are variations of the local pressure and particle motion that propagate through the medium. Other examples of mechanical waves are seismic waves, gravity waves, surface waves, string vibrations, and vortices. In an electromagnetic wave (such as light), coupling between the electric and magnetic fields which sustains propagation of a wave involving these fields according to Maxwell's equations. Electromagnetic waves can travel through a vacuum and through some dielectric media (at wavelengths where they are considered transparent). Electromagnetic waves, according to their frequencies (or wavelengths) have more specific designations including radio waves, infrared radiation, terahertz waves, visible light, ultraviolet radiation, X-rays and gamma rays.
+Other types of waves include gravitational waves, which are disturbances in spacetime that propagate according to general relativity; heat diffusion waves; plasma waves that combine mechanical deformations and electromagnetic fields; reaction–diffusion waves, such as in the Belousov–Zhabotinsky reaction; and many more. Mechanical and electromagnetic waves transfer energy, momentum, and information, but they do not transfer particles in the medium. In mathematics and electronics waves are studied as signals. On the other hand, some waves have envelopes which do not move at all such as standing waves (which are fundamental to music) and hydraulic jumps. Some, like the probability waves of quantum mechanics, may be completely static.
+
+A physical wave field is almost always confined to some finite region of space, called its domain. For example, the seismic waves generated by earthquakes are significant only in the interior and surface of the planet, so they can be ignored outside it. However, waves with infinite domain, that extend over the whole space, are commonly studied in mathematics, and are very valuable tools for understanding physical waves in finite domains.
+A plane wave is an important mathematical idealization where the disturbance is identical along any (infinite) plane normal to a specific direction of travel. Mathematically, the simplest wave is a sinusoidal plane wave in which at any point the field experiences simple harmonic motion at one frequency. In linear media, complicated waves can generally be decomposed as the sum of many sinusoidal plane waves having different directions of propagation and/or different frequencies. A plane wave is classified as a transverse wave if the field disturbance at each point is described by a vector perpendicular to the direction of propagation (also the direction of energy transfer); or longitudinal wave if those vectors are aligned with the propagation direction. Mechanical waves include both transverse and longitudinal waves; on the other hand electromagnetic plane waves are strictly transverse while sound waves in fluids (such as air) can only be longitudinal. That physical direction of an oscillating field relative to the propagation direction is also referred to as the wave's polarization, which can be an important attribute.
+
+####### CONTENT #######
+
+In physics, mathematics, and related fields, a wave is a propagating dynamic disturbance (change from equilibrium) of one or more quantities. Waves can be periodic, in which case those quantities oscillate repeatedly about an equilibrium (resting) value at some frequency. When the entire waveform moves in one direction, it is said to be a traveling wave; by contrast, a pair of superimposed periodic waves traveling in opposite directions makes a standing wave. In a standing wave, the amplitude of vibration has nulls at some positions where the wave amplitude appears smaller or even zero. Waves are often described by a wave equation (standing wave field of two opposite waves) or a one-way wave equation for single wave propagation in a defined direction. 
+Two types of waves are most commonly studied in classical physics. In a mechanical wave, stress and strain fields oscillate about a mechanical equilibrium. A mechanical wave is a local deformation (strain) in some physical medium that propagates from particle to particle by creating local stresses that cause strain in neighboring particles too. For example, sound waves are variations of the local pressure and particle motion that propagate through the medium. Other examples of mechanical waves are seismic waves, gravity waves, surface waves, string vibrations, and vortices. In an electromagnetic wave (such as light), coupling between the electric and magnetic fields which sustains propagation of a wave involving these fields according to Maxwell's equations. Electromagnetic waves can travel through a vacuum and through some dielectric media (at wavelengths where they are considered transparent). Electromagnetic waves, according to their frequencies (or wavelengths) have more specific designations including radio waves, infrared radiation, terahertz waves, visible light, ultraviolet radiation, X-rays and gamma rays.
+Other types of waves include gravitational waves, which are disturbances in spacetime that propagate according to general relativity; heat diffusion waves; plasma waves that combine mechanical deformations and electromagnetic fields; reaction–diffusion waves, such as in the Belousov–Zhabotinsky reaction; and many more. Mechanical and electromagnetic waves transfer energy, momentum, and information, but they do not transfer particles in the medium. In mathematics and electronics waves are studied as signals. On the other hand, some waves have envelopes which do not move at all such as standing waves (which are fundamental to music) and hydraulic jumps. Some, like the probability waves of quantum mechanics, may be completely static.
+
+A physical wave field is almost always confined to some finite region of space, called its domain. For example, the seismic waves generated by earthquakes are significant only in the interior and surface of the planet, so they can be ignored outside it. However, waves with infinite domain, that extend over the whole space, are commonly studied in mathematics, and are very valuable tools for understanding physical waves in finite domains.
+A plane wave is an important mathematical idealization where the disturbance is identical along any (infinite) plane normal to a specific direction of travel. Mathematically, the simplest wave is a sinusoidal plane wave in which at any point the field experiences simple harmonic motion at one frequency. In linear media, complicated waves can generally be decomposed as the sum of many sinusoidal plane waves having different directions of propagation and/or different frequencies. A plane wave is classified as a transverse wave if the field disturbance at each point is described by a vector perpendicular to the direction of propagation (also the direction of energy transfer); or longitudinal wave if those vectors are aligned with the propagation direction. Mechanical waves include both transverse and longitudinal waves; on the other hand electromagnetic plane waves are strictly transverse while sound waves in fluids (such as air) can only be longitudinal. That physical direction of an oscillating field relative to the propagation direction is also referred to as the wave's polarization, which can be an important attribute.
+
+
+== Mathematical description ==
+
+
+=== Single waves ===
+A wave can be described just like a field, namely as a function 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+   where 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is a position and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   is a time.
+The value of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is a point of space, specifically in the region where the wave is defined. In mathematical terms, it is usually a vector in the Cartesian three-dimensional space 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{3}}
+  . However, in many cases one can ignore one dimension, and let 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   be a point of the Cartesian plane 
+  
+    
+      
+        
+          
+            R
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{2}}
+  . This is the case, for example, when studying vibrations of a drum skin. One may even restrict 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   to a point of the Cartesian line 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   — that is, the set of real numbers. This is the case, for example, when studying vibrations in a violin string or recorder. The time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , on the other hand, is always assumed to be a scalar; that is, a real number.
+The value of 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+   can be any physical quantity of interest assigned to the point 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   that may vary with time. For example, if 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   represents the vibrations inside an elastic solid, the value of 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+   is usually a vector that gives the current displacement from 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   of the material particles that would be at the point 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in the absence of vibration. For an electromagnetic wave, the value of 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   can be the electric field vector 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  , or the magnetic field vector 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  , or any related quantity, such as the Poynting vector 
+  
+    
+      
+        E
+        ×
+        H
+      
+    
+    {\displaystyle E\times H}
+  . In fluid dynamics, the value of 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+   could be the velocity vector of the fluid at the point 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , or any scalar property like pressure, temperature, or density. In a chemical reaction, 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+   could be the concentration of some substance in the neighborhood of point 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   of the reaction medium.
+For any dimension 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   (1, 2, or 3), the wave's domain is then a subset 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   of 
+  
+    
+      
+        
+          
+            R
+          
+          
+            d
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{d}}
+  , such that the function value 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+   is defined for any point 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   in 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  . For example, when describing the motion of a drum skin, one can consider 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   to be a disk (circle) on the plane 
+  
+    
+      
+        
+          
+            R
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{2}}
+   with center at the origin 
+  
+    
+      
+        (
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,0)}
+  , and let 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+   be the vertical displacement of the skin at the point 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   of 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   and at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  .
+
+
+=== Wave families ===
+Sometimes one is interested in a single specific wave. More often, however, one needs to understand large set of possible waves; like all the ways that a drum skin can vibrate after being struck once with a drum stick, or all the possible radar echos one could get from an airplane that may be approaching an airport.
+In some of those situations, one may describe such a family of waves by a function 
+  
+    
+      
+        F
+        (
+        A
+        ,
+        B
+        ,
+        …
+        ;
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(A,B,\ldots ;x,t)}
+   that depends on certain parameters 
+  
+    
+      
+        A
+        ,
+        B
+        ,
+        …
+      
+    
+    {\displaystyle A,B,\ldots }
+  , besides 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  . Then one can obtain different waves — that is, different functions of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   — by choosing different values for those parameters.
+
+For example, the sound pressure inside a recorder that is playing a "pure" note is typically a standing wave, that can be written as
+
+  
+    
+      
+        F
+        (
+        A
+        ,
+        L
+        ,
+        n
+        ,
+        c
+        ;
+        x
+        ,
+        t
+        )
+        =
+        A
+        
+          (
+          
+            cos
+            ⁡
+            2
+            π
+            x
+            
+              
+                
+                  2
+                  n
+                  −
+                  1
+                
+                
+                  4
+                  L
+                
+              
+            
+          
+          )
+        
+        
+          (
+          
+            cos
+            ⁡
+            2
+            π
+            c
+            t
+            
+              
+                
+                  2
+                  n
+                  −
+                  1
+                
+                
+                  4
+                  L
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle F(A,L,n,c;x,t)=A\left(\cos 2\pi x{\frac {2n-1}{4L}}\right)\left(\cos 2\pi ct{\frac {2n-1}{4L}}\right)}
+  The parameter 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   defines the amplitude of the wave (that is, the maximum sound pressure in the bore, which is related to the loudness of the note); 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is the speed of sound; 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   is the length of the bore; and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is a positive integer (1,2,3,…) that specifies the number of nodes in the standing wave. (The position 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   should be measured from the mouthpiece, and the time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   from any moment at which the pressure at the mouthpiece is maximum. The quantity 
+  
+    
+      
+        λ
+        =
+        4
+        L
+        
+          /
+        
+        (
+        2
+        n
+        −
+        1
+        )
+      
+    
+    {\displaystyle \lambda =4L/(2n-1)}
+   is the wavelength of the emitted note, and 
+  
+    
+      
+        f
+        =
+        c
+        
+          /
+        
+        λ
+      
+    
+    {\displaystyle f=c/\lambda }
+   is its frequency.) Many general properties of these waves can be inferred from this general equation, without choosing specific values for the parameters.
+As another example, it may be that the vibrations of a drum skin after a single strike depend only on the distance 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   from the center of the skin to the strike point, and on the strength 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   of the strike. Then the vibration for all possible strikes can be described by a function 
+  
+    
+      
+        F
+        (
+        r
+        ,
+        s
+        ;
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(r,s;x,t)}
+  .
+Sometimes the family of waves of interest has infinitely many parameters. For example, one may want to describe what happens to the temperature in a metal bar when it is initially heated at various temperatures at different points along its length, and then allowed to cool by itself in vacuum. In that case, instead of a scalar or vector, the parameter would have to be a function 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   such that 
+  
+    
+      
+        h
+        (
+        x
+        )
+      
+    
+    {\displaystyle h(x)}
+   is the initial temperature at each point 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   of the bar. Then the temperatures at later times can be expressed by a function 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   that depends on the function 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   (that is, a functional operator), so that the temperature at a later time is 
+  
+    
+      
+        F
+        (
+        h
+        ;
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(h;x,t)}
+  
+
+
+=== Differential wave equations ===
+Another way to describe and study a family of waves is to give a mathematical equation that, instead of explicitly giving the value of 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+  , only constrains how those values can change with time. Then the family of waves in question consists of all functions 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   that satisfy those constraints — that is, all solutions of the equation.
+This approach is extremely important in physics, because the constraints usually are a consequence of the physical processes that cause the wave to evolve. For example, if 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+   is the temperature inside a block of some homogeneous and isotropic solid material, its evolution is constrained by the partial differential equation
+
+  
+    
+      
+        
+          
+            
+              ∂
+              F
+            
+            
+              ∂
+              t
+            
+          
+        
+        (
+        x
+        ,
+        t
+        )
+        =
+        α
+        
+          (
+          
+            
+              
+                
+                  
+                    ∂
+                    
+                      2
+                    
+                  
+                  F
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      1
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            (
+            x
+            ,
+            t
+            )
+            +
+            
+              
+                
+                  
+                    ∂
+                    
+                      2
+                    
+                  
+                  F
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      2
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            (
+            x
+            ,
+            t
+            )
+            +
+            
+              
+                
+                  
+                    ∂
+                    
+                      2
+                    
+                  
+                  F
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      3
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            (
+            x
+            ,
+            t
+            )
+          
+          )
+        
+        +
+        β
+        Q
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle {\frac {\partial F}{\partial t}}(x,t)=\alpha \left({\frac {\partial ^{2}F}{\partial x_{1}^{2}}}(x,t)+{\frac {\partial ^{2}F}{\partial x_{2}^{2}}}(x,t)+{\frac {\partial ^{2}F}{\partial x_{3}^{2}}}(x,t)\right)+\beta Q(x,t)}
+  where 
+  
+    
+      
+        Q
+        (
+        p
+        ,
+        f
+        )
+      
+    
+    {\displaystyle Q(p,f)}
+   is the heat that is being generated per unit of volume and time in the neighborhood of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   (for example, by chemical reactions happening there); 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          x
+          
+            3
+          
+        
+      
+    
+    {\displaystyle x_{1},x_{2},x_{3}}
+   are the Cartesian coordinates of the point 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ; 
+  
+    
+      
+        ∂
+        F
+        
+          /
+        
+        ∂
+        t
+      
+    
+    {\displaystyle \partial F/\partial t}
+   is the (first) derivative of 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   with respect to 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  ; and 
+  
+    
+      
+        
+          ∂
+          
+            2
+          
+        
+        F
+        
+          /
+        
+        ∂
+        
+          x
+          
+            i
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \partial ^{2}F/\partial x_{i}^{2}}
+   is the second derivative of 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   relative to 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  . (The symbol "
+  
+    
+      
+        ∂
+      
+    
+    {\displaystyle \partial }
+  " is meant to signify that, in the derivative with respect to some variable, all other variables must be considered fixed.)
+This equation can be derived from the laws of physics that govern the diffusion of heat in solid media. For that reason, it is called the heat equation in mathematics, even though it applies to many other physical quantities besides temperatures.
+For another example, we can describe all possible sounds echoing within a container of gas by a function 
+  
+    
+      
+        F
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle F(x,t)}
+   that gives the pressure at a point 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   within that container. If the gas was initially at uniform temperature and composition, the evolution of 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   is constrained by the formula
+
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              F
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        (
+        x
+        ,
+        t
+        )
+        =
+        α
+        
+          (
+          
+            
+              
+                
+                  
+                    ∂
+                    
+                      2
+                    
+                  
+                  F
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      1
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            (
+            x
+            ,
+            t
+            )
+            +
+            
+              
+                
+                  
+                    ∂
+                    
+                      2
+                    
+                  
+                  F
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      2
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            (
+            x
+            ,
+            t
+            )
+            +
+            
+              
+                
+                  
+                    ∂
+                    
+                      2
+                    
+                  
+                  F
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      3
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            (
+            x
+            ,
+            t
+            )
+          
+          )
+        
+        +
+        β
+        P
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle {\frac {\partial ^{2}F}{\partial t^{2}}}(x,t)=\alpha \left({\frac {\partial ^{2}F}{\partial x_{1}^{2}}}(x,t)+{\frac {\partial ^{2}F}{\partial x_{2}^{2}}}(x,t)+{\frac {\partial ^{2}F}{\partial x_{3}^{2}}}(x,t)\right)+\beta P(x,t)}
+  Here 
+  
+    
+      
+        P
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle P(x,t)}
+   is some extra compression force that is being applied to the gas near 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   by some external process, such as a loudspeaker or piston right next to 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  .
+This same differential equation describes the behavior of mechanical vibrations and electromagnetic fields in a homogeneous isotropic non-conducting solid. Note that this equation differs from that of heat flow only in that the left-hand side is 
+  
+    
+      
+        
+          ∂
+          
+            2
+          
+        
+        F
+        
+          /
+        
+        ∂
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \partial ^{2}F/\partial t^{2}}
+  , the second derivative of 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   with respect to time, rather than the first derivative 
+  
+    
+      
+        ∂
+        F
+        
+          /
+        
+        ∂
+        t
+      
+    
+    {\displaystyle \partial F/\partial t}
+  . Yet this small change makes a huge difference on the set of solutions 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  . This differential equation is called "the" wave equation in mathematics, even though it describes only one very special kind of waves.
+
+
+== Wave in elastic medium ==
+
+Consider a traveling transverse wave (which may be a pulse) on a string (the medium). Consider the string to have a single spatial dimension. Consider this wave as traveling
+
+in the 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   direction in space. For example, let the positive 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   direction be to the right, and the negative 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   direction be to the left.
+with constant amplitude 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+with constant velocity 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  , where 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   is
+independent of wavelength (no dispersion)
+independent of amplitude (linear media, not nonlinear).
+with constant waveform, or shapeThis wave can then be described by the two-dimensional functions
+
+  
+    
+      
+        u
+        (
+        x
+        ,
+        t
+        )
+        =
+        F
+        (
+        x
+        −
+        v
+        t
+        )
+      
+    
+    {\displaystyle u(x,t)=F(x-vt)}
+   (waveform 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   traveling to the right)
+
+  
+    
+      
+        u
+        (
+        x
+        ,
+        t
+        )
+        =
+        G
+        (
+        x
+        +
+        v
+        t
+        )
+      
+    
+    {\displaystyle u(x,t)=G(x+vt)}
+   (waveform 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   traveling to the left)or, more generally, by d'Alembert's formula:
+
+  
+    
+      
+        u
+        (
+        x
+        ,
+        t
+        )
+        =
+        F
+        (
+        x
+        −
+        v
+        t
+        )
+        +
+        G
+        (
+        x
+        +
+        v
+        t
+        )
+        .
+      
+    
+    {\displaystyle u(x,t)=F(x-vt)+G(x+vt).}
+  representing two component waveforms 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   and 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   traveling through the medium in opposite directions. A generalized representation of this wave can be obtained as the partial differential equation
+
+  
+    
+      
+        
+          
+            1
+            
+              v
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              u
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              u
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {1}{v^{2}}}{\frac {\partial ^{2}u}{\partial t^{2}}}={\frac {\partial ^{2}u}{\partial x^{2}}}.}
+  General solutions are based upon Duhamel's principle.Beside the second order wave equations that are describing a standing wave field, the one-way wave equation describes the propagation of single wave in a defined direction.  
+
+
+=== Wave forms ===
+
+The form or shape of F in d'Alembert's formula involves the argument x − vt. Constant values of this argument correspond to constant values of F, and these constant values occur if x increases at the same rate that vt increases. That is, the wave shaped like the function F will move in the positive x-direction at velocity v (and G will propagate at the same speed in the negative x-direction).In the case of a periodic function F with period λ, that is, F(x + λ − vt) = F(x − vt), the periodicity of F in space means that a snapshot of the wave at a given time t finds the wave varying periodically in space with period λ (the wavelength of the wave). In a similar fashion, this periodicity of F implies a periodicity in time as well: F(x − v(t + T)) = F(x − vt) provided vT = λ, so an observation of the wave at a fixed location x finds the wave undulating periodically in time with period T = λ/v.
+
+
+=== Amplitude and modulation ===
+
+The amplitude of a wave may be constant (in which case the wave is a c.w. or continuous wave), or may be modulated so as to vary with time and/or position. The outline of the variation in amplitude is called the envelope of the wave. Mathematically, the modulated wave can be written in the form:
+
+  
+    
+      
+        u
+        (
+        x
+        ,
+        t
+        )
+        =
+        A
+        (
+        x
+        ,
+        t
+        )
+        sin
+        ⁡
+        
+          (
+          
+            k
+            x
+            −
+            ω
+            t
+            +
+            ϕ
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle u(x,t)=A(x,t)\sin \left(kx-\omega t+\phi \right),}
+  where 
+  
+    
+      
+        A
+        (
+        x
+        ,
+         
+        t
+        )
+      
+    
+    {\displaystyle A(x,\ t)}
+   is the amplitude envelope of the wave, 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is the wavenumber and 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   is the phase. If the group velocity 
+  
+    
+      
+        
+          v
+          
+            g
+          
+        
+      
+    
+    {\displaystyle v_{g}}
+   (see below) is wavelength-independent, this equation can be simplified as:
+
+  
+    
+      
+        u
+        (
+        x
+        ,
+        t
+        )
+        =
+        A
+        (
+        x
+        −
+        
+          v
+          
+            g
+          
+        
+        t
+        )
+        sin
+        ⁡
+        
+          (
+          
+            k
+            x
+            −
+            ω
+            t
+            +
+            ϕ
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle u(x,t)=A(x-v_{g}t)\sin \left(kx-\omega t+\phi \right),}
+  showing that the envelope moves with the group velocity and retains its shape. Otherwise, in cases where the group velocity varies with wavelength, the pulse shape changes in a manner often described using an envelope equation.
+
+
+=== Phase velocity and group velocity ===
+
+There are two velocities that are associated with waves, the phase velocity and the group velocity.
+Phase velocity is the rate at which the phase of the wave propagates in space: any given phase of the wave (for example, the crest) will appear to travel at the phase velocity. The phase velocity is given in terms of the wavelength λ (lambda) and period T as
+
+  
+    
+      
+        
+          v
+          
+            
+              p
+            
+          
+        
+        =
+        
+          
+            λ
+            T
+          
+        
+        .
+      
+    
+    {\displaystyle v_{\mathrm {p} }={\frac {\lambda }{T}}.}
+  
+Group velocity is a property of waves that have a defined envelope, measuring propagation through space (that is, phase velocity) of the overall shape of the waves' amplitudes – modulation or envelope of the wave.
+
+
+== Special waves ==
+
+
+=== Sine waves ===
+
+
+=== Plane waves ===
+
+A plane wave is a kind of wave whose value varies only in one spatial direction. That is, its value is constant on a plane that is perpendicular to that direction. Plane waves can be specified by a vector of unit length 
+  
+    
+      
+        
+          
+            
+              n
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {n}}}
+   indicating the direction that the wave varies in, and a wave profile describing how the wave varies as a function of the displacement along that direction (
+  
+    
+      
+        
+          
+            
+              n
+              ^
+            
+          
+        
+        ⋅
+        
+          
+            
+              x
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {n}}\cdot {\vec {x}}}
+  ) and time (
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  ). Since the wave profile only depends on the position 
+  
+    
+      
+        
+          
+            
+              x
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {x}}}
+   in the combination 
+  
+    
+      
+        
+          
+            
+              n
+              ^
+            
+          
+        
+        ⋅
+        
+          
+            
+              x
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {n}}\cdot {\vec {x}}}
+  , any displacement in directions perpendicular to 
+  
+    
+      
+        
+          
+            
+              n
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {n}}}
+   cannot affect the value of the field.
+Plane waves are often used to model electromagnetic waves far from a source. For electromagnetic plane waves, the electric and magnetic fields themselves are transverse to the direction of propagation, and also perpendicular to each other.
+
+
+=== Standing waves ===
+
+A standing wave, also known as a stationary wave, is a wave whose envelope remains in a constant position. This phenomenon arises as a result of interference between two waves traveling in opposite directions.
+The sum of two counter-propagating waves (of equal amplitude and frequency) creates a standing wave. Standing waves commonly arise when a boundary blocks further propagation of the wave, thus causing wave reflection, and therefore introducing a counter-propagating wave. For example, when a violin string is displaced, transverse waves propagate out to where the string is held in place at the bridge and the nut, where the waves are reflected back. At the bridge and nut, the two opposed waves are in antiphase and cancel each other, producing a node. Halfway between two nodes there is an antinode, where the two counter-propagating waves enhance each other maximally. There is no net propagation of energy over time.
+
+		
+		
+
+
+== Physical properties ==
+
+Waves exhibit common behaviors under a number of standard situations, for example:
+
+
+=== Transmission and media ===
+
+Waves normally move in a straight line (that is, rectilinearly) through a transmission medium. Such media can be classified into one or more of the following categories:
+
+A bounded medium if it is finite in extent, otherwise an unbounded medium
+A linear medium if the amplitudes of different waves at any particular point in the medium can be added
+A uniform medium or homogeneous medium if its physical properties are unchanged at different locations in space
+An anisotropic medium if one or more of its physical properties differ in one or more directions
+An isotropic medium if its physical properties are the same in all directions
+
+
+=== Absorption ===
+
+Waves are usually defined in media which allow most or all of a wave's energy to propagate without loss. However materials may be characterized as "lossy" if they remove energy from a wave, usually converting it into heat. This is termed "absorption." A material which absorbs a wave's energy, either in transmission or reflection, is characterized by a refractive index which is complex. The amount of absorption will generally depend on the frequency (wavelength) of the wave, which, for instance, explains why objects may appear colored.
+
+
+=== Reflection ===
+
+When a wave strikes a reflective surface, it changes direction, such that the angle made by the incident wave and line normal to the surface equals the angle made by the reflected wave and the same normal line.
+
+
+=== Refraction ===
+
+Refraction is the phenomenon of a wave changing its speed. Mathematically, this means that the size of the phase velocity changes. Typically, refraction occurs when a wave passes from one medium into another. The amount by which a wave is refracted by a material is given by the refractive index of the material. The directions of incidence and refraction are related to the refractive indices of the two materials by Snell's law.
+
+
+=== Diffraction ===
+
+A wave exhibits diffraction when it encounters an obstacle that bends the wave or when it spreads after emerging from an opening. Diffraction effects are more pronounced when the size of the obstacle or opening is comparable to the wavelength of the wave.
+
+
+=== Interference ===
+
+When waves in a linear medium (the usual case) cross each other in a region of space, they do not actually interact with each other, but continue on as if the other one weren't present. However at any point in that region the field quantities describing those waves add according to the superposition principle. If the waves are of the same frequency in a fixed phase relationship, then there will generally be positions at which the two waves are in phase and their amplitudes add, and other positions where they are out of phase and their amplitudes (partially or fully) cancel. This is called an interference pattern.
+
+
+=== Polarization ===
+
+The phenomenon of polarization arises when wave motion can occur simultaneously in two orthogonal directions. Transverse waves can be polarized, for instance. When polarization is used as a descriptor without qualification, it usually refers to the special, simple case of linear polarization. A transverse wave is linearly polarized if it oscillates in only one direction or plane. In the case of linear polarization, it is often useful to add the relative orientation of that plane, perpendicular to the direction of travel, in which the oscillation occurs, such as "horizontal" for instance, if the plane of polarization is parallel to the ground. Electromagnetic waves propagating in free space, for instance, are transverse; they can be polarized by the use of a polarizing filter.
+Longitudinal waves, such as sound waves, do not exhibit polarization. For these waves there is only one direction of oscillation, that is, along the direction of travel.
+
+
+=== Dispersion ===
+
+A wave undergoes dispersion when either the phase velocity or the group velocity depends on the wave frequency.
+Dispersion is most easily seen by letting white light pass through a prism, the result of which is to produce the spectrum of colors of the rainbow. Isaac Newton performed experiments with light and prisms, presenting his findings in the Opticks (1704) that white light consists of several colors and that these colors cannot be decomposed any further.
+
+
+== Mechanical waves ==
+
+
+=== Waves on strings ===
+
+The speed of a transverse wave traveling along a vibrating string (v) is directly proportional to the square root of the tension of the string (T) over the linear mass density (μ):
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              T
+              μ
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle v={\sqrt {\frac {T}{\mu }}},}
+  where the linear density μ is the mass per unit length of the string.
+
+
+=== Acoustic waves ===
+
+Acoustic or sound waves travel at speed given by
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              B
+              
+                ρ
+                
+                  0
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle v={\sqrt {\frac {B}{\rho _{0}}}},}
+  or the square root of the adiabatic bulk modulus divided by the ambient fluid density (see speed of sound).
+
+
+=== Water waves ===
+
+Ripples on the surface of a pond are actually a combination of transverse and longitudinal waves; therefore, the points on the surface follow orbital paths.
+Sound – a mechanical wave that propagates through gases, liquids, solids and plasmas;
+Inertial waves, which occur in rotating fluids and are restored by the Coriolis effect;
+Ocean surface waves, which are perturbations that propagate through water.
+
+
+=== Seismic waves ===
+
+Seismic waves are waves of energy that travel through the Earth's layers, and are a result of earthquakes, volcanic eruptions, magma movement, large landslides and large man-made explosions that give out low-frequency acoustic energy.
+
+
+=== Doppler effect ===
+The Doppler effect (or the Doppler shift) is the change in frequency of a wave in relation to an observer who is moving relative to the wave source. It is named after the Austrian physicist Christian Doppler, who described the phenomenon in 1842.
+
+
+=== Shock waves ===
+
+A shock wave is a type of propagating disturbance. When a wave moves faster than the local speed of sound in a fluid, it is a shock wave. Like an ordinary wave, a shock wave carries energy and can propagate through a medium; however, it is characterized by an abrupt, nearly discontinuous change in pressure, temperature and density of the medium.
+
+
+=== Other ===
+Waves of traffic, that is, propagation of different densities of motor vehicles, and so forth, which can be modeled as kinematic waves
+Metachronal wave refers to the appearance of a traveling wave produced by coordinated sequential actions.
+
+
+== Electromagnetic waves ==
+
+An electromagnetic wave consists of two waves that are oscillations of the electric and magnetic fields. An electromagnetic wave travels in a direction that is at right angles to the oscillation direction of both fields. In the 19th century, James Clerk Maxwell showed that, in vacuum, the electric and magnetic fields satisfy the wave equation both with speed equal to that of the speed of light. From this emerged the idea that light is an electromagnetic wave. Electromagnetic waves can have different frequencies (and thus wavelengths), giving rise to various types of radiation such as radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and Gamma rays.
+
+
+== Quantum mechanical waves ==
+
+
+=== Schrödinger equation ===
+The Schrödinger equation describes the wave-like behavior of particles in quantum mechanics. Solutions of this equation are wave functions which can be used to describe the probability density of a particle.
+
+
+=== Dirac equation ===
+The Dirac equation is a relativistic wave equation detailing electromagnetic interactions. Dirac waves accounted for the fine details of the hydrogen spectrum in a completely rigorous way. The wave equation also implied the existence of a new form of matter, antimatter, previously unsuspected and unobserved and which was experimentally confirmed. In the context of quantum field theory, the Dirac equation is reinterpreted to describe quantum fields corresponding to spin-½ particles.
+
+
+=== de Broglie waves ===
+
+Louis de Broglie postulated that all particles with momentum have a wavelength
+
+  
+    
+      
+        λ
+        =
+        
+          
+            h
+            p
+          
+        
+        ,
+      
+    
+    {\displaystyle \lambda ={\frac {h}{p}},}
+  where h is Planck's constant, and p is the magnitude of the momentum of the particle. This hypothesis was at the basis of quantum mechanics. Nowadays, this wavelength is called the de Broglie wavelength. For example, the electrons in a CRT display have a de Broglie wavelength of about 10−13 m.
+A wave representing such a particle traveling in the k-direction is expressed by the wave function as follows:
+
+  
+    
+      
+        ψ
+        (
+        
+          r
+        
+        ,
+        
+        t
+        =
+        0
+        )
+        =
+        A
+        
+          e
+          
+            i
+            
+              k
+              ⋅
+              r
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \psi (\mathbf {r} ,\,t=0)=Ae^{i\mathbf {k\cdot r} },}
+  where the wavelength is determined by the wave vector k as:
+
+  
+    
+      
+        λ
+        =
+        
+          
+            
+              2
+              π
+            
+            k
+          
+        
+        ,
+      
+    
+    {\displaystyle \lambda ={\frac {2\pi }{k}},}
+  and the momentum by:
+
+  
+    
+      
+        
+          p
+        
+        =
+        ℏ
+        
+          k
+        
+        .
+      
+    
+    {\displaystyle \mathbf {p} =\hbar \mathbf {k} .}
+  However, a wave like this with definite wavelength is not localized in space, and so cannot represent a particle localized in space. To localize a particle, de Broglie proposed a superposition of different wavelengths ranging around a central value in a wave packet, a waveform often used in quantum mechanics to describe the wave function of a particle. In a wave packet, the wavelength of the particle is not precise, and the local wavelength deviates on either side of the main wavelength value.
+In representing the wave function of a localized particle, the wave packet is often taken to have a Gaussian shape and is called a Gaussian wave packet. Gaussian wave packets also are used to analyze water waves.For example, a Gaussian wavefunction ψ might take the form:
+
+  
+    
+      
+        ψ
+        (
+        x
+        ,
+        
+        t
+        =
+        0
+        )
+        =
+        A
+        exp
+        ⁡
+        
+          (
+          
+            −
+            
+              
+                
+                  x
+                  
+                    2
+                  
+                
+                
+                  2
+                  
+                    σ
+                    
+                      2
+                    
+                  
+                
+              
+            
+            +
+            i
+            
+              k
+              
+                0
+              
+            
+            x
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \psi (x,\,t=0)=A\exp \left(-{\frac {x^{2}}{2\sigma ^{2}}}+ik_{0}x\right),}
+  at some initial time t = 0, where the central wavelength is related to the central wave vector k0 as λ0 = 2π / k0. It is well known from the theory of Fourier analysis, or from the Heisenberg uncertainty principle (in the case of quantum mechanics) that a narrow range of wavelengths is necessary to produce a localized wave packet, and the more localized the envelope, the larger the spread in required wavelengths. The Fourier transform of a Gaussian is itself a Gaussian. Given the Gaussian:
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          e
+          
+            −
+            
+              x
+              
+                2
+              
+            
+            
+              /
+            
+            
+              (
+              
+                2
+                
+                  σ
+                  
+                    2
+                  
+                
+              
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle f(x)=e^{-x^{2}/\left(2\sigma ^{2}\right)},}
+  the Fourier transform is:
+
+  
+    
+      
+        
+          
+            
+              f
+              ~
+            
+          
+        
+        (
+        k
+        )
+        =
+        σ
+        
+          e
+          
+            −
+            
+              σ
+              
+                2
+              
+            
+            
+              k
+              
+                2
+              
+            
+            
+              /
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\tilde {f}}(k)=\sigma e^{-\sigma ^{2}k^{2}/2}.}
+  The Gaussian in space therefore is made up of waves:
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            1
+            
+              2
+              π
+            
+          
+        
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+         
+        
+          
+            
+              f
+              ~
+            
+          
+        
+        (
+        k
+        )
+        
+          e
+          
+            i
+            k
+            x
+          
+        
+         
+        d
+        k
+        ;
+      
+    
+    {\displaystyle f(x)={\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{\infty }\ {\tilde {f}}(k)e^{ikx}\ dk;}
+  that is, a number of waves of wavelengths λ such that kλ = 2 π.
+The parameter σ decides the spatial spread of the Gaussian along the x-axis, while the Fourier transform shows a spread in wave vector k determined by 1/σ. That is, the smaller the extent in space, the larger the extent in k, and hence in λ = 2π/k.
+
+
+== Gravity waves ==
+Gravity waves are waves generated in a fluid medium or at the interface between two media when the force of gravity or buoyancy tries to restore equilibrium. A ripple on a pond is one example.
+
+
+== Gravitational waves ==
+
+Gravitational waves also travel through space. The first observation of gravitational waves was announced on 11 February 2016.
+Gravitational waves are disturbances in the curvature of spacetime, predicted by Einstein's theory of general relativity.
+
+
+== See also ==
+Index of wave articles
+
+
+=== Waves in general ===
+
+
+==== Parameters ====
+
+
+==== Waveforms ====
+
+
+=== Electromagnetic waves ===
+
+
+=== In fluids ===
+
+
+=== In quantum mechanics ===
+
+
+=== In relativity ===
+
+
+=== Other specific types of waves ===
+
+
+=== Related topics ===
+
+
+== References ==
+
+
+== Sources ==
+
+
+== External links ==
+
+The Feynman Lectures on Physics: Waves
+Interactive Visual Representation of Waves
+Linear and nonlinear waves
+Science Aid: Wave properties – Concise guide aimed at teens
+

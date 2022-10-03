@@ -1,0 +1,3269 @@
+####### TITLE #######
+
+Nth root
+
+####### LINKS #######
+
+['Abel–Ruffini theorem', 'Absolute value', 'Ackermann function', 'Addition', 'Additive inverse', 'Algebraic expression', 'Algebraic number', 'Algebraic solution', 'Ancient Greek mathematicians', 'Antilog', 'Arithmetic operations', 'Binomial series', 'Branch cut', 'Compass-and-straightedge construction', 'Complex number', 'Complex plane', 'Conjecture', 'Continuous function', 'Conway chained arrow notation', 'Cube (algebra)', 'Cube root', 'Cubic function', 'Division (mathematics)', 'Doi (identifier)', 'Elementary arithmetic', 'Exponent', 'Exponentiation', 'Factorization', 'Fibonacci', 'Fourier transform', 'Fraction (mathematics)', 'Function (mathematics)', 'Generalized continued fraction', 'Geometric mean', 'Gerard of Cremona', 'Grzegorczyk hierarchy', 'Hyperoperation', 'ISBN (identifier)', 'Imaginary number', 'Imaginary part', 'Imaginary unit', 'Infinite series', 'Inverse function', 'Irrational number', 'Khwārizmī', "Knuth's up-arrow notation", 'Logarithm', 'Long division', 'Mathematics', 'Matlab', 'Methods of computing square roots', 'Monsieur', 'Multiplication', 'Nested radical', "Newton's method", 'Non-negative number', 'Number', 'Number theory', "Pascal's triangle", 'Pentation', 'Pierre Wantzel', 'Polar form', 'Polynomial', 'Polynomial equation', 'Positive integer', 'Positive real axis', 'Power series', 'Primitive recursive function', 'Principal value', 'Product (mathematics)', 'Quadratic irrational numbers', 'Quartic function', 'Quintic equation', 'Quotient', 'Radical symbol', 'Radius of convergence', 'Real number', 'Recurrence relation', 'Robert Recorde', 'Root-finding algorithm', 'Root (disambiguation)', 'Root of unity', 'Root test', 'Roots of unity', 'Scilab', 'Shifting nth root algorithm', 'Square (algebra)', 'Square root', 'Steinhaus–Moser notation', 'Subtraction', 'Successor function', 'Super-logarithm', 'Super-root', 'Tetration', 'Theory of equations', 'Transcendental functions', 'Transcendental numbers', 'Twelfth root of two', 'Unit circle']
+
+####### CATEGORIES #######
+
+['All pages needing cleanup', 'Articles containing Tajik-language text', 'Articles needing cleanup from April 2022', 'Articles with short description', 'Cleanup tagged articles with a reason field from April 2022', 'Elementary algebra', 'Operations on numbers', 'Short description is different from Wikidata', 'Wikipedia pages needing cleanup from April 2022']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/3/39/3rd_roots_of_unity.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/41/Cube-root_function.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/32/Imaginary2Root.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/91/NegativeOne3Root.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/aa/NegativeOne4Root.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/c6/PascalForDecimalRoots.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Square-root_function.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Visualisation_complex_number_roots.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/en/f/f2/Edit-clear.svg']
+
+####### REFERENCES #######
+
+['http://jeff560.tripod.com/s.html', 'http://www.eecs.berkeley.edu/~fateman/papers/radcan.pdf', 'http://visualiseur.bnf.fr/ConsulterElementNum?O=NUMM-16381&Deb=374&Fin=380&E=PDF', 'https://books.google.com/books?id=1C4iQNUWLBwC&pg=PA25', 'https://books.google.com/books?id=etTbP0rItQ4C&q=editions:q0hGn6PkOxsC', 'https://www.merriam-webster.com/dictionary/radication', 'https://en.oxforddictionaries.com/definition/radication', 'https://archive.org/details/algebratrigonome00silv', 'https://web.archive.org/web/20180403112348/https://en.oxforddictionaries.com/definition/radication', 'https://doi.org/10.1016%2FS0747-7171(85)80014-6']
+
+####### SUMMARY #######
+
+In mathematics, an nth root of a number x is a number r which, when raised to the power n, yields x:
+
+  
+    
+      
+        
+          r
+          
+            n
+          
+        
+        =
+        x
+        ,
+      
+    
+    {\displaystyle r^{n}=x,}
+  where n is a positive integer, sometimes called the degree of the root.  A root of degree 2 is called a square root and a root of degree 3, a cube root. Roots of higher degree are referred by using ordinal numbers, as in fourth root, twentieth root, etc.  The computation of an nth root is a root extraction.
+For example, 3 is a square root of 9, since 32 = 9, and −3 is also a square root of 9, since (−3)2 = 9.
+Any non-zero number considered as a complex number has n different complex nth roots, including the real ones (at most two). The nth root of 0 is zero for all positive integers n, since 0n = 0. In particular, if n is even and x is a positive real number, one of its nth roots is real and positive, one is negative, and the others (when n > 2) are non-real complex numbers; if n is even and x is a negative real number, none of the nth roots is real. If n is odd and x is real, one nth root is real and has the same sign as x, while the other (n – 1) roots are not real. Finally, if x is not real, then none of its nth roots are real.
+Roots of real numbers are usually written using the radical symbol or radix 
+  
+    
+      
+        
+          
+            
+              
+                
+                   
+                  
+                     
+                  
+                
+              
+              
+                 
+              
+            
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {{~^{~}}^{~}\!\!}}}
+  , with 
+  
+    
+      
+        
+          
+            x
+          
+        
+      
+    
+    {\displaystyle {\sqrt {x}}}
+   denoting the positive square root of x if x is positive; for higher roots, 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}}
+   denotes the real nth root if n is odd, and the positive nth root if n is even and x is positive. In the other cases, the symbol is not commonly used as being ambiguous. In the expression 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}}
+  , the integer n is called the index and x is called the radicand. 
+When complex nth roots are considered, it is often useful to choose one of the roots, called principal root, as a principal value. The common choice is to choose the principal nth root of x as the nth root with the greatest real part, and when there are two (for x real and negative), the one with a positive imaginary part. This makes the nth root a function that is real and positive for x real and positive, and is continuous in the whole complex plane, except for values of x that are real and negative. 
+A difficulty with this choice is that, for a negative real number and an odd index, the principal nth root is not the real one. For example, 
+  
+    
+      
+        −
+        8
+      
+    
+    {\displaystyle -8}
+   has three cube roots, 
+  
+    
+      
+        −
+        2
+      
+    
+    {\displaystyle -2}
+  , 
+  
+    
+      
+        1
+        +
+        i
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 1+i{\sqrt {3}}}
+   and 
+  
+    
+      
+        1
+        −
+        i
+        
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle 1-i{\sqrt {3}}.}
+   The real cube root is 
+  
+    
+      
+        −
+        2
+      
+    
+    {\displaystyle -2}
+   and the principal cube root is 
+  
+    
+      
+        1
+        +
+        i
+        
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle 1+i{\sqrt {3}}.}
+  
+An unresolved root, especially one using the radical symbol, is sometimes referred to as a surd or a radical. Any expression containing a radical, whether it is a square root, a cube root, or a higher root, is called a radical expression, and if it contains no transcendental functions or transcendental numbers it is called an algebraic expression.
+Roots can also be defined as special cases of exponentiation, where the exponent is a fraction:
+
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+        =
+        
+          x
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}=x^{1/n}.}
+  
+Roots are used for determining the radius of convergence of a power series with the root test. The nth roots of 1 are called roots of unity and play a fundamental role in various areas of mathematics, such as number theory, theory of equations, and Fourier transform.
+
+####### CONTENT #######
+
+In mathematics, an nth root of a number x is a number r which, when raised to the power n, yields x:
+
+  
+    
+      
+        
+          r
+          
+            n
+          
+        
+        =
+        x
+        ,
+      
+    
+    {\displaystyle r^{n}=x,}
+  where n is a positive integer, sometimes called the degree of the root.  A root of degree 2 is called a square root and a root of degree 3, a cube root. Roots of higher degree are referred by using ordinal numbers, as in fourth root, twentieth root, etc.  The computation of an nth root is a root extraction.
+For example, 3 is a square root of 9, since 32 = 9, and −3 is also a square root of 9, since (−3)2 = 9.
+Any non-zero number considered as a complex number has n different complex nth roots, including the real ones (at most two). The nth root of 0 is zero for all positive integers n, since 0n = 0. In particular, if n is even and x is a positive real number, one of its nth roots is real and positive, one is negative, and the others (when n > 2) are non-real complex numbers; if n is even and x is a negative real number, none of the nth roots is real. If n is odd and x is real, one nth root is real and has the same sign as x, while the other (n – 1) roots are not real. Finally, if x is not real, then none of its nth roots are real.
+Roots of real numbers are usually written using the radical symbol or radix 
+  
+    
+      
+        
+          
+            
+              
+                
+                   
+                  
+                     
+                  
+                
+              
+              
+                 
+              
+            
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {{~^{~}}^{~}\!\!}}}
+  , with 
+  
+    
+      
+        
+          
+            x
+          
+        
+      
+    
+    {\displaystyle {\sqrt {x}}}
+   denoting the positive square root of x if x is positive; for higher roots, 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}}
+   denotes the real nth root if n is odd, and the positive nth root if n is even and x is positive. In the other cases, the symbol is not commonly used as being ambiguous. In the expression 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}}
+  , the integer n is called the index and x is called the radicand. 
+When complex nth roots are considered, it is often useful to choose one of the roots, called principal root, as a principal value. The common choice is to choose the principal nth root of x as the nth root with the greatest real part, and when there are two (for x real and negative), the one with a positive imaginary part. This makes the nth root a function that is real and positive for x real and positive, and is continuous in the whole complex plane, except for values of x that are real and negative. 
+A difficulty with this choice is that, for a negative real number and an odd index, the principal nth root is not the real one. For example, 
+  
+    
+      
+        −
+        8
+      
+    
+    {\displaystyle -8}
+   has three cube roots, 
+  
+    
+      
+        −
+        2
+      
+    
+    {\displaystyle -2}
+  , 
+  
+    
+      
+        1
+        +
+        i
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 1+i{\sqrt {3}}}
+   and 
+  
+    
+      
+        1
+        −
+        i
+        
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle 1-i{\sqrt {3}}.}
+   The real cube root is 
+  
+    
+      
+        −
+        2
+      
+    
+    {\displaystyle -2}
+   and the principal cube root is 
+  
+    
+      
+        1
+        +
+        i
+        
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle 1+i{\sqrt {3}}.}
+  
+An unresolved root, especially one using the radical symbol, is sometimes referred to as a surd or a radical. Any expression containing a radical, whether it is a square root, a cube root, or a higher root, is called a radical expression, and if it contains no transcendental functions or transcendental numbers it is called an algebraic expression.
+Roots can also be defined as special cases of exponentiation, where the exponent is a fraction:
+
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+        =
+        
+          x
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}=x^{1/n}.}
+  
+Roots are used for determining the radius of convergence of a power series with the root test. The nth roots of 1 are called roots of unity and play a fundamental role in various areas of mathematics, such as number theory, theory of equations, and Fourier transform.
+
+
+== History ==
+
+An archaic term for the operation of taking nth roots is radication.
+
+
+== Definition and notation ==
+
+An  nth root of a number x, where n is a positive integer, is any of the n real or complex numbers r whose nth power is x:
+
+  
+    
+      
+        
+          r
+          
+            n
+          
+        
+        =
+        x
+        .
+      
+    
+    {\displaystyle r^{n}=x.}
+  Every positive real number x has a single positive nth root, called the principal nth root, which is written 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}}
+  . For n equal to 2 this is called the principal square root and the  n is omitted. The nth root can also be represented using exponentiation as x1/n.
+For even values of n, positive numbers also have a negative nth root, while negative numbers do not have a real nth root.  For odd values of n, every negative number x has a real negative nth root.  For example, −2 has a real 5th root, 
+  
+    
+      
+        
+          
+            
+              −
+              2
+            
+            
+              5
+            
+          
+        
+        =
+        −
+        1.148698354
+        …
+      
+    
+    {\displaystyle {\sqrt[{5}]{-2}}=-1.148698354\ldots }
+   but −2 does not have any real 6th roots.
+Every non-zero number x, real or complex, has n different complex number nth roots.  (In the case x is real, this count includes any real nth roots.) The only complex root of 0 is 0.
+The nth roots of almost all numbers (all integers except the nth powers, and all rationals except the quotients of two nth powers) are irrational.  For example,
+
+  
+    
+      
+        
+          
+            2
+          
+        
+        =
+        1.414213562
+        …
+      
+    
+    {\displaystyle {\sqrt {2}}=1.414213562\ldots }
+  All nth roots of integers are algebraic numbers.
+The term surd traces back to al-Khwārizmī (c. 825), who referred to rational and irrational numbers as audible and inaudible, respectively. This later led to the Arabic word "أصم" (asamm, meaning "deaf" or "dumb") for irrational number being translated into Latin as "surdus" (meaning "deaf" or "mute"). Gerard of Cremona (c. 1150), Fibonacci (1202), and then Robert Recorde (1551) all used the term to refer to unresolved irrational roots, that is, expressions of the form 
+  
+    
+      
+        
+          
+            i
+            
+              n
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt[{n}]{i}},}
+   in which 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   and 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   are integer numerals and the whole expression denotes an irrational number. Quadratic irrational numbers, that is, irrational numbers of the form 
+  
+    
+      
+        
+          
+            i
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {i}},}
+   are also known as "quadratic surds".
+
+
+=== Square roots ===
+
+A square root of a number x is a number r which, when squared, becomes x:
+
+  
+    
+      
+        
+          r
+          
+            2
+          
+        
+        =
+        x
+        .
+      
+    
+    {\displaystyle r^{2}=x.}
+  Every positive real number has two square roots, one positive and one negative.  For example, the two square roots of 25 are 5 and −5.  The positive square root is also known as the principal square root, and is denoted with a radical sign:
+
+  
+    
+      
+        
+          
+            25
+          
+        
+        =
+        5.
+      
+    
+    {\displaystyle {\sqrt {25}}=5.}
+  Since the square of every real number is nonnegative, negative numbers do not have real square roots.  However, for every negative real number there are two imaginary square roots.  For example, the square roots of −25 are 5i and −5i, where i represents a number whose square is −1.
+
+
+=== Cube roots ===
+
+A cube root of a number x is a number r whose cube is x:
+
+  
+    
+      
+        
+          r
+          
+            3
+          
+        
+        =
+        x
+        .
+      
+    
+    {\displaystyle r^{3}=x.}
+  Every real number x has exactly one real cube root, written 
+  
+    
+      
+        
+          
+            x
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{3}]{x}}}
+  .  For example,
+
+  
+    
+      
+        
+          
+            8
+            
+              3
+            
+          
+        
+        =
+        2
+      
+    
+    {\displaystyle {\sqrt[{3}]{8}}=2}
+   and 
+  
+    
+      
+        
+          
+            
+              −
+              8
+            
+            
+              3
+            
+          
+        
+        =
+        −
+        2.
+      
+    
+    {\displaystyle {\sqrt[{3}]{-8}}=-2.}
+  Every real number has two additional complex cube roots.
+
+
+== Identities and properties ==
+Expressing the degree of an nth root in its exponent form, as in 
+  
+    
+      
+        
+          x
+          
+            1
+            
+              /
+            
+            n
+          
+        
+      
+    
+    {\displaystyle x^{1/n}}
+  , makes it easier to manipulate powers and roots. If 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is a non-negative real number,
+
+  
+    
+      
+        
+          
+            
+              a
+              
+                m
+              
+            
+            
+              n
+            
+          
+        
+        =
+        (
+        
+          a
+          
+            m
+          
+        
+        
+          )
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        =
+        
+          a
+          
+            m
+            
+              /
+            
+            n
+          
+        
+        =
+        (
+        
+          a
+          
+            1
+            
+              /
+            
+            n
+          
+        
+        
+          )
+          
+            m
+          
+        
+        =
+        (
+        
+          
+            a
+            
+              n
+            
+          
+        
+        
+          )
+          
+            m
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt[{n}]{a^{m}}}=(a^{m})^{1/n}=a^{m/n}=(a^{1/n})^{m}=({\sqrt[{n}]{a}})^{m}.}
+  Every non-negative number has exactly one non-negative real nth root, and so the rules for operations with surds involving non-negative radicands 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   are straightforward within the real numbers:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      a
+                      b
+                    
+                    
+                      n
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    a
+                    
+                      n
+                    
+                  
+                
+                
+                  
+                    b
+                    
+                      n
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      a
+                      b
+                    
+                    
+                      n
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      a
+                      
+                        n
+                      
+                    
+                    
+                      b
+                      
+                        n
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\sqrt[{n}]{ab}}&={\sqrt[{n}]{a}}{\sqrt[{n}]{b}}\\{\sqrt[{n}]{\frac {a}{b}}}&={\frac {\sqrt[{n}]{a}}{\sqrt[{n}]{b}}}\end{aligned}}}
+  Subtleties can occur when taking the nth roots of negative or complex numbers. For instance:
+
+  
+    
+      
+        
+          
+            −
+            1
+          
+        
+        ×
+        
+          
+            −
+            1
+          
+        
+        ≠
+        
+          
+            −
+            1
+            ×
+            −
+            1
+          
+        
+        =
+        1
+        ,
+        
+      
+    
+    {\displaystyle {\sqrt {-1}}\times {\sqrt {-1}}\neq {\sqrt {-1\times -1}}=1,\quad }
+   but, rather, 
+  
+    
+      
+        
+        
+          
+            −
+            1
+          
+        
+        ×
+        
+          
+            −
+            1
+          
+        
+        =
+        i
+        ×
+        i
+        =
+        
+          i
+          
+            2
+          
+        
+        =
+        −
+        1.
+      
+    
+    {\displaystyle \quad {\sqrt {-1}}\times {\sqrt {-1}}=i\times i=i^{2}=-1.}
+  Since the rule 
+  
+    
+      
+        
+          
+            a
+            
+              n
+            
+          
+        
+        ×
+        
+          
+            b
+            
+              n
+            
+          
+        
+        =
+        
+          
+            
+              a
+              b
+            
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{a}}\times {\sqrt[{n}]{b}}={\sqrt[{n}]{ab}}}
+   strictly holds for non-negative real radicands only, its application leads to the inequality in the first step above.
+
+
+== Simplified form of a radical expression ==
+A non-nested radical expression is said to be in simplified form if
+There is no factor of the radicand that can be written as a power greater than or equal to the index.
+There are no fractions under the radical sign.
+There are no radicals in the denominator.For example, to write the radical expression 
+  
+    
+      
+        
+          
+            
+              
+                32
+                5
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {\tfrac {32}{5}}}}
+   in simplified form, we can proceed as follows. First, look for a perfect square under the square root sign and remove it:
+
+  
+    
+      
+        
+          
+            
+              
+                32
+                5
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  16
+                  ⋅
+                  2
+                
+                5
+              
+            
+          
+        
+        =
+        
+          
+            16
+          
+        
+        ⋅
+        
+          
+            
+              
+                2
+                5
+              
+            
+          
+        
+        =
+        4
+        
+          
+            
+              
+                2
+                5
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {\tfrac {32}{5}}}={\sqrt {\tfrac {16\cdot 2}{5}}}={\sqrt {16}}\cdot {\sqrt {\tfrac {2}{5}}}=4{\sqrt {\tfrac {2}{5}}}}
+  Next, there is a fraction under the radical sign, which we change as follows:
+
+  
+    
+      
+        4
+        
+          
+            
+              
+                2
+                5
+              
+            
+          
+        
+        =
+        
+          
+            
+              4
+              
+                
+                  2
+                
+              
+            
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle 4{\sqrt {\tfrac {2}{5}}}={\frac {4{\sqrt {2}}}{\sqrt {5}}}}
+  Finally, we remove the radical from the denominator as follows:
+
+  
+    
+      
+        
+          
+            
+              4
+              
+                
+                  2
+                
+              
+            
+            
+              5
+            
+          
+        
+        =
+        
+          
+            
+              4
+              
+                
+                  2
+                
+              
+            
+            
+              5
+            
+          
+        
+        ⋅
+        
+          
+            
+              5
+            
+            
+              5
+            
+          
+        
+        =
+        
+          
+            
+              4
+              
+                
+                  10
+                
+              
+            
+            5
+          
+        
+        =
+        
+          
+            4
+            5
+          
+        
+        
+          
+            10
+          
+        
+      
+    
+    {\displaystyle {\frac {4{\sqrt {2}}}{\sqrt {5}}}={\frac {4{\sqrt {2}}}{\sqrt {5}}}\cdot {\frac {\sqrt {5}}{\sqrt {5}}}={\frac {4{\sqrt {10}}}{5}}={\frac {4}{5}}{\sqrt {10}}}
+  When there is a denominator involving surds it is always possible to find a factor to multiply both numerator and denominator by to simplify the expression. For instance using the factorization of the sum of two cubes:
+
+  
+    
+      
+        
+          
+            1
+            
+              
+                
+                  a
+                  
+                    3
+                  
+                
+              
+              +
+              
+                
+                  b
+                  
+                    3
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    a
+                    
+                      2
+                    
+                  
+                  
+                    3
+                  
+                
+              
+              −
+              
+                
+                  
+                    a
+                    b
+                  
+                  
+                    3
+                  
+                
+              
+              +
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  
+                    3
+                  
+                
+              
+            
+            
+              
+                (
+                
+                  
+                    
+                      a
+                      
+                        3
+                      
+                    
+                  
+                  +
+                  
+                    
+                      b
+                      
+                        3
+                      
+                    
+                  
+                
+                )
+              
+              
+                (
+                
+                  
+                    
+                      
+                        a
+                        
+                          2
+                        
+                      
+                      
+                        3
+                      
+                    
+                  
+                  −
+                  
+                    
+                      
+                        a
+                        b
+                      
+                      
+                        3
+                      
+                    
+                  
+                  +
+                  
+                    
+                      
+                        b
+                        
+                          2
+                        
+                      
+                      
+                        3
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    a
+                    
+                      2
+                    
+                  
+                  
+                    3
+                  
+                
+              
+              −
+              
+                
+                  
+                    a
+                    b
+                  
+                  
+                    3
+                  
+                
+              
+              +
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  
+                    3
+                  
+                
+              
+            
+            
+              a
+              +
+              b
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {1}{{\sqrt[{3}]{a}}+{\sqrt[{3}]{b}}}}={\frac {{\sqrt[{3}]{a^{2}}}-{\sqrt[{3}]{ab}}+{\sqrt[{3}]{b^{2}}}}{\left({\sqrt[{3}]{a}}+{\sqrt[{3}]{b}}\right)\left({\sqrt[{3}]{a^{2}}}-{\sqrt[{3}]{ab}}+{\sqrt[{3}]{b^{2}}}\right)}}={\frac {{\sqrt[{3}]{a^{2}}}-{\sqrt[{3}]{ab}}+{\sqrt[{3}]{b^{2}}}}{a+b}}.}
+  Simplifying radical expressions involving nested radicals can be quite difficult. It is not obvious for instance that:
+
+  
+    
+      
+        
+          
+            3
+            +
+            2
+            
+              
+                2
+              
+            
+          
+        
+        =
+        1
+        +
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {3+2{\sqrt {2}}}}=1+{\sqrt {2}}}
+  The above can be derived through:
+
+  
+    
+      
+        
+          
+            3
+            +
+            2
+            
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            1
+            +
+            2
+            
+              
+                2
+              
+            
+            +
+            2
+          
+        
+        =
+        
+          
+            
+              1
+              
+                2
+              
+            
+            +
+            2
+            
+              
+                2
+              
+            
+            +
+            
+              
+                
+                  2
+                
+              
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                (
+                
+                  1
+                  +
+                  
+                    
+                      2
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+        =
+        1
+        +
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {3+2{\sqrt {2}}}}={\sqrt {1+2{\sqrt {2}}+2}}={\sqrt {1^{2}+2{\sqrt {2}}+{\sqrt {2}}^{2}}}={\sqrt {\left(1+{\sqrt {2}}\right)^{2}}}=1+{\sqrt {2}}}
+  Let 
+  
+    
+      
+        r
+        =
+        p
+        
+          /
+        
+        q
+      
+    
+    {\displaystyle r=p/q}
+  , with p and q coprime and positive integers. Then 
+  
+    
+      
+        
+          
+            r
+            
+              n
+            
+          
+        
+        =
+        
+          
+            p
+            
+              n
+            
+          
+        
+        
+          /
+        
+        
+          
+            q
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{r}}={\sqrt[{n}]{p}}/{\sqrt[{n}]{q}}}
+   is rational if and only if both 
+  
+    
+      
+        
+          
+            p
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{p}}}
+   and 
+  
+    
+      
+        
+          
+            q
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{q}}}
+   are integers, which means that both p and q are nth powers of some integer.
+
+
+== Infinite series ==
+The radical or root may be represented by the infinite series:
+
+  
+    
+      
+        (
+        1
+        +
+        x
+        
+          )
+          
+            
+              s
+              t
+            
+          
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                ∏
+                
+                  k
+                  =
+                  0
+                
+                
+                  n
+                  −
+                  1
+                
+              
+              (
+              s
+              −
+              k
+              t
+              )
+            
+            
+              n
+              !
+              
+                t
+                
+                  n
+                
+              
+            
+          
+        
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle (1+x)^{\frac {s}{t}}=\sum _{n=0}^{\infty }{\frac {\prod _{k=0}^{n-1}(s-kt)}{n!t^{n}}}x^{n}}
+  with 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+        <
+        1
+      
+    
+    {\displaystyle |x|<1}
+  . This expression can be derived from the binomial series.
+
+
+== Computing principal roots ==
+
+
+=== Using Newton's method ===
+The nth root of a number A can be computed with Newton's method, which starts with an initial guess x0 and then iterates using the recurrence relation
+
+  
+    
+      
+        
+          x
+          
+            k
+            +
+            1
+          
+        
+        =
+        
+          x
+          
+            k
+          
+        
+        −
+        
+          
+            
+              
+                x
+                
+                  k
+                
+                
+                  n
+                
+              
+              −
+              A
+            
+            
+              n
+              
+                x
+                
+                  k
+                
+                
+                  n
+                  −
+                  1
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle x_{k+1}=x_{k}-{\frac {x_{k}^{n}-A}{nx_{k}^{n-1}}}}
+  until the desired precision is reached. For computational efficiency, the recurrence relation is commonly rewritten 
+
+  
+    
+      
+        
+          x
+          
+            k
+            +
+            1
+          
+        
+        =
+        
+          
+            
+              n
+              −
+              1
+            
+            n
+          
+        
+        
+        
+          x
+          
+            k
+          
+        
+        +
+        
+          
+            A
+            n
+          
+        
+        
+        
+          
+            1
+            
+              x
+              
+                k
+              
+              
+                n
+                −
+                1
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle x_{k+1}={\frac {n-1}{n}}\,x_{k}+{\frac {A}{n}}\,{\frac {1}{x_{k}^{n-1}}}.}
+  This allows to have only one exponentiation, and to compute once for all the first factor of each term.
+For example, to find the fifth root of 34, we plug in n = 5, A = 34 and x0 = 2 (initial guess). The first 5 iterations are, approximately:
+x0 = 2
+x1 = 2.025
+x2 = 2.02439 7...
+x3 = 2.02439 7458...
+x4 = 2.02439 74584 99885 04251 08172...
+x5 = 2.02439 74584 99885 04251 08172 45541 93741 91146 21701 07311 8...
+
+(All correct digits shown.)
+The approximation x4 is accurate to 25 decimal places and x5 is good for 51. 
+Newton's method can be modified to produce various generalized continued fractions for the nth root. For example,
+
+  
+    
+      
+        
+          
+            z
+            
+              n
+            
+          
+        
+        =
+        
+          
+            
+              
+                x
+                
+                  n
+                
+              
+              +
+              y
+            
+            
+              n
+            
+          
+        
+        =
+        x
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  y
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  n
+                  
+                    x
+                    
+                      n
+                      −
+                      1
+                    
+                  
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            (
+                            n
+                            −
+                            1
+                            )
+                            y
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            2
+                            x
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      (
+                                      n
+                                      +
+                                      1
+                                      )
+                                      y
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      3
+                                      n
+                                      
+                                        x
+                                        
+                                          n
+                                          −
+                                          1
+                                        
+                                      
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                (
+                                                2
+                                                n
+                                                −
+                                                1
+                                                )
+                                                y
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                2
+                                                x
+                                                +
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          (
+                                                          2
+                                                          n
+                                                          +
+                                                          1
+                                                          )
+                                                          y
+                                                        
+                                                      
+                                                    
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          5
+                                                          n
+                                                          
+                                                            x
+                                                            
+                                                              n
+                                                              −
+                                                              1
+                                                            
+                                                          
+                                                          +
+                                                          
+                                                            
+                                                              
+                                                                
+                                                                  
+                                                                
+                                                                
+                                                                  
+                                                                    (
+                                                                    3
+                                                                    n
+                                                                    −
+                                                                    1
+                                                                    )
+                                                                    y
+                                                                  
+                                                                
+                                                              
+                                                              
+                                                                
+                                                                  
+                                                                
+                                                                
+                                                                  
+                                                                    2
+                                                                    x
+                                                                    +
+                                                                    ⋱
+                                                                  
+                                                                
+                                                              
+                                                            
+                                                          
+                                                        
+                                                      
+                                                    
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt[{n}]{z}}={\sqrt[{n}]{x^{n}+y}}=x+{\cfrac {y}{nx^{n-1}+{\cfrac {(n-1)y}{2x+{\cfrac {(n+1)y}{3nx^{n-1}+{\cfrac {(2n-1)y}{2x+{\cfrac {(2n+1)y}{5nx^{n-1}+{\cfrac {(3n-1)y}{2x+\ddots }}}}}}}}}}}}.}
+  
+
+
+=== Digit-by-digit calculation of principal roots of decimal (base 10) numbers ===
+
+Building on the digit-by-digit calculation of a square root, it can be seen that the formula used there, 
+  
+    
+      
+        x
+        (
+        20
+        p
+        +
+        x
+        )
+        ≤
+        c
+      
+    
+    {\displaystyle x(20p+x)\leq c}
+  , or 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        20
+        x
+        p
+        ≤
+        c
+      
+    
+    {\displaystyle x^{2}+20xp\leq c}
+  , follows a pattern involving Pascal's triangle.  For the nth root of a number 
+  
+    
+      
+        P
+        (
+        n
+        ,
+        i
+        )
+      
+    
+    {\displaystyle P(n,i)}
+   is defined as the value of element 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   in row 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   of Pascal's Triangle such that 
+  
+    
+      
+        P
+        (
+        4
+        ,
+        1
+        )
+        =
+        4
+      
+    
+    {\displaystyle P(4,1)=4}
+  , we can rewrite the expression as 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          10
+          
+            i
+          
+        
+        P
+        (
+        n
+        ,
+        i
+        )
+        
+          p
+          
+            i
+          
+        
+        
+          x
+          
+            n
+            −
+            i
+          
+        
+      
+    
+    {\displaystyle \sum _{i=0}^{n-1}10^{i}P(n,i)p^{i}x^{n-i}}
+  .  For convenience, call the result of this expression 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  .  Using this more general expression, any positive principal root can be computed, digit-by-digit, as follows.
+Write the original number in decimal form. The numbers are written similar to the long division algorithm, and, as in long division, the root will be written on the line above. Now separate the digits into groups of digits equating to the root being taken, starting from the decimal point and going both left and right. The decimal point of the root will be above the decimal point of the radicand. One digit of the root will appear above each group of digits of the original number.
+Beginning with the left-most group of digits, do the following procedure for each group:
+
+Starting on the left, bring down the most significant (leftmost) group of digits not yet used (if all the digits have been used, write "0" the number of times required to make a group) and write them to the right of the remainder from the previous step (on the first step, there will be no remainder). In other words, multiply the remainder by 
+  
+    
+      
+        
+          10
+          
+            n
+          
+        
+      
+    
+    {\displaystyle 10^{n}}
+   and add the digits from the next group. This will be the current value c.
+Find p and x, as follows:
+Let 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   be the part of the root found so far, ignoring any decimal point. (For the first step, 
+  
+    
+      
+        p
+        =
+        0
+      
+    
+    {\displaystyle p=0}
+  ).
+Determine the greatest digit 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   such that 
+  
+    
+      
+        y
+        ≤
+        c
+      
+    
+    {\displaystyle y\leq c}
+  .
+Place the digit 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   as the next digit of the root, i.e., above the group of digits you just brought down. Thus the next p will be the old p times 10 plus x.
+Subtract 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   from 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   to form a new remainder.
+If the remainder is zero and there are no more digits to bring down, then the algorithm has terminated. Otherwise go back to step 1 for another iteration.
+
+
+==== Examples ====
+Find the square root of 152.2756.
+
+          1  2. 3  4 
+       /
+     \/  01 52.27 56
+
+         01                   100·1·00·12 + 101·2·01·11     ≤      1   <   100·1·00·22   + 101·2·01·21         x = 1
+         01                      y = 100·1·00·12   + 101·2·01·11   =  1 +    0   =     1
+         00 52                100·1·10·22 + 101·2·11·21     ≤     52   <   100·1·10·32   + 101·2·11·31         x = 2
+         00 44                   y = 100·1·10·22   + 101·2·11·21   =  4 +   40   =    44
+            08 27             100·1·120·32 + 101·2·121·31   ≤    827   <   100·1·120·42  + 101·2·121·41        x = 3
+            07 29                y = 100·1·120·32  + 101·2·121·31  =  9 +  720   =   729
+               98 56          100·1·1230·42 + 101·2·1231·41 ≤   9856   <   100·1·1230·52 + 101·2·1231·51       x = 4
+               98 56             y = 100·1·1230·42 + 101·2·1231·41 = 16 + 9840   =  9856
+               00 00          Algorithm terminates: Answer is 12.34
+
+Find the cube root of 4192 to the nearest hundredth.
+
+        1   6.  1   2   4
+ 3  /
+  \/  004 192.000 000 000
+
+      004                      100·1·00·13    +  101·3·01·12   + 102·3·02·11    ≤          4  <  100·1·00·23     + 101·3·01·22    + 102·3·02·21     x = 1
+      001                         y = 100·1·00·13   + 101·3·01·12   + 102·3·02·11   =   1 +      0 +          0   =          1
+      003 192                  100·1·10·63    +  101·3·11·62   + 102·3·12·61    ≤       3192  <  100·1·10·73     + 101·3·11·72    + 102·3·12·71     x = 6
+      003 096                     y = 100·1·10·63   + 101·3·11·62   + 102·3·12·61   = 216 +  1,080 +      1,800   =      3,096
+          096 000              100·1·160·13   + 101·3·161·12   + 102·3·162·11   ≤      96000  <  100·1·160·23   + 101·3·161·22   + 102·3·162·21    x = 1
+          077 281                 y = 100·1·160·13  + 101·3·161·12  + 102·3·162·11  =   1 +    480 +     76,800   =     77,281
+          018 719 000          100·1·1610·23  + 101·3·1611·22  + 102·3·1612·21  ≤   18719000  <  100·1·1610·33  + 101·3·1611·32  + 102·3·1612·31   x = 2
+              015 571 928         y = 100·1·1610·23 + 101·3·1611·22 + 102·3·1612·21 =   8 + 19,320 + 15,552,600   = 15,571,928
+              003 147 072 000  100·1·16120·43 + 101·3·16121·42 + 102·3·16122·41 ≤ 3147072000  <  100·1·16120·53 + 101·3·16121·52 + 102·3·16122·51  x = 4
+                               The desired precision is achieved:
+                               The cube root of 4192 is about 16.12
+
+
+=== Logarithmic calculation ===
+The principal nth root of a positive number can be computed using logarithms. Starting from the equation that defines r as an nth root of x, namely 
+  
+    
+      
+        
+          r
+          
+            n
+          
+        
+        =
+        x
+        ,
+      
+    
+    {\displaystyle r^{n}=x,}
+   with x positive and therefore its principal root r also positive, one takes logarithms of both sides (any base of the logarithm will do) to obtain
+
+  
+    
+      
+        n
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        r
+        =
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        x
+        
+        
+        
+          hence
+        
+        
+        
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        r
+        =
+        
+          
+            
+              
+                log
+                
+                  b
+                
+              
+              ⁡
+              x
+            
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle n\log _{b}r=\log _{b}x\quad \quad {\text{hence}}\quad \quad \log _{b}r={\frac {\log _{b}x}{n}}.}
+  The root r is recovered from this by taking the antilog:
+
+  
+    
+      
+        r
+        =
+        
+          b
+          
+            
+              
+                1
+                n
+              
+            
+            
+              log
+              
+                b
+              
+            
+            ⁡
+            x
+          
+        
+        .
+      
+    
+    {\displaystyle r=b^{{\frac {1}{n}}\log _{b}x}.}
+  (Note: That formula shows b raised to the power of the result of the division, not b multiplied by the result of the division.)
+For the case in which x is negative and n is odd, there is one real root r which is also negative. This can be found by first multiplying both sides of the defining equation by −1 to obtain 
+  
+    
+      
+        
+          |
+        
+        r
+        
+          
+            |
+          
+          
+            n
+          
+        
+        =
+        
+          |
+        
+        x
+        
+          |
+        
+        ,
+      
+    
+    {\displaystyle |r|^{n}=|x|,}
+   then proceeding as before to find |r|, and using r = −|r|.
+
+
+== Geometric constructibility ==
+The ancient Greek mathematicians knew how to use compass and straightedge to construct a length equal to the square root of a given length, when an auxiliary line of unit length is given. In 1837 Pierre Wantzel proved that an nth root of a given length cannot be constructed if n is not a power of 2.
+
+
+== Complex roots ==
+Every complex number other than 0 has n different nth roots.
+
+
+=== Square roots ===
+
+The two square roots of a complex number are always negatives of each other. For example, the square roots of −4 are 2i and −2i, and the square roots of i are
+
+  
+    
+      
+        
+          
+            
+              1
+              
+                2
+              
+            
+          
+        
+        (
+        1
+        +
+        i
+        )
+        
+        
+          and
+        
+        
+        −
+        
+          
+            
+              1
+              
+                2
+              
+            
+          
+        
+        (
+        1
+        +
+        i
+        )
+        .
+      
+    
+    {\displaystyle {\tfrac {1}{\sqrt {2}}}(1+i)\quad {\text{and}}\quad -{\tfrac {1}{\sqrt {2}}}(1+i).}
+  If we express a complex number in polar form, then the square root can be obtained by taking the square root of the radius and halving the angle:
+
+  
+    
+      
+        
+          
+            r
+            
+              e
+              
+                i
+                θ
+              
+            
+          
+        
+        =
+        ±
+        
+          
+            r
+          
+        
+        ⋅
+        
+          e
+          
+            i
+            θ
+            
+              /
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt {re^{i\theta }}}=\pm {\sqrt {r}}\cdot e^{i\theta /2}.}
+  A principal root of a complex number may be chosen in various ways, for example
+
+  
+    
+      
+        
+          
+            r
+            
+              e
+              
+                i
+                θ
+              
+            
+          
+        
+        =
+        
+          
+            r
+          
+        
+        ⋅
+        
+          e
+          
+            i
+            θ
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {re^{i\theta }}}={\sqrt {r}}\cdot e^{i\theta /2}}
+  which introduces a branch cut in the complex plane along the positive real axis with the condition 0 ≤ θ < 2π, or along the negative real axis with −π < θ ≤ π.
+Using the first(last) branch cut the principal square root 
+  
+    
+      
+        
+          
+            
+              z
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\sqrt {z}}}
+   maps 
+  
+    
+      
+        
+          z
+        
+      
+    
+    {\displaystyle \scriptstyle z}
+   to the half plane with non-negative imaginary(real) part. The last branch cut is presupposed in mathematical software like Matlab or Scilab.
+
+
+=== Roots of unity ===
+
+The number 1 has n different nth roots in the complex plane, namely
+
+  
+    
+      
+        1
+        ,
+        
+        ω
+        ,
+        
+        
+          ω
+          
+            2
+          
+        
+        ,
+        
+        …
+        ,
+        
+        
+          ω
+          
+            n
+            −
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle 1,\;\omega ,\;\omega ^{2},\;\ldots ,\;\omega ^{n-1},}
+  where
+
+  
+    
+      
+        ω
+        =
+        
+          e
+          
+            
+              
+                2
+                π
+                i
+              
+              n
+            
+          
+        
+        =
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                2
+                π
+              
+              n
+            
+          
+          )
+        
+        +
+        i
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                2
+                π
+              
+              n
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \omega =e^{\frac {2\pi i}{n}}=\cos \left({\frac {2\pi }{n}}\right)+i\sin \left({\frac {2\pi }{n}}\right)}
+  These roots are evenly spaced around the unit circle in the complex plane, at angles which are multiples of 
+  
+    
+      
+        2
+        π
+        
+          /
+        
+        n
+      
+    
+    {\displaystyle 2\pi /n}
+  .  For example, the square roots of unity are 1 and −1, and the fourth roots of unity are 1, 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  , −1, and 
+  
+    
+      
+        −
+        i
+      
+    
+    {\displaystyle -i}
+  .
+
+
+=== nth roots ===
+
+Every complex number has n different nth roots in the complex plane.  These are
+
+  
+    
+      
+        η
+        ,
+        
+        η
+        ω
+        ,
+        
+        η
+        
+          ω
+          
+            2
+          
+        
+        ,
+        
+        …
+        ,
+        
+        η
+        
+          ω
+          
+            n
+            −
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle \eta ,\;\eta \omega ,\;\eta \omega ^{2},\;\ldots ,\;\eta \omega ^{n-1},}
+  where η is a single nth root, and 1, ω, ω2, ... ωn−1 are the nth roots of unity.  For example, the four different fourth roots of 2 are
+
+  
+    
+      
+        
+          
+            2
+            
+              4
+            
+          
+        
+        ,
+        
+        i
+        
+          
+            2
+            
+              4
+            
+          
+        
+        ,
+        
+        −
+        
+          
+            2
+            
+              4
+            
+          
+        
+        ,
+        
+        
+          and
+        
+        
+        −
+        i
+        
+          
+            2
+            
+              4
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt[{4}]{2}},\quad i{\sqrt[{4}]{2}},\quad -{\sqrt[{4}]{2}},\quad {\text{and}}\quad -i{\sqrt[{4}]{2}}.}
+  In polar form, a single nth root may be found by the formula
+
+  
+    
+      
+        
+          
+            
+              r
+              
+                e
+                
+                  i
+                  θ
+                
+              
+            
+            
+              n
+            
+          
+        
+        =
+        
+          
+            r
+            
+              n
+            
+          
+        
+        ⋅
+        
+          e
+          
+            i
+            θ
+            
+              /
+            
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle {\sqrt[{n}]{re^{i\theta }}}={\sqrt[{n}]{r}}\cdot e^{i\theta /n}.}
+  Here r is the magnitude (the modulus, also called the absolute value) of the number whose root is to be taken; if the number can be written as a+bi then 
+  
+    
+      
+        r
+        =
+        
+          
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle r={\sqrt {a^{2}+b^{2}}}}
+  . Also, 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is the angle formed as one pivots on the origin counterclockwise from the positive horizontal axis to a ray going from the origin to the number; it has the properties that 
+  
+    
+      
+        cos
+        ⁡
+        θ
+        =
+        a
+        
+          /
+        
+        r
+        ,
+      
+    
+    {\displaystyle \cos \theta =a/r,}
+    
+  
+    
+      
+        sin
+        ⁡
+        θ
+        =
+        b
+        
+          /
+        
+        r
+        ,
+      
+    
+    {\displaystyle \sin \theta =b/r,}
+   and 
+  
+    
+      
+        tan
+        ⁡
+        θ
+        =
+        b
+        
+          /
+        
+        a
+        .
+      
+    
+    {\displaystyle \tan \theta =b/a.}
+  
+Thus finding nth roots in the complex plane can be segmented into two steps. First, the magnitude of all the nth roots is the nth root of the magnitude of the original number. Second, the angle between the positive horizontal axis and a ray from the origin to one of the nth roots is 
+  
+    
+      
+        θ
+        
+          /
+        
+        n
+      
+    
+    {\displaystyle \theta /n}
+  , where 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is the angle defined in the same way for the number whose root is being taken. Furthermore, all n of the nth roots are at equally spaced angles from each other.
+If n is even, a complex number's nth roots, of which there are an even number, come in additive inverse pairs, so that if a number r1 is one of the nth roots then r2 =  –r1 is another. This is because raising the latter's coefficient –1 to the nth power for even n yields 1: that is, (–r1)n = (–1)n × r1n = r1n.
+As with square roots, the formula above does not define a continuous function over the entire complex plane, but instead has a branch cut at points where θ / n is discontinuous.
+
+
+== Solving polynomials ==
+
+It was once conjectured that all polynomial equations could be solved algebraically (that is, that all roots of a polynomial could be expressed in terms of a finite number of radicals and elementary operations). However, while this is true for third degree polynomials (cubics) and fourth degree polynomials (quartics), the Abel–Ruffini theorem (1824) shows that this is not true in general when the degree is 5 or greater. For example, the solutions of the equation
+
+  
+    
+      
+        
+          x
+          
+            5
+          
+        
+        =
+        x
+        +
+        1
+      
+    
+    {\displaystyle x^{5}=x+1}
+  cannot be expressed in terms of radicals. (cf. quintic equation)
+
+
+== Proof of irrationality for non-perfect nth power x ==
+Assume that 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}}
+   is rational. That is, it can be reduced to a fraction 
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}}
+  , where a and b are integers without a common factor.
+This means that 
+  
+    
+      
+        x
+        =
+        
+          
+            
+              a
+              
+                n
+              
+            
+            
+              b
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle x={\frac {a^{n}}{b^{n}}}}
+  .
+Since x is an integer, 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a^{n}}
+  and 
+  
+    
+      
+        
+          b
+          
+            n
+          
+        
+      
+    
+    {\displaystyle b^{n}}
+  must share a common factor if 
+  
+    
+      
+        b
+        ≠
+        1
+      
+    
+    {\displaystyle b\neq 1}
+  . This means that if 
+  
+    
+      
+        b
+        ≠
+        1
+      
+    
+    {\displaystyle b\neq 1}
+  , 
+  
+    
+      
+        
+          
+            
+              a
+              
+                n
+              
+            
+            
+              b
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {a^{n}}{b^{n}}}}
+   is not in simplest form. Thus b should equal 1.
+Since 
+  
+    
+      
+        
+          1
+          
+            n
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle 1^{n}=1}
+   and 
+  
+    
+      
+        
+          
+            n
+            1
+          
+        
+        =
+        n
+      
+    
+    {\displaystyle {\frac {n}{1}}=n}
+  , 
+  
+    
+      
+        
+          
+            
+              a
+              
+                n
+              
+            
+            
+              b
+              
+                n
+              
+            
+          
+        
+        =
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\frac {a^{n}}{b^{n}}}=a^{n}}
+  .
+This means that 
+  
+    
+      
+        x
+        =
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x=a^{n}}
+   and thus, 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+        =
+        a
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}=a}
+  . This implies that 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}}
+   is an integer. Since x is not a perfect nth power, this is impossible. Thus 
+  
+    
+      
+        
+          
+            x
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{n}]{x}}}
+   is irrational.
+
+
+== See also ==
+Shifting nth root algorithm
+Geometric mean
+Twelfth root of two
+Super-root
+
+
+== References ==
+
+
+== External links ==
+

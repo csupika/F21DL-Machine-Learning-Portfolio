@@ -1,0 +1,211 @@
+####### TITLE #######
+
+River
+
+####### LINKS #######
+
+['100-year flood', 'Abrasion (geology)', 'Aggradation', 'Agricultural wastewater', 'Ait', 'Albert Brahms', 'Alberta', 'Alluvial fan', 'Alluvial plain', 'Alluvial river', 'Alluvium', 'Amazon River', 'Anabranch', 'Anastomosis', 'Antecedent drainage stream', 'Antidune', 'Aquatic plant', 'Aquatic toxicology', 'Aqueduct (bridge)', 'Aqueduct (water supply)', 'Aquifer', 'Arizona', 'Armor (hydrology)', 'Arroyo (creek)', 'Avulsion (river)', "Baer's law", 'Balancing lake', 'Bank (geography)', 'Bank erosion', 'Bar (river morphology)', 'Barge', 'Base level', 'Baseflow', 'Bathing', 'Bayou', 'Bed load', 'Bed material load', 'Bedform', 'Bedrock river', 'Billabong', 'Bird migration', 'Bird of prey', 'Blackwater river', 'Body of water', 'Border', 'Bourne (stream)', 'Bournemouth', 'Brackish water', 'Bradshaw model', 'Braided river', 'Bridge', 'Brown-water navy', 'Buddhism', 'Bulgaria', 'Burn (landform)', 'Canal', 'Canoe', 'Canyon', 'Canyoning', 'Cave', 'Chalk', 'Chalk stream', 'Channel (geography)', 'Channel pattern', 'Channel types', 'Check dam', 'Chine', 'Churchill River (Atlantic)', 'Churchill River (Hudson Bay)', 'Colorado River', 'Confluence', 'Cornwall', 'Coulee', 'Cragside', 'Crevasse splay', 'Cubic metre per second', 'Current (stream)', 'Cut bank', 'Dam', 'Danube', 'Daylighting (streams)', 'Dead zone (ecology)', 'Debris flow', 'Degradation (geology)', 'Deposition (geology)', 'Detention basin', 'Discharge (hydrology)', 'Dissolved load', 'Distributary', 'Doi (identifier)', 'Dounby Click Mill', 'Downcutting', 'Drainage basin', 'Drainage density', 'Drainage divide', 'Drainage system (geomorphology)', 'Dredging', 'Drinking water', 'Drop structure', 'Drought', 'Dune', 'Eastbourne', 'Ecological succession', 'Ecosystem', 'Effluent', 'Ephemerality', 'Erosion', 'Erosion and tectonics', 'Erosion control', 'Estavelle', 'Estuary', 'Ethane', 'Eutrophication', 'Exner equation', 'Exploitation of natural resources', 'Exposed riverine sediments', 'Fault (geology)', 'Ferry', 'Finland', 'First flush', 'Fish ladder', 'Fish migration', 'Flash flood', 'Flood', 'Flood-meadow', 'Flood barrier', 'Flood control', 'Flood forecasting', 'Flood pulse concept', 'Flood stage', 'Flooded grasslands and savannas', 'Floodplain', 'Floodplain restoration', 'Flume', 'Fluvial', 'Fluvial terrace', 'Fly fishing', 'Ford (crossing)', 'Forest', 'Fractal', 'Fracture (geology)', 'Freshwater', 'Freshwater fish', 'Ganges', 'Ganges River', 'Geographical feature', 'Geography', 'Geological formation', 'Geomorphology', 'Geyser', 'Gill (ravine)', 'Gita', 'Glaciology', 'Glen', 'Godavari River', 'Granular flow', 'Gravel', 'Gravel pit', 'Greenway (landscape)', 'Groundwater model', 'Groundwater recharge', 'Gulch', 'Gully', 'Habitat conservation', "Hack's law", 'Headward erosion', 'Helicoidal flow', 'Hindu texts', 'Hinduism', 'Hjulström curve', 'Holy well', 'Horseshoe Bend (Arizona)', 'Hot spring', 'Hudson Bay', 'Hydraulic action', 'Hydraulics', 'Hydroelectricity', 'Hydrograph', 'Hydrological modelling', 'Hydrological transport model', 'Hydrology', 'Hydropower', 'Hydropsychidae', 'Hyporheic zone', 'ISBN (identifier)', 'Ice sheet', 'Indian religions', 'Indus Valley civilisation', 'Infiltration (hydrology)', 'Infiltration basin', 'Inland navigation', 'Intermittent river', 'International scale of river difficulty', 'Inundation', 'Jainism', 'Jasper National Park', 'Karst spring', 'Kaveri', 'Keynsham', 'Knickpoint', 'Kosovo', 'Labrador', 'Lake', 'Lakes of Titan', 'Law of the wall', 'Leat', 'Levee', 'Limestone', 'Limnology', 'Limpopo River', 'List of Banyan trees in India', 'List of countries without rivers', 'List of drainage basins', 'List of flash floods', 'List of hot springs', 'List of hot springs in the United States', 'List of international border rivers', 'List of karst springs', 'List of largest cities', 'List of river name etymologies', 'List of rivers by continent', 'List of rivers by discharge', 'List of rivers by length', 'List of rivers that have reversed direction', 'List of springs', 'List of waterways', 'List of whitewater rivers', 'Lists of rivers', 'Lithology', 'Logging camp', 'London', 'Lumberjack', 'Luna Leopold', 'Main stem', 'Manitoba', 'Manning formula', 'Maritime transport', 'Meander', 'Meander cutoff', 'Meander scar', 'Methane', 'Mineral spring', 'Mississippi River', 'Mouth bar', 'Narmada River', 'Nerodime River', 'Nile', 'Nile River delta', 'Normal distribution', 'Northumberland', 'OCLC (identifier)', 'Ocean', "Ol' Man River", 'Oligotroph', 'Orange River', 'Orkney', 'Oxbow lake', 'Palaeochannel', 'Peneplain', 'Perennial stream', 'Permeability (Earth sciences)', 'Plain', 'Plastic', 'Plastic pollution', "Playfair's law", 'Plecoptera', 'Plunge pool', 'Point bar', 'Ponor', 'Porvoo', 'Porvoonjoki', 'Precipitation (meteorology)', 'Pressure', 'Primary production', 'Progradation', 'Raft', 'Rafting', 'Rapids', 'Ravine', 'Reach (geography)', 'Relief ratio', 'Retention basin', 'Retrogradation', 'Return period', 'Revetment', 'Rhine', 'Rhythmic spring', 'Riffle', 'Riffle-pool sequence', 'Rigvedic rivers', 'Rill', 'Riparian-zone restoration', 'Riparian zone', 'Ripple marks', 'River (disambiguation)', 'River Avon (Bristol)', 'River Continuum Concept', 'River Indus', 'River Seaton', 'River bifurcation', 'River channel migration', 'River chemistry', 'River cruise', 'River delta', 'River ecosystem', 'River engineering', 'River island', 'River morphology', 'River mouth', 'River regime', 'River rejuvenation', 'River sinuosity', 'River source', 'River surfing', 'River transport', 'River valley', 'River valley civilization', 'Riverboarding', 'Riverboat', 'Riverine', 'Rivers', 'Rivers (disambiguation)', 'Rock-cut basin', 'Roman Empire', 'Romania', 'Rouse number', 'Runoff curve number', 'Runoff model (reservoir)', 'Sacred groves', 'Sacred groves of India', 'Sacred mountains', 'Sacred natural site', 'Sacred site', 'Sailing', 'Salt tide', 'Saltation (geology)', 'Sand', 'Sapta Sindhu', 'Sarasvati River', 'Scandinavia', 'Sea', 'Secondary flow', 'Sediment', 'Sediment transport', 'Sedimentary basin', 'Sedimentary structures', 'Seine', 'Sewage', 'Shoal', 'Sikhism', 'Slip-off slope', 'Sluice', 'Slurry', 'Snowpack', 'Southern Africa', 'Spawn (biology)', 'Spring (hydrology)', 'Spring horizon', 'St. Lawrence River', 'Steam engine', 'Steamboat', 'Storm Water Management Model', 'Stormwater', 'Strahler number', 'Strath', 'Stream', 'Stream bed', 'Stream capture', 'Stream channel', 'Stream gauge', 'Stream gradient', 'Stream pool', 'Stream restoration', 'Streamflow', 'Subglacial stream', 'Subterranean river', 'Surface runoff', 'Surface water', 'Suspended load', 'Thalweg', 'The Riverkeepers', 'Tide', 'Topography', 'Towpath', 'Tributary', 'Tunnel', 'United Kingdom', 'United States Geological Survey', 'Universal Soil Loss Equation', 'Urban design', 'Urban flooding', 'Urban renewal', 'Urban runoff', 'Valley', 'Vedas', 'Volumetric flow rate', 'WAFLEX', 'Wadi', 'Wash load', 'Waste', 'Wastewater treatment', 'Water Framework Directive', 'Water conflict', 'Water cycle', 'Water gap', 'Water pollution', 'Watercourse', 'Waterfall', 'Watermill', 'Weathering', 'Weir', 'Wetted perimeter', 'Whitewater', 'Whitewater canoeing', 'Whitewater kayaking', 'Whitewater slalom', 'Wild river', 'Winterbourne (stream)', 'Yacht', 'Yamuna']
+
+####### CATEGORIES #######
+
+['All articles to be expanded', 'Articles to be expanded from July 2021', 'Articles using small message boxes', 'Articles with BNE identifiers', 'Articles with FAST identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NARA identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Bodies of water', 'Fluvial landforms', 'Geomorphology', 'Pages using Sister project links with default search', 'Pages using div col with small parameter', 'Pages with incorrect ref formatting', 'Pages with reference errors', 'Rivers', 'Sedimentology', 'Short description is different from Wikidata', 'Use dmy dates from July 2017', 'Water streams', 'Wikipedia indefinitely move-protected pages', 'Wikipedia indefinitely semi-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/ff/Amazonrivermap.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Braine-le-Ch%C3%A2teau_JPG02.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Earth_Day_Flag.png', 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Frozen_river_in_Alaska.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d3/Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Melting_Toe_of_Athabasca_Glacier.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/f6/NileDelta-EO.JPG', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/PIA16197_Titan_river.jpg', 'https://upload.wikimedia.org/wikipedia/commons/0/08/Porvoon_uusisilta_1.JPG', 'https://upload.wikimedia.org/wikipedia/commons/f/f1/ReichenbachBegin2.jpg', 'https://upload.wikimedia.org/wikipedia/commons/2/21/RiverMeanderingCourse.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/ff/River_avon_at_keynsham_arp.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/ca/River_bank_repair_on_the_River_Avon%2C_Saltford.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Seaton_Beach_after_heavy_rainfall.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e6/Stream_in_the_redwoods.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/78/Trapped_woman_on_a_car_roof_during_flash_flooding_in_Toowoomba_2.jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/1c/Wiki_letter_w_cropped.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Wikibooks-logo-en-noslogan.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikibooks-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/24/Wikinews-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Wikiversity_logo_2017.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg', 'https://upload.wikimedia.org/wikipedia/en/0/06/Wiktionary-logo-v2.svg']
+
+####### REFERENCES #######
+
+['http://fame.boku.ac.at/downloads/D1_2_typology_and%20species_classification.pdf', 'http://geography.about.com/b/a/257582.htm', 'http://geography.about.com/od/learnabouttheearth/a/northrivers.htm', 'http://www.tampabayreview.com/news/sand-river-in-iraq/1211/', 'http://www.waterencyclopedia.com/Re-St/Rivers-Major-World.html', 'http://wordnetweb.princeton.edu/perl/webwn?s=river&sub=Search+WordNet&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h=', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX526002', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007538865305171', 'http://doi.org/10.1002%2Fwat2.1398', 'http://chamisa.freeshell.org/flow.htm', 'http://www.madsci.org/posts/archives/mar97/858609276.Es.r.html', 'http://www.panda.org/about_our_earth/about_freshwater/rivers/', 'http://id.worldcat.org/fast/1098312/', 'http://www.worldcat.org/oclc/28889034', 'http://www.worldcat.org/oclc/34628134', 'http://en.nmp.gov.tw/park01-2.html', 'http://www.coolgeography.co.uk/GCSE/Year%2010/PhysicalWorld/Upper%20valley/upper_valley.htm', 'https://www.britannica.com/topic/Sarasvati', 'https://books.google.com/books?id=0qLSsxFZxqIC&pg=PA25', 'https://books.google.com/books?id=DPP7O3nb3g0C&q=Yamuna+River&pg=PA290', 'https://books.google.com/books?id=MWXvfQ6UGjgC&pg=PA14', 'https://books.google.com/books?id=MWXvfQ6UGjgC&pg=PA19', 'https://books.google.com/books?id=ZKs1gBhJSWIC&q=Yamuna+River&pg=RA1-PA345', 'https://books.google.com/books?id=dWMqaOTqSqcC&pg=PA308', 'https://books.google.com/books?id=qb9yQgAACAAJ', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph138324&CON_LNG=ENG', 'https://catalog.archives.gov/id/10643808', 'https://id.loc.gov/authorities/subjects/sh85114250', 'https://www.usgs.gov/faqs/what-difference-between-mountain-hill-and-peak-lake-and-pond-or-river-and-creek', 'https://d-nb.info/gnd/4131972-2', 'https://basicbiology.net/environment/freshwater/river', 'https://web.archive.org/web/20100522192903/http://www.maf.govt.nz/mafnet/publications/rmupdate/rm14/rm14-04.htm', 'https://web.archive.org/web/20120620161237/http://www.sepa.org.uk/science_and_research/classification_schemes/river_classifications_scheme.aspx', 'https://web.archive.org/web/20150101231739/http://chamisa.freeshell.org/flow.htm', 'https://www.wikidata.org/wiki/Q4022#identifiers', 'https://www.dnr.state.mn.us/forestry/history/logging-camps.html']
+
+####### SUMMARY #######
+
+A river is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. In some cases, a river flows into the ground and becomes dry at the end of its course without reaching another body of water. Small rivers can be referred to using names such as creek, brook, rivulet, and rill. There are no official definitions for the generic term river as applied to geographic features, although in some countries or communities a stream is defined by its size. Many names for small rivers are specific to geographic location; examples are "run" in some parts of the United States, "burn" in Scotland and northeast England, and "beck" in northern England. Sometimes a river is defined as being larger than a creek, but not always: the language is vague.
+
+Rivers are part of the water cycle. Water generally collects in a river from precipitation through a drainage basin from surface runoff and other sources such as groundwater recharge, springs, and the release of stored water in natural ice and snowpacks.
+Rivers are often considered major features within a landscape; however, they actually only cover around 0.1% of the land on Earth. They are made more obvious and significant to humans since many human cities and civilizations are built around the freshwater supplied by rivers and streams. Most of the major cities of the world are situated on the banks of rivers, as they are, or were, used as a source of water, for obtaining food, for transport, as borders, as a defensive measure, as a source of hydropower to drive machinery, for bathing, and as a means of disposing of waste. In the pre-industrial era, larger rivers were a major obstruction to the movement of people, goods, and armies across them. Towns often developed at the few locations they could be crossed. Many major cities such as London are located at the lowest point at which a river could be bridged.Potamology is the scientific study of rivers, while limnology is the study of inland waters in general.
+
+####### CONTENT #######
+
+A river is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. In some cases, a river flows into the ground and becomes dry at the end of its course without reaching another body of water. Small rivers can be referred to using names such as creek, brook, rivulet, and rill. There are no official definitions for the generic term river as applied to geographic features, although in some countries or communities a stream is defined by its size. Many names for small rivers are specific to geographic location; examples are "run" in some parts of the United States, "burn" in Scotland and northeast England, and "beck" in northern England. Sometimes a river is defined as being larger than a creek, but not always: the language is vague.
+
+Rivers are part of the water cycle. Water generally collects in a river from precipitation through a drainage basin from surface runoff and other sources such as groundwater recharge, springs, and the release of stored water in natural ice and snowpacks.
+Rivers are often considered major features within a landscape; however, they actually only cover around 0.1% of the land on Earth. They are made more obvious and significant to humans since many human cities and civilizations are built around the freshwater supplied by rivers and streams. Most of the major cities of the world are situated on the banks of rivers, as they are, or were, used as a source of water, for obtaining food, for transport, as borders, as a defensive measure, as a source of hydropower to drive machinery, for bathing, and as a means of disposing of waste. In the pre-industrial era, larger rivers were a major obstruction to the movement of people, goods, and armies across them. Towns often developed at the few locations they could be crossed. Many major cities such as London are located at the lowest point at which a river could be bridged.Potamology is the scientific study of rivers, while limnology is the study of inland waters in general.
+
+
+== Topography ==
+
+
+=== Source and drainage basin ===
+A river begins at a source (or more often several sources) which is usually a watershed, drains all the streams in its drainage basin, follows a watercourse, and ends either at a mouth or mouths which could be a confluence, river delta, etc. The water in a river is usually confined to a channel, made up of a stream bed between banks. In larger rivers there is often also a wider floodplain shaped by flood-waters over-topping the channel. Floodplains may be very wide in relation to the size of the river channel. This distinction between river channel and floodplain can be blurred, especially in urban areas where the floodplain of a river channel can become greatly developed by housing and industry. 
+The term upriver (or upstream) refers to the direction towards the source of the river, i.e. against the direction of flow. Likewise, the term downriver (or downstream) describes the direction towards the mouth of the river, in which the current flows. The term left bank refers to the left bank in the direction of flow, right bank to the right in the direction of flow.
+
+
+=== Channels ===
+Rivers can flow down mountains, through valleys or along plains, and can create canyons or gorges. The river channel typically contains a single stream, but some rivers flow as several interconnecting streams, producing a braided river. Braided rivers occur on peneplains and some of the larger river deltas. Anastamosing rivers are similar to braided rivers and are quite rare; they have multiple sinuous channel - 1 carrying large volumes of sediment. There are rare cases of river bifurcation in which a river divides, and the resultant flows end in different seas. An example is the Nerodime River in Kosovo.
+A river flowing in its channel is a source of energy that acts on the river channel to change its shape and form. In 1757, German hydrologist Albert Brahms empirically observed that the submerged weight of objects that may be carried away by a river is proportional to the sixth power of the river flow speed. This formulation is also sometimes called Airy's law. Thus, if the speed of flow is doubled, the flow would dislodge objects with 64 times as much submerged weight. In mountainous torrential zones, this can be seen as erosion channels through hard rocks and the creation of sands and gravels from the destruction of larger rocks. A river valley that was created from a U-shaped glaciated valley can often easily be identified by the V-shaped channel that it has carved. 
+In the middle reaches where a river flows over flatter land, meanders may form through erosion of the river banks and deposition on the inside of bends. Sometimes the river will cut off a loop, shortening the channel and forming an oxbow lake or billabong. Rivers that carry large amounts of sediment may develop conspicuous deltas at their mouths. Rivers whose mouths are in saline tidal waters may form estuaries.
+Throughout the course of the river, the total volume of water transported downstream will often be a combination of the free water flow together with a substantial volume flowing through sub-surface rocks and gravels that underlie the river and its floodplain (called the hyporheic zone). For many rivers in large valleys, this unseen component of flow may greatly exceed the visible flow.
+
+
+== Types and ratings ==
+
+Rivers have been classified by many criteria including their topography, their biotic status, and their relevance to white water rafting or canoeing activities.
+
+
+=== Subsurface rivers: subterranean and subglacial ===
+Most but not all rivers flow on the surface. Subterranean rivers flow underground in caves. Such rivers are frequently found in regions with limestone geologic formations. Subglacial streams are the braided rivers that flow at the beds of glaciers and ice sheets, permitting meltwater to be discharged at the front of the glacier. Because of the gradient in pressure from the overlying weight of the glacier, such streams can even flow uphill.
+
+
+=== Permanence of flow: perennial and ephemeral ===
+An intermittent river (or ephemeral river) only flows occasionally and can be dry for several years at a time. These rivers are found in regions with limited or highly variable rainfall, or can occur because of geologic conditions such as a highly permeable river bed. Some ephemeral rivers flow during the summer months but not in the winter. Such rivers are typically fed from chalk aquifers which recharge from winter rainfall. In England these rivers are called bournes and give their name to places such as Bournemouth and Eastbourne. Even in humid regions, the location where flow begins in the smallest tributary streams generally moves upstream in response to precipitation and downstream in its absence or when active summer vegetation diverts water for evapotranspiration. Normally dry rivers in arid zones are often identified as arroyos or other regional names.
+The meltwater from large hailstorms can create a slurry of water, hail and sand or soil, forming temporary rivers.
+
+
+=== Stream order classification ===
+The Strahler Stream Order ranks rivers based on the connectivity and hierarchy of contributing tributaries. Headwaters are first order while the Amazon River is twelfth order. Approximately 80% of the rivers in the world are of the first and second order.
+The ways in which a river's characteristics vary between its upper and lower course are summarized by the Bradshaw model. Power-law relationships between channel slope, depth, and width are given as a function of discharge by "river regime".
+In certain languages, distinctions are made among rivers based on their stream order. In French, for example, rivers that run to the sea are called fleuve, while other rivers are called rivière. For example, in Canada, the Churchill River in Manitoba is called la rivière Churchill as it runs to Hudson Bay, but the Churchill River in Labrador is called le fleuve Churchill as it runs to the Atlantic Ocean. As most rivers in France are known by their names only without the word rivière or fleuve (e.g. la Seine, not le fleuve Seine, even though the Seine is classed as a fleuve), one of the most prominent rivers in the Francophone commonly known as fleuve is le fleuve Saint-Laurent (the St. Lawrence River). Since many fleuves are large and prominent, receiving many tributaries, the word is sometimes used to refer to certain large rivers that flow into other fleuves; however, even small streams that run to the sea are called fleuve (e.g. fleuve côtier, "coastal fleuve").
+
+
+=== Topographical classification ===
+Rivers can generally be classified as either alluvial, bedrock, or some mix of the two. Alluvial rivers have channels and floodplains that are self-formed in unconsolidated or weakly consolidated sediments. They erode their banks and deposit material on bars and their floodplains. 
+Bedrock rivers form when the river downcuts through the modern sediments and into the underlying bedrock. This occurs in regions that have experienced some kind of uplift (thereby steepening river gradients) or in which a particularly hard lithology causes a river to have a steepened reach that has not been covered in modern alluvium. Bedrock rivers very often contain alluvium on their beds; this material is important in eroding and sculpting the channel. Rivers that go through patches of bedrock and patches of deep alluvial cover are classified as mixed bedrock-alluvial.
+Alluvial rivers can be further classified by their channel pattern as meandering, braided, wandering, anastomose, or straight. The morphology of an alluvial river reach is controlled by a combination of sediment supply, substrate composition, discharge, vegetation, and bed aggradation.
+
+
+=== Biotic classification ===
+There are several systems of classification based on ecological conditions typically assigning classes from the most oligotrophic or unpolluted through to the most eutrophic or polluted. Other systems are based on a whole eco-system approach such as developed by the New Zealand Ministry for the Environment. In Europe, the requirements of the Water Framework Directive has led to the development of a wide range of classification methods including classifications based on fishery statusA system of river zonation used in francophone communities  divides rivers into three primary zones:
+
+The crenon is the uppermost zone at the source of the river. It is further divided into the eucrenon (spring or boil zone) and the hypocrenon (brook or headstream zone). These areas have low temperatures, reduced oxygen content and slow moving water.
+The rhithron is the upstream portion of the river that follows the crenon. It has relatively cool temperatures, high oxygen levels, and fast, turbulent, swift flow.
+The potamon is the remaining downstream stretch of river. It has warmer temperatures, lower oxygen levels, slow flow and sandier bottoms.
+
+
+=== Navigability ===
+The international scale of river difficulty is used to rate the challenges of navigation—particularly those with rapids. Class I is the easiest and Class VI is the hardest.
+
+
+== Streamflow ==
+Studying the flows of rivers is one aspect of hydrology.
+
+
+=== Characteristics ===
+
+
+==== Direction ====
+
+Rivers flow downhill with their power derived from gravity. The direction can involve all directions of the compass and can be a complex meandering path.Rivers flowing downhill, from river source to river mouth, do not necessarily take the shortest path. For alluvial streams, straight and braided rivers have very low sinuosity and flow directly down hill, while meandering rivers flow from side to side across a valley. Bedrock rivers typically flow in either a fractal pattern, or a pattern that is determined by weaknesses in the bedrock, such as faults, fractures, or more erodible layers.
+
+
+==== Rate ====
+Volumetric flow rate, also known as discharge, volume flow rate, and rate of water flow, is the volume of water which passes through a given cross-section of the river channel per unit time. It is typically measured in cubic metres per second (cumec) or cubic feet per second (cfs).
+Volumetric flow rate can be thought of as the mean velocity of the flow through a given cross-section, times that cross-sectional area. Mean velocity can be approximated through the use of the law of the wall. In general, velocity increases with the depth (or hydraulic radius) and slope of the river channel, while the cross-sectional area scales with the depth and the width: the double-counting of depth shows the importance of this variable in determining the discharge through the channel.
+
+
+=== Effects ===
+
+
+==== Fluvial erosion ====
+In its youthful stage, a river causes erosion in the watercourse, deepening the valley. Hydraulic action loosens and dislodges aggregate which further erodes the banks and the river bed. Over time, this deepens the river bed and creates steeper sides which are then weathered. The steepened nature of the banks causes the sides of the valley to move downslope causing the valley to become V-shaped.
+Waterfalls also form in the youthful river valley where a band of hard rock overlays a layer of soft rock. Differential erosion occurs as the river erodes the soft rock more readily than the hard rock, this leaves the hard rock more elevated and stands out from the river below. A plunge pool forms at the bottom and deepens as a result of hydraulic action and abrasion.
+
+
+==== Flooding ====
+
+Flooding is a natural part of a river's cycle. The majority of the erosion of river channels and the erosion and deposition on the associated floodplains occur during the flood stage. In many developed areas, human activity has changed the form of river channels, altering magnitudes and frequencies of flooding. Some examples of this are the building of levees, the straightening of channels, and the draining of natural wetlands. 
+In many cases human activities in rivers and floodplains have dramatically increased the risk of flooding. Straightening rivers allows water to flow more rapidly downstream, increasing the risk of flooding places further downstream. Building on flood plains removes flood storage, which again exacerbates downstream flooding. The building of levees only protects the area behind the levees and not those further downstream. Levees and flood-banks can also increase flooding upstream because of the back-water pressure as the river flow is impeded by the narrow channel banks. Detention basins finally also reduce the risk of flooding significantly by being able to take up some of the flood water.
+
+
+==== Sediment yield ====
+Sediment yield is the total quantity of particulate matter (suspended or bedload) reaching the outlet of a drainage basin over a fixed time frame. Yield is usually expressed as kilograms per square kilometre per year. Sediment delivery processes are affected by a myriad of factors such as drainage area size, basin slope, climate, sediment type (lithology), vegetation cover, and human land use / management practices.
+The theoretical concept of the 'sediment delivery ratio' (ratio between yield and total amount of sediment eroded) indicates that not all of the sediment is eroded within a certain catchment that reaches out to the outlet (e.g., deposition on floodplains). Such storage opportunities are typically increased in catchments of larger size, thus leading to a lower yield and sediment delivery ratio.
+
+
+==== Brackish water ====
+Brackish water occurs in most rivers where they meet the sea. The extent of brackish water may extend a significant distance upstream, especially in areas with high tidal ranges.
+
+
+== Ecosystem ==
+
+
+=== River biota ===
+
+The organisms in the riparian zone respond to changes in river channel location and patterns of flow. The ecosystem of rivers is generally described by the river continuum concept, which has some additions and refinements to allow for dams and waterfalls and temporary extensive flooding. The concept describes the river as a system in which the physical parameters, the availability of food particles and the composition of the ecosystem are continuously changing along its length. The food (energy) that remains from the upstream part is used downstream.
+The general pattern is that the first order streams contain particulate matter (decaying leaves from the surrounding forests) which is processed there by shredders like Plecoptera larvae. The products of these shredders are used by collectors, such as Hydropsychidae, and further downstream algae that create the primary production become the main food source of the organisms. All changes are gradual and the distribution of each species can be described as a normal curve, with the highest density where the conditions are optimal. In rivers succession is virtually absent and the composition of the ecosystem stays fixed.
+
+
+=== Chemistry ===
+
+The chemistry of rivers is complex and depends on inputs from the atmosphere, the geology through which it travels and the inputs from man's activities. The chemical composition of the water has a large impact on the ecology of that water for both plants and animals and it also affects the uses that may be made of the river water. Understanding and characterizing river water chemistry requires a well designed and managed sampling and analysis.
+
+
+== Uses ==
+
+
+=== Construction material ===
+The coarse sediments, gravel, and sand, generated and moved by rivers are extensively used in construction. In parts of the world this can generate extensive new lake habitats as gravel pits fill with water. In other circumstances it can destabilize the river bed, and the course of the river and cause severe damage to spawning fish populations which rely on stable gravel formations for egg laying. In upland rivers, rapids with whitewater or even waterfalls occur. Rapids are often used for recreation, such as whitewater kayaking.
+
+
+=== Energy production ===
+
+Fast flowing rivers and waterfalls are widely used as sources of energy, via watermills and hydroelectric plants. Evidence of watermills shows them in use for many hundreds of years, for instance in Orkney at Dounby Click Mill. Prior to the invention of steam power, watermills for grinding cereals and for processing wool and other textiles were common across Europe. In the 1890s the first machines to generate power from river water were established at places such as Cragside in Northumberland and in recent decades there has been a significant increase in the development of large scale power generation from water, especially in wet mountainous regions such as Norway.
+
+
+=== Food source ===
+Rivers have been a source of food since pre-history. They are often a rich source of fish and other edible aquatic life and are a major source of fresh water, which can be used for drinking and irrigation. Rivers help to determine the urban form of cities and neighborhoods, and their corridors often present opportunities for urban renewal through the development of foreshoreways such as river walks. Rivers also provide an easy means of disposing of wastewater and, in much of the less developed world, other wastes.
+
+
+=== Navigation and transport ===
+Rivers have been used for navigation for thousands of years. The earliest evidence of navigation is found in the Indus Valley civilization, which existed in northwestern India around 3300 BC. Riverine navigation provides a cheap means of transport and is still used extensively on most major rivers of the world like the Amazon, the Ganges, the Nile, the Mississippi, and the Indus. 
+In some heavily forested regions such as Scandinavia and Canada, lumberjacks use rivers to float felled trees downstream to lumber camps for further processing, saving much effort and cost by transporting the huge heavy logs by natural means.
+
+
+=== Political borders ===
+Rivers have been important in determining political boundaries and defending countries. For example, the Danube was a long-standing border of the Roman Empire, and today it forms most of the border between Bulgaria and Romania. The Mississippi in North America and the Rhine in Europe are major east–west boundaries in those continents. The Orange and Limpopo Rivers in southern Africa form the boundaries between provinces and countries along their routes.
+
+
+=== Sacred rivers ===
+
+Sacred rivers and their reverence is a phenomenon found in several religions, especially religions in which nature is revered. For example, the Indian-origin religions of Buddhism, Hinduism, Jainism, and Sikhism revere and preserve groves, forests, trees, mountains and rivers as sacred. Among the most sacred rivers in Hinduism are the Ganges, Yamuna, and Sarasvati rivers. Other sacred rivers for Indian religions include the Rigvedic rivers, the Narmada, the Godavari, and the Kaveri rivers. The Vedas and Gita, the most sacred of Hindu texts, were written on the banks of the Sarasvati river.
+
+
+== Management ==
+
+Rivers are often managed or controlled to make them more useful or less disruptive to human activity.
+
+Dams or weirs may be built to control the flow, store water, or extract energy.
+Levees, known as dikes in Europe, may be built to prevent river water from flowing on floodplains or floodways.
+Canals connect rivers to one another for water transfer or navigation.
+River courses may be modified to improve navigation, or straightened to increase the flow rate.River management is a continuous activity as rivers tend to 'undo' the modifications made by people. Dredged channels silt up, sluice mechanisms deteriorate with age, levees and dams may suffer seepage or catastrophic failure. The benefits sought through managing rivers may often be offset by the social and economic costs of mitigating the bad effects of such management. As an example, in parts of the developed world, rivers have been confined within channels to free up flat flood-plain land for development. Floods can inundate such development at high financial cost and often with loss of life.
+Rivers are increasingly managed for habitat conservation, as they are critical for many aquatic and riparian plants, resident and migratory fishes, waterfowl, birds of prey, migrating birds, and many mammals.
+
+
+== Concerns ==
+
+Man-made causes, such as the over-exploitation and pollution, are the biggest threats and concerns which are making rivers ecologically dead and drying up the rivers.
+Plastic pollution imposes threats on aquatic life and river ecosystems because of plastic's durability in the natural environment. Plastic debris may result in entanglement and ingestion by aquatic life such as turtles, birds, and fish, causing severe injury and death. Human livelihoods around rivers are also impacted by plastic pollution through direct damage to shipping and transport vessels, effects on tourism or real estate value, and the clogging of drains and other hydraulic infrastructure leading to increased flood risk.
+
+
+== See also ==
+
+Arts, entertainment, and media"Old Man River"
+The Riverkeepers (book)GeneralDrought
+Fluvial
+Reach (geography)
+Salt tide
+Water conflictCrossings
+HabitatsExposed riverine sediments
+Riparian zoneLists
+Transport
+
+
+== References ==
+
+
+== Further reading ==
+
+Jeffrey W. Jacobs. "Rivers, Major World". Rivers, Major World – dam, sea, effects, important, largest, salt, types, system, source. Water Encyclopaedia.
+Luna B. Leopold (1994). A View of the River. Harvard University Press. ISBN 978-0-674-93732-1. OCLC 28889034. — a non-technical primer on the geomorphology and hydraulics of water.
+Middleton, Nick (2012). Rivers: a very short introduction. New York: Oxford University Press. ISBN 978-0-19-958867-1.
+

@@ -1,0 +1,863 @@
+####### TITLE #######
+
+Temperature
+
+####### LINKS #######
+
+['14th CMAS Underwater Photography World Championship', '1973 Mount Gambier cave diving accident', '1992 cageless shark-diving expedition', '2019 redefinition of SI base units', '8A4-class ROUV', 'AAI underwater revolver', 'ABISMO', 'ADS amphibious rifle', 'AIDA Hellas', 'AIDA International', 'APS underwater rifle', 'AP Diving', 'ASM-DT amphibious rifle', 'ASRV Remora', 'Abrasive waterjet', 'Absolute pressure', 'Absolute temperature', 'Absolute zero', 'Activated carbon', 'Adiabatic process', 'Administrative controls', 'Adrian Biddle', 'Advanced Open Water Diver', 'Advanced SEAL Delivery System', 'Advection', 'Aerosinusitis', 'Aerospace Medical Association', 'Agnes Milowka', 'Aharon Solomons', 'Air-lock', 'Air embolism', 'Air line', 'Air spread', 'Air temperature', 'Airlift (dredging device)', 'Akihiko Hoshide', 'Albert A. Bühlmann', 'Albert D. Stover', 'Albert Falco', 'Albert R. Behnke', 'Albert Tillman', 'Alessia Zecchini', 'Alexey Molchanov', 'Algal bloom', 'Allan Bridge', 'Alpazat cave rescue', 'Alpha helix', 'Alpha reactions', 'Alternative air source', 'Alternobaric vertigo', 'Altitude diving', 'Aluminaut', 'Ama (diving)', 'Ambient pressure', 'American Academy of Underwater Sciences', 'American Canadian Underwater Certifications', 'American Nitrox Divers International', 'American submarine NR-1', "Amontons's law", 'Amount of substance', 'Ampere', 'Amplitude', 'An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction', 'Anders Franzén', 'Andreas Mogensen', 'Andreas Rechnitzer', 'Andrew Abercromby', 'Andrew J. Feustel', 'Andrew Wight', 'Andriy Yevhenovych Khvetkevych', 'Andy Torbet', 'Ankle weights (diving)', 'Anna Marguerite McCann', 'Annelie Pompe', 'Anti-fog', 'Anxiety', 'Apeks', 'Apnoea finswimming', 'Apparent weight', 'Approaches to safety', 'Aqua-Lung', 'Aqua Lung/La Spirotechnique', 'Aqua Lung America', 'Aquanaut', 'Aquarius Reef Base', 'Aquathlon (underwater wrestling)', 'ArXiv (identifier)', 'Archaeology of shipwrecks', "Archimedes' principle", 'Archimède', 'Aristotelis Zervoudis', 'Army engineer diver', 'Arne Zetterström', 'Arthur C. Clarke', 'Arthur J. Bachrach', 'Artificial Reef Society of British Columbia', 'Artificial gills (human)', 'Artur Kozłowski (speleologist)', 'Ascending and descending (diving)', 'Asphyxia', 'Association nationale des moniteurs de plongée', 'Association of Diving Contractors International', 'Astronomical unit', 'Astronomy', 'Atlantis ROV Team', 'Atmospheric convection', 'Atmospheric diving suit', 'Atmospheric pressure', 'Atmospheric pressure diving', 'Atmospheric temperature', 'Atom vibrations', 'Atrial septal defect', 'Audrey Mestre', 'Auguste Denayrouze', 'Auguste Piccard', 'Augustus Siebe', 'Australian Diver Accreditation Scheme', 'Australian Underwater Federation', 'Autonomous diver', 'Avascular necrosis', 'Avogadro number', 'Bailout block', 'Bailout bottle', 'Bailout gas', 'Baited remote underwater video', 'Band mask', 'Baroclinity', 'Barodontalgia', 'Barostriction', 'Barotrauma', 'Barotropic', 'Basic Cave Diving: A Blueprint for Survival', 'Basic Scuba', 'Bathyscaphe', 'Bathyscaphe Trieste II', 'Bathysphere', 'Belize', 'Bell cursor', 'Bellman (diving)', 'Ben Cropp', 'Benign water diving', 'Benjamin Thompson', "Bennett and Elliott's physiology and medicine of diving", 'Benoît Paul Émile Clapeyron', 'Bernard Delemotte', 'Berry L. Cannon', 'Beuchat', 'Bibcode (identifier)', 'Big Bang', 'Bill Nagle', 'Bill Todd', 'Billy Deans (diver)', 'Biological hazard', 'Biology', 'Black-water diving', 'Black body', 'Blood–air barrier', 'Blue-water diving', 'Boarding stirrup', 'Boat diving', 'Bob Behnken', 'Bob Halstead', 'Boiling point', 'Bolt snap', 'Boltzmann constant', 'Booster pump', 'Bose–Einstein condensate', 'Bose–Einstein statistics', 'Bottom gas', 'Bottom timer', "Boyle's law", 'Breaking wave', 'Breathing', 'Breathing air', 'Breathing gas', 'Breathing gas quality', 'Breathing performance of regulators', 'Bret Gilliam', 'Brian Andrew Hills', 'Brian Pippard', 'Brian Skerry', "Bridgman's thermodynamic equations", 'British Freediving Association', 'British Octopush Association', 'British Sub-Aqua Club', 'British Underwater Sports Association', 'Brownian ratchet', 'Brush cart', 'Buddy breathing', 'Buddy check', 'Buddy diving', 'Buddy line', 'Built-in breathing system', 'Bulk Richardson number', 'Buoyancy', 'Buoyancy compensator (diving)', 'Burst disc', 'Byford Dolphin', 'Bühlmann decompression algorithm', 'CDLSE', 'CERN', 'CMAS** scuba diver', 'CMAS* scuba diver', 'CMAS Europe', 'CO₂ retention', 'CUMA', 'CURV', 'Calibration', 'Caloric theory', 'Calorimetry', 'Canadian Armed Forces Divers', 'Candela', 'Candice Farmer', 'Canoe and kayak diving', 'Canonical ensemble', 'Carbon dioxide scrubber', 'Carbon monoxide poisoning', 'Carleton CDBA', 'Carlos Coste', "Carnot's theorem (thermodynamics)", 'Carnot cycle', 'Carnot engine', 'Carnot heat engine', 'Cascade filling system', 'Categories (Aristotle)', 'Catherine Coleman', 'Cathy Church', 'Cave Divers Association of Australia', 'Cave Diving Group', 'Cave diving', 'Cavitation cleaning', 'Celsius', 'Celsius scale', 'Chamber operator', "Charles's law", 'Charles Anthony Deane', 'Charles Kittel', 'Charles Momsen', 'Charles Spalding', 'Charles T. Meide', 'Charles Wesley Shilling', 'Checklist', 'Chemical hazard', 'Chemical potential', 'Chemical reaction', 'Chemical thermodynamics', 'Chemistry', 'Chris Hadfield', 'Christian J. Lambertsen', 'Christopher E. Gerty', 'Circulatory system', 'Cis-Lunar', 'Civil liability in recreational diving', 'Classical mechanics', 'Classical physics', 'Claudia Serpieri', 'Clausius theorem', 'Clayton Anderson', 'Cleaning and disinfection of personal diving equipment', 'Clearance Diving Branch (RAN)', 'Clearance diver', 'Clive Cussler', 'Closed bell', 'Closed system', 'Cloud', 'Cloud condensation nuclei', 'Clump weight', 'Cláudio Coutinho', 'Code of Practice for Scientific Diving (UNESCO)', 'Code of practice', 'Cold shock response', 'Color', 'Color temperature', 'Comando Raggruppamento Subacquei e Incursori Teseo Tesei', 'Combat Rubber Raiding Craft', 'Combat sidestroke', 'Combined gas law', 'Combustion', 'Comhairle Fo-Thuinn', 'Commando Hubert', 'Commercial diver', 'Commercial diver registration in South Africa', 'Commercial diver training', 'Commercial offshore diver', 'Commercial offshore diving', "Compagnie maritime d'expertises", 'Comparison of temperature scales', 'Competence (human resources)', 'Competency-based learning', 'Compressibility', 'Compression arthralgia', 'Concentration', 'Condensation', 'Conditional symmetric instability', 'Confined water diving', 'Confédération Mondiale des Activités Subaquatiques', 'Conjugate variables (thermodynamics)', 'Constant Weight Bi-fins', 'Constant weight', 'Constant weight without fins', 'Constantin Carathéodory', 'Continental Shelf Station Two', 'Contingency plan', 'Control volume', 'Convective available potential energy', 'Convective condensation level', 'Convective heat transfer', 'Convective inhibition', 'Convective instability', 'Convective momentum transport', 'Convective temperature', 'Conversion of scales of temperature', 'Conversion of units of temperature', 'Coral Reef Alliance', 'Coral reef', 'Corrosion', 'Cosmic microwave background', 'Cosmos CE2F series', 'Cotton Coulson', 'Craig B. Cooper', 'Craig Challen', 'Craig M. Hoffman', 'Craig McKinley (physician)', 'Cramp', 'Cressi-Sub', 'Cristina Zenato', 'Cryogenic rebreather', 'Current (stream)', 'DESCO', 'DIN 7876', 'DSEA', 'DSRV-1 Mystic', 'DSRV-2 Avalon', 'DSV-5 Nemo', 'DSV Alvin', 'DSV Sea Cliff', 'DSV Shinkai', 'DSV Shinkai 2000', 'DSV Shinkai 6500', 'DSV Turtle', 'Dacor (scuba diving)', 'Dafydd Williams', "Dalton's law", 'Danai Varveri', 'Daniel Bernoulli', 'Daniel Gabriel Fahrenheit', 'Daniel M. Tani', 'Dave Mullins (freediver)', 'Dave Shaw (diver)', 'David Attenborough', 'David Bright (diver)', 'David Doubilet', 'David Gibbins', 'David Gruber', 'David Moore (archaeologist)', 'David Saint-Jacques', 'Davis Submerged Escape Apparatus', 'Dead space (physiology)', 'Death of Bradley Westell', 'Death of Steve Irwin', 'Deborah Andollo', 'Decima Flottiglia MAS', 'Decompression (diving)', 'Decompression buoy', 'Decompression chamber', 'Decompression cylinder', 'Decompression equipment', 'Decompression gas', 'Decompression illness', 'Decompression practice', 'Decompression sickness', 'Decompression tables', 'Decompression theory', 'Decompression trapeze', 'Deep-submergence rescue vehicle', 'Deep-submergence vehicle', 'Deep-water blackout', 'Deep Drone', 'Deep diving', 'Deepsea Challenger', 'Defence Diving School', 'Defense against swimmer incursions', 'Deformation (physics)', 'Degrees of freedom (physics and chemistry)', 'Delisle scale', 'Delta-P (hazard)', 'Demand valve oxygen therapy', 'Density', 'Dental barotrauma', 'Deon Dreyer', 'Department of Employment and Labour', 'Depth gauge', 'Dermot FitzGerald', 'Derya Can Göçen', 'Devrim Cenk Ulusoy', 'Dew point', 'Dew point depression', 'Dewey Smith', 'Diamond Reef System', 'Diatomic', 'Dick Rutkowski', 'Differential coefficient', 'Diffusion', 'Dimensional analysis', 'Distance line', 'Dive Xtras', 'Dive boat', 'Dive briefing', 'Dive center', 'Dive computer', 'Dive guide (publication)', 'Dive leader', 'Dive light', 'Dive log', 'Dive planning', 'Dive reel', 'Dive skins', 'Dive timer', 'Divemaster', "Diver's attendant", "Diver's cutting tool", "Diver's knife", "Diver's pump", "Diver's telephone", "Diver's umbilical", 'Diver communications', 'Diver detection sonar', 'Diver down flag', 'Diver lift', 'Diver medical technician', 'Diver navigation', 'Diver organisations', 'Diver propulsion vehicle', 'Diver rescue', 'Diver training', 'Diver training organization', 'Diver training standard', 'Diver trim', 'Diver voice communications', 'Divers Academy International', 'Divers Alert Network', 'Divers Institute of Technology', 'Diversnight', 'Divex', 'Diving Diseases Research Centre', 'Diving Equipment and Marketing Association', 'Diving Medical Advisory Council', 'Diving Medical Examiner', 'Diving Medical Practitioner', 'Diving Medical Technician', 'Diving Science and Technology', 'Diving Unlimited International', 'Diving activities', 'Diving air compressor', 'Diving air filter', 'Diving bell', 'Diving chamber', 'Diving compass', 'Diving contractor', 'Diving cylinder', 'Diving disorders', 'Diving environment', 'Diving equipment', 'Diving hand signals', 'Diving hazards', 'Diving helmet', 'Diving in East Timor', 'Diving in the Maldives', 'Diving instructor', 'Diving ladder', 'Diving line signals', 'Diving mask', 'Diving medicine', 'Diving mode', 'Diving physics', 'Diving physiology', 'Diving platform (scuba)', 'Diving procedures', 'Diving rebreather', 'Diving reflex', 'Diving regulations', 'Diving regulator', 'Diving safety', 'Diving safety harness', 'Diving safety officer', 'Diving school', 'Diving shot', 'Diving spread', 'Diving stage', 'Diving suit', 'Diving superintendent', 'Diving supervisor', 'Diving support equipment', 'Diving support vessel', 'Diving systems technician', 'Diving team', 'Diving watch', 'Diving weighting system', 'Doi (identifier)', 'Doing It Right (scuba diving)', 'Dominic Landucci', 'Dorothy Metcalf-Lindenburger', 'Dottie Frazier', 'Doug Allan', 'Douglas H. Wheelock', 'Downline (diving)', 'Drift diving', 'Drill Master diving accident', 'Drowning', 'Dry-bulb temperature', 'Dry Combat Submersible', 'Dry ice', 'Dry suit', 'Dräger Dolphin', 'Dräger Ray', 'Drägerwerk', 'Dump valve (diving)', 'Duty of care', 'Dynamic apnea', 'Dynamic apnea without fins', 'Dysbaric osteonecrosis', 'Dysbarism', 'E. Lee Spence', 'E. Yale Dawson', 'ENOS Rescue-System', 'Ear clearing', 'Earth science', 'Ebenezer Watson', 'Ecology', 'Eduard Admetlla i Lázaro', 'Edward A. Guggenheim', 'Edward Arthur Milne', 'Edward D. Thalmann', 'Edwin Clayton Link', 'Effects of drugs on fitness to dive', 'Ekman transport', 'Electric current', 'Electrical conductivity', 'Electro-galvanic oxygen sensor', 'Electromagnetic radiation', 'Electronvolt', 'Elisabeth Kristoffersen', 'Elsevier', 'Emergency ascent', 'Emergency gas supply', 'Emergency locator beacon', 'Emergency procedure', 'Emergency response plan', 'Emma Farrell (freediver)', 'Emma Hwang', 'Empirical relationship', 'Encyclopedia of Recreational Diving', 'Endoreversible thermodynamics', 'Engineering controls', 'Entanglement (hazard)', 'Enthalpy', 'Entropy', 'Entropy (arrow of time)', 'Entropy (energy dispersal)', 'Entropy and life', 'Entropy production', 'Environmental impact of recreational diving', 'Enzo Maiorca', 'Equation of state', 'Equilibrium level', 'Equilibrium thermodynamics', 'Equipartition', 'Equipartition theorem', 'Equivalent air depth', 'Equivalent narcotic depth', 'Equivalent potential temperature', 'Equivalent temperature', 'Ergodicity', 'Eric Cheng', 'Ernest William Moir', 'Esbjörn Svensson', 'Escape set', 'Escape trunk', 'Eugenie Clark', 'European Diving Technology Committee', 'European Underwater Federation', 'European Underwater and Baromedical Society', 'Evacuation plan', 'Exposure assessment', 'FM broadcasting', 'FNRS-2', 'FNRS-3', 'Fabien Cousteau', 'Fahrenheit', 'Fahrenheit scale', 'False precision', 'Far infrared', 'Fatma Uruk', 'Federación Española de Actividades Subacuáticas', 'Federazione Italiana Attività Subacquee', 'Felix Hoppe-Seyler', 'Fenzy', 'Fermi energy', 'Fermion', 'Fermi–Dirac statistics', 'Fernando Garfella Palmer', 'Finger Lakes Underwater Preserve Association', 'Finning techniques', 'Finswimming', 'First aid', 'First law of thermodynamics', 'Fitness to dive', 'Flavia Eberhard', 'Fog', 'Force', 'Forest fire weather index', 'Francis P. Hammerberg', 'Francisco Ferreras', 'François Massieu', 'François de Roubaix', 'Free-flow helmet', 'Free convective layer', 'Free entropy', 'Free expansion', 'Free immersion', 'Freediving', 'Freediving blackout', 'Freeflow', 'Freezing point', 'French federation of underwater studies and sports', 'Frenzel maneuver', 'Frequency spectrum', 'Frogman', 'Frogman Corps (Denmark)', 'Fuerzas Especiales', 'Fukuryu', 'Full-face mask', 'Full face diving mask', 'Fundamental thermodynamic relation', "Fédération Française d'Études et de Sports Sous-Marins", 'GRUMEC', 'Galileo Galilei', 'Gamma ray', 'Garrett Reisman', 'Gary Gentile', 'Gas', 'Gas blending', 'Gas blending for scuba diving', 'Gas constant', 'Gas exchange', 'Gas laws', 'Gas man', 'Gas mark', 'Gas panel', 'Gas reclaim system', 'Gas storage bank', 'Gas storage quad', 'Gas storage tube', 'Gas thermometer', 'Gauge pressure', "Gay-Lussac's law", 'Geography', 'Georg Ernst Stahl', 'George Bass (archaeologist)', 'George F. Bond', 'George R. Fischer', 'Georges Beuchat', 'Gerard Anthony Prangley', 'Gibbs free energy', 'Gilbert N. Lewis', 'Global Explorer ROV', 'Global Underwater Explorers', 'Glossary of underwater diving terminology', 'Goldfinder', 'Goldfish-class ROUV', 'Goran Čolak', 'Gordon Smith (inventor)', 'Graham Balcombe', 'Graham Jessop', 'Grand canonical ensemble', 'Green Fins', 'Gregory Chamitoff', 'Gregory R. Wiseman', 'Ground state', 'Grup Gerak Khas', 'Guillaume Néry', 'Gunter Schöbel', 'Guy Garman', 'Guybon Chesney Castell Damant', 'Gyrojet', 'HMS Challenger (K07)', 'HMS Royal George (1756)', 'Haenyeo', 'Haines Index', 'Halcyon PVR-BASC', 'Halcyon RB80', "Haldane's decompression model", 'Half mask', 'Halocline', 'Hans Hass', 'Hans Hass Award', 'Hardness', 'Hawaiian sling', 'Hawking Radiation', 'Hazard analysis', 'Hazard elimination', 'Hazard substitution', 'Hazardous Materials Identification System', 'Hazmat diver', 'Hazmat diving', 'Health and Safety Executive', 'Health and safety representative', 'Heat', 'Heat capacity', 'Heat death paradox', 'Heat engine', 'Heat index', 'Heat pump and refrigeration cycle', 'Heckler & Koch P11', 'Heidemarie Stefanyshyn-Piper', 'Heinke (diving equipment manufacturer)', 'HeinrichsWeikamp', 'Helgoland Habitat', 'Helicity (fluid mechanics)', 'Helicopter Aircrew Breathing Device', 'Heliox', 'Helium analyzer', 'Helium release valve', 'Helix Energy Solutions Group', 'Helmholtz free energy', "Henry's law", 'Henry Fleuss', 'Henry Way Kendall', 'Herbert Callen', 'Herbert Kroemer', 'Herbert Nitsch', 'Hermann von Helmholtz', 'Hertzsprung-Russell diagram', 'Hervé Stevenin', 'Hierarchy of hazard controls', 'High-pressure nervous syndrome', 'High pressure breathing air compressor', 'Hillary Hauser', 'Historical Diving Society', 'History of Diving Museum', 'History of decompression research and development', 'History of entropy', 'History of perpetual motion machines', 'History of scuba diving', 'History of the metric system', 'History of thermodynamics', 'History of underwater diving', 'Honor Frost', 'Hookah (diving)', 'Hopcalite', 'Hot-water suit', 'Hot water system (diving)', 'Housekeeping (industrial)', 'Hugh Bradner', 'Human factors in diving equipment design', 'Human factors in diving safety', 'Human torpedo', 'Humidex', 'Humidity', 'Hydrogen narcosis', 'Hydrophobe', 'Hydrostatic pressure', 'Hydrostatic test', 'Hyperbaric lifeboat', 'Hyperbaric medicine', 'Hyperbaric nursing', 'Hyperbaric stretcher', 'Hyperbaric treatment schedules', 'Hyperbaric welding', 'Hypercapnia', 'Hyperoxia', 'Hyperthermia', 'Hypocapnia', 'Hypothermia', 'Hypoxia (medical)', 'IDA71', 'IMCA Code of Practice for Offshore Diving', 'ISBN (identifier)', 'ISO 1', 'ISO 24801 Recreational diving services — Requirements for the training of recreational scuba divers', 'Ian Edward Fraser', 'Ice diving', 'Ictineu 3', 'Ideal gas', 'Ideal gas constant', 'Ideal gas law', 'Ilya Prigogine', 'Immersion diuresis', 'Immersion finswimming', 'In-water recompression', 'In-water surface cleaning', 'Incandescent light bulb', 'Incident pit', 'Independent doubles', 'Index of recreational dive sites', 'Index of underwater divers', 'Index of underwater diving', 'Infrared', 'Inland diving', 'Inner ear decompression sickness', 'Innes McCartney', 'Inshore diving', 'Instinctive drowning response', 'Instrumental temperature record', 'Integrated weights', 'Intensive and extensive properties', 'Internal energy', 'International Association for Handicapped Divers', 'International Association of Nitrox and Technical Divers', 'International Diving Educators Association', 'International Diving Regulators and Certifiers Forum', 'International Diving Schools Association', 'International Life Saving Federation', 'International Marine Contractors Association', 'International Scuba Diving Hall of Fame', 'International Submarine Escape and Rescue Liaison Office', 'International System of Quantities', 'International System of Units', 'International Temperature Scale of 1990', 'Interspiro DCSC', 'Introduction to entropy', 'Introductory diving', 'Investigation of diving accidents', 'Ion', 'Iron', 'Irreversible process', 'Isenthalpic process', 'Isentropic process', 'Isobaric counterdiffusion', 'Isobaric process', 'Isochoric process', 'Isolated system', 'Isothermal process', 'Israeli Diving Federation', 'Ivan Tors', 'J. Lamar Worzel', 'J. R. Partington', 'JAGO (German research submersible)', 'JIM suit', 'JW Formoza', 'JW GROM', 'JW Komandosów', 'Jack Sheppard (cave diver)', 'Jackstay', 'Jackstay (diving)', 'Jacques Cousteau', 'Jacques Mayol', 'Jacques Triger', 'Jagdkommando', 'James Clerk Maxwell', 'James F. Cahill', 'James Joseph Magennis', 'James P. Delgado', 'James Prescott Joule', 'James Talacek', 'Jarrod Jablonski', 'Jason deCaires Taylor', 'Jean-Michel Cousteau', 'Jeanette Epps', 'Jeffrey Williams (astronaut)', 'Jeremy Hansen', 'Jersey upline', 'Jessica Meir', 'Jiaolong (submersible)', 'Jill Heinerth', 'Jim Bowden (diver)', 'Jim Jones (American football, born 1935)', 'Joachim Wendler', 'Job safety analysis', 'Jochen Hasenmayer', 'Joe Savoie', 'Johannes Diderik van der Waals', 'John Bennett (diver)', 'John Chatterton', 'John Christopher Fine', 'John D. Craig', 'John D. Olivas', 'John Day (carpenter)', 'John Deane (inventor)', 'John Ernest Williamson', 'John Herrington', 'John James Waterston', 'John Lethbridge', 'John Mattera', 'John Morgan Wells', 'John Peter Oleson', 'John R. Clarke (scientist)', 'John Rawlins (Royal Navy officer)', 'John Scott Haldane', 'John Smeaton', 'John Veltri', 'John Volanthen', 'Johnson Outdoors', 'Johnson Sea Link accident', 'Johnson noise', 'Jon Lindbergh', 'Jonathan Bird', 'Jonathan Dory', 'Jonline', 'Josef Schmid (flight surgeon)', 'Josef Velek', 'Joseph-Martin Cabirol', 'Joseph B. MacInnis', 'Joseph M. Acaba', 'Joseph Salim Peress', 'Josiah Willard Gibbs', 'José M. Hernández', 'Joules', "Jules' Undersea Lodge", 'Julius von Mayer', 'Justin Brown (aquanaut)', 'K-index (meteorology)', 'K. Megan McArthur', 'KOPASKA', 'Kaikō ROV', 'Karen Kohanowich', 'Karen Nyberg', 'Karol Meyer', 'Karst Underwater Research', 'Kate Middleton (free-diver)', 'Kathleen Rubins', 'Kaşif ROUV', 'Keith Jessop', 'Kelvin', 'Kelvin scale', 'Kelvin temperature scale', 'Kenneth William Donald', 'Kilogram', 'Kimiya Yui', 'Kinetic energy', 'Kinetic theory of gases', 'Kirsty MacColl', 'Kjell N. Lindgren', 'Koichi Wakata', 'Kommando Spezialkräfte Marine', 'Konsul-class submersible', 'Kronan (ship)', 'Krzysztof Starnawski', 'LAR-5', 'LAR-6', 'LAR-V', 'LR5', 'LR7', 'La Belle (ship)', 'Lambertsen Amphibious Respiratory Unit', 'Lapse rate', 'Lars Onsager', 'Laryngospasm', 'Laser schlieren deflectometry', 'Latent heat', 'Launch and recovery system (diving)', 'Laws of thermodynamics', 'Leiden scale', 'Leigh Bishop', 'Length', 'Leni Riefenstahl', 'Leonard Erskine Hill', "Leonardo D'Imporzano", 'Les Kaufman', 'Letter case', 'Level of free convection', 'Liberia', 'Life-support system', 'Life support technician', 'Lifeline (diving)', 'Lifted condensation level', 'Lifted index', 'Lifting bag', 'Lightning', 'Lightweight demand helmet', 'Limpet mine', 'Line marker', 'Lionel Crabb', 'Lipid', 'Liquid', 'List of Divers Alert Network publications', 'List of cities by average temperature', 'List of diver certification organizations', 'List of diving environments by type', 'List of diving hazards and precautions', 'List of important publications in physics', 'List of legislation regulating underwater diving', 'List of military diving units', 'List of researchers in underwater diving', 'List of signs and symptoms of diving disorders', 'List of thermodynamic properties', 'List of wreck diving sites', 'Lithuanian Special Operations Force', 'Liv Philip', 'Liveaboard', 'Lockout–tagout', 'London Diving Chamber Dive Lectures', 'Long-Term Mine Reconnaissance System', 'Longshore drift', 'Lord Kelvin', "Loschmidt's paradox", 'Lothar Michael Ward', 'Louis Boutan', 'Louis de Corlieu', 'Low Impact Diver', 'Low impact diving', 'Low pressure breathing air compressor', 'Loïc Leferme', 'Luca Parmitano', 'Ludwig Boltzmann', 'Luigi Ferraro (naval officer)', 'Luis Marden', 'Luminous intensity', 'Lyons Maritime Museum', 'Lyuba Ognenova-Marinova', 'MARCOS', 'MSM-1', 'Magnesium torch', 'Mandy-Rae Cruickshank', 'Manifold', 'Manifolded twin set', 'Marc Reagan', 'Mares (scuba equipment)', 'Margaret Rule', 'Marine Commandos', 'Marine Raider Regiment', 'Marinejegerkommandoen', 'Mark Ellyatt', 'Mark Hulsbeck', 'Mark IV Amphibian', 'Mark M. Newell', 'Mark T. Vande Hei', 'Martin Štěpánek (free-diver)', 'Martyn Farr', 'Mary Bonnin', 'Mary Rose', 'Mass', 'Massachusetts Institute of Technology', 'Master Instructor', 'Master Scuba Diver', 'Master diver (United States Navy)', 'Material properties (thermodynamics)', 'Materials science', 'Mathematical singularity', 'Matthias Maurer', 'Maurice Fargues', 'Maurice Fernez', 'Max Planck', 'Maximum operating depth', 'Maximum parcel level', 'Maximum potential intensity', "Maxwell's demon", "Maxwell's thermodynamic surface", 'Maxwell relations', 'Maxwell–Boltzmann distribution', 'McCann Rescue Chamber', 'MeV', 'Measurement', 'Mechanical engineering', 'Mechanical equivalent of heat', 'Mechanism of diving regulators', 'Media diver', 'Media diving', 'Medicine', 'Mehgan Heaney-Grier', 'Membrane gas separation', 'Mendel L. Peterson', 'Mensun Bound', 'Mercury (element)', 'Messenger line', 'Metabolism', 'Metallurgy', 'Metre', 'Metre sea water', 'Metric system', 'Michael Arbuthnot', 'Michael Barratt (astronaut)', 'Michael Board', 'Michael C. Barnette', 'Michael Fincke', 'Michael L. Gernhardt', 'Michael López-Alegría', 'Michal Risian', 'Michele Westmorland', 'Microcanonical ensemble', 'Microstate (statistical mechanics)', 'Middle ear barotrauma', 'Milan Dufek', 'Military diver training', 'Military diving', 'Minedykkerkommandoen', 'Minentaucher', 'Mini Rover ROV', 'Mir (submersible)', 'Mission 31', 'Mixing ratio', 'Mk 1 Underwater Defense Gun', 'Modulated ultrasound', 'Mole (unit)', 'Mole unit', 'Molecular diffusion', 'Molecular sieve', 'Molecule', 'Momsen lung', 'Monatomic', 'Monatomic gas', 'Monofin', 'Monotonic', 'Monty Halls', 'Moon pool', 'Morse Diving', 'Motion sickness', 'Motorised Submersible Canoe', 'Muck diving', 'Muscle memory', 'Myanmar', 'Myriam Seco', 'Mystic-class deep-submergence rescue vehicle', 'NATO Submarine Rescue System', 'NOAA Diving Manual', 'NOGI Awards', 'Namibian Marine Corps', 'Natalia Molchanova', 'Nataliia Zharkova', 'National Academy of Scuba Educators', 'National Association for Cave Diving', 'National Association of Underwater Instructors', 'National Board of Diving and Hyperbaric Medical Technology', 'National Institute of Standards and Technology', 'National Oceanic and Atmospheric Administration', 'National Speleological Society', 'Natural science', 'Natural units', 'Nautical Archaeology Program', 'Nautical Archaeology Society', 'Nautile', 'Nautilus Productions', 'Naval Air Command Sub Aqua Club', 'Naval Diving Unit (Singapore)', 'Naval Service Diving Section', 'Naval Special Operations Command', 'Naval Submarine Medical Research Laboratory', 'Naval Support Activity Panama City', 'Navy diver (United States Navy)', 'Neal W. Pollock', 'Necker Nymph', 'Nederlandse Onderwatersport Bond', 'Negative temperature', 'Nemrod', 'Neutral Buoyancy Laboratory', 'Neutral Buoyancy Simulator', 'Neutral buoyancy', 'Neutral buoyancy pool', 'Neutral buoyancy simulation as a training aid', 'Neutron star', 'Neville Coleman', 'Newton scale', 'Newtons law of cooling', 'Newtsuit', 'Nicholas Mevoli', 'Nicholas Patrick', 'Nicolas Léonard Sadi Carnot', 'Nicole Stott', 'Night diving', 'Nikonos', 'Nitrogen narcosis', 'Nitrox', 'Nitrox production', 'No-limits apnea', 'Noble gas', 'Noel Monkman', 'Non-equilibrium thermodynamics', 'Non-freezing cold injury', 'Nondestructive testing', 'Nordic Deep', 'Norishige Kanai', 'Nuclear weapon', 'Nucleation', 'Nuno Gomes (diver)', 'Occupational exposure limit', 'Occupational hazard', 'Occupational hygiene', 'Occupational safety and health', 'Ocean current', 'Oceanic Worldwide', 'Octopus regulator', 'Octopus wrestling', 'Offshore construction', 'Offshore diving', 'Offshore survey', 'Ole Rømer', 'On the Equilibrium of Heterogeneous Substances', 'Onsager reciprocal relations', 'Open-circuit scuba', 'Open-water diving', 'OpenROV', 'Open Water Diver', 'Open system (systems theory)', 'Operational Diving Division (SA Navy)', 'Operations manual', 'Order and disorder', 'Order parameter', 'Orders of magnitude (temperature)', 'Orinasal mask', 'Oscar Gugen', 'Outline of recreational dive sites', 'Outline of the metric system', 'Outline of underwater divers', 'Outline of underwater diving', 'Outside air temperature', 'Overconfidence effect', 'Overlearning', 'Oxygen', 'Oxygen analyser', 'Oxygen compatibility', 'Oxygen fraction', 'Oxygen therapy', 'Oxygen toxicity', 'Oxygen window', 'PMID (identifier)', 'Panic', 'Partial derivative', 'Partial pressure', 'Particle number', 'Pascal Bernabé', 'Patent foramen ovale', 'Patrick Musimu', 'Paul Bert', 'Paul Hill (flight director)', 'Paul Rose (TV presenter)', 'Pearl hunting', 'Pedro Duque', 'Peggy Whitson', 'Penetration diving', 'Peppo Biscarini', 'Percy Williams Bridgman', 'Perfect gas', 'Performance Freediving International', 'Perfusion', 'Permeation', 'Permit To Work', 'Personal protective equipment', 'Pete Oxford', 'Peter Gimbel', 'Peter Henry Michael Holmes', 'Peter Scoones', 'Peter Tait (physicist)', 'Peter Throckmorton', 'Phase (matter)', 'Phase transition', 'Phases of matter', 'Philippe Cousteau', 'Philippe Diolé', 'Philippe Tailliez', 'Philosophy of thermal and statistical physics', 'Physical hazard', 'Physical quantity', 'Physics', 'Physiological response to water immersion', 'Physiology of decompression', 'Pier Skipness', 'Pierre Duhem', 'Pierre Frolla', 'Pierre Petit (photographer)', 'Pigging', 'Pilar Luna', 'Pisces-class deep submergence vehicle', "Planck's law", 'Planck length', 'Planck temperature', 'Planck time', 'Plasma (physics)', 'Plasma physics', 'Pneumofathometer', 'Polespear', 'Police diver', 'Police diving', 'Polytropic process', 'Pony bottle', 'Porpoise (scuba gear)', 'Potable water diving', 'Potential temperature', 'PowerSwim', 'Power (physics)', 'Power inflator', 'Powerhead (firearm)', 'Precipitation', 'Pressure', 'Pressure-gradient force', 'Pressure gradient', 'Pressure swing adsorption', 'Pressure washing', 'Priz-class deep-submergence rescue vehicle', 'Probability distribution', 'Process function', 'Professional Association of Diving Instructors', "Professional Diver's Handbook", 'Professional Diving Instructors Corporation', 'Professional diving', 'Project AWARE', 'Proportionality (mathematics)', 'Psychological fitness to dive', 'Psychosocial hazard', 'Psychrometric constant', 'Public safety diver', 'Public safety diver training', 'Public safety diving', 'Pulmonary barotrauma', 'Pulmonary circulation', 'Pyle stop', 'QCD matter', 'Quantum dot', 'Quantum mechanics', 'Quantum thermodynamics', 'Quasistatic process', "Queen Anne's Revenge", 'Quintana Roo Speleological Survey', 'R-2 Mala-class swimmer delivery vehicle', 'RMS Lusitania', 'ROV KIEL 6000', 'ROV PHOCA', 'RV Calypso', 'Raid on Alexandria (1941)', 'Ramón Bravo', 'Randolph Bresnik', 'Rankine scale', 'Rash vest', 'Ratio', 'Ratio decompression', 'Real gas', 'Rebreather Association of International Divers', 'Rebreather diving', 'Reclaim helmet', 'Recreational Dive Planner', 'Recreational dive sites', 'Recreational diver training', 'Recreational diving', 'Recreational scuba certification levels', 'Reduced gradient bubble model', 'Reduced properties', 'Redundancy (engineering)', 'Reef', 'Reef Check', 'Reef Life Survey', 'Reflections on the Motive Power of Fire', 'Refresher training (diving)', 'Regulator freeze', 'Regulator malfunction', 'Relative humidity', 'Relativistic Heavy Ion Collider', 'Relativistic heat conduction', 'Remotely operated underwater vehicle', 'René Cavalero', 'Rescue Diver', 'Rescue tether', 'Reserve gas supply (diving)', 'Respiration (physiology)', 'Respiratory exchange ratio', 'Respiratory quotient', 'Respiratory system', 'Reversible process (thermodynamics)', 'Rex J. Walheim', 'Ric Frazier', 'Ricardo Armbruster', 'Richard A. Walker', 'Richard Feynman', 'Richard Harris (anaesthetist)', 'Richard Pyle', 'Richard R. Arnold', 'Richie Kohler', 'Rick Stanton', 'Rip current', 'Risk assessment', 'Risk control', 'Risk management', 'Rob Stewart (filmmaker)', 'Robert A. Barth', 'Robert Ballard', 'Robert Boyle', 'Robert Croft (diver)', 'Robert F. Marx', 'Robert John Smyth', 'Robert Sheats', 'Robert Sténuit', 'Robert Thirsk', 'Robert William Hamilton Jr.', 'Robin Cook (American novelist)', 'Rodney Fox', 'Roger Baldwin (diver)', 'Ron Taylor (diver)', 'Ronald J. Garan Jr.', 'Root-mean-square speed', 'Rotation', 'Royal Australian Navy School of Underwater Medicine', 'Royal Engineers', 'Royal Navy ships diver', 'Rubicon Foundation', 'Rudie Kuiter', 'Rudolf Clausius', 'Rugged compact camera', 'Rule of thirds (diving)', 'Russian commando frogmen', 'Russian deep submergence rescue vehicle AS-28', 'Russian submarine AS-34', 'Russian submarine Losharik', 'Réaumur scale', 'Rømer scale', 'S2CID (identifier)', 'SEALAB', 'SEAL Delivery Vehicle', 'SI base unit', 'SI unit', 'SJT-class ROUV', 'SP-350 Denise', 'SPP-1 underwater pistol', 'SRV-300', 'SS Commodore', 'SS Egypt', 'SS Laurentic (1908)', 'Safety-critical system', 'Safety culture', 'Safety data sheet', 'Safety helmet', 'Safety meeting', 'Sagittarius A*', 'Salt water aspiration syndrome', 'Salvage diving', 'Samir Alhafith', 'Sandra Magnus', 'Sappers Divers Group', 'Sara Campbell', 'Satellite temperature measurements', 'Satoshi Furukawa', 'Saturation diving', 'Saturation spread', 'Saturation system', 'Save Ontario Shipwrecks', 'Scale of temperature', 'Schwarzschild metric', 'Science of underwater diving', 'Scientific diver', 'Scientific diver training', 'Scientific diving', 'Scorpio ROV', 'Scott Carpenter', 'Scott Carpenter Space Analog Station', 'Scott Kelly (astronaut)', 'Scottish Sub Aqua Club', 'Screw gate carabiner', 'Scuba Diving International', 'Scuba Educators International', 'Scuba Schools International', 'Scuba configuration', 'Scuba cylinder valve', 'Scuba diving', 'Scuba diving fatalities', 'Scuba diving in the Cayman Islands', 'Scuba diving tourism', 'Scuba gas management', 'Scuba gas planning', 'Scuba manifold', 'Scuba replacement', 'Scuba set', 'Scuba skills', 'SeaKeys', 'SeaPerch', 'Sea Dragon-class ROV', 'Sea Pole-class bathyscaphe', 'Sea Research Society', 'Sea Trek (diving system)', 'Sea surface temperature', 'Seabed mining', 'Seabed tractor', 'Seafox drone', 'Seahorse ROUV', 'Seasickness', 'Second', 'Second law of thermodynamics', 'Self-assembly', 'Self-organization', 'Serena Auñón-Chancellor', 'Shadow Divers', 'Shallow Water Combat Submersible', 'Shallow water helmet', 'Shannon Walker', 'Shark-proof cage', 'Shark tourism', 'Shayetet 13', 'Shearwater Research', 'Sheck Exley', 'Ships husbandry', 'Sidemount', 'Sidemount diving', 'Siebe Gorman', 'Siebe Gorman CDBA', 'Siebe Gorman Salvus', 'Silica gel', 'Silicon burning process', 'Silt out', 'Silt screw', 'Siluro San Bartolomeo', 'Simon Mitchell', 'Simone Arrigoni', 'Simone Melchior', 'Single-hose regulator', 'Single point of failure', 'Sinking of MV Conception', 'Sinking of the Rainbow Warrior', 'Sinking ships for wreck diving sites', 'Situation awareness', 'Siva (rebreather)', 'Skandalopetra diving', 'Skill assessment', 'Sladen suit', 'Sling cylinder', "Snell's law", 'Snoopy loop', 'Snorkel (swimming)', 'Snorkeling', 'Snuba', 'Society for Underwater Historical Research', 'Society for Underwater Technology', 'Solar mass', 'Solar radiation', 'Solid', 'Solo diver', 'Solo diving', 'Solubility', 'Solution (chemistry)', 'Sonar', 'South African Underwater Sports Federation', 'South Pacific Underwater Medicine Society', 'Southern African Underwater and Hyperbaric Medical Association', 'Space Systems Laboratory (Maryland)', 'Spearfishing', 'Speargun', 'Special Actions Detachment', 'Special Air Service', 'Special Air Service Regiment', 'Special Boat Service', 'Special Boat Squadron (Sri Lanka)', 'Special Forces Command (Turkey)', 'Special Forces Group (Belgium)', 'Special Operations Battalion (Croatia)', 'Special Service Group (Navy)', 'Special Warfare Diving and Salvage', 'Specific heat', 'Speed', 'Speed of sound', 'Sponge diving', 'Sport diving (sport)', 'Stagnation temperature', 'Stan Waterman', 'Stand-by diver', 'Standard diving dress', 'Standard diving helmet', 'Standard diving suit', 'Standard operating procedure', 'Star Canopus diving accident', 'State function', 'State of matter', 'Static apnea', 'Statistical ensemble (mathematical physics)', 'Statistical mechanics', 'Statistical physics', 'Steinke hood', 'Stena Seaspread diving accident', 'Stephanie Schwabe', 'Stephen Frink', 'Steve Chappell', 'Steve Irwin', 'Steve Lewis (diver)', 'Steve Parish', 'Steve Squyres', 'Stig Severinsen', 'Stratification (water)', 'Stress (mechanics)', 'Stress exposure training', 'Stéphane Mifsud', 'Sub-Aqua Association', 'Sub Marine Explorer', 'Submarine Escape Immersion Equipment', 'Submarine Escape Training Facility (Australia)', 'Submarine Escape and Rescue system (Royal Swedish Navy)', 'Submarine Products', 'Submarine Rescue Diving Recompression System', 'Submarine escape', 'Submarine escape training facility', 'Submarine pipeline', 'Submarine rescue', 'Submarine rescue ship', 'Submersible pressure gauge', 'Subskimmer', 'Sun', 'Sunita Williams', 'Supernova', 'Supersaturation', 'Supervised diver', 'Surface-supplied diving', 'Surface-supplied diving equipment', 'Surface-supplied diving skills', 'Surface marker buoy', 'Surface oriented diving', 'Surface tension', 'Surface weather analysis', 'Surfactant', "Surfer's ear", 'Surge (wave action)', 'Sustained load cracking', 'Suunto', 'Swedish warship Mars', 'Swell (ocean)', 'Swietenia Puspa Lestari', 'Swimfin', 'Swimming-induced pulmonary edema', "Swimming at the 1900 Summer Olympics – Men's underwater swimming", 'Sydney Knowles', 'Sylvia Earle', 'Synergetics (Haken)', 'System of measurement', 'Systemic circulation', 'T1200 Trenching Unit', 'Table of thermodynamic equations', 'Tactical Divers Group', 'Takuya Onishi', 'Tamara Benitez', 'Tanya Streeter', 'Tara Ruttley', 'Taravana', 'Task loading', 'Teaching method', 'Technical Diving International', 'Technical diving', 'Ted Eldred', 'Tektite habitat', 'Temperature (disambiguation)', 'Temperature anomaly', 'Temperature conversion formulas', 'Temperature measurement', 'Teseo Tesei', 'Testing and inspection of diving cylinders', 'Thalmann algorithm', 'Tham Luang cave rescue', 'The Darkness Beckons', 'The Diver', 'The Last Dive', 'The Silent World: A Story of Undersea Discovery and Adventure', 'The new science of skin and scuba diving', 'Therapeutic recompression', 'Thermal conduction', 'Thermal conductivity', 'Thermal efficiency', 'Thermal energy', 'Thermal equilibrium', 'Thermal expansion', 'Thermal lance', 'Thermal radiation', 'Thermoception', 'Thermocline', 'Thermodynamic cycle', 'Thermodynamic databases for pure substances', 'Thermodynamic diagrams', 'Thermodynamic equations', 'Thermodynamic equilibrium', 'Thermodynamic free energy', 'Thermodynamic instruments', 'Thermodynamic limit', 'Thermodynamic model of decompression', 'Thermodynamic potential', 'Thermodynamic process', 'Thermodynamic state', 'Thermodynamic system', 'Thermodynamic temperature', 'Thermodynamics', 'Thermography', 'Thermometer', 'Thermometers', 'Thermoregulation', 'Third law of thermodynamics', 'Thomas Marshburn', 'Thomas Pesquet', 'Through-water communications', 'Théophile de Donder', 'Tidal race', 'Tides', 'Tim Peake', 'Time', 'Timeline of diving technology', 'Timeline of heat engine technology', 'Timeline of temperature and pressure measurement technology', 'Timeline of thermodynamics', 'Timothy Creamer', 'Timothy J. Broderick', 'Timothy Kopra', 'Tissue (biology)', 'Tom Mount', 'Tom Sietas', 'Toolbox talk', 'Torricellian chamber', 'Towboard', 'Travel gas', 'Tremie', 'Trevor Hampton', 'Trevor Jackson (diver)', 'Tribonucleation', 'Trim weights (diving)', 'Trimix (breathing gas)', 'Trimix Scuba Association', 'Triple point', 'Turbidity', 'Turkish Underwater Sports Federation', 'Twin-hose regulator', 'Type 7103 DSRV', 'U.S. Navy Diving Manual', 'UNESCO Convention on the Protection of the Underwater Cultural Heritage', 'UNGERIN', 'URF (Swedish Navy)', 'USS Monitor', 'Ultraviolet', 'Umberto Pelizzari', 'Uncertainty principle', 'Uncontrolled decompression', 'Undersea and Hyperbaric Medical Society', 'Undertow (water waves)', 'Underwater Archaeology Branch, Naval History & Heritage Command', 'Underwater Bike Race', 'Underwater Construction Teams', 'Underwater Demolition Command', 'Underwater Demolition Team', 'Underwater Escape Training Unit', 'Underwater Handbook', 'Underwater Hockey World Championships', 'Underwater Offence (Turkish Armed Forces)', 'Underwater Orienteering World Championships', 'Underwater Rugby World Championships', 'Underwater Society of America', 'Underwater acoustic communication', 'Underwater acoustic positioning system', 'Underwater acoustics', 'Underwater archaeologist', 'Underwater archaeology', 'Underwater breathing apparatus', 'Underwater computer vision', 'Underwater construction', 'Underwater cycling', 'Underwater demolition', 'Underwater diving', 'Underwater diving on Guam', 'Underwater domain awareness', 'Underwater environment', 'Underwater firearm', 'Underwater football', 'Underwater habitat', 'Underwater hockey', 'Underwater hockey in Australia', 'Underwater hockey in Turkey', 'Underwater ice hockey', 'Underwater logging', 'Underwater orienteering', 'Underwater photography', 'Underwater photography (sport)', 'Underwater rugby', 'Underwater rugby in Colombia', 'Underwater rugby in the United States', 'Underwater search and recovery', 'Underwater searches', 'Underwater sports', 'Underwater survey', 'Underwater target shooting', 'Underwater vehicle', 'Underwater videography', 'Underwater vision', 'Underwater work', 'United Diving Instructors', 'United States', 'United States Marine Corps Combatant Diver Course', 'United States Marine Corps Force Reconnaissance', 'United States Marine Corps Reconnaissance Battalions', 'United States Navy Experimental Diving Unit', 'United States Navy SEALs', 'United States military divers', 'Universal Referral Program', 'Unmanned diving', 'Upwelling', 'Valerie Taylor (diver)', 'Valerie van Heest', 'Valsalva maneuver', 'Vapor pressure', 'Vapor quality', 'Variable buoyancy pressure vessel', 'Variable weight apnea', 'Variable weight apnea without fins', 'Varying Permeability Model', 'Vasa (ship)', 'Velocity', 'Venture One diving accident', 'Vertical Blue', 'Vibration', 'Victor Berge', 'Victor F. Guiel Jr.', 'VideoRay UROVs', 'Vienna Standard Mean Ocean Water', 'Vintage scuba', 'Virtual temperature', 'Vis viva', 'Visibility', 'Volume (thermodynamics)', 'Vorticity', 'Waage Drill II diving accident', 'Walter Steyn', 'Walther Nernst', 'Water jetting', 'Water polo cap', 'Water safety', 'Water separator', 'Water surface searches', 'Water vapor', 'Wave action', 'Wave shoaling', 'Wavelength', 'Wayback Machine', 'Wear', 'Wedgwood scale', 'Weight', 'Weight belt', 'Welfreighter', 'Wesley C. Skiles', 'Western Norway University of Applied Sciences', 'Wet-bulb globe temperature', 'Wet-bulb potential temperature', 'Wet-bulb temperature', 'Wet Nellie', 'Wet bell', 'Wet sub', 'Wetsuit', 'Whydah Gally', "Wien's displacement law", 'Wildrake diving accident', 'Willard Franklyn Searle', 'Willful violation', 'William Beebe', 'William Hogarth Main', 'William John Macquorn Rankine', 'William Paul Fife', 'William R. Royal', 'William Stone (caver)', 'William Thomson, 1st Baron Kelvin', 'William Trubridge', 'Wind', 'Wind chill', 'Wind shear', 'Wind wave', 'Women Divers Hall of Fame', 'Woodville Karst Plain Project', 'Work (thermodynamics)', 'Work of breathing', 'Workplace health surveillance', 'World Recreational Scuba Training Council', 'Wreck diving', 'X-ray', 'YMCA SCUBA Program', 'Yasemin Dalkılıç', 'Yuri Gagarin Cosmonaut Training Center', 'Yuri Lipski', 'Yves Le Prieur', 'Z Pulsed Power Facility', 'Zale Parry', 'Zero-point energy', 'Zeroth law of thermodynamics', 'Émile Gagnan', 'Épaulard', 'Şahika Ercümen']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles with unsourced statements', 'Articles needing additional references from January 2021', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Articles with unsourced statements from January 2021', 'CS1 maint: archived copy as title', 'CS1 maint: bot: original URL status unknown', 'CS1 maint: multiple names: authors list', 'Continuum mechanics', 'Heat transfer', 'Pages using Sister project links with hidden wikidata', 'SI base quantities', 'Scalar physical quantities', 'Short description is different from Wikidata', 'State functions', 'Temperature', 'Thermodynamics', 'Webarchive template wayback links', 'Wikipedia indefinitely move-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/2/21/Body_Temp_Variation.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/22/Carnot_heat_engine_2.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/14/Crystal_energy.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/f9/Gas_thermometer_and_absolute_zero.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Pakkanen.jpg', 'https://upload.wikimedia.org/wikipedia/commons/2/23/Thermally_Agitated_Molecule.gif', 'https://upload.wikimedia.org/wikipedia/commons/7/70/Thermometer_CF.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Unit_relations_in_the_new_SI.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Wikiversity_logo_2017.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/d/db/Symbol_list_class.svg', 'https://upload.wikimedia.org/wikipedia/en/e/e2/Symbol_portal_class.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6d/Translational_motion.gif', 'https://upload.wikimedia.org/wikipedia/en/0/06/Wiktionary-logo-v2.svg']
+
+####### REFERENCES #######
+
+['http://public.web.cern.ch/public/Content/Chapters/AboutCERN/HowStudyPrtcles/HowSeePrtcles/HowSeePrtcles-en.html', 'http://public.web.cern.ch/public/Welcome.html', 'http://www.calphad.com/absolute_zero.html', 'http://www.e-booksdirectory.com/details.php?ebook=6455', 'http://www.mpa-garching.mpg.de/', 'http://www.mpa-garching.mpg.de/mpa/research/current_research/hl2005-10/hl2005-10-en.html', 'http://www.kis.uni-freiburg.de/~hw/astroandsolartitles.html', 'http://cosserv3.fau.edu/~cis/AST2002/Lectures/C13/Trans/Trans.html', 'http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1928MNRAS..88..493M&data_type=PDF_HIGH&whole_paper=YES&type=PRINTER&filetype=.pdf', 'http://www.uic.edu/labs/trl/1.OnlineMaterials/BasicPrinciplesByTWLeland.pdf', 'http://umich.edu/~gs265/star.htm', 'http://galileo.phys.virginia.edu/classes/252/kinetic_theory.html', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX527040', 'http://ltl.tkk.fi/wiki/LTL/World_record_in_low_temperatures', 'http://bnl.gov/bnlweb/pubaf/pr/PR_display.asp?prID=06-56', 'http://www.phenix.bnl.gov/', 'http://www.bnl.gov/rhic/', 'http://www.bnl.gov/world/', 'http://nasa.gov/worldbook/star_worldbook.html', 'http://pubmed.ncbi.nlm.nih.gov/23151480', 'http://sandia.gov/news-center/news-releases/2006/physics-astron/hottest-z-output.html', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007529672705171', 'http://tnt.phys.uniroma1.it/twiki/pub/TNTgroup/AngeloVulpiani/Dellago.pdf', 'http://link.aip.org/link/?APL/96/113109', 'http://journals.aps.org/pr/abstract/10.1103/PhysRev.25.795', 'http://prl.aps.org/abstract/PRL/v96/i7/e075003', 'http://arxiv.org/abs/1001.2342', 'http://arxiv.org/abs/1002.0037', 'http://arxiv.org/abs/1208.0046', 'http://www1.bipm.org/en/si/si_brochure/chapter2/2-1/2-1-1/kelvin.html', 'http://doi.org/10.1007%2FBF01450409', 'http://doi.org/10.1007%2FBF01889544', 'http://doi.org/10.1038%2Fnature11595', 'http://doi.org/10.1063%2F1.3365204', 'http://doi.org/10.1063%2Fpt.3.1840', 'http://doi.org/10.1088%2F1742-5468%2F2010%2F01%2FP01003', 'http://doi.org/10.1119%2F1.1941991', 'http://doi.org/10.1119%2F1.2174962', 'http://m.iopscience.iop.org/article/10.1088/0143-0807/11/1/010/meta', 'http://nuclearweaponarchive.org/Nwfaq/Nfaq3.html#nfaq3.2', 'http://www.physicstoday.org/resource/1/phtoad/v66/i1/p12_s1', 'http://schools.qps.org/hermanga/images/Astronomy/chapter_21___stellar_explosions.htm', 'http://arquivo.pt/wayback/20160514121637/http://link.aip.org/link/?APL/96/113109', 'http://arquivo.pt/wayback/20160515074555/http://www.physicstoday.org/resource/1/phtoad/v66/i1/p12_s1', 'https://books.google.com/books?id=UKkQAQAAMAAJ', 'https://books.google.com/books?id=eVpITJfPxMEC&pg=PA34', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph249455&CON_LNG=ENG', 'https://ui.adsabs.harvard.edu/abs/1962AmJPh..30..294T', 'https://ui.adsabs.harvard.edu/abs/1987FoPh...17..713K', 'https://ui.adsabs.harvard.edu/abs/2006AmJPh..74..187S', 'https://ui.adsabs.harvard.edu/abs/2010ApPhL..96k3109P', 'https://ui.adsabs.harvard.edu/abs/2010JSMTE..01..003P', 'https://ui.adsabs.harvard.edu/abs/2012Natur.491..570Z', 'https://ui.adsabs.harvard.edu/abs/2013PhT....66a..12M', 'https://catalogue.bnf.fr/ark:/12148/cb119763028', 'https://data.bnf.fr/ark:/12148/cb119763028', 'https://id.loc.gov/authorities/subjects/sh85133712', 'https://physics.nist.gov/cgi-bin/cuu/Value?r', 'https://www.usgs.gov/media/images/frozen-carbon-dioxide-dry-ice-sublimates-directly-a-vapor', 'https://d-nb.info/gnd/4059427-0', 'https://id.ndl.go.jp/auth/ndlna/00568820', 'https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/winkel3', 'https://archive.org/details/fundamentalsofst00fred', 'https://archive.org/details/fundamentalsofst00fred/page/102', 'https://web.archive.org/web/20050403173333/http://www.mpa-garching.mpg.de/', 'https://web.archive.org/web/20070503215509/http://nuclearweaponarchive.org/Nwfaq/Nfaq3.html', 'https://web.archive.org/web/20070926215600/http://www1.bipm.org/en/si/si_brochure/chapter2/2-1/2-1-1/kelvin.html', 'https://web.archive.org/web/20071011103924/http://public.web.cern.ch/Public/Content/Chapters/AboutCERN/HowStudyPrtcles/HowSeePrtcles/HowSeePrtcles-en.html', 'https://web.archive.org/web/20080307112328/http://theory.physics.helsinki.fi/~sol_phys/Sol0601.pdf', 'https://web.archive.org/web/20081120000211/http://www.phenix.bnl.gov/', 'https://web.archive.org/web/20090116111858/http://umich.edu/~gs265/star.htm', 'https://web.archive.org/web/20090211202512/http://www.bnl.gov/bnlweb/pubaf/pr/PR_display.asp?prID=06-56', 'https://web.archive.org/web/20090618075820/http://ltl.tkk.fi/wiki/LTL/World_record_in_low_temperatures', 'https://web.archive.org/web/20100211055705/http://www3.kis.uni-freiburg.de/~hw/astroandsolartitles.html', 'https://web.archive.org/web/20100530095133/http://www.sandia.gov/news-center/news-releases/2006/physics-astron/hottest-z-output.html', 'https://web.archive.org/web/20101024154533/http://www.nasa.gov/worldbook/star_worldbook.html', 'https://web.archive.org/web/20101109042335/http://www.mpa-garching.mpg.de/mpa/research/current_research/hl2005-10/hl2005-10-en.html', 'https://web.archive.org/web/20110708112153/http://www.calphad.com/absolute_zero.html', 'https://web.archive.org/web/20110814005149/http://cosserv3.fau.edu/~cis/AST2002/Lectures/C13/Trans/Trans.html', 'https://web.archive.org/web/20110928205821/http://www.uic.edu/labs/trl/1.OnlineMaterials/BasicPrinciplesByTWLeland.pdf', 'https://web.archive.org/web/20111118043153/https://openlibrary.org/books/OL7154661M/The_theory_of_heat_radiation', 'https://web.archive.org/web/20111118050819/http://www.e-booksdirectory.com/details.php?ebook=6455', 'https://web.archive.org/web/20120624155651/http://www.bnl.gov/world/', 'https://web.archive.org/web/20120707065844/http://public.web.cern.ch/public/Welcome.html', 'https://web.archive.org/web/20130411183756/http://schools.qps.org/hermanga/images/Astronomy/chapter_21___stellar_explosions.htm', 'https://web.archive.org/web/20140413130129/http://tnt.phys.uniroma1.it/twiki/pub/TNTgroup/AngeloVulpiani/Dellago.pdf', 'https://web.archive.org/web/20160303211827/https://www.bnl.gov/RHIC/', 'https://web.archive.org/web/20170716052320/http://galileo.phys.virginia.edu/classes/252/kinetic_theory.html', 'https://web.archive.org/web/20171122152058/https://arxiv.org/abs/1001.2342v1', 'https://web.archive.org/web/20171122171839/https://arxiv.org/abs/astro-ph/0507099', 'https://web.archive.org/web/20171122182750/https://arxiv.org/abs/1002.0037v2', 'https://web.archive.org/web/20180429025229/https://www.bipm.org/utils/en/pdf/CGPM/Draft-Resolution-A-EN.pdf', 'https://web.archive.org/web/20200228234741/https://pdfs.semanticscholar.org/ff7b/6750c54750d9b13fa4d9adaeaf4b046bc7e6.pdf', 'https://web.archive.org/web/20201009075414/https://www.bipm.org/metrology/thermometry/units.html', 'https://arxiv.org/abs/1001.2342v1', 'https://arxiv.org/abs/1002.0037v2', 'https://arxiv.org/abs/astro-ph/0507099', 'https://www.bipm.org/metrology/thermometry/units.html', 'https://www.bipm.org/utils/en/pdf/CGPM/Draft-Resolution-A-EN.pdf', 'https://cryogenicsociety.org/36995/news/nist_explains_the_new_kelvin_definition/', 'https://openlibrary.org/books/OL7154661M/The_theory_of_heat_radiation', 'https://api.semanticscholar.org/CorpusID:118230148', 'https://api.semanticscholar.org/CorpusID:118339343', 'https://api.semanticscholar.org/CorpusID:119209143', 'https://api.semanticscholar.org/CorpusID:120576357', 'https://api.semanticscholar.org/CorpusID:4367940', 'https://api.semanticscholar.org/CorpusID:59471273', 'https://pdfs.semanticscholar.org/ff7b/6750c54750d9b13fa4d9adaeaf4b046bc7e6.pdf', 'https://www.wikidata.org/wiki/Q11466#identifiers', 'https://zenodo.org/record/1428268']
+
+####### SUMMARY #######
+
+Temperature is a physical quantity that expresses the hotness of matter or radiation.
+There are three types of temperature scale: those, such as the SI scale, that are defined in terms of the average translational kinetic energy per freely moving microscopic particle, such as atom, molecule, or electron, in a body; those that rely solely on purely macroscopic properties and thermodynamic principles, such as Kelvin's original definition; and those that are not defined by theoretical principles, but are defined by convenient empirical properties of particular materials.
+Temperature is measured with a thermometer.  It is calibrated in various temperature scales that historically have relied on various reference points and thermometric substances for definition. The most common scales are the Celsius scale (formerly called "centigrade", with the unit °C), the Fahrenheit scale (with the unit °F), and the Kelvin scale (with the unit K), the latter being used predominantly for scientific purposes and is the primary temperature scale defined by the International System of Units (SI).
+The coldest that a body can be imagined to be is when it has a temperature of absolute zero. Experimentally, it can be approached only very closely, but not actually reached, as recognized in the third law of thermodynamics. It would be impossible to extract energy as heat from a body at that temperature. A body can have a strictly physically defined thermodynamic temperature only when it is in a state of thermodynamic equilibrium. Every actual physical body in a state of thermodynamic equilibrium has a positive absolute temperature, both SI and thermodynamic.
+With carefully regulated small flows of energy, a body can be held in a state that is practically steady though not of thermodynamic equilibrium, in which microscopic components of the body can be regarded as virtually having mathematically defined negative absolute thermodynamic temperature, but such a body is hotter than a body imagined to be at absolute zero temperature. The SI temperature is not defined for such components, because they are not moving freely.
+Temperature is important in all fields of natural science, including physics, chemistry, Earth science, astronomy, medicine, biology, ecology, material science, metallurgy, mechanical engineering and geography as well as most aspects of daily life.
+
+####### CONTENT #######
+
+Temperature is a physical quantity that expresses the hotness of matter or radiation.
+There are three types of temperature scale: those, such as the SI scale, that are defined in terms of the average translational kinetic energy per freely moving microscopic particle, such as atom, molecule, or electron, in a body; those that rely solely on purely macroscopic properties and thermodynamic principles, such as Kelvin's original definition; and those that are not defined by theoretical principles, but are defined by convenient empirical properties of particular materials.
+Temperature is measured with a thermometer.  It is calibrated in various temperature scales that historically have relied on various reference points and thermometric substances for definition. The most common scales are the Celsius scale (formerly called "centigrade", with the unit °C), the Fahrenheit scale (with the unit °F), and the Kelvin scale (with the unit K), the latter being used predominantly for scientific purposes and is the primary temperature scale defined by the International System of Units (SI).
+The coldest that a body can be imagined to be is when it has a temperature of absolute zero. Experimentally, it can be approached only very closely, but not actually reached, as recognized in the third law of thermodynamics. It would be impossible to extract energy as heat from a body at that temperature. A body can have a strictly physically defined thermodynamic temperature only when it is in a state of thermodynamic equilibrium. Every actual physical body in a state of thermodynamic equilibrium has a positive absolute temperature, both SI and thermodynamic.
+With carefully regulated small flows of energy, a body can be held in a state that is practically steady though not of thermodynamic equilibrium, in which microscopic components of the body can be regarded as virtually having mathematically defined negative absolute thermodynamic temperature, but such a body is hotter than a body imagined to be at absolute zero temperature. The SI temperature is not defined for such components, because they are not moving freely.
+Temperature is important in all fields of natural science, including physics, chemistry, Earth science, astronomy, medicine, biology, ecology, material science, metallurgy, mechanical engineering and geography as well as most aspects of daily life.
+
+
+== Effects ==
+Many physical processes are related to temperature, some of them are given below:
+the physical properties of materials including the phase (solid, liquid, gaseous or plasma), density, solubility, vapor pressure, electrical conductivity, hardness, wear resistance, thermal conductivity, corrosion resistance, strength
+the rate and extent to which chemical reactions occur
+the amount and properties of thermal radiation emitted from the surface of an object
+air temperature affects all living organisms
+the speed of sound, which in a gas is proportional to the square root of the absolute temperature
+
+
+== Scales ==
+
+Temperature scales differ in two ways: the point chosen as zero degrees and the magnitudes of the incremental unit of temperature.
+
+
+=== Commonly used scales ===
+The Celsius scale (°C) is used for common temperature measurements in most of the world. It is an empirical scale that developed historically, which led to its zero point 0 °C being defined as the freezing point of water, and 100 °C as the boiling point of water, both at atmospheric pressure at sea level. Because of the 100-degree interval, it was called a centigrade scale. Since the standardization of the kelvin in the International System of Units, it has subsequently been redefined in terms of the equivalent fixing points on the Kelvin scale, and so that a temperature increment of one degree Celsius is the same as an increment of one kelvin, though numerically they differ by an additive offset of exactly 273.15.
+The Fahrenheit scale is in common use in the United States. Water freezes at 32 °F and boils at 212 °F at sea-level atmospheric pressure.
+
+
+=== Absolute zero ===
+At the absolute zero of temperature, no energy can be removed from matter as heat, a fact expressed in the third law of thermodynamics. At this temperature, matter contains no macroscopic thermal energy, but still has quantum-mechanical zero-point energy as predicted by the uncertainty principle, although this does not enter into the definition of absolute temperature. Experimentally, absolute zero can be approached only very closely; it can never be reached (the lowest temperature attained by experiment is 100 pK). Theoretically, in a body at a temperature of absolute zero, all classical motion of its particles has ceased and they are at complete rest in this classical sense. The absolute zero, defined as 0 K, is exactly equal to −273.15 °C, or −459.67 °F.
+
+
+=== Absolute scales ===
+Referring to the Boltzmann constant, to the Maxwell–Boltzmann distribution, and to the Boltzmann statistical mechanical definition of entropy, as distinct from the Gibbs definition, for independently moving microscopic particles, disregarding interparticle potential energy, by international agreement, a temperature scale is defined and said to be absolute because it is independent of the characteristics of particular thermometric substances and thermometer mechanisms. Apart from the absolute zero, it does not have a reference temperature. It is known as the Kelvin scale, widely used in science and technology. The kelvin (the unit name is spelled with a lower-case 'k') is the unit of temperature in the International System of Units (SI). The temperature of a body in a state of thermodynamic equilibrium is always positive relative to the absolute zero.
+Besides the internationally agreed Kelvin scale, there is also a thermodynamic temperature scale, invented by Lord Kelvin, also with its numerical zero at the absolute zero of temperature, but directly relating to purely macroscopic thermodynamic concepts, including the macroscopic entropy, though microscopically referable to the Gibbs statistical mechanical definition of entropy for the canonical ensemble, that takes interparticle potential energy into account, as well as independent particle motion so that it can account for measurements of temperatures near absolute zero. This scale has a reference temperature at the triple point of water, the numerical value of which is defined by measurements using the aforementioned internationally agreed Kelvin scale.
+
+
+=== Kelvin scale ===
+Many scientific measurements use the Kelvin temperature scale (unit symbol: K), named in honor of the physicist who first defined it. It is an absolute scale. Its numerical zero point, 0 K, is at the absolute zero of temperature. Since May, 2019, the kelvin has been defined through particle kinetic theory, and statistical mechanics. In the International System of Units (SI), the magnitude of the kelvin is defined in terms of the Boltzmann constant, the value of which is defined as fixed by international convention.
+
+
+=== Statistical mechanical versus thermodynamic temperature scales ===
+Since May 2019, the magnitude of the kelvin is defined in relation to microscopic phenomena, characterized in terms of statistical mechanics. Previously, but since 1954, the International System of Units defined a scale and unit for the kelvin as a thermodynamic temperature, by using the reliably reproducible temperature of the triple point of water as a second reference point, the first reference point being 0 K at absolute zero.Historically, the temperature of the triple point of water was defined as exactly 273.16 K. Today it is an empirically measured quantity. The freezing point of water at sea-level atmospheric pressure occurs at very close to 273.15 K = 0 °C.
+
+
+== Classification of scales ==
+There is a variety of kinds of temperature scale. It may be convenient to classify them as empirically and theoretically based. Empirical temperature scales are historically older, while theoretically based scales arose in the middle of the nineteenth century.
+
+
+=== Empirical scales ===
+Empirically based temperature scales rely directly on measurements of simple macroscopic physical properties of materials. For example, the length of a column of mercury, confined in a glass-walled capillary tube, is dependent largely on temperature and is the basis of the very useful mercury-in-glass thermometer. Such scales are valid only within convenient ranges of temperature. For example, above the boiling point of mercury, a mercury-in-glass thermometer is impracticable. Most materials expand with temperature increase, but some materials, such as water, contract with temperature increase over some specific range, and then they are hardly useful as thermometric materials. A material is of no use as a thermometer near one of its phase-change temperatures, for example, its boiling-point.
+In spite of these limitations, most generally used practical thermometers are of the empirically based kind. Especially, it was used for calorimetry, which contributed greatly to the discovery of thermodynamics. Nevertheless, empirical thermometry has serious drawbacks when judged as a basis for theoretical physics. Empirically based thermometers, beyond their base as simple direct measurements of ordinary physical properties of thermometric materials, can be re-calibrated, by use of theoretical physical reasoning, and this can extend their range of adequacy.
+
+
+=== Theoretical scales ===
+Theoretically based temperature scales are based directly on theoretical arguments, especially those of kinetic theory and thermodynamics. They are more or less ideally realized in practically feasible physical devices and materials. Theoretically based temperature scales are used to provide calibrating standards for practical empirically based thermometers.
+
+
+==== Microscopic statistical mechanical scale ====
+In physics, the internationally agreed conventional temperature scale is called the Kelvin scale. It is calibrated through the internationally agreed and prescribed value of the Boltzmann constant, referring to motions of microscopic particles, such as atoms, molecules, and electrons, constituent in the body whose temperature is to be measured. In contrast with the thermodynamic temperature scale invented by Kelvin, the presently conventional Kelvin temperature is not defined through comparison with the temperature of a reference state of a standard body, nor in terms of macroscopic thermodynamics.
+Apart from the absolute zero of temperature, the Kelvin temperature of a body in a state of internal thermodynamic equilibrium is defined by measurements of suitably chosen of its physical properties, such as have precisely known theoretical explanations in terms of the Boltzmann constant. That constant refers to chosen kinds of motion of microscopic particles in the constitution of the body. In those kinds of motion, the particles move individually, without mutual interaction. Such motions are typically interrupted by inter-particle collisions, but for temperature measurement, the motions are chosen so that, between collisions, the non-interactive segments of their trajectories are known to be accessible to accurate measurement. For this purpose, interparticle potential energy is disregarded.
+In an ideal gas, and in other theoretically understood bodies, the Kelvin temperature is defined to be proportional to the average kinetic energy of non-interactively moving microscopic particles, which can be measured by suitable techniques. The proportionality constant is a simple multiple of the Boltzmann constant. If molecules, atoms, or electrons, are emitted from material and their velocities are measured, the spectrum of their velocities often nearly obeys a theoretical law called the Maxwell–Boltzmann distribution, which gives a well-founded measurement of temperatures for which the law holds. There have not yet been successful experiments of this same kind that directly use the Fermi–Dirac distribution for thermometry, but perhaps that will be achieved in the future.The speed of sound in a gas can be calculated theoretically from the molecular character of the gas, from its temperature and pressure, and from the value of the Boltzmann constant. For a gas of known molecular character and pressure, this provides a relation between temperature and the Boltzmann constant. Those quantities can be known or measured more precisely than can the thermodynamic variables that define the state of a sample of water at its triple point. Consequently, taking the value of the Boltzmann constant as a primarily defined reference of exactly defined value, a measurement of the speed of sound can provide a more precise measurement of the temperature of the gas.Measurement of the spectrum of electromagnetic radiation from an ideal three-dimensional black body can provide an accurate temperature measurement because the frequency of maximum spectral radiance of black-body radiation is directly proportional to the temperature of the black body; this is known as Wien's displacement law and has a theoretical explanation in Planck's law and the Bose–Einstein law.
+Measurement of the spectrum of noise-power produced by an electrical resistor can also provide accurate temperature measurement. The resistor has two terminals and is in effect a one-dimensional body. The Bose-Einstein law for this case indicates that the noise-power is directly proportional to the temperature of the resistor and to the value of its resistance and to the noise bandwidth. In a given frequency band, the noise-power has equal contributions from every frequency and is called Johnson noise. If the value of the resistance is known then the temperature can be found.
+
+
+==== Macroscopic thermodynamic scale ====
+Historically, till May 2019, the definition of the Kelvin scale was that invented by Kelvin, based on a ratio of quantities of energy in processes in an ideal Carnot engine, entirely in terms of macroscopic thermodynamics. That Carnot engine was to work between two temperatures, that of the body whose temperature was to be measured, and a reference, that of a body at the temperature of the triple point of water. Then the reference temperature, that of the triple point, was defined to be exactly 273.16 K. Since May 2019, that value has not been fixed by definition but is to be measured through microscopic phenomena, involving the Boltzmann constant, as described above. The microscopic statistical mechanical definition does not have a reference temperature.
+
+
+==== Ideal gas ====
+A material on which a macroscopically defined temperature scale may be based is the ideal gas. The pressure exerted by a fixed volume and mass of an ideal gas is directly proportional to its temperature. Some natural gases show so nearly ideal properties over suitable temperature range that they can be used for thermometry; this was important during the development of thermodynamics and is still of practical importance today. The ideal gas thermometer is, however, not theoretically perfect for thermodynamics. This is because the entropy of an ideal gas at its absolute zero of temperature is not a positive semi-definite quantity, which puts the gas in violation of the third law of thermodynamics. In contrast to real materials, the ideal gas does not liquefy or solidify, no matter how cold it is. Alternatively thinking, the ideal gas law, refers to the limit of infinitely high temperature and zero pressure; these conditions guarantee non-interactive motions of the constituent molecules.
+
+
+== Kinetic theory approach ==
+The magnitude of the kelvin is now defined in terms of kinetic theory, derived from the value of the Boltzmann constant.
+Kinetic theory provides a microscopic account of temperature for some bodies of material, especially gases, based on macroscopic systems' being composed of many microscopic particles, such as molecules and ions of various species, the particles of a species being all alike. It explains macroscopic phenomena through the classical mechanics of the microscopic particles. The equipartition theorem of kinetic theory asserts that each classical degree of freedom of a freely moving particle has an average kinetic energy of kBT/2 where kB denotes the Boltzmann constant. The translational motion of the particle has three degrees of freedom, so that, except at very low temperatures where quantum effects predominate, the average translational kinetic energy of a freely moving particle in a system with temperature T will be 3kBT/2.
+Molecules, such as oxygen (O2), have more degrees of freedom than single spherical atoms: they undergo rotational and vibrational motions as well as translations. Heating results in an increase of temperature due to an increase in the average translational kinetic energy of the molecules. Heating will also cause, through equipartitioning, the energy associated with vibrational and rotational modes to increase. Thus a diatomic gas will require more energy input to increase its temperature by a certain amount, i.e. it will have a greater heat capacity than a monatomic gas.
+As noted above, the speed of sound in a gas can be calculated from the molecular character of the gas, from its temperature and pressure, and from the value of the Boltzmann constant. Taking the value of the Boltzmann constant as a primarily defined reference of exactly defined value, a measurement of the speed of sound can provide a more precise measurement of the temperature of the gas.It is possible to measure the average kinetic energy of constituent microscopic particles if they are allowed to escape from the bulk of the system, through a small hole in the containing wall. The spectrum of velocities has to be measured, and the average calculated from that. It is not necessarily the case that the particles that escape and are measured have the same velocity distribution as the particles that remain in the bulk of the system, but sometimes a good sample is possible.
+
+
+== Thermodynamic approach ==
+Temperature is one of the principal quantities in the study of thermodynamics. Formerly, the magnitude of the kelvin was defined in thermodynamic terms, but nowadays, as mentioned above, it is defined in terms of kinetic theory.
+The thermodynamic temperature is said to be absolute for two reasons. One is that its formal character is independent of the properties of particular materials. The other reason is that its zero is, in a sense, absolute, in that it indicates absence of microscopic classical motion of the constituent particles of matter, so that they have a limiting specific heat of zero for zero temperature, according to the third law of thermodynamics. Nevertheless, a thermodynamic temperature does in fact have a definite numerical value that has been arbitrarily chosen by tradition and is dependent on the property of particular materials; it is simply less arbitrary than relative "degrees" scales such as Celsius and Fahrenheit.  Being an absolute scale with one fixed point (zero), there is only one degree of freedom left to arbitrary choice, rather than two as in relative scales. For the Kelvin scale since May 2019, by international convention, the choice has been made to use knowledge of modes of operation of various thermometric devices, relying on microscopic kinetic theories about molecular motion. The numerical scale is settled by a conventional definition of the value of the Boltzmann constant, which relates macroscopic temperature to average microscopic kinetic energy of particles such as molecules. Its numerical value is arbitrary, and an alternate, less widely used absolute temperature scale exists called the Rankine scale, made to be aligned with the Fahrenheit scale as Kelvin is with Celsius.
+The thermodynamic definition of temperature is due to Kelvin. It is framed in terms of an idealized device called a Carnot engine, imagined to run in a fictive continuous cycle of successive processes that traverse a cycle of states of its working body. The engine takes in a quantity of heat Q1 from a hot reservoir and passes out a lesser quantity of waste heat Q2 < 0 to a cold reservoir. The net heat energy absorbed by the working body is passed, as thermodynamic work, to a work reservoir, and is considered to be the output of the engine. The cycle is imagined to run so slowly that at each point of the cycle the working body is in a state of thermodynamic equilibrium. The successive processes of the cycle are thus imagined to run reversibly with no entropy production. Then the quantity of entropy taken in from the hot reservoir when the working body is heated is equal to that passed to the cold reservoir when the working body is cooled. Then the absolute or thermodynamic temperatures, T1 and T2,  of the reservoirs are defined such that
+
+The zeroth law of thermodynamics allows this definition to be used to measure the absolute or thermodynamic temperature of an arbitrary body of interest, by making the other heat reservoir have the same temperature as the body of interest.
+Kelvin's original work postulating absolute temperature was published in 1848. It was based on the work of Carnot, before the formulation of the first law of thermodynamics. Carnot had no sound understanding of heat and no specific concept of entropy. He wrote of 'caloric' and said that all the caloric that passed from the hot reservoir was passed into the cold reservoir. Kelvin wrote in his 1848 paper that his scale was absolute in the sense that it was defined "independently of the properties of any particular kind of matter". His definitive publication, which sets out the definition just stated, was printed in 1853, a paper read in 1851.Numerical details were formerly settled by making one of the heat reservoirs a cell at the triple point of water, which was defined to have an absolute temperature of 273.16 K. Nowadays, the numerical value is instead obtained from measurement through the microscopic statistical mechanical international definition, as above.
+
+
+=== Intensive variability ===
+In thermodynamic terms, temperature is an intensive variable because it is equal to a differential coefficient of one extensive variable with respect to another, for a given body. It thus has the dimensions of a ratio of two extensive variables. In thermodynamics, two bodies are often considered as connected by contact with a common wall, which has some specific permeability properties. Such specific permeability can be referred to a specific intensive variable. An example is a diathermic wall that is permeable only to heat; the intensive variable for this case is temperature. When the two bodies have been connected through the specifically permeable wall for a very long time, and have settled to a permanent steady state, the relevant intensive variables are equal in the two bodies; for a diathermal wall, this statement is sometimes called the zeroth law of thermodynamics.In particular, when the body is described by stating its internal energy U, an extensive variable, as a function of its entropy S, also an extensive variable, and other state variables V, N, with U = U (S, V, N), then the temperature is equal to the partial derivative of the internal energy with respect to the entropy:
+
+Likewise, when the body is described by stating its entropy S as a function of its internal energy U, and other state variables V, N, with S = S (U, V, N), then the reciprocal of the temperature is equal to the partial derivative of the entropy with respect to the internal energy:
+
+The above definition, equation (1), of the absolute temperature, is due to Kelvin. It refers to systems closed to the transfer of matter and has a special emphasis on directly experimental procedures. A presentation of thermodynamics by Gibbs starts at a more abstract level and deals with systems open to the transfer of matter; in this development of thermodynamics, the equations (2) and (3) above are actually alternative definitions of temperature.
+
+
+=== Local thermodynamic equilibrium ===
+Real-world bodies are often not in thermodynamic equilibrium and not homogeneous. For the study by methods of classical irreversible thermodynamics, a body is usually spatially and temporally divided conceptually into 'cells' of small size. If classical thermodynamic equilibrium conditions for matter are fulfilled to good approximation in such a 'cell', then it is homogeneous and a temperature exists for it. If this is so for every 'cell' of the body, then local thermodynamic equilibrium is said to prevail throughout the body.It makes good sense, for example, to say of the extensive variable U, or of the extensive variable S, that it has a density per unit volume or a quantity per unit mass of the system, but it makes no sense to speak of the density of temperature per unit volume or quantity of temperature per unit mass of the system. On the other hand, it makes no sense to speak of the internal energy at a point, while when local thermodynamic equilibrium prevails, it makes good sense to speak of the temperature at a point. Consequently, the temperature can vary from point to point in a medium that is not in global thermodynamic equilibrium, but in which there is local thermodynamic equilibrium.
+Thus, when local thermodynamic equilibrium prevails in a body, the temperature can be regarded as a spatially varying local property in that body, and this is because the temperature is an intensive variable.
+
+
+== Basic theory ==
+Temperature is a measure of a quality of a state of a material.  The quality may be regarded as a more abstract entity than any particular temperature scale that measures it, and is called hotness by some writers. The quality of hotness refers to the state of material only in a particular locality, and in general, apart from bodies held in a steady state of thermodynamic equilibrium, hotness varies from place to place. It is not necessarily the case that a material in a particular place is in a state that is steady and nearly homogeneous enough to allow it to have a well-defined hotness or temperature. Hotness may be represented abstractly as a one-dimensional manifold. Every valid temperature scale has its own one-to-one map into the hotness manifold.When two systems in thermal contact are at the same temperature no heat transfers between them. When a temperature difference does exist heat flows spontaneously from the warmer system to the colder system until they are in thermal equilibrium. Such heat transfer occurs by conduction or by thermal radiation.Experimental physicists, for example Galileo and Newton, found that there are indefinitely many empirical temperature scales. Nevertheless, the zeroth law of thermodynamics says that they all measure the same quality. This means that for a body in its own state of internal thermodynamic equilibrium, every correctly calibrated thermometer, of whatever kind, that measures the temperature of the body, records one and the same temperature. For a body that is not in its own state of internal thermodynamic equilibrium, different thermometers can record different temperatures, depending respectively on the mechanisms of operation of the thermometers.
+
+
+=== Bodies in thermodynamic equilibrium ===
+For experimental physics, hotness means that, when comparing any two given bodies in their respective separate thermodynamic equilibria, any two suitably given empirical thermometers with numerical scale readings will agree as to which is the hotter of the two given bodies, or that they have the same temperature. This does not require the two thermometers to have a linear relation between their numerical scale readings, but it does require that the relation between their numerical readings shall be strictly monotonic. A definite sense of greater hotness can be had, independently of calorimetry, of thermodynamics, and of properties of particular materials, from Wien's displacement law of thermal radiation: the temperature of a bath of thermal radiation is proportional, by a universal constant, to the frequency of the maximum of its frequency spectrum; this frequency is always positive, but can have values that tend to zero. Thermal radiation is initially defined for a cavity in thermodynamic equilibrium. These physical facts justify a mathematical statement that hotness exists on an ordered one-dimensional manifold. This is a fundamental character of temperature and thermometers for bodies in their own thermodynamic equilibrium.Except for a system undergoing a first-order phase change such as the melting of ice, as a closed system receives heat, without a change in its volume and without a change in external force fields acting on it, its temperature rises. For a system undergoing such a phase change so slowly that departure from thermodynamic equilibrium can be neglected, its temperature remains constant as the system is supplied with latent heat. Conversely, a loss of heat from a closed system, without phase change, without change of volume, and without a change in external force fields acting on it, decreases its temperature.
+
+
+=== Bodies in a steady state but not in thermodynamic equilibrium ===
+While for bodies in their own thermodynamic equilibrium states, the notion of temperature requires that all empirical thermometers must agree as to which of two bodies is the hotter or that they are at the same temperature, this requirement is not safe for bodies that are in steady states though not in thermodynamic equilibrium. It can then well be that different empirical thermometers disagree about which is hotter, and if this is so, then at least one of the bodies does not have a well-defined absolute thermodynamic temperature. Nevertheless, anyone has given body and any one suitable empirical thermometer can still support notions of empirical, non-absolute, hotness, and temperature, for a suitable range of processes. This is a matter for study in non-equilibrium thermodynamics.
+
+
+=== Bodies not in a steady state ===
+When a body is not in a steady-state, then the notion of temperature becomes even less safe than for a body in a steady state not in thermodynamic equilibrium. This is also a matter for study in non-equilibrium thermodynamics.
+
+
+=== Thermodynamic equilibrium axiomatics ===
+For the axiomatic treatment of thermodynamic equilibrium, since the 1930s, it has become customary to refer to a zeroth law of thermodynamics. The customarily stated minimalist version of such a law postulates only that all bodies, which when thermally connected would be in thermal equilibrium, should be said to have the same temperature by definition, but by itself does not establish temperature as a quantity expressed as a real number on a scale. A more physically informative version of such a law views empirical temperature as a chart on a hotness manifold. While the zeroth law permits the definitions of many different empirical scales of temperature, the second law of thermodynamics selects the definition of a single preferred, absolute temperature, unique up to an arbitrary scale factor, whence called the thermodynamic temperature. If internal energy is considered as a function of the volume and entropy of a homogeneous system in thermodynamic equilibrium, thermodynamic absolute temperature appears as the partial derivative of internal energy with respect the entropy at constant volume. Its natural, intrinsic origin or null point is absolute zero at which the entropy of any system is at a minimum. Although this is the lowest absolute temperature described by the model, the third law of thermodynamics postulates that absolute zero cannot be attained by any physical system.
+
+
+== Heat capacity ==
+
+When an energy transfer to or from a body is only as heat, the state of the body changes. Depending on the surroundings and the walls separating them from the body, various changes are possible in the body. They include chemical reactions, increase of pressure, increase of temperature and phase change. For each kind of change under specified conditions, the heat capacity is the ratio of the quantity of heat transferred to the magnitude of the change.For example, if the change is an increase in temperature at constant volume, with no phase change and no chemical change, then the temperature of the body rises and its pressure increases. The quantity of heat transferred, ΔQ, divided by the observed temperature change, ΔT, is the body's heat capacity at constant volume:
+
+  
+    
+      
+        
+          C
+          
+            V
+          
+        
+        =
+        
+          
+            
+              Δ
+              Q
+            
+            
+              Δ
+              T
+            
+          
+        
+        .
+      
+    
+    {\displaystyle C_{V}={\frac {\Delta Q}{\Delta T}}.}
+  If heat capacity is measured for a well-defined amount of substance, the specific heat is the measure of the heat required to increase the temperature of such a unit quantity by one unit of temperature. For example, raising the temperature of water by one kelvin (equal to one degree Celsius) requires 4186 joules per kilogram (J/kg).
+
+
+== Measurement ==
+
+Temperature measurement using modern scientific thermometers and temperature scales goes back at least as far as the early 18th century, when Daniel Gabriel Fahrenheit adapted a thermometer (switching to mercury) and a scale both developed by Ole Christensen Rømer. Fahrenheit's scale is still in use in the United States for non-scientific applications.
+Temperature is measured with thermometers that may be calibrated to a variety of temperature scales. In most of the world (except for Belize, Myanmar, Liberia and the United States), the Celsius scale is used for most temperature measuring purposes. Most scientists measure temperature using the Celsius scale and thermodynamic temperature using the Kelvin scale, which is the Celsius scale offset so that its null point is 0 K = −273.15 °C, or absolute zero. Many engineering fields in the US, notably high-tech and US federal specifications (civil and military), also use the Kelvin and Celsius scales. Other engineering fields in the US also rely upon the Rankine scale (a shifted Fahrenheit scale) when working in thermodynamic-related disciplines such as combustion.
+
+
+=== Units ===
+The basic unit of temperature in the International System of Units (SI) is the Kelvin. It has the symbol K.
+For everyday applications, it is often convenient to use the Celsius scale, in which 0 °C corresponds very closely to the freezing point of water and 100 °C is its boiling point at sea level. Because liquid droplets commonly exist in clouds at sub-zero temperatures, 0 °C is better defined as the melting point of ice. In this scale, a temperature difference of 1 degree Celsius is the same as a 1kelvin increment, but the scale is offset by the temperature at which ice melts (273.15 K).
+By international agreement, until May 2019, the Kelvin and Celsius scales were defined by two fixing points: absolute zero and the triple point of Vienna Standard Mean Ocean Water, which is water specially prepared with a specified blend of hydrogen and oxygen isotopes. Absolute zero was defined as precisely 0 K and −273.15 °C. It is the temperature at which all classical translational motion of the particles comprising matter ceases and they are at complete rest in the classical model. Quantum-mechanically, however, zero-point motion remains and has an associated energy, the zero-point energy.  Matter is in its ground state, and contains no thermal energy. The temperatures 273.16 K and 0.01 °C were defined as those of the triple point of water. This definition served the following purposes: it fixed the magnitude of the kelvin as being precisely 1 part in 273.16 parts of the difference between absolute zero and the triple point of water; it established that one kelvin has precisely the same magnitude as one degree on the Celsius scale; and it established the difference between the null points of these scales as being 273.15 K (0 K = −273.15 °C and 273.16 K = 0.01 °C). Since 2019, there has been a new definition based on the Boltzmann constant, but the scales are scarcely changed.
+In the United States, the Fahrenheit scale is the most widely used. On this scale the freezing point of water corresponds to 32 °F and the boiling point to 212 °F. The Rankine scale, still used in fields of chemical engineering in the US, is an absolute scale based on the Fahrenheit increment.
+
+
+==== Conversion ====
+
+The following table shows the temperature conversion formulas for conversions to and from the Celsius scale.
+
+
+==== Plasma physics ====
+The field of plasma physics deals with phenomena of electromagnetic nature that involve very high temperatures. It is customary to express temperature as energy in units of electronvolts (eV) or kiloelectronvolts (keV). The energy, which has a different dimension from temperature, is then calculated as the product of the Boltzmann constant and temperature, 
+  
+    
+      
+        E
+        =
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    {\displaystyle E=k_{\text{B}}T}
+  . Then, 1 eV corresponds to 11605 K. In the study of QCD matter one routinely encounters temperatures of the order of a few hundred MeV, equivalent to about 1012 K.
+
+
+== Theoretical foundation ==
+
+Historically, there are several scientific approaches to the explanation of temperature: the classical thermodynamic description based on macroscopic empirical variables that can be measured in a laboratory; the kinetic theory of gases which relates the macroscopic description to the probability distribution of the energy of motion of gas particles; and a microscopic explanation based on statistical physics and quantum mechanics. In addition, rigorous and purely mathematical treatments have provided an axiomatic approach to classical thermodynamics and temperature. Statistical physics provides a deeper understanding by describing the atomic behavior of matter and derives macroscopic properties from statistical averages of microscopic states, including both classical and quantum states. In the fundamental physical description, using natural units, the temperature may be measured directly in units of energy. However, in the practical systems of measurement for science, technology, and commerce, such as the modern metric system of units, the macroscopic and the microscopic descriptions are interrelated by the Boltzmann constant, a proportionality factor that scales temperature to the microscopic mean kinetic energy.
+The microscopic description in statistical mechanics is based on a model that analyzes a system into its fundamental particles of matter or into a set of classical or quantum-mechanical oscillators and considers the system as a statistical ensemble of microstates. As a collection of classical material particles, the temperature is a measure of the mean energy of motion, called translational kinetic energy, of the particles, whether in solids, liquids, gases, or plasmas. The kinetic energy, a concept of classical mechanics, is half the mass of a particle times its speed squared. In this mechanical interpretation of thermal motion, the kinetic energies of material particles may reside in the velocity of the particles of their translational or vibrational motion or in the inertia of their rotational modes. In monatomic perfect gases and, approximately, in most gas and in simple metals, the temperature is a measure of the mean particle translational kinetic energy, 3/2 kBT. It also determines the probability distribution function of energy. In condensed matter, and particularly in solids, this purely mechanical description is often less useful and the oscillator model provides a better description to account for quantum mechanical phenomena. Temperature determines the statistical occupation of the microstates of the ensemble. The microscopic definition of temperature is only meaningful in the thermodynamic limit, meaning for large ensembles of states or particles, to fulfill the requirements of the statistical model.
+Kinetic energy is also considered as a component of thermal energy. The thermal energy may be partitioned into independent components attributed to the degrees of freedom of the particles or to the modes of oscillators in a thermodynamic system. In general, the number of these degrees of freedom that are available for the equipartitioning of energy depends on the temperature, i.e. the energy region of the interactions under consideration. For solids, the thermal energy is associated primarily with the vibrations of its atoms or molecules about their equilibrium position. In an ideal monatomic gas, the kinetic energy is found exclusively in the purely translational motions of the particles. In other systems, vibrational and rotational motions also contribute degrees of freedom.
+
+
+=== Kinetic theory of gases ===
+
+Maxwell and Boltzmann developed a kinetic theory that yields a fundamental understanding of temperature in gases.
+This theory also explains the ideal gas law and the observed heat capacity of monatomic  (or 'noble') gases.
+
+The ideal gas law is based on observed empirical relationships between pressure (p), volume (V), and temperature (T), and was recognized long before the kinetic theory of gases was developed (see Boyle's and Charles's laws).  The ideal gas law states:
+
+  
+    
+      
+        p
+        V
+        =
+        n
+        R
+        T
+        ,
+      
+    
+    {\displaystyle pV=nRT,}
+  where n is the number of moles of gas and R = 8.314462618... J⋅mol−1⋅K−1  is the gas constant.
+This relationship gives us our first hint that there is an absolute zero on the temperature scale, because it only holds if the temperature is measured on an absolute scale such as Kelvin's. The ideal gas law allows one to measure temperature on this absolute scale using the gas thermometer.  The temperature in kelvins can be defined as the pressure in pascals of one mole of gas in a container of one cubic meter, divided by the gas constant.
+Although it is not a particularly convenient device, the gas thermometer provides an essential theoretical basis by which all thermometers can be calibrated.  As a practical matter, it is not possible to use a gas thermometer to measure absolute zero temperature since the gases condense into a liquid long before the temperature reaches zero. It is possible, however, to extrapolate to absolute zero by using the ideal gas law, as shown in the figure.
+The kinetic theory assumes that pressure is caused by the force associated with individual atoms striking the walls, and that all energy is translational kinetic energy.  Using a sophisticated symmetry argument, Boltzmann deduced what is now called the Maxwell–Boltzmann probability distribution function for the velocity of particles in an ideal gas.  From that probability distribution function, the average kinetic energy (per particle) of a monatomic ideal gas is
+
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          v
+          
+            rms
+          
+          
+            2
+          
+        
+        =
+        
+          
+            3
+            2
+          
+        
+        
+          k
+          
+            B
+          
+        
+        T
+        ,
+      
+    
+    {\displaystyle E_{\text{k}}={\frac {1}{2}}mv_{\text{rms}}^{2}={\frac {3}{2}}k_{\text{B}}T,}
+  where the Boltzmann constant kB is the ideal gas constant divided by the Avogadro number, and 
+  
+    
+      
+        
+          v
+          
+            rms
+          
+        
+        =
+        
+          
+            ⟨
+            
+              v
+              
+                2
+              
+            
+            ⟩
+          
+        
+        =
+        
+          
+            ⟨
+            
+              v
+              ⋅
+              v
+            
+            ⟩
+          
+        
+      
+    
+    {\textstyle v_{\text{rms}}={\sqrt {\langle v^{2}\rangle }}={\sqrt {\langle \mathbf {v\cdot v} \rangle }}}
+   is the root-mean-square speed. This direct proportionality between temperature and mean molecular kinetic energy is a special case of the equipartition theorem, and holds only in the classical limit of a perfect gas. It does not hold exactly for most substances.
+
+
+=== Zeroth law of thermodynamics ===
+
+When two otherwise isolated bodies are connected together by a rigid physical path impermeable to matter, there is the spontaneous transfer of energy as heat from the hotter to the colder of them. Eventually, they reach a state of mutual thermal equilibrium, in which heat transfer has ceased, and the bodies' respective state variables have settled to become unchanging.One statement of the zeroth law of thermodynamics is that if two systems are each in thermal equilibrium with a third system, then they are also in thermal equilibrium with each other.This statement helps to define temperature but it does not, by itself, complete the definition. An empirical temperature is a numerical scale for the hotness of a thermodynamic system. Such hotness may be defined as existing on a one-dimensional manifold, stretching between hot and cold. Sometimes the zeroth law is stated to include the existence of a unique universal hotness manifold, and of numerical scales on it, so as to provide a complete definition of empirical temperature. To be suitable for empirical thermometry, a material must have a monotonic relation between hotness and some easily measured state variable, such as pressure or volume, when all other relevant coordinates are fixed. An exceptionally suitable system is the ideal gas, which can provide a temperature scale that matches the absolute Kelvin scale. The Kelvin scale is defined on the basis of the second law of thermodynamics.
+
+
+=== Second law of thermodynamics ===
+
+As an alternative to considering or defining the zeroth law of thermodynamics, it was the historical development in thermodynamics to define temperature in terms of the second law of thermodynamics which deals with entropy. The second law states that any process will result in either no change or a net increase in the entropy of the universe. This can be understood in terms of probability.
+For example, in a series of coin tosses, a perfectly ordered system would be one in which either every toss comes up heads or every toss comes up tails. This means the outcome is always 100% the same result. In contrast, many mixed (disordered) outcomes are possible, and their number increases with each toss. Eventually, the combinations of ~50% heads and ~50% tails dominate, and obtaining an outcome significantly different from 50/50 becomes increasingly unlikely. Thus the system naturally progresses to a state of maximum disorder or entropy.
+As temperature governs the transfer of heat between two systems and the universe tends to progress toward a maximum of entropy, it is expected that there is some relationship between temperature and entropy. A heat engine is a device for converting thermal energy into mechanical energy, resulting in the performance of work. An analysis of the Carnot heat engine provides the necessary relationships. According to energy conservation and energy being a state function that does not change over a full cycle, the work from a heat engine over a full cycle is equal to the net heat, i.e. the sum of the heat put into the system at high temperature, qH > 0, and the waste heat given off at the low temperature, qC < 0.The efficiency is the work divided by the heat input:
+
+where wcy is the work done per cycle. The efficiency depends only on |qC|/qH. Because qC and qH correspond to heat transfer at the temperatures TC and TH, respectively, |qC|/qH should be some function of these temperatures:
+
+Carnot's theorem states that all reversible engines operating between the same heat reservoirs are equally efficient. Thus, a heat engine operating between T1 and T3 must have the same efficiency as one consisting of two cycles, one between T1 and T2, and the second between T2 and T3. This can only be the case if
+
+  
+    
+      
+        
+          q
+          
+            13
+          
+        
+        =
+        
+          
+            
+              
+                q
+                
+                  1
+                
+              
+              
+                q
+                
+                  2
+                
+              
+            
+            
+              
+                q
+                
+                  2
+                
+              
+              
+                q
+                
+                  3
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle q_{13}={\frac {q_{1}q_{2}}{q_{2}q_{3}}},}
+  which implies
+
+  
+    
+      
+        
+          q
+          
+            13
+          
+        
+        =
+        f
+        
+          (
+          
+            
+              T
+              
+                1
+              
+            
+            ,
+            
+              T
+              
+                3
+              
+            
+          
+          )
+        
+        =
+        f
+        
+          (
+          
+            
+              T
+              
+                1
+              
+            
+            ,
+            
+              T
+              
+                2
+              
+            
+          
+          )
+        
+        f
+        
+          (
+          
+            
+              T
+              
+                2
+              
+            
+            ,
+            
+              T
+              
+                3
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle q_{13}=f\left(T_{1},T_{3}\right)=f\left(T_{1},T_{2}\right)f\left(T_{2},T_{3}\right).}
+  Since the first function is independent of T2, this temperature must cancel on the right side, meaning f(T1, T3) is of the form g(T1)/g(T3) (i.e. f(T1, T3) = f(T1, T2)f(T2, T3) = g(T1)/g(T2) · g(T2)/g(T3) = g(T1)/g(T3)), where g is a function of a single temperature. A temperature scale can now be chosen with the property that
+
+Substituting (6) back into (4) gives a relationship for the efficiency in terms of temperature:
+
+For TC = 0 K the efficiency is 100% and that efficiency becomes greater than 100% below 0 K. Since an efficiency greater than 100% violates the first law of thermodynamics, this implies that 0 K is the minimum possible temperature. In fact, the lowest temperature ever obtained in a macroscopic system was 20 nK, which was achieved in 1995 at NIST. Subtracting the right hand side of (5) from the middle portion and rearranging gives
+
+  
+    
+      
+        
+          
+            
+              q
+              
+                H
+              
+            
+            
+              T
+              
+                H
+              
+            
+          
+        
+        +
+        
+          
+            
+              q
+              
+                C
+              
+            
+            
+              T
+              
+                C
+              
+            
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle {\frac {q_{\text{H}}}{T_{\text{H}}}}+{\frac {q_{\text{C}}}{T_{\text{C}}}}=0,}
+  where the negative sign indicates heat ejected from the system. This relationship suggests the existence of a state function, S, whose change characteristically vanishes for a complete cycle if it is defined by
+
+where the subscript indicates a reversible process. This function corresponds to the entropy of the system, which was described previously. Rearranging (8) gives a formula for temperature in terms of fictive infinitesimal quasi-reversible elements of entropy and heat:
+
+For a constant-volume system where entropy S(E) is a function of its energy E, dE = dqrev and (9) gives
+
+i.e. the reciprocal of the temperature is the rate of increase of entropy with respect to energy at constant volume.
+
+
+=== Definition from statistical mechanics ===
+Statistical mechanics defines temperature based on a system's fundamental degrees of freedom.  Eq.(10) is the defining relation of temperature, where the entropy 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is defined (up to a constant) by the logarithm of the number of microstates of the system in the given macrostate (as specified in the microcanonical ensemble): 
+
+  
+    
+      
+        S
+        =
+        
+          k
+          
+            
+              B
+            
+          
+        
+        ln
+        ⁡
+        (
+        W
+        )
+      
+    
+    {\displaystyle S=k_{\mathrm {B} }\ln(W)}
+  where 
+  
+    
+      
+        
+          k
+          
+            
+              B
+            
+          
+        
+      
+    
+    {\displaystyle k_{\mathrm {B} }}
+   is the Boltzmann constant and W is the number of microstates with the energy E of the system (degeneracy).
+When two systems with different temperatures are put into purely thermal connection, heat will flow from the higher temperature system to the lower temperature one; thermodynamically this is understood by the second law of thermodynamics: The total change in entropy following a transfer of energy 
+  
+    
+      
+        Δ
+        E
+      
+    
+    {\displaystyle \Delta E}
+   from system 1 to system 2 is:
+
+  
+    
+      
+        Δ
+        S
+        =
+        −
+        (
+        d
+        S
+        
+          /
+        
+        d
+        E
+        
+          )
+          
+            1
+          
+        
+        ⋅
+        Δ
+        E
+        +
+        (
+        d
+        S
+        
+          /
+        
+        d
+        E
+        
+          )
+          
+            2
+          
+        
+        ⋅
+        Δ
+        E
+        =
+        
+          (
+          
+            
+              
+                1
+                
+                  T
+                  
+                    2
+                  
+                
+              
+            
+            −
+            
+              
+                1
+                
+                  T
+                  
+                    1
+                  
+                
+              
+            
+          
+          )
+        
+        Δ
+        E
+      
+    
+    {\displaystyle \Delta S=-(dS/dE)_{1}\cdot \Delta E+(dS/dE)_{2}\cdot \Delta E=\left({\frac {1}{T_{2}}}-{\frac {1}{T_{1}}}\right)\Delta E}
+  and is thus positive if 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+        >
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1}>T_{2}}
+  
+From the point of view of statistical mechanics, the total number of microstates in the combined system 1 + system 2 is 
+  
+    
+      
+        
+          N
+          
+            1
+          
+        
+        ⋅
+        
+          N
+          
+            2
+          
+        
+      
+    
+    {\displaystyle N_{1}\cdot N_{2}}
+  , the logarithm of which (times the Boltzmann constant) is the sum of their entropies; thus a flow of heat from high to low temperature, which brings an increase in total entropy, is more likely than any other scenario (normally it is much more likely), as there are more microstates in the resulting macrostate.
+
+
+=== Generalized temperature from single-particle statistics ===
+It is possible to extend the definition of temperature even to systems of few particles, like in a quantum dot. The generalized temperature is obtained by considering time ensembles instead of configuration-space ensembles given in statistical mechanics in the case of thermal and particle exchange between a small system of fermions (N even less than 10) with a single/double-occupancy system. The finite quantum grand canonical ensemble, obtained under the hypothesis of ergodicity and orthodicity, allows expressing the generalized temperature from the ratio of the average time of occupation 
+  
+    
+      
+        
+          τ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \tau _{1}}
+   and 
+  
+    
+      
+        
+          τ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \tau _{2}}
+   of the single/double-occupancy system:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              E
+              −
+              
+                E
+                
+                  F
+                
+              
+              
+                (
+                
+                  1
+                  +
+                  
+                    
+                      3
+                      
+                        2
+                        N
+                      
+                    
+                  
+                
+                )
+              
+            
+            
+              
+                k
+                
+                  B
+                
+              
+              ln
+              ⁡
+              
+                (
+                
+                  2
+                  
+                    
+                      
+                        τ
+                        
+                          2
+                        
+                      
+                      
+                        τ
+                        
+                          1
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle T={\frac {E-E_{\text{F}}\left(1+{\frac {3}{2N}}\right)}{k_{\text{B}}\ln \left(2{\frac {\tau _{2}}{\tau _{1}}}\right)}},}
+  where EF is the Fermi energy. This generalized temperature tends to the ordinary temperature when N goes to infinity.
+
+
+=== Negative temperature ===
+
+On the empirical temperature scales that are not referenced to absolute zero, a negative temperature is one below the zero-point of the scale used. For example, dry ice has a sublimation temperature of −78.5 °C which is equivalent to −109.3 °F. On the absolute Kelvin scale this temperature is 194.6 K. No body can be brought to exactly 0 K (the temperature of the ideally coldest possible body) by any finite practicable process; this is a consequence of the third law of thermodynamics.The international kinetic theory temperature of a body cannot take negative values. The thermodynamic temperature scale, however, is not so constrained.
+For a body of matter, there can sometimes be conceptually defined, in terms of microscopic degrees of freedom, namely particle spins, a subsystem, with a temperature other than that of the whole body. When the body is in its own state of internal thermodynamic equilibrium, the temperatures of the whole body and of the subsystem must be the same. The two temperatures can differ when, by work through externally imposed force fields, energy can be transferred to and from the subsystem, separately from the rest of the body; then the whole body is not in its own state of internal thermodynamic equilibrium. There is an upper limit of energy such a spin subsystem can attain.
+Considering the subsystem to be in a temporary state of virtual thermodynamic equilibrium, it is possible to obtain a negative temperature on the thermodynamic scale. Thermodynamic temperature is the inverse of the derivative of the subsystem's entropy with respect to its internal energy. As the subsystem's internal energy increases, the entropy increases for some range, but eventually attains a maximum value and then begins to decrease as the highest energy states begin to fill. At the point of maximum entropy, the temperature function shows the behavior of a singularity, because the slope of the entropy as a function of energy decreases to zero and then turns negative. As the subsystem's entropy reaches its maximum, its thermodynamic temperature goes to positive infinity, switching to negative infinity as the slope turns negative. Such negative temperatures are hotter than any positive temperature. Over time, when the subsystem is exposed to the rest of the body, which has a positive temperature, energy is transferred as heat from the negative temperature subsystem to the positive temperature system. The kinetic theory temperature is not defined for such subsystems.
+
+
+== Examples ==
+
+
+== See also ==
+
+
+== Notes and references ==
+
+
+=== Bibliography of cited references ===
+Adkins, C.J. (1968/1983). Equilibrium Thermodynamics, (1st edition 1968), third edition 1983, Cambridge University Press, Cambridge UK, ISBN 0-521-25445-0.
+Buchdahl, H.A. (1966). The Concepts of Classical Thermodynamics, Cambridge University Press, Cambridge.
+Jaynes, E.T. (1965). Gibbs vs Boltzmann entropies, American Journal of Physics, 33(5), 391–398.
+Middleton, W.E.K. (1966). A History of the Thermometer and its Use in Metrology, Johns Hopkins Press, Baltimore.
+Miller, J (2013). "Cooling molecules the optoelectric way". Physics Today. 66 (1): 12–14. Bibcode:2013PhT....66a..12M. doi:10.1063/pt.3.1840. Archived from the original on 2016-05-15. Retrieved 2013-07-25.
+Partington, J.R. (1949). An Advanced Treatise on Physical Chemistry, volume 1, Fundamental Principles. The Properties of Gases, Longmans, Green & Co., London, pp. 175–177.
+Pippard, A.B. (1957/1966). Elements of Classical Thermodynamics for Advanced Students of Physics, original publication 1957, reprint 1966, Cambridge University Press, Cambridge UK.
+Quinn, T.J. (1983). Temperature, Academic Press, London, ISBN 0-12-569680-9.
+Schooley, J.F. (1986). Thermometry, CRC Press, Boca Raton, ISBN 0-8493-5833-7.
+Roberts, J.K., Miller, A.R. (1928/1960). Heat and Thermodynamics, (first edition 1928), fifth edition, Blackie & Son Limited, Glasgow.
+Thomson, W. (Lord Kelvin) (1848). On an absolute thermometric scale founded on Carnot's theory of the motive power of heat, and calculated from Regnault's observations, Proc. Camb. Phil. Soc. (1843/1863) 1, No. 5: 66–71.
+Thomson, W. (Lord Kelvin) (March 1851). "On the Dynamical Theory of Heat, with numerical results deduced from Mr Joule's equivalent of a Thermal Unit, and M. Regnault's Observations on Steam". Transactions of the Royal Society of Edinburgh. XX (part II): 261–268, 289–298.
+Truesdell, C.A. (1980). The Tragicomical History of Thermodynamics, 1822–1854, Springer, New York, ISBN 0-387-90403-4.
+Tschoegl, N.W. (2000). Fundamentals of Equilibrium and Steady-State Thermodynamics, Elsevier, Amsterdam, ISBN 0-444-50426-5.
+Zeppenfeld, M.; Englert, B.G.U.; Glöckner, R.; Prehn, A.; Mielenz, M.; Sommer, C.; van Buuren, L.D.; Motsch, M.; Rempe, G. (2012). "Sysiphus cooling of electrically trapped polyatomic molecules". Nature. 491 (7425): 570–573. arXiv:1208.0046. Bibcode:2012Natur.491..570Z. doi:10.1038/nature11595. PMID 23151480. S2CID 4367940.
+
+
+== Further reading ==
+Chang, Hasok (2004). Inventing Temperature: Measurement and Scientific Progress. Oxford: Oxford University Press. ISBN 978-0-19-517127-3.
+Zemansky, Mark Waldo (1964). Temperatures Very Low and Very High. Princeton, NJ: Van Nostrand.
+
+
+== External links ==
+
+Current map of global surface temperatures
+

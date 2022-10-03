@@ -1,0 +1,232 @@
+####### TITLE #######
+
+Year
+
+####### LINKS #######
+
+['0 (year)', '1000000000000 (number)', '1000000000 (number)', '10^15', '12-hour clock', '180th meridian', '2022', '24-hour clock', '2nd declension', '365-day calendar', 'A series and B series', 'Ab Urbe Condita', 'Ablaut', 'Absolute space and time', 'Academic term', 'Academic year', 'Accusative case', 'Age (geology)', 'Age of the universe', 'Ages of Man', 'Ancient Greek', 'Ancient Rome', 'Anglian dialects', 'Anno Domini', 'Anno Hegirae', 'Anno Mundi', 'Annus', 'Anthropology', 'Aphelion', 'Apsis', 'ArXiv (identifier)', 'Archaeology', 'Armenian calendar', 'Arrow of time', 'Astrarium', 'Astronomical Almanac', 'Astronomical chronology', 'Astronomical clock', 'Astronomical month', 'Astronomical year numbering', 'Atomic clock', 'Australia', 'Autumn', 'Avestan', 'Axial precession (astronomy)', 'Axial tilt', 'Aztec calendar', 'B-theory of time', 'Barycentric Coordinate Time', 'Barycentric Dynamical Time', 'Before Christ', 'Before Present', 'Before the Common Era', 'Besselian epoch', 'Bibcode (identifier)', 'Big Bang', 'Big History', 'Billion years', 'Boston Latin School', 'Brunhes–Matuyama reversal', 'Byr', 'Cadmium', 'Calendar', 'Calendar era', 'Calendar year', 'Canada', 'Cardinal number (linguistics)', 'Celestial mechanics', 'Century', 'Chemical clock', 'Chinese calendar', 'Chronemics', 'Chronobiology', 'Chronocentrism', 'Chronological dating', 'Chronology', 'Chronometry', 'Chronon', 'Chronozone', 'Circadian rhythm', 'Civil calendar', 'Civil time', 'Clock', 'Common Era', 'Common year', 'Complication (horology)', 'Continuous signal', 'Coordinate time', 'Coordinated Universal Time', 'Cosmological decade', 'Cuckoo clock', 'DUT1', 'Day', 'Daylight', 'Daylight saving time', 'Decade', 'Decimal time', 'Deep time', 'Dendrochronology', 'Destiny', 'Determination of the day of the week', 'Dialing scales', 'Digital clock', 'Dionysius Exiguus', 'Discrete time and continuous time', 'Doi (identifier)', 'Dominical letter', 'Draconic period', 'Dry season', 'Duration (music)', 'Duration (philosophy)', 'Earth', "Earth's orbit", 'Earth sciences', 'Eastern Orthodox Church', 'Eclipse', 'Eclipse season', 'Ecliptic', 'Ecliptic longitude', 'Educational institution', 'Eemian Stage', 'Effect of sun angle on climate', 'Egyptian calendar', 'Endurantism', 'Eon (geology)', 'Epact', 'Ephemeris day', 'Ephemeris time', 'Epoch', 'Epoch (geology)', 'Equation of time', 'Equinox', 'Era (geology)', 'Eternal return', 'Eternalism (philosophy of time)', 'Eternity', 'Ethiopian calendar', 'Eukaryotes', 'Event (philosophy)', 'Father Time', 'Federal government of the United States', 'Fiscal year', 'Flick (time)', 'Fortnight', 'Friedrich Bessel', 'Full moon', 'Full moon cycle', 'Future', 'Galactic Center', 'Galactic year', 'Gaussian gravitational constant', 'Gaussian year', 'Generation time', 'Geocentric Coordinate Time', 'Geochronology', 'Geologic time scale', 'Geological history of Earth', 'Geological period', 'Geology', 'German language', 'Giga year', 'Glottochronology', 'Gothic language', 'Grandfather clock', 'Gravitational time dilation', 'Great Year', 'Greenwich Mean Time', 'Gregorian calendar', 'Gregorian year', "Haab'", 'Half-life', 'Hdl (identifier)', 'Hebrew calendar', 'Hectare', 'Heliacal rising', 'Hexadecimal time', 'Hijrah', 'Hijri year', 'Hindu calendar', 'Hindu units of time', 'History', 'History of sundials', 'History of the earth', 'History of timekeeping devices', 'Holocene', 'Holocene calendar', 'Homo sapiens', 'Horology', 'Hour', 'Hourglass', 'IERS Reference Meridian', 'ISBN (identifier)', 'ISO 31-1', 'ISO 8601', 'IUPAC Gold Book', 'IUPAC Green Book', 'IUPAP Red Book', 'Ice core', 'Immortality', 'Inclusive counting', 'India', 'Inner Solar System', 'Integer', 'Intercalation (timekeeping)', 'International Astronomical Union', 'International Atomic Time', 'International Commission on Stratigraphy', 'International Date Line', 'International Earth Rotation and Reference Systems Service', 'International Union of Geological Sciences', 'International Union of Pure and Applied Chemistry', 'International Union of Pure and Applied Physics', 'Iranian calendar', 'Islamic calendar', 'Italian six-hour clock', 'J2000.0', 'Jalali calendar', 'Jesus of Nazareth', 'Jiffy (time)', 'Julian calendar', 'Julian date', 'Julian year (astronomy)', 'Kalachakra', 'Kyr', 'Kāla', 'Last Glacial Maximum', 'Last Glacial Period', 'Latin', 'Leap month', 'Leap second', 'Leap year', 'Length of day (astronometry)', 'Light-year', 'List of calendars', 'List of years', 'Long and short scales', 'Lunar calendar', 'Lunar month', 'Lunar node', 'Lunar precession', 'Lunar year', 'Lunisolar calendar', 'Lustrum', 'March equinox', 'Marine chronometer', 'Marine sandglass', 'Martian year', 'Maya calendar', 'Mechanical watch', 'Memory', 'Mental chronometry', 'Mesoamerican calendars', 'Metric time', 'Metrology', 'Millennium', 'Million', 'Minute', 'Moment (time)', 'Month', 'Muslim holidays', 'Muslims', 'Myr', 'Names of the days of the week', 'National Institute of Standards and Technology', 'Neolithic Revolution', 'New Scientist', 'Northward equinox', 'Nowruz', 'Nuclear timescale', 'Nuclide', 'OCLC (identifier)', 'OED', 'Old Church Slavonic', 'Old High German', 'Old Norse', 'Olympiad', 'Orbit', 'Orbital period', 'Orders of magnitude (time)', 'Out-of-Africa migration', 'PMID (identifier)', 'Paleontology', 'Parts per million', 'Pascal (unit)', 'Past', 'Perdurantism', 'Perigee', 'Perihelion', 'Period (geology)', 'Periodization', 'Philosophical presentism', 'Philosophy of space and time', 'Phys. Rev. C', 'Physical cosmology', 'Physical quantity', 'Planet', 'Pleistocene', 'Pliocene', 'Positive correlation', 'Post-glacial rebound', 'Precession', 'Precession of the equinoxes', 'Present', 'Prime meridian', 'Proper time', 'Proto-Germanic', 'Proto-Germanic language', 'Proto-Indo-European', 'Proto-Indo-European language', 'Pure and Applied Chemistry', 'Quantum clock', 'Quintillion', 'Radio clock', 'Radiocarbon dating', 'Ramadan', 'Red dwarf', 'Regnal year', 'Relative hour', 'Revised Julian calendar', 'Rome', 'Rosy retrospection', 'S2CID (identifier)', 'SI base unit', 'Saeculum', 'Sanskrit', 'Schema for horizontal dials', 'Science', 'Sea level rise', 'Season', 'Seasonal year', 'Second', 'Shake (unit)', 'Sidereal time', 'Sidereal year', 'Sirius', 'Soil fertility', 'Solar Hijri calendar', 'Solar System', 'Solar calendar', 'Solar day', 'Solar time', 'Solstice', 'Sothic cycle', 'Space', 'Spacetime', 'Spring (season)', 'Static interpretation of time', 'Stopwatch', 'Subpolar climate', 'Subtropics', 'Summer', 'Sun', 'Sundial', 'System of measurement', 'System time', 'T-symmetry', 'Tehran', 'Temperate', 'Tempo', 'Temporal finitism', 'Temporal parts', 'Tempus fugit', 'Tense–aspect–mood', 'Terrestrial Time', 'Thai six-hour clock', 'The Dreaming', 'The Unreality of Time', 'Theory of relativity', 'Thousand', 'Tidal drag', 'Time', 'Time-use research', 'Time and fate deities', 'Time capsule', 'Time dilation', 'Time discipline', 'Time domain', 'Time geography', 'Time immemorial', 'Time in physics', 'Time management', 'Time metrology', 'Time perception', 'Time signature', 'Time standard', 'Time translation symmetry', 'Time travel', 'Time value of money', 'Time zone', 'Timekeeper', 'Timeline', 'Timeline of time measurement inventions', 'Tomorrow (time)', 'Tropical year', 'Tropics', 'Tungsten', 'UK Hydrographic Office', 'UK Metric Association', 'US Government Printing Office', 'UTC offset', 'Unified Code for Units of Measure', 'Unit of time', 'United Kingdom', 'United States', 'Universal Time', 'Uranium-thorium dating', 'Varve', 'Vedic Sanskrit', 'Vegetation', 'Venus', 'Watch', 'Water clock', 'Weather', 'Week', 'West Saxon dialect (Old English)', 'Wet season', 'Wheel of time', 'Winter', 'Yesterday (time)', 'ΔT (timekeeping)']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles with unsourced statements', 'Articles containing Ancient Greek (to 1453)-language text', 'Articles containing Latin-language text', 'Articles needing additional references from October 2012', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with short description', 'Articles with unsourced statements from June 2010', 'Articles with unsourced statements from June 2022', 'CS1 errors: missing periodical', 'Commons category link is on Wikidata', 'Short description is different from Wikidata', 'Types of year', 'Use mdy dates from July 2022', 'Wikipedia indefinitely move-protected pages', 'Wikipedia indefinitely semi-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/6/63/Aleutian_Islands_with_180th_meridian_and_International_Date_Line_%28cropped%29.png', 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Earth-moon.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/5f/He1523a.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/70/Marine_sandglass_MMM.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8b/Nuvola_apps_kalzium.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/cc/Solar_system_orrery_inner_planets.gif', 'https://upload.wikimedia.org/wikipedia/commons/e/e7/WikiProject_Geology.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/70/Wooden_hourglass_3.jpg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg']
+
+####### REFERENCES #######
+
+['http://doc.rero.ch/record/303694/files/pac-rec-09-01-22.pdf', 'http://www.mayacalendar.com/descripcion.html', 'http://demonstrations.wolfram.com/PrecessionOfTheEarthsAxis/', 'http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?journal=grc..&year=1983&volume=book&letter=.&db_key=GEN&page_ind=230&plate_select=NO&data_type=GIF&type=SCREEN_GIF&classic=YES', 'http://www.unc.edu/~rowlett/units/dictA.html', 'http://hpiers.obspm.fr/eop-pc/models/constants.html', 'http://pubmed.ncbi.nlm.nih.gov/15071591', 'http://www.orau.gov/SCIENCEBOWL/teams/files/astrset2.pdf', 'http://ngmdb.usgs.gov/Info/NACSN/Code2/code2.html#Article13', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007531693105171', 'http://aa.usno.navy.mil/publications/docs/c15_usb_online.pdf', 'http://asa.usno.navy.mil/SecM/Glossary.html#dynamical-equinox', 'http://asa.usno.navy.mil/SecM/Glossary.html#longitude-ecliptic', 'http://asa.usno.navy.mil/SecM/Glossary.html#y', 'http://hdl.handle.net/10281%2F21054', 'http://arxiv.org/abs/nucl-ex/0211013', 'http://doi.org/10.1007%2F978-3-642-11274-4_611', 'http://doi.org/10.1016%2FS0262-4079(11)60955-X', 'http://doi.org/10.1038%2Fnature02459', 'http://doi.org/10.1051%2F0004-6361:20041335', 'http://doi.org/10.1103%2FPhysRevC.67.014310', 'http://doi.org/10.1103%2FPhysRevC.76.064603', 'http://doi.org/10.1306%2F07050504129', 'http://doi.org/10.1351%2FPAC-REC-09-01-22', 'http://doi.org/10.1351%2Fgoldbook.y06723', 'http://www.iau.org/science/publications/proceedings_rules/units/', 'http://www.iau.org/static/publications/stylemanual1989.pdf', 'http://iupac.org/wp-content/uploads/2015/07/Green-Book-PDF-Version-2011.pdf', 'http://publications.iupac.org/ci/2011/3306/pac_letters-sup.html', 'http://www.worldcat.org/oclc/15790499', 'http://www.worldcat.org/oclc/265440481', 'https://www.newscientist.com/article/dn20423-push-to-define-year-sparks-time-war.html', 'https://ui.adsabs.harvard.edu/abs/1924PA.....32..407S', 'https://ui.adsabs.harvard.edu/abs/1988tfs..book.....F', 'https://ui.adsabs.harvard.edu/abs/1994A&A...282..663S', 'https://ui.adsabs.harvard.edu/abs/2003PhRvC..67a4310D', 'https://ui.adsabs.harvard.edu/abs/2004A&A...428..261L', 'https://ui.adsabs.harvard.edu/abs/2004Natur.428..637C', 'https://ui.adsabs.harvard.edu/abs/2007PhRvC..76f4603B', 'https://ui.adsabs.harvard.edu/abs/2011NewSc.210R..10B', 'https://catalogue.bnf.fr/ark:/12148/cb11959557d', 'https://data.bnf.fr/ark:/12148/cb11959557d', 'https://id.loc.gov/authorities/subjects/sh85149056', 'https://physics.nist.gov/cuu/pdf/sp811.pdf', 'https://d-nb.info/gnd/4382925-9', 'https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Grammar-Style-Guide#datetime', 'https://archive.org/details/timefamiliarstra0000fras', 'https://web.archive.org/web/20081220111445/http://www.unc.edu/~rowlett/units/dictA.html', 'https://web.archive.org/web/20100307191635/http://www.orau.gov/sciencebowl/teams/files/astrset2.pdf', 'https://web.archive.org/web/20160616100504/https://www.geosociety.org/TimeUnits/', 'https://web.archive.org/web/20190430134555/http://aa.usno.navy.mil/publications/docs/c15_usb_online.pdf', 'https://web.archive.org/web/20190918210347/https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Grammar-Style-Guide#datetime', 'https://doi.org/10.1007/978-3-642-11274-4_611', 'https://www.geosociety.org/TimeUnits/', 'https://www.iau.org/publications/proceedings_rules/units/', 'https://www.iau.org/static/publications/stylemanual1989.pdf', 'https://iupap.org/wp-content/uploads/2021/03/A4.pdf', 'https://api.semanticscholar.org/CorpusID:4356044', 'https://api.semanticscholar.org/CorpusID:6733875', 'https://api.semanticscholar.org/CorpusID:96753161', 'https://ucum.org/ucum.html#para-31', 'https://www.wikidata.org/wiki/Q577#identifiers', 'https://ukma.org.uk/style-guide/']
+
+####### SUMMARY #######
+
+A year or annus is the orbital period of a planetary body, for example, the Earth, moving in its orbit around the Sun. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by change in weather, the hours of daylight, and, consequently, vegetation and soil fertility. In temperate and subpolar regions around the planet, four seasons are generally recognized: spring, summer, autumn and winter. In tropical and subtropical regions, several geographical sectors do not present defined seasons; but in the seasonal tropics, the annual wet and dry seasons are recognized and tracked.
+A calendar year is an approximation of the number of days of the Earth's orbital period, as counted in a given calendar. The Gregorian calendar, or modern calendar, presents its calendar year to be either a common year of 365 days or a leap year of 366 days, as do the Julian calendars. For the Gregorian calendar, the average length of the calendar year (the mean year) across the complete leap cycle of 400 years is 365.2425 days (97 out of 400 years are leap years). 
+In English, the unit of time for year is commonly abbreviated as "y" or "yr". The symbol "a" is more common in scientific literature, though its exact duration may be inconsistent.
+In astronomy, the Julian year is a unit of time defined as 365.25 days of exactly 86,400 seconds (SI base unit), totalling exactly 31,557,600 seconds in the Julian astronomical year.The word year is also used for periods loosely associated with, but not identical to, the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Similarly, year can mean the orbital period of any planet; for example, a Martian year and a Venusian year are examples of the time a planet takes to transit one complete orbit. The term can also be used in reference to any long period or cycle, such as the Great Year.
+
+
+
+####### CONTENT #######
+
+A year or annus is the orbital period of a planetary body, for example, the Earth, moving in its orbit around the Sun. Due to the Earth's axial tilt, the course of a year sees the passing of the seasons, marked by change in weather, the hours of daylight, and, consequently, vegetation and soil fertility. In temperate and subpolar regions around the planet, four seasons are generally recognized: spring, summer, autumn and winter. In tropical and subtropical regions, several geographical sectors do not present defined seasons; but in the seasonal tropics, the annual wet and dry seasons are recognized and tracked.
+A calendar year is an approximation of the number of days of the Earth's orbital period, as counted in a given calendar. The Gregorian calendar, or modern calendar, presents its calendar year to be either a common year of 365 days or a leap year of 366 days, as do the Julian calendars. For the Gregorian calendar, the average length of the calendar year (the mean year) across the complete leap cycle of 400 years is 365.2425 days (97 out of 400 years are leap years). 
+In English, the unit of time for year is commonly abbreviated as "y" or "yr". The symbol "a" is more common in scientific literature, though its exact duration may be inconsistent.
+In astronomy, the Julian year is a unit of time defined as 365.25 days of exactly 86,400 seconds (SI base unit), totalling exactly 31,557,600 seconds in the Julian astronomical year.The word year is also used for periods loosely associated with, but not identical to, the calendar or astronomical year, such as the seasonal year, the fiscal year, the academic year, etc. Similarly, year can mean the orbital period of any planet; for example, a Martian year and a Venusian year are examples of the time a planet takes to transit one complete orbit. The term can also be used in reference to any long period or cycle, such as the Great Year.
+
+
+== Etymology ==
+English year (via West Saxon ġēar (/jɛar/), Anglian ġēr) continues Proto-Germanic *jǣran (*jē₁ran). Cognates are German Jahr, Old High German jār, Old Norse ár and Gothic jer, from the Proto-Indo-European noun *yeh₁r-om "year, season". Cognates also descended from the same Proto-Indo-European noun (with variation in suffix ablaut) are Avestan yārǝ "year", Greek ὥρα (hṓra) "year, season, period of time" (whence "hour"), Old Church Slavonic jarŭ, and Latin hornus "of this year". 
+Latin annus (a 2nd declension masculine noun; annum is the accusative singular; annī is genitive singular and nominative plural; annō the dative and ablative singular) is from a PIE noun *h₂et-no-, which also yielded Gothic aþn "year" (only the dative plural aþnam is attested).
+Although most languages treat the word as thematic *yeh₁r-o-, there is evidence for an original derivation with an *-r/n suffix, *yeh₁-ro-. Both Indo-European words for year, *yeh₁-ro- and *h₂et-no-, would then be derived from verbal roots meaning "to go, move", *h₁ey- and *h₂et-, respectively (compare Vedic Sanskrit éti "goes", atasi "thou goest, wanderest"). A number of English words are derived from Latin annus, such as annual, annuity, anniversary, etc.; per annum means "each year", annō Dominī means "in the year of the Lord".
+The Greek word for "year", ἔτος, is cognate with Latin vetus "old", from the PIE word *wetos- "year", also preserved in this meaning in Sanskrit vat-sa-ras "year" and vat-sa- "yearling (calf)", the latter also reflected in Latin vitulus "bull calf", English wether "ram" (Old English weðer, Gothic wiþrus "lamb").
+In some languages, it is common to count years by referencing to one season, as in "summers", or "winters", or "harvests". Examples include Chinese 年 "year", originally 秂, an ideographic compound of a person carrying a bundle of wheat denoting "harvest". Slavic besides godŭ "time period; year" uses lěto "summer; year".
+
+
+== Intercalation ==
+Astronomical years do not have an integer number of days or lunar months. Any calendar that follows an astronomical year must have a system of intercalation such as leap years.
+
+
+=== Julian calendar ===
+In the Julian calendar, the average (mean) length of a year is 365.25 days. In a non-leap year, there are 365 days, in a leap year there are 366 days. A leap year occurs every fourth year, or leap year, during which a leap day is intercalated into the month of February. The name "Leap Day" is applied to the added day.
+The Revised Julian calendar, proposed in 1923 and used in some Eastern Orthodox Churches,
+has 218 leap years every 900 years, for the average (mean) year length of 365.2422222 days, close to the length of the mean tropical year, 365.24219 days (relative error of 9·10−8).
+In the year 2800 CE, the Gregorian and Revised Julian calendars will begin to differ by one calendar day.
+
+
+=== Gregorian calendar ===
+The Gregorian calendar attempts to cause the northward equinox to fall on or shortly before March 21 and hence it follows the northward equinox year, or tropical year. Because 97 out of 400 years are leap years, the mean length of the Gregorian calendar year is 365.2425 days; with a relative error below one ppm (8·10−7) relative to the current length of the mean tropical year (365.24219 days) and even closer to the current March equinox year of 365.242374 days that it aims to match. It is estimated that by the year 4000 CE, the northward equinox will fall back by one day in the Gregorian calendar, not because of this difference, but due to the slowing of the Earth's rotation and the associated lengthening of the day.
+
+
+=== Other calendars ===
+
+Historically, lunisolar calendars intercalated entire leap months on an observational basis. Lunisolar calendars have mostly fallen out of use except for liturgical reasons (Hebrew calendar, various Hindu calendars).
+A modern adaptation of the historical Jalali calendar, known as the Solar Hijri calendar (1925), is a purely solar calendar with an irregular pattern of leap days based on observation (or astronomical computation), aiming to place new year (Nowruz) on the day of vernal equinox (for the time zone of Tehran), as opposed to using an algorithmic system of leap years.
+
+
+== Year numbering ==
+A calendar era assigns a cardinal number to each sequential year, using a reference event in the past (called the epoch) as the beginning of the era.
+The Gregorian calendar era is the world's most widely used civil calendar. Its epoch is a 6th century estimate of the date birth of Jesus of Nazareth. Two notations are used to indicate year numbering in the Gregorian calendar: the Christian "Anno Domini" (meaning "in the year of the Lord"), abbreviated AD; and "Common Era", abbreviated CE, preferred by many of other faiths and none.  Year numbers are based on inclusive counting, so that there is no "year zero".  Years before the epoch are abbreviated BC for Before Christ or BCE for Before the Common Era. In Astronomical year numbering, positive numbers indicate years AD/CE, the number 0 designates 1 BC/BCE, −1 designates 2 BC/BCE, and so on.
+Other eras include that of Ancient Rome, Ab Urbe Condita ("from the foundation of the city), abbreviated AUC; Anno Mundi ("year of the world"), used for the Hebrew calendar and abbreviated AM; and the Japanese emperor eras described above. The Islamic Hijri year, (year of the Hijrah, Anno Hegirae abbreviated AH), is a lunar calendar of twelve lunar months and thus is shorter than a solar year.
+
+
+== Pragmatic divisions ==
+Financial and scientific calculations often use a 365-day calendar to simplify daily rates.
+
+
+=== Fiscal year ===
+A fiscal year or financial year is a 12-month period used for calculating annual financial statements in businesses and other organizations. In many jurisdictions, regulations regarding accounting require such reports once per twelve months, but do not require that the twelve months constitute a calendar year.
+For example, in Canada and India the fiscal year runs from April 1; in the United Kingdom it runs from April 1 for purposes of corporation tax and government financial statements, but from April 6 for purposes of personal taxation and payment of state benefits; in Australia it runs from July 1; while in the United States the fiscal year of the federal government runs from October 1.
+
+
+=== Academic year ===
+
+An academic year is the annual period during which a student attends an educational institution. The academic year may be divided into academic terms, such as semesters or quarters. The school year in many countries starts in August or September and ends in May, June or July. In Israel the academic year begins around October or November, aligned with the second month of the Hebrew calendar.
+Some schools in the UK, Canada and the United States divide the academic year into three roughly equal-length terms (called trimesters or quarters in the United States), roughly coinciding with autumn, winter, and spring. At some, a shortened summer session, sometimes considered part of the regular academic year, is attended by students on a voluntary or elective basis. Other schools break the year into two main semesters, a first (typically August through December) and a second semester (January through May). Each of these main semesters may be split in half by mid-term exams, and each of the halves is referred to as a quarter (or term in some countries). There may also be a voluntary summer session and/or a short January session.
+Some other schools, including some in the United States, have four marking periods. Some schools in the United States, notably Boston Latin School, may divide the year into five or more marking periods. Some state in defense of this that there is perhaps a positive correlation between report frequency and academic achievement.
+There are typically 180 days of teaching each year in schools in the US, excluding weekends and breaks, while there are 190 days for pupils in state schools in Canada, New Zealand and the United Kingdom, and 200 for pupils in Australia.
+In India the academic year normally starts from June 1 and ends on May 31. Though schools start closing from mid-March, the actual academic closure is on May 31 and in Nepal it starts from July 15.Schools and universities in Australia typically have academic years that roughly align with the calendar year (i.e., starting in February or March and ending in October to December), as the southern hemisphere experiences summer from December to February.
+
+
+== Astronomical years ==
+
+
+=== Julian year ===
+
+The Julian year, as used in astronomy and other sciences, is a time unit defined as exactly 365.25 days of 86,400 SI seconds each ("ephemeris days"). This is the normal meaning of the unit "year" used in various scientific contexts. The Julian century of 36525 ephemeris days and the Julian millennium of 365250 ephemeris days are used in astronomical calculations. Fundamentally, expressing a time interval in Julian years is a way to precisely specify an amount of time (not how many "real" years), for long time intervals where stating the number of ephemeris days would be unwieldy and unintuitive. By convention, the Julian year is used in the computation of the distance covered by a light-year.
+In the Unified Code for Units of Measure (but not according to the International Union of Pure and Applied Physics or the International Union of Geological Sciences, see below), the symbol a (without subscript) always refers to the Julian year, aj, of exactly 31557600 seconds.
+
+365.25 d × 86400 s = 1 a = 1 aj = 31.5576 MsThe SI multiplier prefixes may be applied to it to form "ka", "Ma", etc.
+
+
+=== Sidereal, tropical, and anomalistic years ===
+
+Each of these three years can be loosely called an astronomical year.
+The sidereal year is the time taken for the Earth to complete one revolution of its orbit, as measured against a fixed frame of reference (such as the fixed stars, Latin sidera, singular sidus). Its average duration is 365.256363004 days (365 d 6 h 9 min 9.76 s) (at the epoch J2000.0 = January 1, 2000, 12:00:00 TT).Today the mean tropical year is defined as the period of time for the mean ecliptic longitude of the Sun to increase by 360 degrees. Since the Sun's ecliptic longitude is measured with respect to the equinox, the tropical year comprises a complete cycle of the seasons and is the basis of solar calendars such as the internationally used Gregorian calendar. The modern definition of mean tropical year differs from the actual time between passages of, e.g., the northward equinox, by a minute or two, for several reasons explained below. Because of the Earth's axial precession, this year is about 20 minutes shorter than the sidereal year. The mean tropical year is approximately 365 days, 5 hours, 48 minutes, 45 seconds, using the modern definition ( = 365.24219 d × 86 400 s). The length of the tropical year varies a bit over thousands of years because the rate of axial precession is not constant.
+The anomalistic year is the time taken for the Earth to complete one revolution with respect to its apsides. The orbit of the Earth is elliptical; the extreme points, called apsides, are the perihelion, where the Earth is closest to the Sun (January 5, 07:48 UT in 2020), and the aphelion, where the Earth is farthest from the Sun (July 4, 11:35 UT in 2020). The anomalistic year is usually defined as the time between perihelion passages. Its average duration is 365.259636 days (365 d 6 h 13 min 52.6 s) (at the epoch J2011.0).
+
+
+=== Draconic year ===
+
+The draconic year, draconitic year, eclipse year, or ecliptic year is the time taken for the Sun (as seen from the Earth) to complete one revolution with respect to the same lunar node (a point where the Moon's orbit intersects the ecliptic). The year is associated with eclipses: these occur only when both the Sun and the Moon are near these nodes; so eclipses occur within about a month of every half eclipse year. Hence there are two eclipse seasons every eclipse year. The average duration of the eclipse year is
+
+346.620075883 days (346 d 14 h 52 min 54 s) (at the epoch J2000.0).This term is sometimes erroneously used for the draconic or nodal period of lunar precession, that is the period of a complete revolution of the Moon's ascending node around the ecliptic: 18.612815932 Julian years (6798.331019 days; at the epoch J2000.0).
+
+
+=== Full moon cycle ===
+The full moon cycle is the time for the Sun (as seen from the Earth) to complete one revolution with respect to the perigee of the Moon's orbit. This period is associated with the apparent size of the full moon, and also with the varying duration of the synodic month. The duration of one full moon cycle is:
+
+411.78443029 days (411 days 18 hours 49 minutes 35 seconds) (at the epoch J2000.0).
+
+
+=== Lunar year ===
+The lunar year comprises twelve full cycles of the phases of the Moon, as seen from Earth. It has a duration of approximately 354.37 days. Muslims use this for celebrating their Eids and for marking the start of the fasting month of Ramadan. A Muslim calendar year is based on the lunar cycle. The Jewish calendar is also essentially lunar, except that an intercalary lunar month is added once every two or three years, in order to keep the calendar synchronized with the solar cycle as well. Thus, a lunar year on the Jewish (Hebrew) calendar consists of either twelve or thirteen lunar months.
+
+
+=== Vague year ===
+The vague year, from annus vagus or wandering year, is an integral approximation to the year equaling 365 days, which wanders in relation to more exact years. Typically the vague year is divided into 12 schematic months of 30 days each plus 5 epagomenal days. The vague year was used in the calendars of Ethiopia, Ancient Egypt, Iran, Armenia and in Mesoamerica among the Aztecs and Maya. It is still used by many Zoroastrian communities.
+
+
+=== Heliacal year ===
+A heliacal year is the interval between the heliacal risings of a star. It differs from the sidereal year for stars away from the ecliptic due mainly to the precession of the equinoxes.
+
+
+=== Sothic year ===
+The Sothic year is the interval between heliacal risings of the star Sirius. It is currently less than the sidereal year and its duration is very close to the Julian year of 365.25 days.
+
+
+=== Gaussian year ===
+The Gaussian year is the sidereal year for a planet of negligible mass (relative to the Sun) and unperturbed by other planets that is governed by the Gaussian gravitational constant. Such a planet would be slightly closer to the Sun than Earth's mean distance. Its length is:
+
+365.2568983 days (365 d 6 h 9 min 56 s).
+
+
+=== Besselian year ===
+The Besselian year is a tropical year that starts when the (fictitious) mean Sun reaches an ecliptic longitude of 280°. This is currently on or close to January 1. It is named after the 19th-century German astronomer and mathematician Friedrich Bessel. The following equation can be used to compute the current Besselian epoch (in years):
+B = 1900.0 + (Julian dateTT − 2415020.31352) / 365.242198781The TT subscript indicates that for this formula, the Julian date should use the Terrestrial Time scale, or its predecessor, ephemeris time.
+
+
+=== Variation in the length of the year and the day ===
+
+The exact length of an astronomical year changes over time.
+
+The positions of the equinox and solstice points with respect to the apsides of Earth's orbit change: the equinoxes and solstices move westward relative to the stars because of precession, and the apsides move in the other direction because of the long-term effects of gravitational pull by the other planets. Since the speed of the Earth varies according to its position in its orbit as measured from its perihelion, Earth's speed when in a solstice or equinox point changes over time: if such a point moves toward perihelion, the interval between two passages decreases a little from year to year; if the point moves towards aphelion, that period increases a little from year to year. So a "tropical year" measured from one passage of the northward ("vernal") equinox to the next, differs from the one measured between passages of the southward ("autumnal") equinox. The average over the full orbit does not change because of this, so the length of the average tropical year does not change because of this second-order effect.
+Each planet's movement is perturbed by the gravity of every other planet. This leads to short-term fluctuations in its speed, and therefore its period from year to year. Moreover, it causes long-term changes in its orbit, and therefore also long-term changes in these periods.
+Tidal drag between the Earth and the Moon and Sun increases the length of the day and of the month (by transferring angular momentum from the rotation of the Earth to the revolution of the Moon); since the apparent mean solar day is the unit with which we measure the length of the year in civil life, the length of the year appears to decrease. The rotation rate of the Earth is also changed by factors such as post-glacial rebound and sea level rise.Numerical value of year variation
+Mean year lengths in this section are calculated for 2000, and differences in year lengths, compared to 2000, are given for past and future years. In the tables a day is 86,400 SI seconds long.
+
+
+=== Summary ===
+Some of the year lengths in this table are in average solar days, which are slowly getting longer and are now around 86,400.002 SI seconds.
+
+An average Gregorian year may be said to be 365.2425 days (52.1775 weeks, and if an hour is defined as one twenty-fourth of a day, 8765.82 hours, 525949.2 minutes or 31556952 seconds). Note however that in absolute time the average Gregorian year does not exist, because each period of 400 years is longer (by more than 1000 seconds) than the preceding one as the rotation of the earth slows. For this calendar, a common year is 365 days (8760 hours, 525600 minutes or 31536000 seconds), and a leap year is 366 days (8784 hours, 527040 minutes or 31622400 seconds). The 400-year civil cycle of the Gregorian calendar has 146097 days and hence exactly 20871 weeks.
+
+
+== Greater astronomical years ==
+
+
+=== Equinoctial cycle ===
+The Great Year, or equinoctial cycle, corresponds to a complete revolution of the equinoxes around the ecliptic. Its length is about 25,700 years.
+
+
+=== Galactic year ===
+The Galactic year is the time it takes Earth's Solar System to revolve once around the Galactic Center. It comprises roughly 230 million Earth years.
+
+
+== Seasonal year ==
+
+A seasonal year is the time between successive recurrences of a seasonal event such as the flooding of a river, the migration of a species of bird, the flowering of a species of plant, the first frost, or the first scheduled game of a certain sport. All of these events can have wide variations of more than a month from year to year.
+
+
+== Symbols and abbreviations ==
+A common symbol for the year as a unit of time is "a", taken from the Latin word annus. 
+For example, the U.S. National Institute of Standards and Technology (NIST) Guide for the Use of the International System of Units (SI) supports the symbol "a" as the unit of time for a year.In English, the abbreviations "y" or "yr" are more commonly used in non-scientific literature. In some Earth sciences branches (geology and paleontology), "kyr, myr, byr" (thousands, millions, and billions of years, respectively) and similar abbreviations are used to denote intervals of time remote from the present.The Unified Code for Units of Measure (UCUM) disambiguates the varying symbologies of ISO 1000, ISO 2955 and ANSI X3.50 by using:
+at = 365.24219 days for the mean tropical year;
+aj = 365.25 days for the mean Julian year;
+ag = 365.2425 days for the mean Gregorian year;In the UCUM, the symbol "a", without any qualifier, equals 1 aj.
+The UCUM also minimizes confusion with are, a unit of area, by using the abbreviation "ar".
+Since 1989, the International Astronomical Union (IAU) recognizes the symbol "a" rather than "yr" for a year, notes the different kinds of year, and recommends adopting the Julian year of 365.25 days, unless otherwise specified (IAU Style Manual).Since 1987, the International Union of Pure and Applied Physics (IUPAP) notes "a" as the general symbol for the time unit year (IUPAP Red Book).
+Since 1993, the International Union of Pure and Applied Chemistry (IUPAC) Green Book also uses the same symbol "a", notes the difference between Gregorian year and Julian year, and adopts the former (a=365.2425 days), also noted in the IUPAC Gold Book.In 2011, the IUPAC and the International Union of Geological Sciences jointly recommended defining the "annus", with symbol "a", as the length of the tropical year in the year 2000:
+a = 31556925.445 seconds (approximately 365.24219265 ephemeris days)This differs from the above definition of 365.25 days by about 20 parts per million. The joint document says that definitions such as the Julian year "bear an inherent, pre-programmed obsolescence because of the variability of Earth's orbital movement", but then proposes using the length of the tropical year as of 2000 AD (specified down to the millisecond), which suffers from the same problem. (The tropical year oscillates with time by more than a minute.)
+The notation has proved controversial as it conflicts with an earlier convention among geoscientists to use "a" specifically for "years ago" (e.g. 1 Ma for 1 million years ago), and "y" or "yr" for a one-year time period.
+However, this historical practice does not comply with the NIST Guide, considering the unacceptability of mixing information concerning the physical quantity being measured (in this case, time intervals or points in time) with the units and also the unnaceptability of using abbreviations for units.
+Furthermore, according to the UK Metric Association (UKMA), language-independent symbols are more universally understood (UKMA Style guide).
+
+
+=== SI prefix multipliers ===
+For the following, there are alternative forms that elide the consecutive vowels, such as kilannus, megannus, etc. The exponents and exponential notations are typically used for calculating and in displaying calculations, and for conserving space, as in tables of data.
+
+ ka (for kiloannus) – a unit of time equal to one thousand or 103 years, also known as a millennium in anthropology and calendar uses. The prefix multiplier "ka" is typically used in geology, paleontology, and archaeology for the Holocene and Pleistocene periods, where a non−radiocarbon dating technique such as ice core dating, dendrochronology, uranium-thorium dating or varve analysis is used as the primary method for age determination. If age is determined primarily by radiocarbon dating, then the age should be expressed in either radiocarbon or calendar (calibrated) years Before Present.
+ Ma (for megaannus) – a unit of time equal to one million or 106 years. The suffix "Ma" is commonly used in scientific disciplines such as geology, paleontology, and celestial mechanics. In astronomical applications, the year used is the Julian year of precisely 365.25 days. In geology and paleontology, the year is not so precise and varies depending on the author.
+ Ga (for gigaannus) – a unit of time equal to one billion or 109 years. "Ga" is commonly used in scientific disciplines such as cosmology and geology to signify extremely long time periods in the past. For example, the formation of the Earth occurred approximately 4.54 Ga (4.54 billion years) ago and the age of the universe is approximately 13.8 Ga.
+ Ta (for teraannus) – a unit of time equal to one trillion or 1012 years. "Ta" is an extremely long unit of time, about 70 times as long as the age of the universe. It is the same order of magnitude as the expected life span of a small red dwarf.
+ Pa (for petaannus) – a unit of time equal to one quadrillion or 1015 years. The half-life of the nuclide cadmium-113 is about 8 Pa.  This symbol coincides with that for the pascal without a multiplier prefix, though both are infrequently used and context will normally be sufficient to distinguish time from pressure values.
+ Ea (for exaannus) – a unit of time equal to one quintillion or 1018 years. The half-life of tungsten-180 is 1.8 Ea.
+
+
+=== Abbreviations for "years ago" ===
+
+In geology and paleontology, a distinction sometimes is made between abbreviation "yr" for years and "ya" for years ago, combined with prefixes for thousand, million, or billion. In archaeology, dealing with more recent periods, normally expressed dates, e.g. "10,000 BC", may be used as a more traditional form than Before Present ("BP").
+These abbreviations include:
+
+Use of "mya" and "bya" is deprecated in modern geophysics, the recommended usage being "Ma" and "Ga" for dates Before Present, but "m.y." for the duration of epochs. This ad hoc distinction between "absolute" time and time intervals is somewhat controversial amongst members of the Geological Society of America.
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Notes ===
+
+
+== Further reading ==
+Fraser, Julius Thomas (1987). Time, the Familiar Stranger. Time. The Familiar Stranger (illustrated ed.). Amherst: University of Massachusetts Press. Bibcode:1988tfs..book.....F. ISBN 978-0-87023-576-4. OCLC 15790499.
+Whitrow, Gerald James (2003). What is Time?. Oxford: Oxford University Press. ISBN 978-0-19-860781-6. OCLC 265440481.
+
+
+== External links ==
+
+Images of years
+

@@ -1,0 +1,146 @@
+####### TITLE #######
+
+Skeleton
+
+####### LINKS #######
+
+['American mastodon', 'Anatomical terminology', 'Ancient Greek', 'Ancient Greek language', 'Animal', 'Ant', 'Appendicular skeleton', 'Arachnid', 'Arthropod', 'Arthropod exoskeleton', 'Australian Museum', 'Axial skeleton', 'Barnacle', 'Bat', 'Beak', 'Bibcode (identifier)', 'Bird anatomy', 'Bivalve shell', 'Blood vessel', 'Bone', 'Bone marrow', 'Bonesetter', 'Caecilian', 'Calcareous', 'Calcite', 'Calcium', 'Calcium carbonate', 'Californian sea lion', 'Cartilage', 'Cervical vertebrae', 'Chitin', 'Chondrichthyes', 'Chondrocyte', 'Chordate', 'Cilia', 'Cnidarians', 'Collagen', 'Connective tissue', 'Crustaceans', 'Cuticle', 'Cytoskeleton', 'Demosponge', 'Diatom', 'Doi (identifier)', 'Earthworm', 'Ecdysis', 'Echinoderm', 'Egg tooth', 'Elastic cartilage', 'Embryonic development', 'Endochondral ossification', 'Endoskeleton', 'Endosteum', 'Epidermis', "Evidence as to Man's Place in Nature", 'Exoskeleton', 'Extracellular matrix', 'Exuviae', 'Femur', 'Fibrocartilage', 'Fish anatomy', 'Fish bone', 'Fish fin', 'Flagella', 'Flying and gliding animals', 'Foundational Model of Anatomy', 'Germ layer', 'Hexactinellida', 'Hip bone', 'Honeycomb (geometry)', 'Human heart', 'Human lung', 'Human pelvis', 'Human skeleton', 'Human skull', 'Humeral shaft', 'Hyaline cartilage', 'Hydroskeleton', 'Hydrostatic skeleton', 'Hydroxyapatite', 'Hyoid bone', 'ISBN (identifier)', 'ISSN (identifier)', 'Insect', 'Integument', 'Intramembranous ossification', 'Invertebrate', 'JSTOR (identifier)', 'Jaw', 'Jellyfish', 'Lamellipodia', 'Leonardo da Vinci', 'Ligament', 'Magnesium', 'Mammal', 'Manatee', 'Mantle (mollusc)', 'Marine mammal', 'Medical Subject Headings', 'Mesoderm', 'Mesoglea', 'Middle ear', 'Mineralized tissue', 'Mineralized tissues', 'Mollusc shell', 'Mollusca', 'Mollusk', 'Monocrystal', 'Moult', 'Muscle', 'Nerve', 'Organ (anatomy)', 'Organelle', 'Ossicles', 'Ossification', 'Osteichthyes', 'Osteoblast', 'Osteoclast', 'Osteocyte', 'Osteometric points', 'PMC (identifier)', 'PMID (identifier)', 'Paleozoic', 'Perception', 'Perichondrium', 'Periosteum', 'Pinnipeds', 'Polysaccharides', 'Porifera', 'Primate', 'Proteins', 'Proteoglycan', 'Radiolarian', 'Red blood cell', 'S2CID (identifier)', 'Sclerite', 'Sea cucumber', 'Sea urchin', 'Segmentation (biology)', 'Shark', 'Silica', 'Silicate', 'Silicious', 'Skeletal system of the horse', 'Skeleton (disambiguation)', 'Skeletonization', 'Snail', 'Snake', 'Soft-bodied organism', 'Southern giant clam', 'Spinal cord', 'Sponge', 'Sponge spicule', 'Spongin', 'Stapes', 'Starfish', 'Stereom', 'Stony coral', 'Stress (mechanics)', 'Stromal cell', 'Syrinx aruanus', 'Tendon', 'Terminologia Anatomica', 'Terrestrial animals', 'Thomas Huxley', 'Tongue', 'Turtle shell', 'University of Michigan Museum of Natural History', 'University of Texas at Austin', 'Vertebral column', 'Vertebrate', 'Vesicle (biology)', 'White blood cell', 'Wormian bone']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles with unsourced statements', 'Animal anatomy', 'Articles needing additional references from August 2021', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with TA98 identifiers', 'Articles with multiple identifiers', 'Articles with short description', 'Articles with unsourced statements from August 2021', 'Commons category link is on Wikidata', 'Harv and Sfn no-target errors', 'Short description matches Wikidata', 'Skeletons', 'Use dmy dates from October 2018', 'Wikipedia articles needing page number citations from August 2021']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/3/3e/Eptesicus_fuscus_skeleton.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Horse_and_Man.jpg', 'https://upload.wikimedia.org/wikipedia/commons/9/91/Huxley_-_Mans_Place_in_Nature.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d4/Hym-myrmicinae.gif', 'https://upload.wikimedia.org/wikipedia/commons/0/02/Leonardo_Skeleton_1511.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Wikibooks-logo-en-noslogan.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Zalophus_californianus_01.JPG', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg']
+
+####### REFERENCES #######
+
+['http://www.unifr.ch/ifaa/Public/EntryPage/TA98%20Tree/Entity%20TA98%20EN/02.0.00.000%20Entity%20TA98%20EN.htm', 'http://scholar.google.com/scholar?q=%22Skeleton%22', 'http://www.google.com/search?&q=%22Skeleton%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Skeleton%22', 'http://www.google.com/search?tbm=nws&q=%22Skeleton%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Skeleton%22+-wikipedia', 'http://www.livescience.com/22537-skeletal-system.html', 'http://umorf.ummp.lsa.umich.edu/wp/wp-content/3d/bonePicker.html?name=Buesching', 'http://pubmed.ncbi.nlm.nih.gov/11716022', 'http://pubmed.ncbi.nlm.nih.gov/13385244', 'http://pubmed.ncbi.nlm.nih.gov/20110992', 'http://pubmed.ncbi.nlm.nih.gov/20236981', 'http://pubmed.ncbi.nlm.nih.gov/20691853', 'http://pubmed.ncbi.nlm.nih.gov/22131042', 'http://pubmed.ncbi.nlm.nih.gov/22442361', 'http://pubmed.ncbi.nlm.nih.gov/23204918', 'http://pubmed.ncbi.nlm.nih.gov/32338826', 'http://pubmed.ncbi.nlm.nih.gov/33560370', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2851742', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2880151', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3077680', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3394116', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3611544', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007546130405171', 'http://doi.org/10.1007%2F978-3-030-11942-3_10', 'http://doi.org/10.1007%2F978-94-017-9398-8_8', 'http://doi.org/10.1007%2Fs005860100283', 'http://doi.org/10.1007%2Fs12565-011-0121-y', 'http://doi.org/10.1016%2FS0021-9258(18)65095-1', 'http://doi.org/10.1016%2FS0070-2153(10)90008-2', 'http://doi.org/10.1016%2FS1359-835X(02)00167-7', 'http://doi.org/10.1038%2Fnature08908', 'http://doi.org/10.1093%2Fsysbio%2Fsyab007', 'http://doi.org/10.1093%2Fzoolinnean%2Fzlx058', 'http://doi.org/10.1098%2Frspb.2010.0117', 'http://doi.org/10.1111%2Fbrv.12597', 'http://doi.org/10.1134%2FS0031030114140056', 'http://doi.org/10.1201%2F9781351189590-2', 'http://doi.org/10.1242%2Fjeb.056549', 'http://doi.org/10.2174%2F138920212800793302', 'http://doi.org/10.2307%2F1443520', 'http://eskeletons.org/', 'http://www.jstor.org/stable/1443520', 'http://tools.wmflabs.org/wikidata-externalid-url/?p=1323&url_prefix=https://www.unifr.ch/ifaa/Public/EntryPage/TA98%20Tree/Entity%20TA98%20EN/&url_suffix=%20Entity%20TA98%20EN.htm&id=A02.0.00.000', 'http://www.worldcat.org/issn/0022-0949', 'http://www.worldcat.org/issn/0024-4082', 'http://www.worldcat.org/issn/1359-835X', 'http://www.worldcat.org/issn/1432-0932', 'http://www.worldcat.org/issn/1447-073X', 'http://www.worldcat.org/issn/1476-4687', 'http://www.worldcat.org/issn/1555-6174', 'https://books.google.com/books?id=tJcwEAAAQBAJ&dq=Vertebrate+Skeletal+Histology+and+Paleohistology&pg=PT8', 'https://www.ingentaconnect.com/content/ben/cg/2012/00000013/00000004/art00004', 'https://www.merriam-webster.com/dictionary/sceleton', 'https://www.nationalgeographic.com/animals/article/why-animals-developed-four-types-of-skeletons', 'https://academic.oup.com/zoolinnean/article/182/3/695/4554339?login=true', 'https://www.sciencedirect.com/science/article/pii/B9780128096338907702', 'https://www.sciencedirect.com/science/article/pii/S1359835X02001677', 'https://www.taylorfrancis.com/chapters/edit/10.1201/9781351189590-2/overview-embryonic-development-bony-skeleton-vivian-de-buffr%C3%A9nil-alexandra-quilhac', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph121900&CON_LNG=ENG', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph121897&CON_LNG=ENG', 'https://ui.adsabs.harvard.edu/abs/2010Natur.463..485F', 'https://umorf.ummp.lsa.umich.edu/wp/mammutidae2/', 'https://catalogue.bnf.fr/ark:/12148/cb11942223c', 'https://data.bnf.fr/ark:/12148/cb11942223c', 'https://id.loc.gov/authorities/subjects/sh85123119', 'https://medlineplus.gov/ency/imagepages/19089.htm', 'https://meshb.nlm.nih.gov/record/ui?ui=D012863', 'https://d-nb.info/gnd/4133111-4', 'https://id.ndl.go.jp/auth/ndlna/00566284', 'https://archive.org/details/bodycompletehuma0000unse', 'https://archive.org/details/formation-structure-and-function-of-extra-skeletal-bones-in-mammals', 'https://archive.org/details/isbn_9780030259821', 'https://web.archive.org/web/20170307123921/http://www.livescience.com/22537-skeletal-system.html', 'https://bioportal.bioontology.org/ontologies/FMA/?p=classes&conceptid=http://purl.org/sig/ont/fma/fma2021', 'https://doi.org/10.1007/978-3-030-11942-3_10', 'https://doi.org/10.1007/978-94-017-9398-8_8', 'https://doi.org/10.1007/s005860100283', 'https://doi.org/10.1007/s12565-011-0121-y', 'https://doi.org/10.1093/sysbio/syab007', 'https://doi.org/10.1134/S0031030114140056', 'https://doi.org/10.1242/jeb.056549', 'https://www.jbc.org/action/showPdf?pii=S0021-9258(18)65095-1', 'https://www.jstor.org/action/doBasicSearch?Query=%22Skeleton%22&acc=on&wc=on', 'https://ta2viewer.openanatomy.org/?id=352', 'https://api.semanticscholar.org/CorpusID:109418804', 'https://api.semanticscholar.org/CorpusID:1177498', 'https://api.semanticscholar.org/CorpusID:216556342', 'https://api.semanticscholar.org/CorpusID:236422314', 'https://api.semanticscholar.org/CorpusID:41803725', 'https://api.semanticscholar.org/CorpusID:84336543', 'https://www.wikidata.org/wiki/Q7881#identifiers']
+
+####### SUMMARY #######
+
+A skeleton is the structural frame that supports the body of an animal. There are several types of skeletons, including the exoskeleton, which is the stable outer shell of an organism, the endoskeleton, which forms the support structure inside the body, and the hydroskeleton, a flexible internal skeleton supported by fluid pressure. Vertebrates are animals with a vertebral column, and their skeletons are typically composed of bone and cartilage. Invertebrates are animals that lack a vertebral column. The skeletons of invertebrates vary, including hard exoskeleton shells, plated endoskeletons, or spicules. Cartilage is a rigid connective tissue that is found in the skeletal systems of vertebrates and invertebrates.
+
+####### CONTENT #######
+
+A skeleton is the structural frame that supports the body of an animal. There are several types of skeletons, including the exoskeleton, which is the stable outer shell of an organism, the endoskeleton, which forms the support structure inside the body, and the hydroskeleton, a flexible internal skeleton supported by fluid pressure. Vertebrates are animals with a vertebral column, and their skeletons are typically composed of bone and cartilage. Invertebrates are animals that lack a vertebral column. The skeletons of invertebrates vary, including hard exoskeleton shells, plated endoskeletons, or spicules. Cartilage is a rigid connective tissue that is found in the skeletal systems of vertebrates and invertebrates.
+
+
+== Etymology ==
+The term skeleton comes from Ancient Greek  σκελετός (skeletós) 'dried up'. Sceleton is an archaic form of the word.
+
+
+== Classification ==
+Skeletons can be defined by several attributes. Solid skeletons consist of hard substances, such as bone, cartilage, or cuticle. These can be further divided by location; internal skeletons are endoskeletons, and external skeletons are exoskeletons. Skeletons may also be defined by rigidity, where pliant skeletons are more elastic than rigid skeletons. Fluid or hydrostatic skeletons do not have hard structure like solid skeletons, instead functioning via pressurized fluids. Hydrostatic skeletons are always internal.
+
+
+=== Exoskeletons ===
+
+Exoskeletons are external skeletons that cover the body of an animal, serving as armor to protect an animal from predators. Arthropods have exoskeletons that encase their bodies and have to undergo periodic moulting or ecdysis as the animal grows. The shells of molluscs are another form of exoskeleton. Exoskeletons provide a surface for the attachment of muscles, and specialized appendanges of the exoskeleton can assist with movement and defense. In arthropods, the exoskeleton also assists with sensory perception.An external skeleton can be quite heavy in relation to the overall mass of an animal, so on land, organisms that have an exoskeleton are mostly relatively small. Somewhat larger aquatic animals can support an exoskeleton because weight is less of a consideration underwater. The southern giant clam, a species of extremely large saltwater clam in the Pacific Ocean, has a shell that is massive in both size and weight. Syrinx aruanus is a species of sea snail with a very large shell.
+
+
+=== Endoskeletons ===
+
+Endoskeletons are the internal support structure of an animal, composed of mineralized tissues, such as the bone skeletons found in most vertebrates. Endoskeletons are highly specialized and vary significantly between animals. They vary in complexity from functioning purely for support (as in the case of sponges), to serving as an attachment site for muscles and a mechanism for transmitting muscular forces. A true endoskeleton is derived from mesodermal tissue. Endoskeletons occur in chordates, echinoderms, and sponges.
+
+
+=== Rigidity ===
+Pliant skeletons are capable of movement; thus, when stress is applied to the skeletal structure, it deforms and then regains its original shape. This skeletal structure is used in some invertebrates, for instance in the hinge of bivalve shells or the mesoglea of cnidarians such as jellyfish. Pliant skeletons are beneficial because only muscle contractions are needed to bend the skeleton; upon muscle relaxation, the skeleton will return to its original shape. Cartilage is one material that a pliant skeleton may be composed of, but most pliant skeletons are formed from a mixture of proteins, polysaccharides, and water. For additional structure or protection, pliant skeletons may be supported by rigid skeletons. Organisms that have pliant skeletons typically live in water, which supports body structure in the absence of a rigid skeleton.Rigid skeletons are not capable of movement when stressed, creating a strong support system most common in terrestrial animals. Such a skeleton type used by animals that live in water are more for protection (such as barnacle and snail shells) or for fast-moving animals that require additional support of musculature needed for swimming through water. Rigid skeletons are formed from materials including chitin (in arthropods), calcium compounds such as calcium carbonate (in stony corals and mollusks) and silicate (for diatoms and radiolarians).
+
+
+=== Hydrostatic skeletons ===
+
+Hydrostatic skeletons are flexible cavities within an animal that provide structure through fluid pressure, occurring in some types of soft-bodied organisms, including jellyfish, flatworms, nematodes, and earthworms. The walls of these cavities are made of muscle and connective tissue. In addition to providing structure for an animal's body, hydrostatic skeletons transmit the forces of muscle contraction, allowing an animal to move by alternating contractions and expansions of muscles along the animal's length.
+
+
+=== Cytoskeleton ===
+
+The cytoskeleton (cyto- meaning cell) is used to stabilize and preserve the form of the cells. It is a dynamic structure that maintains cell shape, protects the cell, enables cellular motion using structures such as flagella, cilia and lamellipodia, and transport within cells such as the movement of vesicles and organelles, and plays a role in cellular division. The cytoskeleton is not a skeleton in the sense that it provides the structural system for the body of an animal; rather, it serves a similar function at the cellular level.
+
+
+== Vertebrate skeletons ==
+
+In most vertebrates, the main skeletal component is bone. Bones compose a unique skeletal system for each type of animal. Another important component is cartilage which in mammals is found mainly in the joint areas. In other animals, such as the cartilaginous fishes, which include the sharks, the skeleton is composed entirely of cartilage. The segmental pattern of the skeleton is present in all vertebrates, with basic units being repeated, such as in the vertebral column and the ribcage.Bones are rigid organs that form part of the endoskeleton of vertebrates. They provide structural support for the body, assist in movement by opposing muscular contraction, and create a protective wall around internal organs. Bones are primarily made of inorganic minerals, such as hydroxyapatite, while the remainder is made of an organic matrix and water. The hollow tubular structure of bones provide considerable resistance against compression while staying lightweight. Most cells in bones are either osteoblasts, osteoclasts, or osteocytes.Bone tissue is a type of dense connective tissue. One of the types of tissue that makes up bone tissue is mineralized tissue and this gives it rigidity and a honeycomb-like three-dimensional internal structure. Bones also produce red and white blood cells and serve as calcium and phosphate storage at the cellular level. Other types of tissue found in bones include marrow, endosteum and periosteum, nerves, blood vessels and cartilage.
+During embryonic development, bones are developed individually from skeletogenic cells in the ectoderm and mesoderm. Most of these cells develop into separate bone, cartilage, and joint cells, and they are then articulated with one another. Specialized skeletal tissues are unique to vertebrates. Cartilage grows more quickly than bone, causing it to be more prominent earlier in an animal's life before it is overtaken by bone. Cartilage is also used in vertebrates to resist stress at points of articulation in the skeleton. Cartilage in vertebrates is usually encased in perichondrium tissue. Ligaments are elastic tissues that connect bones to other bones, and tendons are elastic tissues that connect muscles to bones.
+
+
+=== Amphibians and reptiles ===
+The skeletons of turtles have evolved to develop a shell from the ribcage, forming an exoskeleton. The skeletons of snakes and caecilians have significantly more vertebrae than other animals. Snakes often have over 300, compared to the 65 that is typical in lizards.
+
+
+=== Birds ===
+The skeletons of birds are adapted for flight. The bones in bird skeletons are hollow and lightweight to reduce the metabolic cost of flight. Several attributes of the shape and structure of the bones are optimized to endure the physical stress associated with flight, including a round and thin humeral shaft and the fusion of skeletal elements into single ossifications. Because of this, birds usually have a smaller number of bones than other terrestrial vertebrates. Birds also lack teeth or even a true jaw, instead having evolved a beak, which is far more lightweight. The beaks of many baby birds have a projection called an egg tooth, which facilitates their exit from the amniotic egg.
+
+
+=== Fish ===
+The skeleton, which forms the support structure inside the fish is either made of cartilage as in the Chondrichthyes, or bones as in the Osteichthyes. The main skeletal element is the vertebral column, composed of articulating vertebrae which are lightweight yet strong. The ribs attach to the spine and there are no limbs or limb girdles. They are supported only by the muscles. The main external features of the fish, the fins, are composed of either bony or soft spines called rays which, with the exception of the caudal fin (tail fin), have no direct connection with the spine. They are supported by the muscles which compose the main part of the trunk.
+Cartilaginous fish, such as sharks, rays, skates, and chimeras, have skeletons made entirely of cartilage. The lighter weight of cartilage allows these fish to expend less energy when swimming.
+
+
+=== Mammals ===
+
+
+==== Marine mammals ====
+
+To facilitate the movement of marine mammals in water, the hind legs were either lost altogether, as in the whales and manatees, or united in a single tail fin as in the pinnipeds (seals). In the whale, the cervical vertebrae are typically fused, an adaptation trading flexibility for stability during swimming.
+
+
+==== Humans ====
+
+The skeleton consists of both fused and individual bones supported and supplemented by ligaments, tendons, muscles and cartilage. It serves as a scaffold which supports organs, anchors muscles, and protects organs such as the brain, lungs, heart and spinal cord. The biggest bone in the body is the femur in the upper leg, and the smallest is the stapes bone in the middle ear. In an adult, the skeleton comprises around 13.1% of the total body weight, and half of this weight is water.
+Fused bones include those of the pelvis and the cranium. Not all bones are interconnected directly: There are three bones in each middle ear called the ossicles that articulate only with each other. The hyoid bone, which is located in the neck and serves as the point of attachment for the tongue, does not articulate with any other bones in the body, being supported by muscles and ligaments.
+There are 206 bones in the adult human skeleton, although this number depends on whether the pelvic bones (the hip bones on each side) are counted as one or three bones on each side (ilium, ischium, and pubis), whether the coccyx or tail bone is counted as one or four separate bones, and does not count the variable wormian bones between skull sutures. Similarly, the sacrum is usually counted as a single bone, rather than five fused vertebrae. There is also a variable number of small sesamoid bones, commonly found in tendons. The patella or kneecap on each side is an example of a larger sesamoid bone. The patellae are counted in the total, as they are constant. The number of bones varies between individuals and with age – newborn babies have over 270 bones some of which fuse together. These bones are organized into a longitudinal axis, the axial skeleton, to which the appendicular skeleton is attached.The human skeleton takes 20 years before it is fully developed, and the bones contain marrow, which produces blood cells.
+There exist several general differences between the male and female skeletons. The male skeleton, for example, is generally larger and heavier than the female skeleton. In the female skeleton, the bones of the skull are generally less angular. The female skeleton also has wider and shorter breastbone and slimmer wrists. There exist significant differences between the male and female pelvis which are related to the female's pregnancy and childbirth capabilities. The female pelvis is wider and shallower than the male pelvis. Female pelvises also have an enlarged pelvic outlet and a wider and more circular pelvic inlet. The angle between the pubic bones is known to be sharper in males, which results in a more circular, narrower, and near heart-shaped pelvis.
+
+
+== Invertebrate skeletons ==
+Invertebrates are defined by a lack of vertebral column, and they do not have bone skeletons. Arthropods have exoskeletons and echinoderms have endoskeletons. Some soft-bodied organisms, such as jellyfish and earthworms, have hydrostatic skeletons.
+
+
+=== Arthropods ===
+
+The skeletons of arthropods, including insects, crustaceanss, and arachnids, are cuticle exoskeletons. They are composed of chitin secreted by the epidermis. The cuticle covers the animal's body and lines several internal organs, including parts of the digestive system. Arthropods molt as they grow through a process of ecdysis, developing a new exoskeleton, digesting part of the previous skeleton, and leaving the remainder behind. An arthropod's skeleton serves many functions, working as an integument to provide a barrier and support the body, providing appendages for movement and defense, and assisting in sensory perception. Some arthropods, such as crustaceans, absorb biominerals like calcium carbonate from the environment to strengthen the cuticle.
+
+
+=== Echinoderms ===
+The skeletons of echinoderms, such as starfish and sea urchins, are endoskeletons that consist of large, well-developed sclerite plates that adjoin or overlap to cover the animal's body. The skeletons of sea cucumbers are an exception, having a reduced size to assist in feeding and movement. Echinoderm skeletons are composed of stereom, made up of calcite with a monocrystal structure. They also have a significant magnesium content, forming up to 15% of the skeleton's composition. The stereome structure is porous, and the pores fill with connective stromal tissue as the animal ages. Sea urchins have as many as ten variants of stereome structure. Among extant animals, such skeletons are unique to echinoderms, though similar skeletons were used by some Paleozoic animals. The skeletons of echinoderms are mesodermal, as they are mostly encased by soft tissue. Plates of the skeleton may be interlocked or connected through muscles and ligaments. Skeletal elements in echinoderms are highly specialized and take many forms, though they usually retain some form of symmetry. The spines of sea urchins are the largest type of echinoderm skeletal structure.
+
+
+=== Molluscs ===
+Some molluscs, such as conchs, scallops, and snails, have shells that serve as exoskeletons. They are produced by proteins and minerals secreted from the animal's mantle.
+
+
+=== Sponges ===
+The skeleton of sponges consists of microscopic calcareous or silicious spicules. The demosponges include 90% of all species of sponges. Their "skeletons" are made of spicules consisting of fibers of the protein spongin, the mineral silica, or both. Where spicules of silica are present, they have a different shape from those in the otherwise similar glass sponges.
+
+
+== Cartilage ==
+
+Cartilage is a connective skeletal tissue composed of specialized cells called chondrocytes that in an extracellular matrix. This matrix is typically composed of Type II collagen fibers, proteoglycans, and water. There are many types of cartilage, including elastic cartilage, hyaline cartilage, fibrocartilage, and lipohyaline cartilage. Unlike other connective tissues, cartilage does not contain blood vessels. The chondrocytes are supplied by diffusion, helped by the pumping action generated by compression of the articular cartilage or flexion of the elastic cartilage. Thus, compared to other connective tissues, cartilage grows and repairs more slowly.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+Balaban, Naomi (2008). The Handy Anatomy Answer Book. Visible Ink Press. ISBN 978-1-57859-190-9.
+Forbes, R. M.; Mitchell, H. H.; Cooper, A. R. (1956). "Further studies on the gross composition and mineral elements of the adult human body". Journal of Biological Chemistry. American Society for Biochemistry and Molecular Biology. 223 (2): 969–975. doi:10.1016/S0021-9258(18)65095-1. PMID 13385244.
+Mish, Frederick C., ed. (2003). Merriam-Webster's Collegiate Dictionary (11th ed.). Merriam-Webster. ISBN 978-0-87779-807-1.
+Nasoori, Alireza (2020). "Formation, structure, and function of extra‐skeletal bones in mammals". Biological Reviews. Cambridge Philosophical Society. 95 (4): 986–1019. doi:10.1111/brv.12597. PMID 32338826. S2CID 216556342.
+Pechenik, Jan A. (2015). Biology of the Invertebrates (7th ed.). McGraw-Hill Education. ISBN 978-0-07-352418-4.
+Reynolds, William W.; Karlotski, William J. (1977). "The Allometric Relationship of Skeleton Weight to Body Weight in Teleost Fishes: A Preliminary Comparison with Birds and Mammals". Copeia. American Society of Ichthyologists and Herpetologists. 1977 (1): 160–163. doi:10.2307/1443520. JSTOR 1443520.
+Ruppert, Edward E.; Fox, Richard S.; Barnes, Robert D. (2003). Invertebrate Zoology (7th ed.). Thomson, Brooks/Cole. ISBN 978-0-03-025982-1.
+Stein, Lisa (2007). Body: The Complete Human. National Geographic Society. ISBN 978-1-4262-0128-8.
+Tözeren, Aydın (2000). Human Body Dynamics: Classical Mechanics and Human Movement. Springer. ISBN 0-387-98801-7.
+
+
+== External links ==
+ Media related to Skeletons at Wikimedia Commons
+
+3-D Viewer of a male American mastodon skeleton, with bones labelled, at the University of Michigan Mammutidae digital fossil repository
+Interactive views of various primate skeletons at eSkeletons.org (associated with the University of Texas at Austin)
+

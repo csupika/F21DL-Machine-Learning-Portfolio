@@ -1,0 +1,2085 @@
+####### TITLE #######
+
+Circle
+
+####### LINKS #######
+
+['360 degrees', '360 degrees (disambiguation)', '360°', 'Affine geometry', 'Affine sphere', 'Ahmes', 'Algebraic geometry', 'Algebraic number', 'Alhazen', 'Altitude (triangle)', 'Ambient isotopy', 'Analytic geometry', 'Angle', 'Angle bisector theorem', 'Annulus (mathematics)', 'Apeirogon', 'Apollonian circles', 'Apollonius of Perga', 'ArXiv (identifier)', 'Arabic', 'Arc (geometry)', 'Archimedean circle', 'Archimedes', "Archimedes' twin circles", 'Area', 'Area (geometry)', 'Area of a circle', 'Area of a disk', 'Arithmetic geometry', 'Arthur Koestler', 'Aryabhata', 'Astrology and astronomy', 'Astronomical', 'Astronomy', 'Bankoff circle', 'Baudhayana', 'Before Common Era', 'Bernhard Riemann', 'Bibcode (identifier)', 'Bicentric polygon', 'Bisection', 'Blaise Pascal', 'Brahmagupta', 'Brocard circle', 'C. Stanley Ogilvy', 'Calculus', 'Calculus of variations', 'Carl Friedrich Gauss', 'Carlyle circle', 'Cartesian coordinate system', 'Cartesian oval', 'Cassini oval', 'Central angle', 'Centre (geometry)', 'Chebyshev distance', 'Chord (geometry)', 'Chromatic circle', 'Circle (disambiguation)', 'Circle fitting', 'Circle group', 'Circle of antisimilitude', 'Circles of Apollonius', 'Circular points at infinity', 'Circular sector', 'Circular segment', 'Circumcircle', 'Circumference', 'Circumscribe', 'Circus', 'Classical antiquity', 'College Mathematics Journal', 'Collinear', 'Compass-and-straightedge construction', 'Compass (drafting)', 'Compass (drawing tool)', 'Compass and straightedge', 'Complex geometry', 'Complex plane', 'Complex projective plane', 'Computational geometry', 'Concentric', 'Congruence (geometry)', 'Conic section', 'Connected space', 'Constant (mathematics)', 'Convex geometry', 'Convex polygon', 'Coordinate system', 'Coplanar', 'Creation myth', 'Cross-ratio', 'Cube', 'Cuboid', 'Curve', 'Curve of constant width', 'Cut-the-knot', 'Cyclic polygon', 'Cyclic quadrilateral', 'Cylinder (geometry)', 'David Hilbert', 'Degeneracy (mathematics)', 'Degree (angle)', 'Dharmachakra', 'Diagonal', 'Diameter', 'Differential geometry', 'Digital geometry', 'Dimension', 'Diophantine geometry', 'Director circle', 'Directrix circle', 'Discrete differential geometry', 'Discrete geometry', 'Disk (mathematics)', 'Doi (identifier)', 'Eccentricity (mathematics)', 'Eight-point circle', 'Ellipse', 'Elliptic geometry', 'Encyclopedia of Mathematics', 'Encyclopædia Britannica Eleventh Edition', 'Equation', 'Equilateral triangle', 'Eric W. Weisstein', 'Euclid', "Euclid's Elements", 'Euclidean geometry', 'Euclidean metric', 'Euclidean space', 'European Mathematical Society', 'Excircle', 'Exterior angle', 'Felix Klein', 'Ferdinand von Lindemann', 'Finite geometry', 'Focus (geometry)', 'Ford circle', 'Four-dimensional space', 'Fractal', 'Gear', 'Generalised circle', 'Geodesic circle', 'Geometers', 'Geometry', 'Great circle', 'Greek language', 'Halo (religious iconography)', 'Harold Scott MacDonald Coxeter', 'Henri Poincaré', 'Hermann Minkowski', 'History of geometry', 'History of science in the Middle Ages', 'Homeomorphism', 'Homeric Greek', 'Homogeneous coordinates', 'Hyperbolic geometry', 'Hypersphere', 'Hypocycloid', 'Hypotenuse', 'ISBN (identifier)', 'Ibn al-Yasamin', 'Implicit differentiation', 'Incidence geometry', 'Incircle', 'Incircle and excircles of a triangle', 'Inscribed angle', 'Inscribed angle theorem', 'Inscribed circle', 'Interior angle', 'Intersecting chords theorem', 'Inversion in a circle', 'Irrational number', 'Isoperimetric inequality', 'Johnson circles', 'Jyeṣṭhadeva', 'János Bolyai', 'Kite (geometry)', 'Kātyāyana', 'Lemoine circle', 'Length', 'Lens (geometry)', 'Leonhard Euler', 'Lester circle', 'Limiting case (mathematics)', 'Lindemann–Weierstrass theorem', 'Line (geometry)', 'Line segment', 'Line–circle intersection', 'List of circle topics', 'List of geometers', 'List of geometry topics', 'List of planar symmetry groups', 'Locus (mathematics)', 'Lp space', 'Magic circle', 'Malfatti circles', 'Manava', 'Mandart circle', 'MathWorld', 'Mathematical constant', 'Measurement of a Circle', 'Metathesis (linguistics)', 'Michael Atiyah', 'Midpoint', 'Mikhail Leonidovich Gromov', 'Minggatu', 'Nasir al-Din al-Tusi', 'Nikolai Lobachevsky', 'Nine-point circle', 'Non-Archimedean geometry', 'Non-Euclidean geometry', 'Noncommutative algebraic geometry', 'Noncommutative geometry', 'OL (identifier)', 'Omar Khayyám', 'One-dimensional space', 'Orthocentroidal circle', 'Orthogonal group', 'Orthogonality', 'Oswald Veblen', 'Outline of geometry', 'P-norm', 'Parallel (geometry)', 'Parallelogram', 'Parameshvara', 'Parametric equation', 'Parametric variable', 'Parry circle', 'Perimeter', 'Perpendicular', 'Perpendicular bisector', 'Pi', 'Plane (geometry)', 'Plane (mathematics)', 'PlanetMath', 'Plato', 'Point (geometry)', 'Polar circle (geometry)', 'Polar coordinates', 'Polygon', 'Polynomial', 'Power of a point', 'Proclus', 'Projective geometry', 'Proportionality (mathematics)', 'Pseudomath', 'Pyramid (geometry)', 'Pythagoras', 'Pythagorean theorem', 'Quadrilateral', 'Radius', 'Rational number', 'Real coordinate space', 'Rectangle', 'Reflection symmetry', 'Region (mathematics)', 'Regular pentagon', 'Regular polygon', 'René Descartes', 'Rhind papyrus', 'Rhomboid', 'Rhombus', 'Riemannian circle', 'Riemannian geometry', 'Right angle', 'Root of a function', 'Rotational symmetry', 'S2CID (identifier)', 'Sagitta (geometry)', 'Sakabe Kōhan', 'Schoch circles', 'Science', 'Secant line', 'Semi-major and semi-minor axes', 'Semicircle', 'Seventh Letter', 'Shape', 'Sijzi', 'Similarity (geometry)', 'Simple polygon', 'Sphere', 'Spherical geometry', 'Spieker circle', 'Square', 'Squaring the circle', 'Stereographic projection', 'Straightedge and compass construction', 'Superellipse', 'Supplementary angles', 'Symmetry', 'Symmetry group', 'Symplectic geometry', 'Synthetic geometry', 'Tangent', 'Tangent half-angle substitution', 'Tangent line', 'Tangent lines to circles', 'Tangential polygon', 'Tangential quadrilateral', 'Taxicab geometry', 'Tesseract', "Thales' theorem", 'The Sleepwalkers (Koestler book)', 'Three-dimensional space', 'Three points determine a circle', 'Topology', 'Transcendental number', 'Translation of axes', 'Trapezoid', 'Triangle', 'Trigonometric function', 'Tughrul Tower', 'Two-dimensional space', 'Unit circle', 'Unit sphere', 'Van Lamoen circle', 'Versine', 'Vertex (geometry)', 'Villarceau circles', 'Virasena', 'Volume', 'Von Neumann neighborhood', 'Wayback Machine', 'Weighted sum', 'Wheel', 'Wikimedia Commons', 'Wikisource', 'Woo circles', 'Yang Hui', 'Yasuaki Aida', 'Zero-dimensional space', 'Zhang Heng', 'Élie Cartan']
+
+####### CATEGORIES #######
+
+['Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with LNB identifiers', 'Articles with NKC identifiers', 'Articles with Open Library links', 'Articles with short description', 'CS1 maint: DOI inactive as of July 2022', 'Circles', 'Conic sections', 'Elementary shapes', 'Pi', 'Short description matches Wikidata', 'Use British English from September 2016', 'Webarchive template wayback links', 'Wikipedia indefinitely semi-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/2/2a/Apollonius_circle_definition_labels.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/b2/CIRCLE_LINES-en.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/b2/CIRCLE_LINES-en.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/03/Circle-withsegments.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Circle_Area.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3c/Circle_Sagitta.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/83/Circle_center_a_b_radius_r.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/12/Circle_slices-en.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/12/Circle_slices-en.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Circunferencia_10.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4d/God_the_Geometer.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/37/IlkhanateSilkCircular.jpg', 'https://upload.wikimedia.org/wikipedia/commons/8/87/Inscribed_angle_theorem.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/50/Secant-Secant_Theorem.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/95/Shatir500.jpg', 'https://upload.wikimedia.org/wikipedia/commons/8/88/Stereographic_projection_in_3D.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Toghrol_Tower_looking_up.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d4/Vector-p-Norms_qtl1.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg']
+
+####### REFERENCES #######
+
+['http://www.mathopenref.com/tocs/circlestoc.html', 'http://www.mathwarehouse.com/geometry/circle/interactive-circle-equation.php', 'http://mathworld.wolfram.com/Circumcircle.html', 'http://mathworld.wolfram.com/Incircle.html', 'http://mathworld.wolfram.com/TangentialPolygon.html', 'http://dlxs2.library.cornell.edu/cgi/t/text/text-idx?c=math;idno=01680002', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007286430105171', 'http://arxiv.org/abs/2010.12340', 'http://www.cut-the-knot.org/pythagoras/Munching/circle.shtml', 'http://doi.org/10.1038%2F059386a0', 'http://doi.org/10.1080%2F00029890.2003.11919989', 'http://doi.org/10.26713%2Fcma.v11i3.1420', 'http://openlibrary.org/books/OL7227282M', 'http://www-history.mcs.st-andrews.ac.uk/history/Chronology/30000BC_500BC.html#1700BC', 'http://www-history.mcs.st-andrews.ac.uk/history/Curves/Circle.html', 'http://www-history.mcs.st-andrews.ac.uk/history/HistTopics/Squaring_the_circle.html', 'https://books.google.com/books?id=E1HYAAAAMAAJ', 'https://www.rgnpublications.com/journals/index.php/cma/article/view/1420/1065', 'https://mathworld.wolfram.com/Circle.html', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph121971&CON_LNG=ENG', 'https://ui.adsabs.harvard.edu/abs/1899Natur..59..386B', 'https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry%3Dkri/kos', 'https://id.loc.gov/authorities/subjects/sh85026057', 'https://d-nb.info/gnd/4032962-8', 'https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000321923&P_CON_LNG=ENG', 'https://archive.org/details/geometrycomprehe0000pedo', 'https://archive.org/details/historyofmathema00katz/page/108', 'https://archive.org/details/introductiontoto00game', 'https://web.archive.org/web/20080322085509/http://www-history.mcs.st-andrews.ac.uk/history/Chronology/30000BC_500BC.html', 'https://web.archive.org/web/20080624144640/http://www-history.mcs.st-andrews.ac.uk/history/HistTopics/Squaring_the_circle.html', 'https://web.archive.org/web/20081007134238/http://dlxs2.library.cornell.edu/cgi/t/text/text-idx?c=math;idno=01680002', 'https://web.archive.org/web/20120120120814/http://mathworld.wolfram.com/Circumcircle.html', 'https://web.archive.org/web/20120121111333/http://mathworld.wolfram.com/Incircle.html', 'https://web.archive.org/web/20130903051014/http://mathworld.wolfram.com/TangentialPolygon.html', 'https://web.archive.org/web/20131106164504/http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry%3Dkri/kos', 'https://web.archive.org/web/20170123072440/https://books.google.com/books?id=E1HYAAAAMAAJ', 'https://www.encyclopediaofmath.org/index.php?title=Circle', 'https://planetmath.org/circle', 'https://api.semanticscholar.org/CorpusID:12641658', 'https://api.semanticscholar.org/CorpusID:4030420', 'https://www.wikidata.org/wiki/Q17278#identifiers']
+
+####### SUMMARY #######
+
+A circle is a shape consisting of all points in a plane that are at a given distance from a given point, the centre. Equivalently, it is the curve traced out by a point that moves in a plane so that its distance from a given point is constant. The distance between any point of the circle and the centre is called the radius. Usually, the radius is required to be a positive number. A circle with 
+  
+    
+      
+        r
+        =
+        0
+      
+    
+    {\displaystyle r=0}
+   is a degenerate case. This article is about circles in Euclidean geometry, and, in particular, the Euclidean plane, except where otherwise noted.
+Specifically, a circle is a simple closed curve that divides the plane into two regions: an interior and an exterior. In everyday use, the term "circle" may be used interchangeably to refer to either the boundary of the figure, or to the whole figure including its interior; in strict technical usage, the circle is only the boundary and the whole figure is called a disc.
+A circle may also be defined as a special kind of ellipse in which the two foci are coincident, the eccentricity is 0, and the semi-major and semi-minor axes are equal; or the two-dimensional shape enclosing the most area per unit perimeter squared, using calculus of variations.
+
+####### CONTENT #######
+
+A circle is a shape consisting of all points in a plane that are at a given distance from a given point, the centre. Equivalently, it is the curve traced out by a point that moves in a plane so that its distance from a given point is constant. The distance between any point of the circle and the centre is called the radius. Usually, the radius is required to be a positive number. A circle with 
+  
+    
+      
+        r
+        =
+        0
+      
+    
+    {\displaystyle r=0}
+   is a degenerate case. This article is about circles in Euclidean geometry, and, in particular, the Euclidean plane, except where otherwise noted.
+Specifically, a circle is a simple closed curve that divides the plane into two regions: an interior and an exterior. In everyday use, the term "circle" may be used interchangeably to refer to either the boundary of the figure, or to the whole figure including its interior; in strict technical usage, the circle is only the boundary and the whole figure is called a disc.
+A circle may also be defined as a special kind of ellipse in which the two foci are coincident, the eccentricity is 0, and the semi-major and semi-minor axes are equal; or the two-dimensional shape enclosing the most area per unit perimeter squared, using calculus of variations.
+
+
+== Euclid's definition ==
+A circle is a plane figure bounded by one curved line, and such that all straight lines drawn from a certain point within it to the bounding line, are equal. The bounding line is called its circumference and the point, its centre.
+
+
+== Topological definition ==
+In the field of topology, a circle is not limited to the geometric concept, but to all of its homeomorphisms. Two topological circles are equivalent if one can be transformed into the other via a deformation of R3 upon itself (known as an ambient isotopy).
+
+
+== Terminology ==
+Annulus: a ring-shaped object, the region bounded by two concentric circles.
+Arc: any connected part of a circle. Specifying two end points of an arc and a center allows for two arcs that together make up a full circle.
+Centre: the point equidistant from all points on the circle.
+Chord: a line segment whose endpoints lie on the circle, thus dividing a circle into two segments.
+Circumference: the length of one circuit along the circle, or the distance around the circle.
+Diameter: a line segment whose endpoints lie on the circle and that passes through the centre; or the length of such a line segment. This is the largest distance between any two points on the circle. It is a special case of a chord, namely the longest chord for a given circle, and its length is twice the length of a radius.
+Disc: the region of the plane bounded by a circle.
+Lens: the region common to (the intersection of) two overlapping discs.
+Passant: a coplanar straight line that has no point in common with the circle.
+Radius: a line segment joining the centre of a circle with any single point on the circle itself; or the length of such a segment, which is half (the length of) a diameter.
+Sector: a region bounded by two radii of equal length with a common center and either of the two possible arcs, determined by this center and the endpoints of the radii.
+Segment: a region bounded by a chord and one of the arcs connecting the chord's endpoints. The length of the chord imposes a lower boundary on the diameter of possible arcs. Sometimes the term segment is used only for regions not containing the center of the circle to which their arc belongs to.
+Secant: an extended chord, a coplanar straight line, intersecting a circle in two points.
+Semicircle: one of the two possible arcs determined by the endpoints of a diameter, taking its midpoint as center. In non-technical common usage it may mean the interior of the  two dimensional region bounded by a diameter and one of its arcs, that is technically called a half-disc. A half-disc is a special case of a segment, namely the largest one.
+Tangent: a coplanar straight line that has one single point in common with a circle ("touches the circle at this point").All of the specified regions may be considered as open, that is, not containing their boundaries, or as closed, including their respective boundaries.
+
+
+== History ==
+
+The word circle derives from the Greek κίρκος/κύκλος (kirkos/kuklos), itself a metathesis of the Homeric Greek κρίκος (krikos), meaning "hoop" or "ring". The origins of the words circus and circuit are closely related.
+
+ 
+The circle has been known since before the beginning of recorded history. Natural circles would have been observed, such as the Moon, Sun, and a short plant stalk blowing in the wind on sand, which forms a circle shape in the sand. The circle is the basis for the wheel, which, with related inventions such as gears, makes much of modern machinery possible. In mathematics, the study of the circle has helped inspire the development of geometry, astronomy and calculus.
+Early science, particularly geometry and astrology and astronomy, was connected to the divine for most medieval scholars, and many believed that there was something intrinsically "divine" or "perfect" that could be found in circles.Some highlights in the history of the circle are:
+
+1700 BCE – The Rhind papyrus gives a method to find the area of a circular field. The result corresponds to 256/81 (3.16049...) as an approximate value of π.
+300 BCE – Book 3 of Euclid's Elements deals with the properties of circles.
+In Plato's Seventh Letter there is a detailed definition and explanation of the circle. Plato explains the perfect circle, and how it is different from any drawing, words, definition or explanation.
+1880 CE – Lindemann proves that π is transcendental, effectively settling the millennia-old problem of squaring the circle.
+
+
+== Analytic results ==
+
+
+=== Circumference ===
+
+The ratio of a circle's circumference to its diameter is π (pi), an irrational constant approximately equal to 3.141592654. Thus the circumference C is related to the radius r and diameter d by:
+
+  
+    
+      
+        C
+        =
+        2
+        π
+        r
+        =
+        π
+        d
+        .
+        
+      
+    
+    {\displaystyle C=2\pi r=\pi d.\,}
+  
+
+
+=== Area enclosed ===
+
+As proved by Archimedes, in his Measurement of a Circle, the area enclosed by a circle is equal to that of a triangle whose base has the length of the circle's circumference and whose height equals the circle's radius, which comes to π multiplied by the radius squared:
+
+  
+    
+      
+        
+          A
+          r
+          e
+          a
+        
+        =
+        π
+        
+          r
+          
+            2
+          
+        
+        .
+        
+      
+    
+    {\displaystyle \mathrm {Area} =\pi r^{2}.\,}
+  Equivalently, denoting diameter by d,
+
+  
+    
+      
+        
+          A
+          r
+          e
+          a
+        
+        =
+        
+          
+            
+              π
+              
+                d
+                
+                  2
+                
+              
+            
+            4
+          
+        
+        ≈
+        0
+        
+          .
+        
+        7854
+        
+          d
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathrm {Area} ={\frac {\pi d^{2}}{4}}\approx 0{.}7854d^{2},}
+  that is, approximately 79% of the circumscribing square (whose side is of length d).
+The circle is the plane curve enclosing the maximum area for a given arc length. This relates the circle to a problem in the calculus of variations, namely the isoperimetric inequality.
+
+
+=== Equations ===
+
+
+==== Cartesian coordinates ====
+
+Equation of a circleIn an x–y Cartesian coordinate system, the circle with centre coordinates (a, b) and radius r is the set of all points (x, y) such that
+
+  
+    
+      
+        (
+        x
+        −
+        a
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        y
+        −
+        b
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          r
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle (x-a)^{2}+(y-b)^{2}=r^{2}.}
+  This equation, known as the equation of the circle, follows from the Pythagorean theorem applied to any point on the circle: as shown in the adjacent diagram, the radius is the hypotenuse of a right-angled triangle whose other sides are of length |x − a| and |y − b|. If the circle is centred at the origin (0, 0), then the equation simplifies to
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        
+          r
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle x^{2}+y^{2}=r^{2}.}
+  Parametric formThe equation can be written in parametric form using the trigonometric functions sine and cosine as
+
+  
+    
+      
+        x
+        =
+        a
+        +
+        r
+        
+        cos
+        ⁡
+        t
+        ,
+      
+    
+    {\displaystyle x=a+r\,\cos t,}
+  
+
+  
+    
+      
+        y
+        =
+        b
+        +
+        r
+        
+        sin
+        ⁡
+        t
+        ,
+      
+    
+    {\displaystyle y=b+r\,\sin t,}
+  where t is a parametric variable in the range 0 to 2π, interpreted geometrically as the angle that the ray from (a, b) to (x, y) makes with the positive x axis.
+An alternative parametrisation of the circle is
+
+  
+    
+      
+        x
+        =
+        a
+        +
+        r
+        
+          
+            
+              1
+              −
+              
+                t
+                
+                  2
+                
+              
+            
+            
+              1
+              +
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle x=a+r{\frac {1-t^{2}}{1+t^{2}}},}
+  
+
+  
+    
+      
+        y
+        =
+        b
+        +
+        r
+        
+          
+            
+              2
+              t
+            
+            
+              1
+              +
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle y=b+r{\frac {2t}{1+t^{2}}}.}
+  In this parameterisation, the ratio of t to r can be interpreted geometrically as the stereographic projection of the line passing through the centre parallel to the x axis (see Tangent half-angle substitution). However, this parameterisation works only if t is made to range not only through all reals but also to a point at infinity; otherwise, the leftmost point of the circle would be omitted.
+
+3-point formThe equation of the circle determined by three points 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            1
+          
+        
+        )
+        ,
+        (
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          y
+          
+            2
+          
+        
+        )
+        ,
+        (
+        
+          x
+          
+            3
+          
+        
+        ,
+        
+          y
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{1},y_{1}),(x_{2},y_{2}),(x_{3},y_{3})}
+   not on a line is obtained by a conversion of the 3-point form of a circle equation:
+
+  
+    
+      
+        
+          
+            
+              (
+              
+                
+                  x
+                
+              
+              −
+              
+                x
+                
+                  1
+                
+              
+              )
+              (
+              
+                
+                  x
+                
+              
+              −
+              
+                x
+                
+                  2
+                
+              
+              )
+              +
+              (
+              
+                
+                  y
+                
+              
+              −
+              
+                y
+                
+                  1
+                
+              
+              )
+              (
+              
+                
+                  y
+                
+              
+              −
+              
+                y
+                
+                  2
+                
+              
+              )
+            
+            
+              (
+              
+                
+                  y
+                
+              
+              −
+              
+                y
+                
+                  1
+                
+              
+              )
+              (
+              
+                
+                  x
+                
+              
+              −
+              
+                x
+                
+                  2
+                
+              
+              )
+              −
+              (
+              
+                
+                  y
+                
+              
+              −
+              
+                y
+                
+                  2
+                
+              
+              )
+              (
+              
+                
+                  x
+                
+              
+              −
+              
+                x
+                
+                  1
+                
+              
+              )
+            
+          
+        
+        =
+        
+          
+            
+              (
+              
+                x
+                
+                  3
+                
+              
+              −
+              
+                x
+                
+                  1
+                
+              
+              )
+              (
+              
+                x
+                
+                  3
+                
+              
+              −
+              
+                x
+                
+                  2
+                
+              
+              )
+              +
+              (
+              
+                y
+                
+                  3
+                
+              
+              −
+              
+                y
+                
+                  1
+                
+              
+              )
+              (
+              
+                y
+                
+                  3
+                
+              
+              −
+              
+                y
+                
+                  2
+                
+              
+              )
+            
+            
+              (
+              
+                y
+                
+                  3
+                
+              
+              −
+              
+                y
+                
+                  1
+                
+              
+              )
+              (
+              
+                x
+                
+                  3
+                
+              
+              −
+              
+                x
+                
+                  2
+                
+              
+              )
+              −
+              (
+              
+                y
+                
+                  3
+                
+              
+              −
+              
+                y
+                
+                  2
+                
+              
+              )
+              (
+              
+                x
+                
+                  3
+                
+              
+              −
+              
+                x
+                
+                  1
+                
+              
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {({\color {green}x}-x_{1})({\color {green}x}-x_{2})+({\color {red}y}-y_{1})({\color {red}y}-y_{2})}{({\color {red}y}-y_{1})({\color {green}x}-x_{2})-({\color {red}y}-y_{2})({\color {green}x}-x_{1})}}={\frac {(x_{3}-x_{1})(x_{3}-x_{2})+(y_{3}-y_{1})(y_{3}-y_{2})}{(y_{3}-y_{1})(x_{3}-x_{2})-(y_{3}-y_{2})(x_{3}-x_{1})}}.}
+  Homogeneous formIn homogeneous coordinates, each conic section with the equation of a circle has the form
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        2
+        a
+        x
+        z
+        −
+        2
+        b
+        y
+        z
+        +
+        c
+        
+          z
+          
+            2
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle x^{2}+y^{2}-2axz-2byz+cz^{2}=0.}
+  It can be proven that a conic section is a circle exactly when it contains (when extended to the complex projective plane) the points I(1: i: 0) and J(1: −i: 0). These points are called the circular points at infinity.
+
+
+==== Polar coordinates ====
+In polar coordinates, the equation of a circle is
+
+  
+    
+      
+        
+          r
+          
+            2
+          
+        
+        −
+        2
+        r
+        
+          r
+          
+            0
+          
+        
+        cos
+        ⁡
+        (
+        θ
+        −
+        ϕ
+        )
+        +
+        
+          r
+          
+            0
+          
+          
+            2
+          
+        
+        =
+        
+          a
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle r^{2}-2rr_{0}\cos(\theta -\phi )+r_{0}^{2}=a^{2},}
+  where a is the radius of the circle, 
+  
+    
+      
+        (
+        r
+        ,
+        θ
+        )
+      
+    
+    {\displaystyle (r,\theta )}
+   are the polar coordinates of a generic point on the circle, and 
+  
+    
+      
+        (
+        
+          r
+          
+            0
+          
+        
+        ,
+        ϕ
+        )
+      
+    
+    {\displaystyle (r_{0},\phi )}
+   are the polar coordinates of the centre of the circle (i.e., r0 is the distance from the origin to the centre of the circle, and φ is the anticlockwise angle from the positive x axis to the line connecting the origin to the centre of the circle). For a circle centred on the origin, i.e. r0 = 0, this reduces to simply r = a. When r0 = a, or when the origin lies on the circle, the equation becomes
+
+  
+    
+      
+        r
+        =
+        2
+        a
+        cos
+        ⁡
+        (
+        θ
+        −
+        ϕ
+        )
+        .
+      
+    
+    {\displaystyle r=2a\cos(\theta -\phi ).}
+  In the general case, the equation can be solved for r, giving
+
+  
+    
+      
+        r
+        =
+        
+          r
+          
+            0
+          
+        
+        cos
+        ⁡
+        (
+        θ
+        −
+        ϕ
+        )
+        ±
+        
+          
+            
+              a
+              
+                2
+              
+            
+            −
+            
+              r
+              
+                0
+              
+              
+                2
+              
+            
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            (
+            θ
+            −
+            ϕ
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle r=r_{0}\cos(\theta -\phi )\pm {\sqrt {a^{2}-r_{0}^{2}\sin ^{2}(\theta -\phi )}}.}
+  Note that without the ± sign, the equation would in some cases describe only half a circle.
+
+
+==== Complex plane ====
+In the complex plane, a circle with a centre at c and radius r has the equation
+
+  
+    
+      
+        
+          |
+        
+        z
+        −
+        c
+        
+          |
+        
+        =
+        r
+        .
+      
+    
+    {\displaystyle |z-c|=r.}
+  In parametric form, this can be written as
+
+  
+    
+      
+        z
+        =
+        r
+        
+          e
+          
+            i
+            t
+          
+        
+        +
+        c
+        .
+      
+    
+    {\displaystyle z=re^{it}+c.}
+  The slightly generalised equation
+
+  
+    
+      
+        p
+        z
+        
+          
+            z
+            ¯
+          
+        
+        +
+        g
+        z
+        +
+        
+          
+            
+              g
+              z
+            
+            ¯
+          
+        
+        =
+        q
+      
+    
+    {\displaystyle pz{\overline {z}}+gz+{\overline {gz}}=q}
+  for real p, q and complex g is sometimes called a generalised circle. This becomes the above equation for a circle with 
+  
+    
+      
+        p
+        =
+        1
+        ,
+         
+        g
+        =
+        −
+        
+          
+            c
+            ¯
+          
+        
+        ,
+         
+        q
+        =
+        
+          r
+          
+            2
+          
+        
+        −
+        
+          |
+        
+        c
+        
+          
+            |
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle p=1,\ g=-{\overline {c}},\ q=r^{2}-|c|^{2}}
+  , since 
+  
+    
+      
+        
+          |
+        
+        z
+        −
+        c
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        z
+        
+          
+            z
+            ¯
+          
+        
+        −
+        
+          
+            c
+            ¯
+          
+        
+        z
+        −
+        c
+        
+          
+            z
+            ¯
+          
+        
+        +
+        c
+        
+          
+            c
+            ¯
+          
+        
+      
+    
+    {\displaystyle |z-c|^{2}=z{\overline {z}}-{\overline {c}}z-c{\overline {z}}+c{\overline {c}}}
+  . Not all generalised circles are actually circles: a generalised circle is either a (true) circle or a line.
+
+
+=== Tangent lines ===
+
+The tangent line through a point P on the circle is perpendicular to the diameter passing through P. If P = (x1, y1) and the circle has centre (a, b) and radius r, then the tangent line is perpendicular to the line from (a, b) to (x1, y1), so it has the form (x1 − a)x + (y1 – b)y = c. Evaluating at (x1, y1) determines the value of c, and the result is that the equation of the tangent is
+
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        −
+        a
+        )
+        x
+        +
+        (
+        
+          y
+          
+            1
+          
+        
+        −
+        b
+        )
+        y
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        −
+        a
+        )
+        
+          x
+          
+            1
+          
+        
+        +
+        (
+        
+          y
+          
+            1
+          
+        
+        −
+        b
+        )
+        
+          y
+          
+            1
+          
+        
+        ,
+      
+    
+    {\displaystyle (x_{1}-a)x+(y_{1}-b)y=(x_{1}-a)x_{1}+(y_{1}-b)y_{1},}
+  or
+
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        −
+        a
+        )
+        (
+        x
+        −
+        a
+        )
+        +
+        (
+        
+          y
+          
+            1
+          
+        
+        −
+        b
+        )
+        (
+        y
+        −
+        b
+        )
+        =
+        
+          r
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle (x_{1}-a)(x-a)+(y_{1}-b)(y-b)=r^{2}.}
+  If y1 ≠ b, then the slope of this line is
+
+  
+    
+      
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        −
+        
+          
+            
+              
+                x
+                
+                  1
+                
+              
+              −
+              a
+            
+            
+              
+                y
+                
+                  1
+                
+              
+              −
+              b
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {dy}{dx}}=-{\frac {x_{1}-a}{y_{1}-b}}.}
+  This can also be found using implicit differentiation.
+When the centre of the circle is at the origin, then the equation of the tangent line becomes
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        x
+        +
+        
+          y
+          
+            1
+          
+        
+        y
+        =
+        
+          r
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle x_{1}x+y_{1}y=r^{2},}
+  and its slope is
+
+  
+    
+      
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        −
+        
+          
+            
+              x
+              
+                1
+              
+            
+            
+              y
+              
+                1
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {dy}{dx}}=-{\frac {x_{1}}{y_{1}}}.}
+  
+
+
+== Properties ==
+The circle is the shape with the largest area for a given length of perimeter (see Isoperimetric inequality).
+The circle is a highly symmetric shape: every line through the centre forms a line of reflection symmetry, and it has rotational symmetry around the centre for every angle. Its symmetry group is the orthogonal group O(2,R). The group of rotations alone is the circle group T.
+All circles are similar.
+A circle circumference and radius are proportional.
+The area enclosed and the square of its radius are proportional.
+The constants of proportionality are 2π and π respectively.
+The circle that is centred at the origin with radius 1 is called the unit circle.
+Thought of as a great circle of the unit sphere, it becomes the Riemannian circle.
+Through any three points, not all on the same line, there lies a unique circle. In Cartesian coordinates, it is possible to give explicit formulae for the coordinates of the centre of the circle and the radius in terms of the coordinates of the three given points. See circumcircle.
+
+
+=== Chord ===
+Chords are equidistant from the centre of a circle if and only if they are equal in length.
+The perpendicular bisector of a chord passes through the centre of a circle; equivalent statements stemming from the uniqueness of the perpendicular bisector are:
+A perpendicular line from the centre of a circle bisects the chord.
+The line segment through the centre bisecting a chord is perpendicular to the chord.
+If a central angle and an inscribed angle of a circle are subtended by the same chord and on the same side of the chord, then the central angle is twice the inscribed angle.
+If two angles are inscribed on the same chord and on the same side of the chord, then they are equal.
+If two angles are inscribed on the same chord and on opposite sides of the chord, then they are supplementary.
+For a cyclic quadrilateral, the exterior angle is equal to the interior opposite angle.
+An inscribed angle subtended by a diameter is a right angle (see Thales' theorem).
+The diameter is the longest chord of the circle.
+Among all the circles with a chord AB in common, the circle with minimal radius is the one with diameter AB.
+If the intersection of any two chords divides one chord into lengths a and b and divides the other chord into lengths c and d, then ab = cd.
+If the intersection of any two perpendicular chords divides one chord into lengths a and b and divides the other chord into lengths c and d, then a2 + b2 + c2 + d2 equals the square of the diameter.
+The sum of the squared lengths of any two chords intersecting at right angles at a given point is the same as that of any other two perpendicular chords intersecting at the same point and is given by 8r2 − 4p2, where r is the circle radius, and p is the distance from the centre point to the point of intersection.
+The distance from a point on the circle to a given chord times the diameter of the circle equals the product of the distances from the point to the ends of the chord.: p.71 
+
+
+=== Tangent ===
+A line drawn perpendicular to a radius through the end point of the radius lying on the circle is a tangent to the circle.
+A line drawn perpendicular to a tangent through the point of contact with a circle passes through the centre of the circle.
+Two tangents can always be drawn to a circle from any point outside the circle, and these tangents are equal in length.
+If a tangent at A and a tangent at B intersect at the exterior point P, then denoting the centre as O, the angles ∠BOA and ∠BPA are supplementary.
+If AD is tangent to the circle at A and if AQ is a chord of the circle, then ∠DAQ = 1/2arc(AQ).
+
+
+=== Theorems ===
+
+The chord theorem states that if two chords, CD and EB, intersect at A, then AC × AD = AB × AE.
+If two secants, AE and AD, also cut the circle at B and C respectively, then AC × AD = AB × AE (corollary of the chord theorem).
+A tangent can be considered a limiting case of a secant whose ends are coincident. If a tangent from an external point A meets the circle at F and a secant from the external point A meets the circle at C and D respectively, then AF2 = AC × AD (tangent–secant theorem).
+The angle between a chord and the tangent at one of its endpoints is equal to one half the angle subtended at the centre of the circle, on the opposite side of the chord (tangent chord angle).
+If the angle subtended by the chord at the centre is 90°, then ℓ = r √2, where ℓ is the length of the chord, and r is the radius of the circle.
+If two secants are inscribed in the circle as shown at right, then the measurement of angle A is equal to one half the difference of the measurements of the enclosed arcs (
+  
+    
+      
+        
+          
+            
+              D
+              E
+            
+            ⌢
+          
+        
+      
+    
+    {\displaystyle {\overset {\frown }{DE}}}
+   and 
+  
+    
+      
+        
+          
+            
+              B
+              C
+            
+            ⌢
+          
+        
+      
+    
+    {\displaystyle {\overset {\frown }{BC}}}
+  ). That is, 
+  
+    
+      
+        2
+        ∠
+        
+          C
+          A
+          B
+        
+        =
+        ∠
+        
+          D
+          O
+          E
+        
+        −
+        ∠
+        
+          B
+          O
+          C
+        
+      
+    
+    {\displaystyle 2\angle {CAB}=\angle {DOE}-\angle {BOC}}
+  , where O is the centre of the circle (secant–secant theorem).
+
+
+=== Inscribed angles ===
+
+An inscribed angle (examples are the blue and green angles in the figure) is exactly half the corresponding central angle (red). Hence, all inscribed angles that subtend the same arc (pink) are equal. Angles inscribed on the arc (brown) are supplementary. In particular, every inscribed angle that subtends a diameter is a right angle (since the central angle is 180°).
+
+
+=== Sagitta ===
+
+The sagitta (also known as the versine) is a line segment drawn perpendicular to a chord, between the midpoint of that chord and the arc of the circle.
+Given the length y of a chord and the length x of the sagitta, the Pythagorean theorem can be used to calculate the radius of the unique circle that will fit around the two lines:
+
+  
+    
+      
+        r
+        =
+        
+          
+            
+              y
+              
+                2
+              
+            
+            
+              8
+              x
+            
+          
+        
+        +
+        
+          
+            x
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle r={\frac {y^{2}}{8x}}+{\frac {x}{2}}.}
+  Another proof of this result, which relies only on two chord properties given above, is as follows. Given a chord of length y and with sagitta of length x, since the sagitta intersects the midpoint of the chord, we know that it is a part of a diameter of the circle. Since the diameter is twice the radius, the "missing" part of the diameter is (2r − x) in length. Using the fact that one part of one chord times the other part is equal to the same product taken along a chord intersecting the first chord, we find that (2r − x)x = (y / 2)2. Solving for r, we find the required result.
+
+
+== Compass and straightedge constructions ==
+There are many compass-and-straightedge constructions resulting in circles.
+The simplest and most basic is the construction given the centre of the circle and a point on the circle. Place the fixed leg of the compass on the centre point, the movable leg on the point on the circle and rotate the compass.
+
+
+=== Construction with given diameter ===
+Construct the midpoint M of the diameter.
+Construct the circle with centre M passing through one of the endpoints of the diameter (it will also pass through the other endpoint).
+
+
+=== Construction through three noncollinear points ===
+Name the points P, Q and R,
+Construct the perpendicular bisector of the segment PQ.
+Construct the perpendicular bisector of the segment PR.
+Label the point of intersection of these two perpendicular bisectors M. (They meet because the points are not collinear).
+Construct the circle with centre M passing through one of the points P, Q or R (it will also pass through the other two points).
+
+
+== Circle of Apollonius ==
+
+Apollonius of Perga showed that a circle may also be defined as the set of points in a plane having a constant ratio (other than 1) of distances to two fixed foci, A and B. (The set of points where the distances are equal is the perpendicular bisector of segment AB, a line.) That circle is sometimes said to be drawn about two points.
+The proof is in two parts. First, one must prove that, given two foci A and B and a ratio of distances, any point P satisfying the ratio of distances must fall on a particular circle. Let C be another point, also satisfying the ratio and lying on segment AB. By the angle bisector theorem the line segment PC will bisect the interior angle APB, since the segments are similar:
+
+  
+    
+      
+        
+          
+            
+              A
+              P
+            
+            
+              B
+              P
+            
+          
+        
+        =
+        
+          
+            
+              A
+              C
+            
+            
+              B
+              C
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {AP}{BP}}={\frac {AC}{BC}}.}
+  Analogously, a line segment PD through some point D on AB extended bisects the corresponding exterior angle BPQ where Q is on AP extended. Since the interior and exterior angles sum to 180 degrees, the angle CPD is exactly 90 degrees; that is, a right angle. The set of points P such that angle CPD is a right angle forms a circle, of which CD is a diameter.
+Second, see: p.15  for a proof that every point on the indicated circle satisfies the given ratio.
+
+
+=== Cross-ratios ===
+A closely related property of circles involves the geometry of the cross-ratio of points in the complex plane. If A, B, and C are as above, then the circle of Apollonius for these three points is the collection of points P for which the absolute value of the cross-ratio is equal to one:
+
+  
+    
+      
+        
+          
+            |
+          
+        
+        [
+        A
+        ,
+        B
+        ;
+        C
+        ,
+        P
+        ]
+        
+          
+            |
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle {\big |}[A,B;C,P]{\big |}=1.}
+  Stated another way, P is a point on the circle of Apollonius if and only if the cross-ratio [A, B; C, P] is on the unit circle in the complex plane.
+
+
+=== Generalised circles ===
+
+If C is the midpoint of the segment AB, then the collection of points P satisfying the Apollonius condition
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              A
+              P
+              
+                |
+              
+            
+            
+              
+                |
+              
+              B
+              P
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              A
+              C
+              
+                |
+              
+            
+            
+              
+                |
+              
+              B
+              C
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {|AP|}{|BP|}}={\frac {|AC|}{|BC|}}}
+   is not a circle, but rather a line.
+Thus, if A, B, and C are given distinct points in the plane, then the locus of points P satisfying the above equation is called a "generalised circle." It may either be a true circle or a line. In this sense a line is a generalised circle of infinite radius.
+
+
+== Inscription in or circumscription about other figures ==
+In every triangle a unique circle, called the incircle, can be inscribed such that it is tangent to each of the three sides of the triangle.About every triangle a unique circle, called the circumcircle, can be circumscribed such that it goes through each of the triangle's three vertices.A tangential polygon, such as a tangential quadrilateral, is any convex polygon within which a circle can be inscribed that is tangent to each side of the polygon. Every regular polygon and every triangle is a tangential polygon.
+A cyclic polygon is any convex polygon about which a circle can be circumscribed, passing through each vertex. A well-studied example is the cyclic quadrilateral. Every regular polygon and every triangle is a cyclic polygon. A polygon that is both cyclic and tangential is called a bicentric polygon.
+A hypocycloid is a curve that is inscribed in a given circle by tracing a fixed point on a smaller circle that rolls within and tangent to the given circle.
+
+
+== Limiting case of other figures ==
+The circle can be viewed as a limiting case of each of various other figures:
+
+A Cartesian oval is a set of points such that a weighted sum of the distances from any of its points to two fixed points (foci) is a constant. An ellipse is the case in which the weights are equal. A circle is an ellipse with an eccentricity of zero, meaning that the two foci coincide with each other as the centre of the circle. A circle is also a different special case of a Cartesian oval in which one of the weights is zero.
+A superellipse has an equation of the form 
+  
+    
+      
+        
+          
+            |
+            
+              
+                x
+                a
+              
+            
+            |
+          
+          
+            n
+          
+        
+        
+        +
+        
+          
+            |
+            
+              
+                y
+                b
+              
+            
+            |
+          
+          
+            n
+          
+        
+        
+        =
+        1
+      
+    
+    {\displaystyle \left|{\frac {x}{a}}\right|^{n}\!+\left|{\frac {y}{b}}\right|^{n}\!=1}
+   for positive a, b, and n. A supercircle has b = a. A circle is the special case of a supercircle in which n = 2.
+A Cassini oval is a set of points such that the product of the distances from any of its points to two fixed points is a constant. When the two fixed points coincide, a circle results.
+A curve of constant width is a figure whose width, defined as the perpendicular distance between two distinct parallel lines each intersecting its boundary in a single point, is the same regardless of the direction of those two parallel lines. The circle is the simplest example of this type of figure.
+
+
+== In other p-norms ==
+
+Defining a circle as the set of points with a fixed distance from a point, different shapes can be considered circles under different definitions of distance. In p-norm, distance is determined by
+
+  
+    
+      
+        
+          
+            ‖
+            x
+            ‖
+          
+          
+            p
+          
+        
+        =
+        
+          
+            (
+            
+              
+                |
+              
+              
+                x
+                
+                  1
+                
+              
+              
+                
+                  |
+                
+                
+                  p
+                
+              
+              +
+              
+                |
+              
+              
+                x
+                
+                  2
+                
+              
+              
+                
+                  |
+                
+                
+                  p
+                
+              
+              +
+              ⋯
+              +
+              
+                |
+              
+              
+                x
+                
+                  n
+                
+              
+              
+                
+                  |
+                
+                
+                  p
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            p
+          
+        
+        .
+      
+    
+    {\displaystyle \left\|x\right\|_{p}=\left(|x_{1}|^{p}+|x_{2}|^{p}+\dotsb +|x_{n}|^{p}\right)^{1/p}.}
+  In Euclidean geometry, p = 2, giving the familiar
+
+  
+    
+      
+        
+          
+            ‖
+            x
+            ‖
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              |
+            
+            
+              x
+              
+                1
+              
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+            +
+            
+              |
+            
+            
+              x
+              
+                2
+              
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+            +
+            ⋯
+            +
+            
+              |
+            
+            
+              x
+              
+                n
+              
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \left\|x\right\|_{2}={\sqrt {|x_{1}|^{2}+|x_{2}|^{2}+\dotsb +|x_{n}|^{2}}}.}
+  In taxicab geometry, p = 1. Taxicab circles are squares with sides oriented at a 45° angle to the coordinate axes. While each side would have length 
+  
+    
+      
+        
+          
+            2
+          
+        
+        r
+      
+    
+    {\displaystyle {\sqrt {2}}r}
+   using a Euclidean metric, where r is the circle's radius, its length in taxicab geometry is 2r. Thus, a circle's circumference is 8r. Thus, the value of a geometric analog to 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   is 4 in this geometry. The formula for the unit circle in taxicab geometry is 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+        +
+        
+          |
+        
+        y
+        
+          |
+        
+        =
+        1
+      
+    
+    {\displaystyle |x|+|y|=1}
+   in Cartesian coordinates and
+
+  
+    
+      
+        r
+        =
+        
+          
+            1
+            
+              
+                |
+              
+              sin
+              ⁡
+              θ
+              
+                |
+              
+              +
+              
+                |
+              
+              cos
+              ⁡
+              θ
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle r={\frac {1}{|\sin \theta |+|\cos \theta |}}}
+  in polar coordinates.
+A circle of radius 1 (using this distance) is the von Neumann neighborhood of its center.
+A circle of radius r for the Chebyshev distance (L∞ metric) on a plane is also a square with side length 2r parallel to the coordinate axes, so planar Chebyshev distance can be viewed as equivalent by rotation and scaling to planar taxicab distance. However, this equivalence between L1 and L∞ metrics does not generalize to higher dimensions.
+
+
+== Locus of constant sum ==
+Consider a finite set of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   points in the plane. The locus of points such that the sum of the squares of the distances to the given points is constant is a circle, whose center is at the centroid of the given points.
+A generalization for higher powers of distances is obtained if under 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   points the vertices of the regular polygon 
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+      
+    
+    {\displaystyle P_{n}}
+   are taken. The locus of points such that the sum of the 
+  
+    
+      
+        (
+        2
+        m
+        )
+      
+    
+    {\displaystyle (2m)}
+  -th power of distances 
+  
+    
+      
+        
+          d
+          
+            i
+          
+        
+      
+    
+    {\displaystyle d_{i}}
+   to the vertices of a given regular polygon with circumradius 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is constant is a circle, if
+
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          d
+          
+            i
+          
+          
+            2
+            m
+          
+        
+        >
+        n
+        
+          R
+          
+            2
+            m
+          
+        
+      
+    
+    {\displaystyle \sum _{i=1}^{n}d_{i}^{2m}>nR^{2m}}
+  , where 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  =1,2,…, 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -1;whose center is the centroid of the 
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+      
+    
+    {\displaystyle P_{n}}
+  .
+In the case of the equilateral triangle, the loci of the constant sums of the second and fourth powers are circles, whereas for the square, the loci are circles for the constant sums of the second, fourth, and sixth powers. For the regular pentagon the constant sum of the eighth powers of the distances will be added and so forth.
+
+
+== Squaring the circle ==
+
+Squaring the circle is the problem, proposed by ancient geometers, of constructing a square with the same area as a given circle by using only a finite number of steps with compass and straightedge.
+In 1882, the task was proven to be impossible, as a consequence of the Lindemann–Weierstrass theorem, which proves that pi (π) is a transcendental number, rather than an algebraic irrational number; that is, it is not the root of any polynomial with rational coefficients. Despite the impossibility, this topic continues to be of interest for pseudomath enthusiasts.
+
+
+== Significance in art and symbolism ==
+
+From the time of the earliest known civilisations – such as the Assyrians and ancient Egyptians, those in the Indus Valley and along the Yellow River in China, and the Western civilisations of ancient Greece and Rome during classical Antiquity – the circle has been used directly or indirectly in visual art to convey the artist's message and to express certain ideas.
+However, differences in worldview (beliefs and culture) had a great impact on artists’ perceptions. While some emphasised the circle's perimeter to demonstrate their democratic manifestation, others focused on its centre to symbolise the concept of cosmic unity. In mystical doctrines, the circle mainly symbolises the infinite and cyclical nature of existence, but in religious traditions it represents heavenly bodies and divine spirits.
+The circle signifies many sacred and spiritual concepts, including unity, infinity, wholeness, the universe, divinity, balance, stability and perfection, among others. Such concepts have been conveyed in cultures worldwide through the use of symbols, for example, a compass, a halo, the vesica piscis and its derivatives (fish, eye, aureole, mandorla, etc.), the ouroboros, the Dharma wheel, a rainbow, mandalas, rose windows and so forth.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Pedoe, Dan (1988). Geometry: a comprehensive course. Dover. ISBN 9780486658124.
+"Circle" in The MacTutor History of Mathematics archive
+
+
+== External links ==
+
+"Circle", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Circle at PlanetMath.
+Weisstein, Eric W. "Circle". MathWorld.
+"Interactive Java applets". for the properties of and elementary constructions involving circles
+"Interactive Standard Form Equation of Circle". Click and drag points to see standard form equation in action
+"Munching on Circles". cut-the-knot
+

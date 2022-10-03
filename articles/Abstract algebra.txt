@@ -1,0 +1,470 @@
+####### TITLE #######
+
+Abstract algebra
+
+####### LINKS #######
+
+['Abelian group', 'Abraham Fraenkel', 'Abstrakt Algebra', 'Algebra', 'Algebra over a field', 'Algebraic equation', 'Algebraic equations', 'Algebraic function', 'Algebraic function field', 'Algebraic geometry', 'Algebraic integer', 'Algebraic number theory', 'Algebraic structure', 'Algebraic topology', 'Analytic geometry', 'Analytic number theory', 'Andrew Wiles', 'Applied mathematics', 'Arithmetic', 'Arithmetic geometry', 'Arithmetical algebra', 'Arthur Cayley', 'Artin–Wedderburn theorem', 'Ascending chain condition', 'Associative algebra', 'Auguste Dick', 'Axiom', 'Axiomatic system', 'Bartel van der Waerden', 'Benjamin Peirce', 'Binary operation', 'Binary quadratic form', 'Biquadratic reciprocity', 'Biquaternion', 'Birkhäuser', 'Boolean algebra', 'Boson', 'Calculus', 'Cancellation property', 'Category (mathematics)', 'Category theory', 'Characteristic (algebra)', 'Charles Sanders Peirce', 'Clark Kimberling', 'Coding theory', 'Combinatorics', 'Commutative algebra', 'Commutator', 'Complex analysis', 'Complex number', 'Composition algebra', 'Computational complexity theory', 'Computational mathematics', 'Computer algebra', 'Computer science', 'Control theory', 'Coordinate vector', 'Coquaternion', 'Cubic reciprocity', 'Cyclic group', 'Cyclotomic field', 'David Hilbert', 'Dedekind domain', 'Descending chain condition', 'Differential equation', 'Differential geometry', 'Differential topology', 'Diophantine geometry', 'Direct method in the calculus of variations', 'Direct sum of modules', "Dirichlet's principle", 'Discrete geometry', 'Discrete mathematics', 'Discriminant', 'Doi (identifier)', 'Dot product', 'Edmund F. Robertson', 'Eisenstein integer', 'Elementary algebra', 'Emil Artin', 'Emmy Noether', 'Engineering mathematics', 'Erlangen program', 'Ernst Kummer', 'Ernst Steinitz', 'Euclidean geometry', 'Euclidean group', 'Exterior algebra', "Fermat's Last Theorem", "Fermat's last theorem", "Fermat's little theorem", 'Field (mathematics)', 'Finite field', 'Finite geometry', 'Force carrier', 'Foundations of mathematics', 'François Viète', 'Fuchsian group', 'Functional analysis', 'Fundamental group', 'Gabriel Lamé', 'Galois group of a polynomial', 'Game theory', 'Gauge theory', 'Gaussian integer', 'General topology', 'Geometric algebra', 'Geometric topology', 'Geometry', 'Georg Frobenius', 'George Peacock', 'German (language)', 'Glossary of field theory', 'Glossary of linear algebra', 'Glossary of mathematical symbols', 'Glossary of order theory', 'Glossary of ring theory', 'Graded algebra', 'Graduate Texts in Mathematics', 'Graph theory', 'Group (mathematics)', 'Group ring', 'Group theory', 'Hamiltonian group', 'Harmonic analysis', 'Heinrich Martin Weber', 'Hessian matrix', "Hilbert's basis theorem", 'Hilbert space', 'History of algebra', 'History of group theory', 'History of mathematics', 'Homological algebra', 'Homomorphism', 'Homotopy theory', 'Hypercomplex analysis', 'Hypercomplex number', 'ISBN (identifier)', 'ISSN (identifier)', 'Ideal (ring theory)', 'Ideal number', 'Ideal theory', 'Imaginary number', 'Informal mathematics', 'Information theory', 'Inner product space', 'Integers mod n', 'Intellectual rigor', 'Invariant of a binary form', 'Invariant theory', 'Irving Kaplansky', 'Issai Schur', 'Jacobian matrix and determinant', 'James Cockle (lawyer)', "John J. O'Connor (mathematician)", 'John Wiley & Sons', 'Jordan–Hölder theorem', 'K-theory', 'La Géométrie', 'Lasker-Noether theorem', 'Lattice (order)', 'Leonhard Euler', 'Leopold Kronecker', 'Lie algebra', 'Lie group', 'Linear algebra', 'List of abstract algebra topics', 'List of group theory topics', 'List of publications in abstract algebra', 'Lists of mathematics topics', 'Local symmetry', 'MR (identifier)', 'MacTutor History of Mathematics archive', 'Magma (algebra)', 'Marcel Dekker', 'Mathematical analysis', 'Mathematical and theoretical biology', 'Mathematical chemistry', 'Mathematical economics', 'Mathematical finance', 'Mathematical logic', 'Mathematical optimization', 'Mathematical physics', 'Mathematical psychology', 'Mathematical sociology', 'Mathematical statistics', 'Mathematics', 'Mathematics and art', 'Mathematics education', 'Matrix (mathematics)', 'Measure (mathematics)', 'Michael Artin', 'Modern algebra', 'Moderne Algebra', 'Modular group', 'Module (mathematics)', 'Monograph', 'Monoid', 'Muhammad ibn Mūsā al-Khwārizmī', 'Multilinear algebra', 'Multiplicative group of integers modulo n', 'Multivector', 'Möbius transformation', 'Natural sciences', 'Negative number', 'New Algebra', 'Noetherian (disambiguation)', 'Noetherian ring', 'Noncommutative algebra', 'Nontrivial', 'Number theory', 'Numerical analysis', 'OCLC (identifier)', 'Octonion', 'Operations research', 'Order theory', 'Otto Hölder', 'Outline of algebraic structures', 'Outline of linear algebra', 'Outline of mathematics', 'P-adic number', 'Peirce decomposition', 'Permutation', 'Philosophy of mathematics', 'Poincaré conjecture', 'Polynomial', 'Polynomial ring', 'Prentice Hall', 'Primary ideal', 'Prime ideal', 'Principle of the permanence of equivalent forms', 'Probability theory', 'Problem of induction', 'Projective transformation', 'Pure mathematics', 'Quasigroup', 'Quaternion', 'Rational fraction', 'Real analysis', 'Real number', 'Recreational mathematics', 'Representation theory', 'Rhetorical algebra', 'Richard Dedekind', 'Riemann surface', 'Riemann–Roch theorem', 'Ring (mathematics)', 'Ring of integers modulo n', 'Ring theory', "Rubik's Cube", 'S2CID (identifier)', 'Semigroup', 'Serge Lang', 'Set (mathematics)', 'Set theory', 'Simple algebra', 'Split-biquaternion', 'Springer-Verlag', 'Square matrices', 'Statistics', "Sylow's theorem", 'Symbolical algebra', 'Symmetric algebra', 'Symmetry group', 'Systems of linear equations', 'Systems science', 'Tensor algebra', 'Tessarine', 'Theory of computation', 'Timeline of mathematics', 'Topology', 'Type theory', 'Unique factorization domain', 'Universal algebra', 'University of Maryland', 'University of St Andrews', 'Variable (mathematics)', 'Variety (universal algebra)', 'Vector space', 'Walther von Dyck', 'Wedderburn principal theorem', 'William Kingdon Clifford', 'William Rowan Hamilton']
+
+####### CATEGORIES #######
+
+['Abstract algebra', 'All articles lacking in-text citations', 'Articles lacking in-text citations from June 2019', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with LNB identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'CS1 German-language sources (de)', 'CS1 Latin-language sources (la)', 'Pages that use a deprecated format of the math tags', 'Short description is different from Wikidata']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/0/07/Algebraic_structures_-_magma_to_group.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/37/People_icon.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/96/Rubik%27s_cube_v2.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_with_red_question_mark.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Wikibooks-logo-en-noslogan.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikibooks-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Wikiversity_logo_2017.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/e/e2/Symbol_portal_class.svg']
+
+####### REFERENCES #######
+
+['http://mmsengineering.ca/sasha-web/resources/frobenius/gutfraind_Frobenius1887.pdf', 'http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html', 'http://jeff560.tripod.com/f.html', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX4576624', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007293933105171', 'http://www.ams.org/mathscinet-getitem?mr=0029363', 'http://www.ams.org/mathscinet-getitem?mr=1878556', 'http://doi.org/10.1007%2F978-0-8176-4685-1', 'http://doi.org/10.1007%2F978-3-319-94773-0', 'http://doi.org/10.1080%2F14786444808646139', 'http://doi.org/10.1080%2F14786444908646384', 'http://doi.org/10.1080%2F14786445408647421', 'http://doi.org/10.1515%2Fcrll.1868.69.323', 'http://doi.org/10.1515%2Fcrll.1887.100.179', 'http://www.worldcat.org/issn/1047-5982', 'http://www.worldcat.org/oclc/794700410', 'https://books.google.com/books?id=jQ1bAAAAQAAJ&pg=PA104', 'https://www.google.com/books/edition/Abstract_Algebra/rLZjBAAAQBAJ?hl=en&gbpv=1', 'https://link.springer.com/book/10.1007/978-0-8176-4685-1', 'https://link.springer.com/book/10.1007/978-3-319-94773-0', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph1086049&CON_LNG=ENG', 'https://www.math.umd.edu/~jcohen/402/Pinter%20Algebra.pdf', 'https://catalogue.bnf.fr/ark:/12148/cb11981845x', 'https://data.bnf.fr/ark:/12148/cb11981845x', 'https://id.loc.gov/authorities/subjects/sh85003428', 'https://d-nb.info/gnd/4061777-4', 'https://id.ndl.go.jp/auth/ndlna/00573947', 'https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000117519&P_CON_LNG=ENG', 'https://archive.org/details/deepdownthingsbr00schu', 'https://archive.org/details/leopoldkronecke00berlgoog/page/274/mode/2up?view=theater', 'https://archive.org/details/ringsfieldsvecto0000seth', 'https://www.biodiversitylibrary.org/item/20114#page/448/mode/1up', 'https://www.biodiversitylibrary.org/item/20157#page/449/mode/1up', 'https://babel.hathitrust.org/cgi/pt?id=pst.000068485757;view=1up;seq=54', 'https://projecteuclid.org/journals/modern-logic/volume-8/issue-1-2/The-origins-of-the-definition-of-abstract-rings/rml/1081878062.full', 'https://api.semanticscholar.org/CorpusID:117970003', 'https://api.semanticscholar.org/CorpusID:120689164', 'https://www.wikidata.org/wiki/Q159943#identifiers', 'https://www.worldcat.org/oclc/794700410', 'https://zenodo.org/record/1448894', 'https://mathshistory.st-andrews.ac.uk/HistTopics/Abstract_groups.html']
+
+####### SUMMARY #######
+
+In mathematics, more specifically algebra, abstract algebra or modern algebra is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras over a field. The term abstract algebra was coined in the early 20th century to distinguish this area of study from older parts of algebra, and more specifically from elementary algebra, the use of variables to represent numbers in computation and reasoning.
+Algebraic structures, with their associated homomorphisms, form mathematical categories. Category theory is a formalism that allows a unified way for expressing properties and constructions that are similar for various structures.
+Universal algebra is a related subject that studies types of algebraic structures as single objects. For example, the structure of groups is a single object in universal algebra, which is called the variety of groups.
+
+
+
+####### CONTENT #######
+
+In mathematics, more specifically algebra, abstract algebra or modern algebra is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras over a field. The term abstract algebra was coined in the early 20th century to distinguish this area of study from older parts of algebra, and more specifically from elementary algebra, the use of variables to represent numbers in computation and reasoning.
+Algebraic structures, with their associated homomorphisms, form mathematical categories. Category theory is a formalism that allows a unified way for expressing properties and constructions that are similar for various structures.
+Universal algebra is a related subject that studies types of algebraic structures as single objects. For example, the structure of groups is a single object in universal algebra, which is called the variety of groups.
+
+
+== History ==
+Before the nineteenth century, algebra meant the study of the solution of polynomial equations. Abstract algebra came into existence during the nineteenth century as more complex problems and solution methods developed. Concrete problems and examples came from number theory, geometry, analysis, and the solutions of algebraic equations. Most theories that are now recognized as parts of abstract algebra started as collections of disparate facts from various branches of mathematics, acquired a common theme that served as a core around which various results were grouped, and finally became unified on a basis of a common set of concepts. This unification occurred in the early decades of the 20th century and resulted in the formal axiomatic definitions of various algebraic structures such as groups, rings, and fields. This historical development is almost the opposite of the treatment found in popular textbooks, such as van der Waerden's Moderne Algebra, which start each chapter with a formal definition of a structure and then follow it with concrete examples.
+
+
+=== Elementary algebra ===
+
+The study of polynomial equations or algebraic equations has a long history. Circa 1700 BC, the Babylonians were able to solve quadratic equations specified as word problems. This word problem stage is classified as rhetorical algebra and was the dominant approach up to the 16th century. Muhammad ibn Mūsā al-Khwārizmī originated the word "algebra" in 830 AD, but his work was entirely rhetorical algebra. Fully symbolic algebra did not appear until François Viète's 1591 New Algebra, and even this had some spelled out words that were given symbols in Descartes's 1637 La Géométrie. The formal study of solving symbolic equations led Leonhard Euler to accept what were then considered "nonsense" roots such as negative numbers and imaginary numbers, in the late 18th century. However, European mathematicians, for the most part, resisted these concepts until the middle of the 19th century.George Peacock's 1830 Treatise of Algebra was the first attempt to place algebra on a strictly symbolic basis. He distinguished a new symbolical algebra, distinct from the old arithmetical algebra. Whereas in arithmetical algebra 
+  
+    
+      
+        a
+        −
+        b
+      
+    
+    {\displaystyle a-b}
+   is restricted to 
+  
+    
+      
+        a
+        ≥
+        b
+      
+    
+    {\displaystyle a\geq b}
+  , in symbolical algebra all rules of operations hold with no restrictions. Using this Peacock could show laws such as 
+  
+    
+      
+        (
+        −
+        a
+        )
+        (
+        −
+        b
+        )
+        =
+        a
+        b
+      
+    
+    {\displaystyle (-a)(-b)=ab}
+  , by letting 
+  
+    
+      
+        a
+        =
+        0
+        ,
+        c
+        =
+        0
+      
+    
+    {\displaystyle a=0,c=0}
+   in 
+  
+    
+      
+        (
+        a
+        −
+        b
+        )
+        (
+        c
+        −
+        d
+        )
+        =
+        a
+        c
+        +
+        b
+        d
+        −
+        a
+        d
+        −
+        b
+        c
+      
+    
+    {\displaystyle (a-b)(c-d)=ac+bd-ad-bc}
+  . Peacock used what he termed the principle of the permanence of equivalent forms to justify his argument, but his reasoning suffered from the problem of induction. For example, 
+  
+    
+      
+        
+          
+            a
+          
+        
+        
+          
+            b
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\sqrt {a}}{\sqrt {b}}={\sqrt {ab}}}
+   holds for the nonnegative real numbers, but not for general complex numbers.
+
+
+=== Early group theory ===
+
+Several areas of mathematics led to the study of groups. Lagrange's 1770 study of the solutions of the quintic led to the Galois group of a polynomial. Gauss's 1801 study of Fermat's little theorem led to the ring of integers modulo n, the multiplicative group of integers modulo n, and the more general concepts of cyclic groups and abelian groups. Klein's 1872 Erlangen program studied geometry and led to symmetry groups such as the Euclidean group and the group of projective transformations. In 1874 Lie introduced the theory of Lie groups, aiming for "the Galois theory of differential equations". In 1976 Poincaré and Klein introduced the group of Möbius transformations, and its subgroups such as the modular group and Fuchsian group, based on work on automorphic functions in analysis.The abstract concept of group emerged slowly over the middle of the nineteenth century. Galois in 1832 was the first to use the term “group”, signifying a collection of permutations closed under composition. Arthur Cayley's 1854 paper On the theory of groups defined a group as a set with an associative composition operation and the identity 1, today called a monoid. In 1870 Kronecker defined an abstract binary operation that was closed, commutative, associative, and had the left cancellation property 
+  
+    
+      
+        b
+        ≠
+        c
+        →
+        a
+        ⋅
+        b
+        ≠
+        b
+        ⋅
+        c
+      
+    
+    {\displaystyle b\neq c\to a\cdot b\neq b\cdot c}
+  , similar to the modern laws for a finite abelian group. Weber's 1882 definition of a group was a closed binary operation that was associative and had left and right cancellation. Walther von Dyck in 1882 was the first to require inverse elements as part of the definition of a group.Once this abstract group concept emerged, results were reformulated in this abstract setting. For example, Sylow's theorem was reproven by Frobenius in 1887 directly from the laws of a finite group, although Frobenius remarked that the theorem followed from Cauchy's theorem on permutation groups and the fact that every finite group is a subgroup of a permutation group. Otto Hölder was particularly prolific in this area, defining quotient groups in 1889, group automorphisms in 1893, as well as simple groups. He also completed the Jordan–Hölder theorem. Dedekind and Miller independently characterized Hamiltonian groups and introduced the notion of the commutator of two elements. Burnside, Frobenius, and Molien created the representation theory of finite groups at the end of the nineteenth century. J. A. de Séguier's 1904 monograph Elements of the Theory of Abstract Groups presented many of these results in an abstract, general form, relegating "concrete" groups to an appendix, although it was limited to finite groups. The first monograph on both finite and infinite abstract groups was O. K. Schmidt's 1916 Abstract Theory of Groups.
+
+
+=== Early ring theory ===
+
+Noncommutative ring theory began with extensions of the complex numbers to hypercomplex numbers, specifically William Rowan Hamilton's quaternions in 1843. Many other number systems followed shortly. In 1844, Hamilton presented biquaternions, Cayley introduced octonions, and Grassman introduced exterior algebras. James Cockle presented tessarines in 1848 and coquaternions in 1949. William Kingdon Clifford introduced split-biquaternions in 1873. In addition Cayley introduced group algebras over the real and complex numbers in 1854 and square matrices in two papers of 1855 and 1858.Once there were sufficient examples, it remained to classify them. In an 1870 monograph, Benjamin Peirce classified the more than 150 hypercomplex number systems of dimension below 6, and gave an explicit definition of an associative algebra. He defined nilpotent and idempotent elements and proved that any algebra contains one or the other. He also defined the Peirce decomposition. Frobenius in 1878 and Charles Sanders Peirce in 1881 independently proved that the only finite-dimensional division algebras over 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   were the real numbers, the complex numbers, and the quaternions. In the 1880s Killing and Cartan showed that semisimple Lie algebras could be decomposed into simple ones, and classified all simple Lie algebras. Inspired by this, in the 1890s Cartan, Frobenius, and Molien proved (independently) that a finite-dimensional associative algebra over 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+   or 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   uniquely decomposes into the direct sums of a nilpotent algebra and a semisimple algebra that is the product of some number of simple algebras, square matrices over division algebras. Cartan was the first to define concepts such as direct sum and simple algebra, and these concepts proved quite influential. In 1907 Wedderburn extended Cartan's results to an arbitrary field, in what are now called the Wedderburn principal theorem and Artin–Wedderburn theorem.For commutative rings, several areas together led to commutative ring theory. In two papers in 1828 and 1832, Gauss formulated the Gaussian integers and showed that they form a unique factorization domain (UFD) and proved the biquadratic reciprocity law. Jacobi and Eisenstein at around the same time proved a cubic reciprocity law for the Eisenstein integers. The study of Fermat's last theorem led to the algebraic integers. In 1847, Gabriel Lamé thought he had proven FLT, but his proof was faulty as he assumed all the cyclotomic fields were UFDs, yet as Kummer pointed out, 
+  
+    
+      
+        
+          Q
+        
+        (
+        
+          ζ
+          
+            23
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle \mathbb {Q} (\zeta _{23}))}
+   was not a UFD. In 1846 and 1847 Kummer introduced ideal numbers and proved unique factorization into ideal primes for cyclotomic fields. Dedekind extended this in 1971 to show that every nonzero ideal in the domain of integers of an algebraic number field is a unique product of prime ideals, a precursor of the theory of Dedekind domains. Overall, Dedekind's work created the subject of algebraic number theory.In the 1850s, Riemann introduced the fundamental concept of a Riemann surface. Riemann's methods relied on an assumption he called Dirichlet's principle, which in 1870 was questioned by Weierstrass. Much later, in 1900, Hilbert justified Riemann's approach by developing the direct method in the calculus of variations. In the 1860s and 1870s, Clebsch, Gordan, Brill, and especially M. Noether studied algebraic functions and curves. In particular, Noether studied what conditions were required for a polynomial to be an element of the ideal generated by two algebraic curves in the polynomial ring 
+  
+    
+      
+        
+          R
+        
+        [
+        x
+        ,
+        y
+        ]
+      
+    
+    {\displaystyle \mathbb {R} [x,y]}
+  , although Noether did not use this modern language. In 1882 Dedekind and Weber, in analogy with Dedekind's earlier work on algebraic number theory, created a theory of algebraic function fields which allowed the first rigorous definition of a Riemann surface and a rigorous proof of the Riemann–Roch theorem. Kronecker in the 1880s, Hilbert in 1890, Lasker in 1905, and Macauley in 1913 further investigated the ideals of polynomial rings implicit in Noether's work. Lasker proved a special case of the Lasker-Noether theorem, namely that every ideal in a polynomial ring is a finite intersection of primary ideals. Macauley proved the uniqueness of this decomposition. Overall, this work led to the development of algebraic geometry.In 1801 Gauss introduced binary quadratic forms over the integers and defined their equivalence. He further defined the discriminant of these forms, which is an invariant of a binary form. Between the 1860s and 1890s invariant theory developed and became a major field of algebra. Cayley, Sylvester, Gordan and others found the Jacobian and the Hessian for binary quartic forms and cubic forms. In 1868 Gordan proved that the graded algebra of invariants of a binary form over the complex numbers was finitely generated, i.e., has a basis. Hilbert wrote a thesis on invariants in 1885 and in 1890 showed that any form of any degree or number of variables has a basis. Hilbert further extended this further in 1890 to Hilbert's basis theorem.Once these theories had been developed, it was still several decades until an abstract ring concept emerged. The first axiomatic definition was given by Abraham Fraenkel in 1914. His definition was mainly the standard axioms: a set with two operations addition, which forms a group (not necessarily commutative), and multiplication, which is associative, distributes over addition, and has an identity element. In addition, he had two axioms on "regular elements" inspired by work on the p-adic numbers, which excluded now-common rings such as the ring of integers. These allowed Fraenkel to prove that addition was commutative. Fraenkel's work aimed to transfer Steinitz's 1910 definition of fields over to rings, but it was not connected with the existing work on concrete systems. Masazo Sono's 1917 definition was the first equivalent to the present one.In 1920, Emmy Noether, in collaboration with W. Schmeidler, published a paper about the theory of ideals in which they defined left and right ideals in a ring. The following year she published a landmark paper called Idealtheorie in Ringbereichen (Ideal theory in rings'), analyzing ascending chain conditions with regard to (mathematical) ideals. The publication gave rise to the term "Noetherian ring", and several other mathematical objects being called Noetherian. Noted algebraist Irving Kaplansky called this work "revolutionary"; results which seemed inextricably connected to properties of polynomial rings were shown to follow from a single axiom. Artin, inspired by Noether’s work, came up with the descending chain condition. These definitions marked the birth of abstract ring theory.
+
+
+=== Early field theory ===
+
+In 1801 Gauss introduced the integers mod p, where p is a prime number. Galois extended this in 1830 to finite fields with 
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p^{n}}
+   elements. In 1871 Richard Dedekind introduced, for a set of real or complex numbers that is closed under the four arithmetic operations, the German word Körper, which means "body" or "corpus" (to suggest an organically closed entity). The English term "field" was introduced by Moore in 1893. In 1881 Leopold Kronecker defined what he called a domain of rationality, which is a field of rational fractions in modern terms.  The first clear definition of an abstract field was due to Heinrich Martin Weber in 1893. It was missing the associative law for multiplication, but covered finite fields and the fields of algebraic number theory and algebraic geometry. In 1910 Steinitz synthesized the knowledge of abstract field theory accumulated so far. He axiomatically defined fields with the modern definition, classified them by their characteristic, and proved many theorems commonly seen today.
+
+
+=== Other major areas ===
+Solving of systems of linear equations, which led to linear algebra
+
+
+=== Modern algebra ===
+The end of the 19th and the beginning of the 20th century saw a shift in the methodology of mathematics. Abstract algebra emerged around the start of the 20th century, under the name modern algebra. Its study was part of the drive for  more intellectual rigor in mathematics. Initially, the assumptions in classical algebra, on which the whole of mathematics (and major parts of the natural sciences) depend, took the form of axiomatic systems. No longer satisfied with establishing properties of concrete objects, mathematicians started to turn their attention to general theory. Formal definitions of certain algebraic structures began to emerge in the 19th century. For example, results about various groups of permutations came to be seen as instances of general theorems that concern a general notion of an abstract group. Questions of structure and classification of various mathematical objects came to forefront.
+These processes were occurring throughout all of mathematics, but became especially pronounced in algebra. Formal definition through primitive operations and axioms were proposed for many basic algebraic structures, such as groups, rings, and fields. Hence such things as group theory and ring theory took their places in pure mathematics. The algebraic investigations of general fields by Ernst Steinitz and of commutative and then general rings by David Hilbert, Emil Artin and Emmy Noether, building up on the work of Ernst Kummer, Leopold Kronecker and Richard Dedekind, who had considered ideals in commutative rings, and of Georg Frobenius and Issai Schur, concerning representation theory of groups, came to define abstract algebra. These developments of the last quarter of the 19th century and the first quarter of 20th century were systematically exposed in Bartel van der Waerden's Moderne Algebra, the two-volume monograph published in 1930–1931 that forever changed for the mathematical world the meaning of the word algebra from the theory of equations to the theory of algebraic structures.
+
+
+== Basic concepts ==
+
+By abstracting away various amounts of detail, mathematicians have defined various algebraic structures that are used in many areas of mathematics. For instance, almost all systems studied are sets, to which the theorems of set theory apply. Those sets that have a certain binary operation defined on them form magmas, to which the concepts concerning magmas, as well those concerning sets, apply. We can add additional constraints on the  algebraic structure, such as associativity (to form semigroups); identity, and inverses (to form groups); and other more complex structures. With additional structure, more theorems could be proved, but the generality is reduced. The "hierarchy" of algebraic objects (in terms of generality) creates a hierarchy of the corresponding theories: for instance, the theorems of group theory may be used when studying rings (algebraic objects that have two binary operations with certain axioms) since a ring is a group over one of its operations. In general there is a balance between the amount of generality and the richness of the theory: more general structures have usually fewer nontrivial theorems and fewer applications.
+
+Examples of algebraic structures with a single binary operation are:
+
+Magma
+Quasigroup
+Monoid
+Semigroup
+GroupExamples involving several operations include:
+
+
+== Branches of abstract algebra ==
+
+
+=== Group theory ===
+
+A group is a set 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   together with a "group product", a binary operation 
+  
+    
+      
+        ⋅
+        :
+        G
+        ×
+        G
+        →
+        G
+      
+    
+    {\displaystyle \cdot :G\times G\rightarrow G}
+  . The group satisfies the following defining axioms:
+Identity: there exists an element 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   such that, for each element 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   in 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , it holds that 
+  
+    
+      
+        e
+        ⋅
+        a
+        =
+        a
+        ⋅
+        e
+        =
+        a
+      
+    
+    {\displaystyle e\cdot a=a\cdot e=a}
+  .
+Inverse: for each element 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , there exists an element 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   so that 
+  
+    
+      
+        a
+        ⋅
+        b
+        =
+        b
+        ⋅
+        a
+        =
+        e
+      
+    
+    {\displaystyle a\cdot b=b\cdot a=e}
+  .
+Associativity: for each triplet of elements 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+   in 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , it holds that 
+  
+    
+      
+        (
+        a
+        ⋅
+        b
+        )
+        ⋅
+        c
+        =
+        a
+        ⋅
+        (
+        b
+        ⋅
+        c
+        )
+      
+    
+    {\displaystyle (a\cdot b)\cdot c=a\cdot (b\cdot c)}
+  .
+
+
+== Applications ==
+Because of its generality, abstract algebra is used in many fields of mathematics and science. For instance, algebraic topology uses algebraic objects to study topologies. The Poincaré conjecture, proved in 2003, asserts that the fundamental group of a manifold, which encodes information about connectedness, can be used to determine whether a manifold is a sphere or not. Algebraic number theory studies various number rings that generalize the set of integers. Using tools of algebraic number theory, Andrew Wiles proved Fermat's Last Theorem.
+In physics, groups are used to represent symmetry operations, and the usage of group theory could simplify differential equations. In gauge theory, the requirement of local symmetry can be used to deduce the equations describing a system. The groups that describe those symmetries are Lie groups, and the study of Lie groups and Lie algebras reveals much about the physical system; for instance, the number of force carriers in a theory is equal to the dimension of the Lie algebra, and these bosons interact with the force they mediate if the Lie algebra is nonabelian.
+
+
+== See also ==
+
+Coding theory
+Group theory
+List of publications in abstract algebra
+
+
+== References ==
+
+
+=== Bibliography ===
+
+
+== Further reading ==
+Allenby, R. B. J. T. (1991), Rings, Fields and Groups, Butterworth-Heinemann, ISBN 978-0-340-54440-2
+Artin, Michael (1991), Algebra, Prentice Hall, ISBN 978-0-89871-510-1
+Burris, Stanley N.; Sankappanavar, H. P. (1999) [1981], A Course in Universal Algebra
+Gilbert, Jimmie; Gilbert, Linda (2005), Elements of Modern Algebra, Thomson Brooks/Cole, ISBN 978-0-534-40264-8
+Lang, Serge (2002), Algebra, Graduate Texts in Mathematics, vol. 211 (Revised third ed.), New York: Springer-Verlag, ISBN 978-0-387-95385-4, MR 1878556
+Sethuraman, B. A. (1996), Rings, Fields, Vector Spaces, and Group Theory: An Introduction to Abstract Algebra via Geometric Constructibility, Berlin, New York: Springer-Verlag, ISBN 978-0-387-94848-5
+Whitehead, C. (2002), Guide to Abstract Algebra (2nd ed.), Houndmills: Palgrave, ISBN 978-0-333-79447-0
+W. Keith Nicholson (2012) Introduction to Abstract Algebra, 4th edition, John Wiley & Sons ISBN 978-1-118-13535-8 .
+John R. Durbin (1992) Modern Algebra : an introduction, John Wiley & Sons
+
+
+== External links ==
+
+Charles  C. Pinter (1990) [1982] A Book  of Abstract Algebra, second edition, from University of Maryland
+

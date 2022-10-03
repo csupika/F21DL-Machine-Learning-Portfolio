@@ -1,0 +1,873 @@
+####### TITLE #######
+
+Electric motor
+
+####### LINKS #######
+
+['AC-to-AC converter', 'AC motor', 'Acceleration', 'Adaptive control', 'Adolphe Ganot', 'Alcohol fuel', 'Alessandro Volta', 'Allen Kent', 'Alloy wheel', 'Alternating current', 'Alternative fuel vehicle', 'Alternator', 'American Institute of Electrical Engineers', 'American Petroleum Institute', 'Amplidyne', "Ampère's force law", 'Andrew Gordon (Benedictine)', 'André-Marie Ampère', 'Angular frequency', 'Antonio Pacinotti', "Arago's rotations", 'Armature (electrical)', 'Armature (electrical engineering)', 'Artificial neural network', 'Autogas', 'Automated manual transmission', 'Automatic transmission', 'Automation and Remote Control', 'Automotive engine', 'Axial flux motor', 'Ball bearing motor', "Barlow's wheel", 'Battery (electricity)', 'Battery electric bus', 'Battery electric multiple unit', 'Battery electric vehicle', 'Battery power', 'Bearing (mechanical)', 'Benjamin Franklin', 'Benjamin G. Lamme', 'Bi-fuel vehicle', 'Bibcode (identifier)', 'Biodiesel', 'Biofuel', 'Biogas', 'Biogasoline', 'Block diagram', 'Blocked rotor test', 'Bode plot', 'Braking chopper', 'Brine', 'Brush (electric)', 'Brushed DC electric motor', 'Brushed motor', 'Brushless AC electric motor', 'Brushless DC electric motor', 'Brushless DC motor', 'Brushless motor', 'Butanol fuel', 'Capstan (tape recorder)', 'Car', 'Carbon', 'Cater MetroTrolley', 'Chain drive', 'Charles-Augustin de Coulomb', 'Charles Eugene Lancelot Brown', 'Charles F. Scott (engineer)', 'Charles Proteus Steinmetz', 'Chicago "L"', 'Chronographs', 'Circle diagram', 'Closed-loop controller', 'Closed-loop transfer function', 'Clutch', 'Coefficient diagram method', 'Cogging torque', 'Coil winding technology', 'Coilgun', 'Common ethanol fuel mixtures', 'Commutator (electric)', 'Compressed-air vehicle', 'Compressed air car', 'Constant-velocity joint', 'Continuously variable transmission', 'Control Theory', 'Control reconfiguration', 'Control theory', 'Controllability', "Coulomb's law", 'Counter-electromotive force', 'Coupling', 'Cross product', 'Current (electricity)', 'Current source', 'Cycloconverter', 'DC injection braking', 'DC motor', 'Dahlander pole changing motor', 'Dictionary of National Biography', 'Diesel engine', 'Differential (mechanical device)', 'Digital control', 'Digital signal processing', 'Direct-drive mechanism', 'Direct-shift gearbox', 'Direct current', 'Direct torque control', 'Discrete-time signal', 'Distributed Control System', 'Distributed parameter systems', 'Doi (identifier)', 'Donald G. Fink', 'Doubly-fed electric machine', 'Drive shaft', 'Drive wheel', 'Dual-clutch transmission', 'Dual-rotor permanent magnet induction motor', 'E85', 'Eddy current', 'Electric aircraft', 'Electric bicycle', 'Electric boat', 'Electric bus', 'Electric car', 'Electric current', 'Electric field', 'Electric generator', 'Electric kick scooter', 'Electric locomotive', 'Electric machine', 'Electric motor', 'Electric motorcycles and scooters', 'Electric platform truck', 'Electric power distribution', 'Electric truck', 'Electric vehicle', 'Electrical contacts', 'Electrical energy', 'Electrical noise', 'Electrically powered spacecraft propulsion', 'Electrodynamic tether', 'Electromagnet', 'Electromagnetic coil', 'Electromagnetic induction', 'Electromagnetically induced acoustic noise and vibration', 'Electromagnetism', 'Electromotive force', 'Electrorheological clutch', 'Electrostatic motor', 'Embedded system', 'Emil Lenz', 'Emily Davenport', 'Energy-shaping control', 'Energy conversion efficiency', 'Energy recovery', 'Epicyclic gearing', 'Eric Laithwaite', 'Ethanol fuel', 'Fan (machine)', 'Ferromagnetic', 'Field coil', 'Field winding', 'Flexible-fuel vehicle', 'Fluid coupling', 'Fourier transform', 'Fractional-horsepower motor', 'Fractional-order control', 'Frank J. Sprague', 'Frank Julian Sprague', 'François Arago', 'Frequency response', 'Friction drive', 'Friedrich von Hefner-Alteneck', 'Fuel cell', 'Fuel cell vehicle', 'Fuzzy control', 'Fuzzy logic', 'Galileo Ferraris', 'Gear stick', 'General Electric Company', 'George Westinghouse', 'Giubo', 'Giuseppe Domenico Botto', 'Goodness factor', 'H-infinity loop-shaping', 'Hall effect', 'Hall effect sensor', 'Hammond organ', 'Hankel singular value', 'Hans Christian Ørsted', 'Hard disk drive', 'Hdl (identifier)', 'Henry Cavendish', 'Hippolyte Pixii', 'History of steam road vehicles', 'History of the electric motor', 'Homopolar motor', 'Horsepower', 'Hotchkiss drive', 'Hubcap', 'Human power', 'Hungary', 'Hybrid computer', 'Hybrid electric vehicle', 'Hybrid train', 'Hybrid vehicle', 'Hybrid vehicle drivetrain', 'Hydrogen', 'Hydrogen economy', 'Hydrogen internal combustion engine vehicle', 'Hydrogen vehicle', 'ISBN (identifier)', 'Ice box', 'Imperial units', 'Inchworm motor', 'Indian Standard', 'Inductance', 'Induction motor', 'Industrial Control Systems', 'Inkjet printers', 'Institute of Electrical and Electronics Engineers', 'Intelligent control', 'Internal combustion engine', 'International Electrotechnical Commission', 'International System of Units', 'Inverter (electrical)', 'James Clerk Maxwell', 'James Joule', 'Jonas Wenström', 'Joseph Henry', 'Joseph Saxton', 'Joule heating', 'Kalman filter', "Krener's theorem", 'Laplace transform', 'Lead-lag compensator', 'Least squares', 'Limited-slip differential', 'Linear induction motor', 'Linear motor', 'Liquid nitrogen engine', 'List of modern production plug-in electric vehicles', 'List of production battery electric vehicles', 'List of prototype solar-powered cars', 'Locking differential', 'Lord Kelvin', 'Lorentz force', 'Lorentz force law', 'Losses in electrical systems', 'Loudspeaker', 'Lyapunov stability', 'Lynch motor', 'MEMS', 'Maglev train', 'Magnet', 'Magnetic circuit', 'Magnetic core', 'Magnetic field', 'Magnetism', 'Magnetizing current', 'Magnetosphere', 'Magnetostriction', 'Manual transmission', 'Manumatic', 'Maschinenfabrik Oerlikon', 'Maxwell stress tensor', 'Mechanical energy', 'Mechatronics', 'Mendocino motor', 'Metadyne', 'Methanol economy', 'Methanol fuel', 'Michael Faraday', 'Mikhail Dolivo-Dobrovolsky', 'Minor loop feedback', 'Model aircraft', 'Model predictive control', 'Moritz von Jacobi', 'Motion control', 'Motor (disambiguation)', 'Motor capacitor', 'Motor controller', 'Motor drive', 'Motor soft starter', 'Mouse mill motor', 'Multifuel', 'Multivariable', 'National Electrical Manufacturers Association', 'Natural gas vehicle', 'Nature (journal)', 'Negative feedback', 'Neighborhood Electric Vehicle', 'Neodymium', 'Neural', 'Nikola Tesla', 'Nonlinear control', 'Numerical control', 'OEM', 'Observability', 'Off-road tire', 'Open-circuit test', 'Open-loop controller', 'Operating temperature', 'Optimal control', 'PID controller', 'Park by wire', 'Parking pawl', 'Pedelec', 'Perceptual control theory', 'Performance', 'Permanent-magnet electric motor', 'Permanent magnet', 'Permanent magnet motor', 'Permanent magnet synchronous motor', 'Peter Barlow (mathematician)', 'Petrol engine', 'Physicist', 'Piezoelectric motor', 'Piezoelectricity', 'Platen', 'Plug-in electric vehicle', 'Plug-in hybrid', 'Pneumatic motor', 'Positive feedback', 'Potting (electronics)', 'Power-to-weight ratio', 'Power factor', 'Power inverter', 'Powertrain', 'Preselector gearbox', 'Process Control', 'Programmable logic controller', 'Propane', 'Pulse-width modulation', 'Pumped-storage hydroelectricity', 'Quantization (signal processing)', 'Quarterly Journal of Science', 'Racing slick', 'Radial tire', 'Radio frequency interference', 'Railgun', 'Railway electrification system', 'Rain tyre', 'Real-time computing', 'Real-time control', 'Rectifiers', 'Regenerative brake', 'Regenerative braking', 'Reluctance motor', 'Repulsion motor', 'Resin', 'Resistivity', 'Revenge of the Electric Car', 'Revolutions per minute', 'Richmond, Virginia', 'Rim (wheel)', 'Robert Davidson (inventor)', 'Robert H. Park', 'Robotics', 'Robust control', 'Root Locus', 'Rotating magnetic field', 'Rotor (electric)', 'Royal Institution', 'Run-flat tire', 'S2CID (identifier)', 'SCADA', 'Samarium', 'Sample (statistics)', 'Saturation (magnetic)', 'Scalar (mathematics)', 'Semi-automatic transmission', 'Sentinel Waggon Works', 'Servo motor', 'Servomechanism', 'Servomotor', 'Shaded-pole motor', 'Shift-by-wire', 'Short circuits', 'Signal-flow graph', 'Silvanus Phillips Thompson', 'Single-phase', 'Singly-fed electric machine', 'Slip ring', 'Snow tire', 'Soft magnetic material', 'Solar bus', 'Solar car', 'Solar power', 'Solar vehicle', 'Solenoid', 'South Side Elevated Railroad', 'Spare tire', 'Squirrel-cage rotor', 'Stability theory', 'Stall torque', 'Starter (engine)', 'State observer', 'State space representation', 'Stator', 'Steady State', 'Stepper motor', 'Stochastic control', 'Superconducting electric machine', 'Switch', 'Switched reluctance motor', 'Synchronous motor', 'System Dynamics', 'System identification', 'TEFC motor', 'TRIAC', 'Tachometer', 'Telechron', 'Tesla turbine', 'Thomas Davenport (inventor)', 'Thomas Edison', 'Three-phase', 'Time constant', 'Timeline of the electric motor', 'Tire', 'Torque', 'Torque converter', 'Torque motor', 'Traction motor', 'Transaxle', 'Transfer function', 'Transformer', 'Transmission (mechanics)', 'Transmission control unit', 'Tubeless tire', 'Two-phase electric power', 'Ultrasonic motor', 'Underwriters Laboratories', 'Unipolar motor', 'Universal joint', 'Universal motor', 'University of Regensburg', 'Utility frequency', 'Variable-frequency drive', 'Vector control (motor)', 'Vibrating alert', 'Voltage controller', 'Voltage source', 'Ward Leonard control', 'Watt', 'Werner Siemens', 'Werner von Siemens', 'What Is the Electric Car?', 'Wheel', 'Wheel hub assembly', 'Who Killed the Electric Car?', 'William Sturgeon', 'Wind-powered vehicle', 'Wood gas', 'Wound rotor motor', 'Z Transform', 'Zero-emissions vehicle', 'Zénobe Gramme', 'Ányos Jedlik']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles to be expanded', 'All articles with unsourced statements', 'Articles needing additional references from July 2022', 'Articles to be expanded from March 2013', 'Articles using small message boxes', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with EMU identifiers', 'Articles with FAST identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with multiple identifiers', 'Articles with short description', 'Articles with unsourced statements from December 2015', 'Articles with unsourced statements from July 2022', 'Articles with unsourced statements from March 2013', 'Articles with unsourced statements from September 2013', 'British inventions', 'CS1: Julian–Gregorian uncertainty', 'CS1: long volume value', 'CS1 German-language sources (de)', 'CS1 errors: generic name', 'CS1 errors: missing periodical', 'Commons category link is on Wikidata', 'Electric motors', 'Electromagnetic components', 'Energy conversion', 'Harv and Sfn no-target errors', 'Hungarian inventions', 'Magnetic propulsion devices', 'Short description is different from Wikidata', 'Wikipedia articles incorporating a citation from the ODNB', 'Wikipedia articles needing clarification from July 2022', 'Wikipedia articles needing context from March 2012']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/7/7b/An_electric_motor_presented_to_Kelvin_by_James_Joule_in_1842%2C_Hunterian_Museum%2C_Glasgow.jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/14/Crystal_energy.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/89/Electric_motor.gif', 'https://upload.wikimedia.org/wikipedia/commons/0/04/Electric_motor_cycle_2.png', 'https://upload.wikimedia.org/wikipedia/commons/2/20/Elliott-Motor.jpg', 'https://upload.wikimedia.org/wikipedia/commons/0/05/Faraday_magnetic_rotation.jpg', 'https://upload.wikimedia.org/wikipedia/commons/9/98/Jedlik_motor.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Miniature_Coreless_DC_Motor.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/7a/Nuvola_apps_kcmsystem.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Nuvola_apps_ksim.png', 'https://upload.wikimedia.org/wikipedia/commons/4/4f/Salient-pole_rotor.png', 'https://upload.wikimedia.org/wikipedia/commons/1/1c/Serie_Shunt_Coumpound.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/58/Stator_and_rotor_by_Zureks.JPG', 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Stepper_motor.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/ef/Switched_reluctance_motor_6-4.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecom-icon.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Universal_motor_commutator.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/cc/Universalmotor_3.JPG', 'https://upload.wikimedia.org/wikipedia/commons/1/1c/Wiki_letter_w_cropped.svg', 'https://upload.wikimedia.org/wikipedia/en/b/b4/Ambox_important.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/e/e3/P_train.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/e/e2/Symbol_portal_class.svg']
+
+####### REFERENCES #######
+
+['http://www.ece.ualberta.ca/~knight/electrical_machines/fundamentals/f_main.html', 'http://www.electronicsweekly.com/Articles/13/08/2010/46377/dyson-vacuums-104000rpm-brushless-dc-technology.htm', 'http://designcenter.gates.com/wp-content/uploads/2015/05/Gates-How-Belt-Drives-Impact-Overhung-Load-White-Paper.pdf', 'http://scholar.google.com/scholar?q=%22Electric+motor%22', 'http://www.google.com/search?&q=%22Electric+motor%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Electric+motor%22', 'http://www.google.com/search?tbm=nws&q=%22Electric+motor%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Electric+motor%22+-wikipedia', 'http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1979-02.pdf', 'http://www.lead-central.com/AssetManager/02427e68-6f15-4f3a-9749-d37abf613741/Documents/APW2012/Low%20Voltage%20Drives%20Motors/ABB-136_WPO_Motoring%20ahead.pdf', 'http://www.mpoweruk.com/history.htm', 'http://www.mpoweruk.com/timeline.htm', 'http://zone.ni.com/devzone/cda/ph/p/id/46', 'http://www.sparkmuseum.com/MOTORS.HTM', 'http://www.tethers.com/LaunchAssist.html', 'http://www.traveltohungary.com/english/articles/article.php?id=136', 'http://www.vde.com/de/fg/ETG/Arbeitsgebiete/Geschichte/Aktuelles/Seiten/150JMDD.aspx', 'http://www.fh-zwickau.de/mbk/kfz_ee/praesentationen/Elma-Gndl-Generator%20-%20Druckversion.pdf', 'http://www.uni-regensburg.de/Fakultaeten/phil_Fak_I/Philosophie/Wissenschaftsgeschichte/Termine/E-Maschinen-Lexikon/Chronologie.htm', 'http://www.fi.edu/learn/case-files/tesla/motor.html', 'http://www.eti.kit.edu/english/1376.php', 'http://fab.cba.mit.edu/classes/865.18/motion/brushless/index.html', 'http://mitpress.mit.edu/books/electrifying-america', 'http://web.mit.edu/course/6/6.685/www/chapter1.pdf', 'http://vtb.engr.sc.edu/vtbwebsite/downloads/publications/IEMDCpaper.pdf', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX524660', 'http://www1.eere.energy.gov/industry/bestpractices/pdfs/mc-0382.pdf', 'http://www1.eere.energy.gov/industry/bestpractices/pdfs/variable_speed_pumping.pdf', 'http://www.frankfurt.matav.hu/angol/magytud.htm', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007535933805171', 'http://techon.nikkeibp.co.jp/english/NEWS_EN/20090403/168295/', 'http://hdl.handle.net/11577%2F3282911', 'http://hdl.handle.net/11577%2F3286584', 'http://doi.org/10.1007%2F978-3-319-23853-1_2', 'http://doi.org/10.1038%2F053516a0', 'http://doi.org/10.1088%2F1478-7814%2F3%2F1%2F318', 'http://doi.org/10.1093%2Fref:odnb%2F26748', 'http://doi.org/10.1098%2Frstl.1825.0023', 'http://doi.org/10.1109%2FIAS.1990.152299', 'http://doi.org/10.1109%2FIEMDC.2003.1210392', 'http://doi.org/10.1109%2FMIE.2014.2335431', 'http://doi.org/10.1109%2FMIE.2014.2361237', 'http://doi.org/10.1109%2FMIE.2018.2856546', 'http://doi.org/10.1109%2FMIE.2018.2874375', 'http://doi.org/10.1109%2FOPTIM.2010.5510481', 'http://doi.org/10.1109%2FPROC.1975.9734', 'http://doi.org/10.1109%2FPROC.1976.10329', 'http://doi.org/10.1109%2FSLED.2012.6422811', 'http://doi.org/10.1109%2FT-AIEE.1947.5059594', 'http://doi.org/10.1109%2FTIA.1987.4504902', 'http://ethw.org/Antonio_Pacinotti', 'http://www.ibiblio.org/obp/electricCircuits/AC/AC_13.html', 'http://www.invent.org/hall_of_fame/270.html', 'http://www.nema.org/Standards/Pages/Information-Guide-for-General-Purpose-Industrial-AC-Small-and-Medium-Squirrel-Cage-Induction-Motor-Standards.aspx', 'http://www.teslasociety.org/timeline.html', 'http://id.worldcat.org/fast/905256/', 'http://materialy.itc.pw.edu.pl/zpnis/electric_machines_I/ForStudents/Script_EMIHanneberger.pdf', 'http://www.doiserbia.nb.rs/img/doi/1451-4869/2006/1451-48690603202V.pdf', 'http://esu.com.ua/search_articles.php?id=17735', 'http://esu.com.ua/search_articles.php?id=17755', 'https://www.energyrating.gov.au/sites/default/files/documents/Product_profile_-_Electric_motors_September_2013.pdf', 'https://cleantechnica.com/2018/03/11/tesla-model-3-motor-in-depth/', 'https://books.google.com/books?id=2_58p3Z69bIC&pg=PA162', 'https://books.google.com/books?id=31O4upzTHQwC&pg=PA39', 'https://books.google.com/books?id=5mvVElGudyYC', 'https://books.google.com/books?id=85AOAAAAIAAJ&pg=PA286', 'https://books.google.com/books?id=BYkwEsmHqKYCPropulsion&pg=PA68', 'https://books.google.com/books?id=FpEFCwAAQBAJ&q=%22electric+motor%22+armature+lorentz+field+winding', 'https://books.google.com/books?id=Hdvr82d23&pg=PA142', 'https://books.google.com/books?id=HxdHDgAAQBAJPower&pg=PA1042', 'https://books.google.com/books?id=IdCg2dDZQr8C&pg=PA38', 'https://books.google.com/books?id=QznSAAAAMAAJ', 'https://books.google.com/books?id=U-RxikH3aXEC&pg=PA378', 'https://books.google.com/books?id=VCHumncaeAAC&pg=PA134', 'https://books.google.com/books?id=WKuG-VIwID8C&pg=PA305', 'https://books.google.com/books?id=YBKk4kWSle0C', 'https://books.google.com/books?id=blHcc6B8JO0C&pg=PA82', 'https://books.google.com/books?id=bmfgtgEACAAJ', 'https://books.google.com/books?id=cq6RPPsOyt8C&pg=PA14', 'https://books.google.com/books?id=ewKqDQAAQBAJ&pg=PA6', 'https://books.google.com/books?id=g07Q9M4agp4C&pg=PA117', 'https://books.google.com/books?id=iyZTAAAAMAAJ', 'https://books.google.com/books?id=l9YiAAAAMAAJ', 'https://books.google.com/books?id=n--ivouMng8C&pg=PA1204', 'https://books.google.com/books?id=qP7HvuakLgEC&pg=PA1456', 'https://books.google.com/books?id=tG9LqKd2x2IC&pg=PA9', 'https://books.google.com/books?id=w0o5Ld53wAEC&pg=PA164', 'https://books.google.com/books?id=xxOgQgAACAAJD', 'https://books.google.com/books?id=ywiBVSnYm6IC', 'https://insideevs.com/news/361185/magnax-axial-flux-electric-motor/', 'https://newatlas.com/automotive/equipmake-worlds-most-power-dense-electric-motor/', 'https://newatlas.com/magnax-axial-flux-electric-motor/54821', 'https://www.nidec.com/en/technology/casestudy/resin_pack_motor/', 'https://www.oxforddnb.com/help/subscribe#public', 'https://www.powerelectronictips.com/difference-brushless-dc-motor-shaded-pole-induction-motor/', 'https://www.turbomachinerymag.com/view/permanent-magnet-vs-induction-motors', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph208854&CON_LNG=ENG', 'https://ui.adsabs.harvard.edu/abs/1825RSPT..115..467B', 'https://ui.adsabs.harvard.edu/abs/1879PPSL....3..115B', 'https://ui.adsabs.harvard.edu/abs/1896Natur..53..516H', 'https://ui.adsabs.harvard.edu/abs/1975IEEEP..63..250L', 'https://www.eti.kit.edu/english/1382.php', 'https://www.physics.umd.edu/lecdem/services/demos/demosk4/k4-21.gif', 'https://catalogue.bnf.fr/ark:/12148/cb11938455s', 'https://data.bnf.fr/ark:/12148/cb11938455s', 'https://www.energy.gov/sites/prod/files/2014/04/f15/10097517.pdf', 'https://id.loc.gov/authorities/subjects/sh85041835', 'https://d-nb.info/gnd/4014315-6', 'https://www.toyodenki.co.jp/en/products/transport/train/motor.php', 'https://id.ndl.go.jp/auth/ndlna/00561302', 'https://archive.org/details/elementarytreati00ganorich', 'https://archive.org/details/elementarytreati00ganorich/page/907', 'https://archive.org/details/quarterlyjournal12jour', 'https://archive.org/details/quarterlyjournal12jour/page/74', 'https://archive.org/details/recenttypesdyna00kenngoog', 'https://archive.org/stream/philtrans03806447/03806447#page/n0/mode/2up', 'https://archive.org/stream/polyphaseelectri00thomuoft#page/n5/mode/2up', 'https://web.archive.org/web/20071012234329/http://zone.ni.com/devzone/cda/ph/p/id/46', 'https://web.archive.org/web/20100613193529/http://vtb.engr.sc.edu/vtbwebsite/downloads/publications/IEMDCpaper.pdf', 'https://web.archive.org/web/20110101131311/http://techon.nikkeibp.co.jp/english/NEWS_EN/20090403/168295/', 'https://web.archive.org/web/20110411000202/http://www.physics.umd.edu/lecdem/services/demos/demosk4/k4-21.gif', 'https://web.archive.org/web/20110512173049/http://www.mpoweruk.com/history.htm', 'https://web.archive.org/web/20110609031544/http://www.uni-regensburg.de/Fakultaeten/phil_Fak_I/Philosophie/Wissenschaftsgeschichte/Termine/E-Maschinen-Lexikon/Chronologie.htm', 'https://web.archive.org/web/20110902144422/http://www1.eere.energy.gov/industry/bestpractices/pdfs/mc-0382.pdf', 'https://web.archive.org/web/20111027042737/http://www1.eere.energy.gov/industry/bestpractices/pdfs/variable_speed_pumping.pdf', 'https://web.archive.org/web/20120327132234/http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1979-02.pdf', 'https://web.archive.org/web/20120411205153/http://www.electronicsweekly.com/Articles/13/08/2010/46377/dyson-vacuums-104000rpm-brushless-dc-technology.htm', 'https://web.archive.org/web/20120508181221/http://www.teslasociety.org/timeline.html', 'https://web.archive.org/web/20121101131313/http://www.invent.org/hall_of_fame/270.html', 'https://web.archive.org/web/20121112163653/http://books.google.com/books?id=WKuG-VIwID8C&pg=PA305&lpg=PA305&dq=tesla+hired+by+westinghouse&source=bl&ots=KDI0aTz0EK&sig=oct2jnPyWkQ3qvUR-JmstK9F0FI&hl=en&sa=X&ei=jRwxUKK3LtS80QHjxoGYAg&sqi=2&ved=0CEEQ6AEwAw#v=onepage&q=tesla%20hired%20by%20westinghouse&f=false', 'https://web.archive.org/web/20121118121135/http://www.fi.edu/learn/case-files/tesla/motor.html', 'https://web.archive.org/web/20130210003139/http://materialy.itc.pw.edu.pl/zpnis/electric_machines_I/ForStudents/Script_EMIHanneberger.pdf', 'https://web.archive.org/web/20130225110200/http://www.vde.com/de/fg/ETG/Arbeitsgebiete/Geschichte/Aktuelles/Seiten/150JMDD.aspx', 'https://web.archive.org/web/20130302153035/http://mpoweruk.com/timeline.htm', 'https://web.archive.org/web/20130306085840/http://www.sparkmuseum.com/MOTORS.HTM', 'https://web.archive.org/web/20130403044745/http://mitpress.mit.edu/books/electrifying-america', 'https://web.archive.org/web/20130704153359/http://www.doiserbia.nb.rs/img/doi/1451-4869/2006/1451-48690603202V.pdf', 'https://web.archive.org/web/20130718235942/http://www.ece.ualberta.ca/~knight/electrical_machines/fundamentals/f_main.html', 'https://web.archive.org/web/20130720005001/http://www.traveltohungary.com/english/articles/article.php?id=136', 'https://web.archive.org/web/20130826080638/http://www.frankfurt.matav.hu/angol/magytud.htm', 'https://web.archive.org/web/20130914192636/http://www.fh-zwickau.de/mbk/kfz_ee/praesentationen/Elma-Gndl-Generator%20-%20Druckversion.pdf', 'https://web.archive.org/web/20160222054609/http://designcenter.gates.com/wp-content/uploads/2015/05/Gates-How-Belt-Drives-Impact-Overhung-Load-White-Paper.pdf', 'https://web.archive.org/web/20160305154622/http://ethw.org/Antonio_Pacinotti', 'https://web.archive.org/web/20161130131125/http://www.energy.gov:80/sites/prod/files/2014/04/f15/10097517.pdf', 'https://web.archive.org/web/20161201050558/https://books.google.com/books?id=g07Q9M4agp4C&pg=PA117&dq=Galileo+Ferraris+and+rotating+magnetic+field&hl=en&sa=X&ei=NMp0T_bXL6Gc2AXt7e3ODg&ved=0CDAQ6AEwAA#v=onepage&q=Galileo%20Ferraris%20and%20rotating%20magnetic%20field&f=false', 'https://web.archive.org/web/20161201085428/https://books.google.com/books?id=2_58p3Z69bIC&pg=PT162&lpg=PT162&dq=tesla+%22motors+were+in+the+air%22&source=bl&ots=6T_6E2qmuT&sig=8YDP2sdzVB13V-KtO0xxdm0_Ae4&hl=en&sa=X&ei=lflNUMLUH6Tw0gHLlYCIDA&ved=0CC0Q6AEwAA#v=onepage&q=tesla%20%22motors%20were%20in%20the%20air%22&f=false', 'https://web.archive.org/web/20161201151805/https://books.google.com/books?id=31O4upzTHQwC&pg=PA39&dq=In+1891+Telluride+westinghouse+induction+motor&hl=en&sa=X&ei=Qc3PUP-ZA--n0AHah4HwBA&sqi=2&ved=0CFMQ6AEwBA#v=onepage&q=In%201891%20Telluride%20westinghouse%20induction%20motor&f=false', 'https://web.archive.org/web/20161201152007/https://books.google.com/books?id=85AOAAAAIAAJ&pg=PA286&lpg=PA286', 'https://web.archive.org/web/20170104210907/http://web.mit.edu/course/6/6.685/www/chapter1.pdf', 'https://web.archive.org/web/20170512221521/http://www.eti.kit.edu/english/1382.php', 'https://web.archive.org/web/20171116050844/http://www.tethers.com/LaunchAssist.html', 'https://web.archive.org/web/20180104232726/https://books.google.com/books?id=qP7HvuakLgEC&pg=PA1456&lpg=PA1456&dq=origin+of+electrical+term+armature&source=bl&ots=X0qY0ZGjJ1&sig=KSL5I8XwKUrXVAlQ6fsf8jxNhWI&hl=en&sa=X&ei=oBogUYiACsShiQLxi4Ew&ved=0CEwQ6AEwBQ#v=onepage&q=origin%20of%20electrical%20term%20armature&f=false', 'https://web.archive.org/web/20180104232726/https://books.google.com/books?id=QznSAAAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false', 'https://web.archive.org/web/20180104232726/https://books.google.com/books?id=w0o5Ld53wAEC&pg=PT164&lpg=PT164&dq=pacinotti+dc+motor&source=bl&ots=s9gxdk7Xb1&sig=6bXaoWnI8s1M1SXb-cQl9KUtzLc&hl=en&sa=X&ved=0ahUKEwi_-u_B75PLAhWBPpQKHTksCO8Q6AEIODAG#v=onepage&q=pacinotti%20dc%20motor&false', 'https://web.archive.org/web/20180104232727/https://books.google.com/books?id=U-RxikH3aXEC&pg=PA378&lpg=PA378&dq=Ionel,+D.M&source=bl&ots=3dMK2uR8Nx&sig=NN3mUqDsWms5wXNVMc7bQjjxFZE&hl=en&sa=X&ei=o2QyUdSJN-jXiAL7q4G4Cg&ved=0CDsQ6AEwAzgK#v=onepage&q&f=false', 'https://web.archive.org/web/20180104232727/https://books.google.com/books?id=tG9LqKd2x2IC&pg=SA9-PA5&lpg=SA9-PA5&dq=hysteresis+motor+application&source=bl&ots=n8jJlfrSjI&sig=fonmxgJc-tckVlNYm9fE0df60eI&hl=en&sa=X&ei=EEApUb6gGYL5igKpl4DICA&sqi=2&ved=0CH4Q6AEwDg#v=onepage&q=hysteresis%20motor%20application&f=false', 'https://web.archive.org/web/20200328010904/https://www.energyrating.gov.au/sites/default/files/documents/Product_profile_-_Electric_motors_September_2013.pdf', 'https://spectrum.ieee.org/axial-flux', 'https://www.jstor.org/action/doBasicSearch?Query=%22Electric+motor%22&acc=on&wc=on', 'https://www.rigb.org/explore-science/explore/blog/birth-electric-motion', 'https://api.semanticscholar.org/CorpusID:14777000', 'https://api.semanticscholar.org/CorpusID:20400221', 'https://api.semanticscholar.org/CorpusID:25815578', 'https://api.semanticscholar.org/CorpusID:34246664', 'https://api.semanticscholar.org/CorpusID:39105914', 'https://api.semanticscholar.org/CorpusID:42191157', 'https://api.semanticscholar.org/CorpusID:51670991', 'https://api.semanticscholar.org/CorpusID:52899118', 'https://api.semanticscholar.org/CorpusID:56597952', 'https://www.wikidata.org/wiki/Q72313#identifiers', 'https://en.engineering-solutions.ru/motorcontrol/motor/#classification']
+
+####### SUMMARY #######
+
+An electric motor is an electrical machine that converts electrical energy into mechanical energy. Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate force in the form of torque applied on the motor's shaft. An electric generator is mechanically identical to an electric motor, but operates with a reversed flow of power, converting mechanical energy into electrical energy.
+Electric motors can be powered by direct current (DC) sources, such as from batteries, or rectifiers, or by alternating current (AC) sources, such as a power grid, inverters or electrical generators.
+Electric motors may be classified by considerations such as power source type, construction, application and type of motion output. They can be powered by AC or DC, be brushed or brushless, single-phase, two-phase, or three-phase, axial or radial flux, and may be air-cooled or liquid-cooled.
+Standardized motors provide convenient mechanical power for industrial use. The largest are used for ship propulsion, pipeline compression and pumped-storage applications with output exceeding 100 megawatts.
+Applications include industrial fans, blowers and pumps, machine tools, household appliances, power tools, vehicles, and disk drives. Small motors may be found in electric watches. In certain applications, such as in regenerative braking with traction motors, electric motors can be used in reverse as generators to recover energy that might otherwise be lost as heat and friction.
+Electric motors produce linear or rotary force (torque) intended to propel some external mechanism, such as a fan or an elevator. An electric motor is generally designed for continuous rotation, or for linear movement over a significant distance compared to its size. Magnetic solenoids are also transducers that convert electrical power to mechanical motion, but can produce motion over only a limited distance.
+
+####### CONTENT #######
+
+An electric motor is an electrical machine that converts electrical energy into mechanical energy. Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate force in the form of torque applied on the motor's shaft. An electric generator is mechanically identical to an electric motor, but operates with a reversed flow of power, converting mechanical energy into electrical energy.
+Electric motors can be powered by direct current (DC) sources, such as from batteries, or rectifiers, or by alternating current (AC) sources, such as a power grid, inverters or electrical generators.
+Electric motors may be classified by considerations such as power source type, construction, application and type of motion output. They can be powered by AC or DC, be brushed or brushless, single-phase, two-phase, or three-phase, axial or radial flux, and may be air-cooled or liquid-cooled.
+Standardized motors provide convenient mechanical power for industrial use. The largest are used for ship propulsion, pipeline compression and pumped-storage applications with output exceeding 100 megawatts.
+Applications include industrial fans, blowers and pumps, machine tools, household appliances, power tools, vehicles, and disk drives. Small motors may be found in electric watches. In certain applications, such as in regenerative braking with traction motors, electric motors can be used in reverse as generators to recover energy that might otherwise be lost as heat and friction.
+Electric motors produce linear or rotary force (torque) intended to propel some external mechanism, such as a fan or an elevator. An electric motor is generally designed for continuous rotation, or for linear movement over a significant distance compared to its size. Magnetic solenoids are also transducers that convert electrical power to mechanical motion, but can produce motion over only a limited distance.
+
+
+== History ==
+
+
+=== Early motors ===
+
+Before modern electromagnetic motors, experimental motors that worked by electrostatic force were investigated. The first electric motors were simple electrostatic devices described in experiments by Scottish monk Andrew Gordon and American experimenter Benjamin Franklin in the 1740s. The theoretical principle behind them, Coulomb's law, was discovered but not published, by Henry Cavendish in 1771. This law was discovered independently by Charles-Augustin de Coulomb in 1785, who published it so that it is now known with his name. Due to the difficulty of generating the high voltages they required, electrostatic motors were never used for practical purposes.
+The invention of the electrochemical battery by Alessandro Volta in 1799 made possible the production of persistent electric currents. Hans Christian Ørsted discovered in 1820 that an electric current creates a magnetic field, which can exert a force on a magnet. It only took a few weeks for André-Marie Ampère to develop the first formulation of the electromagnetic interaction and present the Ampère's force law, that described the production of mechanical force by the interaction of an electric current and a magnetic field.The first demonstration of the effect with a rotary motion was given by Michael Faraday on 3 September 1821 in the basement of the Royal Institution. A free-hanging wire was dipped into a pool of mercury, on which a permanent magnet (PM) was placed. When a current was passed through the wire, the wire rotated around the magnet, showing that the current gave rise to a close circular magnetic field around the wire. Faraday published the results of his discovery in the Quarterly Journal of Science, and sent copies of his paper along with pocket-sized models of his device to colleagues around the world so they could also witness the phenomenon of electromagnetic rotations. This motor is often demonstrated in physics experiments, substituting brine for (toxic) mercury. Barlow's wheel was an early refinement to this Faraday demonstration, although these and similar homopolar motors remained unsuited to practical application until late in the century.
+
+In 1827, Hungarian physicist Ányos Jedlik started experimenting with electromagnetic coils. After Jedlik solved the technical problems of continuous rotation with the invention of the commutator, he called his early devices "electromagnetic self-rotors". Although they were used only for teaching, in 1828 Jedlik demonstrated the first device to contain the three main components of practical DC motors: the stator, rotor and commutator. The device employed no permanent magnets, as the magnetic fields of both the stationary and revolving components were produced solely by the currents flowing through their windings.
+
+
+=== DC motors ===
+
+The first commutator DC electric motor capable of turning machinery was invented by British scientist William Sturgeon in 1832. Following Sturgeon's work, a commutator-type direct-current electric motor was built by American inventor Thomas Davenport and Emily Davenport, which he patented in 1837. The motors ran at up to 600 revolutions per minute, and powered machine tools and a printing press. Due to the high cost of primary battery power, the motors were commercially unsuccessful and bankrupted Davenport. Several inventors followed Sturgeon in the development of DC motors, but all encountered the same battery cost issues. As no electricity distribution system was available at the time, no practical commercial market emerged for these motors.After many other more or less successful attempts with relatively weak rotating and reciprocating apparatus Prussian/Russian Moritz von Jacobi created the first real rotating electric motor in May 1834. It developed remarkable mechanical output power. His motor set a world record, which Jacobi improved four years later in September 1838. His second motor was powerful enough to drive a boat with 14 people across a wide river. It was also in 1839/40 that other developers managed to build motors with similar and then higher performance.
+In 1855, Jedlik built a device using similar principles to those used in his electromagnetic self-rotors that was capable of useful work. He built a model electric vehicle that same year.A major turning point came in 1864, when Antonio Pacinotti first described the ring armature (although initially conceived in a DC generator, i.e. a dynamo). This featured symmetrically-grouped coils closed upon themselves and connected to the bars of a commutator, the brushes of which delivered practically non-fluctuating current. The first commercially successful DC motors followed the developments by Zénobe Gramme who, in 1871, reinvented Pacinotti's design and adopted some solutions by Werner Siemens.
+A benefit to DC machines came from the discovery of the reversibility of the electric machine, which was announced by Siemens in 1867 and observed by Pacinotti in 1869. Gramme accidentally demonstrated it on the occasion of the 1873 Vienna World's Fair, when he connected two such DC devices up to 2 km from each other, using one of them as a generator and the other as motor.The drum rotor was introduced by Friedrich von Hefner-Alteneck of Siemens & Halske to replace Pacinotti's ring armature in 1872, thus improving the machine efficiency. The laminated rotor was introduced by Siemens & Halske the following year, achieving reduced iron losses and increased induced voltages. In 1880, Jonas Wenström provided the rotor with slots for housing the winding, further increasing the efficiency.
+In 1886, Frank Julian Sprague invented the first practical DC motor, a non-sparking device that maintained relatively constant speed under variable loads. Other Sprague electric inventions about this time greatly improved grid electric distribution (prior work done while employed by Thomas Edison), allowed power from electric motors to be returned to the electric grid, provided for electric distribution to trolleys via overhead wires and the trolley pole, and provided control systems for electric operations. This allowed Sprague to use electric motors to invent the first electric trolley system in 1887–88 in Richmond, Virginia, the electric elevator and control system in 1892, and the electric subway with independently powered centrally-controlled cars. The latter were first installed in 1892 in Chicago by the South Side Elevated Railroad, where it became popularly known as the "L". Sprague's motor and related inventions led to an explosion of interest and use in electric motors for industry. The development of electric motors of acceptable efficiency was delayed for several decades by failure to recognize the extreme importance of an air gap between the rotor and stator. Efficient designs have a comparatively small air gap. The St. Louis motor, long used in classrooms to illustrate motor principles, is inefficient for the same reason, as well as appearing nothing like a modern motor.Electric motors revolutionized industry. Industrial processes were no longer limited by power transmission using line shafts, belts, compressed air or hydraulic pressure. Instead, every machine could be equipped with its own power source, providing easy control at the point of use, and improving power transmission efficiency. Electric motors applied in agriculture eliminated human and animal muscle power from such tasks as handling grain or pumping water. Household uses (like in washing machines, dishwashers, fans, air conditioners and refrigerators (replacing ice boxes)) of electric motors reduced heavy labor in the home and made higher standards of convenience, comfort and safety possible. Today, electric motors consume more than half of the electric energy produced in the US.
+
+
+=== AC motors ===
+
+In 1824, French physicist François Arago formulated the existence of rotating magnetic fields, termed Arago's rotations, which, by manually turning switches on and off, Walter Baily demonstrated in 1879 as in effect the first primitive induction motor. In the 1880s many inventors were trying to develop workable AC motors because AC's advantages in long-distance high-voltage transmission were offset by the inability to operate motors on AC.
+The first alternating-current commutatorless induction motor was invented by Galileo Ferraris in 1885. Ferraris was able to improve his first design by producing more advanced setups in 1886. In 1888, the Royal Academy of Science of Turin published Ferraris's research detailing the foundations of motor operation, while concluding at that time that "the apparatus based on that principle could not be of any commercial importance as motor."Possible industrial development was envisioned by Nikola Tesla, who invented independently his induction motor in 1887 and obtained a patent in May 1888. In the same year, Tesla presented his paper A New System of Alternate Current Motors and Transformers to the AIEE that described three patented two-phase four-stator-pole motor types: one with a four-pole rotor forming a non-self-starting reluctance motor, another with a wound rotor forming a self-starting induction motor, and the third a true synchronous motor with separately excited DC supply to rotor winding. One of the patents Tesla filed in 1887, however, also described a shorted-winding-rotor induction motor. George Westinghouse, who had already acquired rights from Ferraris (US$1,000), promptly bought Tesla's patents (US$60,000 plus US$2.50 per sold hp, paid until 1897), employed Tesla to develop his motors, and assigned C.F. Scott to help Tesla; however, Tesla left for other pursuits in 1889. The constant speed AC induction motor was found not to be suitable for street cars, but Westinghouse engineers successfully adapted it to power a mining operation in Telluride, Colorado in 1891. Westinghouse achieved its first practical induction motor in 1892 and developed a line of polyphase 60 hertz induction motors in 1893, but these early Westinghouse motors were two-phase motors with wound rotors. B.G. Lamme later developed a rotating bar winding rotor.Steadfast in his promotion of three-phase development, Mikhail Dolivo-Dobrovolsky invented the three-phase induction motor in 1889, of both types cage-rotor and wound rotor with a starting rheostat, and the three-limb transformer in 1890. After an agreement between AEG and Maschinenfabrik Oerlikon, Doliwo-Dobrowolski and Charles Eugene Lancelot Brown developed larger models, namely a 20-hp squirrel cage and a 100-hp wound rotor with a starting rheostat. These were the first three-phase asynchronous motors suitable for practical operation. Since 1889, similar developments of three-phase machinery were started Wenström. At the 1891 Frankfurt International Electrotechnical Exhibition, the first long distance three-phase system was successfully presented. It was rated 15 kV and extended over 175 km from the Lauffen waterfall on the Neckar river. The Lauffen power station included a 240 kW 86 V 40 Hz alternator and a step-up transformer while at the exhibition a step-down transformer fed a 100-hp three-phase induction motor that powered an artificial waterfall, representing the transfer of the original power source. The three-phase induction is now used for the vast majority of commercial applications. Mikhail Dolivo-Dobrovolsky claimed that Tesla's motor was not practical because of two-phase pulsations, which prompted him to persist in his three-phase work.The General Electric Company began developing three-phase induction motors in 1891. By 1896, General Electric and Westinghouse signed a cross-licensing agreement for the bar-winding-rotor design, later called the squirrel-cage rotor. Induction motor improvements flowing from these inventions and innovations were such that a 100-horsepower induction motor currently has the same mounting dimensions as a 7.5-horsepower motor in 1897.
+
+
+=== Twenty-first century ===
+In 2022, electric motor sales were estimated to be 800 million units, increasing by 10% annually. Electric motors consume ~50% of the world's electricity.
+
+
+== Components ==
+
+The two mechanical parts of an electric motor are the rotor, which moves, and the stator, which does not. It also includes two electrical parts, a set of magnets and an armature, one of which is attached to the rotor and the other to the stator, together forming a magnetic circuit:
+Field magnets - The magnets create a magnetic field that passes through the armature. These can be electromagnets or permanent magnets. The field magnet is usually on the stator and the armature on the rotor, but in some types of motor these are reversed.
+
+
+=== Bearings ===
+The rotor is supported by bearings, which allow the rotor to turn on its axis. The bearings are in turn supported by the motor housing.
+
+
+=== Rotor ===
+
+The rotor is the moving part that delivers the mechanical power. The rotor typically holds conductors that carry currents, which the magnetic field of the stator exerts force on to turn the shaft. Alternatively, some rotors carry permanent magnets, and the stator holds the conductors. Permanent magnets offer high efficiency over a larger operating speed and power range.An air gap between the stator and rotor allows it to turn. The width of the gap has a significant effect on the motor's electrical characteristics. It is generally made as small as possible, as a large gap weakens performance. It is the main source of the low power factor at which motors operate. The magnetizing current increases and the power factor decreases with the air gap, so narrow gaps are better. Conversely, gaps that are too small may pose mechanical problems in addition to noise and losses.
+The motor shaft extends through the bearings to the outside of the motor, where the load is applied. Because the forces of the load are exerted beyond the outermost bearing, the load is said to be overhung.
+
+
+=== Stator ===
+
+The stator surrounds the rotor, and usually holds field magnets, which are either electromagnets consisting of wire windings around a ferromagnetic iron core or permanent magnets. These create a magnetic field that passes through the rotor armature, exerting force on the windings. The stator core is made up of many thin metal sheets that are insulated from each other, called laminations. Laminations are used to reduce energy losses that would result if a solid core were used. Resin-packed motors, used in washing machines and air conditioners, use the damping properties of resin (plastic) to reduce noise and vibration. These motors encapsulate the stator in plastic.
+
+
+=== Armature ===
+
+The armature consists of wire windings on a ferromagnetic core. Electric current passing through the wire causes the magnetic field from the field magnet to exert a force (Lorentz force) on it, turning the rotor, which delivers the mechanical output. Windings are wires that are laid in coils, usually wrapped around a laminated, soft, iron, ferromagnetic core so as to form magnetic poles when energized with current.
+Electric machines come in salient- and nonsalient-pole configurations. In a salient-pole motor the ferromagnetic cores on the rotor and stator have projections called poles facing each other, with a wire winding around each pole below the pole face, which become north or south poles of the magnetic field when current flows through the wire. In a nonsalient-pole (or distributed field or round-rotor) motor, the ferromagnetic core is a smooth cylinder, with the windings distributed evenly in slots about the circumference. Supplying alternating current in the windings creates poles in the core that rotate continuously. A shaded-pole motor has a winding around part of the pole that delays the phase of the magnetic field for that pole.
+
+
+=== Commutator ===
+
+A commutator is a rotary electrical switch that supplies current to the rotor. It periodically reverses the flow of current in the rotor windings as the shaft rotates. It consists of a cylinder composed of multiple metal contact segments on the armature. Two or more electrical contacts called "brushes" made of a soft conductive material like carbon press against the commutator. The brushes make sliding contact with successive commutator segments as it rotates, supplying current to the rotor. The windings on the rotor are connected to the commutator segments. The commutator periodically reverses the current direction in the rotor windings with each half turn (180°), so the torque applied to the rotor is always in the same direction. Without this current reversal, the direction of torque on each rotor winding would reverse with each half turn, so the rotor would stop. Commutators are inefficient and commutated motors have been mostly replaced by brushless direct current motors, permanent magnet motors, and induction motors.
+
+
+== Motor supply and control ==
+
+
+=== Motor supply ===
+A DC motor is usually supplied through a split ring commutator as described above. 
+AC motors' commutation can be achieved using either a slip ring commutator or external commutation. It can be fixed-speed or variable-speed control type, and can be synchronous or asynchronous. Universal motors can run on either AC or DC.
+
+
+=== Motor control ===
+DC motors can be operated at variable speeds by adjusting the voltage applied to the terminals or by using pulse-width modulation (PWM).
+AC motors operated at a fixed speed are generally powered directly from the grid or through motor soft starters.
+AC motors operated at variable speeds are powered with various power inverter, variable-frequency drive or electronic commutator technologies.
+The term electronic commutator is usually associated with self-commutated brushless DC motor and switched reluctance motor applications.
+
+
+== Types ==
+Electric motors operate on one of three physical principles: magnetism, electrostatics and piezoelectricity.
+In magnetic motors, magnetic fields are formed in both the rotor and the stator. The product between these two fields gives rise to a force, and thus a torque on the motor shaft. One, or both, of these fields must change with the rotation of the rotor. This is done by switching the poles on and off at the right time, or varying the strength of the pole.
+The main types are DC motors and AC motors, with the latter replacing the former.AC electric motors are either asynchronous or synchronous.Once started, a synchronous motor requires synchrony with the moving magnetic field's speed for all normal torque conditions.
+In synchronous machines, the magnetic field must be provided by means other than induction, such as from separately excited windings or permanent magnets.
+A fractional-horsepower motor either has a rating below about 1 horsepower (0.746 kW), or is manufactured with a standard-frame size smaller than a standard 1 HP motor. Many household and industrial motors are in the fractional-horsepower class.
+
+Notes:
+
+Rotation is independent of the frequency of the AC voltage.
+Rotation is equal to synchronous speed (motor-stator-field speed).
+In SCIM, fixed-speed operation rotation is equal to synchronous speed, less slip speed.
+In non-slip energy-recovery systems, WRIM is usually used for motor-starting but can be used to vary load speed.
+Variable-speed operation.
+Whereas induction- and synchronous-motor drives are typically with either six-step or sinusoidal-waveform output, BLDC-motor drives are usually with trapezoidal-current waveform; the behavior of both sinusoidal and trapezoidal PM machines is, however, identical in terms of their fundamental aspects.
+In variable-speed operation, WRIM is used in slip-energy recovery and double-fed induction-machine applications.
+A cage winding is a shorted-circuited squirrel-cage rotor, a wound winding is connected externally through slip rings.
+Mostly single-phase with some three-phase.Abbreviations:
+
+BLAC – Brushless AC
+BLDC – Brushless DC
+BLDM – Brushless DC motor
+EC – Electronic commutator
+PM – Permanent magnet
+IPMSM – Interior permanent-magnet synchronous motor
+PMSM – Permanent magnet synchronous motor
+SPMSM – Surface permanent magnet synchronous motor
+SCIM – Squirrel-cage induction motor
+SRM – Switched reluctance motor
+SyRM – Synchronous reluctance motor
+VFD – Variable-frequency drive
+WRIM – Wound-rotor induction motor
+WRSM – Wound-rotor synchronous motor
+LRA – Locked-rotor amps: The current you can expect under starting conditions when you apply full voltage. It occurs instantly during start-up.
+RLA – Rated-load amps: The maximum current a motor should draw under any operating conditions. Often mistakenly called running-load amps, which leads people to believe, incorrectly, that the motor should always pull these amps.
+FLA – Full-load amps: Changed in 1976 to "RLA – rated-load amps".
+
+
+== Self-commutated motor ==
+
+
+=== Brushed DC motor ===
+
+Most DC motors are small permanent magnet (PM) types. They contain a brushed internal mechanical commutation to reverse motor windings' current in synchronism with rotation.
+
+
+==== Electrically excited DC motor ====
+
+A commutated DC motor has a set of rotating windings wound on an armature mounted on a rotating shaft. The shaft also carries the commutator. Thus, every brushed DC motor has AC flowing through its windings. Current flows through one or more pairs of brushes that touch the commutator; the brushes connect an external source of electric power to the rotating armature.
+The rotating armature consists of one or more wire coils wound around a laminated, magnetically "soft" ferromagnetic core. Current from the brushes flows through the commutator and one winding of the armature, making it a temporary magnet (an electromagnet). The magnetic field produced interacts with a stationary magnetic field produced by either PMs or another winding (a field coil), as part of the motor frame. The force between the two magnetic fields rotates the shaft. The commutator switches power to the coils as the rotor turns, keeping the poles from ever fully aligning with the magnetic poles of the stator field, so that the rotor keeps turning as long as power is applied.
+Many of the limitations of the classic commutator DC motor are due to the need for brushes to maintain contact with the commutator, creating friction. The brushes create sparks while crossing the insulating gaps between commutator sections. Depending on the commutator design, the brushes may create short circuits between adjacent sections—and hence coil ends. Furthermore, the rotor coils' inductance causes the voltage across each to rise when its circuit opens, increasing the sparking. This sparking limits the maximum speed of the machine, as too-rapid sparking will overheat, erode, or even melt the commutator. The current density per unit area of the brushes, in combination with their resistivity, limits the motor's output. Crossing the gaps also generates electrical noise; sparking generates RFI. Brushes eventually wear out and require replacement, and the commutator itself is subject to wear and maintenance or replacement. The commutator assembly on a large motor is a costly element, requiring precision assembly of many parts. On small motors, the commutator is usually permanently integrated into the rotor, so replacing it usually requires replacing the rotor.
+While most commutators are cylindrical, some are flat, segmented discs mounted on an insulator.
+Large brushes create a large contact area, which maximizes motor output, while small brushes have low mass to maximize the speed at which the motor can run without excessive sparking. (Small brushes are desirable for their lower cost.) Stiffer brush springs can be used to make brushes of a given mass work at a higher speed, despite greater friction losses (lower efficiency) and accelerated brush and commutator wear. Therefore, DC motor brush design entails a trade-off between output power, speed, and efficiency/wear.
+DC machines are defined as follows:
+Armature circuit – A winding that carries the load, either stationary or rotating.
+Field circuit – A set of windings that produces a magnetic field.
+Commutation: A mechanical technique in which rectification can be achieved, or from which DC can be derived.
+The five types of brushed DC motor are:
+
+Shunt-wound
+Series-wound
+Compound (two configurations):
+Cumulative compound
+Differentially compounded
+Permanent magnet (not shown)
+Separately excited (not shown).
+
+
+==== Permanent magnet ====
+
+A permanent magnet (PM) motor does not have a field winding on the stator frame, relying instead on PMs to provide the magnetic field. Compensating windings in series with the armature may be used on large motors to improve commutation under load. This field is fixed and cannot be adjusted for speed control. PM fields (stators) are convenient in miniature motors to eliminate the power consumption of the field winding. Most larger DC motors are of the "dynamo" type, which have stator windings. Historically, PMs could not be made to retain high flux if they were disassembled; field windings were more practical to obtain the needed flux. However, large PMs are costly, as well as dangerous and difficult to assemble; this favors wound fields for large machines.
+To minimize overall weight and size, miniature PM motors may use high energy magnets made with neodymium; most are neodymium-iron-boron alloy. With their higher flux density, electric machines with high-energy PMs are at least competitive with all optimally designed singly-fed synchronous and induction electric machines. Miniature motors resemble the structure in the illustration, except that they have at least three rotor poles (to ensure starting, regardless of rotor position) and their outer housing is a steel tube that magnetically links the exteriors of the curved field magnets.
+
+
+=== Electronic commutator (EC) ===
+
+
+==== Brushless DC ====
+
+Some of the problems of the brushed DC motor are eliminated in the BLDC design. In this motor, the mechanical "rotating switch" or commutator is replaced by an external electronic switch synchronised to the rotor's position. BLDC motors are typically 85%+ efficient, reaching up to 96.5%, while brushed DC motors are typically 75–80% efficient.
+The BLDC motor's characteristic trapezoidal counter-electromotive force (CEMF) waveform is derived partly from the stator windings being evenly distributed, and partly from the placement of the rotor's permanent magnets. Also known as electronically commutated DC or inside-out DC motors, the stator windings of trapezoidal BLDC motors can be single-phase, two-phase or three-phase and use Hall effect sensors mounted on their windings for rotor position sensing and low cost closed-loop commutator control.
+BLDC motors are commonly used where precise speed control is necessary, as in computer disk drives or video cassette recorders. The spindles within CD, CD-ROM (etc.) drives, and mechanisms within office products, such as fans, laser printers and photocopiers. They have several advantages over conventional motors:
+
+They are more efficient than AC fans using shaded-pole motors, running much cooler than the AC equivalents. This cool operation leads to much-improved life of the fan's bearings.
+Without a commutator, the life of a BLDC motor can be significantly longer compared to a brushed DC motor with a commutator. Commutation tends to cause electrical and RF noise; without a commutator or brushes, a BLDC motor may be used in electrically sensitive devices like audio equipment or computers.
+The same Hall effect sensors that provide the commutation can provide a convenient tachometer signal for closed-loop control (servo-controlled) applications. In fans, the tachometer signal can be used to derive a "fan OK" signal as well as provide running speed feedback.
+The motor can be synchronized to an internal or external clock, providing precise speed control.
+BLDC motors do not spark, making them better suited to environments with volatile chemicals and fuels. Sparking also generates ozone, which can accumulate in poorly ventilated buildings.
+BLDC motors are usually used in small equipment such as computers and are generally used in fans to remove heat.
+They make little noise, which is an advantage in equipment that is affected by vibrations.Modern BLDC motors range in power from a fraction of a watt to many kilowatts. Larger BLDC motors rated up to about 100 kW are used in electric vehicles. They also find use in electric model aircraft.
+
+
+==== Switched reluctance motor ====
+
+The switched reluctance motor (SRM) has no brushes or permanent magnets, and the rotor has no electric currents. Torque comes from a slight misalignment of poles on the rotor with poles on the stator. The rotor aligns itself with the magnetic field of the stator, while the stator field windings are sequentially energized to rotate the stator field.
+The magnetic flux created by the field windings follows the path of least magnetic sending the flux through rotor poles that are closest to the energized poles of the stator, thereby magnetizing those poles of the rotor and creating torque. As the rotor turns, different windings are energized, keeping the rotor turning.
+SRMs are used in some appliances and vehicles.
+
+
+=== Universal AC/DC motor ===
+
+A commutated, electrically excited, series or parallel wound motor is referred to as a universal motor because it can be designed to operate on either AC or DC power. A universal motor can operate well on AC because the current in both the field and the armature coils (and hence the resultant magnetic fields)  synchronously reverse polarity, and hence the resulting mechanical force occurs in a constant direction of rotation.
+Operating at normal power line frequencies, universal motors are often used in sub-kilowatt applications. Universal motors formed the basis of the traditional railway traction motor in electric railways. In this application, using AC power on a motor designed to run on DC would experience efficiency losses due to eddy current heating of their magnetic components, particularly the motor field pole-pieces that, for DC, would have used solid (un-laminated) iron. They are now rarely used.
+An advantage is that AC power may be used on motors that specifically have high starting torque and compact design if high running speeds are used. By contrast, maintenance is higher and lifetimes are shortened. Such motors are used in devices that are not heavily used, and have high starting-torque demands. Multiple taps on the field coil provide (imprecise) stepped speed control. Household blenders that advertise many speeds typically combine a field coil with several taps and a diode that can be inserted in series with the motor (causing the motor to run on half-wave rectified AC). Universal motors also lend themselves to electronic speed control and, as such, are a choice for devices such as domestic washing machines. The motor can agitate the drum (both forwards and in reverse) by switching the field winding with respect to the armature.
+Whereas SCIMs cannot turn a shaft faster than allowed by the power line frequency, universal motors can run at much higher speeds. This makes them useful for appliances such as blenders, vacuum cleaners, and hair dryers where high speed and light weight are desirable. They are also commonly used in portable power tools, such as drills, sanders, circular and jig saws, where the motor's characteristics work well. Many vacuum cleaner and weed trimmer motors exceed 10,000 rpm, while miniature grinders may exceed 30,000 rpm.
+
+
+== Externally commutated AC machine ==
+
+AC induction and synchronous motors are optimized for operation on single-phase or polyphase sinusoidal or quasi-sinusoidal waveform power such as supplied for fixed-speed applications by the AC power grid or for variable-speed application from variable-frequency drive (VFD) controllers. 
+
+
+=== Induction motor ===
+An induction motor is an asynchronous AC motor where power is transferred to the rotor by electromagnetic induction, much like transformer action. An induction motor resembles a rotating transformer, because the stator (stationary part) is essentially the primary side of the transformer and the rotor (rotating part) is the secondary side. Polyphase induction motors are widely used in industry.
+
+
+==== Cage and wound rotor ====
+Induction motors may be divided into Squirrel Cage Induction Motors (SCIM) and Wound Rotor Induction Motors (WRIM). SCIMs have a heavy winding made up of solid bars, usually aluminum or copper, electrically connected by rings at the ends of the rotor. The bars and rings as a whole are much like an animal's rotating exercise cage.
+Currents induced into this winding provide the rotor magnetic field. The shape of the rotor bars determines the speed-torque characteristics. At low speeds, the current induced in the squirrel cage is nearly at line frequency and tends to stay in the outer parts of the cage. As the motor accelerates, the slip frequency becomes lower, and more current reaches the interior. By shaping the bars to change the resistance of the winding portions in the interior and outer parts of the cage, a variable resistance is effectively inserted in the rotor circuit. However, most such motors employ uniform bars.
+In a WRIM, the rotor winding is made of many turns of insulated wire and is connected to slip rings on the motor shaft. An external resistor or other control device can be connected in the rotor circuit. Resistors allow control of the motor speed, although dissipating significant power. A converter can be fed from the rotor circuit and return the slip-frequency power that would otherwise be wasted into the power system through an inverter or separate motor-generator.
+WRIMs are used primarily to start a high inertia load or a load that requires high starting torque across the full speed range. By correctly selecting the resistors used in the secondary resistance or slip ring starter, the motor is able to produce maximum torque at a relatively low supply current from zero speed to full speed. 
+Motor speed can be changed because the motor's torque curve is effectively modified by the amount of resistance connected to the rotor circuit. Increasing resistance lowers the speed of maximum torque. If the resistance is increased beyond the point where the maximum torque occurs at zero speed, the torque is further reduced.
+When used with a load that has a torque curve that increases with speed, the motor operates at the speed where the torque developed by the motor is equal to the load torque. Reducing the load causes the motor to speed up, while increasing the load causes the motor to slow down until the load and motor torque are again equal. Operated in this manner, the slip losses are dissipated in the secondary resistors and can be significant. The speed regulation and net efficiency is poor.
+
+
+==== Torque motor ====
+
+A torque motor can operate indefinitely while stalled, that is, with the rotor blocked from turning, without incurring damage. In this mode of operation, the motor applies a steady torque to the load.
+A common application is the supply- and take-up reel motors in a tape drive. In this application, driven by a low voltage, the characteristics of these motors apply a steady light tension to the tape whether or not the capstan is feeding tape past the tape heads. Driven from a higher voltage (delivering a higher torque), torque motors can achieve fast-forward and rewind operation without requiring additional mechanics such as gears or clutches. In the computer gaming world, torque motors are used in force feedback steering wheels.
+Another common application is to control the throttle of an internal combustion engine with an electronic governor. The motor works against a return spring to move the throttle in accord with the governor output. The latter monitors engine speed by counting electrical pulses from the ignition system or from a magnetic pickup and depending on the speed, makes small adjustments to the amount of current. If the engine slows down relative to the desired speed, the current increases, producing more torque, pulling against the return spring and opening the throttle. Should the engine run too fast, the governor reduces the current, allowing the return spring to pull back and reduce the throttle.
+
+
+=== Synchronous motor ===
+
+A synchronous electric motor is an AC motor. It includes a rotor spinning with coils passing magnets at the same frequency as the AC and produces a magnetic field to drive it. It has zero slip under typical operating conditions. By contrast induction motors must slip to produce torque. One type of synchronous motor is like an induction motor except that the rotor is excited by a DC field. Slip rings and brushes conduct current to the rotor. The rotor poles connect to each other and move at the same speed. Another type, for low load torque, has flats ground onto a conventional squirrel-cage rotor to create discrete poles. Yet another, as made by Hammond for its pre-World War II clocks, and in older Hammond organs, has no rotor windings and discrete poles. It is not self-starting. The clock requires manual starting by a small knob on the back, while the older Hammond organs had an auxiliary starting motor connected by a spring-loaded manually operated switch.
+Hysteresis synchronous motors typically are (essentially) two-phase motors with a phase-shifting capacitor for one phase. They start like induction motors, but when slip rate decreases sufficiently, the rotor (a smooth cylinder) becomes temporarily magnetized. Its distributed poles make it act like a permanent magnet synchronous motor. The rotor material, like that of a common nail, stays magnetized, but can be demagnetized with little difficulty. Once running, the rotor poles stay in place; they do not drift.
+Low-power synchronous timing motors (such as those for traditional electric clocks) may have multi-pole permanent magnet external cup rotors, and use shading coils to provide starting torque. Telechron clock motors have shaded poles for starting torque, and a two-spoke ring rotor that performs like a discrete two-pole rotor.
+
+
+=== Doubly-fed electric machine ===
+
+Doubly fed electric motors have two independent multiphase winding sets, which contribute active (i.e., working) power to the energy conversion process, with at least one of the winding sets electronically controlled for variable speed operation. Two independent multiphase winding sets (i.e., dual armature) are the maximum provided in a single package without topology duplication. Doubly-fed electric motors have an effective constant torque speed range that is twice synchronous speed for a given frequency of excitation. This is twice the constant torque speed range as singly-fed electric machines, which have only one active winding set.
+A doubly-fed motor allows for a smaller electronic converter but the cost of the rotor winding and slip rings may offset the saving in the power electronics components. Difficulties affect controlling speed near synchronous speed limit applications.
+
+
+== Special magnetic motors ==
+
+
+=== Rotary ===
+
+
+==== Ironless or coreless rotor motor ====
+
+The coreless or ironless DC motor is a specialized permanent magnet DC motor. Optimized for rapid acceleration, the rotor is constructed without an iron core. The rotor can take the form of a winding-filled cylinder, or a self-supporting structure comprising only wire and bonding material. The rotor can fit inside the stator magnets; a magnetically soft stationary cylinder inside the rotor provides a return path for the stator magnetic flux. A second arrangement has the rotor winding basket surrounding the stator magnets. In that design, the rotor fits inside a magnetically soft cylinder that can serve as the motor housing, and provides a return path for the flux.
+Because the rotor is much lower mass than a conventional rotor, it can accelerate much more rapidly, often achieving a mechanical time constant under one millisecond. This is especially true if the windings use aluminum rather than (heavier) copper. The rotor has no metal mass to act as a heat sink; even small motors must be cooled. Overheating can be an issue for these designs.
+The vibrating alert of cellular phones can be generated by cylindrical permanent-magnet motors, or disc-shaped types that have a thin multipolar disc field magnet, and an intentionally unbalanced molded-plastic rotor structure with two bonded coreless coils. Metal brushes and a flat commutator switch power to the rotor coils.
+Related limited-travel actuators have no core and a bonded coil placed between the poles of high-flux thin permanent magnets. These are the fast head positioners for rigid-disk ("hard disk") drives. Although the contemporary design differs considerably from that of loudspeakers, it is still loosely (and incorrectly) referred to as a "voice coil" structure, because some earlier rigid-disk-drive heads moved in straight lines, and had a drive structure much like that of a loudspeaker.
+
+
+==== Pancake or axial rotor motor ====
+
+The printed armature or pancake motor has windings shaped as a disc running between arrays of high-flux magnets. The magnets are arranged in a circle facing the rotor spaced to form an axial air gap. This design is commonly known as the pancake motor because of its flat profile.
+The armature (originally formed on a printed circuit board) is made from punched copper sheets that are laminated together using advanced composites to form a thin, rigid disc. The armature does not have a separate ring commutator. The brushes move directly on the armature surface making the whole design compact.
+An alternative design is to use wound copper wire laid flat with a central conventional commutator, in a flower and petal shape. The windings are typically stabilized with electrical epoxy potting systems. These are filled epoxies that have moderate, mixed viscosity and a long gel time. They are highlighted by low shrinkage and low exotherm, and are typically UL 1446 recognized as a potting compound insulated with 180 °C (356 °F), Class H rating.
+The unique advantage of ironless DC motors is the absence of cogging (torque variations caused by changing attraction between the iron and the magnets). Parasitic eddy currents cannot form in the rotor as it is totally ironless, although iron rotors are laminated. This can greatly improve efficiency, but variable-speed controllers must use a higher switching rate (>40 kHz) or DC because of decreased electromagnetic induction.
+These motors were invented to drive the capstan(s) of magnetic tape drives, where minimal time to reach operating speed and minimal stopping distance were critical. Pancake motors are widely used in high-performance servo-controlled systems, robotic systems, industrial automation and medical devices. Due to the variety of constructions now available, the technology is used in applications from high temperature military to low cost pump and basic servos.
+Another approach (Magnax) is to use a single stator sandwiched between two rotors. One such design has produced peak power of 15 kW/kg, sustained power around 7.5 kW/kg. This yokeless axial flux motor offers a shorter flux path, keeping the magnets further from the axis. The design allows zero winding overhang; 100 percent of the windings are active. This is enhanced with the use of rectangular-crosssection copper wire. The motors can be stacked to work in parallel. Instabilities are minimized by ensuring that the two rotor discs put equal and opposing forces onto the stator disc. The rotors are connected directly to one another via a shaft ring, cancelling out the magnetic forces.Magnax motors range in size from 0.15–5.4 metres (5.9 in – 17 ft 8.6 in) in diameter.
+
+
+==== Servo motor ====
+
+A servo motor is a motor that is used within a position-control or speed-control feedback system. Servomotors are used in applications such as machine tools, pen plotters, and other process systems. Motors intended for use in a servomechanism must have predictable characteristics for speed, torque, and power. The speed/torque curve is important and is high ratio for a servo motor. Dynamic response characteristics such as winding inductance and rotor inertia are important; these factors limit performance. Large, powerful, but slow-responding servo loops may use conventional AC or DC motors and drive systems with position or speed feedback. As dynamic response requirements increase, more specialized motor designs such as coreless motors are used. AC motors' superior power density and acceleration characteristics tends to favor permanent magnet synchronous, BLDC, induction, and SRM drive approaches.A servo system differs from some stepper motor applications in that position feedback is continuous while the motor is running. A stepper system inherently operates open-loop—relying on the motor not to "miss steps" for short term accuracy—with any feedback such as a "home" switch or position encoder external to the motor system.
+
+
+==== Stepper motor ====
+
+Stepper motors are typically used to provide precise rotations. An internal rotor containing permanent magnets or a magnetically soft rotor with salient poles is controlled by a set of electronically switched external magnets. A stepper motor may also be thought of as a cross between a DC electric motor and a rotary solenoid. As each coil is energized in turn, the rotor aligns itself with the magnetic field produced by the energized field winding. Unlike a synchronous motor, the stepper motor may not rotate continuously; instead, it moves in steps—starting and then stopping—advancing from one position to the next as field windings are energized and de-energized in sequence. Depending on the sequence, the rotor may turn forwards or backwards, and it may change direction, stop, speed up or slow down at any time.
+Simple stepper motor drivers entirely energize or entirely de-energize the field windings, leading the rotor to "cog" to a limited number of positions. Microstepping drivers can proportionally control the power to the field windings, allowing the rotors to position between cog points and rotate smoothly. Computer-controlled stepper motors are one of the most versatile positioning systems, particularly as part of a digital servo-controlled system.
+Stepper motors can be rotated to a specific angle in discrete steps with ease, and hence stepper motors are used for read/write head positioning in early disk drives, where the precision and speed they offered could correctly position the read/write head. As drive density increased, precision and speed limitations made them obsolete for hard drives—the precision limitation made them unusable, and the speed limitation made them uncompetitive—thus newer hard disk drives use voice coil-based head actuator systems. (The term "voice coil" in this connection is historic; it refers to the structure in a cone-type loudspeaker.)
+Stepper motors are often used in computer printers, optical scanners, and digital photocopiers to move the active element, the print head carriage (inkjet printers), and the platen or feed rollers.
+So-called quartz analog wristwatches contain the smallest commonplace stepping motors; they have one coil, draw little power, and have a permanent magnet rotor. The same kind of motor drives battery-powered quartz clocks. Some of these watches, such as chronographs, contain more than one stepper motor.
+Closely related in design to three-phase AC synchronous motors, stepper motors and SRMs are classified as variable reluctance motor type.
+
+
+=== Linear motor ===
+
+A linear motor is essentially any electric motor that has been "unrolled" so that, instead of producing torque (rotation), it produces a straight-line force along its length.
+Linear motors are most commonly induction motors or stepper motors. Linear motors are commonly found in roller-coasters where the rapid motion of the motorless railcar is controlled by the rail. They are also used in maglev trains, where the train "flies" over the ground. On a smaller scale, the 1978 era HP 7225A pen plotter used two linear stepper motors to move the pen along the X and Y axes.
+
+
+== Comparison by major categories ==
+
+
+== Electromagnetism ==
+
+
+=== Force and torque ===
+An electric motor converts electrical energy to mechanical energy through the force between two opposed magnetic fields. At least one of the two magnetic fields must be created by an electromagnet through the magnetic field caused by an electrical current.
+The force between a current 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   in a conductor of length 
+  
+    
+      
+        ℓ
+      
+    
+    {\displaystyle \ell }
+   perpendicular to a magnetic field 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {B} }
+   may be calculated using the Lorentz force law:
+
+  
+    
+      
+        
+          F
+        
+        =
+        I
+        ℓ
+        ×
+        
+          B
+        
+        
+        
+      
+    
+    {\displaystyle \mathbf {F} =I\ell \times \mathbf {B} \,\!}
+  Note: X denotes vector cross product. 
+The most general approaches to calculating the forces in motors use tensor notation.
+
+
+=== Power ===
+Where 
+  
+    
+      
+        
+          ω
+          
+            r
+            p
+            m
+          
+        
+      
+    
+    {\displaystyle \omega _{rpm}}
+   is shaft speed in rpm and T is torque, a motor's mechanical power output Pem is given by,in Imperial units with T expressed in foot-pounds,
+
+  
+    
+      
+        
+          P
+          
+            e
+            m
+          
+        
+        =
+        
+          
+            
+              
+                ω
+                
+                  r
+                  p
+                  m
+                
+              
+              T
+            
+            5252
+          
+        
+      
+    
+    {\displaystyle P_{em}={\frac {\omega _{rpm}T}{5252}}}
+   (horsepower), and,in SI units with shaft angular speed, 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  , expressed in radians per second, and T expressed in newton-meters,
+
+  
+    
+      
+        
+          P
+          
+            e
+            m
+          
+        
+        =
+        ω
+        T
+      
+    
+    {\displaystyle P_{em}=\omega T}
+   (watts).For a linear motor, with force F expressed in newtons and velocity v expressed in meters per second,
+
+  
+    
+      
+        
+          P
+          
+            e
+            m
+          
+        
+        =
+        F
+        
+          v
+        
+      
+    
+    {\displaystyle P_{em}=F{v}}
+   (watts).In an asynchronous or induction motor, the relationship between motor speed and air gap power is given by the following:
+
+  
+    
+      
+        
+          P
+          
+            a
+            i
+            r
+            g
+            a
+            p
+          
+        
+        =
+        
+          
+            
+              R
+              
+                r
+              
+            
+            s
+          
+        
+        
+          I
+          
+            r
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle P_{airgap}={\frac {R_{r}}{s}}I_{r}^{2}}
+  , where
+Rr – rotor resistance
+Ir2 – square of current induced in the rotor
+s – motor slip; i.e., difference between synchronous speed and slip speed, which provides the relative movement needed for current induction in the rotor.
+
+
+=== Back EMF ===
+
+The movement of armature windings of a direct-current or universal motor through a magnetic field, induce a voltage in them. This voltage tends to oppose the motor supply voltage and so is called "back electromotive force (EMF)". The voltage is proportional to the running speed of the motor. The back EMF of the motor, plus the voltage drop across the winding internal resistance and brushes, must equal the voltage at the brushes. This provides the fundamental mechanism of speed regulation in a DC motor. If the mechanical load increases, the motor slows down; a lower back EMF results, and more current is drawn from the supply. This increased current provides the additional torque to balance the load.In AC machines, it is sometimes useful to consider a back EMF source within the machine; this is of particular concern for close speed regulation of induction motors on VFDs.
+
+
+=== Losses ===
+Motor losses are mainly due to resistive losses in windings, core losses and mechanical losses in bearings, and aerodynamic losses, particularly where cooling fans are present, also occur.
+Losses also occur in commutation, mechanical commutators spark; electronic commutators and also dissipate heat.
+
+
+=== Efficiency ===
+To calculate a motor's efficiency, the mechanical output power is divided by the electrical input power:
+
+  
+    
+      
+        η
+        =
+        
+          
+            
+              P
+              
+                m
+              
+            
+            
+              P
+              
+                e
+              
+            
+          
+        
+      
+    
+    {\displaystyle \eta ={\frac {P_{m}}{P_{e}}}}
+  ,where 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   is energy conversion efficiency, 
+  
+    
+      
+        
+          P
+          
+            e
+          
+        
+      
+    
+    {\displaystyle P_{e}}
+   is electrical input power, and 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    {\displaystyle P_{m}}
+   is mechanical output power:
+
+  
+    
+      
+        
+          P
+          
+            e
+          
+        
+        =
+        I
+        V
+      
+    
+    {\displaystyle P_{e}=IV}
+  
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+        =
+        T
+        ω
+      
+    
+    {\displaystyle P_{m}=T\omega }
+  where 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   is input voltage, 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   is input current, 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is output torque, and 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   is output angular velocity. It is possible to derive analytically the point of maximum efficiency. It is typically at less than 1/2 the stall torque.Various national regulatory authorities have enacted legislation to encourage the manufacture and use of higher-efficiency motors. Electric motors have efficiencies ranging from at least 15% for shaded pole motors, up to 98% for permanent magnet motors, with efficiency also dependent on load. Peak efficiency is usually at 75% of the rated load. So (as an example) a 10 HP motor is most efficient when driving a load that requires 7.5 HP. Efficiency also depends on motor size; larger motors tend to be more efficient. Some motors can not operate continually for more than a specified period of time (e.g. for more than an hour per run)
+
+
+=== Goodness factor ===
+
+Eric Laithwaite proposed a metric to determine the 'goodness' of an electric motor: 
+  
+    
+      
+        G
+        =
+        
+          
+            ω
+            
+              r
+              e
+              s
+              i
+              s
+              t
+              a
+              n
+              c
+              e
+              ×
+              r
+              e
+              l
+              u
+              c
+              t
+              a
+              n
+              c
+              e
+            
+          
+        
+        =
+        
+          
+            
+              ω
+              μ
+              σ
+              
+                A
+                
+                  m
+                
+              
+              
+                A
+                
+                  e
+                
+              
+            
+            
+              
+                l
+                
+                  m
+                
+              
+              
+                l
+                
+                  e
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle G={\frac {\omega }{resistance\times reluctance}}={\frac {\omega \mu \sigma A_{m}A_{e}}{l_{m}l_{e}}}}
+  
+Where:
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is the goodness factor (factors above 1 are likely to be efficient)
+
+  
+    
+      
+        
+          A
+          
+            m
+          
+        
+        ,
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A_{m},A_{e}}
+   are the cross sectional areas of the magnetic and electric circuit
+
+  
+    
+      
+        
+          l
+          
+            m
+          
+        
+        ,
+        
+          l
+          
+            e
+          
+        
+      
+    
+    {\displaystyle l_{m},l_{e}}
+   are the lengths of the magnetic and electric circuits
+
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   is the permeability of the core
+
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   is the angular frequency the motor is driven atFrom this, he showed that the most efficient motors are likely to have relatively large magnetic poles. However, the equation only directly relates to non PM motors.
+
+
+== Performance parameters ==
+
+
+=== Torque ===
+Electromagnetic motors derive torque from the vector product of the interacting fields. Calculating torque requires knowledge of the fields in the air gap. Once these have been established, the torque is the integral of all the force vectors multiplied by the vector's radius. The current flowing in the winding produces the fields. For a motor using a magnetic material the field is not proportional to the current.
+A figure relating the current to the torque can inform motor selection. The maximum torque for a motor depends on the maximum current, absent thermal considerations.
+When optimally designed within a given core saturation constraint and for a given active current (i.e., torque current), voltage, pole-pair number, excitation frequency (i.e., synchronous speed), and air-gap flux density, all categories of electric motors/generators exhibit virtually the same maximum continuous shaft torque (i.e., operating torque) within a given air-gap area with winding slots and back-iron depth, which determines the physical size of electromagnetic core. Some applications require bursts of torque beyond the maximum, such as bursts to accelerate an electric vehicle from standstill. Always limited by magnetic core saturation or safe operating temperature rise and voltage, the capacity for torque bursts beyond the maximum differs significantly across motor/generator types.
+Electric machines without a transformer circuit topology, such as that of WRSMs or PMSMs, cannot provide torque bursts without saturating the magnetic core. At that point, additional current cannot increase torque. Furthermore, the permanent magnet assembly of PMSMs can be irreparably damaged.
+Electric machines with a transformer circuit topology, such as induction machines, induction doubly-fed electric machines, and induction or synchronous wound-rotor doubly-fed (WRDF) machines, permit torque bursts because the EMF-induced active current on either side of the transformer oppose each other and thus contribute nothing to the transformer coupled magnetic core flux density, avoiding core saturation.
+Electric machines that rely on induction or asynchronous principles short-circuit one port of the transformer circuit and as a result, the reactive impedance of the transformer circuit becomes dominant as slip increases, which limits the magnitude of active (i.e., real) current. Torque bursts two to three times higher than the maximum design torque are realizable.
+The brushless wound-rotor synchronous doubly-fed (BWRSDF) machine is the only electric machine with a truly dual ported transformer circuit topology (i.e., both ports independently excited with no short-circuited port). The dual ported transformer circuit topology is known to be unstable and requires a multiphase slip-ring-brush assembly to propagate limited power to the rotor winding set. If a precision means were available to instantaneously control torque angle and slip for synchronous operation during operation while simultaneously providing brushless power to the rotor winding set, the active current of the BWRSDF machine would be independent of the reactive impedance of the transformer circuit and bursts of torque significantly higher than the maximum operating torque and far beyond the practical capability of any other type of electric machine would be realizable. Torque bursts greater than eight times operating torque have been calculated.
+
+
+=== Continuous torque density ===
+The continuous torque density of conventional electric machines is determined by the size of the air-gap area and the back-iron depth, which are determined by the power rating of the armature winding set, the speed of the machine, and the achievable air-gap flux density before core saturation. Despite the high coercivity of neodymium or samarium-cobalt permanent magnets, continuous torque density is virtually the same amongst electric machines with optimally designed armature winding sets. Continuous torque density relates to method of cooling and permissible operation period before destruction by overheating of windings or permanent magnet damage.
+Other sources state that various e-machine topologies have differing torque density. One source shows the following:
+where—specific torque density is normalized to 1.0 for the surface permanent magnet (SPM)—brushless ac, 180° current conduction.
+Torque density is approximately four times greater for liquid cooled motors, compared to those which are air cooled.
+A source comparing direct current, induction motors (IM), PMSM and SRM showed:
+Another source notes that PMSM up to 1 MW have considerably higher torque density than induction machines.
+
+
+=== Continuous power density ===
+The continuous power density is determined by the product of the continuous torque density and the constant torque speed range. Electric motors can achieve densities of up to 20KW/KG, meaning 20 Kilowatts of output power per kilogram.
+
+
+== Acoustic noise and vibrations ==
+Acoustic noise and vibrations are usually classified in three sources:
+
+mechanical sources (e.g. due to bearings)
+aerodynamic sources (e.g. due to shaft-mounted fans)
+magnetic sources (e.g. due to magnetic forces such as Maxwell and magnetostriction forces acting on stator and rotor structures)The latter source, which can be responsible for the "whining noise" of electric motors, is called electromagnetically induced acoustic noise.
+
+
+== Standards ==
+The following are major design, manufacturing, and testing standards covering electric motors:
+
+American Petroleum Institute: API 541 Form-Wound Squirrel Cage Induction Motors – 375 kW (500 Horsepower) and Larger
+American Petroleum Institute: API 546 Brushless Synchronous Machines – 500 kVA and Larger
+American Petroleum Institute: API 547 General-purpose Form-Wound Squirrel Cage Induction Motors – 250 Hp and Larger
+Institute of Electrical and Electronics Engineers: IEEE Std 112 Standard Test Procedure for Polyphase Induction Motors and Generators
+Institute of Electrical and Electronics Engineers: IEEE Std 115 Guide for Test Procedures for Synchronous Machines
+Institute of Electrical and Electronics Engineers: IEEE Std 841 Standard for Petroleum and Chemical Industry – Premium Efficiency Severe Duty Totally Enclosed Fan-Cooled (TEFC) Squirrel Cage Induction Motors – Up to and Including 370 kW (500 Hp)
+International Electrotechnical Commission: IEC 60034 Rotating Electrical Machines
+International Electrotechnical Commission: IEC 60072 Dimensions and output series for rotating electrical machines
+National Electrical Manufacturers Association: MG-1 Motors and Generators
+Underwriters Laboratories: UL 1004 – Standard for Electric Motors
+Indian Standard: IS:12615-2018 – Line Operated Three Phase a.c. Motors (IE CODE) “Efficiency Classes and Performance Specification” (Third Revision)
+
+
+== Non-magnetic motors ==
+
+An electrostatic motor is based on the attraction and repulsion of electric charge. Usually, electrostatic motors are the dual of conventional coil-based motors. They typically require a high-voltage power supply, although small motors employ lower voltages. Conventional electric motors instead employ magnetic attraction and repulsion, and require high current at low voltages. In the 1750s, the first electrostatic motors were developed by Benjamin Franklin and Andrew Gordon. Electrostatic motors find frequent use in micro-electro-mechanical systems (MEMS) where their drive voltages are below 100 volts, and where moving, charged plates are far easier to fabricate than coils and iron cores. The molecular machinery that runs living cells is often based on linear and rotary electrostatic motors.A piezoelectric motor or piezo motor is a type of electric motor based upon the change in shape of a piezoelectric material when an electric field is applied. Piezoelectric motors make use of the converse piezoelectric effect whereby the material produces acoustic or ultrasonic vibrations to produce linear or rotary motion. In one mechanism, the elongation in a single plane is used to make a series of stretches and position holds, similar to the way a caterpillar moves.An electrically powered spacecraft propulsion system uses electric motor technology to propel spacecraft in outer space. Most systems are based on electrically accelerating propellant to high speed, while some systems are based on electrodynamic tethers principles of propulsion to the magnetosphere.
+
+
+== See also ==
+
+Electric generator
+Regenerative brake
+Goodness factor
+Motor capacitor
+Traction motor
+Motor controller
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+SparkMuseum: Early Electric Motors
+The Invention of the Electric Motor 1800 to 1893, hosted by Karlsrushe Institute of Technology's Martin Doppelbauer
+MAS.865 2018 How to Make Something that Makes (almost) Anything, slow motion gifs and oscillograms for many kinds of motors.
+

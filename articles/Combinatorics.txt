@@ -1,0 +1,188 @@
+####### TITLE #######
+
+Combinatorics
+
+####### LINKS #######
+
+['ACM Computing Classification System', 'Abraham ibn Ezra', 'Abstract algebra', 'Additive number theory', 'Akihiro Kanamori', 'Algebra', 'Algebraic combinatorics', 'Algebraic geometry', 'Algebraic number theory', 'Algebraic topology', 'Algorithm', 'Algorithm design', 'Algorithmic efficiency', 'Analysis', 'Analysis of algorithms', 'Analytic combinatorics', 'Analytic geometry', 'Analytic number theory', 'Ancient Greece', 'Ancient history', 'Andreas Blass', 'Apollonius of Perga', 'Application security', 'Applied mathematics', 'Archimedean solid', 'Archimedes', 'Arithmetic', 'Arithmetic combinatorics', 'Arithmetic geometry', 'Artificial intelligence', 'Associahedron', 'Astronomer', 'Asymptotic analysis', 'Automata theory', 'Automated planning and scheduling', 'Bijective proof', 'Binary tree', 'Binomial coefficient', 'Birkhoff polytope', 'Blaise Pascal', 'Block design', 'Boolean algebras', 'Calculus', 'Cambridge University Press', 'Campanology', 'Catalan number', 'Category theory', "Cauchy's theorem (geometry)", 'Cayley graph', 'Change ringing', 'Chomsky–Schützenberger hierarchy', 'Chromatic polynomial', 'Chrysippus', 'Class (set theory)', 'Classification of finite simple groups', 'Coding theory', 'Combination', 'Combinations', 'Combinatorial', 'Combinatorial biology', 'Combinatorial chemistry', 'Combinatorial data analysis', 'Combinatorial design', 'Combinatorial game theory', 'Combinatorial geometry', 'Combinatorial group theory', 'Combinatorial logic', 'Combinatorial optimization', 'Combinatorial topology', 'Combinatoriality', 'Combinatorics and dynamical systems', 'Combinatorics and physics', 'Combinatorics on words', 'Commutative algebra', 'Compiler construction', 'Complete bipartite graph', 'Complex analysis', 'Computability theory', 'Computational biology', 'Computational chemistry', 'Computational complexity theory', 'Computational engineering', 'Computational geometry', 'Computational mathematics', 'Computational physics', 'Computational social science', 'Computer accessibility', 'Computer algebra', 'Computer animation', 'Computer architecture', 'Computer data storage', 'Computer graphics', 'Computer hardware', 'Computer network', 'Computer science', 'Computer security', 'Computer security compromised by hardware failure', 'Computer vision', 'Computing platform', 'Concurrency (computer science)', 'Concurrent computing', 'Continuous graph', 'Continuum (set theory)', 'Control theory', 'Control variable (programming)', 'Convex geometry', 'Convex polyhedron', 'Convex polytope', 'Convex set', 'Countable set', 'Counting', 'Cross-validation (statistics)', 'Cryptography', 'Culture of Europe', 'Cyberwarfare', 'Data mining', 'Database', 'Decision support system', 'Decision tree', 'Dependability', 'Design of experiments', 'Differential equation', 'Differential geometry', 'Differential topology', 'Digital art', 'Digital library', 'Digital marketing', 'Diophantine geometry', 'Discrete Morse theory', 'Discrete geometry', 'Discrete mathematics', 'Distributed artificial intelligence', 'Distributed computing', 'Document management system', 'Doi (identifier)', 'Domain-specific language', 'Dynamical system', 'E-commerce', 'Edmund F. Robertson', 'Educational technology', 'Electronic design automation', 'Electronic publishing', 'Electronic voting', 'Elementary algebra', 'Embedded system', 'Encyclopedia of Mathematics', 'Encyclopædia Britannica Eleventh Edition', 'Engineering mathematics', 'Enterprise information system', 'Enterprise software', 'Enumerative combinatorics', 'Ergodic theory', 'Error-correcting code', 'Euclidean geometry', 'Euclidean plane', 'European Mathematical Society', 'Evolutionary biology', 'Extremal combinatorics', 'Face (geometry)', 'Fair division', 'Ferrers diagram', 'Fibonacci numbers', 'Finite geometry', 'Finite set', 'Formal grammar', 'Formal language', 'Formal methods', 'Foundations of mathematics', 'Four color problem', 'Fractal analysis', 'Functional analysis', 'Game theory', 'General topology', 'Generating functions', 'Geographic information system', 'Geometric combinatorics', 'Geometric probability', 'Geometric topology', 'Geometry', 'Gian-Carlo Rota', 'Glossary of mathematical symbols', 'Graph (discrete mathematics)', 'Graph coloring', 'Graph dynamical system', 'Graph theory', 'Graphics processing unit', 'Green computing', 'Group representation', 'Group testing', 'Group theory', 'H.J. Ryser', 'Hamiltonian cycle', 'Hardware acceleration', 'Harmonic analysis', 'Hasse diagram', 'Hassler Whitney', 'Health informatics', 'Hipparchus', 'Historian', 'History of combinatorics', 'History of mathematics', 'Homological algebra', 'Homotopy theory', 'Human–computer interaction', 'Hypercomplex analysis', 'ISBN (identifier)', 'ISSN (identifier)', 'Icosahedron', 'Image compression', 'Inclusion map', 'India', 'Infinitary combinatorics', 'Informal mathematics', 'Information retrieval', 'Information security', 'Information system', 'Information theory', 'Integer partition', 'Integrated circuit', 'Integrated development environment', 'Interaction design', 'Interpreter (computing)', 'Intrusion detection system', 'Isaac Newton', 'Ising model', 'JSTOR (identifier)', 'Jacob Bernoulli', 'James Joseph Sylvester', "John J. O'Connor (mathematician)", 'John Riordan (mathematician)', "Kirkman's schoolgirl problem", 'Kissing number', 'Knowledge representation and reasoning', 'Lattice (order)', 'Lattice graph', 'Lattice theory', 'Leon Mirsky', 'Leonhard Euler', 'Levi ben Gerson', 'Library (computing)', 'Linear algebra', 'Linear independence', 'Linguistics', 'List of combinatorics topics', 'Lists of mathematics topics', 'Logic', 'Logic in computer science', 'Lottery', 'MacTutor History of Mathematics archive', 'Machine learning', 'Mahāvīra (mathematician)', 'Markov chain mixing time', 'Markov chains', "Martin's axiom", 'MathWorld', 'Mathematical analysis', 'Mathematical and theoretical biology', 'Mathematical biology', 'Mathematical chemistry', 'Mathematical economics', 'Mathematical finance', 'Mathematical logic', 'Mathematical optimization', 'Mathematical physics', 'Mathematical problem', 'Mathematical psychology', 'Mathematical sociology', 'Mathematical software', 'Mathematical statistics', 'Mathematical structure', 'Mathematician', 'Mathematics', 'Mathematics and art', 'Mathematics education', 'Matroid', 'Matroid theory', 'Matthew Foreman', 'Measure (mathematics)', 'Medieval England', 'Metric geometry', 'Middle Ages', 'Middleware', 'Mixed reality', 'Model of computation', 'Modeling language', 'Multi-task learning', 'Multilinear algebra', 'Multimedia database', 'Multiprocessing', 'Multithreading (computer architecture)', 'Natural language processing', 'Necklace problem', 'Necklace splitting problem', 'Network architecture', 'Network performance', 'Network protocol', 'Network scheduler', 'Network security', 'Network service', 'Networking hardware', 'Number', 'Number theory', 'Numerical analysis', 'Open-source software', 'Operating system', 'Operations research', 'Order theory', 'Orthogonal polynomials', 'Ostomachion', 'Outline of computer science', 'Outline of mathematics', 'Parallel computing', 'Partially ordered set', 'Partially ordered sets', 'Partition (number theory)', 'Partition of a set', "Pascal's triangle", 'Paul Erdős', 'Percy Alexander MacMahon', 'Peripheral', 'Permutation', 'Permutations', 'Permutohedron', 'Petersen graph', 'Philosopher', 'Philosophy of artificial intelligence', 'Philosophy of mathematics', 'Photo manipulation', 'Phylogenetics', 'Physician', 'Physics', 'Pigeonhole principle', 'Plane partition', 'Plutarch', 'Polyhedral combinatorics', 'Polynomial method in combinatorics', 'Polytope', 'Potts model', 'Power set', 'Printed circuit board', 'Probabilistic method', 'Probabilistic number theory', 'Probability', 'Probability theory', 'Process control', 'Programming language', 'Programming language theory', 'Programming paradigm', 'Programming team', 'Programming tool', 'Pure mathematics', 'Q-series', "Ramsey's theorem", 'Ramsey theory', 'Random graph', 'Randomized algorithm', 'Real-time computing', 'Real analysis', 'Real projective space', 'Recreational mathematics', 'Regular polytope', 'Reinforcement learning', 'Renaissance', 'Rendering (computer graphics)', 'Representation theory', 'Requirements analysis', 'Richard P. Stanley', 'Ronald Fisher', 'S2CID (identifier)', 'Schröder–Hipparchus number', 'Science', 'Security service (telecommunication)', 'Self-avoiding walk', 'Semantics (computer science)', 'Set (mathematics)', 'Set intersection', 'Set system', 'Set theory', 'Social computing', 'Social software', 'Software configuration management', 'Software construction', 'Software deployment', 'Software design', 'Software development', 'Software development process', 'Software engineering', 'Software framework', 'Software maintenance', 'Software quality', 'Software repository', 'Solid modeling', 'Special functions', 'Sperner family', 'Statistical mechanics', 'Statistical physics', 'Statistics', 'Steiner system', 'Subset', 'Sufficiently large', 'Supervised learning', 'Sushruta', 'Sushruta Samhita', 'Symmetric group', 'Symmetric polynomial', 'System on a chip', 'Systems science', 'Talmudist', 'Theoretical computer science', 'Theory of computation', 'Thue–Morse sequence', 'Tiling puzzle', 'Timeline of Indian history', 'Timeline of mathematics', 'Topological combinatorics', 'Topology', 'Tournament', 'Tree (set theory)', 'Triangle-free graph', 'Tutte polynomial', 'Twelvefold way', 'Type theory', 'Ubiquitous computing', 'Universal algebra', 'University of St Andrews', 'Unsupervised learning', 'Vector space', 'Vertex (graph theory)', 'Very Large Scale Integration', 'Video game', 'Virtual machine', 'Virtual reality', 'Visualization (graphics)', 'Wayback Machine', 'Word processor', 'World Wide Web', 'Young diagram']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'Articles needing additional references from July 2022', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Combinatorics', 'Harv and Sfn no-target errors', 'Pages using Sister project links with hidden wikidata', 'Short description matches Wikidata', 'Webarchive template wayback links']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/b/b4/Catalan_4_leaves_binary_tree_example.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/47/Collier-de-perles-rouge-vert.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/51/Computer_Retro.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Hasse_diagram_of_powerset_of_3.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Icosahedron.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Kissing-3d.png', 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Morse-Thue_sequence.gif', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/14/Partition3D.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/37/People_icon.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Plain-bob-minor_2.png', 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Self_avoiding_walk.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikibooks-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/f2/Young_diagram_for_541_partition.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/91/Petersen1_tiny.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/0/06/Wiktionary-logo-v2.svg']
+
+####### REFERENCES #######
+
+['http://scholar.google.com/scholar?q=%22Combinatorics%22', 'http://www.google.com/search?&q=%22Combinatorics%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Combinatorics%22', 'http://www.google.com/search?tbm=nws&q=%22Combinatorics%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Combinatorics%22+-wikipedia', 'http://www.mathpages.com/home/icombina.htm', 'http://link.springer.com/10.1007/978-1-4020-5764-9_16', 'http://mathworld.wolfram.com/Combinatorics.html', 'http://www.worldscientific.com/worldscibooks/10.1142/8027', 'http://www.math.gatech.edu/~sanders/graphtheory/writings/2-digit.html', 'http://www.math.iit.edu/~kaul/Journals.html#CGT', 'http://www.math.illinois.edu/~dwest/openp/gloss.html', 'http://www-math.mit.edu/~rstan/ec/', 'http://www-math.mit.edu/~rstan/papers/comb.pdf', 'http://faculty.uml.edu/dklain/cpc.pdf', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX525029', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007284727105171', 'http://www.combinatorics.net/Resources/hyper/Hyperbook.aspx', 'http://doi.org/10.1007%2F978-0-8176-4775-9', 'http://doi.org/10.1007%2F978-1-4020-5764-9_16', 'http://doi.org/10.1007%2FBF00357307', 'http://doi.org/10.1007%2Fs00407-003-0067-0', 'http://doi.org/10.1016%2F0315-0860(79)90074-0', 'http://doi.org/10.1080%2F00029890.1987.12000711', 'http://doi.org/10.1080%2F00029890.1996.12004816', 'http://doi.org/10.1080%2F00029890.1998.12004906', 'http://doi.org/10.1090%2FS0273-0979-1979-14606-8', 'http://www.jstor.org/stable/41133783', 'http://www.worldcat.org/issn/0003-9519', 'http://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf', 'https://www.mat.univie.ac.at/~slc/divers/software.html', 'https://www.britannica.com/science/combinatorics', 'https://books.google.com/books?id=2ZbiBQAAQBAJ&pg=PA35', 'https://books.google.com/books?id=2hTyfurOH8AC', 'https://books.google.com/books?id=ueq1CwAAQBAJ&pg=PP1', 'https://link.springer.com/article/10.1007/s00407-003-0067-0', 'https://link.springer.com/book/10.1007/978-0-8176-4775-9', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph121739&CON_LNG=ENG', 'https://grbs.library.duke.edu/article/view/11131/4205', 'https://www.math.ucla.edu/~pak/hidden/papers/Quotes/Combinatorics-quotes.htm', 'https://catalogue.bnf.fr/ark:/12148/cb119470231', 'https://data.bnf.fr/ark:/12148/cb119470231', 'https://id.loc.gov/authorities/subjects/sh85028802', 'https://d-nb.info/gnd/4164746-4', 'https://www.ams.org/journals/bull/1979-01-02/S0273-0979-1979-14606-8/S0273-0979-1979-14606-8.pdf', 'https://web.archive.org/web/20081231163112/http://www.math.gatech.edu/~sanders/graphtheory/writings/2-digit.html', 'https://web.archive.org/web/20090226040144/http://faculty.uml.edu/dklain/cpc.pdf', 'https://web.archive.org/web/20171017075155/http://www.math.ucla.edu/~pak/hidden/papers/Quotes/Combinatorics-quotes.htm', 'https://web.archive.org/web/20210217150357/http://www.math.iit.edu/~kaul/Journals.html#CGT', 'https://web.archive.org/web/20210226080424/https://www.ams.org/journals/bull/1979-01-02/S0273-0979-1979-14606-8/S0273-0979-1979-14606-8.pdf', 'https://web.archive.org/web/20210416091311/https://books.google.com/books?id=2ZbiBQAAQBAJ&pg=PA35', 'https://web.archive.org/web/20210416095205/https://www.sciamvs.org/2004.html', 'https://web.archive.org/web/20210416100842/https://books.google.com/books?id=ueq1CwAAQBAJ&pg=PP1', 'https://web.archive.org/web/20210416100852/https://books.google.com/books?id=2hTyfurOH8AC', 'https://web.archive.org/web/20210416100956/https://grbs.library.duke.edu/article/view/11131/4205', 'https://web.archive.org/web/20210418221029/https://www.jstor.org/stable/41133783', 'https://web.archive.org/web/20220123111759/https://link.springer.com/article/10.1007%2Fs00407-003-0067-0', 'https://www.encyclopediaofmath.org/index.php?title=Combinatorial_analysis', 'https://www.jstor.org/action/doBasicSearch?Query=%22Combinatorics%22&acc=on&wc=on', 'https://www.jstor.org/stable/41133783', 'https://www.sciamvs.org/2004.html', 'https://api.semanticscholar.org/CorpusID:121613986', 'https://api.semanticscholar.org/CorpusID:122758966', 'https://www.wikidata.org/wiki/Q76592#identifiers', 'https://mathshistory.st-andrews.ac.uk/Biographies/Mahavira.html']
+
+####### SUMMARY #######
+
+Combinatorics is an area of mathematics primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures.  It is closely related to many other areas of mathematics and has many applications ranging from logic to statistical physics and from evolutionary biology to computer science.
+Combinatorics is well known for the breadth of the problems it tackles. Combinatorial problems arise in many areas of pure mathematics, notably in algebra, probability theory, topology, and geometry, as well as in its many application areas. Many combinatorial questions have historically been considered in isolation, giving an ad hoc solution to a problem arising in some mathematical context. In the later twentieth century, however, powerful and general theoretical methods were developed, making combinatorics into an independent branch of mathematics in its own right. One of the oldest and most accessible parts of combinatorics is graph theory, which by itself has numerous natural connections to other areas. Combinatorics is used frequently in computer science to obtain formulas and estimates in the analysis of algorithms.
+A mathematician who studies combinatorics is called a combinatorialist.
+
+####### CONTENT #######
+
+Combinatorics is an area of mathematics primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures.  It is closely related to many other areas of mathematics and has many applications ranging from logic to statistical physics and from evolutionary biology to computer science.
+Combinatorics is well known for the breadth of the problems it tackles. Combinatorial problems arise in many areas of pure mathematics, notably in algebra, probability theory, topology, and geometry, as well as in its many application areas. Many combinatorial questions have historically been considered in isolation, giving an ad hoc solution to a problem arising in some mathematical context. In the later twentieth century, however, powerful and general theoretical methods were developed, making combinatorics into an independent branch of mathematics in its own right. One of the oldest and most accessible parts of combinatorics is graph theory, which by itself has numerous natural connections to other areas. Combinatorics is used frequently in computer science to obtain formulas and estimates in the analysis of algorithms.
+A mathematician who studies combinatorics is called a combinatorialist.
+
+
+== Definition ==
+The full scope of combinatorics is not universally agreed upon. According to H.J. Ryser, a definition of the subject is difficult because it crosses so many mathematical subdivisions. Insofar as an area can be described by the types of problems it addresses, combinatorics is involved with:
+
+the enumeration (counting) of specified structures, sometimes referred to as arrangements or configurations in a very general sense, associated with finite systems,
+the existence of such structures that satisfy certain given criteria,
+the construction of these structures, perhaps in many ways, and
+optimization: finding the "best" structure or solution among several possibilities, be it the "largest",  "smallest" or satisfying some other optimality criterion.Leon Mirsky has said: "combinatorics is a range of linked studies which have something in common and yet diverge widely in their objectives, their methods, and the degree of coherence they have attained." One way to define combinatorics is, perhaps, to describe its subdivisions with their problems and techniques. This is the approach that is used below. However, there are also purely historical reasons for including or not including some topics under the combinatorics umbrella. Although primarily concerned with finite systems, some combinatorial questions and techniques can be extended to an infinite (specifically, countable) but discrete setting.
+
+
+== History ==
+
+Basic combinatorial concepts and enumerative results appeared throughout the ancient world. In the 6th century BCE, ancient Indian physician Sushruta asserts in Sushruta Samhita that 63 combinations can be made out of 6 different tastes, taken one at a time, two at a time, etc., thus computing all 26 − 1 possibilities.  Greek historian Plutarch discusses an argument between Chrysippus (3rd century BCE) and Hipparchus (2nd century BCE) of a rather delicate enumerative problem, which was later shown to be related to Schröder–Hipparchus numbers. Earlier, in the Ostomachion, Archimedes (3rd century BCE) may have considered the number of configurations of a tiling puzzle, while combinatorial interests possibly were present in lost works by Apollonius.In the Middle Ages, combinatorics continued to be studied, largely outside of the European civilization. The Indian mathematician Mahāvīra (c. 850) provided formulae for the number of permutations and combinations, and these formulas may have been familiar to Indian mathematicians as early as the 6th century CE.  The philosopher and astronomer Rabbi Abraham ibn Ezra (c. 1140) established the symmetry of binomial coefficients, while a closed formula was obtained later by the talmudist and mathematician Levi ben Gerson (better known as Gersonides), in 1321.
+The arithmetical triangle—a graphical diagram showing relationships among the binomial coefficients—was presented by mathematicians in treatises dating as far back as the 10th century, and would eventually become known as Pascal's triangle. Later, in Medieval England, campanology provided examples of what is now known as Hamiltonian cycles in certain Cayley graphs on permutations.During the Renaissance, together with the rest of mathematics and the sciences, combinatorics enjoyed a rebirth. Works of Pascal, Newton, Jacob Bernoulli and Euler became foundational in the emerging field. In modern times, the works of J.J. Sylvester (late 19th century) and Percy MacMahon (early 20th century) helped lay the foundation for enumerative and algebraic combinatorics. Graph theory also enjoyed an increase of interest at the same time, especially in connection with the four color problem.
+In the second half of the 20th century, combinatorics enjoyed a rapid growth, which led to establishment of dozens of new journals and conferences in the subject. In part, the growth was spurred by new connections and applications to other fields, ranging from algebra to probability, from functional analysis to number theory, etc.  These connections shed the boundaries between combinatorics and parts of mathematics and theoretical computer science, but at the same time led to a partial fragmentation of the field.
+
+
+== Approaches and subfields of combinatorics ==
+
+
+=== Enumerative combinatorics ===
+
+Enumerative combinatorics is the most classical area of combinatorics and concentrates on counting the number of certain combinatorial objects.  Although counting the number of elements in a set is a rather broad mathematical problem, many of the problems that arise in applications have a relatively simple combinatorial description. Fibonacci numbers is the basic example of a problem in enumerative combinatorics.  The twelvefold way provides a unified framework for counting permutations, combinations and partitions.
+
+
+=== Analytic combinatorics ===
+
+Analytic combinatorics concerns the enumeration of combinatorial structures using tools from complex analysis and probability theory.  In contrast with enumerative combinatorics, which uses explicit combinatorial formulae and generating functions to describe the results, analytic combinatorics aims at obtaining asymptotic formulae.
+
+
+=== Partition theory ===
+
+Partition theory studies various enumeration and asymptotic problems related to integer partitions, and is closely related to q-series, special functions and orthogonal polynomials.  Originally a part of number theory and analysis, it is now considered a part of combinatorics or an independent field.  It incorporates the bijective approach and various tools in analysis and analytic number theory and has connections with statistical mechanics. Partitions can be graphically visualized with Young diagrams or Ferrers diagrams. They occur in a number of branches of mathematics and physics, including the study of symmetric polynomials and of the symmetric group and in group representation theory in general.
+
+
+=== Graph theory ===
+
+Graphs are fundamental objects  in combinatorics.  Considerations of graph theory range from enumeration (e.g., the number of graphs on n vertices with k edges) to existing structures (e.g., Hamiltonian cycles) to algebraic representations (e.g., given a graph G and two numbers x and y, does the Tutte polynomial TG(x,y) have a combinatorial interpretation?).  Although there are very strong connections between graph theory and combinatorics, they are sometimes thought of as separate subjects.  While combinatorial methods apply to many graph theory problems, the two disciplines are generally used to seek solutions to different types of problems.
+
+
+=== Design theory ===
+
+Design theory is a study of combinatorial designs, which are collections of subsets with certain intersection properties. Block designs are combinatorial designs of a special type. This area is one of the oldest parts of combinatorics, such as in Kirkman's schoolgirl problem proposed in 1850. The solution of the problem is a special case of a Steiner system, which systems play an important role in the classification of finite simple groups. The area has further connections to coding theory and geometric combinatorics. 
+Combinatorial design theory can be applied to the area of design of experiments.  Some of the basic theory of combinatorial designs originated in the statistician Ronald Fisher's work on the design of biological experiments. Modern applications are also found in a wide gamut of areas including finite geometry, tournament scheduling, lotteries, mathematical chemistry, mathematical biology, algorithm design and analysis, networking, group testing and cryptography.
+
+
+=== Finite geometry ===
+
+Finite geometry is the study of geometric systems having only a finite number of points. Structures analogous to those found in continuous geometries (Euclidean plane, real projective space, etc.) but defined combinatorially are the main items studied. This area provides a rich source of examples for design theory. It should not be confused with discrete geometry (combinatorial geometry).
+
+
+=== Order theory ===
+
+Order theory is the study of partially ordered sets, both finite and infinite. It provides a formal framework for describing statements such as "this is less than that" or "this precedes that". Various examples of partial orders appear in algebra, geometry, number theory and throughout combinatorics and graph theory.  Notable classes and examples of partial orders include lattices and Boolean algebras.
+
+
+=== Matroid theory ===
+
+Matroid theory abstracts part of geometry. It studies the properties of sets (usually, finite sets) of vectors in a vector space that do not depend on the particular coefficients in a linear dependence relation.  Not only the structure but also enumerative properties belong to matroid theory.  Matroid theory was introduced by Hassler Whitney and studied as a part of order theory.  It is now an independent field of study with a number of connections with other parts of combinatorics.
+
+
+=== Extremal combinatorics ===
+Extremal combinatorics studies how large or how small a collection of finite objects (numbers, graphs, vectors, sets, etc.) can be, if it has to satisfy certain restrictions. Much of extremal combinatorics concerns classes of set systems; this is called extremal set theory. For instance, in an n-element set, what is the largest number of k-element subsets that can pairwise intersect one another?  What is the largest number of subsets of which none contains any other?  The latter question is answered by Sperner's theorem, which gave rise to much of extremal set theory.
+The types of questions addressed in this case are about the largest possible graph which satisfies certain properties.  For example, the largest triangle-free graph on 2n vertices is a complete bipartite graph Kn,n. Often it is too hard even to find the extremal answer f(n) exactly and one can only give an asymptotic estimate.
+Ramsey theory is another part of extremal combinatorics.  It states that any sufficiently large configuration will contain some sort of order. It is an advanced generalization of the pigeonhole principle.
+
+
+=== Probabilistic combinatorics ===
+
+In probabilistic combinatorics, the questions are of the following type: what is the probability of a certain property for a random discrete object, such as a random graph? For instance, what is the average number of triangles in a random graph? Probabilistic methods are also used to determine the existence of combinatorial objects with certain prescribed properties (for which explicit examples might be difficult to find), simply by observing that the probability of randomly selecting an object with those properties is greater than 0. This approach (often referred to as the probabilistic method) proved highly effective in applications to extremal combinatorics and graph theory. A closely related area is the study of finite Markov chains, especially on combinatorial objects. Here again probabilistic tools are used to estimate the mixing time.
+Often associated with Paul Erdős, who did the pioneering work on the subject, probabilistic combinatorics was traditionally viewed as a set of tools to study problems in other parts of combinatorics. However, with the growth of applications to analyze algorithms in computer science, as well as classical probability, additive number theory, and probabilistic number theory, the area recently grew to become an independent field of combinatorics.
+
+
+=== Algebraic combinatorics ===
+
+Algebraic combinatorics is an area of mathematics that employs methods of abstract algebra, notably group theory and representation theory, in various combinatorial contexts and, conversely, applies combinatorial techniques to problems in algebra. Algebraic combinatorics has come to be seen more expansively as an area of mathematics where the interaction of combinatorial and algebraic methods is particularly strong and significant. Thus the combinatorial topics may be enumerative in nature or involve matroids, polytopes, partially ordered sets, or finite geometries. On the algebraic side, besides group and representation theory, lattice theory and commutative algebra are common.
+
+
+=== Combinatorics on words ===
+
+Combinatorics on words deals with formal languages.  It  arose independently within several branches of mathematics, including number theory, group theory and probability. It has applications to enumerative combinatorics, fractal analysis, theoretical computer science, automata theory, and linguistics. While many applications are new, the classical Chomsky–Schützenberger hierarchy of classes of formal grammars is perhaps the best-known result in the field.
+
+
+=== Geometric combinatorics ===
+
+Geometric combinatorics is related to convex and discrete geometry. It asks, for example, how many faces of each dimension a convex polytope can have.  Metric properties of polytopes play an important role as well, e.g. the Cauchy theorem on the rigidity of convex polytopes.  Special polytopes are also considered, such as permutohedra, associahedra and Birkhoff polytopes. Combinatorial geometry is a historical name for discrete geometry.
+It includes a number of subareas such as polyhedral combinatorics (the study of faces of convex polyhedra), convex geometry (the study of convex sets, in particular combinatorics of their intersections), and discrete geometry, which in turn has many applications to computational geometry. The study of regular polytopes, Archimedean solids, and kissing numbers is also a part of geometric combinatorics. Special polytopes are also considered, such as the permutohedron, associahedron and Birkhoff polytope. 
+
+
+=== Topological combinatorics ===
+
+Combinatorial analogs of concepts and methods in topology are used to study graph coloring, fair division, partitions, partially ordered sets, decision trees, necklace problems and discrete Morse theory.  It should not be confused with combinatorial topology which is an older name for algebraic topology.
+
+
+=== Arithmetic combinatorics ===
+
+Arithmetic combinatorics arose out of the interplay between number theory, combinatorics, ergodic theory, and harmonic analysis. It is about combinatorial estimates associated with arithmetic operations (addition, subtraction, multiplication, and division). Additive number theory (sometimes also called additive combinatorics) refers to the special case when only the operations of addition and subtraction are involved.  One important technique in arithmetic combinatorics is the ergodic theory of dynamical systems.
+
+
+=== Infinitary combinatorics ===
+
+Infinitary combinatorics, or combinatorial set theory, is an extension of ideas in combinatorics to infinite sets.  It is a part of set theory, an area of mathematical logic, but uses tools and ideas from both set theory and extremal combinatorics. Some of the things studied include continuous graphs and trees, extensions of Ramsey's theorem, and Martin's axiom. Recent developments concern combinatorics of the continuum and combinatorics on successors of singular cardinals.Gian-Carlo Rota used the name continuous combinatorics to describe geometric probability, since there are many analogies between counting and measure.
+
+
+== Related fields ==
+
+
+=== Combinatorial optimization ===
+Combinatorial optimization is the study of optimization on discrete and combinatorial objects. It started as a part of combinatorics and graph theory, but is now viewed as a branch of applied mathematics and computer science, related to operations research, algorithm theory and computational complexity theory.
+
+
+=== Coding theory ===
+Coding theory started as a part of design theory with early combinatorial constructions of error-correcting codes. The main idea of the subject is to design efficient and reliable methods of data transmission. It is now a large field of study, part of information theory.
+
+
+=== Discrete and computational geometry ===
+Discrete geometry (also called combinatorial geometry) also began as a part of combinatorics, with early results on convex polytopes and kissing numbers.  With the emergence of applications of discrete geometry to computational geometry, these two fields partially merged and became a separate field of study.  There remain many connections with geometric and topological combinatorics, which themselves can be viewed as outgrowths of the early discrete geometry.
+
+
+=== Combinatorics and dynamical systems ===
+Combinatorial aspects of dynamical systems is another emerging field.  Here dynamical systems can be defined on combinatorial objects.  See for example
+graph dynamical system.
+
+
+=== Combinatorics and physics ===
+There are increasing interactions between combinatorics and physics, particularly statistical physics. Examples include an exact solution of the Ising model, and a connection between the Potts model on one hand, and the chromatic and Tutte polynomials on the other hand.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Björner, Anders; and Stanley, Richard P.; (2010); A Combinatorial Miscellany
+Bóna, Miklós; (2011); A Walk Through Combinatorics (3rd Edition). ISBN 978-981-4335-23-2, 978-981-4460-00-2
+Graham, Ronald L.; Groetschel, Martin; and Lovász, László; eds. (1996); Handbook of Combinatorics, Volumes 1 and 2.  Amsterdam, NL, and Cambridge, MA: Elsevier (North-Holland) and MIT Press. ISBN 0-262-07169-X
+Lindner, Charles C.; and Rodger, Christopher A.; eds. (1997); Design Theory, CRC-Press; 1st. edition (1997). ISBN 0-8493-3986-3.
+Riordan, John (2002) [1958], An Introduction to Combinatorial Analysis, Dover, ISBN 978-0-486-42536-8
+Ryser, Herbert John (1963), Combinatorial Mathematics, The Carus Mathematical Monographs(#14), The Mathematical Association of America
+Stanley, Richard P. (1997, 1999); Enumerative Combinatorics, Volumes 1 and 2, Cambridge University Press. ISBN 0-521-55309-1, 0-521-56069-1
+van Lint, Jacobus H.; and Wilson, Richard M.; (2001); A Course in Combinatorics, 2nd Edition, Cambridge University Press. ISBN 0-521-80340-3
+
+
+== External links ==
+
+"Combinatorial analysis", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Combinatorial Analysis – an article in Encyclopædia Britannica Eleventh Edition
+Combinatorics, a MathWorld article with many references.
+Combinatorics, from a MathPages.com portal.
+The Hyperbook of Combinatorics, a collection of math articles links.
+The Two Cultures of Mathematics by W.T. Gowers, article on problem solving vs theory building.
+"Glossary of Terms in Combinatorics"
+List of Combinatorics Software and Databases
+

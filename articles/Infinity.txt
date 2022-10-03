@@ -1,0 +1,688 @@
+####### TITLE #######
+
+Infinity
+
+####### LINKS #######
+
+['0.999...', '1,000,000', '1,000,000,000', '10,000', '10,000,000', '100,000', '100,000,000', '1000 (number)', 'Abraham Robinson', 'Absolute Infinite', 'Achilles', 'Ackermann function', 'Actual infinity', 'Aleph-null', 'Aleph number', 'Algorithm', 'American Mathematical Society', 'Ananta (infinite)', 'Anaximander', 'Ancient Greece', 'Apeiron (cosmology)', 'ArXiv (identifier)', 'Arithmetic overflow', 'Augustin-Louis Cauchy', 'Autism rights movement', 'Autism spectrum', 'Axiom of Choice', 'Axiom of infinity', 'BBC', 'Bertrand Russell', 'Beth number', 'Bibcode (identifier)', 'Brady Haran', 'Buchholz hydra', 'Calculus', 'Calculus of variations', "Cantor's diagonal argument", "Cantor's first uncountability proof", 'Cardinal arithmetic', 'Cardinal number', 'Cardinality', 'Cardinality of the continuum', 'Carl Sagan', 'Chess', 'Cognitive science', 'Combinatorics', 'Compactification (mathematics)', 'Complex analysis', 'Complex manifold', 'Continuous function', 'Continuum (theory)', 'Continuum hypothesis', "Controversy over Cantor's theory", 'Convergent series', 'Conway chained arrow notation', 'Cosmic microwave background radiation', 'Cosmology', 'Countable', 'Countable set', 'Cube', 'D.P. Agrawal', 'Data type', 'David Foster Wallace', 'De analysi per aequationes numero terminorum infinitas', 'Dedekind infinite', 'Derivative', 'Differential equation', 'Dimension (mathematics and physics)', 'Dimension (vector space)', 'Divergent series', 'Division by zero', 'Doi (identifier)', 'Eddington number', 'Edward N. Zalta', 'Eleatic', 'Elementary arithmetic', 'Eli Maor', 'Enumerable', 'Euclid', 'Euclidean space', 'Exponentiation', 'Extended real number', 'Extended real number line', 'Fast-growing hierarchy', "Fermat's Last Theorem", 'Finite-dimensional', 'Finitism', 'Foundation of mathematics', 'Fourier analysis', 'Fractal', 'Fractal curve', "Friedman's SSCG function", 'Function (mathematics)', 'Function space', 'Functional analysis', 'Fundamental theorem of calculus', "Galileo's paradox", 'Geometry', 'Georg Cantor', 'George Lakoff', 'Giordano Bruno', 'Giuseppe Peano', 'Googol', 'Googolplex', 'Gottfried Wilhelm Leibniz', 'Gottlob Frege', "Graham's number", 'Greatest element', 'Greek mathematics', 'Grothendieck universe', 'Grzegorczyk hierarchy', "Guillaume de l'Hôpital", 'Harmonic analysis', 'Hellenistic', 'Hermann Weyl', "Hilbert's paradox of the Grand Hotel", 'History of large numbers', 'Howard Jerome Keisler', 'Hypercomplex analysis', 'Hypercube', 'Hyperoperation', 'Hyperplane at infinity', 'Hyperreal number', 'IEEE floating-point', 'ISBN (identifier)', 'ISSN (identifier)', 'In Our Time (radio series)', 'Indefinite and fictitious numbers', 'Indeterminate form', 'Indian mathematics', 'Infinite chess', 'Infinite loop', 'Infinite monkey theorem', 'Infinite regress', 'Infinite series', 'Infinite set', 'Infinitesimal', 'Infinitesimal calculus', 'Infinitude of the prime numbers', 'Infinity (disambiguation)', 'Infinity (philosophy)', 'Infinity symbol', 'Integer', 'Integers', 'Integral', 'Internal set theory', 'Internet Encyclopedia of Philosophy', 'Interval (mathematics)', 'Intuitionism', 'Isaac Newton', 'Iterated loop space', 'J (programming language)', 'Java (programming language)', 'Johann Bernoulli', 'John Lane Bell', 'John Wallis', "Knuth's up-arrow notation", 'Koch snowflake', "Kruskal's tree theorem", 'LaTeX', 'Large numbers', 'Largest known prime number', 'Law of Continuity', 'Least-squares spectral analysis', 'Lemniscate', 'Leopold Kronecker', 'Limit (mathematics)', 'Limit of a function', 'Line (geometry)', 'Line at infinity', 'Line segment', 'List of numbers', 'Lists of integrals', 'Locus (mathematics)', 'Logic', 'Logical system', 'Long and short scales', 'Loop (computing)', 'M.C. Escher', 'MR (identifier)', 'MacTutor History of Mathematics archive', 'Mathematical analysis', 'Mathematical constructivism', 'Mathematical object', 'Matrix calculus', 'Measure (mathematics)', 'Meromorphic function', 'Michio Kaku', 'Morris Kline', 'Multipole moments', 'Multiverse', 'Möbius transformation', 'NaN', 'Names of large numbers', 'Natural number', 'Non-standard calculus', 'Nonstandard analysis', 'Number', 'Numeral (linguistics)', 'OCLC (identifier)', 'One-point compactification', 'One-to-one correspondence', 'Ontological', 'Operator overloading', 'Orders of magnitude (numbers)', 'Ordinal number', 'Ordinary differential equation', 'P-adic analysis', 'P-adic number', 'PMC (identifier)', 'PMID (identifier)', 'Paradoxes of infinity', 'Parallel lines', 'Parallel postulate', 'Partial differential equation', 'Penguin Books', 'Pentation', 'Per Martin-Löf', 'Perspective (graphical)', 'Perspectives on Science', 'Philosophy of mathematics', 'Physical cosmology', 'Physics', 'Plane at infinity', 'Plane wave', 'Point at infinity', 'Points at infinity', 'Power of 10', 'Power of three', 'Power of two', 'Pre-Socratic philosophy', 'Proceedings of the National Academy of Sciences of the United States of America', 'Programming language', 'Projective geometry', 'Projective plane', 'Proper subset', 'Quaternionic analysis', "Rayo's number", 'Real analysis', 'Real number', 'Real number line', 'Real projective line', 'Relational operator', 'Representation theory', 'Richard Dedekind', 'Riemann sphere', 'Riemann surface', 'Rudy Rucker', 'S2CID (identifier)', 'Scientific notation', 'Search algorithm', 'Sentinel value', 'Sequence', 'Series (mathematics)', 'Set theory', 'Shannon number', 'Shape of the universe', "Skewes's number", 'Smooth infinitesimal analysis', 'Sorting', 'Space-filling curve', 'Special functions', 'Square number', 'Stanford Encyclopedia of Philosophy', 'Steinhaus–Moser notation', 'Stereographic projection', 'Stochastic differential equation', 'Supertask', 'Surreal number', 'Symbology', 'Synthetic differential geometry', 'Table of derivatives', 'Tangent (trigonometric function)', 'Tensor calculus', 'Tetration', 'Thomas Heath (classicist)', 'Topological space', 'Topology', 'Torus', 'Transfinite number', 'Uncountable set', 'Unicode', 'Universe', 'Vanishing point', 'Vector calculus', 'Vector space', 'Vedic period', 'WMAP', 'Wayback Machine', 'Well-ordered', "Wiles's proof of Fermat's Last Theorem", 'Window function', "Zeno's paradoxes", 'Zeno of Elea', 'Zermelo–Fraenkel set theory']
+
+####### CATEGORIES #######
+
+['All articles with unsourced statements', 'Articles with Internet Encyclopedia of Philosophy links', 'Articles with NDL identifiers', 'Articles with short description', 'Articles with unsourced statements from April 2017', 'Articles with unsourced statements from January 2015', 'Articles with unsourced statements from November 2019', 'CS1: long volume value', 'CS1 maint: archived copy as title', 'CS1 maint: date and year', 'Commons category link from Wikidata', 'Concepts in logic', 'Infinity', 'Mathematical objects', 'Philosophy of mathematics', 'Short description matches Wikidata', 'Webarchive template wayback links', 'Wikipedia articles needing page number citations from June 2014', 'Wikipedia indefinitely move-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/c/c8/Infinite.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Infinity_paradoxon_-_one-to-one_correspondence_between_infinite_set_and_proper_subset.gif', 'https://upload.wikimedia.org/wikipedia/commons/5/53/N%C3%BAmeros_hiperreales.png', 'https://upload.wikimedia.org/wikipedia/commons/6/64/Peanocurve.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/32/Riemann_sphere1.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Wikibooks-logo-en-noslogan.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg']
+
+####### REFERENCES #######
+
+['http://www.chessvariants.com/boardrules.dir/infinite.html', 'http://www.doriclenses.com/administrer/upload/pdf/NOT_AXI_ENG_070212_doricl97_doricle_kvgwQP.pdf', 'http://infinityfoundation.com', 'http://www.infinityfoundation.com/mandala/t_es/t_es_agraw_jaina.htm', 'http://www.numberphile.com/videos/countable_infinity.html', 'http://dictionary.of-the-infinite.com', 'http://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.2.3', 'http://mathonline.wikidot.com/properly-divergent-sequences', 'http://mathworld.wolfram.com/ExtendedComplexPlane.html', 'http://www.earlham.edu/~peters/writing/infapp.htm', 'http://www.earlham.edu/~peters/writing/infinity.htm', 'http://muse.jhu.edu/journals/perspectives_on_science/v006/6.1jesseph.html', 'http://classics.mit.edu/Aristotle/physics.3.iii.html', 'http://www.se.rit.edu/~yasmine/assets/papers/Embodied%20math.pdf', 'http://farside.ph.utexas.edu/Books/Euclid/Elements.pdf', 'http://www.iep.utm.edu/infinite', 'http://www.math.wisc.edu/~keisler/calc.html', 'http://map.gsfc.nasa.gov/universe/uni_shape.html', 'http://pubmed.ncbi.nlm.nih.gov/16578557', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC221287', 'http://acmsonline.org/home2/wp-content/uploads/2016/05/Dauben-Cantor.pdf', 'http://www.ams.org/mathscinet-getitem?mr=1064143', 'http://www.ams.org/mathscinet-getitem?mr=1669668', 'http://arxiv.org/abs/1302.4377', 'http://arxiv.org/abs/1510.08155', 'http://arxiv.org/archive/math.LO', 'http://doi.org/10.1007%2F3-540-52335-9_54', 'http://doi.org/10.1007%2FBFb0090732', 'http://doi.org/10.1063%2FPT.3.2420', 'http://doi.org/10.1073%2Fpnas.50.6.1143', 'http://doi.org/10.1086%2F346308', 'http://doi.org/10.1162%2Fposc_a_00543', 'http://doi.org/10.2178%2Fbsl%2F1286284558', 'http://www.symmetrymagazine.org/article/april-2015/our-flat-universe?email_issue=725', 'http://www.worldcat.org/issn/0021-1753', 'http://www.worldcat.org/issn/1063-6145', 'http://www.worldcat.org/oclc/247299160', 'http://www.worldcat.org/oclc/42413222', 'http://www.worldcat.org/oclc/659590835', 'http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Cantor.html', 'http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/Jaina_mathematics.html', 'http://www-history.mcs.st-andrews.ac.uk/history/Projects/Pearce/Chapters/Ch5.html', 'http://www.rogerstokes.free-online.co.uk/19.htm#10', 'https://www.compart.com/en/unicode/U+221E', 'https://books.google.com/books?id=6rTttN4ZdyoC', 'https://books.google.com/books?id=6rTttN4ZdyoC&pg=PA553', 'https://books.google.com/books?id=Jud1q_NrqpcC&pg=PA159', 'https://books.google.com/books?id=OQZxHpG2y3UC&q=infinity', 'https://books.google.com/books?id=UdGBy8iLpocC', 'https://books.google.com/books?id=UdGBy8iLpocC&pg=PA62', 'https://books.google.com/books?id=UrT0KsbDmDwC&pg=PA1', 'https://books.google.com/books?id=XX9PKytw8g8C&pg=PA24', 'https://books.google.com/books?id=dkk6AQAAMAAJ&q=right+angles+infinite&pg=PR8', 'https://books.google.com/books?id=f-e0bro-0FUC&pg=PA229', 'https://books.google.com/books?id=iewwDgAAQBAJ&pg=PA117', 'https://books.google.com/books?id=lXjF7JnHQoIC&q=To+Infinity+and+beyond', 'https://books.google.com/books?id=m40ivUwAonUC&pg=PA29', 'https://books.google.com/books?id=sWGqzfL0snEC', 'https://books.google.com/books?id=sWGqzfL0snEC&pg=PA63', 'https://books.google.com/books?id=vhNNrX3bmo4C&pg=PA243', 'https://the-art-of-autism.com/happy-autistic-pride-day-june-18-2016-autisticpride/', 'https://the-art-of-autism.com/the-autism-puzzle-piece-a-symbol-of-what/', 'https://www.washingtonpost.com/wp-srv/style/longterm/books/chap1/mysteryaleph.htm', 'https://www.youtube.com/watch?v=PN-I6u-AxMg', 'https://math.dartmouth.edu/~matc/Readers/HowManyAngels/InfinityMind/IM.html', 'https://ui.adsabs.harvard.edu/abs/1963PNAS...50.1143C', 'https://ui.adsabs.harvard.edu/abs/2014PhT....67f..49S', 'https://plato.stanford.edu/entries/continuity/', 'https://plato.stanford.edu/entries/paradox-zeno/', 'https://www.math.tamu.edu/~dallen/masters/infinity/infinity.pdf', 'https://www.journals.uchicago.edu/doi/10.1086/346308', 'https://id.ndl.go.jp/auth/ndlna/00576691', 'https://archive.org/details/calculuswithanal00swok', 'https://archive.org/details/historyofmathema00cajo_0', 'https://archive.org/details/mathematicsforno00klin', 'https://archive.org/details/mathematicsforno00klin/page/229', 'https://archive.org/details/originsofscience0000hutt_n9u7', 'https://archive.org/details/shapeofspace0000week', 'https://web.archive.org/web/20040910082530/http://www.c3.lanl.gov/mega-math/workbk/infinity/infinity.html', 'https://web.archive.org/web/20060428005158/http://uk.geocities.com/frege@btinternet.com/cantor/Phil-Infinity.htm', 'https://web.archive.org/web/20060916095918/http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Cantor.html', 'https://web.archive.org/web/20081220145242/http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/Jaina_mathematics.html', 'https://web.archive.org/web/20091105182928/http://www.earlham.edu/~peters/writing/infinity.htm', 'https://web.archive.org/web/20100227033849/http://www.earlham.edu/~peters/writing/infapp.htm', 'https://web.archive.org/web/20120111102635/http://muse.jhu.edu/journals/perspectives_on_science/v006/6.1jesseph.html', 'https://web.archive.org/web/20120325064205/http://www.rogerstokes.free-online.co.uk/19.htm#10', 'https://web.archive.org/web/20120601032707/http://map.gsfc.nasa.gov/universe/uni_shape.html', 'https://web.archive.org/web/20120609071157/http://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.2.3', 'https://web.archive.org/web/20130124011604/http://www.doriclenses.com/administrer/upload/pdf/NOT_AXI_ENG_070212_doricl97_doricle_kvgwQP.pdf', 'https://web.archive.org/web/20150410200411/http://www.symmetrymagazine.org/article/april-2015/our-flat-universe?email_issue=725', 'https://web.archive.org/web/20150515120230/https://books.google.com/books?id=m40ivUwAonUC&pg=PA29', 'https://web.archive.org/web/20160509095701/https://books.google.com/books?id=Jud1q_NrqpcC&pg=PA159', 'https://web.archive.org/web/20160509151853/https://books.google.com/books?id=XX9PKytw8g8C&pg=PA24', 'https://web.archive.org/web/20160516173217/https://books.google.com/books?id=f-e0bro-0FUC&pg=PA229', 'https://web.archive.org/web/20160603085825/https://books.google.com/books?id=UdGBy8iLpocC', 'https://web.archive.org/web/20160629143323/https://books.google.com/books?id=vhNNrX3bmo4C&pg=PA243', 'https://web.archive.org/web/20170402082426/http://www.chessvariants.com/boardrules.dir/infinite.html', 'https://web.archive.org/web/20170403200429/https://books.google.com/books?id=iewwDgAAQBAJ&pg=PA117', 'https://web.archive.org/web/20170407211614/https://www.youtube.com/watch?v=PN-I6u-AxMg', 'https://web.archive.org/web/20171022173525/http://www.numberphile.com/videos/countable_infinity.html', 'https://web.archive.org/web/20200226004335/http://www.se.rit.edu/~yasmine/assets/papers/Embodied%20math.pdf', 'https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/abs/what-does-it-take-to-prove-fermats-last-theorem-grothendieck-and-the-logic-of-number-theory/80EDFF3616F8D58590EBA0DCB9FD2E3E', 'https://www.gnu.org/software/libc/manual/html_node/Infinity-and-NaN.html', 'https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols', 'https://api.semanticscholar.org/CorpusID:118227996', 'https://api.semanticscholar.org/CorpusID:13475845', 'https://www.wikidata.org/wiki/Q205#identifiers', 'https://www.worldcat.org/oclc/659590835', 'https://www.bbc.co.uk/programmes/p0054927']
+
+####### SUMMARY #######
+
+Infinity is that which is boundless, endless, or larger than any natural number. It is often denoted by the infinity symbol 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  .
+Since the time of the ancient Greeks, the philosophical nature of infinity was the subject of many discussions among philosophers. In the 17th century, with the introduction of the infinity symbol and the infinitesimal calculus, mathematicians began to work with infinite series and what some mathematicians (including l'Hôpital and Bernoulli) regarded as infinitely small quantities, but infinity continued to be associated with endless processes. As mathematicians struggled with the foundation of calculus, it remained unclear whether infinity could be considered as a number or magnitude and, if so, how this could be done. At the end of the 19th century, Georg Cantor enlarged the mathematical study of infinity by studying infinite sets and infinite numbers, showing that they can be of various sizes.  For example, if a line is viewed as the set of all of its points, their infinite number (i.e., the cardinality of the line) is larger than the number of integers. In this usage, infinity is a mathematical concept, and infinite mathematical objects can be studied, manipulated, and used just like any other mathematical object.
+The mathematical concept of infinity refines and extends the old philosophical concept, in particular by introducing infinitely many different sizes of infinite sets. Among the axioms of Zermelo–Fraenkel set theory, on which most of modern mathematics can be developed, is the axiom of infinity, which guarantees the existence of infinite sets. The mathematical concept of infinity and the manipulation of infinite sets are used everywhere in mathematics, even in areas such as combinatorics that may seem to have nothing to do with them. For example, Wiles's proof of Fermat's Last Theorem implicitly relies on the existence of very large infinite sets for solving a long-standing problem that is stated in terms of elementary arithmetic.
+In physics and cosmology, whether the Universe is infinite is an open question.
+
+
+
+####### CONTENT #######
+
+Infinity is that which is boundless, endless, or larger than any natural number. It is often denoted by the infinity symbol 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  .
+Since the time of the ancient Greeks, the philosophical nature of infinity was the subject of many discussions among philosophers. In the 17th century, with the introduction of the infinity symbol and the infinitesimal calculus, mathematicians began to work with infinite series and what some mathematicians (including l'Hôpital and Bernoulli) regarded as infinitely small quantities, but infinity continued to be associated with endless processes. As mathematicians struggled with the foundation of calculus, it remained unclear whether infinity could be considered as a number or magnitude and, if so, how this could be done. At the end of the 19th century, Georg Cantor enlarged the mathematical study of infinity by studying infinite sets and infinite numbers, showing that they can be of various sizes.  For example, if a line is viewed as the set of all of its points, their infinite number (i.e., the cardinality of the line) is larger than the number of integers. In this usage, infinity is a mathematical concept, and infinite mathematical objects can be studied, manipulated, and used just like any other mathematical object.
+The mathematical concept of infinity refines and extends the old philosophical concept, in particular by introducing infinitely many different sizes of infinite sets. Among the axioms of Zermelo–Fraenkel set theory, on which most of modern mathematics can be developed, is the axiom of infinity, which guarantees the existence of infinite sets. The mathematical concept of infinity and the manipulation of infinite sets are used everywhere in mathematics, even in areas such as combinatorics that may seem to have nothing to do with them. For example, Wiles's proof of Fermat's Last Theorem implicitly relies on the existence of very large infinite sets for solving a long-standing problem that is stated in terms of elementary arithmetic.
+In physics and cosmology, whether the Universe is infinite is an open question.
+
+
+== History ==
+
+Ancient cultures had various ideas about the nature of infinity. The ancient Indians and the Greeks did not define infinity in precise formalism as does modern mathematics, and instead approached infinity as a philosophical concept. 
+
+
+=== Early Greek ===
+The earliest recorded idea of infinity in Greece may be that of Anaximander (c. 610 – c. 546 BC) a pre-Socratic Greek philosopher. He used the word apeiron, which means "unbounded", "indefinite", and perhaps can be translated as "infinite".Aristotle (350 BC) distinguished potential infinity from actual infinity, which he regarded as impossible due to the various paradoxes it seemed to produce. It has been argued that, in line with this view, the Hellenistic Greeks had a "horror of the infinite" which would, for example, explain why Euclid (c. 300 BC) did not say that there are an infinity of primes but rather "Prime numbers are more than any assigned multitude of prime numbers." It has also been maintained, that, in proving the infinitude of the prime numbers, Euclid "was the first to overcome the horror of the infinite". There is a similar controversy concerning Euclid's parallel postulate, sometimes translated:
+
+If a straight line falling across two [other] straight lines makes internal angles on the same side [of itself whose sum is] less than two right angles, then the two [other] straight lines, being produced to infinity, meet on that side [of the original straight line] that the [sum of the internal angles] is less than two right angles.
+Other translators, however, prefer the translation "the two straight lines, if produced indefinitely ...", thus avoiding the implication that Euclid was comfortable with the notion of infinity.  Finally, it has been maintained that a reflection on infinity, far from eliciting a "horror of the infinite", underlay all of early Greek philosophy and that Aristotle's "potential infinity" is an aberration from the general trend of this period.
+
+
+=== Zeno: Achilles and the tortoise ===
+
+Zeno of Elea (c. 495 – c. 430 BC) did not advance any views concerning the infinite. Nevertheless, his paradoxes, especially "Achilles and the Tortoise", were important contributions in that they made clear the inadequacy of popular conceptions. The paradoxes were described by Bertrand Russell as "immeasurably subtle and profound".Achilles races a tortoise, giving the latter a head start.
+
+Step #1: Achilles runs to the tortoise's starting point while the tortoise walks forward.
+Step #2: Achilles advances to where the tortoise was at the end of Step #1 while the tortoise goes yet further.
+Step #3: Achilles advances to where the tortoise was at the end of Step #2 while the tortoise goes yet further.
+Step #4: Achilles advances to where the tortoise was at the end of Step #3 while the tortoise goes yet further.Etc.
+Apparently, Achilles never overtakes the tortoise, since however many steps he completes, the tortoise remains ahead of him.
+Zeno was not attempting to make a point about infinity. As a member of the Eleatics school which regarded motion as an illusion, he saw it as a mistake to suppose that Achilles could run at all. Subsequent thinkers, finding this solution unacceptable, struggled for over two millennia to find other weaknesses in the argument.
+Finally, in 1821, Augustin-Louis Cauchy provided both a satisfactory definition of a limit and a proof that, for 0 < x < 1,
+Suppose that Achilles is running at 10 meters per second, the tortoise is walking at 0.1 meter per second, and the latter has a 100-meter head start. The duration of the chase fits Cauchy's pattern with a = 10 seconds and x = 0.01.  Achilles does overtake the tortoise; it takes him
+
+
+=== Early Indian ===
+The Jain mathematical text Surya Prajnapti (c. 4th–3rd century BCE) classifies all numbers into three sets: enumerable, innumerable, and infinite. Each of these was further subdivided into three orders:
+Enumerable: lowest, intermediate, and highest
+Innumerable: nearly innumerable, truly innumerable, and innumerably innumerable
+Infinite: nearly infinite, truly infinite, infinitely infinite
+
+
+=== 17th century ===
+In the 17th century, European mathematicians started using infinite numbers and infinite expressions in a systematic fashion. In 1655, John Wallis first used the notation 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+   for such a number in his De sectionibus conicis, and exploited it in area calculations by dividing the region into infinitesimal strips of width on the order of 
+  
+    
+      
+        
+          
+            
+              1
+              ∞
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\tfrac {1}{\infty }}.}
+   But in Arithmetica infinitorum (also in 1655), he indicates infinite series, infinite products and infinite continued fractions by writing down a few terms or factors and then appending "&c.", as in  "1, 6, 12, 18, 24, &c."In 1699, Isaac Newton wrote about equations with an infinite number of terms in his work De analysi per aequationes numero terminorum infinitas.
+
+
+== Mathematics ==
+Hermann Weyl opened a mathematico-philosophic address given in 1930 with:
+Mathematics is the science of the infinite.
+
+
+=== Symbol ===
+
+The infinity symbol 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+   (sometimes called the lemniscate) is a mathematical symbol representing the concept of infinity. The symbol is encoded in Unicode at U+221E ∞ INFINITY (&infin;) and in LaTeX as \infty.It was introduced in 1655 by John Wallis, and since its introduction, it has also been used outside mathematics in modern mysticism and literary symbology.
+
+
+=== Calculus ===
+Gottfried Leibniz, one of the co-inventors of infinitesimal calculus, speculated widely about infinite numbers and their use in mathematics. To Leibniz, both infinitesimals and infinite quantities were ideal entities, not of the same nature as appreciable quantities, but enjoying the same properties in accordance with the Law of Continuity.
+
+
+==== Real analysis ====
+In real analysis, the symbol 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  , called "infinity", is used to denote an unbounded limit. The notation 
+  
+    
+      
+        x
+        →
+        ∞
+      
+    
+    {\displaystyle x\rightarrow \infty }
+   means that 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   increases without bound, and 
+  
+    
+      
+        x
+        →
+        −
+        ∞
+      
+    
+    {\displaystyle x\to -\infty }
+   means that 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   decreases without bound. For example, if 
+  
+    
+      
+        f
+        (
+        t
+        )
+        ≥
+        0
+      
+    
+    {\displaystyle f(t)\geq 0}
+   for every 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , then
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        =
+        ∞
+      
+    
+    {\displaystyle \int _{a}^{b}f(t)\,dt=\infty }
+   means that 
+  
+    
+      
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(t)}
+   does not bound a finite area from 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   to 
+  
+    
+      
+        b
+        .
+      
+    
+    {\displaystyle b.}
+  
+
+  
+    
+      
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        =
+        ∞
+      
+    
+    {\displaystyle \int _{-\infty }^{\infty }f(t)\,dt=\infty }
+   means that the area under 
+  
+    
+      
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(t)}
+   is infinite.
+
+  
+    
+      
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        =
+        a
+      
+    
+    {\displaystyle \int _{-\infty }^{\infty }f(t)\,dt=a}
+   means that the total area under 
+  
+    
+      
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(t)}
+   is finite, and is equal to 
+  
+    
+      
+        a
+        .
+      
+    
+    {\displaystyle a.}
+  Infinity can also be used to describe infinite series, as follows:
+
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            ∞
+          
+        
+        f
+        (
+        i
+        )
+        =
+        a
+      
+    
+    {\displaystyle \sum _{i=0}^{\infty }f(i)=a}
+   means that the sum of the infinite series converges to some real value 
+  
+    
+      
+        a
+        .
+      
+    
+    {\displaystyle a.}
+  
+
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            ∞
+          
+        
+        f
+        (
+        i
+        )
+        =
+        ∞
+      
+    
+    {\displaystyle \sum _{i=0}^{\infty }f(i)=\infty }
+   means that the sum of the infinite series properly diverges to infinity, in the sense that the partial sums increase without bound.In addition to defining a limit, infinity can be also used as a value in the extended real number system. Points labeled 
+  
+    
+      
+        +
+        ∞
+      
+    
+    {\displaystyle +\infty }
+   and 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+   can be added to the topological space of the real numbers, producing the two-point compactification of the real numbers. Adding algebraic properties to this gives us the extended real numbers. We can also treat 
+  
+    
+      
+        +
+        ∞
+      
+    
+    {\displaystyle +\infty }
+   and 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+   as the same, leading to the one-point compactification of the real numbers, which is the real projective line. Projective geometry also refers to a line at infinity in plane geometry, a plane at infinity in three-dimensional space, and a hyperplane at infinity for general dimensions, each consisting of points at infinity.
+
+
+==== Complex analysis ====
+
+In complex analysis the symbol 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  , called "infinity", denotes an unsigned infinite limit. 
+  
+    
+      
+        x
+        →
+        ∞
+      
+    
+    {\displaystyle x\rightarrow \infty }
+   means that the magnitude 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+      
+    
+    {\displaystyle |x|}
+   of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   grows beyond any assigned value. A point labeled 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+   can be added to the complex plane as a topological space giving the one-point compactification of the complex plane. When this is done, the resulting space is a one-dimensional complex manifold, or Riemann surface, called the extended complex plane or the Riemann sphere. Arithmetic operations similar to those given above for the extended real numbers can also be defined, though there is no distinction in the signs (which leads to the one exception that infinity cannot be added to itself). On the other hand, this kind of infinity enables division by zero, namely 
+  
+    
+      
+        z
+        
+          /
+        
+        0
+        =
+        ∞
+      
+    
+    {\displaystyle z/0=\infty }
+   for any nonzero complex number 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  . In this context, it is often useful to consider meromorphic functions as maps into the Riemann sphere taking the value of 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+   at the poles. The domain of a complex-valued function may be extended to include the point at infinity as well. One important example of such functions is the group of Möbius transformations (see Möbius transformation § Overview).
+
+
+=== Nonstandard analysis ===
+
+The original formulation of infinitesimal calculus by Isaac Newton and Gottfried Leibniz used infinitesimal quantities. In the second half of the 20th century, it was shown that this treatment could be put on a rigorous footing through various logical systems, including smooth infinitesimal analysis and nonstandard analysis. In the latter, infinitesimals are invertible, and their inverses are infinite numbers. The infinities in this sense are part of a hyperreal field; there is no equivalence between them as with the Cantorian transfinites. For example, if H is an infinite number in this sense, then H + H = 2H and H + 1 are distinct infinite numbers. This approach to non-standard calculus is fully developed in Keisler (1986).
+
+
+=== Set theory ===
+
+A different form of "infinity" are the ordinal and cardinal infinities of set theory—a system of transfinite numbers first developed by Georg Cantor. In this system, the first transfinite cardinal is aleph-null (ℵ0), the cardinality of the set of natural numbers. This modern mathematical conception of the quantitative infinite developed in the late 19th century from works by Cantor, Gottlob Frege, Richard Dedekind and others—using the idea of collections or sets.Dedekind's approach was essentially to adopt the idea of one-to-one correspondence as a standard for comparing the size of sets, and to reject the view of Galileo (derived from Euclid) that the whole cannot be the same size as the part. (However, see Galileo's paradox where Galileo concludes that positive integers cannot be compared to the subset of positive square integers since both are infinite sets.) An infinite set can simply be defined as one having the same size as at least one of its proper parts; this notion of infinity is called Dedekind infinite. The diagram to the right gives an example: viewing lines as infinite sets of points, the left half of the lower blue line can be mapped in a one-to-one manner (green correspondences) to the higher blue line, and, in turn, to the whole lower blue line (red correspondences); therefore the whole lower blue line and its left half have the same cardinality, i.e. "size".Cantor defined two kinds of infinite numbers: ordinal numbers and cardinal numbers. Ordinal numbers characterize well-ordered sets, or counting carried on to any stopping point, including points after an infinite number have already been counted. Generalizing finite and (ordinary) infinite sequences which are maps from the positive integers leads to mappings from ordinal numbers to transfinite sequences. Cardinal numbers define the size of sets, meaning how many members they contain, and can be standardized by choosing the first ordinal number of a certain size to represent the cardinal number of that size. The smallest ordinal infinity is that of the positive integers, and any set which has the cardinality of the integers is countably infinite. If a set is too large to be put in one-to-one correspondence with the positive integers, it is called uncountable. Cantor's views prevailed and modern mathematics accepts actual infinity as part of a consistent and coherent theory.  Certain extended number systems, such as the hyperreal numbers, incorporate the ordinary (finite) numbers and infinite numbers of different sizes.
+
+
+==== Cardinality of the continuum ====
+
+One of Cantor's most important results was that the cardinality of the continuum 
+  
+    
+      
+        
+          c
+        
+      
+    
+    {\displaystyle \mathbf {c} }
+   is greater than that of the natural numbers 
+  
+    
+      
+        
+          
+            ℵ
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle {\aleph _{0}}}
+  ; that is, there are more real numbers R than natural numbers N. Namely, Cantor showed that 
+  
+    
+      
+        
+          c
+        
+        =
+        
+          2
+          
+            
+              ℵ
+              
+                0
+              
+            
+          
+        
+        >
+        
+          
+            ℵ
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {c} =2^{\aleph _{0}}>{\aleph _{0}}}
+  .
+The continuum hypothesis states that there is no cardinal number between the cardinality of the reals and the cardinality of the natural numbers, that is, 
+  
+    
+      
+        
+          c
+        
+        =
+        
+          ℵ
+          
+            1
+          
+        
+        =
+        
+          ℶ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \mathbf {c} =\aleph _{1}=\beth _{1}}
+  .This hypothesis cannot be proved or disproved within the widely accepted Zermelo–Fraenkel set theory, even assuming the Axiom of Choice.Cardinal arithmetic can be used to show not only that the number of points in a real number line is equal to the number of points in any segment of that line, but also that this is equal to the number of points on a plane and, indeed, in any finite-dimensional space.
+
+The first of these results is apparent by considering, for instance, the tangent function, which provides a one-to-one correspondence between the interval (−π/2, π/2) and R.The second result was proved by Cantor in 1878, but only became intuitively apparent in 1890, when Giuseppe Peano introduced the space-filling curves, curved lines that twist and turn enough to fill the whole of any square, or cube, or hypercube, or finite-dimensional space. These curves can be used to define a one-to-one correspondence between the points on one side of a square and the points in the square.
+
+
+=== Geometry ===
+Until the end of the 19th century, infinity was rarely discussed in geometry, except in the context of processes that could be continued without any limit. For example, a line was what is now called a line segment, with the proviso that one can extend it as far as one wants; but extending it infinitely was out of the question. Similarly, a line was usually not considered to be composed of infinitely many points, but was a location where a point may be placed. Even if there are infinitely many possible positions, only a finite number of points could be placed on a line. A witness of this is the expression "the locus of a point that satisfies some property" (singular), where modern mathematicians would generally say "the set of the points that have the property" (plural).
+One of the rare exceptions of a mathematical concept involving actual infinity was projective geometry, where points at infinity are added to the Euclidean space for modeling the perspective effect that shows parallel lines intersecting "at infinity". Mathematically, points at infinity have the advantage of allowing one to not consider some special cases. For example, in a projective plane, two distinct lines intersect in exactly one point, whereas without points at infinity, there are no intersection points for parallel lines. So, parallel and non-parallel lines must be studied separately in classical geometry, while they need not to be distinguished in projective geometry.
+Before the use of set theory for the foundation of mathematics, points and lines were viewed as distinct entities, and a point could be located on a line. With the universal use of set theory in mathematics, the point of view has dramatically changed: a line is now considered as the set of its points, and one says that a point belongs to a line instead of is located on a line (however, the latter phrase is still used).
+In particular, in modern mathematics, lines are infinite sets.
+
+
+=== Infinite dimension ===
+The vector spaces that occur in classical geometry have always a finite dimension, generally two or three. However, this is not implied by the abstract definition of a vector space, and vector spaces of infinite dimension can be considered. This is typically the case in functional analysis where function spaces are generally vector spaces of infinite dimension.
+In topology, some constructions can generate topological spaces of infinite dimension. In particular, this is the case of iterated loop spaces.
+
+
+=== Fractals ===
+The structure of a fractal object is reiterated in its magnifications. Fractals can be magnified indefinitely without losing their structure and becoming "smooth"; they have infinite perimeters, and can have infinite or finite areas. One such fractal curve with an infinite perimeter and finite area is the Koch snowflake.
+
+
+=== Mathematics without infinity ===
+Leopold Kronecker was skeptical of the notion of infinity and how his fellow mathematicians were using it in the 1870s and 1880s. This skepticism was developed in the philosophy of mathematics called finitism, an extreme form of mathematical philosophy in the general philosophical and mathematical schools of constructivism and intuitionism.
+
+
+== Physics ==
+In physics, approximations of real numbers are used for continuous measurements and natural numbers are used for discrete measurements (i.e., counting). Concepts of infinite things such as an infinite plane wave exist, but there are no experimental means to generate them.
+
+
+=== Cosmology ===
+The first published proposal that the universe is infinite came from Thomas Digges in 1576. Eight years later, in 1584, the Italian philosopher and astronomer Giordano Bruno proposed an unbounded universe in On the Infinite Universe and Worlds: "Innumerable suns exist; innumerable earths revolve around these suns in a manner similar to the way the seven planets revolve around our sun. Living beings inhabit these worlds."Cosmologists have long sought to discover whether infinity exists in our physical universe: Are there an infinite number of stars? Does the universe have infinite volume? Does space "go on forever"? This is still an open question of cosmology. The question of being infinite is logically separate from the question of having boundaries. The two-dimensional surface of the Earth, for example, is finite, yet has no edge. By travelling in a straight line with respect to the Earth's curvature, one will eventually return to the exact spot one started from. The universe, at least in principle, might have a similar topology. If so, one might eventually return to one's starting point after travelling in a straight line through the universe for long enough.The curvature of the universe can be measured through multipole moments in the spectrum of the cosmic background radiation. To date, analysis of the radiation patterns recorded by the WMAP spacecraft hints that the universe has a flat topology. This would be consistent with an infinite physical universe.However, the universe could be finite, even if its curvature is flat. An easy way to understand this is to consider two-dimensional examples, such as video games where items that leave one edge of the screen reappear on the other. The topology of such games is toroidal and the geometry is flat. Many possible bounded, flat possibilities also exist for three-dimensional space.The concept of infinity also extends to the multiverse hypothesis, which, when explained by astrophysicists such as Michio Kaku, posits that there are an infinite number and variety of universes.
+
+
+== Logic ==
+In logic, an infinite regress argument is "a distinctively philosophical kind of argument purporting to show that a thesis is defective because it generates an infinite series when either (form A) no such series exists or (form B) were it to exist, the thesis would lack the role (e.g., of justification) that it is supposed to play."
+
+
+== Computing ==
+The IEEE floating-point standard (IEEE 754) specifies a positive and a negative infinity value (and also indefinite values). These are defined as the result of arithmetic overflow, division by zero, and other exceptional operations.Some programming languages, such as Java and J, allow the programmer an explicit access to the positive and negative infinity values as language constants. These can be used as greatest and least elements, as they compare (respectively) greater than or less than all other values. They have uses as sentinel values in algorithms involving sorting, searching, or windowing.In languages that do not have greatest and least elements, but do allow overloading of relational operators, it is possible for a programmer to create the greatest and least elements. In languages that do not provide explicit access to such values from the initial state of the program, but do implement the floating-point data type, the infinity values may still be accessible and usable as the result of certain operations.In programming, an infinite loop is a loop whose exit condition is never satisfied, thus executing indefinitely.
+
+
+== Arts, games, and cognitive sciences ==
+Perspective artwork utilizes the concept of vanishing points, roughly corresponding to mathematical points at infinity, located at an infinite distance from the observer. This allows artists to create paintings that realistically render space, distances, and forms. Artist M.C. Escher is specifically known for employing the concept of infinity in his work in this and other ways.Variations of chess played on an unbounded board are called infinite chess.Cognitive scientist George Lakoff considers the concept of infinity in mathematics and the sciences as a metaphor. This perspective is based on the basic metaphor of infinity (BMI), defined as the ever-increasing sequence <1,2,3,...>.The symbol is often used romantically to represent eternal love. Several types of jewelry are fashioned into the infinity shape for this purpose.The rainbow infinity symbol is a popular symbol for representing neurodivergent people, specifically for those with Autism. This symbol has been adopted as more representative of Autistic people than the previously used jigsaw-puzzle piece.
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Bibliography ===
+
+
+=== Sources ===
+
+
+== External links ==
+
+"The Infinite". Internet Encyclopedia of Philosophy.
+Infinity on In Our Time at the BBC
+A Crash Course in the Mathematics of Infinite Sets Archived 2010-02-27 at the Wayback Machine, by Peter Suber. From the St. John's Review, XLIV, 2 (1998) 1–59. The stand-alone appendix to Infinite Reflections, below. A concise introduction to Cantor's mathematics of infinite sets.
+Infinite Reflections Archived 2009-11-05 at the Wayback Machine, by Peter Suber. How Cantor's mathematics of the infinite solves a handful of ancient philosophical problems of the infinite. From the St. John's Review, XLIV, 2 (1998) 1–59.
+Grime, James. "Infinity is bigger than you think". Numberphile. Brady Haran. Archived from the original on 2017-10-22. Retrieved 2013-04-06.
+Hotel Infinity
+John J. O'Connor and Edmund F. Robertson (1998). 'Georg Ferdinand Ludwig Philipp Cantor' Archived 2006-09-16 at the Wayback Machine, MacTutor History of Mathematics archive.
+John J. O'Connor and Edmund F. Robertson (2000). 'Jaina mathematics' Archived 2008-12-20 at the Wayback Machine, MacTutor History of Mathematics archive.
+Ian Pearce (2002). 'Jainism', MacTutor History of Mathematics archive.
+Source page on medieval and modern writing on Infinity
+The Mystery Of The Aleph: Mathematics, the Kabbalah, and the Search for Infinity
+Dictionary of the Infinite (compilation of articles about infinity in physics, mathematics, and philosophy)
+

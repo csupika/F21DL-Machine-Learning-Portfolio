@@ -1,0 +1,623 @@
+####### TITLE #######
+
+Logic
+
+####### LINKS #######
+
+['A Greek-English Lexicon', 'A priori and a posteriori', 'Abductive reasoning', 'Absolute idealism', 'Abstract object', 'Achintya Bheda Abheda', 'Action theory (philosophy)', 'Advaita Vedanta', 'Aesthetic emotions', 'Aesthetics', 'African philosophy', 'Africana philosophy', 'Agriculturalism', 'Ajñana', 'Alan Turing', 'Albertus Magnus', 'Alfred North Whitehead', 'Alfred Tarski', 'Ambiguity', 'Ambiguous', 'American philosophy', 'Ampliative', 'Analytic philosophy', 'Analytical Marxism', 'Analytical feminism', 'Analytic–synthetic distinction', 'Anarchism', 'Ancient Egyptian philosophy', 'Ancient Greek', 'Ancient Greek philosophy', 'Ancient history', 'Ancient philosophy', 'Anekantavada', 'Angelika Kratzer', 'Annals of Mathematics', 'Anti-realism', 'Antihumanism', 'Antinomy', 'Anviksiki', 'Applied ethics', 'Arend Heyting', 'Argument', 'Argumentation theory', 'Aristotelian logic', 'Aristotelianism', 'Aristotle', 'Arithmetic', 'Artificial intelligence', 'Atomic propositions', 'Atomism', 'Augustinianism', 'Augustus De Morgan', 'Australian philosophy', 'Automated theorem proving', 'Averroes', 'Averroism', 'Avicenna', 'Avicennian logic', 'Avicennism', 'Axiology', 'Axiom', 'Axiom of Choice', 'Aztec philosophy', 'Barbara Partee', 'Barry Smith (ontologist)', 'Bayesian epistemology', 'Begriffschrift', 'Begriffsschrift', 'Behaviorism', 'Bertrand Russell', 'Bhedabheda', 'Binding (linguistics)', 'Biology', 'Bishop (chess)', 'Boethius', 'Boolean logic', 'British idealism', 'British philosophy', 'Buddhist philosophy', 'Cambridge University Press', "Cantor's theorem", 'Cartesianism', 'Category theory', 'Centre de Recherches Mathématiques', 'Cf.', 'Chan Buddhism', 'Charles Babbage', 'Charvaka', 'Chess', 'Chinese philosophy', 'Christian philosophy', 'Church–Turing thesis', 'Classical Realism', 'Classical liberalism', 'Classical logic', 'Coherentism', 'Collectivism and individualism', 'Communitarianism', 'Compatibilism', 'Completeness (logic)', 'Complexity class', 'Compositionality', 'Computability theory', 'Computational logic', 'Computer science', 'Concept', 'Conceptualism', 'Confucianism', 'Confucius', 'Conjunction (logic)', 'Conjunction introduction', 'Consequentialism', 'Conservatism', 'Consistency', 'Constructive logic', 'Constructivism (philosophy of mathematics)', 'Contemporary philosophy', 'Context (language use)', 'Continental philosophy', 'Continuum hypothesis', 'Contradiction', 'Conventionalism', 'Copula (linguistics)', 'Cosmology', 'Countable noun', 'Critical rationalism', 'Critical theory', 'Critical thinking', 'Cynicism (philosophy)', 'Cyrenaics', 'Czech philosophy', 'Danish philosophy', 'David Hilbert', 'Decidability (logic)', 'Deconstruction', 'Deductive closure', 'Deductive inference', 'Deductive reasoning', 'Defeasible reasoning', 'Definition', 'Denotation', 'Denying the antecedent', 'Deontic logic', 'Deontology', 'Description', 'Determinism', 'Deviant logic', 'Dialectical', 'Dialetheism', 'Dialogue', 'Digital electronics', 'Dirk van Dalen', 'Discourse', 'Doi (identifier)', 'Double negation elimination', 'Douglas Hofstadter', 'Douglas N. Walton', 'Dov Gabbay', 'Dutch philosophy', 'Dvaita Vedanta', 'Dynamic semantics', 'Early modern philosophy', 'Eastern philosophy', 'Edo neo-Confucianism', 'Edward N. Zalta', 'Eleatics', 'Eliminative materialism', 'Elliott Mendelson', 'Emergentism', 'Empirical', 'Empiricism', 'Encyclopedia of Mathematics', 'Encyclopædia Britannica', 'English language', 'Entailment', 'Entailment (linguistics)', 'Entscheidungsproblem', 'Environmental philosophy', 'Ephesian school', 'Epicureanism', 'Epiphenomenalism', 'Epistemic logic', 'Epistemological particularism', 'Epistemology', 'Erasmus Montanus', 'Eretrian school', 'Ethics', 'Ethiopian philosophy', 'European Mathematical Society', 'Event (philosophy)', 'Existential quantification', 'Existentialism', 'Experimental philosophy', 'Explanation', 'Expression (mathematics)', 'Expressive power (computer science)', 'Fakhr al-Din al-Razi', 'Fallacies', 'Fallacy', 'False dilemma', 'Falsifiability', 'Feminist philosophy', 'Fideism', 'First-order logic', 'Formal epistemology', 'Formal ethics', 'Formal fallacy', 'Formal language', 'Formal languages', 'Formal logic', 'Formal proof', 'Formal science', 'Formal semantics (natural language)', 'Formal system', 'Formalism (art)', 'Formulae-as-types correspondence', 'Foundationalism', 'Foundations of mathematics', 'Frankfurt School', 'Free will', 'French philosophy', 'Friedrich Nietzsche', 'Functionalism (philosophy of mind)', 'Fuzzy logic', 'Fuzzy logics', 'Garrett Birkhoff', 'Gautama Buddha', 'General relativity', 'Georg Cantor', 'Georg Wilhelm Friedrich Hegel', 'George Boole', 'Gerhard Gentzen', 'German idealism', 'German philosophy', 'Glossary of philosophy', 'Gongsun Long', 'Gottlob Frege', 'Graham Priest', 'Gödel', "Gödel's incompleteness theorem", 'Gödel–Dummett logic', 'Han Feizi', 'Hard determinism', 'Hard incompatibilism', 'Harry R. Lewis', 'Harvard University Press', 'Hdl (identifier)', 'Hegelianism', 'Hellenistic philosophy', 'Henry Liddell', 'Herbert Enderton', 'Hermeneutics', 'High Middle Ages', 'Higher-order logic', 'Hilary Putnam', "Hilbert's program", 'Hindu philosophy', 'Historicism', 'History of logic', 'History of philosophy', 'History of philosophy in Poland', 'Holism', 'Humanism', 'Hypothetical syllogism', 'ISBN (identifier)', 'ISSN (identifier)', 'Idealism', 'Illuminationism', 'Immanuel Kant', 'Imperative logic', 'Incompatibilism', 'Index of logic articles', 'Index of philosophy', 'Index of sociopolitical thinkers', 'Indian philosophy', 'Indigenous American philosophy', 'Individualism', 'Indonesian philosophy', 'Inductive reasoning', 'Inference', 'Inference rule', 'Informal fallacies', 'Informal logic', 'Information', 'Inquisitive semantics', 'Institutional theory of art', 'Internalism and externalism', 'Interpretation (logic)', 'Intuitionistic logic', 'Ionian School (philosophy)', 'Iranian philosophy', 'Irene Heim', 'Is Logic Empirical?', 'Islamic philosophy', 'Italian philosophy', 'JSTOR (identifier)', 'Jain philosophy', 'Jan Łukasiewicz', 'Japanese philosophy', 'Jewish philosophy', 'John Benjamins Publishing Company', 'John Rawls', 'John Stuart Mill', 'John von Neumann', 'Jon Barwise', 'Judeo-Islamic philosophies (800–1400)', 'Józef Maria Bocheński', 'Kalam', 'Kantianism', 'King (chess)', 'Kluwer Academic/Plenum Publishers', 'Kokugaku', 'Korean Confucianism', 'Korean philosophy', 'Krausism', 'Kurt Gödel', 'Kyoto School', 'L.E.J. Brouwer', 'L.T.F. Gamut', 'Lambda calculus', 'Language', 'Large cardinal', 'Law of excluded middle', 'Law of the excluded middle', 'Laws of thought', 'Legal positivism', 'Legalism (Chinese philosophy)', 'Lewis Carroll', 'Libertarianism (metaphysics)', 'Linguistic modality', 'Linguistics', 'List of Boolean algebra topics', 'List of Slovene philosophers', 'List of Turkish philosophers', 'List of aestheticians', 'List of epistemologists', 'List of ethicists', 'List of fallacies', 'List of important publications in philosophy', 'List of logic journals', 'List of logic symbols', 'List of logicians', 'List of mathematical logic topics', 'List of metaphysicians', 'List of paradoxes', 'List of philosophies', 'List of rules of inference', 'List of set theory topics', 'List of unsolved problems in philosophy', 'List of years in philosophy', 'Lists of philosophers', 'Logic (disambiguation)', 'Logic in China', 'Logic in Islamic philosophy', 'Logic in computer science', 'Logic programming', 'Logic puzzle', 'Logical connective', 'Logical connectives', 'Logical consequence', 'Logical constant', 'Logical form', 'Logical necessity', 'Logical positivism', 'Logical reasoning', 'Logical truth', 'Logician', 'Logicism', 'Logos', 'Ludvig Holberg', 'Ludwig Wittgenstein', 'Madhyamaka', 'Map (mathematics)', 'Maria Aloni', 'Martin Davis (mathematician)', 'Marxist philosophy', 'Material conditional', 'Materialism', 'Mathematical logic', 'Mathematics', 'Mazdakism', 'Mechanics', 'Medhātithi', 'Medieval philosophy', 'Megarian school', 'Meta-ethics', 'Metalogic', 'Metamathematics', 'Metaphilosophy', 'Metaphysical naturalism', 'Metaphysics', 'Method of reasoning', 'Michael Dummett', 'Middle Eastern philosophy', 'Milesian school', "Mill's Methods", 'Mind', 'Mind–body dualism', 'Mithraism', 'Modal logic', 'Modal operator', 'Model theory', 'Modern philosophy', 'Modernism', 'Modus ponens', 'Mohism', 'Mohists', 'Monism', 'Moral absolutism', 'Moral nihilism', 'Moral particularism', 'Moral realism', 'Moral skepticism', 'Moral universalism', 'Muhammad Iqbal', 'Multi-valued logics', 'Multiverse (set theory)', 'Mīmāṃsā', 'Name', 'Natural deduction', 'Natural language', 'Natural law', 'Naturalism (philosophy)', 'Naturalized epistemology', 'Navya-Nyāya', 'Necessity and sufficiency', 'Neo-Confucianism', 'Neo-Kantianism', 'Neo-Marxism', 'Neo-scholasticism', 'Neoplatonism', 'Neopythagoreanism', 'New Confucianism', 'New historicism', 'Newtonianism', 'Nihilism', 'Nimbarka Sampradaya', 'Nominalism', 'Non-classical logic', 'Non-monotonic logic', 'Norm (philosophy)', 'Normative ethics', 'Nuel Belnap', 'Nyaya', 'OCLC (identifier)', 'Objective idealism', 'Objectivism', 'Objectivity (philosophy)', 'Occamism', 'Online Etymology Dictionary', 'Ontological', 'Ontology', 'Ordinary language philosophy', 'Organon', 'Outline of logic', 'Outline of philosophy', 'Oxford University Press', 'P.D. Magnus', 'Pain (philosophy)', 'Pakistani philosophy', 'Paraconsistent logic', 'Paradox', 'Peripatetic school', 'Perseus Project', 'Peter Suber', 'Petr Hájek', 'Phenomenology (philosophy)', 'Philosophical anthropology', 'Philosophical logic', 'Philosophical movement', 'Philosophical realism', 'Philosophical skepticism', 'Philosophy', 'Philosophy and Phenomenological Research', 'Philosophy and economics', 'Philosophy and literature', 'Philosophy in Canada', 'Philosophy in Malta', 'Philosophy in Taiwan', 'Philosophy of Friedrich Nietzsche', 'Philosophy of Søren Kierkegaard', 'Philosophy of artificial intelligence', 'Philosophy of biology', 'Philosophy of business', 'Philosophy of chemistry', 'Philosophy of color', 'Philosophy of computer science', 'Philosophy of culture', 'Philosophy of design', 'Philosophy of education', 'Philosophy of engineering', 'Philosophy of film', 'Philosophy of geography', 'Philosophy of happiness', 'Philosophy of healthcare', 'Philosophy of history', 'Philosophy of information', 'Philosophy of language', 'Philosophy of law', 'Philosophy of life', 'Philosophy of linguistics', 'Philosophy of logic', 'Philosophy of mathematics', 'Philosophy of medicine', 'Philosophy of mind', 'Philosophy of music', 'Philosophy of perception', 'Philosophy of physics', 'Philosophy of psychiatry', 'Philosophy of psychology', 'Philosophy of religion', 'Philosophy of science', 'Philosophy of sex', 'Philosophy of social science', 'Philosophy of space and time', 'Philosophy of sport', 'Philosophy of technology', 'Philosophy of war', 'Physicalism', 'Physics', 'Plato', 'Platonism', 'Pluralist school', 'Political philosophy', 'Positivism', 'Possible world', 'Post-structuralism', 'Postanalytic philosophy', 'Postcritique', 'Posthumanism', 'Postmodern philosophy', 'Practical philosophy', 'Pragmatism', 'Pre-Socratic philosophy', 'Predicable', 'Predicate (grammar)', 'Predicate (mathematical logic)', 'Premise', 'Prentice Hall', 'Presupposition', 'Principia Mathematica', 'Principle of bivalence', 'Principle of distributivity', 'Principle of explosion', 'Principles of Mathematical Logic', 'Prior Analytics', 'Probability', 'Problem of multiple generality', 'Process philosophy', 'Programming language', 'Prolog', 'Proof system', 'Proof theory', 'Property (philosophy)', 'Proposition', 'Propositional calculus', 'Propositional logic', 'Psychologism', 'Psychology', 'Pyrrhonism', 'Pythagoreanism', 'Qin dynasty', 'Quantification (logic)', 'Quantifier (logic)', 'Quantum logic', 'Quietism (philosophy)', 'Rationalism', 'Rationality', 'Real number', 'Reality', 'Reason', 'Reasoning', 'Recursion', 'Recursion theory', 'Reductionism', 'Reference', 'Reformed epistemology', 'Relational semantics', 'Relations (philosophy)', 'Relativism', 'Religious philosophy', 'Renaissance humanism', 'Renaissance philosophy', 'Richard Montague', 'Robert Scott (philologist)', 'Romanian philosophy', 'Routledge', 'Rule of inference', 'Rules of inference', "Russell's paradox", 'Russian cosmism', 'Russian philosophy', 'S2CID (identifier)', 'Sage (philosophy)', 'Samkhya', 'Sautrāntika', 'Scholasticism', 'School of Names', 'School of Naturalists', 'Science', 'Scientific method', 'Scientific realism', 'Scientific skepticism', 'Scientism', 'Scope (formal semantics)', 'Scotism', 'Scottish philosophy', 'Semantics of logic', 'Sentence (linguistics)', 'Sequent calculus', 'Set theory', 'Shuddhadvaita', 'Singular term', 'Social constructionism', 'Social contract', 'Social philosophy', 'Socialism', 'Solipsism', 'Sophist', 'Soundness', 'Spanish philosophy', 'Speech act', 'Spinozism', 'Square of opposition', 'Stanford Encyclopedia of Philosophy', 'Stanislaw Schayer', 'Statement (logic)', 'Statistics', 'Stephen Cole Kleene', 'Stoic logic', 'Stoicism', 'Strawman fallacy', 'Structuralism', 'Subject (grammar)', 'Subjective idealism', 'Subjective probability', 'Subjectivism', 'Substitution (logic)', 'Sufi philosophy', 'Sum of Logic', 'Summa Logicae', 'Susan Haack', 'Svatantrika–Prasaṅgika distinction', 'Syllogism', 'Syntax (logic)', 'Systemics', 'Syādvāda', 'Taoism', 'Taoist philosophy', 'Tautology (logic)', 'Temporal logic', 'Term logic', 'Terminology', 'Ternary logic', 'The Laws of Thought', 'The Reconstruction of Religious Thought in Islam', 'Theoretical philosophy', 'Theories of humor', 'Theories of reference', 'Theory of computation', 'Thomism', 'Transactionalism', 'Transcendental idealism', 'Transcendentalism', 'Transition system', 'Truth', 'Truth-bearer', 'Truth function', 'Truth value', 'Turing degree', 'Ubuntu philosophy', 'Utilitarianism', 'Vagueness', 'Vaisheshika', 'Validity (logic)', 'Vector logic', 'Vedanta', 'Vienna Circle', 'Vietnamese philosophy', 'Virtue ethics', 'Vishishtadvaita', 'W. V. Quine', 'Wayback Machine', 'Well-formed formula', 'Well formed formula', 'Western Marxism', 'Western philosophy', 'Wilfred Hodges', 'Wilhelm Ackermann', 'William Kneale (logician)', 'William of Ockham', 'Women in philosophy', 'Xuanxue', 'Yangism', 'Yoga Sutras of Patanjali', 'Yogachara', 'Yugoslav philosophy', 'Zoroastrianism', 'Zurvanism', 'Ājīvika', 'Śūnyatā']
+
+####### CATEGORIES #######
+
+['Abstraction', 'Articles containing Ancient Greek (to 1453)-language text', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with LNB identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with TDVİA identifiers', 'Articles with short description', 'Critical thinking', 'Formal sciences', 'History of logic', 'History of philosophy', 'Intellectual history', 'Logic', 'Pages using Sister project links with default search', 'Philosophical logic', 'Philosophy of logic', 'Reasoning', 'Short description matches Wikidata', 'Thought', 'Use dmy dates from July 2021', 'Webarchive template wayback links']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/a/a4/Argument_terminology_used_in_logic_%28en%29.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/ce/BS-12-Begriffsschrift_Quantifier1-svg.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/ca/Johannesmagistris-square.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Philbar_3.png', 'https://upload.wikimedia.org/wikipedia/commons/0/01/Register_transfer_level_-_example_toggler.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/cd/Socrates.png', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikibooks-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/24/Wikinews-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Wikiversity_logo_2017.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/0/06/Wiktionary-logo-v2.svg']
+
+####### REFERENCES #######
+
+['http://www.ontology.co/history-of-logic.htm', 'http://www.allamaiqbal.com/works/prose/english/reconstruction', 'http://www.etymonline.com/index.php?term=logic', 'http://www.fecundity.com/logic/', 'http://legacy.earlham.edu/~peters/courses/log/transtip.htm', 'http://chemistry.mtu.edu/~pcharles/SCIHISTORY/aristotle.html', 'http://plato.stanford.edu/entries/arabic-islamic-influence/', 'http://plato.stanford.edu/entries/logic-fuzzy/', 'http://plato.stanford.edu/entries/logic-ontology', 'http://plato.stanford.edu/entries/logic-ontology/', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX526280', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007533699705171', 'http://hdl.handle.net/2299%2F2995', 'http://somerby.net/mack/logic/', 'http://doi.org/10.1007%2F978-1-4684-9452-5_1', 'http://doi.org/10.1007%2F978-94-007-6883-3_7-1', 'http://doi.org/10.1007%2F978-94-010-3381-7_5', 'http://doi.org/10.1007%2FBF00370209', 'http://doi.org/10.1007%2FBF02378819', 'http://doi.org/10.1007%2Fs10503-009-9131-5', 'http://doi.org/10.1007%2Fs11229-008-9409-4', 'http://doi.org/10.1007%2Fs11229-018-1853-1', 'http://doi.org/10.1007%2Fs12136-018-0371-6', 'http://doi.org/10.1023%2FA:1007789101256', 'http://doi.org/10.1023%2FA:1007799325361', 'http://doi.org/10.1109%2F32.852740', 'http://doi.org/10.1111%2Fphis.12116', 'http://doi.org/10.11612%2Fresphil.1540', 'http://doi.org/10.1515%2F9783110867718.383', 'http://doi.org/10.17990%2Frpf%2F2015_71_4_0753', 'http://doi.org/10.22329%2Fil.v20i2.2262', 'http://doi.org/10.22329%2Fil.v24i1.2132', 'http://doi.org/10.22329%2Fil.v28i4.2856', 'http://doi.org/10.22329%2Fil.v32i3.3681', 'http://doi.org/10.22329%2Fil.v36i4.4527', 'http://doi.org/10.22329%2Fil.v9i2.2671', 'http://doi.org/10.2307%2F1968621', 'http://doi.org/10.2307%2F2108282', 'http://doi.org/10.2307%2F2214318', 'http://doi.org/10.29333%2Fejmste%2F92562', 'http://doi.org/10.4324%2F9781315725697', 'http://www.galilean-library.org/manuscript.php?postid=43782', 'http://www.jstor.org/stable/1968621', 'http://www.jstor.org/stable/2214318', 'http://www.jstor.org/stable/40271192', 'http://www.jstor.org/stable/43047609', 'http://www.jstor.org/stable/43744657', 'http://www.witness-pioneer.org/vil/Books/MI_RRTI/chapter_05.htm', 'http://www.worldcat.org/issn/0029-4624', 'http://www.worldcat.org/issn/0039-7857', 'http://www.worldcat.org/issn/0210-1602', 'http://www.worldcat.org/issn/0870-5283', 'http://www.worldcat.org/issn/1305-8215', 'http://www.worldcat.org/issn/1572-8374', 'http://www.worldcat.org/issn/1573-0964', 'http://www.worldcat.org/issn/1874-6349', 'http://www.worldcat.org/oclc/61151356', 'http://www.worldcat.org/oclc/958798526', 'https://www.math.mcgill.ca/barr/papers/ctcs.pdf', 'https://www.britannica.com/ebc/article-65928', 'https://www.britannica.com/topic/history-of-logic', 'https://www.britannica.com/topic/history-of-logic/Aristotle', 'https://www.britannica.com/topic/logic/Logical-systems', 'https://www.britannica.com/topic/philosophy-of-logic', 'https://www.britannica.com/topic/thought', 'https://www.degruyter.com/document/doi/10.1515/9783110867718.383/html', 'https://www.ejmste.com/article/strategic-vs-definitory-rules-their-role-in-abductive-argumentation-and-their-relationship-with-5539', 'https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/predicate-calculus', 'https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical', 'https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies', 'https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/second-order-logic', 'https://www.encyclopedia.com/philosophy-and-religion/philosophy/philosophy-terms-and-concepts/logos', 'https://www.encyclopedia.com/science-and-technology/computers-and-electrical-engineering/electrical-engineering/induction', 'https://www.etymonline.com/word/logic?ref=etymonline_crossreference', 'https://books.google.com/books?id=9-8fIBVgCQYC&pg=PA133&dq&hl=en#v=onepage&q=&f=false', 'https://books.google.com/books?id=Ajsvo6jWNhgC&pg=PA119&dq&hl=en#v=onepage&q=&f=false', 'https://books.google.com/books?id=LtibjwEACAAJ', 'https://books.google.com/books?id=QXCLAgAAQBAJ', 'https://books.google.com/books?id=YafIDVd1Z68C&pg=PA290', 'https://books.google.com/books?id=iCCUF_OtA8AC&pg=PA71&dq&hl=en#v=onepage&q=&f=false', 'https://books.google.com/books?id=lXI7AAAAIAAJ&pg=PA34&dq&hl=en#v=onepage&q=&f=false', 'https://books.google.com/books?id=xm0-0Rs2GVoC&pg=PA30', 'https://global.oup.com/academic/product/shadows-of-syntax-9780190086152', 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095423356', 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100432990', 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095410661', 'https://www.routledge.com/Introduction-to-Logic/Copi-Cohen-Rodych/p/book/9781138500860', 'https://link.springer.com/article/10.1007/s10503-009-9131-5', 'https://link.springer.com/article/10.1007/s11229-018-1853-1', 'https://link.springer.com/article/10.1007/s12136-018-0371-6', 'https://link.springer.com/chapter/10.1007/978-1-4684-9452-5_1', 'https://link.springer.com/referenceworkentry/10.1007%2F978-94-007-6883-3_7-1', 'https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725697-20/abductive-reasoning-explanation-barbara-koslowski', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph122436&CON_LNG=ENG', 'https://plato.stanford.edu/archives/win2018/entries/logic-intuitionistic/', 'https://plato.stanford.edu/entries/abduction/', 'https://plato.stanford.edu/entries/abstract-objects/', 'https://plato.stanford.edu/entries/aristotle-logic/', 'https://plato.stanford.edu/entries/dialetheism/', 'https://plato.stanford.edu/entries/epistemology-bayesian/', 'https://plato.stanford.edu/entries/fallacies/', 'https://plato.stanford.edu/entries/logic-ancient/#Ari', 'https://plato.stanford.edu/entries/logic-classical/', 'https://plato.stanford.edu/entries/logic-classical/#Dedu', 'https://plato.stanford.edu/entries/logic-classical/#Sema', 'https://plato.stanford.edu/entries/logic-firstorder-emergence/', 'https://plato.stanford.edu/entries/logic-free/#1', 'https://plato.stanford.edu/entries/logic-higher-order/', 'https://plato.stanford.edu/entries/logic-inductive/', 'https://plato.stanford.edu/entries/logic-informal/', 'https://plato.stanford.edu/entries/logic-paraconsistent/', 'https://plato.stanford.edu/entries/logical-constants/#SynTer', 'https://plato.stanford.edu/entries/logical-constants/#TopNeu', 'https://plato.stanford.edu/entries/logical-form/#pat', 'https://plato.stanford.edu/entries/logical-truth/', 'https://plato.stanford.edu/entries/propositions-structured/', 'https://plato.stanford.edu/entries/psychologism/', 'https://plato.stanford.edu/entries/reference/', 'https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.04.0057:entry%3D%2363716', 'https://iep.utm.edu/aris-log/', 'https://iep.utm.edu/ded-ind/', 'https://iep.utm.edu/fallacy/', 'https://iep.utm.edu/logcon/', 'https://iep.utm.edu/para-log/', 'https://catalogue.bnf.fr/ark:/12148/cb11935968s', 'https://data.bnf.fr/ark:/12148/cb11935968s', 'https://id.loc.gov/authorities/subjects/sh85078106', 'https://d-nb.info/gnd/4036202-4', 'https://eecoppock.info/semantics-boot-camp.pdf', 'https://id.ndl.go.jp/auth/ndlna/00569686', 'https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000048117&P_CON_LNG=ENG', 'https://staff.fnwi.uva.nl/d.h.j.dejongh/IL2009/notes.pdf', 'https://www.illc.uva.nl/Research/Publications/Reports/MoL-2009-11.text.pdf', 'https://archive.org/details/elementsoftheory00lewi', 'https://archive.org/details/gdelescherbachet00hofs', 'https://web.archive.org/web/19980503005350/https://plato.stanford.edu/entries/logic-classical/#Dedu', 'https://web.archive.org/web/19980503005350/https://plato.stanford.edu/entries/logic-classical/#Sema', 'https://web.archive.org/web/19980503005350/https://plato.stanford.edu/entries/logic-classical/', 'https://web.archive.org/web/20071012144108/https://www.britannica.com/ebc/article-65928', 'https://web.archive.org/web/20080403145334/http://www.galilean-library.org/manuscript.php?postid=43782', 'https://web.archive.org/web/20080521095350/http://www.filozofia.uw.edu.pl/kpaprzycka/Publ/xLogicSelfTaught.html', 'https://web.archive.org/web/20081009214958/http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.04.0057:entry=%2363716', 'https://web.archive.org/web/20081120094810/http://www.witness-pioneer.org/vil/Books/MI_RRTI/chapter_05.htm', 'https://web.archive.org/web/20090206201125/http://www.etymonline.com/index.php?term=logic', 'https://web.archive.org/web/20090601071319/http://www.allamaiqbal.com/works/prose/english/reconstruction/', 'https://web.archive.org/web/20100429214410/https://iep.utm.edu/fallacy/', 'https://web.archive.org/web/20100528032124/https://iep.utm.edu/ded-ind/', 'https://web.archive.org/web/20100607132121/http://chemistry.mtu.edu/~pcharles/SCIHISTORY/aristotle.html', 'https://web.archive.org/web/20100711052740/http://plato.stanford.edu/entries/logic-fuzzy/', 'https://web.archive.org/web/20100714014142/http://plato.stanford.edu/entries/arabic-islamic-influence/', 'https://web.archive.org/web/20140111213657/http://books.google.com/books?id=YafIDVd1Z68C&pg=PA290', 'https://web.archive.org/web/20150407123108/http://books.google.com/books?id=9-8fIBVgCQYC&pg=PA133&dq&hl=en#v=onepage&q=&f=false', 'https://web.archive.org/web/20150407200451/http://books.google.com/books?id=iCCUF_OtA8AC&pg=PA71&dq&hl=en#v=onepage&q=&f=false', 'https://web.archive.org/web/20150407200812/http://books.google.com/books?id=Ajsvo6jWNhgC&pg=PA119&dq&hl=en#v=onepage&q=&f=false', 'https://web.archive.org/web/20150408220455/http://books.google.com/books?id=lXI7AAAAIAAJ&pg=PA34&dq&hl=en#v=onepage&q=&f=false', 'https://web.archive.org/web/20150428101732/http://www.britannica.com/EBchecked/topic/346240/philosophy-of-logic', 'https://web.archive.org/web/20150514163900/https://books.google.com/books?id=xm0-0Rs2GVoC&pg=PA30', 'https://web.archive.org/web/20150515000453/http://www.thefirstscience.org/syllogistic-machine', 'https://web.archive.org/web/20180828102117/https://plato.stanford.edu/entries/logic-ancient/#Ari', 'https://web.archive.org/web/20200121150204/http://eecoppock.info/semantics-boot-camp.pdf', 'https://web.archive.org/web/20200219165057/https://pdfs.semanticscholar.org/9bea/866c143326aeb700c20165a933f583b16a46.pdf', 'https://web.archive.org/web/20200317180221/https://plato.stanford.edu/entries/logical-constants/#TopNeu', 'https://web.archive.org/web/20200317180221/https://plato.stanford.edu/entries/logical-constants/#SynTer', 'https://web.archive.org/web/20201201032125/https://www.illc.uva.nl/Research/Publications/Reports/MoL-2009-11.text.pdf', 'https://web.archive.org/web/20201229220156/https://plato.stanford.edu/entries/psychologism/', 'https://web.archive.org/web/20210112065913/https://philpapers.org/rec/BORMEO', 'https://web.archive.org/web/20210113145600/https://plato.stanford.edu/entries/logic-ontology/', 'https://web.archive.org/web/20210116111145/https://philpapers.org/rec/BEAREO', 'https://web.archive.org/web/20210122003334/https://plato.stanford.edu/entries/abstract-objects/', 'https://web.archive.org/web/20210129082636/https://philpapers.org/rec/HONTOC-2', 'https://web.archive.org/web/20210215112403/https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical', 'https://web.archive.org/web/20210329182946/https://plato.stanford.edu/entries/fallacies/', 'https://web.archive.org/web/20210401034856/https://plato.stanford.edu/entries/epistemology-bayesian/', 'https://web.archive.org/web/20210414132344/https://philpapers.org/rec/AUDTCD-2', 'https://web.archive.org/web/20210415101134/https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies', 'https://web.archive.org/web/20210508092058/https://plato.stanford.edu/entries/logic-ontology/', 'https://web.archive.org/web/20210516095047/https://philpapers.org/rec/BOVSIO', 'https://web.archive.org/web/20210516095057/https://philpapers.org/rec/OLSBE', 'https://web.archive.org/web/20210709181600/https://langsci-press.org/catalog/book/231', 'https://web.archive.org/web/20210725080934/https://www.math.mcgill.ca/barr/papers/ctcs.pdf', 'https://web.archive.org/web/20210821172414/https://plato.stanford.edu/archives/win2018/entries/logic-intuitionistic/', 'https://web.archive.org/web/20210821172417/https://staff.fnwi.uva.nl/d.h.j.dejongh/IL2009/notes.pdf', 'https://web.archive.org/web/20210907202119/https://plato.stanford.edu/entries/abduction/', 'https://web.archive.org/web/20211002190110/https://plato.stanford.edu/entries/logical-truth/', 'https://web.archive.org/web/20211002190116/https://plato.stanford.edu/entries/logical-form/#pat', 'https://web.archive.org/web/20211013145532/https://www.britannica.com/topic/thought', 'https://web.archive.org/web/20211025211706/https://plato.stanford.edu/entries/propositions-structured/', 'https://web.archive.org/web/20211030222316/https://plato.stanford.edu/entries/logic-higher-order/', 'https://web.archive.org/web/20211110075255/https://philpapers.org/rec/KORBIL', 'https://web.archive.org/web/20211112071437/https://iep.utm.edu/logcon/', 'https://web.archive.org/web/20211207184656/https://www.britannica.com/topic/logic/Logical-systems', 'https://web.archive.org/web/20211207184705/https://plato.stanford.edu/entries/reference/', 'https://web.archive.org/web/20211207184706/https://philpapers.org/rec/JOHTRB-2', 'https://web.archive.org/web/20211207184921/https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/second-order-logic', 'https://web.archive.org/web/20211207184932/https://philpapers.org/rec/JACPOL', 'https://web.archive.org/web/20211207184954/https://philpapers.org/rec/RUSTMO-4', 'https://web.archive.org/web/20211207184959/https://philpapers.org/rec/GOBTBG-2', 'https://web.archive.org/web/20211207195246/https://link.springer.com/article/10.1007/s12136-018-0371-6', 'https://web.archive.org/web/20211207195246/https://www.ejmste.com/article/strategic-vs-definitory-rules-their-role-in-abductive-argumentation-and-their-relationship-with-5539', 'https://web.archive.org/web/20211207195247/https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/predicate-calculus', 'https://web.archive.org/web/20211207200544/https://philpapers.org/rec/MAGFXI', 'https://web.archive.org/web/20211207200551/https://philpapers.org/rec/HAAPOL-2', 'https://web.archive.org/web/20211207223024/https://www.jstor.org/stable/43744657', 'https://web.archive.org/web/20211207224554/https://www.jstor.org/stable/40271192', 'https://web.archive.org/web/20211207235525/https://philpapers.org/rec/JAAWIL', 'https://web.archive.org/web/20211208022142/https://philpapers.org/rec/HAADLF', 'https://web.archive.org/web/20211209195317/https://philpapers.org/rec/BLAILA-3', 'https://web.archive.org/web/20211216143954/https://philpapers.org/rec/BURPL-3', 'https://web.archive.org/web/20211216143955/https://philpapers.org/rec/WOLARL', 'https://web.archive.org/web/20211226063808/https://plato.stanford.edu/entries/aristotle-logic/', 'https://web.archive.org/web/20211229134626/https://www.encyclopedia.com/philosophy-and-religion/philosophy/philosophy-terms-and-concepts/logos', 'https://web.archive.org/web/20211229134626/https://www.etymonline.com/word/logic?ref=etymonline_crossreference', 'https://web.archive.org/web/20211229235433/https://iep.utm.edu/aris-log/', 'https://web.archive.org/web/20211230194638/https://philpapers.org/rec/BLATCS', 'https://web.archive.org/web/20211231172324/https://link.springer.com/referenceworkentry/10.1007/978-94-007-6883-3_7-1', 'https://web.archive.org/web/20211231172343/https://www.degruyter.com/document/doi/10.1515/9783110867718.383/html', 'https://web.archive.org/web/20220104182746/https://philpapers.org/rec/WESASA', 'https://web.archive.org/web/20220104182746/https://philpapers.org/rec/HJEATO', 'https://web.archive.org/web/20220104182746/https://www.britannica.com/topic/history-of-logic/Aristotle', 'https://web.archive.org/web/20220104182746/https://www.routledge.com/Introduction-to-Logic/Copi-Cohen-Rodych/p/book/9781138500860', 'https://web.archive.org/web/20220104182747/https://books.google.com/books?id=LtibjwEACAAJ', 'https://web.archive.org/web/20220108171720/https://books.google.com/books?id=QXCLAgAAQBAJ', 'https://web.archive.org/web/20220108171720/https://www.encyclopedia.com/science-and-technology/computers-and-electrical-engineering/electrical-engineering/induction', 'https://web.archive.org/web/20220108171721/https://link.springer.com/article/10.1007/s10503-009-9131-5', 'https://web.archive.org/web/20220108171722/https://link.springer.com/article/10.1007/s11229-018-1853-1', 'https://web.archive.org/web/20220108171723/https://philpapers.org/rec/POSCAW-4', 'https://web.archive.org/web/20220108173225/https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095410661', 'https://web.archive.org/web/20220108192712/https://www.jstor.org/stable/2214318', 'https://web.archive.org/web/20220108194756/https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095423356', 'https://web.archive.org/web/20220108194809/https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100432990', 'https://web.archive.org/web/20220108225144/https://www.taylorfrancis.com/chapters/edit/10.4324/9781315725697-20/abductive-reasoning-explanation-barbara-koslowski', 'https://web.archive.org/web/20220108230649/https://www.jstor.org/stable/43047609', 'https://web.archive.org/web/20220109131251/https://link.springer.com/chapter/10.1007/978-1-4684-9452-5_1', 'https://web.archive.org/web/20220111091740/https://www.cambridge.org/core/books/abs/philosophy-of-mathematics/russells-mathematical-logic/4D82F215FABFE06149D03EF1EF5BE7E4', 'https://web.archive.org/web/20220112030519/https://plato.stanford.edu/entries/logic-informal/', 'https://web.archive.org/web/20220121081805/https://plato.stanford.edu/entries/logic-inductive/', 'https://web.archive.org/web/20220228035651/https://philpapers.org/rec/SIEENA', 'https://web.archive.org/web/20220228035654/https://philpapers.org/rec/VLEILF', 'https://web.archive.org/web/20220228123240/https://philpapers.org/rec/STODTA', 'https://web.archive.org/web/20220301065815/https://philpapers.org/rec/ENGWGR', 'https://web.archive.org/web/20220302001111/https://philpapers.org/rec/WALIFT', 'https://web.archive.org/web/20220730070930/https://www.worldcat.org/title/fundamentals-of-mathematical-logic/oclc/958798526', 'https://web.archive.org/web/20220730070931/https://www.worldcat.org/title/encyclopedia-of-philosophy/oclc/61151356', 'https://www.cambridge.org/core/books/abs/philosophy-of-mathematics/russells-mathematical-logic/4D82F215FABFE06149D03EF1EF5BE7E4', 'https://doi.org/10.2307%2F2106873', 'https://www.encyclopediaofmath.org/index.php?title=Logical_calculus', 'https://gutenberg.org/files/38145/38145-h/38145-h.htm', 'https://www.gutenberg.org/ebooks/28696', 'https://www.gutenberg.org/ebooks/4763', 'https://www.jstor.org/stable/2106873', 'https://www.jstor.org/stable/2214318', 'https://www.jstor.org/stable/40271192', 'https://www.jstor.org/stable/43047609', 'https://www.jstor.org/stable/43744657', 'https://langsci-press.org/catalog/book/231', 'https://philpapers.org/browse/epistemology-of-logic', 'https://philpapers.org/rec/AUDTCD-2', 'https://philpapers.org/rec/BEAREO', 'https://philpapers.org/rec/BLAILA-3', 'https://philpapers.org/rec/BLATCS', 'https://philpapers.org/rec/BORMEO', 'https://philpapers.org/rec/BOVSIO', 'https://philpapers.org/rec/BURPL-3', 'https://philpapers.org/rec/ENGWGR', 'https://philpapers.org/rec/GOBTBG-2', 'https://philpapers.org/rec/HAADLF', 'https://philpapers.org/rec/HAAPOL-2', 'https://philpapers.org/rec/HJEATO', 'https://philpapers.org/rec/HONTOC-2', 'https://philpapers.org/rec/JAAWIL', 'https://philpapers.org/rec/JACPOL', 'https://philpapers.org/rec/JOHTRB-2', 'https://philpapers.org/rec/KORBIL', 'https://philpapers.org/rec/MAGFXI', 'https://philpapers.org/rec/OLSBE', 'https://philpapers.org/rec/POSCAW-4', 'https://philpapers.org/rec/RUSTMO-4', 'https://philpapers.org/rec/SIEENA', 'https://philpapers.org/rec/STODTA', 'https://philpapers.org/rec/VLEILF', 'https://philpapers.org/rec/WALIFT', 'https://philpapers.org/rec/WESASA', 'https://philpapers.org/rec/WOLARL', 'https://api.semanticscholar.org/CorpusID:125767384', 'https://api.semanticscholar.org/CorpusID:126245285', 'https://api.semanticscholar.org/CorpusID:126269789', 'https://api.semanticscholar.org/CorpusID:141283158', 'https://api.semanticscholar.org/CorpusID:143697796', 'https://api.semanticscholar.org/CorpusID:144481717', 'https://api.semanticscholar.org/CorpusID:160029122', 'https://api.semanticscholar.org/CorpusID:32089424', 'https://api.semanticscholar.org/CorpusID:49729020', 'https://api.semanticscholar.org/CorpusID:62162288', 'https://api.semanticscholar.org/CorpusID:9602882', 'https://pdfs.semanticscholar.org/9bea/866c143326aeb700c20165a933f583b16a46.pdf', 'https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Logic', 'https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Logic&library=0CHOOSE0', 'https://www.wikidata.org/wiki/Q8078#identifiers', 'https://www.worldcat.org/oclc/1041146', 'https://www.worldcat.org/oclc/13580200', 'https://www.worldcat.org/oclc/2085765', 'https://www.worldcat.org/oclc/61151356', 'https://www.worldcat.org/oclc/958798526', 'https://islamansiklopedisi.org.tr/mantik']
+
+####### SUMMARY #######
+
+Logic is the study of correct reasoning or good arguments. It is often defined in a more narrow sense as the science of deductively valid inferences or of logical truths. In this sense, it is equivalent to formal logic and constitutes a formal science investigating how conclusions follow from premises in a topic-neutral way. When used as a countable noun, the term "a logic" refers to a logical formal system that articulates a proof system. Formal logic contrasts with informal logic, which is also part of logic when understood in the widest sense. There is no general agreement on how the two are to be distinguished. One prominent approach associates their difference with the study of arguments expressed in formal or informal languages. Another characterizes informal logic as the study of ampliative inferences, in contrast to the deductive inferences studied by formal logic.
+Logic is based on various fundamental concepts. It studies arguments, which are made up of a set of premises together with a conclusion. Premises and conclusions are usually understood either as sentences or as propositions and are characterized by their internal structure. Complex propositions are made up of other propositions linked to each other by propositional connectives like 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \land }
+   (and) or 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \to }
+   (if...then). The truth of a proposition usually depends on the denotations of its constituents. Logically true propositions constitute a special case since their truth depends only on the logical vocabulary used in them. 
+The arguments or inferences made up of these propositions can be either correct or incorrect. An argument is correct if its premises support its conclusion. The strongest form of support is found in deductive arguments: it is impossible for their premises to be true and their conclusion to be false. This is the case if they follow a rule of inference, which ensures the truth of the conclusion if the premises are true. A consequence of this is that deductive arguments cannot arrive at any substantive new information not already found in their premises. They contrast in this respect with ampliative arguments, which may provide genuinely new information. This comes with an important drawback: it is possible for all their premises to be true while their conclusion is still false. Many arguments found in everyday discourse and the sciences are ampliative arguments. They are sometimes divided into inductive and abductive arguments. Inductive arguments usually take the form of statistical generalizations while abductive arguments are inferences to the best explanation. Arguments that fall short of the standards of correct reasoning are called fallacies. For formal fallacies, the source of the error is found in the form of the argument while informal fallacies usually contain errors on the level of the content or the context.
+Systems of logic are theoretical frameworks for assessing the correctness of reasoning and arguments. Aristotelian logic focuses on reasoning in the form of syllogisms. Its traditional dominance was replaced by classical logic in the modern era. Classical logic is "classical" in the sense that it is based on various fundamental logical intuitions shared by most logicians. It consists of propositional logic and first-order logic. Propositional logic ignores the internal structure of simple propositions and only considers the logical relations on the level of propositions. First-order logic, on the other hand, articulates this internal structure using various linguistic devices, such as predicates and quantifiers. Extended logics accept the basic intuitions behind classical logic and extend it to other fields, such as metaphysics, ethics, and epistemology. This happens usually by introducing new logical symbols, such as modal operators. Deviant logics, on the other hand, reject certain classical intuitions and provide alternative accounts of the fundamental laws of logic. While most systems of logic belong to formal logic, some systems of informal logic have also been proposed. One prominent approach understands reasoning as a dialogical game of persuasion while another focuses on the epistemic role of arguments. Logic is studied in and applied to various fields, such as philosophy, mathematics, computer science, and linguistics. Logic has been studied since Antiquity, early approaches including Aristotelian logic, Stoic logic, Anviksiki, and the mohists. Modern formal logic has its roots in the work of late 19th-century mathematicians such as Gottlob Frege.
+
+####### CONTENT #######
+
+Logic is the study of correct reasoning or good arguments. It is often defined in a more narrow sense as the science of deductively valid inferences or of logical truths. In this sense, it is equivalent to formal logic and constitutes a formal science investigating how conclusions follow from premises in a topic-neutral way. When used as a countable noun, the term "a logic" refers to a logical formal system that articulates a proof system. Formal logic contrasts with informal logic, which is also part of logic when understood in the widest sense. There is no general agreement on how the two are to be distinguished. One prominent approach associates their difference with the study of arguments expressed in formal or informal languages. Another characterizes informal logic as the study of ampliative inferences, in contrast to the deductive inferences studied by formal logic.
+Logic is based on various fundamental concepts. It studies arguments, which are made up of a set of premises together with a conclusion. Premises and conclusions are usually understood either as sentences or as propositions and are characterized by their internal structure. Complex propositions are made up of other propositions linked to each other by propositional connectives like 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \land }
+   (and) or 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \to }
+   (if...then). The truth of a proposition usually depends on the denotations of its constituents. Logically true propositions constitute a special case since their truth depends only on the logical vocabulary used in them. 
+The arguments or inferences made up of these propositions can be either correct or incorrect. An argument is correct if its premises support its conclusion. The strongest form of support is found in deductive arguments: it is impossible for their premises to be true and their conclusion to be false. This is the case if they follow a rule of inference, which ensures the truth of the conclusion if the premises are true. A consequence of this is that deductive arguments cannot arrive at any substantive new information not already found in their premises. They contrast in this respect with ampliative arguments, which may provide genuinely new information. This comes with an important drawback: it is possible for all their premises to be true while their conclusion is still false. Many arguments found in everyday discourse and the sciences are ampliative arguments. They are sometimes divided into inductive and abductive arguments. Inductive arguments usually take the form of statistical generalizations while abductive arguments are inferences to the best explanation. Arguments that fall short of the standards of correct reasoning are called fallacies. For formal fallacies, the source of the error is found in the form of the argument while informal fallacies usually contain errors on the level of the content or the context.
+Systems of logic are theoretical frameworks for assessing the correctness of reasoning and arguments. Aristotelian logic focuses on reasoning in the form of syllogisms. Its traditional dominance was replaced by classical logic in the modern era. Classical logic is "classical" in the sense that it is based on various fundamental logical intuitions shared by most logicians. It consists of propositional logic and first-order logic. Propositional logic ignores the internal structure of simple propositions and only considers the logical relations on the level of propositions. First-order logic, on the other hand, articulates this internal structure using various linguistic devices, such as predicates and quantifiers. Extended logics accept the basic intuitions behind classical logic and extend it to other fields, such as metaphysics, ethics, and epistemology. This happens usually by introducing new logical symbols, such as modal operators. Deviant logics, on the other hand, reject certain classical intuitions and provide alternative accounts of the fundamental laws of logic. While most systems of logic belong to formal logic, some systems of informal logic have also been proposed. One prominent approach understands reasoning as a dialogical game of persuasion while another focuses on the epistemic role of arguments. Logic is studied in and applied to various fields, such as philosophy, mathematics, computer science, and linguistics. Logic has been studied since Antiquity, early approaches including Aristotelian logic, Stoic logic, Anviksiki, and the mohists. Modern formal logic has its roots in the work of late 19th-century mathematicians such as Gottlob Frege.
+
+
+== Definition ==
+The word "logic" originates from the Greek word "logos", which has a variety of translations, such as reason, discourse, or language. Logic is traditionally defined as the study of the laws of thought or correct reasoning. This is usually understood in terms of inferences or arguments: reasoning may be seen as the activity of drawing inferences, whose outward expression is given in arguments.  An inference or an argument is a set of premises together with a conclusion. Logic is interested in whether arguments are good or inferences are valid, i.e. whether the premises support their conclusions.These general characterizations apply to logic in the widest sense since they are true both for formal and informal logic. But many definitions of logic focus on formal logic because it is the paradigmatic form of logic. In this narrower sense, logic is a formal science that studies how conclusions follow from premises in a topic-neutral way. In this regard, logic is sometimes contrasted with the theory of rationality, which is wider since it covers all forms of good reasoning. However, a different conception holds that "the task of logic is to provide mathematical tools for articulating the structure of reasoning" by making explicit how inferences are usually drawn. When logic is understood as a formal science, it contrasts with empirical sciences, like physics or biology, because it tries to characterize the inferential relations between premises and conclusions only based on how they are structured. This means that the actual content of these propositions, i.e. their specific topic, is not important for whether the inference is valid or not. This can be expressed by distinguishing between logical and non-logical vocabulary: inferences are valid because of the logical terms used in them, independent of the meanings of the non-logical terms. Valid inferences are characterized by the fact that the truth of their premises ensures the truth of their conclusion. This means that it is impossible for the premises to be true and the conclusion to be false. The general logical structures characterizing valid inferences are called rules of inference. In this sense, logic is often defined as the study of valid inference. This contrasts with another prominent characterization of logic as the science of logical truths. A proposition is logically true if its truth depends only on the logical vocabulary used in it. This means that it is true in all possible worlds and under all interpretations of its non-logical terms. These two characterizations of logic are closely related to each other: an inference is valid if the material conditional from its premises to its conclusion is logically true.The term "logic" can also be used in a slightly different sense as a countable noun. In this sense, a logic is a logical formal system. Different logics differ from each other concerning the formal languages used to express them and, most importantly, concerning the rules of inference they accept as valid. Starting in the 20th century, many new formal systems have been proposed. There is an ongoing debate about which of these systems should be considered logics in the strict sense and which should be considered non-logical formal systems. Suggested criteria for this distinction include logical completeness and proximity to the intuitions governing classical logic. According to these criteria, it has been argued, for example, that higher-order logics and fuzzy logic should not be considered logics when understood in a strict sense.
+
+
+== Formal and informal logic ==
+When understood in the widest sense, logic encompasses both formal and informal logic. Formal logic is the traditionally dominant field. Various problems in applying its insights to actual everyday arguments have prompted modern developments of informal logic. They often stress its significance for various practical purposes which formal logic on its own is unable to address. Both have in common that they aim to provide criteria for assessing the correctness of arguments and distinguishing them from fallacies. Various suggestions have been made concerning how to draw the distinction between the two but there is no universally accepted answer. These difficulties often coincide with the wide disagreements about how informal logic is to be defined.The most literal approach sees the terms "formal" and "informal" as applying to the language used to express arguments. On this view, formal logic studies arguments expressed in formal languages while informal logic studies arguments expressed in informal or natural languages. This means that the inference from the formulas "
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  " and "
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  " to the conclusion "
+  
+    
+      
+        P
+        ∧
+        Q
+      
+    
+    {\displaystyle P\land Q}
+  " is studied by formal logic while the inference from the English sentences "Al lit a cigarette" and "Bill stormed out of the room" to the sentence "Al lit a cigarette and Bill stormed out of the room" belongs to informal logic. Formal languages are characterized by their precision and simplicity. They normally contain a very limited vocabulary and exact rules on how their symbols can be used to construct sentences, usually referred to as well-formed formulas. This simplicity and exactness in turn make it possible for formal logic to formulate precise rules of inference that determine whether a given argument is valid. This approach brings with it the need to translate natural language arguments into the formal language before their validity can be assessed, a procedure that comes with various problems of its own. Informal logic avoids some of these problems by analyzing natural language arguments in their original form without the need of translation. But it faces related problems of its own, associated with the ambiguity, vagueness, and context-dependence of natural language expressions. A closely related approach applies the terms "formal" and "informal" not just to the language used, but more generally to the standards, criteria, and procedures of argumentation.Another approach draws the distinction according to the different types of inferences analyzed. This perspective understands formal logic as the study of deductive inferences in contrast to informal logic as the study of non-deductive inferences, like inductive or abductive inferences. The characteristic of deductive inferences is that the truth of their premises ensures the truth of their conclusion. This means that if all the premises are true, it is impossible for the conclusion to be false. For this reason, deductive inferences are in a sense trivial or uninteresting since they do not provide the thinker with any new information not already found in the premises. Non-deductive inferences, on the other hand, are ampliative: they help the thinker learn something above and beyond what is already stated in the premises. They achieve this at the cost of certainty: even if all premises are true, the conclusion of an ampliative argument may still be false.One more approach tries to link the difference between formal and informal logic to the distinction between formal and informal fallacies. This distinction is often drawn in relation to the form, content, and context of arguments. In the case of formal fallacies, the error is found on the level of the argument's form, whereas for informal fallacies, the content and context of the argument are responsible. This is connected to the idea that formal logic abstracts away from the argument's content and is only interested in its form, specifically whether it follows a valid rule of inference. It also concerns the idea that it's not important for the validity of a formal argument whether its premises are true or false. Informal logic, on the other hand, also takes the content and context of an argument into consideration. A false dilemma, for example, involves an error of content by excluding viable options, as in "you are either with us or against us; you are not with us; therefore, you are against us". For the strawman fallacy, on the other hand, the error is found on the level of context: a weak position is first described and then defeated, even though the opponent does not hold this position. But in another context, against an opponent that actually defends the strawman position, the argument is correct.Other accounts draw the distinction based on investigating general forms of arguments in contrast to particular instances, on the study of logical constants instead of substantive concepts, on the discussion of logical topics with or without formal devices, or on the role of epistemology for the assessment of arguments.
+
+
+== Fundamental concepts ==
+
+
+=== Premises, conclusions, and truth ===
+
+
+==== Premises and conclusions ====
+
+Premises and conclusions are the basic parts of inferences or arguments and therefore play a central role in logic. In the case of a valid inference or a correct argument, the conclusion follows from the premises or the premises support the conclusion. For instance, the premises "Mars is red" and "Mars is a planet" support the conclusion "Mars is a red planet". It is generally accepted that premises and conclusions have to be truth-bearers. This means that they have a truth value, that they are either true or false. Thus contemporary philosophy generally sees them either as propositions or as sentences. Propositions are the denotations of sentences and are usually understood as abstract objects.Propositional theories of premises and conclusions are often criticized because of the difficulties involved in specifying the identity criteria of abstract objects or because of naturalist considerations. These objections are avoided by seeing premises and conclusions not as propositions but as sentences, i.e. as concrete linguistic objects like the symbols displayed on the reader's computer screen. But this approach comes with new problems of its own: sentences are often context-dependent and ambiguous, meaning that whether an argument is valid would not only depend on its parts but also on its context and on how it is interpreted.In earlier work, premises and conclusions were understood in psychological terms as thoughts or judgments, an approach known as "psychologism". This position was heavily criticized around the turn of the 20th century.
+
+
+==== Internal structure ====
+A central aspect of premises and conclusions for logic, independent of how their nature is conceived, concerns their internal structure. As propositions or sentences, they can be either simple or complex. A complex proposition has other propositions as its constituents, which are linked to each other through propositional connectives like "and" or "if-then". Simple propositions, on the other hand, do not have propositional parts. But they can also be conceived as having an internal structure: they are made up of subpropositional parts, like singular terms and predicates. For example, the simple proposition "Mars is red" can be formed by applying the predicate "red" to the singular term "Mars". In contrast, the complex proposition "Mars is red and Venus is white" is made up of two simple propositions connected by the propositional connective "and".Whether a proposition is true depends, at least in part, on its constituents. For complex propositions formed using truth-functional propositional connectives, their truth only depends on the truth-values of their parts. But this relation is more complicated in the case of simple propositions and their subpropositional parts. These subpropositional parts have meanings of their own, like referring to objects or classes of objects. Whether the simple proposition they form is true depends on their relation to reality, i.e. what the objects they refer to are like. This topic is studied by theories of reference.
+
+
+==== Logical truth ====
+
+In some cases, a simple or a complex proposition is true independently of the substantive meanings of its parts. For example, the complex proposition "if Mars is red, then Mars is red" is true independent of whether its parts, i.e. the simple proposition "Mars is red", are true or false. In such cases, the truth is called a logical truth: a proposition is logically true if its truth depends only on the logical vocabulary used in it. This means that it is true under all interpretations of its non-logical terms. In some modal logics, this notion can be understood equivalently as truth at all possible worlds. Logical truth plays an important role in logic and some theorists even define logic as the study of logical truths.
+
+
+=== Arguments and inferences ===
+
+Logic is commonly defined in terms of arguments or inferences as the study of their correctness. An argument is a set of premises together with a conclusion. An inference is the process of reasoning from these premises to the conclusion. But these terms are often used interchangeably in logic. Sometimes a distinction is made between simple and complex arguments. A complex argument is made up of a chain of simple arguments. These simple arguments constitute a chain because the conclusions of the earlier arguments are used as premises in the later arguments. For a complex argument to be successful, each link of the chain has to be successful.
+
+A central aspect of arguments and inferences is that they are correct or incorrect. If they are correct then their premises support their conclusion. In the incorrect case, this support is missing. It can take different forms corresponding to the different types of reasoning. The strongest form of support corresponds to deductive reasoning. But even arguments that are not deductively valid may still constitute good arguments because their premises offer non-deductive support to their conclusions. For such cases, the term ampliative or inductive reasoning is used. Deductive arguments are associated with formal logic in contrast to the relation between ampliative arguments and informal logic.
+
+
+==== Deductive ====
+A deductively valid argument is one whose premises guarantee the truth of its conclusion. For instance, the argument "Victoria is tall; Victoria has brown hair; therefore Victoria is tall and has brown hair" is deductively valid. Alfred Tarski holds that deductive arguments have three essential features: (1) they are formal, i.e. they depend only on the form of the premises and the conclusion; (2) they are a priori, i.e. no sense experience is needed to determine whether they obtain; (3) they are modal, i.e. that they hold by logical necessity for the given propositions, independent of any other circumstances.Because of the first feature, the focus on formality, deductive inference is usually identified with rules of inference. Rules of inference specify how the premises and the conclusion have to be structured for the inference to be valid. Arguments that do not follow any rule of inference are deductively invalid. The modus ponens is a prominent rule of inference. It has the form "if A, then B; A; therefore B".The third feature can be expressed by stating that deductively valid inferences are truth-preserving: it is impossible for the premises to be true and the conclusion to be false. Because of this feature, it is often asserted that deductive inferences are uninformative since the conclusion cannot arrive at new information not already present in the premises. But this point is not always accepted since it would mean, for example, that most of mathematics is uninformative. A different characterization distinguishes between surface and depth information. On this view, deductive inferences are uninformative on the depth level but can be highly informative on the surface level, as may be the case for various mathematical proofs.
+
+
+==== Ampliative ====
+Ampliative inferences, on the other hand, are informative even on the depth level. They are more interesting in this sense since the thinker may acquire substantive information from them and thereby learn something genuinely new. But this feature comes with a certain cost: the premises support the conclusion in the sense that they make its truth more likely but they do not ensure its truth. This means that the conclusion of an ampliative argument may be false even though all its premises are true. This characteristic is closely related to non-monotonicity and defeasibility: it may be necessary to retract an earlier conclusion upon receiving new information or in the light of new inferences drawn. Ampliative reasoning is of central importance since a lot of the arguments found in everyday discourse and the sciences are ampliative. Ampliative arguments are not automatically incorrect. Instead, they just follow different standards of correctness. An important aspect of most ampliative arguments is that the support they provide for their conclusion comes in degrees. In this sense, the line between correct and incorrect arguments is blurry in some cases, as when the premises offer weak but non-negligible support. This contrasts with deductive arguments, which are either valid or invalid with nothing in-between.The terminology used to categorize ampliative arguments is inconsistent. Some authors use the term "induction" to cover all forms of non-deductive arguments. But in a more narrow sense, induction is only one type of ampliative argument besides abductive arguments. Some authors also allow conductive arguments as one more type. In this narrow sense, induction is often defined as a form of statistical generalization. In this case, the premises of an inductive argument are many individual observations that all show a certain pattern. The conclusion then is a general law that this pattern always obtains. In this sense, one may infer that "all elephants are gray" based on one's past observations of the color of elephants. A closely related form of inductive inference has as its conclusion not a general law but one more specific instance, as when it is inferred that an elephant one has not seen yet is also gray. Some theorists stipulate that inductive inferences rest only on statistical considerations in order to distinguish them from abductive inference.Abductive inference may or may not take statistical observations into consideration. In either case, the premises offer support for the conclusion because the conclusion is the best explanation of why the premises obtain. In this sense, abduction is also called the inference to the best explanation. For example, given the premise that there is a plate with breadcrumbs in the kitchen in the early morning, one may infer the conclusion that one's house-mate had a midnight snack and was too tired to clean the table. This conclusion is justified because it is the best explanation of the current state of the kitchen. For abduction, it is not sufficient that the conclusion explains the premises. For example, the conclusion that a burglar broke into the house last night, got hungry on the job, and had a midnight snack, would also explain the state of the kitchen. But this conclusion is not justified because it is not the best or most likely explanation.
+
+
+=== Fallacies ===
+Not all arguments live up to the standards of correct reasoning. When they do not, they are usually referred to as fallacies. Their central aspect is not that their conclusion is false but that there is some flaw with the reasoning leading to this conclusion. So the argument "it is sunny today; therefore spiders have eight legs" is fallacious even though the conclusion is true. Some theorists give a more restrictive definition of fallacies by additionally requiring that they appear to be correct. This way, genuine fallacies can be distinguished from mere mistakes of reasoning due to carelessness. This explains why people tend to commit fallacies: because they have an alluring element that seduces people into committing and accepting them. However, this reference to appearances is controversial because it belongs to the field of psychology, not logic, and because appearances may be different for different people.Fallacies are usually divided into formal and informal fallacies. For formal fallacies, the source of the error is found in the form of the argument. For example, denying the antecedent is one type of formal fallacy, as in "if Othello is a bachelor, then he is male; Othello is not a bachelor; therefore Othello is not male". But most fallacies fall into the category of informal fallacies, of which a great variety is discussed in the academic literature. The source of their error is usually found in the content or the context of the argument. Informal fallacies are sometimes categorized as fallacies of ambiguity, fallacies of presumption, or fallacies of relevance. For fallacies of ambiguity, the ambiguity and vagueness of natural language are responsible for their flaw, as in "feathers are light; what is light cannot be dark; therefore feathers cannot be dark". Fallacies of presumption have a wrong or unjustified premise but may be valid otherwise. In the case of fallacies of relevance, the premises do not support the conclusion because they are not relevant to it.
+
+
+=== Definitory and strategic rules ===
+The main focus of most logicians is to investigate the criteria according to which an argument is correct or incorrect. A fallacy is committed if these criteria are violated. In the case of formal logic, they are known as rules of inference. They constitute definitory rules, which determine whether a certain logical move is correct or which moves are allowed. Definitory rules contrast with strategic rules. Strategic rules specify which inferential moves are necessary in order to reach a given conclusion based on a certain set of premises. This distinction does not just apply to logic but also to various games as well. In chess, for example, the definitory rules dictate that bishops may only move diagonally while the strategic rules describe how the allowed moves may be used to win a game, for example, by controlling the center and by defending one's king. A third type of rules concerns empirical descriptive rules. They belong to the field of psychology and generalize how people actually draw inferences. It has been argued that logicians should give more emphasis to strategic rules since they are highly relevant for effective reasoning.
+
+
+=== Formal systems ===
+
+A formal system of logic consists of a language, a proof system, and a semantics.  A system's language and proof system are sometimes grouped together as the system's syntax, since they both concern the form rather than the content of the system's expressions.
+The term "a logic" is often used a countable noun to refer to a particular formal system of logic. Different logics can differ from each other in their language, proof system, or their semantics. Starting in the 20th century, many new formal systems have been proposed.
+
+
+==== Formal language ====
+
+A language is a set of well formed formulas. For instance, in propositional logic, 
+  
+    
+      
+        P
+        &
+        Q
+      
+    
+    {\displaystyle P\&Q}
+   is a formula but 
+  
+    
+      
+        P
+        Q
+        &
+        &
+        &
+      
+    
+    {\displaystyle PQ\&\&\&}
+   is not. Languages are typically defined by providing an alphabet of basic expressions and recursive syntactic rules which build them into formulas.
+
+
+==== Proof system ====
+
+A proof system is a collection of formal rules which define when a conclusion follows from given premises. For instance, the classical rule of conjunction introduction states that 
+  
+    
+      
+        P
+        &
+        Q
+      
+    
+    {\displaystyle P\&Q}
+   follows from the premises 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   and 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  . Rules in a proof systems are always defined in terms of formulas' syntactic form, never in terms of their meanings. Such rules can be applied sequentially, giving a mechanical procedure for generating conclusions from premises. There are a number of different types of proof systems including natural deduction and sequent calculi. Proof systems are closely linked to philosophical work which characterizes logic as the study of valid inference.
+
+
+==== Semantics ====
+
+A semantics is a system for mapping expressions of a formal language to their denotations. In many systems of logic, denotations are truth values. For instance, the semantics for classical propositional logic assigns the formula 
+  
+    
+      
+        P
+        &
+        Q
+      
+    
+    {\displaystyle P\&Q}
+   the denotation "true" whenever 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   and 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   are true. Entailment is a semantic relation which holds between formulas when the first cannot be true without the second being true as well. Semantics is closely tied to the philosophical characterization of logic as the study of logical truth.
+
+
+==== Soundness and completeness ====
+
+A system of logic is sound when its proof system cannot derive a conclusion from a set of premises unless it is semantically entailed by them. In other words, its proof system cannot lead to false conclusions, as defined by the semantics. A system is complete when its proof system can derive every conclusion that is semantically entailed by its premises. In other words, its proof system can lead to any true conclusion, as defined by the semantics. Thus, soundness and completeness together describe a system whose notions of validity and entailment line up perfectly.The study of properties of formal systems is called metalogic. Other important metalogical properties include consistency, decidability, and expressive power.
+
+
+== Systems of logic ==
+Systems of logic are theoretical frameworks for assessing the correctness of reasoning and arguments. For over two thousand years, Aristotelian logic was treated as the cannon of logic. But modern developments in this field have led to a vast proliferation of logical systems. One prominent categorization divides modern formal logical systems into classical logic, extended logics, and deviant logics. Classical logic is to be distinguished from traditional or Aristotelian logic. It encompasses propositional logic and first-order logic. It is "classical" in the sense that it is based on various fundamental logical intuitions shared by most logicians. These intuitions include the law of excluded middle, the double negation elimination, the principle of explosion, and the bivalence of truth. It was originally developed to analyze mathematical arguments and was only later applied to other fields as well. Because of this focus on mathematics, it does not include logical vocabulary relevant to many other topics of philosophical importance, like the distinction between necessity and possibility, the problem of ethical obligation and permission, or the relations between past, present, and future. Such issues are addressed by extended logics. They build on the fundamental intuitions of classical logic and expand it by introducing new logical vocabulary. This way, the exact logical approach is applied to fields like ethics or epistemology that lie beyond the scope of mathematics.Deviant logics, on the other hand, reject some of the fundamental intuitions of classical logic. Because of this, they are usually seen not as its supplements but as its rivals. Deviant logical systems differ from each other either because they reject different classical intuitions or because they propose different alternatives to the same issue.Informal logic is usually done in a less systematic way. It often focuses on more specific issues, like investigating a particular type of fallacy or studying a certain aspect of argumentation. Nonetheless, some systems of informal logic have also been presented that try to provide a systematic characterization of the correctness of arguments.
+
+
+=== Aristotelian ===
+When understood in the widest sense, Aristotelian logic encompasses a great variety of topics, including metaphysical theses about ontological categories and problems of scientific explanation. But in a more narrow sense, it refers to term logic or syllogistics. A syllogism is a certain form of argument involving three propositions: two premises and a conclusion. Each proposition has three essential parts: a subject, a predicate, and a copula connecting the subject to the predicate. For example, the proposition "Socrates is wise" is made up of the subject "Socrates", the predicate "wise", and the copula "is". The subject and the predicate are the terms of the proposition. In this sense, Aristotelian logic does not contain complex propositions made up of various simple propositions. It differs in this aspect from propositional logic, in which any two propositions can be linked using a logical connective like "and" to form a new complex proposition.Aristotelian logic differs from predicate logic in that the subject is either universal, particular, indefinite, or singular. For example, the term "all humans" is a universal subject in the proposition "all humans are mortal". A similar proposition could be formed by replacing it with the particular term "some humans", the indefinite term "a human", or the singular term "Socrates". In predicate logic, on the other hand, universal and particular propositions would be expressed by using a quantifier and two predicates. Another important difference is that Aristotelian logic only includes predicates for simple properties of entities, but lacks predicates corresponding to relations between entities. The predicate can be linked to the subject in two ways: either by affirming it or by denying it. For example, the proposition "Socrates is not a cat" involves the denial of the predicate "cat" to the subject "Socrates". Using different combinations of subjects and predicates, a great variety of propositions and syllogisms can be formed. Syllogisms are characterized by the fact that the premises are linked to each other and to the conclusion by sharing one predicate in each case. Thus, these three propositions contain three predicates, referred to as major term, minor term, and middle term. The central aspect of Aristotelian logic involves classifying all possible syllogisms into valid and invalid arguments according to how the propositions are formed. For example, the syllogism "all men are mortal; Socrates is a man; therefore Socrates is mortal" is valid. The syllogism "all cats are mortal; Socrates is mortal; therefore Socrates is a cat", on the other hand, is invalid.
+
+
+=== Classical ===
+
+
+==== Propositional logic ====
+
+Propositional logic comprises formal systems in which formulae are built from atomic propositions using logical connectives. For instance, propositional logic represents the conjunction of two atomic propositions 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   and 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   as the complex formula 
+  
+    
+      
+        P
+        &
+        Q
+      
+    
+    {\displaystyle P\&Q}
+  . Unlike predicate logic where terms and predicates are the smallest units, propositional logic takes full propositions with truth values as its most basic component. Thus, propositional logics can only represent logical relationships that arise from the way complex propositions are built from simpler ones; it cannot represent inferences that results from the inner structure of a proposition.
+
+
+==== First-order logic ====
+
+First-order logic includes the same propositional connectives as propositional logic but differs from it because it articulates the internal structure of propositions. This happens through devices such as singular terms, which refer to particular objects, predicates, which refer to properties and relations, and quantifiers, which treat notions like "some" and "all". For example, to express the proposition "this raven is black", one may use the predicate 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   for the property "black" and the singular term 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   referring to the raven to form the expression 
+  
+    
+      
+        B
+        (
+        r
+        )
+      
+    
+    {\displaystyle B(r)}
+  . To express that some objects are black, the existential quantifier 
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+   is combined with the variable 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   to form the proposition 
+  
+    
+      
+        ∃
+        x
+        B
+        (
+        x
+        )
+      
+    
+    {\displaystyle \exists xB(x)}
+  . First-order logic contains various rules of inference that determine how expressions articulated this way can form valid arguments, for example, that one may infer 
+  
+    
+      
+        ∃
+        x
+        B
+        (
+        x
+        )
+      
+    
+    {\displaystyle \exists xB(x)}
+   from 
+  
+    
+      
+        B
+        (
+        r
+        )
+      
+    
+    {\displaystyle B(r)}
+  .The development of first-order logic is usually attributed to Gottlob Frege, who is also credited as one of the founders of analytic philosophy, but the formulation of first-order logic most often used today is found in Principles of Mathematical Logic by David Hilbert and Wilhelm Ackermann in 1928. The analytical generality of first-order logic allowed the formalization of mathematics, drove the investigation of set theory, and allowed the development of Alfred Tarski's approach to model theory. It provides the foundation of modern mathematical logic.
+
+
+=== Extended ===
+
+
+==== Modal logic ====
+
+Many extended logics take the form of modal logic by introducing modal operators. Modal logic were originally developed to represent statements about necessity and possibility. For instance the modal formula 
+  
+    
+      
+        ◊
+        P
+      
+    
+    {\displaystyle \Diamond P}
+   can be read as "possibly 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  " while 
+  
+    
+      
+        ◻
+        P
+      
+    
+    {\displaystyle \Box P}
+   can be read as "necessarily 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  ". Modal logics can be used to represent different phenomena depending on what flavor of necessity and possibility is under consideration. When 
+  
+    
+      
+        ◻
+      
+    
+    {\displaystyle \Box }
+   is used to represent epistemic necessity, 
+  
+    
+      
+        ◻
+        P
+      
+    
+    {\displaystyle \Box P}
+   states that 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is known. When 
+  
+    
+      
+        ◻
+      
+    
+    {\displaystyle \Box }
+   is used to represent deontic necessity, 
+  
+    
+      
+        ◻
+        P
+      
+    
+    {\displaystyle \Box P}
+   states that 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is a moral or legal obligation. Within philosophy, modal logics are widely used in formal epistemology, formal ethics, and metaphysics. Within linguistic semantics, systems based on modal logic are used to analyze linguistic modality in natural languages. Other fields such computer science and set theory have applied the relational semantics for modal logic beyond its original conceptual motivation, using it to provide insight into patterns including the set-theoretic multiverse and transition systems in computation.
+
+
+==== Higher order logic ====
+
+Higher-order logics extend classical logic not by using modal operators but by introducing new forms of quantification. Quantifiers correspond to terms like "all" or "some". In classical first-order logic, quantifiers are only applied to individuals. The formula "
+  
+    
+      
+        ∃
+        x
+        (
+        A
+        p
+        p
+        l
+        e
+        (
+        x
+        )
+        ∧
+        S
+        w
+        e
+        e
+        t
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle \exists x(Apple(x)\land Sweet(x))}
+  " (some apples are sweet) is an example of the existential quantifier "
+  
+    
+      
+        ∃
+      
+    
+    {\displaystyle \exists }
+  " applied to the individual variable "
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ". In higher-order logics, quantification is also allowed over predicates. This increases its expressive power. For example, to express the idea that Mary and John share some qualities, one could use the formula "
+  
+    
+      
+        ∃
+        Q
+        (
+        Q
+        (
+        m
+        a
+        r
+        y
+        )
+        ∧
+        Q
+        (
+        j
+        o
+        h
+        n
+        )
+        )
+      
+    
+    {\displaystyle \exists Q(Q(mary)\land Q(john))}
+  ". In this case, the existential quantifier is applied to the predicate variable "
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  ". The added expressive power is especially useful for mathematics since it allows for more succinct formulations of mathematical theories. But it has various drawbacks in regard to its meta-logical properties and ontological implications, which is why first-order logic is still much more widely used.
+
+
+=== Deviant ===
+A great variety of deviant logics have been proposed. One major paradigm is intuitionistic logic, which rejects the law of the excluded middle. Intuitionism was developed by the Dutch mathematicians L.E.J. Brouwer and Arend Heyting to underpin their constructive approach to mathematics, in which the existence of a mathematical object can only be proven by constructing it. Intuitionism was further pursued by Gerhard Gentzen, Kurt Gödel, Michael Dummett, among others. Intuitionistic logic is of great interest to computer scientists, as it is a constructive logic and sees many applications, such as extracting verified programs from proofs and influencing the design of programming languages through the formulae-as-types correspondence. It is closely related to nonclassical systems such as Gödel–Dummett logic and inquisitive logic.Multi-valued logics depart from classicality by rejecting the principle of bivalence which requires all propositions to be either true or false. For instance, Jan Łukasiewicz and Stephen Cole Kleene both proposed ternary logics which have a third truth value representing that a statement's truth value is indeterminate.  These logics have seen applications including to presupposition in linguistics. Fuzzy logics are multivalued logics that have an infinite number of "degrees of truth", represented by a real number between 0 and 1.Paraconsistent logics are logical systems that can deal with contradictions. They are formulated to avoid the principle of explosion: for them, it is not the case that anything follows from a contradiction. They are often motivated by dialetheism , the view that contradictions are real or that reality itself is contradictory. Graham Priest is an important contemporary proponent of this position and similar views have been ascribed to Georg Wilhelm Friedrich Hegel.
+
+
+=== Informal ===
+The pragmatic or dialogical approach to informal logic sees arguments as speech acts and not merely as a set of premises together with a conclusion. As speech acts, they occur in a certain context, like a dialogue, which affects the standards of right and wrong arguments. A prominent version by Douglas N. Walton understands a dialogue as a game between two players. The initial position of each player is characterized by the propositions to which they are committed and the conclusion they intend to prove. Dialogues are games of persuasion: each player has the goal of convincing the opponent of their own conclusion. This is achieved by making arguments: arguments are the moves of the game. They affect to which propositions the players are committed. A winning move is a successful argument that takes the opponent's commitments as premises and shows how one's own conclusion follows from them. This is usually not possible straight away. For this reason, it is normally necessary to formulate a sequence of arguments as intermediary steps, each of which brings the opponent a little closer to one's intended conclusion. Besides these positive arguments leading one closer to victory, there are also negative arguments preventing the opponent's victory by denying their conclusion. Whether an argument is correct depends on whether it promotes the progress of the dialogue. Fallacies, on the other hand, are violations of the standards of proper argumentative rules. These standards also depend on the type of dialogue: in the context of science, the dialogue rules are different from the rules in the context of negotiation.The epistemic approach to informal logic, on the other hand, focuses on the epistemic role of arguments. It is based on the idea that arguments aim to increase our knowledge. They achieve this by linking justified beliefs to beliefs that are not yet justified. Correct arguments succeed at expanding knowledge while fallacies are epistemic failures: they do not justify the belief in their conclusion. In this sense, logical normativity consists in epistemic success or rationality. For example, the fallacy of begging the question is a fallacy because it fails to provide independent justification for its conclusion, even though it is deductively valid. The Bayesian approach is one example of an epistemic approach. Central to Bayesianism is not just whether the agent believes something but the degree to which they believe it, the so-called credence. Degrees of belief are understood as subjective probabilities in the believed proposition, i.e. as how certain the agent is that the proposition is true. On this view, reasoning can be interpreted as a process of changing one's credences, often in reaction to new incoming information. Correct reasoning, and the arguments it is based on, follows the laws of probability, for example, the principle of conditionalization. Bad or irrational reasoning, on the other hand, violates these laws.
+
+
+== Areas of research ==
+Logic is studied in various fields. In many cases, this is done by applying its formal method to specific topics outside its scope, like to ethics or computer science. In other cases, logic itself is made the subject of research in another discipline. This can happen in diverse ways, like by investigating the philosophical presuppositions of fundamental logical concepts, by interpreting and analyzing logic through mathematical structures, or by studying and comparing abstract properties of formal logical systems.
+
+
+=== Philosophy of logic and philosophical logic ===
+
+Philosophy of logic is the philosophical discipline studying the scope and nature of logic. It investigates many presuppositions implicit in logic, like how to define its fundamental concepts or the metaphysical assumptions associated with them. It is also concerned with how to classify the different logical systems and considers the ontological commitments they incur. Philosophical logic is one important area within the philosophy of logic. It studies the application of logical methods to philosophical problems in fields like metaphysics, ethics, and epistemology. This application usually happens in the form of extended or deviant logical systems.
+
+
+=== Mathematical logic ===
+
+Mathematical logic is the study of logic within mathematics. Major subareas include model theory, proof theory, set theory, and computability theory.Research in mathematical logic commonly addresses the mathematical properties of formal systems of logic. However, it can also include attempts to use logic to analyze mathematical reasoning or to establish logic-based foundations of mathematics. The latter was a major concern in early 20th century mathematical logic, which pursued the program of logicism pioneered by philosopher-logicians such as Gottlob Frege and Bertrand Russell. Mathematical theories were supposed to be logical tautologies, and the programme was to show this by means of a reduction of mathematics to logic. The various attempts to carry this out met with failure, from the crippling of Frege's project in his Grundgesetze by Russell's paradox, to the defeat of Hilbert's program by Gödel's incompleteness theorems.
+Set theory originated in the study of the infinite by Georg Cantor, and it has been the source of many of the most challenging and important issues in mathematical logic, from Cantor's theorem, through the status of the Axiom of Choice and the question of the independence of the continuum hypothesis, to the modern debate on large cardinal axioms.
+Recursion theory captures the idea of computation in logical and arithmetic terms; its most classical achievements are the undecidability of the Entscheidungsproblem by Alan Turing, and his presentation of the Church–Turing thesis. Today recursion theory is mostly concerned with the more refined problem of complexity classes—when is a problem efficiently solvable?—and the classification of degrees of unsolvability.
+
+
+=== Computational logic ===
+
+In computer science, logic is studied as part of the theory of computation. Key areas of logic that are relevant to computing include computability theory, modal logic, and category theory. Early computer machinery was based on ideas from logic such as the lambda calculus. Computer scientists also apply concepts from logic to problems in computing and vice versa. For instance, modern artificial intelligence builds on logicians' work in argumentation theory, while automated theorem proving can assist logicians in finding and checking proofs. In logic programming languages such as Prolog, a program computes the consequences of logical axioms and rules to answer a query.
+
+
+=== Formal semantics of natural language ===
+
+Formal semantics is a subfield of both linguistics and philosophy which uses logic to analyze meaning in natural language. It is an empirical field which seeks to characterize the denotations of linguistic expressions and explain how those denotations are composed from the meanings of their parts. The field was developed by Richard Montague and Barbara Partee in the 1970s, and remains an active area of research. Central questions include scope, binding, and linguistic modality.
+
+
+== Epistemology of logic ==
+The epistemology of logic investigates how one knows that an argument is valid or that a proposition is logically true. This includes questions like how to justify that modus ponens is a valid rule of inference or that contradictions are false. The traditionally dominant view is that this form of logical understanding belongs to knowledge a priori. In this regard, it is often argued that the mind has a special faculty to examine relations between pure ideas and that this faculty is also responsible for apprehending logical truths. A similar approach understands the rules of logic in terms of linguistic conventions. On this view, the laws of logic are trivial since they are true by definition: they just express the meanings of the logical vocabulary.Important objections to the view that logic is knowable a priori were presented in the 20th century by W. V. Quine and Hilary Putnam. In his paper "Is Logic Empirical?",  Putnam builds on a suggestion by Quine and argues that, in general, the facts of propositional logic have a similar epistemological status as facts about the physical universe. This pertains, for example, to the laws of mechanics or of general relativity, and in particular to what physicists have learned about quantum mechanics. According to Putnam, these insights provide a compelling case for abandoning certain familiar principles of classical logic: if one wants to be a realist about the physical phenomena described by quantum theory, then one should abandon the principle of distributivity, substituting for classical logic the quantum logic proposed by Garrett Birkhoff and John von Neumann.
+
+
+== History ==
+
+Logic was developed independently in several cultures during antiquity. One major early contributor was Aristotle, who developed term logic in his Organon and Prior Analytics. In this approach, judgements are broken down into propositions consisting of two terms that are related by one of a fixed number of relation. Inferences are expressed by means of syllogisms that consist of two propositions sharing a common term as premise, and a conclusion that is a proposition involving the two unrelated terms from the premises. Aristotle's monumental insight was the notion that arguments can be characterized in terms of their form. The later logician Łukasiewicz described this insight as "one of Aristotle's greatest inventions". Aristotle's system of logic was also responsible for the introduction of hypothetical syllogism, temporal modal logic, and inductive logic, as well as influential vocabulary such as terms, predicables, syllogisms and propositions. Aristotelian logic was highly regarded in classical and medieval times, both in Europe and the Middle East. It remained in wide use in the West until the early 19th century. It has now been superseded by later work, though many of its key insights live on in modern systems of logic.
+
+Ibn Sina (Avicenna) (980–1037 CE) was the founder of Avicennian logic, which replaced Aristotelian logic as the dominant system of logic in the Islamic world, and also had an important influence on Western medieval writers such as Albertus Magnus and William of Ockham. Ibn Sina wrote on the hypothetical syllogism and on the propositional calculus. He developed an original "temporally modalized" syllogistic theory, involving temporal logic and modal logic. He also made use of inductive logic, such as the methods of agreement, difference, and concomitant variation which are critical to the scientific method. Fakhr al-Din al-Razi (b. 1149) criticised Aristotle's "first figure" and formulated an early system of inductive logic, foreshadowing the system of inductive logic developed by John Stuart Mill (1806–1873).In Europe during the later medieval period, major efforts were made to show that Aristotle's ideas were compatible with Christian faith. During the High Middle Ages, logic became a main focus of philosophers, who would engage in critical logical analyses of philosophical arguments, often using variations of the methodology of scholasticism. Initially, medieval Christian scholars drew on the classics that had been preserved in Latin through commentaries by such figures such as Boethius, later the work of Islamic philosophers such as Ibn Sina and Ibn Rushd (Averroes 1126–1198 CE) were drawn on, which expanded the range of ancient works available to medieval Christian scholars since more Greek work was available to Muslim scholars that had been preserved in Latin commentaries. In 1323, William of Ockham's influential Summa Logicae was released. By the 18th century, the structured approach to arguments had degenerated and fallen out of favour, as depicted in Holberg's satirical play Erasmus Montanus. Friedrich Nietzsche criticized logic based on the claim that the logical structure of thought is a useful tool for human survival while "[l]ogic itself rests upon assumptions to which nothing in the world of reality corresponds".
+The Chinese logical philosopher Gongsun Long (c. 325–250 BCE) proposed the paradox "One and one cannot become two, since neither becomes two". In China, the tradition of scholarly investigation into logic, however, was repressed by the Qin dynasty following the legalist philosophy of Han Feizi.
+In India, the Anviksiki school of logic was founded by Medhātithi (c. 6th century BCE). Innovations in the scholastic school, called Nyaya, continued from ancient times into the early 18th century with the Navya-Nyāya school. By the 16th century, it developed theories resembling modern logic, such as Gottlob Frege's "distinction between sense and reference of proper names" and his "definition of number", as well as the theory of "restrictive conditions for universals" anticipating some of the developments in modern set theory. Since 1824, Indian logic attracted the attention of many Western scholars, and has had an influence on important 19th-century logicians such as Charles Babbage, Augustus De Morgan, and George Boole. In the 20th century, Western philosophers like Stanislaw Schayer and Klaus Glashoff have explored Indian logic more extensively.
+The syllogistic logic developed by Aristotle predominated in the West until the mid-19th century, when interest in the foundations of mathematics stimulated the development of symbolic logic (now called mathematical logic). In 1854, George Boole published The Laws of Thought, introducing symbolic logic and the principles of what is now known as Boolean logic. In 1879, Gottlob Frege published Begriffsschrift, which inaugurated modern logic with the invention of quantifier notation, reconciling the Aristotelian and Stoic logics in a broader system, and solving such problems for which Aristotelian logic was impotent, such as the problem of multiple generality. From 1910 to 1913, Alfred North Whitehead and Bertrand Russell published Principia Mathematica on the foundations of mathematics, attempting to derive mathematical truths from axioms and inference rules in symbolic logic. In 1931, Gödel raised serious problems with the foundationalist program and logic ceased to focus on such issues.
+The development of logic since Frege, Russell, and Wittgenstein had a profound influence on the practice of philosophy and the perceived nature of philosophical problems (see analytic philosophy) and philosophy of mathematics. Logic, especially sentential logic, is implemented in computer logic circuits and is fundamental to computer science. Logic is commonly taught by university philosophy, sociology, advertising and literature departments, often as a compulsory discipline.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Bibliography ===
+
+
+== External links ==
+
+"Logical calculus", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Introductions and tutorials
+"An Introduction to Philosophical Logic, by Paul Newall". Archived from the original on 3 April 2008. aimed at beginners.
+forall x: an introduction to formal logic, by P.D. Magnus, covers sentential and quantified logic.
+Logic Self-Taught: A Workbook (originally prepared for on-line logic instruction).
+Essays
+"Symbolic Logic" and "The Game of Logic", Lewis Carroll, 1896.
+Online Tools
+Interactive Syllogistic Machine A web-based syllogistic machine for exploring fallacies, figures, terms, and modes of syllogisms.
+A Logic Calculator A web-based application for evaluating simple statements in symbolic logic.
+Reference material
+Translation Tips, by Peter Suber, for translating from English into logical notation.
+Ontology and History of Logic. An Introduction with an annotated bibliography.
+

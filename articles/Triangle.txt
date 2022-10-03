@@ -1,0 +1,5115 @@
+####### TITLE #######
+
+Triangle
+
+####### LINKS #######
+
+['257-gon', '65537-gon', '90th meridian west', 'Absolute value', 'Acute and obtuse triangles', 'Acute triangle', 'Altitude (geometry)', 'Altitude (triangle)', 'American Mathematical Monthly', 'Angle', 'Angle bisector', 'Angle trisector', 'Antiparallelogram', 'Apeirogon', "Apollonius' theorem", 'Architect', 'Area', 'Aryabhata', 'Aryabhatiya', 'Astronomy', 'Barycentric coordinates (mathematics)', 'Bicentric quadrilateral', 'Bisection', 'Bricks', 'Broadway (Manhattan)', 'Cantilever', "Carnot's theorem (inradius, circumradius)", 'Cartesian coordinate system', 'Cartesian coordinates', 'Cartesian plane', 'Center of mass', 'Centroid', "Ceva's theorem", 'Chiliagon', 'Circle', 'Circumcenter', 'Circumcircle', 'Circumradius', 'Collinearity', 'Complementary angles', 'Compositional inverse', 'Concave polygon', 'Concurrent lines', 'Congruence (geometry)', 'Conic', 'Construction', 'Convex polygon', 'Coxeter–Dynkin diagram', 'Cross product', 'Crossed quadrilateral', 'Cyclic polygon', 'Cyclic quadrilateral', 'Decagon', 'Decagram (geometry)', 'Degeneracy (mathematics)', 'Degree (angle)', "Desargues' theorem", 'Determinant', 'Digon', 'Dihedral symmetry', 'Dimension', 'Dodecagon', 'Dodecagram', 'Doi (identifier)', 'Dot product', "Dragon's Eye (symbol)", 'Earthquake', 'Edge (geometry)', 'Ellipse', 'Encyclopedia of Mathematics', 'Encyclopedia of Triangle Centers', 'Enneagram (geometry)', 'Equiangular polygon', 'Equidiagonal quadrilateral', 'Equilateral polygon', 'Equilateral triangle', 'Eric W. Weisstein', 'Euclid', "Euclid's Elements", 'Euclidean geometry', 'Euclidean plane', 'Euclidean space', 'Euclidean vector', "Euler's line", "Euler's theorem in geometry", 'Euler diagram', 'European Mathematical Society', 'Ex-tangential quadrilateral', 'Excircle', 'Excircles', 'Exterior angle', 'Exterior angle theorem', 'Extouch triangle', 'Fermat point', 'Finite subdivision rule', 'Flatiron Building', 'Geodesy', 'Geometry', 'Gergonne triangle', 'Great circle', 'Greek language', 'Hadwiger–Finsler inequality', 'Harmonic quadrilateral', 'Hatch mark', 'Hendecagon', 'Hendecagram', 'Heptadecagon', 'Heptagon', 'Heptagram', "Heron's formula", 'Heronian triangle', 'Hexadecagon', 'Hexagon', 'Hexagram', 'Hyperbolic geometry', 'Hyperbolic triangle', 'Hypotenuse', 'ISBN (identifier)', 'Icosagon', 'Icositetragon', 'Icositrigon', 'Ideal triangle', 'If and only if', 'Incenter', 'Incircle', 'Infinite skew polygon', 'Inradius', 'Integer triangle', 'Internal angle', 'Internet Archive', 'Inverse trigonometric functions', 'Isogonal figure', 'Isosceles trapezoid', 'Isosceles triangle', 'Isosceles triangle theorem', 'Isotoxal figure', 'JSTOR (identifier)', 'Kepler triangle', 'Kiepert hyperbola', 'Kite (geometry)', 'Lattice graph', 'Law of cosines', 'Law of sines', 'Law of tangents', 'Lemoine hexagon', "Lester's theorem", 'Lie algebra', 'Line integral', 'List of planar symmetry groups', 'List of polygons', 'List of triangle inequalities', 'List of triangle topics', 'Literal translation', 'Magic polygon', 'Mandart inellipse', "Marden's theorem", 'MathWorld', 'Mathematical Gazette', 'Mathematics Magazine', 'Median (geometry)', 'Megagon', "Menelaus' theorem", 'Midpoint', 'Midpoint triangle', 'Mnemonic', 'Modern triangle geometry', 'Monogon', "Morley's trisector theorem", 'Multiplicative inverse', 'Myriagon', 'Nature', 'Navigation', 'Necessary and sufficient condition', 'New York City', 'Nine-point circle', 'Nonagon', 'North Pole', 'Norway', 'Oblique triangle', 'Obtuse triangle', 'Octadecagon', 'Octagon', 'Octagram', "Ono's inequality", 'Orthocenter', 'Orthocentric system', 'Orthodiagonal quadrilateral', 'Orthogonality', 'Oxford University Press', "Oxford Users' Guide to Mathematics", 'Parallel postulate', 'Parallelogram', 'Pedal triangle', "Pedoe's inequality", 'Pentadecagon', 'Pentagon', 'Pentagram', "Pick's theorem", 'Plane (geometry)', 'Plane (mathematics)', 'Plane figure', 'Polar coordinates', 'Polygon', 'Polytope', 'Prime meridian', 'Pseudotriangle', 'Pythagorean sum', 'Pythagorean theorem', 'Pythagorean triple', 'Quadrilateral', 'Rectangle', 'Regular polygon', 'Reinhardt polygon', 'Rhombus', 'Right kite', 'Right trapezoid', 'Right triangle', 'Romanization of Greek', 'Saddle surface', 'Schläfli symbol', 'Semiperimeter', 'Shape', 'Shoelace formula', 'Similar triangles', 'Similarity (geometry)', 'Simple polygon', 'Simplex', 'Skew polygon', 'Solution of triangles', 'Space frame', 'Special right triangles', 'Sphere', 'Spherical geometry', 'Spherical triangle', 'Square', 'Star-shaped polygon', 'Star polygon', 'Steiner ellipse', 'Steiner inellipse', 'Sum of angles of a triangle', 'Supplementary angle', 'Symmedian', 'Symmedian point', 'Tally marks', 'Tangent line', 'Tangential polygon', 'Tangential quadrilateral', 'Tangential trapezoid', 'Tangential triangle', 'Tessellation', 'Tetradecagon', 'Tetrakis square tiling', "Thales' theorem", 'The Secrets of Triangles', 'Theorem', 'Trapezoid', 'Triacontagon', 'Triangle (disambiguation)', 'Triangle center', 'Triangle inequality', 'Triangular number', 'Triangular prism', 'Triangulated category', 'Triangulation (topology)', 'Tridecagon', 'Trigonometric function', 'Trigonometric functions', 'Trigonometry', 'Trilinear coordinates', 'Truss', 'Vector (geometric)', 'Vertex (geometry)', 'Walter Eugene Clark']
+
+####### CATEGORIES #######
+
+['Articles containing Greek-language text', 'Articles with BNF identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'CS1 maint: numeric names: authors list', 'Commons category link is on Wikidata', 'Harv and Sfn no-target errors', 'Short description is different from Wikidata', 'Triangles', 'Use dmy dates from August 2014', 'Wikipedia indefinitely move-protected pages', 'Wikipedia pages semi-protected against vandalism']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/c/c3/CDel_3.png', 'https://upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png', 'https://upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png', 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Euclid3a.gif', 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Euler_diagram_of_triangle_types.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a3/Morley_triangle.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/d2/Pythagorean.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Regular_polygon_3_annotated.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/92/Remint3.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Tri_plus_angle.png', 'https://upload.wikimedia.org/wikipedia/commons/e/ed/Triangle.Acute.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Triangle.Centroid.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/74/Triangle.Circumcenter.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/96/Triangle.Equilateral.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/65/Triangle.EulerLine.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Triangle.GeometryArea.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Triangle.GeometryArea_-_2.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0c/Triangle.Incircle.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/14/Triangle.Isosceles.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Triangle.NinePointCircle.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/05/Triangle.Obtuse.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/93/Triangle.Orthocenter.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/93/Triangle.Scalene.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/63/Triangle.TrigArea.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/45/Triangle_illustration.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Triangle_sommeangles.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/49/Triangle_with_notations_2.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/7e/Trigonometry_triangle.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg']
+
+####### REFERENCES #######
+
+['http://www.architectureweek.com/2010/1215/design_2-1.html', 'http://www.artofproblemsolving.com/Wiki/index.php/Circumradius', 'http://www.boston.com/bostonglobe/ideas/articles/2011/03/13/building_a_better_brick/', 'http://archrecord.construction.com/features/digital/archives/0508dignews-1.asp', 'http://archrecord.construction.com/projects/bts/archives/civic/06_prairieridge/default.asp', 'http://archrecord.construction.com/projects/portfolio/archives/0907chapel-1.asp', 'http://articles.latimes.com/1989-11-10/business/fi-1169_1_stories-tokyo-design', 'http://mathworld.wolfram.com/LawofTangents.html', 'http://mathworld.wolfram.com/TriangleCircumscribing.html', 'http://aleph0.clarku.edu/~djoyce/java/elements/bookI/propI32.html', 'http://www.clarku.edu/~djoyce/trig/laws.html', 'http://forumgeom.fau.edu/FG2004volume4/FG200425.pdf', 'http://forumgeom.fau.edu/FG2013volume13/FG201311index.html', 'http://forumgeom.fau.edu/FG2016volume16/FG201634.pdf', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007548775205171', 'http://doi.org/10.2307%2F2686282', 'http://www.jstor.org/stable/2686282', 'http://mathdl.maa.org/mathDL/22/?pa=content&sa=viewDocument&nodeId=3338&pf=1', 'http://www.maa.org/pubs/Calc_articles/ma063.pdf', 'http://data.perseus.org/citations/urn:cts:greekLit:tlg1799.tlg001.perseus-grc1:1.def.20', 'https://www.mathsisfun.com/triangle.html', 'https://www.nytimes.com/2010/05/26/realestate/commercial/26flatiron.html', 'https://math.stackexchange.com/q/269544', 'https://mathworld.wolfram.com/EquilateralTriangle.html', 'https://mathworld.wolfram.com/IsoscelesTriangle.html', 'https://mathworld.wolfram.com/ScaleneTriangle.html', 'https://mathworld.wolfram.com/Triangle.html', 'https://mathworld.wolfram.com/TriangleArea.html', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph126753&CON_LNG=ENG', 'https://catalogue.bnf.fr/ark:/12148/cb11946969k', 'https://data.bnf.fr/ark:/12148/cb11946969k', 'https://id.loc.gov/authorities/subjects/sh85137407', 'https://archive.org/details/oxfordusersguide00ezei/page/n751', 'https://archive.org/stream/The_Aryabhatiya_of_Aryabhata_Clark_1930#page/n1/mode/2up', 'https://web.archive.org/web/20031105063724/http://www.maa.org/pubs/Calc_articles/ma063.pdf', 'https://web.archive.org/web/20120419171900/http://faculty.evansville.edu/ck6/encyclopedia/ETC.html', 'https://web.archive.org/web/20130620011530/http://www.artofproblemsolving.com/Wiki/index.php/Circumradius', 'https://www.encyclopediaofmath.org/index.php?title=Triangle', 'https://www.wikidata.org/wiki/Q19821#identifiers']
+
+####### SUMMARY #######
+
+A triangle is a polygon with three edges and three vertices. It is one of the basic shapes in geometry. A triangle with vertices A, B, and C is denoted 
+  
+    
+      
+        △
+        A
+        B
+        C
+      
+    
+    {\displaystyle \triangle ABC}
+  .
+In Euclidean geometry, any three points, when non-collinear, determine a unique triangle and simultaneously, a unique plane (i.e. a two-dimensional Euclidean space). In other words, there is only one plane that contains that triangle, and every triangle is contained in some plane. If the entire geometry is only the Euclidean plane, there is only one plane and all triangles are contained in it; however, in higher-dimensional Euclidean spaces, this is no longer true. This article is about triangles in Euclidean geometry, and in particular, the Euclidean plane, except where otherwise noted.
+
+####### CONTENT #######
+
+A triangle is a polygon with three edges and three vertices. It is one of the basic shapes in geometry. A triangle with vertices A, B, and C is denoted 
+  
+    
+      
+        △
+        A
+        B
+        C
+      
+    
+    {\displaystyle \triangle ABC}
+  .
+In Euclidean geometry, any three points, when non-collinear, determine a unique triangle and simultaneously, a unique plane (i.e. a two-dimensional Euclidean space). In other words, there is only one plane that contains that triangle, and every triangle is contained in some plane. If the entire geometry is only the Euclidean plane, there is only one plane and all triangles are contained in it; however, in higher-dimensional Euclidean spaces, this is no longer true. This article is about triangles in Euclidean geometry, and in particular, the Euclidean plane, except where otherwise noted.
+
+
+== Types of triangle ==
+
+The terminology for categorizing triangles is more than two thousand years old, having been defined on the very first page of Euclid's Elements. The names used for modern classification are either a direct transliteration of Euclid's Greek or their Latin translations.
+
+
+=== By lengths of sides ===
+Ancient Greek mathematician Euclid defined three types of triangle according to the lengths of their sides:
+Greek: τῶν δὲ τριπλεύρων σχημάτων ἰσόπλευρον μὲν τρίγωνόν ἐστι τὸ τὰς τρεῖς ἴσας ἔχον πλευράς, ἰσοσκελὲς δὲ τὸ τὰς δύο μόνας ἴσας ἔχον πλευράς, σκαληνὸν δὲ τὸ τὰς τρεῖς ἀνίσους ἔχον πλευράς, lit. 'Of trilateral figures, an isopleuron [equilateral] triangle is that which has its three sides equal, an isosceles that which has two of its sides alone equal, and a scalene that which has its three sides unequal.'
+An equilateral triangle (Greek: ἰσόπλευρον, romanized: isópleuron, lit. 'equal sides') has three sides of the same length. An equilateral triangle is also a regular polygon with all angles measuring 60°.
+An isosceles triangle (Greek: ἰσοσκελὲς, romanized: isoskelés, lit. 'equal legs') has two sides of equal length. An isosceles triangle also has two angles of the same measure, namely the angles opposite to the two sides of the same length. This fact is the content of the isosceles triangle theorem, which was known by Euclid. Some mathematicians define an isosceles triangle to have exactly two equal sides, whereas others define an isosceles triangle as one with at least two equal sides. The latter definition would make all equilateral triangles isosceles triangles. The 45–45–90 right triangle, which appears in the tetrakis square tiling, is isosceles.
+A scalene triangle (Greek: σκαληνὸν, romanized: skalinón, lit. 'unequal') has all its sides of different lengths. Equivalently, it has all angles of different measure.
+		
+		
+Hatch marks, also called tick marks, are used in diagrams of triangles and other geometric figures to identify sides of equal lengths. A side can be marked with a pattern of "ticks", short line segments in the form of tally marks; two sides have equal lengths if they are both marked with the same pattern. In a triangle, the pattern is usually no more than 3 ticks. An equilateral triangle has the same pattern on all 3 sides, an isosceles triangle has the same pattern on just 2 sides, and a scalene triangle has different patterns on all sides since no sides are equal.
+Similarly, patterns of 1, 2, or 3 concentric arcs inside the angles are used to indicate equal angles: an equilateral triangle has the same pattern on all 3 angles, an isosceles triangle has the same pattern on just 2 angles, and a scalene triangle has different patterns on all angles, since no angles are equal.
+
+
+=== By internal angles ===
+
+Triangles can also be classified according to their internal angles, measured here in degrees.
+
+A right triangle (or right-angled triangle) has one of its interior angles measuring 90° (a right angle). The side opposite to the right angle is the hypotenuse, the longest side of the triangle. The other two sides are called the legs or catheti (singular: cathetus) of the triangle. Right triangles obey the Pythagorean theorem: the sum of the squares of the lengths of the two legs is equal to the square of the length of the hypotenuse: a2 + b2 = c2, where a and b are the lengths of the legs and c is the length of the hypotenuse. Special right triangles are right triangles with additional properties that make calculations involving them easier. One of the two most famous is the 3–4–5 right triangle, where 32 + 42 = 52. The 3–4–5 triangle is also known as the Egyptian triangle. In this situation, 3, 4, and 5 are a Pythagorean triple. The other one is an isosceles triangle that has 2 angles measuring 45 degrees (45–45–90 triangle).
+Triangles that do not have an angle measuring 90° are called oblique triangles.
+A triangle with all interior angles measuring less than 90° is an acute triangle or acute-angled triangle. If c is the length of the longest side, then a2 + b2 > c2, where a and b are the lengths of the other sides.
+A triangle with one interior angle measuring more than 90° is an obtuse triangle or obtuse-angled triangle. If c is the length of the longest side, then a2 + b2 < c2, where a and b are the lengths of the other sides.
+A triangle with an interior angle of 180° (and collinear vertices) is degenerate. A right degenerate triangle has collinear vertices, two of which are coincident.A triangle that has two angles with the same measure also has two sides with the same length, and therefore it is an isosceles triangle. It follows that in a triangle where all angles have the same measure, all three sides have the same length, and therefore is equilateral.
+
+
+== Basic facts ==
+
+Triangles are assumed to be two-dimensional plane figures, unless the context provides otherwise (see Non-planar triangles, below). In rigorous treatments, a triangle is therefore called a 2-simplex (see also Polytope). Elementary facts about triangles were presented by Euclid, in books 1–4 of his Elements, written around 300 BC.
+
+The sum of the measures of the interior angles of a triangle in Euclidean space is always 180 degrees. This fact is equivalent to Euclid's parallel postulate. This allows determination of the measure of the third angle of any triangle, given the measure of two angles. An exterior angle of a triangle is an angle that is a linear pair (and hence supplementary) to an interior angle. The measure of an exterior angle of a triangle is equal to the sum of the measures of the two interior angles that are not adjacent to it; this is the exterior angle theorem. The sum of the measures of the three exterior angles (one for each vertex) of any triangle is 360 degrees.
+
+
+=== Similarity and congruence ===
+Two triangles are said to be similar, if every angle of one triangle has the same measure as the corresponding angle in the other triangle. The corresponding sides of similar triangles have lengths that are in the same proportion, and this property is also sufficient to establish similarity.
+Some basic theorems about similar triangles are:
+
+If and only if one pair of internal angles of two triangles have the same measure as each other, and another pair also have the same measure as each other, the triangles are similar.
+If and only if one pair of corresponding sides of two triangles are in the same proportion as are another pair of corresponding sides, and their included angles have the same measure, then the triangles are similar. (The included angle for any two sides of a polygon is the internal angle between those two sides.)
+If and only if three pairs of corresponding sides of two triangles are all in the same proportion, then the triangles are similar.Two triangles that are congruent have exactly the same size and shape: all pairs of corresponding interior angles are equal in measure, and all pairs of corresponding sides have the same length. (This is a total of six equalities, but three are often sufficient to prove congruence.)
+Some individually necessary and sufficient conditions for a pair of triangles to be congruent are:
+
+SAS Postulate: Two sides in a triangle have the same length as two sides in the other triangle, and the included angles have the same measure.
+ASA: Two interior angles and the included side in a triangle have the same measure and length, respectively, as those in the other triangle. (The included side for a pair of angles is the side that is common to them.)
+SSS: Each side of a triangle has the same length as a corresponding side of the other triangle.
+AAS: Two angles and a corresponding (non-included) side in a triangle have the same measure and length, respectively, as those in the other triangle. (This is sometimes referred to as AAcorrS and then includes ASA above.)Some individually sufficient conditions are:
+
+Hypotenuse-Leg (HL) Theorem: The hypotenuse and a leg in a right triangle have the same length as those in another right triangle. This is also called RHS (right-angle, hypotenuse, side).
+Hypotenuse-Angle Theorem: The hypotenuse and an acute angle in one right triangle have the same length and measure, respectively, as those in the other right triangle. This is just a particular case of the AAS theorem.An important condition is:
+
+Side-Side-Angle (or Angle-Side-Side) condition: If two sides and a corresponding non-included angle of a triangle have the same length and measure, respectively, as those in another triangle, then this is not sufficient to prove congruence; but if the angle given is opposite to the longer side of the two sides, then the triangles are congruent. The Hypotenuse-Leg Theorem is a particular case of this criterion. The Side-Side-Angle condition does not by itself guarantee that the triangles are congruent because one triangle could be obtuse-angled and the other acute-angled.Using right triangles and the concept of similarity, the trigonometric functions sine and cosine can be defined. These are functions of an angle which are investigated in trigonometry.
+
+
+=== Right triangles ===
+
+A central theorem is the Pythagorean theorem, which states in any right triangle, the square of the length of the hypotenuse equals the sum of the squares of the lengths of the two other sides. If the hypotenuse has length c, and the legs have lengths a and b, then the theorem states that
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        =
+        
+          c
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle a^{2}+b^{2}=c^{2}.}
+  The converse is true: if the lengths of the sides of a triangle satisfy the above equation, then the triangle has a right angle opposite side c.
+Some other facts about right triangles:
+
+The acute angles of a right triangle are complementary.
+  
+    
+      
+        a
+        +
+        b
+        +
+        
+          90
+          
+            ∘
+          
+        
+        =
+        
+          180
+          
+            ∘
+          
+        
+        ⇒
+        a
+        +
+        b
+        =
+        
+          90
+          
+            ∘
+          
+        
+        ⇒
+        a
+        =
+        
+          90
+          
+            ∘
+          
+        
+        −
+        b
+        .
+      
+    
+    {\displaystyle a+b+90^{\circ }=180^{\circ }\Rightarrow a+b=90^{\circ }\Rightarrow a=90^{\circ }-b.}
+  If the legs of a right triangle have the same length, then the angles opposite those legs have the same measure. Since these angles are complementary, it follows that each measures 45 degrees. By the Pythagorean theorem, the length of the hypotenuse is the length of a leg times √2.
+In a right triangle with acute angles measuring 30 and 60 degrees, the hypotenuse is twice the length of the shorter side, and the longer side is equal to the length of the shorter side times √3:
+  
+    
+      
+        c
+        =
+        2
+        a
+        
+      
+    
+    {\displaystyle c=2a\,}
+  
+
+  
+    
+      
+        b
+        =
+        a
+        ×
+        
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle b=a\times {\sqrt {3}}.}
+  For all triangles, angles and sides are related by the law of cosines and law of sines (also called the cosine rule and sine rule).
+
+
+== Existence of a triangle ==
+
+
+=== Condition on the sides ===
+The triangle inequality states that the sum of the lengths of any two sides of a triangle must be greater than or equal to the length of the third side. That sum can equal the length of the third side only in the case of a degenerate triangle, one with collinear vertices. It is not possible for that sum to be less than the length of the third side. A triangle with three given positive side lengths exists if and only if those side lengths satisfy the triangle inequality.
+
+
+=== Conditions on the angles ===
+Three given angles form a non-degenerate triangle (and indeed an infinitude of them) if and only if both of these conditions hold: (a) each of the angles is positive, and (b) the angles sum to 180°. If degenerate triangles are permitted, angles of 0° are permitted.
+
+
+==== Trigonometric conditions ====
+Three positive angles α, β, and γ, each of them less than 180°, are the angles of a triangle if and only if any one of the following conditions holds:
+
+  
+    
+      
+        tan
+        ⁡
+        
+          
+            α
+            2
+          
+        
+        tan
+        ⁡
+        
+          
+            β
+            2
+          
+        
+        +
+        tan
+        ⁡
+        
+          
+            β
+            2
+          
+        
+        tan
+        ⁡
+        
+          
+            γ
+            2
+          
+        
+        +
+        tan
+        ⁡
+        
+          
+            γ
+            2
+          
+        
+        tan
+        ⁡
+        
+          
+            α
+            2
+          
+        
+        =
+        1
+        ,
+      
+    
+    {\displaystyle \tan {\frac {\alpha }{2}}\tan {\frac {\beta }{2}}+\tan {\frac {\beta }{2}}\tan {\frac {\gamma }{2}}+\tan {\frac {\gamma }{2}}\tan {\frac {\alpha }{2}}=1,}
+  
+  
+    
+      
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        
+          
+            α
+            2
+          
+        
+        +
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        
+          
+            β
+            2
+          
+        
+        +
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        
+          
+            γ
+            2
+          
+        
+        +
+        2
+        sin
+        ⁡
+        
+          
+            α
+            2
+          
+        
+        sin
+        ⁡
+        
+          
+            β
+            2
+          
+        
+        sin
+        ⁡
+        
+          
+            γ
+            2
+          
+        
+        =
+        1
+        ,
+      
+    
+    {\displaystyle \sin ^{2}{\frac {\alpha }{2}}+\sin ^{2}{\frac {\beta }{2}}+\sin ^{2}{\frac {\gamma }{2}}+2\sin {\frac {\alpha }{2}}\sin {\frac {\beta }{2}}\sin {\frac {\gamma }{2}}=1,}
+  
+  
+    
+      
+        sin
+        ⁡
+        (
+        2
+        α
+        )
+        +
+        sin
+        ⁡
+        (
+        2
+        β
+        )
+        +
+        sin
+        ⁡
+        (
+        2
+        γ
+        )
+        =
+        4
+        sin
+        ⁡
+        (
+        α
+        )
+        sin
+        ⁡
+        (
+        β
+        )
+        sin
+        ⁡
+        (
+        γ
+        )
+        ,
+      
+    
+    {\displaystyle \sin(2\alpha )+\sin(2\beta )+\sin(2\gamma )=4\sin(\alpha )\sin(\beta )\sin(\gamma ),}
+  
+  
+    
+      
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        α
+        +
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        β
+        +
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        γ
+        +
+        2
+        cos
+        ⁡
+        (
+        α
+        )
+        cos
+        ⁡
+        (
+        β
+        )
+        cos
+        ⁡
+        (
+        γ
+        )
+        =
+        1
+        ,
+      
+    
+    {\displaystyle \cos ^{2}\alpha +\cos ^{2}\beta +\cos ^{2}\gamma +2\cos(\alpha )\cos(\beta )\cos(\gamma )=1,}
+  
+  
+    
+      
+        tan
+        ⁡
+        (
+        α
+        )
+        +
+        tan
+        ⁡
+        (
+        β
+        )
+        +
+        tan
+        ⁡
+        (
+        γ
+        )
+        =
+        tan
+        ⁡
+        (
+        α
+        )
+        tan
+        ⁡
+        (
+        β
+        )
+        tan
+        ⁡
+        (
+        γ
+        )
+        ,
+      
+    
+    {\displaystyle \tan(\alpha )+\tan(\beta )+\tan(\gamma )=\tan(\alpha )\tan(\beta )\tan(\gamma ),}
+  the last equality applying only if none of the angles is 90° (so the tangent function's value is always finite).
+
+
+== Points, lines, and circles associated with a triangle ==
+There are thousands of different constructions that find a special point associated with (and often inside) a triangle, satisfying some unique property: see the article Encyclopedia of Triangle Centers for a catalogue of them. Often they are constructed by finding three lines associated in a symmetrical way with the three sides (or vertices) and then proving that the three lines meet in a single point: an important tool for proving the existence of these is Ceva's theorem, which gives a criterion for determining when three such lines are concurrent. Similarly, lines associated with a triangle are often constructed by proving that three symmetrically constructed points are collinear: here Menelaus' theorem gives a useful general criterion. In this section just a few of the most commonly encountered constructions are explained.
+
+A perpendicular bisector of a side of a triangle is a straight line passing through the midpoint of the side and being perpendicular to it, i.e. forming a right angle with it. The three perpendicular bisectors meet in a single point, the triangle's circumcenter, usually denoted by O; this point is the center of the circumcircle, the circle passing through all three vertices. The diameter of this circle, called the circumdiameter, can be found from the law of sines stated above. The circumcircle's radius is called the circumradius.
+Thales' theorem implies that if the circumcenter is located on a side of the triangle, then the opposite angle is a right one. If the circumcenter is located inside the triangle, then the triangle is acute; if the circumcenter is located outside the triangle, then the triangle is obtuse.
+
+An altitude of a triangle is a straight line through a vertex and perpendicular to (i.e. forming a right angle with) the opposite side. This opposite side is called the base of the altitude, and the point where the altitude intersects the base (or its extension) is called the foot of the altitude. The length of the altitude is the distance between the base and the vertex. The three altitudes intersect in a single point, called the orthocenter of the triangle, usually denoted by H. The orthocenter lies inside the triangle if and only if the triangle is acute.
+
+An angle bisector of a triangle is a straight line through a vertex which cuts the corresponding angle in half. The three angle bisectors intersect in a single point, the incenter, usually denoted by I, the center of the triangle's incircle. The incircle is the circle which lies inside the triangle and touches all three sides. Its radius is called the inradius. There are three other important circles, the excircles; they lie outside the triangle and touch one side as well as the extensions of the other two. The centers of the in- and excircles form an orthocentric system.
+
+A median of a triangle is a straight line through a vertex and the midpoint of the opposite side, and divides the triangle into two equal areas. The three medians intersect in a single point, the triangle's centroid or geometric barycenter, usually denoted by G. The centroid of a rigid triangular object (cut out of a thin sheet of uniform density) is also its center of mass: the object can be balanced on its centroid in a uniform gravitational field. The centroid cuts every median in the ratio 2:1, i.e. the distance between a vertex and the centroid is twice the distance between the centroid and the midpoint of the opposite side.
+
+The midpoints of the three sides and the feet of the three altitudes all lie on a single circle, the triangle's nine-point circle. The remaining three points for which it is named are the midpoints of the portion of altitude between the vertices and the orthocenter. The radius of the nine-point circle is half that of the circumcircle. It touches the incircle (at the Feuerbach point) and the three excircles.
+
+The orthocenter (blue point), center of the nine-point circle (red), centroid (orange), and circumcenter (green) all lie on a single line, known as Euler's line (red line). The center of the nine-point circle lies at the midpoint between the orthocenter and the circumcenter, and the distance between the centroid and the circumcenter is half that between the centroid and the orthocenter.
+The center of the incircle is not in general located on Euler's line.
+If one reflects a median in the angle bisector that passes through the same vertex, one obtains a symmedian. The three symmedians intersect in a single point, the symmedian point of the triangle.
+
+
+== Computing the sides and angles ==
+There are various standard methods for calculating the length of a side or the measure of an angle. Certain methods are suited to calculating values in a right-angled triangle; more complex methods may be required in other situations.
+
+
+=== Trigonometric ratios in right triangles ===
+
+In right triangles, the trigonometric ratios of sine, cosine and tangent can be used to find unknown angles and the lengths of unknown sides. The sides of the triangle are known as follows:
+
+The hypotenuse is the side opposite the right angle, or defined as the longest side of a right-angled triangle, in this case h.
+The opposite side is the side opposite to the angle we are interested in, in this case a.
+The adjacent side is the side that is in contact with the angle we are interested in and the right angle, hence its name. In this case the adjacent side is b.
+
+
+==== Sine, cosine and tangent ====
+The sine of an angle is the ratio of the length of the opposite side to the length of the hypotenuse. In our case
+
+  
+    
+      
+        sin
+        ⁡
+        A
+        =
+        
+          
+            opposite side
+            hypotenuse
+          
+        
+        =
+        
+          
+            a
+            h
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \sin A={\frac {\text{opposite side}}{\text{hypotenuse}}}={\frac {a}{h}}\,.}
+  This ratio does not depend on the particular right triangle chosen, as long as it contains the angle A, since all those triangles are similar.
+The cosine of an angle is the ratio of the length of the adjacent side to the length of the hypotenuse. In our case
+
+  
+    
+      
+        cos
+        ⁡
+        A
+        =
+        
+          
+            adjacent side
+            hypotenuse
+          
+        
+        =
+        
+          
+            b
+            h
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \cos A={\frac {\text{adjacent side}}{\text{hypotenuse}}}={\frac {b}{h}}\,.}
+  The tangent of an angle is the ratio of the length of the opposite side to the length of the adjacent side. In our case
+
+  
+    
+      
+        tan
+        ⁡
+        A
+        =
+        
+          
+            opposite  side
+            adjacent side
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              A
+            
+            
+              cos
+              ⁡
+              A
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \tan A={\frac {\text{opposite  side}}{\text{adjacent side}}}={\frac {a}{b}}={\frac {\sin A}{\cos A}}\,.}
+  The acronym "SOH-CAH-TOA" is a useful mnemonic for these ratios.
+
+
+==== Inverse functions ====
+The inverse trigonometric functions can be used to calculate the internal angles for a right angled triangle with the length of any two sides.
+Arcsin can be used to calculate an angle from the length of the opposite side and the length of the hypotenuse.
+
+  
+    
+      
+        θ
+        =
+        arcsin
+        ⁡
+        
+          (
+          
+            
+              opposite side
+              hypotenuse
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \theta =\arcsin \left({\frac {\text{opposite side}}{\text{hypotenuse}}}\right)}
+  Arccos can be used to calculate an angle from the length of the adjacent side and the length of the hypotenuse.
+
+  
+    
+      
+        θ
+        =
+        arccos
+        ⁡
+        
+          (
+          
+            
+              adjacent side
+              hypotenuse
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \theta =\arccos \left({\frac {\text{adjacent side}}{\text{hypotenuse}}}\right)}
+  Arctan can be used to calculate an angle from the length of the opposite side and the length of the adjacent side.
+
+  
+    
+      
+        θ
+        =
+        arctan
+        ⁡
+        
+          (
+          
+            
+              opposite side
+              adjacent side
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \theta =\arctan \left({\frac {\text{opposite side}}{\text{adjacent side}}}\right)}
+  In introductory geometry and trigonometry courses, the notation sin−1, cos−1, etc., are often used in place of arcsin, arccos, etc. However, the arcsin, arccos, etc., notation is standard in higher mathematics where trigonometric functions are commonly raised to powers, as this avoids confusion between multiplicative inverse and compositional inverse.
+
+
+=== Sine, cosine and tangent rules ===
+
+The law of sines, or sine rule, states that the ratio of the length of a side to the sine of its corresponding opposite angle is constant, that is
+
+  
+    
+      
+        
+          
+            a
+            
+              sin
+              ⁡
+              α
+            
+          
+        
+        =
+        
+          
+            b
+            
+              sin
+              ⁡
+              β
+            
+          
+        
+        =
+        
+          
+            c
+            
+              sin
+              ⁡
+              γ
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {a}{\sin \alpha }}={\frac {b}{\sin \beta }}={\frac {c}{\sin \gamma }}.}
+  This ratio is equal to the diameter of the circumscribed circle of the given triangle. Another interpretation of this theorem is that every triangle with angles α, β and γ is similar to a triangle with side lengths equal to sin α, sin β and sin γ. This triangle can be constructed by first constructing a circle of diameter 1, and inscribing in it two of the angles of the triangle. The length of the sides of that triangle will be sin α, sin β and sin γ. The side whose length is sin α is opposite to the angle whose measure is α, etc.
+The law of cosines, or cosine rule, connects the length of an unknown side of a triangle to the length of the other sides and the angle opposite to the unknown side. As per the law:
+For a triangle with length of sides a, b, c and angles of α, β, γ respectively, given two known lengths of a triangle a and b, and the angle between the two known sides γ (or the angle opposite to the unknown side c), to calculate the third side c, the following formula can be used:
+
+  
+    
+      
+        
+          c
+          
+            2
+          
+        
+         
+        =
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        −
+        2
+        a
+        b
+        cos
+        ⁡
+        (
+        γ
+        )
+      
+    
+    {\displaystyle c^{2}\ =a^{2}+b^{2}-2ab\cos(\gamma )}
+  
+
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+         
+        =
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        −
+        2
+        a
+        c
+        cos
+        ⁡
+        (
+        β
+        )
+      
+    
+    {\displaystyle b^{2}\ =a^{2}+c^{2}-2ac\cos(\beta )}
+  
+
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+         
+        =
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        −
+        2
+        b
+        c
+        cos
+        ⁡
+        (
+        α
+        )
+      
+    
+    {\displaystyle a^{2}\ =b^{2}+c^{2}-2bc\cos(\alpha )}
+  If the lengths of all three sides of any triangle are known the three angles can be calculated:
+
+  
+    
+      
+        α
+        =
+        arccos
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  b
+                  
+                    2
+                  
+                
+                +
+                
+                  c
+                  
+                    2
+                  
+                
+                −
+                
+                  a
+                  
+                    2
+                  
+                
+              
+              
+                2
+                b
+                c
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \alpha =\arccos \left({\frac {b^{2}+c^{2}-a^{2}}{2bc}}\right)}
+  
+
+  
+    
+      
+        β
+        =
+        arccos
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                +
+                
+                  c
+                  
+                    2
+                  
+                
+                −
+                
+                  b
+                  
+                    2
+                  
+                
+              
+              
+                2
+                a
+                c
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \beta =\arccos \left({\frac {a^{2}+c^{2}-b^{2}}{2ac}}\right)}
+  
+
+  
+    
+      
+        γ
+        =
+        arccos
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                +
+                
+                  b
+                  
+                    2
+                  
+                
+                −
+                
+                  c
+                  
+                    2
+                  
+                
+              
+              
+                2
+                a
+                b
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \gamma =\arccos \left({\frac {a^{2}+b^{2}-c^{2}}{2ab}}\right)}
+  The law of tangents, or tangent rule, can be used to find a side or an angle when two sides and an angle or two angles and a side are known. It states that:
+
+  
+    
+      
+        
+          
+            
+              a
+              −
+              b
+            
+            
+              a
+              +
+              b
+            
+          
+        
+        =
+        
+          
+            
+              tan
+              ⁡
+              [
+              
+                
+                  1
+                  2
+                
+              
+              (
+              α
+              −
+              β
+              )
+              ]
+            
+            
+              tan
+              ⁡
+              [
+              
+                
+                  1
+                  2
+                
+              
+              (
+              α
+              +
+              β
+              )
+              ]
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {a-b}{a+b}}={\frac {\tan[{\frac {1}{2}}(\alpha -\beta )]}{\tan[{\frac {1}{2}}(\alpha +\beta )]}}.}
+  
+
+
+=== Solution of triangles ===
+  
+"Solution of triangles" is the main trigonometric problem: to find missing characteristics of a triangle (three angles, the lengths of the three sides etc.) when at least three of these characteristics are given.  The triangle can be located on a plane or on a sphere. This problem often occurs in various trigonometric applications, such as geodesy, astronomy, construction, navigation etc.
+
+
+== Computing the area of a triangle ==
+
+Calculating the area T of a triangle is an elementary problem encountered often in many different situations. The best known and simplest formula is:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        b
+        h
+        ,
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}bh,}
+  where b is the length of the base of the triangle, and h is the height or altitude of the triangle. The term "base" denotes any side, and "height" denotes the length of a perpendicular from the vertex opposite the base onto the line containing the base. In 499 CE Aryabhata, used this illustrated method in the Aryabhatiya (section 2.6).Although simple, this formula is only useful if the height can be readily found, which is not always the case. For example, the surveyor of a triangular field might find it relatively easy to measure the length of each side, but relatively difficult to construct a 'height'. Various methods may be used in practice, depending on what is known about the triangle. The following is a selection of frequently used formulae for the area of a triangle.
+
+
+=== Using trigonometry ===
+
+The height of a triangle can be found through the application of trigonometry.
+Knowing SAS: Using the labels in the image on the right, the altitude is h = a sin 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+  . Substituting this in the formula 
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        b
+        h
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}bh}
+    derived above, the area of the triangle can be expressed as:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        a
+        b
+        sin
+        ⁡
+        γ
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        b
+        c
+        sin
+        ⁡
+        α
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        c
+        a
+        sin
+        ⁡
+        β
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}ab\sin \gamma ={\tfrac {1}{2}}bc\sin \alpha ={\tfrac {1}{2}}ca\sin \beta }
+  (where α is the interior angle at A, β is the interior angle at B, 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   is the interior angle at C and c is the line AB).
+Furthermore, since sin α = sin (π − α) = sin (β + 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+  ), and similarly for the other two angles:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        a
+        b
+        sin
+        ⁡
+        (
+        α
+        +
+        β
+        )
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        b
+        c
+        sin
+        ⁡
+        (
+        β
+        +
+        γ
+        )
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        c
+        a
+        sin
+        ⁡
+        (
+        γ
+        +
+        α
+        )
+        .
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}ab\sin(\alpha +\beta )={\tfrac {1}{2}}bc\sin(\beta +\gamma )={\tfrac {1}{2}}ca\sin(\gamma +\alpha ).}
+  Knowing AAS:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              
+                b
+                
+                  2
+                
+              
+              (
+              sin
+              ⁡
+              α
+              )
+              (
+              sin
+              ⁡
+              (
+              α
+              +
+              β
+              )
+              )
+            
+            
+              2
+              sin
+              ⁡
+              β
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle T={\frac {b^{2}(\sin \alpha )(\sin(\alpha +\beta ))}{2\sin \beta }},}
+  and analogously if the known side is a or c.
+Knowing ASA:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              a
+              
+                2
+              
+            
+            
+              2
+              (
+              cot
+              ⁡
+              β
+              +
+              cot
+              ⁡
+              γ
+              )
+            
+          
+        
+        =
+        
+          
+            
+              
+                a
+                
+                  2
+                
+              
+              (
+              sin
+              ⁡
+              β
+              )
+              (
+              sin
+              ⁡
+              γ
+              )
+            
+            
+              2
+              sin
+              ⁡
+              (
+              β
+              +
+              γ
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle T={\frac {a^{2}}{2(\cot \beta +\cot \gamma )}}={\frac {a^{2}(\sin \beta )(\sin \gamma )}{2\sin(\beta +\gamma )}},}
+  and analogously if the known side is b or c.
+
+
+=== Using Heron's formula ===
+The shape of the triangle is determined by the lengths of the sides. Therefore, the area can also be derived from the lengths of the sides. By Heron's formula:
+
+  
+    
+      
+        T
+        =
+        
+          
+            s
+            (
+            s
+            −
+            a
+            )
+            (
+            s
+            −
+            b
+            )
+            (
+            s
+            −
+            c
+            )
+          
+        
+      
+    
+    {\displaystyle T={\sqrt {s(s-a)(s-b)(s-c)}}}
+  where 
+  
+    
+      
+        s
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        (
+        a
+        +
+        b
+        +
+        c
+        )
+      
+    
+    {\textstyle s={\tfrac {1}{2}}(a+b+c)}
+   is the semiperimeter, or half of the triangle's perimeter.
+Three other equivalent ways of writing Heron's formula are
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              4
+            
+          
+        
+        
+          
+            (
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+            +
+            
+              c
+              
+                2
+              
+            
+            
+              )
+              
+                2
+              
+            
+            −
+            2
+            (
+            
+              a
+              
+                4
+              
+            
+            +
+            
+              b
+              
+                4
+              
+            
+            +
+            
+              c
+              
+                4
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle T={\tfrac {1}{4}}{\sqrt {(a^{2}+b^{2}+c^{2})^{2}-2(a^{4}+b^{4}+c^{4})}}}
+  
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              4
+            
+          
+        
+        
+          
+            2
+            (
+            
+              a
+              
+                2
+              
+            
+            
+              b
+              
+                2
+              
+            
+            +
+            
+              a
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+            )
+            −
+            (
+            
+              a
+              
+                4
+              
+            
+            +
+            
+              b
+              
+                4
+              
+            
+            +
+            
+              c
+              
+                4
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle T={\tfrac {1}{4}}{\sqrt {2(a^{2}b^{2}+a^{2}c^{2}+b^{2}c^{2})-(a^{4}+b^{4}+c^{4})}}}
+  
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              4
+            
+          
+        
+        
+          
+            (
+            a
+            +
+            b
+            −
+            c
+            )
+            (
+            a
+            −
+            b
+            +
+            c
+            )
+            (
+            −
+            a
+            +
+            b
+            +
+            c
+            )
+            (
+            a
+            +
+            b
+            +
+            c
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle T={\tfrac {1}{4}}{\sqrt {(a+b-c)(a-b+c)(-a+b+c)(a+b+c)}}.}
+  
+
+
+=== Using vectors ===
+The area of a parallelogram embedded in a three-dimensional Euclidean space can be calculated using vectors. Let vectors AB and AC point respectively from A to B and from A to C. The area of parallelogram ABDC is then
+
+  
+    
+      
+        
+          |
+        
+        
+          A
+          B
+        
+        ×
+        
+          A
+          C
+        
+        
+          |
+        
+        ,
+      
+    
+    {\displaystyle |\mathbf {AB} \times \mathbf {AC} |,}
+  which is the magnitude of the cross product of vectors AB and AC. The area of triangle ABC is half of this,
+
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          |
+        
+        
+          A
+          B
+        
+        ×
+        
+          A
+          C
+        
+        
+          |
+        
+        .
+      
+    
+    {\displaystyle {\tfrac {1}{2}}|\mathbf {AB} \times \mathbf {AC} |.}
+  The area of triangle ABC can also be expressed in terms of dot products as follows:
+
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            (
+            
+              A
+              B
+            
+            ⋅
+            
+              A
+              B
+            
+            )
+            (
+            
+              A
+              C
+            
+            ⋅
+            
+              A
+              C
+            
+            )
+            −
+            (
+            
+              A
+              B
+            
+            ⋅
+            
+              A
+              C
+            
+            
+              )
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            
+              |
+            
+            
+              A
+              B
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+            
+              |
+            
+            
+              A
+              C
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+            −
+            (
+            
+              A
+              B
+            
+            ⋅
+            
+              A
+              C
+            
+            
+              )
+              
+                2
+              
+            
+          
+        
+        .
+        
+      
+    
+    {\displaystyle {\tfrac {1}{2}}{\sqrt {(\mathbf {AB} \cdot \mathbf {AB} )(\mathbf {AC} \cdot \mathbf {AC} )-(\mathbf {AB} \cdot \mathbf {AC} )^{2}}}={\tfrac {1}{2}}{\sqrt {|\mathbf {AB} |^{2}|\mathbf {AC} |^{2}-(\mathbf {AB} \cdot \mathbf {AC} )^{2}}}.\,}
+  In two-dimensional Euclidean space, expressing vector AB as a free vector in Cartesian space equal to (x1,y1) and AC as (x2,y2), this can be rewritten as:
+
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          |
+        
+        
+          x
+          
+            1
+          
+        
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          x
+          
+            2
+          
+        
+        
+          y
+          
+            1
+          
+        
+        
+          |
+        
+        .
+      
+    
+    {\displaystyle {\tfrac {1}{2}}|x_{1}y_{2}-x_{2}y_{1}|.}
+  
+
+
+=== Using coordinates ===
+If vertex A is located at the origin (0, 0) of a Cartesian coordinate system and the coordinates of the other two vertices are given by B = (xB, yB) and C = (xC, yC), then the area can be computed as 1⁄2 times the absolute value of the determinant
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          |
+          
+            det
+            
+              
+                (
+                
+                  
+                    
+                      
+                        x
+                        
+                          B
+                        
+                      
+                    
+                    
+                      
+                        x
+                        
+                          C
+                        
+                      
+                    
+                  
+                  
+                    
+                      
+                        y
+                        
+                          B
+                        
+                      
+                    
+                    
+                      
+                        y
+                        
+                          C
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+          |
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          |
+        
+        
+          x
+          
+            B
+          
+        
+        
+          y
+          
+            C
+          
+        
+        −
+        
+          x
+          
+            C
+          
+        
+        
+          y
+          
+            B
+          
+        
+        
+          |
+        
+        .
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}\left|\det {\begin{pmatrix}x_{B}&x_{C}\\y_{B}&y_{C}\end{pmatrix}}\right|={\tfrac {1}{2}}|x_{B}y_{C}-x_{C}y_{B}|.}
+  For three general vertices, the equation is:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          |
+          
+            det
+            
+              
+                (
+                
+                  
+                    
+                      
+                        x
+                        
+                          A
+                        
+                      
+                    
+                    
+                      
+                        x
+                        
+                          B
+                        
+                      
+                    
+                    
+                      
+                        x
+                        
+                          C
+                        
+                      
+                    
+                  
+                  
+                    
+                      
+                        y
+                        
+                          A
+                        
+                      
+                    
+                    
+                      
+                        y
+                        
+                          B
+                        
+                      
+                    
+                    
+                      
+                        y
+                        
+                          C
+                        
+                      
+                    
+                  
+                  
+                    
+                      1
+                    
+                    
+                      1
+                    
+                    
+                      1
+                    
+                  
+                
+                )
+              
+            
+          
+          |
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            |
+          
+        
+        
+          x
+          
+            A
+          
+        
+        
+          y
+          
+            B
+          
+        
+        −
+        
+          x
+          
+            A
+          
+        
+        
+          y
+          
+            C
+          
+        
+        +
+        
+          x
+          
+            B
+          
+        
+        
+          y
+          
+            C
+          
+        
+        −
+        
+          x
+          
+            B
+          
+        
+        
+          y
+          
+            A
+          
+        
+        +
+        
+          x
+          
+            C
+          
+        
+        
+          y
+          
+            A
+          
+        
+        −
+        
+          x
+          
+            C
+          
+        
+        
+          y
+          
+            B
+          
+        
+        
+          
+            |
+          
+        
+        ,
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}\left|\det {\begin{pmatrix}x_{A}&x_{B}&x_{C}\\y_{A}&y_{B}&y_{C}\\1&1&1\end{pmatrix}}\right|={\tfrac {1}{2}}{\big |}x_{A}y_{B}-x_{A}y_{C}+x_{B}y_{C}-x_{B}y_{A}+x_{C}y_{A}-x_{C}y_{B}{\big |},}
+  which can be written as
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            |
+          
+        
+        (
+        
+          x
+          
+            A
+          
+        
+        −
+        
+          x
+          
+            C
+          
+        
+        )
+        (
+        
+          y
+          
+            B
+          
+        
+        −
+        
+          y
+          
+            A
+          
+        
+        )
+        −
+        (
+        
+          x
+          
+            A
+          
+        
+        −
+        
+          x
+          
+            B
+          
+        
+        )
+        (
+        
+          y
+          
+            C
+          
+        
+        −
+        
+          y
+          
+            A
+          
+        
+        )
+        
+          
+            |
+          
+        
+        .
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}{\big |}(x_{A}-x_{C})(y_{B}-y_{A})-(x_{A}-x_{B})(y_{C}-y_{A}){\big |}.}
+  If the points are labeled sequentially in the counterclockwise direction, the above determinant expressions are positive and the absolute value signs can be omitted. The above formula is known as the shoelace formula or the surveyor's formula.
+If we locate the vertices in the complex plane and denote them in counterclockwise sequence as a = xA + yAi, b = xB + yBi, and c = xC + yCi, and denote their complex conjugates as 
+  
+    
+      
+        
+          
+            
+              a
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {a}}}
+  , 
+  
+    
+      
+        
+          
+            
+              b
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {b}}}
+  , and 
+  
+    
+      
+        
+          
+            
+              c
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle {\bar {c}}}
+  , then the formula
+
+  
+    
+      
+        T
+        =
+        
+          
+            i
+            4
+          
+        
+        
+          
+            |
+            
+              
+                
+                  a
+                
+                
+                  
+                    
+                      
+                        a
+                        ¯
+                      
+                    
+                  
+                
+                
+                  1
+                
+              
+              
+                
+                  b
+                
+                
+                  
+                    
+                      
+                        b
+                        ¯
+                      
+                    
+                  
+                
+                
+                  1
+                
+              
+              
+                
+                  c
+                
+                
+                  
+                    
+                      
+                        c
+                        ¯
+                      
+                    
+                  
+                
+                
+                  1
+                
+              
+            
+            |
+          
+        
+      
+    
+    {\displaystyle T={\frac {i}{4}}{\begin{vmatrix}a&{\bar {a}}&1\\b&{\bar {b}}&1\\c&{\bar {c}}&1\end{vmatrix}}}
+  is equivalent to the shoelace formula.
+In three dimensions, the area of a general triangle A = (xA, yA, zA), B = (xB, yB, zB) and C = (xC, yC, zC) is the Pythagorean sum of the areas of the respective projections on the three principal planes (i.e. x = 0, y = 0 and z = 0):
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            
+              
+                
+                  |
+                  
+                    
+                      
+                        
+                          x
+                          
+                            A
+                          
+                        
+                      
+                      
+                        
+                          x
+                          
+                            B
+                          
+                        
+                      
+                      
+                        
+                          x
+                          
+                            C
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          y
+                          
+                            A
+                          
+                        
+                      
+                      
+                        
+                          y
+                          
+                            B
+                          
+                        
+                      
+                      
+                        
+                          y
+                          
+                            C
+                          
+                        
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        1
+                      
+                      
+                        1
+                      
+                    
+                  
+                  |
+                
+              
+              
+                2
+              
+            
+            +
+            
+              
+                
+                  |
+                  
+                    
+                      
+                        
+                          y
+                          
+                            A
+                          
+                        
+                      
+                      
+                        
+                          y
+                          
+                            B
+                          
+                        
+                      
+                      
+                        
+                          y
+                          
+                            C
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          z
+                          
+                            A
+                          
+                        
+                      
+                      
+                        
+                          z
+                          
+                            B
+                          
+                        
+                      
+                      
+                        
+                          z
+                          
+                            C
+                          
+                        
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        1
+                      
+                      
+                        1
+                      
+                    
+                  
+                  |
+                
+              
+              
+                2
+              
+            
+            +
+            
+              
+                
+                  |
+                  
+                    
+                      
+                        
+                          z
+                          
+                            A
+                          
+                        
+                      
+                      
+                        
+                          z
+                          
+                            B
+                          
+                        
+                      
+                      
+                        
+                          z
+                          
+                            C
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          x
+                          
+                            A
+                          
+                        
+                      
+                      
+                        
+                          x
+                          
+                            B
+                          
+                        
+                      
+                      
+                        
+                          x
+                          
+                            C
+                          
+                        
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        1
+                      
+                      
+                        1
+                      
+                    
+                  
+                  |
+                
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}{\sqrt {{\begin{vmatrix}x_{A}&x_{B}&x_{C}\\y_{A}&y_{B}&y_{C}\\1&1&1\end{vmatrix}}^{2}+{\begin{vmatrix}y_{A}&y_{B}&y_{C}\\z_{A}&z_{B}&z_{C}\\1&1&1\end{vmatrix}}^{2}+{\begin{vmatrix}z_{A}&z_{B}&z_{C}\\x_{A}&x_{B}&x_{C}\\1&1&1\end{vmatrix}}^{2}}}.}
+  
+
+
+=== Using line integrals ===
+The area within any closed curve, such as a triangle, is given by the line integral around the curve of the algebraic or signed distance of a point on the curve from an arbitrary oriented straight line L. Points to the right of L as oriented are taken to be at negative distance from L, while the weight for the integral is taken to be the component of arc length parallel to L rather than arc length itself.
+This method is well suited to computation of the area of an arbitrary polygon. Taking L to be the x-axis, the line integral between consecutive vertices (xi,yi) and (xi+1,yi+1) is given by the base times the mean height, namely (xi+1 − xi)(yi + yi+1)/2. The sign of the area is an overall indicator of the direction of traversal, with negative area indicating counterclockwise traversal. The area of a triangle then falls out as the case of a polygon with three sides.
+While the line integral method has in common with other coordinate-based methods the arbitrary choice of a coordinate system, unlike the others it makes no arbitrary choice of vertex of the triangle as origin or of side as base. Furthermore, the choice of coordinate system defined by L commits to only two degrees of freedom rather than the usual three, since the weight is a local distance (e.g. xi+1 − xi in the above) whence the method does not require choosing an axis normal to L.
+When working in polar coordinates it is not necessary to convert to Cartesian coordinates to use line integration, since the line integral between consecutive vertices (ri,θi) and (ri+1,θi+1) of a polygon is given directly by riri+1sin(θi+1 − θi)/2. This is valid for all values of θ, with some decrease in numerical accuracy when |θ| is many orders of magnitude greater than π. With this formulation negative area indicates clockwise traversal, which should be kept in mind when mixing polar and cartesian coordinates. Just as the choice of y-axis (x = 0) is immaterial for line integration in cartesian coordinates, so is the choice of zero heading (θ = 0) immaterial here.
+
+
+=== Formulas resembling Heron's formula ===
+Three formulas have the same structure as Heron's formula but are expressed in terms of different variables. First, denoting the medians from sides a, b, and c respectively as ma, mb, and mc and their semi-sum (ma + mb + mc)/2 as σ, we have
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              4
+              3
+            
+          
+        
+        
+          
+            σ
+            (
+            σ
+            −
+            
+              m
+              
+                a
+              
+            
+            )
+            (
+            σ
+            −
+            
+              m
+              
+                b
+              
+            
+            )
+            (
+            σ
+            −
+            
+              m
+              
+                c
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle T={\tfrac {4}{3}}{\sqrt {\sigma (\sigma -m_{a})(\sigma -m_{b})(\sigma -m_{c})}}.}
+  Next, denoting the altitudes from sides a, b, and c respectively as ha, hb, and hc, and denoting the semi-sum of the reciprocals of the altitudes as 
+  
+    
+      
+        H
+        =
+        (
+        
+          h
+          
+            a
+          
+          
+            −
+            1
+          
+        
+        +
+        
+          h
+          
+            b
+          
+          
+            −
+            1
+          
+        
+        +
+        
+          h
+          
+            c
+          
+          
+            −
+            1
+          
+        
+        )
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle H=(h_{a}^{-1}+h_{b}^{-1}+h_{c}^{-1})/2}
+   we have
+
+  
+    
+      
+        
+          T
+          
+            −
+            1
+          
+        
+        =
+        4
+        
+          
+            H
+            (
+            H
+            −
+            
+              h
+              
+                a
+              
+              
+                −
+                1
+              
+            
+            )
+            (
+            H
+            −
+            
+              h
+              
+                b
+              
+              
+                −
+                1
+              
+            
+            )
+            (
+            H
+            −
+            
+              h
+              
+                c
+              
+              
+                −
+                1
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle T^{-1}=4{\sqrt {H(H-h_{a}^{-1})(H-h_{b}^{-1})(H-h_{c}^{-1})}}.}
+  And denoting the semi-sum of the angles' sines as S = [(sin α) + (sin β) + (sin γ)]/2, we have
+
+  
+    
+      
+        T
+        =
+        
+          D
+          
+            2
+          
+        
+        
+          
+            S
+            (
+            S
+            −
+            sin
+            ⁡
+            α
+            )
+            (
+            S
+            −
+            sin
+            ⁡
+            β
+            )
+            (
+            S
+            −
+            sin
+            ⁡
+            γ
+            )
+          
+        
+      
+    
+    {\displaystyle T=D^{2}{\sqrt {S(S-\sin \alpha )(S-\sin \beta )(S-\sin \gamma )}}}
+  where D is the diameter of the circumcircle: 
+  
+    
+      
+        D
+        =
+        
+          
+            
+              a
+              
+                sin
+                ⁡
+                α
+              
+            
+          
+        
+        =
+        
+          
+            
+              b
+              
+                sin
+                ⁡
+                β
+              
+            
+          
+        
+        =
+        
+          
+            
+              c
+              
+                sin
+                ⁡
+                γ
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle D={\tfrac {a}{\sin \alpha }}={\tfrac {b}{\sin \beta }}={\tfrac {c}{\sin \gamma }}.}
+  
+
+
+=== Using Pick's theorem ===
+See Pick's theorem for a technique for finding the area of any arbitrary lattice polygon (one drawn on a grid with vertically and horizontally adjacent lattice points at equal distances, and with vertices on lattice points).
+The theorem states:
+
+  
+    
+      
+        T
+        =
+        I
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        B
+        −
+        1
+      
+    
+    {\displaystyle T=I+{\tfrac {1}{2}}B-1}
+  where 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   is the number of internal lattice points and B is the number of lattice points lying on the border of the polygon.
+
+
+=== Other area formulas ===
+Numerous other area formulas exist, such as
+
+  
+    
+      
+        T
+        =
+        r
+        ⋅
+        s
+        ,
+      
+    
+    {\displaystyle T=r\cdot s,}
+  where r is the inradius, and s is the semiperimeter (in fact, this formula holds for all tangential polygons), and: Lemma 2 
+
+  
+    
+      
+        T
+        =
+        
+          r
+          
+            a
+          
+        
+        (
+        s
+        −
+        a
+        )
+        =
+        
+          r
+          
+            b
+          
+        
+        (
+        s
+        −
+        b
+        )
+        =
+        
+          r
+          
+            c
+          
+        
+        (
+        s
+        −
+        c
+        )
+      
+    
+    {\displaystyle T=r_{a}(s-a)=r_{b}(s-b)=r_{c}(s-c)}
+  where 
+  
+    
+      
+        
+          r
+          
+            a
+          
+        
+        ,
+        
+        
+          r
+          
+            b
+          
+        
+        ,
+        
+        
+          r
+          
+            c
+          
+        
+      
+    
+    {\displaystyle r_{a},\,r_{b},\,r_{c}}
+   are the radii of the excircles tangent to sides a, b, c respectively.
+We also have
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          D
+          
+            2
+          
+        
+        (
+        sin
+        ⁡
+        α
+        )
+        (
+        sin
+        ⁡
+        β
+        )
+        (
+        sin
+        ⁡
+        γ
+        )
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}D^{2}(\sin \alpha )(\sin \beta )(\sin \gamma )}
+  and
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              a
+              b
+              c
+            
+            
+              2
+              D
+            
+          
+        
+        =
+        
+          
+            
+              a
+              b
+              c
+            
+            
+              4
+              R
+            
+          
+        
+      
+    
+    {\displaystyle T={\frac {abc}{2D}}={\frac {abc}{4R}}}
+  for circumdiameter D; and
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              4
+            
+          
+        
+        (
+        tan
+        ⁡
+        α
+        )
+        (
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        −
+        
+          a
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle T={\tfrac {1}{4}}(\tan \alpha )(b^{2}+c^{2}-a^{2})}
+  for angle α ≠ 90°.
+The area can also be expressed as
+
+  
+    
+      
+        T
+        =
+        
+          
+            r
+            
+              r
+              
+                a
+              
+            
+            
+              r
+              
+                b
+              
+            
+            
+              r
+              
+                c
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle T={\sqrt {rr_{a}r_{b}r_{c}}}.}
+  In 1885, Baker gave a collection of over a hundred distinct area formulas for the triangle. These include:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            
+              a
+              b
+              c
+              
+                h
+                
+                  a
+                
+              
+              
+                h
+                
+                  b
+                
+              
+              
+                h
+                
+                  c
+                
+              
+            
+            
+              3
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}{\sqrt[{3}]{abch_{a}h_{b}h_{c}}},}
+  
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            a
+            b
+            
+              h
+              
+                a
+              
+            
+            
+              h
+              
+                b
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle T={\tfrac {1}{2}}{\sqrt {abh_{a}h_{b}}},}
+  
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              a
+              +
+              b
+            
+            
+              2
+              (
+              
+                h
+                
+                  a
+                
+                
+                  −
+                  1
+                
+              
+              +
+              
+                h
+                
+                  b
+                
+                
+                  −
+                  1
+                
+              
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle T={\frac {a+b}{2(h_{a}^{-1}+h_{b}^{-1})}},}
+  
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              R
+              
+                h
+                
+                  b
+                
+              
+              
+                h
+                
+                  c
+                
+              
+            
+            a
+          
+        
+      
+    
+    {\displaystyle T={\frac {Rh_{b}h_{c}}{a}}}
+  for circumradius (radius of the circumcircle) R, and
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              
+                h
+                
+                  a
+                
+              
+              
+                h
+                
+                  b
+                
+              
+            
+            
+              2
+              sin
+              ⁡
+              γ
+            
+          
+        
+        .
+      
+    
+    {\displaystyle T={\frac {h_{a}h_{b}}{2\sin \gamma }}.}
+  
+
+
+=== Upper bound on the area ===
+The area T of any triangle with perimeter p satisfies
+
+  
+    
+      
+        T
+        ≤
+        
+          
+            
+              
+                p
+                
+                  2
+                
+              
+              
+                12
+                
+                  
+                    3
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle T\leq {\tfrac {p^{2}}{12{\sqrt {3}}}},}
+  with equality holding if and only if the triangle is equilateral.: 657 Other upper bounds on the area T are given by: p.290 
+
+  
+    
+      
+        4
+        
+          
+            3
+          
+        
+        T
+        ≤
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 4{\sqrt {3}}T\leq a^{2}+b^{2}+c^{2}}
+  and
+
+  
+    
+      
+        4
+        
+          
+            3
+          
+        
+        T
+        ≤
+        
+          
+            
+              9
+              a
+              b
+              c
+            
+            
+              a
+              +
+              b
+              +
+              c
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle 4{\sqrt {3}}T\leq {\frac {9abc}{a+b+c}},}
+  both again holding if and only if the triangle is equilateral.
+
+
+=== Bisecting the area ===
+There are infinitely many lines that bisect the area of a triangle. Three of them are the medians, which are the only area bisectors that go through the centroid. Three other area bisectors are parallel to the triangle's sides.
+Any line through a triangle that splits both the triangle's area and its perimeter in half goes through the triangle's incenter. There can be one, two, or three of these for any given triangle.
+
+
+== Further formulas for general Euclidean triangles ==
+
+The formulas in this section are true for all Euclidean triangles.
+
+
+=== Medians, angle bisectors, perpendicular side bisectors, and altitudes ===
+
+The medians and the sides are related by: p.70 
+
+  
+    
+      
+        
+          
+            3
+            4
+          
+        
+        (
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        )
+        =
+        
+          m
+          
+            a
+          
+          
+            2
+          
+        
+        +
+        
+          m
+          
+            b
+          
+          
+            2
+          
+        
+        +
+        
+          m
+          
+            c
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {3}{4}}(a^{2}+b^{2}+c^{2})=m_{a}^{2}+m_{b}^{2}+m_{c}^{2}}
+  and
+
+  
+    
+      
+        
+          m
+          
+            a
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            2
+            
+              b
+              
+                2
+              
+            
+            +
+            2
+            
+              c
+              
+                2
+              
+            
+            −
+            
+              a
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                1
+                2
+              
+            
+            (
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+            +
+            
+              c
+              
+                2
+              
+            
+            )
+            −
+            
+              
+                3
+                4
+              
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle m_{a}={\frac {1}{2}}{\sqrt {2b^{2}+2c^{2}-a^{2}}}={\sqrt {{\frac {1}{2}}(a^{2}+b^{2}+c^{2})-{\frac {3}{4}}a^{2}}}}
+  ,and equivalently for mb and mc.
+For angle A opposite side a, the length of the internal angle bisector is given by
+
+  
+    
+      
+        
+          w
+          
+            A
+          
+        
+        =
+        
+          
+            
+              2
+              
+                
+                  b
+                  c
+                  s
+                  (
+                  s
+                  −
+                  a
+                  )
+                
+              
+            
+            
+              b
+              +
+              c
+            
+          
+        
+        =
+        
+          
+            b
+            c
+            
+              [
+              
+                1
+                −
+                
+                  
+                    
+                      a
+                      
+                        2
+                      
+                    
+                    
+                      (
+                      b
+                      +
+                      c
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+              
+              ]
+            
+          
+        
+        =
+        
+          
+            
+              2
+              b
+              c
+            
+            
+              b
+              +
+              c
+            
+          
+        
+        cos
+        ⁡
+        
+          
+            A
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle w_{A}={\frac {2{\sqrt {bcs(s-a)}}}{b+c}}={\sqrt {bc\left[1-{\frac {a^{2}}{(b+c)^{2}}}\right]}}={\frac {2bc}{b+c}}\cos {\frac {A}{2}},}
+  for semiperimeter s, where the bisector length is measured from the vertex to where it meets the opposite side.
+The interior perpendicular bisectors are given by
+
+  
+    
+      
+        
+          p
+          
+            a
+          
+        
+        =
+        
+          
+            
+              2
+              a
+              T
+            
+            
+              
+                a
+                
+                  2
+                
+              
+              +
+              
+                b
+                
+                  2
+                
+              
+              −
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle p_{a}={\frac {2aT}{a^{2}+b^{2}-c^{2}}},}
+  
+
+  
+    
+      
+        
+          p
+          
+            b
+          
+        
+        =
+        
+          
+            
+              2
+              b
+              T
+            
+            
+              
+                a
+                
+                  2
+                
+              
+              +
+              
+                b
+                
+                  2
+                
+              
+              −
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle p_{b}={\frac {2bT}{a^{2}+b^{2}-c^{2}}},}
+  
+
+  
+    
+      
+        
+          p
+          
+            c
+          
+        
+        =
+        
+          
+            
+              2
+              c
+              T
+            
+            
+              
+                a
+                
+                  2
+                
+              
+              −
+              
+                b
+                
+                  2
+                
+              
+              +
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle p_{c}={\frac {2cT}{a^{2}-b^{2}+c^{2}}},}
+  where the sides are 
+  
+    
+      
+        a
+        ≥
+        b
+        ≥
+        c
+      
+    
+    {\displaystyle a\geq b\geq c}
+   and the area is 
+  
+    
+      
+        T
+        .
+      
+    
+    {\displaystyle T.}
+  : Thm 2 The altitude from, for example, the side of length a is
+
+  
+    
+      
+        
+          h
+          
+            a
+          
+        
+        =
+        
+          
+            
+              2
+              T
+            
+            a
+          
+        
+        .
+      
+    
+    {\displaystyle h_{a}={\frac {2T}{a}}.}
+  
+
+
+=== Circumradius and inradius ===
+
+The following formulas involve the circumradius R and the inradius r:
+
+  
+    
+      
+        R
+        =
+        
+          
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  b
+                  
+                    2
+                  
+                
+                
+                  c
+                  
+                    2
+                  
+                
+              
+              
+                (
+                a
+                +
+                b
+                +
+                c
+                )
+                (
+                −
+                a
+                +
+                b
+                +
+                c
+                )
+                (
+                a
+                −
+                b
+                +
+                c
+                )
+                (
+                a
+                +
+                b
+                −
+                c
+                )
+              
+            
+          
+        
+        ;
+      
+    
+    {\displaystyle R={\sqrt {\frac {a^{2}b^{2}c^{2}}{(a+b+c)(-a+b+c)(a-b+c)(a+b-c)}}};}
+  
+
+  
+    
+      
+        r
+        =
+        
+          
+            
+              
+                (
+                −
+                a
+                +
+                b
+                +
+                c
+                )
+                (
+                a
+                −
+                b
+                +
+                c
+                )
+                (
+                a
+                +
+                b
+                −
+                c
+                )
+              
+              
+                4
+                (
+                a
+                +
+                b
+                +
+                c
+                )
+              
+            
+          
+        
+        ;
+      
+    
+    {\displaystyle r={\sqrt {\frac {(-a+b+c)(a-b+c)(a+b-c)}{4(a+b+c)}}};}
+  
+
+  
+    
+      
+        
+          
+            1
+            r
+          
+        
+        =
+        
+          
+            1
+            
+              h
+              
+                a
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              h
+              
+                b
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              h
+              
+                c
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{r}}={\frac {1}{h_{a}}}+{\frac {1}{h_{b}}}+{\frac {1}{h_{c}}}}
+  where ha etc. are the altitudes to the subscripted sides;: p.79 
+
+  
+    
+      
+        
+          
+            r
+            R
+          
+        
+        =
+        
+          
+            
+              4
+              
+                T
+                
+                  2
+                
+              
+            
+            
+              s
+              a
+              b
+              c
+            
+          
+        
+        =
+        cos
+        ⁡
+        α
+        +
+        cos
+        ⁡
+        β
+        +
+        cos
+        ⁡
+        γ
+        −
+        1
+        ;
+      
+    
+    {\displaystyle {\frac {r}{R}}={\frac {4T^{2}}{sabc}}=\cos \alpha +\cos \beta +\cos \gamma -1;}
+  and
+
+  
+    
+      
+        2
+        R
+        r
+        =
+        
+          
+            
+              a
+              b
+              c
+            
+            
+              a
+              +
+              b
+              +
+              c
+            
+          
+        
+      
+    
+    {\displaystyle 2Rr={\frac {abc}{a+b+c}}}
+  .The product of two sides of a triangle equals the altitude to the third side times the diameter D of the circumcircle:: p.64 
+
+  
+    
+      
+        a
+        b
+        =
+        
+          h
+          
+            c
+          
+        
+        D
+        ,
+        
+        
+        b
+        c
+        =
+        
+          h
+          
+            a
+          
+        
+        D
+        ,
+        
+        c
+        a
+        =
+        
+          h
+          
+            b
+          
+        
+        D
+        .
+      
+    
+    {\displaystyle ab=h_{c}D,\quad \quad bc=h_{a}D,\quad ca=h_{b}D.}
+  
+
+
+=== Adjacent triangles ===
+Suppose two adjacent but non-overlapping triangles share the same side of length f and share the same circumcircle, so that the side of length f is a chord of the circumcircle and the triangles have side lengths (a, b, f) and (c, d, f), with the two triangles together forming a cyclic quadrilateral with side lengths in sequence (a, b, c, d). Then: 84 
+
+  
+    
+      
+        
+          f
+          
+            2
+          
+        
+        =
+        
+          
+            
+              (
+              a
+              c
+              +
+              b
+              d
+              )
+              (
+              a
+              d
+              +
+              b
+              c
+              )
+            
+            
+              (
+              a
+              b
+              +
+              c
+              d
+              )
+            
+          
+        
+        .
+        
+      
+    
+    {\displaystyle f^{2}={\frac {(ac+bd)(ad+bc)}{(ab+cd)}}.\,}
+  
+
+
+=== Centroid ===
+
+Let G be the centroid of a triangle with vertices A, B, and C, and let P be any interior point. Then the distances between the points are related by: 174 
+
+  
+    
+      
+        (
+        P
+        A
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        P
+        B
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        P
+        C
+        
+          )
+          
+            2
+          
+        
+        =
+        (
+        G
+        A
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        G
+        B
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        G
+        C
+        
+          )
+          
+            2
+          
+        
+        +
+        3
+        (
+        P
+        G
+        
+          )
+          
+            2
+          
+        
+        .
+        
+      
+    
+    {\displaystyle (PA)^{2}+(PB)^{2}+(PC)^{2}=(GA)^{2}+(GB)^{2}+(GC)^{2}+3(PG)^{2}.\,}
+  The sum of the squares of the triangle's sides equals three times the sum of the squared distances of the centroid from the vertices:
+
+  
+    
+      
+        A
+        
+          B
+          
+            2
+          
+        
+        +
+        B
+        
+          C
+          
+            2
+          
+        
+        +
+        C
+        
+          A
+          
+            2
+          
+        
+        =
+        3
+        (
+        G
+        
+          A
+          
+            2
+          
+        
+        +
+        G
+        
+          B
+          
+            2
+          
+        
+        +
+        G
+        
+          C
+          
+            2
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle AB^{2}+BC^{2}+CA^{2}=3(GA^{2}+GB^{2}+GC^{2}).}
+  Let qa, qb, and qc be the distances from the centroid to the sides of lengths a, b, and c. Then: 173 
+
+  
+    
+      
+        
+          
+            
+              q
+              
+                a
+              
+            
+            
+              q
+              
+                b
+              
+            
+          
+        
+        =
+        
+          
+            b
+            a
+          
+        
+        ,
+        
+        
+        
+          
+            
+              q
+              
+                b
+              
+            
+            
+              q
+              
+                c
+              
+            
+          
+        
+        =
+        
+          
+            c
+            b
+          
+        
+        ,
+        
+        
+        
+          
+            
+              q
+              
+                a
+              
+            
+            
+              q
+              
+                c
+              
+            
+          
+        
+        =
+        
+          
+            c
+            a
+          
+        
+        
+      
+    
+    {\displaystyle {\frac {q_{a}}{q_{b}}}={\frac {b}{a}},\quad \quad {\frac {q_{b}}{q_{c}}}={\frac {c}{b}},\quad \quad {\frac {q_{a}}{q_{c}}}={\frac {c}{a}}\,}
+  and
+
+  
+    
+      
+        
+          q
+          
+            a
+          
+        
+        ⋅
+        a
+        =
+        
+          q
+          
+            b
+          
+        
+        ⋅
+        b
+        =
+        
+          q
+          
+            c
+          
+        
+        ⋅
+        c
+        =
+        
+          
+            2
+            3
+          
+        
+        T
+        
+      
+    
+    {\displaystyle q_{a}\cdot a=q_{b}\cdot b=q_{c}\cdot c={\frac {2}{3}}T\,}
+  for area T.
+
+
+=== Circumcenter, incenter, and orthocenter ===
+
+Carnot's theorem states that the sum of the distances from the circumcenter to the three sides equals the sum of the circumradius and the inradius.: p.83  Here a segment's length is considered to be negative if and only if the segment lies entirely outside the triangle. This method is especially useful for deducing the properties of more abstract forms of triangles, such as the ones induced by Lie algebras, that otherwise have the same properties as usual triangles.
+Euler's theorem states that the distance d between the circumcenter and the incenter is given by: p.85 
+
+  
+    
+      
+        
+          
+            d
+            
+              2
+            
+          
+          =
+          R
+          (
+          R
+          −
+          2
+          r
+          )
+        
+      
+    
+    {\displaystyle \displaystyle d^{2}=R(R-2r)}
+  or equivalently
+
+  
+    
+      
+        
+          
+            1
+            
+              R
+              −
+              d
+            
+          
+        
+        +
+        
+          
+            1
+            
+              R
+              +
+              d
+            
+          
+        
+        =
+        
+          
+            1
+            r
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {1}{R-d}}+{\frac {1}{R+d}}={\frac {1}{r}},}
+  where R is the circumradius and r is the inradius. Thus for all triangles R ≥ 2r, with equality holding for equilateral triangles.
+If we denote that the orthocenter divides one altitude into segments of lengths u and v, another altitude into segment lengths w and x, and the third altitude into segment lengths y and z, then uv = wx = yz.: p.94 The distance from a side to the circumcenter equals half the distance from the opposite vertex to the orthocenter.: p.99 The sum of the squares of the distances from the vertices to the orthocenter H  plus the sum of the squares of the sides equals twelve times the square of the circumradius:: p.102 
+
+  
+    
+      
+        A
+        
+          H
+          
+            2
+          
+        
+        +
+        B
+        
+          H
+          
+            2
+          
+        
+        +
+        C
+        
+          H
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        +
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        =
+        12
+        
+          R
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle AH^{2}+BH^{2}+CH^{2}+a^{2}+b^{2}+c^{2}=12R^{2}.}
+  
+
+
+=== Angles ===
+In addition to the law of sines,  the law of cosines, the law of tangents, and the trigonometric existence conditions given earlier, for any triangle
+
+  
+    
+      
+        a
+        =
+        b
+        cos
+        ⁡
+        C
+        +
+        c
+        cos
+        ⁡
+        B
+        ,
+        
+        b
+        =
+        c
+        cos
+        ⁡
+        A
+        +
+        a
+        cos
+        ⁡
+        C
+        ,
+        
+        c
+        =
+        a
+        cos
+        ⁡
+        B
+        +
+        b
+        cos
+        ⁡
+        A
+        .
+      
+    
+    {\displaystyle a=b\cos C+c\cos B,\quad b=c\cos A+a\cos C,\quad c=a\cos B+b\cos A.}
+  
+
+
+=== Morley's trisector theorem ===
+
+Morley's trisector theorem states that in any triangle, the three points of intersection of the adjacent angle trisectors form an equilateral triangle, called the Morley triangle.
+
+
+== Figures inscribed in a triangle ==
+
+
+=== Conics ===
+As discussed above, every triangle has a unique inscribed circle (incircle) that is interior to the triangle and tangent to all three sides.
+Every triangle has a unique Steiner inellipse which is interior to the triangle and tangent at the midpoints of the sides. Marden's theorem shows how to find the foci of this ellipse. This ellipse has the greatest area of any ellipse tangent to all three sides of the triangle.
+The Mandart inellipse of a triangle is the ellipse inscribed within the triangle tangent to its sides at the contact points of its excircles.
+For any ellipse inscribed in a triangle ABC, let the foci be P and Q. Then
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    P
+                    A
+                  
+                  ¯
+                
+              
+              ⋅
+              
+                
+                  
+                    Q
+                    A
+                  
+                  ¯
+                
+              
+            
+            
+              
+                
+                  
+                    C
+                    A
+                  
+                  ¯
+                
+              
+              ⋅
+              
+                
+                  
+                    A
+                    B
+                  
+                  ¯
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                
+                  
+                    P
+                    B
+                  
+                  ¯
+                
+              
+              ⋅
+              
+                
+                  
+                    Q
+                    B
+                  
+                  ¯
+                
+              
+            
+            
+              
+                
+                  
+                    A
+                    B
+                  
+                  ¯
+                
+              
+              ⋅
+              
+                
+                  
+                    B
+                    C
+                  
+                  ¯
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                
+                  
+                    P
+                    C
+                  
+                  ¯
+                
+              
+              ⋅
+              
+                
+                  
+                    Q
+                    C
+                  
+                  ¯
+                
+              
+            
+            
+              
+                
+                  
+                    B
+                    C
+                  
+                  ¯
+                
+              
+              ⋅
+              
+                
+                  
+                    C
+                    A
+                  
+                  ¯
+                
+              
+            
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle {\frac {{\overline {PA}}\cdot {\overline {QA}}}{{\overline {CA}}\cdot {\overline {AB}}}}+{\frac {{\overline {PB}}\cdot {\overline {QB}}}{{\overline {AB}}\cdot {\overline {BC}}}}+{\frac {{\overline {PC}}\cdot {\overline {QC}}}{{\overline {BC}}\cdot {\overline {CA}}}}=1.}
+  
+
+
+=== Convex polygon ===
+Every convex polygon with area T can be inscribed in a triangle of area at most equal to 2T. Equality holds (exclusively) for a parallelogram.
+
+
+=== Hexagon ===
+The Lemoine hexagon is a cyclic hexagon with vertices given by the six intersections of the sides of a triangle with the three lines that are parallel to the sides and that pass through its symmedian point. In either its simple form or its self-intersecting form, the Lemoine hexagon is interior to the triangle with two vertices on each side of the triangle.
+
+
+=== Squares ===
+Every acute triangle has three inscribed squares (squares in its interior such that all four of a square's vertices lie on a side of the triangle, so two of them lie on the same side and hence one side of the square coincides with part of a side of the triangle). In a right triangle two of the squares coincide and have a vertex at the triangle's right angle, so a right triangle has only two distinct inscribed squares. An obtuse triangle has only one inscribed square, with a side coinciding with part of the triangle's longest side.  Within a given triangle, a longer common side is associated with a smaller inscribed square. If an inscribed square has side of length qa and the triangle has a side of length a, part of which side coincides with a side of the square, then qa, a, the altitude ha from the side a, and the triangle's area T are related according to
+
+  
+    
+      
+        
+          q
+          
+            a
+          
+        
+        =
+        
+          
+            
+              2
+              T
+              a
+            
+            
+              
+                a
+                
+                  2
+                
+              
+              +
+              2
+              T
+            
+          
+        
+        =
+        
+          
+            
+              a
+              
+                h
+                
+                  a
+                
+              
+            
+            
+              a
+              +
+              
+                h
+                
+                  a
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle q_{a}={\frac {2Ta}{a^{2}+2T}}={\frac {ah_{a}}{a+h_{a}}}.}
+  The largest possible ratio of the area of the inscribed square to the area of the triangle is 1/2, which occurs when a2 = 2T, q = a/2, and the altitude of the triangle from the base of length a is equal to a. The smallest possible ratio of the side of one inscribed square to the side of another in the same non-obtuse triangle is 
+  
+    
+      
+        2
+        
+          
+            2
+          
+        
+        
+          /
+        
+        3
+        =
+        0.94....
+      
+    
+    {\displaystyle 2{\sqrt {2}}/3=0.94....}
+   Both of these extreme cases occur for the isosceles right triangle.
+
+
+=== Triangles ===
+From an interior point in a reference triangle, the nearest points on the three sides serve as the vertices of the pedal triangle of that point. If the interior point is the circumcenter of the reference triangle, the vertices of the pedal triangle are the midpoints of the reference triangle's sides, and so the pedal triangle is called the midpoint triangle or medial triangle. The midpoint triangle subdivides the reference triangle into four congruent triangles which are similar to the reference triangle.
+The Gergonne triangle or intouch triangle of a reference triangle has its vertices at the three points of tangency of the reference triangle's sides with its incircle. The extouch triangle of a reference triangle has its vertices at the points of tangency of the reference triangle's excircles with its sides (not extended).
+
+
+== Figures circumscribed about a triangle ==
+The tangential triangle of a reference triangle (other than a right triangle) is the triangle whose sides are on the tangent lines to the reference triangle's circumcircle at its vertices.
+As mentioned above, every triangle has a unique circumcircle, a circle passing through all three vertices, whose center is the intersection of the  perpendicular bisectors of the triangle's sides.
+Further, every triangle has a unique Steiner circumellipse, which passes through the triangle's vertices and has its center at the triangle's centroid. Of all ellipses going through the triangle's vertices, it has the smallest area.
+The Kiepert hyperbola is the unique conic which passes through the triangle's three vertices, its centroid, and its circumcenter.
+Of all triangles contained in a given convex polygon, there exists a triangle with maximal area whose vertices are all vertices of the given polygon.
+
+
+== Specifying the location of a point in a triangle ==
+One way to identify locations of points in (or outside) a triangle is to place the triangle in an arbitrary location and orientation in the Cartesian plane, and to use Cartesian coordinates. While convenient for many purposes, this approach has the disadvantage of all points' coordinate values being dependent on the arbitrary placement in the plane.
+Two systems avoid that feature, so that the coordinates of a point are not affected by moving the triangle, rotating it, or reflecting it as in a mirror, any of which give a congruent triangle, or even by rescaling it to give a similar triangle:
+
+Trilinear coordinates specify the relative distances of a point from the sides, so that coordinates 
+  
+    
+      
+        x
+        :
+        y
+        :
+        z
+      
+    
+    {\displaystyle x:y:z}
+   indicate that the ratio of the distance of the point from the first side to its distance from the second side is 
+  
+    
+      
+        x
+        :
+        y
+      
+    
+    {\displaystyle x:y}
+   , etc.
+Barycentric coordinates of the form 
+  
+    
+      
+        α
+        :
+        β
+        :
+        γ
+      
+    
+    {\displaystyle \alpha :\beta :\gamma }
+   specify the point's location by the relative weights that would have to be put on the three vertices in order to balance the otherwise weightless triangle on the given point.
+
+
+== Non-planar triangles ==
+A non-planar triangle is a triangle which is not contained in a (flat) plane. Some examples of non-planar triangles in non-Euclidean geometries are spherical triangles in spherical geometry and hyperbolic triangles in hyperbolic geometry.
+While the measures of the internal angles in planar triangles always sum to 180°, a hyperbolic triangle has measures of angles that sum to less than 180°, and a spherical triangle has measures of angles that sum to more than 180°. A hyperbolic triangle can be obtained by drawing on a negatively curved surface, such as a saddle surface, and a spherical triangle can be obtained by drawing on a positively curved surface such as a sphere. Thus, if one draws a giant triangle on the surface of the Earth, one will find that the sum of the measures of its angles is greater than 180°; in fact it will be between 180° and 540°. In particular it is possible to draw a triangle on a sphere such that the measure of each of its internal angles is equal to 90°, adding up to a total of 270°.
+Specifically, on a sphere the sum of the angles of a triangle is
+
+180° × (1 + 4f),where f is the fraction of the sphere's area which is enclosed by the triangle. For example, suppose that we draw a triangle on the Earth's surface with vertices at the North Pole, at a point on the equator at 0° longitude, and a point on the equator at 90° West longitude. The great circle line between the latter two points is the equator, and the great circle line between either of those points and the North Pole is a line of longitude; so there are right angles at the two points on the equator. Moreover, the angle at the North Pole is also 90° because the other two vertices differ by 90° of longitude. So the sum of the angles in this triangle is 90° + 90° + 90° = 270°. The triangle encloses 1/4 of the northern hemisphere (90°/360° as viewed from the North Pole) and therefore 1/8 of the Earth's surface, so in the formula f = 1/8; thus the formula correctly gives the sum of the triangle's angles as 270°.
+From the above angle sum formula we can also see that the Earth's surface is locally flat: If we draw an arbitrarily small triangle in the neighborhood of one point on the Earth's surface, the fraction f of the Earth's surface which is enclosed by the triangle will be arbitrarily close to zero. In this case the angle sum formula simplifies to 180°, which we know is what Euclidean geometry tells us for triangles on a flat surface.
+
+
+== Triangles in construction ==
+
+Rectangles have been the most popular and common geometric form for buildings since the shape is easy to stack and organize; as a standard, it is easy to design furniture and fixtures to fit inside rectangularly shaped buildings. But triangles, while more difficult to use conceptually, provide a great deal of strength. As computer technology helps architects design creative new buildings, triangular shapes are becoming increasingly prevalent as parts of buildings and as the primary shape for some types of skyscrapers as well as building materials. In Tokyo in 1989, architects had wondered whether it was possible to build a 500-story tower to provide affordable office space for this densely packed city, but with the danger to buildings from earthquakes, architects considered that a triangular shape would be necessary if such a building were to be built.In New York City, as Broadway crisscrosses major avenues, the resulting blocks are cut like triangles, and buildings have been built on these shapes; one such building is the triangularly shaped Flatiron Building which real estate people admit has a "warren of awkward spaces that do not easily accommodate modern office furniture" but that has not prevented the structure from becoming a landmark icon. Designers have made houses in Norway using triangular themes. Triangle shapes have appeared in churches as well as public buildings including colleges as well as supports for innovative home designs.Triangles are sturdy; while a rectangle can collapse into a parallelogram from pressure to one of its points, triangles have a natural strength which supports structures against lateral pressures. A triangle will not change shape unless its sides are bent or extended or broken or if its joints break; in essence, each of the three sides supports the other two. A rectangle, in contrast, is more dependent on the strength of its joints in a structural sense. Some innovative designers have proposed making bricks not out of rectangles, but with triangular shapes which can be combined in three dimensions. It is likely that triangles will be used increasingly in new ways as architecture increases in complexity. It is important to remember that triangles are strong in terms of rigidity, but while packed in a tessellating arrangement triangles are not as strong as hexagons under compression (hence the prevalence of hexagonal forms in nature). Tessellated triangles still maintain superior strength for cantilevering however, and this is the basis for one of the strongest man made structures, the tetrahedral truss.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Ivanov, A.B. (2001) [1994], "Triangle", Encyclopedia of Mathematics, EMS Press
+Clark Kimberling: Encyclopedia of triangle centers. Lists some 5200 interesting points associated with any triangle.
+

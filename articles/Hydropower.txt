@@ -1,0 +1,366 @@
+####### TITLE #######
+
+Hydropower
+
+####### LINKS #######
+
+['ASME', 'Adaptive management', 'Air pollution', 'Air quality index', 'Air quality law', 'Airborne wind energy', 'Airshed', 'Al-Andalus', 'Al-Jazari', 'Amazon Standard Identification Number', 'Anaerobic digestion', 'Ancient Greece', 'Ancient Near East', 'Aquifer', 'Aquifer storage and recovery', 'Arab Agricultural Revolution', 'Arable land', 'Atmosphere of Earth', 'Babylonia', 'Barbegal mill', 'Bellows', 'Benoît Fourneyron', 'Bernard Forest de Bélidor', 'Bibcode (identifier)', 'Binding energy', 'Biodiversity', 'Bioenergy', 'Biofuel', 'Biogas', 'Biomass', 'Bioprospecting', 'Biosphere', 'Blast furnace', 'Braine-le-Château', 'Bridgeport, Washington', 'Bushfood', 'Bushmeat', 'Byzantine Empire', 'California Gold Rush', 'Capacitor', 'Carbon-neutral fuel', "Carbon dioxide in Earth's atmosphere", 'Carbon footprint', 'Central Asia', 'Chemical energy', 'Chief Joseph Dam', 'Cityscape', 'Clean Air Act (United States)', 'Climate change and fisheries', 'Coal', 'Cobalt, Ontario', 'Cogeneration', 'Common-pool resource', 'Common land', 'Commons', 'Compressed air', 'Concentrated solar power', 'Conflict resource', 'Conservation of energy', 'Cragside', 'Crane (machine)', 'Crank (mechanism)', 'Cross-flow turbine', 'Cubic metre', 'Dam', 'Dam failure', 'Dams', 'Dark energy', 'Deep water source cooling', 'Delta (Greek letter)', 'Density', 'Deoxygenation', 'Desalination', 'Dimensionless', 'Doi (identifier)', 'Dolaucothi Gold Mines', 'Donald Hill', 'Drainage basin', 'Drinking water', 'Du Shi', 'Dyfi Furnace', 'Earth Overshoot Day', 'Ecological economics', 'Economic development', 'Ecosystem services', 'Ecosystems', 'Efficient energy use', 'Elastic energy', 'Electric battery', 'Electric potential energy', 'Electric power', 'Electrical energy', 'Electricity', 'Electricity generation', 'Elevator', 'Emissions trading', 'Enclosure', 'Energy', 'Energy carrier', 'Energy condition', 'Energy conservation', 'Energy consumption', 'Energy development', 'Energy efficiency in agriculture', 'Energy efficiency in transport', 'Energy engineering', 'Energy in Africa', 'Energy in Australia', 'Energy in Europe', 'Energy in Mexico', 'Energy in South America', 'Energy in the United States', 'Energy law', 'Energy level', 'Energy policy', 'Energy policy of Canada', 'Energy resources', 'Energy security', 'Energy storage', 'Energy supply', 'Energy system', 'Energy transformation', 'Energy transition', 'England', 'Enthalpy', 'Entropic force', 'Entropy', 'Environmental good', 'Environmental impact of reservoirs', 'Ephesus', 'Eta (Greek letter)', 'Exergy', 'Exploitation of natural resources', 'Factory', 'Fangyan (book)', 'Ffestiniog Power Station', 'Fisheries law', 'Fisheries management', 'Fishery', 'Flood', 'Floodplain', 'Flour', 'Food', 'Forest', 'Forest genetic resources', 'Forest management', 'Forestry law', 'Fossil fuel', 'Fossil fuel power station', 'Francis turbine', 'Free entropy', 'Fresh water', 'Fuel', 'Fulling', 'Game (food)', 'Game law', 'Gear', 'Gear train', 'Gene bank', 'Geografiska Annaler', 'Geothermal energy', 'Geothermal heating', 'Geothermal power', 'Gerasa', 'Glacier', 'Global commons', 'Gorlov helical turbine', 'Gravitation water vortex power plant', 'Gravitational binding energy', 'Gravitational energy', 'Great Britain', 'Greek language', 'Greenhouse', 'Greenhouse gas emissions', 'Gristmill', 'Groundwater', 'Groundwater pollution', 'Groundwater recharge', 'Groundwater remediation', 'Habitat conservation', 'Hammer', 'Hammermill', 'Han dynasty', 'Harold Perkin', 'Heat', 'Heat capacity', 'Heat transfer', 'Hierapolis sawmill', 'History of energy', 'Huan Tan', 'Huerta', 'Hushing', 'Hydraulic efficiency', 'Hydraulic head', 'Hydraulic mining', 'Hydraulic ram', 'Hydro plant', 'Hydroelectricity', 'Hydrogen', 'Hydrogen fuel', 'Hydrological model', 'Hydrosphere', 'ISBN (identifier)', 'Ice', 'Iceberg', 'Index of energy articles', 'Indoor air pollution in developing nations', 'Indoor air quality', 'Industrial Revolution', 'Installed capacity', 'Integrated gasification combined cycle', 'Interatomic potential', 'Internal energy', 'International Electrotechnical Commission', 'International Hydropower Association', 'Ionization energy', 'Irreversible process', 'Irrigation', 'Islamic Empire', 'Islamic Golden Age', 'Isolated system', 'JSTOR (identifier)', 'James B. Francis', 'Jevons paradox', 'Jijiupian', 'John Peter Oleson', 'Joseph Needham', 'Kaplan turbine', 'Kilogram', 'Kinetic energy', 'Lake', 'Land', 'Land-use planning', 'Land (economics)', 'Land degradation', 'Land law', 'Land management', 'Land use', 'Landscape', 'Las Médulas', 'Latent heat', 'Laws of thermodynamics', 'Leaching (agriculture)', 'Lead', 'Lester Allan Pelton', 'Life', 'List of Roman watermills', 'List of conventional hydroelectric power stations', 'List of largest power stations', 'List of plants used in herbalism', 'List of religious sites', 'List of renewable energy topics by country', 'Low head hydro power', 'Lumber', 'Lyme Regis', 'Magnetic energy', 'Marine conservation', 'Marine current power', 'Marine energy', 'Marine resources', 'Mass', 'Mass flow rate', 'Mass–energy equivalence', 'Meadow', 'Mechanical energy', 'Mechanical wave', 'Metal', 'Meter (unit)', 'Methane', 'Micro hydro', 'Middle Ages', 'Middle East', 'Mill (grinding)', 'Mineral', 'Mineral rights', 'Mining', 'Mining law', 'Mississippi River', 'Montreal River (Timiskaming District)', 'National Ambient Air Quality Standards', 'Natural capital', 'Natural capital accounting', 'Natural gas', 'Natural heritage', 'Natural resource', 'Natural resource economics', 'Natural resource management', 'Natural uranium', 'Nature reserve', 'Negative energy', 'Negative mass', 'Negentropy', 'Niagara Falls', 'Non-renewable resource', 'Non-timber forest product', 'North Africa', 'Northumberland', 'Nuclear binding energy', 'Nuclear fuel', 'Nuclear power', 'Nuclear power plant', 'Nuclear power proposed as renewable energy', 'Ocean thermal energy conversion', 'Oil refinery', 'Open space reserve', 'Ore mill', 'Osmotic power', 'Outline of energy', 'Overexploitation', 'Ozone depletion', 'Paper', 'Paper mill', 'Peak farmland', 'Peak minerals', 'Peak oil', 'Peak water', 'Pelton wheel', 'Petroleum', 'Phantom energy', 'Photovoltaic system', 'Pico hydro', 'Piston', 'Plant', 'Plant Treaty', 'Plant genetic resources', 'Polar ice cap', 'Potential energy', 'Power (physics)', 'Primary energy', 'Property law', 'Pumped-storage hydroelectricity', 'Quantum chromodynamics binding energy', 'Quantum fluctuation', 'Quantum potential', 'Quantum thermodynamics', 'Quintessence (physics)', 'Radiant energy', 'Radiation', 'Radioisotope thermoelectric generator', 'Rain', 'Rainwater harvesting', 'Rangeland', 'Reclaimed water', 'Reducing emissions from deforestation and forest degradation', 'Renewable energy', 'Renewable energy commercialization', 'Renewable resource', 'Reservoir', 'Resource', 'Resource curse', 'Resource depletion', 'Resource extraction', 'Resource nationalism', 'Rest energy', 'Rho (Greek letter)', 'Rice huller', 'Richard Arkwright', 'River', 'River incision', 'Robert G. Hoyland', 'Rolling', 'Rolling mill', 'Roman Empire', 'Routledge', 'Run-of-the-river hydroelectricity', 'S2CID (identifier)', 'Saint Anthony Falls', 'Sand mining', 'Sanitation', 'Saw mill', 'Sawmill', 'Seascape', 'Sedimentation', 'Seed bank', 'Sewage', 'Shade (shadow)', 'Shadoof', 'Ship mill', 'Shishi-odoshi', 'Sierra Nevada', 'Significant digit', 'Small hydro', 'Soil', 'Soil conservation', 'Soil fertility', 'Soil health', 'Soil resilience', 'Solar energy', 'Solar furnace', 'Solar power', 'Solar power tower', 'Solar thermal energy', 'Sound energy', 'Sound wave', 'Soundscape', 'Spillway', 'Stamp mill', 'Standard gravity', 'Steel mill', 'Stormwater', 'Streamflow', 'Sugar refinery', 'Sumer', 'Sunlight', 'Surface energy', 'Surface water', 'Sustainable biofuel', 'Sustainable energy', 'Systems ecology', 'Textile', 'Textile mill', 'Thermal energy', 'Thermal equilibrium', 'Thermal reservoir', 'Thermodynamic equilibrium', 'Thermodynamic free energy', 'Thermodynamic potential', 'Thermodynamic state', 'Thermodynamic system', 'Thermodynamic temperature', 'Thermodynamics', 'Three Gorges Dam', 'Tidal power', 'Tidal stream generator', 'Tide mill', 'Tin', 'Tragedy of the commons', 'Trip hammer', 'Trompe', 'Turbine', 'Turgo turbine', 'Tyson turbine', 'UPOV', 'United States', 'Units of energy', 'Urban ecology', 'Vacuum energy', 'Venturi effect', 'Viewshed', 'Vitruvius', 'Volume (thermodynamics)', 'Volumetric flow rate', 'Wales', 'Wang Zhen (inventor)', 'Water', 'Water conflict', 'Water conservation', 'Water engine', 'Water frame', 'Water law', 'Water pollution', 'Water privatization', 'Water quality', 'Water resource management', 'Water resource policy', 'Water resources', 'Water right', 'Water scoop (hydropower)', 'Water turbine', 'Water wheel', 'Watermill', 'Waterwheel', 'Watt', 'Wave farm', 'Wave power', 'Wilderness', 'Wildlife', 'Wildlife conservation', 'Wildlife management', 'William Armstrong, 1st Baron Armstrong', 'Wind energy', 'Wind farm', 'Wind power', 'Wire drawing', 'Wood', 'Work (physics)', 'World Bank', 'World Commission on Dams', 'World energy consumption', 'Worldwide energy supply', 'Yang Xiong (author)', 'Zero-point energy']
+
+####### CATEGORIES #######
+
+['All articles with unsourced statements', 'Articles containing Greek-language text', 'Articles with GND identifiers', 'Articles with HDS identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NARA identifiers', 'Articles with NKC identifiers', 'Articles with excerpts', 'Articles with short description', 'Articles with unsourced statements from April 2021', 'Articles with unsourced statements from August 2022', 'Articles with unsourced statements from July 2014', 'Commons category link from Wikidata', 'Energy conversion', 'Hydraulic engineering', 'Hydropower', 'Power station technology', 'Short description is different from Wikidata', 'Sustainable technologies', 'Use dmy dates from February 2019']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/f/f8/Beno%C3%AEt_Fourneyron_portrait.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Braine-le-Ch%C3%A2teau_JPG02.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Chief_Joseph_Dam.jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/14/Crystal_energy.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/ae/Drinking_water.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e6/Garwnant_Hydropower_Scheme%2C_Breckon_Beacons%2C_Cymru%2C_%28Wales%29.webm', 'https://upload.wikimedia.org/wikipedia/commons/4/41/Higashiyama_Botanical_Garden_Shishiodoshi_20170617.gif', 'https://upload.wikimedia.org/wikipedia/commons/5/57/Hydroelectric_dam.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Renewable_Energy_by_Melanie_Maecker-Tursun_V1_bgGreen.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6d/Nw_vietnam_hydro.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/37/People_icon.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/42/SaintAnthonyFalls.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/de/Stwlan.dam.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/72/The_Dam_%282890371280%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/ab/ThreeGorgesDam-China2009.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/ab/WATER-POWERED_ORE_MILL%2C_TAKEN_FROM_SOUTH_-_Liberty_Historic_District%2C_Water_Powered_Ore_Mill%2C_Route_2%2C_Cle_Elum%2C_Liberty%2C_Kittitas_County%2C_WA_HABS_WASH%2C19-LIB%2C1W-1.tif', 'https://upload.wikimedia.org/wikipedia/commons/6/66/WaterMill_Interior_MotionBlur.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/ad/Wind-turbine-icon.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/d1/%E6%B0%B4%E5%87%BB%E9%9D%A2%E7%BD%97.jpg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/e/e2/Symbol_portal_class.svg']
+
+####### REFERENCES #######
+
+['http://tc4.iec.ch/index-tc4.html', 'http://www.iec.ch/dyn/www/f?p=103:7:0::::FSP_ORG_ID,FSP_LANG_ID:1228,25', 'http://www.history-science-technology.com/Articles/articles%2071.htm', 'http://www.waterencyclopedia.com/Ge-Hy/Hydroelectric-Power.html', 'http://www.eere.energy.gov/consumer/your_home/electricity/index.cfm/mytopic=11050', 'http://www1.eere.energy.gov/windandhydro/hydro_history.html', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007551273305171', 'http://www.ich.no/', 'http://doi.org/10.1016%2FS0301-4215(02)00083-6', 'http://doi.org/10.1016%2FS0301-4215(02)00084-8', 'http://doi.org/10.1080%2F04353676.2019.1574209', 'http://doi.org/10.1088%2F0031-9112%2F25%2F10%2F040', 'http://doi.org/10.1088%2F1755-1315%2F22%2F1%2F012020', 'http://doi.org/10.1111%2Fj.1468-0092.1990.tb00223.x', 'http://doi.org/10.1353%2Ftech.2005.0026', 'http://doi.org/10.1525%2Felementa.333', 'http://www.hydropower.org', 'http://www.jstor.org/stable/40060793', 'https://energyeducation.ca/encyclopedia/Hydraulic_head', 'https://hls-dhs-dss.ch/fr/articles/026221', 'https://www.engadget.com/2020-02-09-raindrop-electricity-generator.html', 'https://www.euroscientist.com/scientists-design-new-solar-cells-to-capture-energy-from-rain/', 'https://books.google.com/books?id=-N0DAAAAMBAJ', 'https://books.google.com/books?id=oMceAgAAQBAJ&pg=PA163', 'https://www.irishtimes.com/news/environment/if-you-can-make-energy-from-wind-why-not-from-rain-1.3530666', 'https://newatlas.com/pluvia-rainwater-microturbine/31379/', 'https://www.sciencedirect.com/book/9780128129067/hydropower', 'https://www.sciencedirect.com/science/article/pii/S0301421502000848', 'https://www.sciencedirect.com/science/article/pii/S0301421502000836', 'https://www.sciencefocus.com/planet-earth/is-it-possible-to-harness-the-power-of-falling-rain/', 'https://www.springer.com/gp/book/9781447122906', 'https://www.theguardian.com/environment/2018/mar/13/rain-or-shine-new-solar-cell-captures-energy-from-raindrops', 'https://articles.washingtonpost.com/2013-05-08/business/39105348_1_jim-yong-kim-world-bank-hydropower', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph808998&CON_LNG=ENG', 'https://ui.adsabs.harvard.edu/abs/2014E&ES...22a2020L', 'https://e360.yale.edu/features/as-worlds-deltas-sink-rising-seas-are-far-from-only-culprit', 'https://e360.yale.edu/features/why-the-worlds-rivers-are-losing-sediment-and-why-it-matters', 'https://catalog.archives.gov/id/10641831', 'https://id.loc.gov/authorities/subjects/sh85145596', 'https://d-nb.info/gnd/4189214-8', 'https://www.americanrivers.org/threats-solutions/restoring-damaged-rivers/how-dams-damage-rivers/', 'https://web.archive.org/web/20080218171021/http://www.history-science-technology.com/Articles/articles%2071.htm', 'https://web.archive.org/web/20090325212454/http://www.itdg.org/docs/technical_information_service/micro_hydro_power.pdf', 'https://web.archive.org/web/20100126001540/http://www1.eere.energy.gov/windandhydro/hydro_history.html', 'https://web.archive.org/web/20130722012858/http://articles.washingtonpost.com/2013-05-08/business/39105348_1_jim-yong-kim-world-bank-hydropower', 'https://iopscience.iop.org/article/10.1088/0031-9112/25/10/040', 'https://www.jstor.org/stable/40060793', 'https://api.semanticscholar.org/CorpusID:109564224', 'https://api.semanticscholar.org/CorpusID:109650458', 'https://api.semanticscholar.org/CorpusID:133795380', 'https://api.semanticscholar.org/CorpusID:59390912', 'https://www.semanticscholar.org/paper/Hydropower-as-clean-and-renewable-energy-source-for-Kaygusuz/e0c75385f9357eddf7fb163d598b16db4c230279#paper-header', 'https://www.semanticscholar.org/paper/PERSPECTIVES-ON-ROMAN-TECHNOLOGY-Greene/042c5052b73e5deedf378d822686aa83fa3255f7', 'https://www.wikidata.org/wiki/Q170196#identifiers', 'https://www.amazon.co.uk/dp/9027716935']
+
+####### SUMMARY #######
+
+Hydropower (from Greek: ὕδωρ, "water"), also known as water power, is the use of falling or fast-running water to produce electricity or to power machines. This is achieved by converting the gravitational potential or kinetic energy of a water source to produce power. Hydropower is a method of sustainable energy production.
+Since ancient times, hydropower from watermills has been used as a renewable energy source for irrigation and the operation of mechanical devices, such as gristmills, sawmills, textile mills, trip hammers, dock cranes, domestic lifts, and ore mills. A trompe, which produces compressed air from falling water, is sometimes used to power other machinery at a distance.Hydropower is now used principally for hydroelectric power generation, and is also applied as one half of an energy storage system known as pumped-storage hydroelectricity.
+Hydropower is an attractive alternative to fossil fuels as it does not directly produce carbon dioxide or other atmospheric pollutants and it provides a relatively consistent source of power. Nonetheless, it has economic, sociological, and environmental downsides and requires a sufficiently energetic source of water, such as a river or elevated lake. International institutions such as the World Bank view hydropower as a low-carbon means for economic development.
+
+####### CONTENT #######
+
+Hydropower (from Greek: ὕδωρ, "water"), also known as water power, is the use of falling or fast-running water to produce electricity or to power machines. This is achieved by converting the gravitational potential or kinetic energy of a water source to produce power. Hydropower is a method of sustainable energy production.
+Since ancient times, hydropower from watermills has been used as a renewable energy source for irrigation and the operation of mechanical devices, such as gristmills, sawmills, textile mills, trip hammers, dock cranes, domestic lifts, and ore mills. A trompe, which produces compressed air from falling water, is sometimes used to power other machinery at a distance.Hydropower is now used principally for hydroelectric power generation, and is also applied as one half of an energy storage system known as pumped-storage hydroelectricity.
+Hydropower is an attractive alternative to fossil fuels as it does not directly produce carbon dioxide or other atmospheric pollutants and it provides a relatively consistent source of power. Nonetheless, it has economic, sociological, and environmental downsides and requires a sufficiently energetic source of water, such as a river or elevated lake. International institutions such as the World Bank view hydropower as a low-carbon means for economic development.
+
+
+== History ==
+
+Evidence suggests that the fundamentals of hydropower date to ancient Greek civilization. Other evidence indicates that the waterwheel independently emerged in China around the same period. Evidence of water wheels and watermills date to the ancient Near East in the 4th century BC.: 14  Moreover, evidence indicates the use of hydropower using irrigation machines to ancient civilizations such as Sumer and Babylonia. Studies suggest that the water wheel was the initial form of water power and it was driven by either humans or animals.In the Roman Empire, water-powered mills were described by Vitruvius by the first century BC. The Barbegal mill, located in modern-day France, had 16 water wheels processing up to 28 tons of grain per day. Roman waterwheels were also used for sawing marble such as the Hierapolis sawmill of the late 3rd century AD. Such sawmills had a waterwheel that drove two crank-and-connecting rods to power two saws. It also appears in two 6th century Eastern Roman saw mills excavated at Ephesus and Gerasa respectively. The crank and connecting rod mechanism of these Roman watermills converted the rotary motion of the waterwheel into the linear movement of the saw blades.Water-powered trip hammers and bellows in China, during the Han dynasty (202 BC - 220 AD), were initially thought to be powered by water scoops.: 26–30  However, some historians suggested that they were powered by waterwheels. This is since it was theorized that water scoops would not have had the motive force to operate their blast furnace bellows. Many texts describe the Hun waterwheel; some of the earliest ones are the Jijiupian dictionary of 40 BC, Yang Xiong's text known as the Fangyan of 15 BC, as well as Xin Lun, written by Huan Tan about 20 AD. It was also during this time that the engineer Du Shi (c. AD 31) applied the power of waterwheels to piston-bellows in forging cast iron.Another example of the early use of hydropower is seen in hushing. Hushing is the use of the power of a wave of water released from a tank in the extraction of metal ores. The method was first used at the Dolaucothi Gold Mines in Wales from 75 AD onwards. This method was further developed in Spain in mines such as Las Médulas. Hushing was also widely used in Britain in the Medieval and later periods to extract lead and tin ores. It later evolved into hydraulic mining when used during the California Gold Rush in the 19th century.The Islamic Empire spanned a large region, mainly in Asia and Africa, along with other surrounding areas. During the Islamic Golden Age and the Arab Agricultural Revolution (8th–13th centuries), hydropower was widely used and developed. Early uses of tidal power emerged along with large hydraulic factory complexes. A wide range of water-powered industrial mills were used in the region including fulling mills, gristmills, paper mills, hullers, sawmills, ship mills, stamp mills, steel mills, sugar mills, and tide mills. By the 11th century, every province throughout the Islamic Empire had these industrial mills in operation, from Al-Andalus and North Africa to the Middle East and Central Asia.: 10  Muslim engineers also used water turbines while employing gears in watermills and water-raising machines. They also pioneered the use of dams as a source of water power, used to provide additional power to watermills and water-raising machines.Furthermore, in his book, The Book of Knowledge of Ingenious Mechanical Devices, the Muslim mechanical engineer, Al-Jazari (1136–1206) described designs for 50 devices. Many of these devices were water-powered, including clocks, a device to serve wine, and five devices to lift water from rivers or pools, where three of them are animal-powered and one can be powered by animal or water. Moreover, they included an endless belt with jugs attached, a cow-powered shadoof (a crane-like irrigation tool), and a reciprocating device with hinged valves.
+
+In the 19th century, French engineer Benoît Fourneyron developed the first hydropower turbine. This device was implemented in the commercial plant of Niagara Falls in 1895 and it is still operating. In the early 20th century, English engineer William Armstrong built and operated the first private electrical power station which was located in his house in Cragside in Northumberland, England. In 1753, the French engineer Bernard Forest de Bélidor published his book, Architecture Hydraulique, which described vertical-axis and horizontal-axis hydraulic machines.The growing demand for the Industrial Revolution would drive development as well. At the beginning of the Industrial Revolution in Britain, water was the main power source for new inventions such as Richard Arkwright's water frame. Although water power gave way to steam power in many of the larger mills and factories, it was still used during the 18th and 19th centuries for many smaller operations, such as driving the bellows in small blast furnaces (e.g. the Dyfi Furnace) and gristmills, such as those built at Saint Anthony Falls, which uses the 50-foot (15 m) drop in the Mississippi River.Technological advances moved the open water wheel into an enclosed turbine or water motor. In 1848, the British-American engineer James B. Francis, head engineer of Lowell's Locks and Canals company, improved on these designs to create a turbine with 90% efficiency. He applied scientific principles and testing methods to the problem of turbine design. His mathematical and graphical calculation methods allowed the confident design of high-efficiency turbines to exactly match a site's specific flow conditions. The Francis reaction turbine is still in use. In the 1870s, deriving from uses in the California mining industry, Lester Allan Pelton developed the high-efficiency Pelton wheel impulse turbine, which used hydropower from the high head streams characteristic of the Sierra Nevada.
+
+
+== Calculating the amount of available power ==
+A hydropower resource can be evaluated by its available power. Power is a function of the hydraulic head and volumetric flow rate. The head is the energy per unit weight (or unit mass) of water. The static head is proportional to the difference in height through which the water falls. Dynamic head is related to the velocity of moving water. Each unit of water can do an amount of work equal to its weight times the head.
+The power available from falling water can be calculated from the flow rate and density of water, the height of fall, and the local acceleration due to gravity:
+
+  
+    
+      
+        
+          
+            
+              
+                W
+                ˙
+              
+            
+          
+          
+            out
+          
+        
+        =
+        −
+        η
+         
+        
+          
+            
+              m
+              ˙
+            
+          
+        
+        g
+         
+        Δ
+        h
+        =
+        −
+        η
+         
+        ρ
+        
+          
+            
+              V
+              ˙
+            
+          
+        
+         
+        g
+         
+        Δ
+        h
+      
+    
+    {\displaystyle {\dot {W}}_{\text{out}}=-\eta \ {\dot {m}}g\ \Delta h=-\eta \ \rho {\dot {V}}\ g\ \Delta h}
+  where
+
+  
+    
+      
+        
+          
+            
+              
+                W
+                ˙
+              
+            
+          
+          
+            out
+          
+        
+      
+    
+    {\displaystyle {\dot {W}}_{\text{out}}}
+   (work flow rate out) is the useful power output (in watts)
+
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   ("eta") is the efficiency of the turbine (dimensionless)
+
+  
+    
+      
+        
+          
+            
+              m
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {m}}}
+   is the mass flow rate (in kilograms per second)
+
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   ("rho") is the density of water (in kilograms per cubic metre)
+
+  
+    
+      
+        
+          
+            
+              V
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {V}}}
+   is the volumetric flow rate (in cubic metres per second)
+
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   is the acceleration due to gravity (in metres per second per second)
+
+  
+    
+      
+        Δ
+        h
+      
+    
+    {\displaystyle \Delta h}
+   ("Delta h") is the difference in height between the outlet and inlet (in metres)To illustrate, the power output of a turbine that is 85% efficient, with a flow rate of 80 cubic metres per second (2800 cubic feet per second) and a head of 145 metres (480 feet), is 97 megawatts:
+
+  
+    
+      
+        
+          
+            
+              
+                W
+                ˙
+              
+            
+          
+          
+            out
+          
+        
+        =
+        0.85
+        ×
+        1000
+         
+        (
+        
+          kg
+        
+        
+          /
+        
+        
+          
+            m
+          
+          
+            3
+          
+        
+        )
+        ×
+        80
+         
+        (
+        
+          
+            m
+          
+          
+            3
+          
+        
+        
+          /
+        
+        
+          s
+        
+        )
+        ×
+        9.81
+         
+        (
+        
+          m
+        
+        
+          /
+        
+        
+          
+            s
+          
+          
+            2
+          
+        
+        )
+        ×
+        145
+         
+        
+          m
+        
+        =
+        97
+        ×
+        
+          10
+          
+            6
+          
+        
+         
+        (
+        
+          kg
+        
+         
+        
+          
+            m
+          
+          
+            2
+          
+        
+        
+          /
+        
+        
+          
+            s
+          
+          
+            3
+          
+        
+        )
+        =
+        97
+         
+        
+          MW
+        
+      
+    
+    {\displaystyle {\dot {W}}_{\text{out}}=0.85\times 1000\ ({\text{kg}}/{\text{m}}^{3})\times 80\ ({\text{m}}^{3}/{\text{s}})\times 9.81\ ({\text{m}}/{\text{s}}^{2})\times 145\ {\text{m}}=97\times 10^{6}\ ({\text{kg}}\ {\text{m}}^{2}/{\text{s}}^{3})=97\ {\text{MW}}}
+  Operators of hydroelectric stations compare the total electrical energy produced with the theoretical potential energy of the water passing through the turbine to calculate efficiency. Procedures and definitions for calculation of efficiency are given in test codes such as ASME PTC 18 and IEC 60041. Field testing of turbines is used to validate the manufacturer's efficiency guarantee. Detailed calculation of the efficiency of a hydropower turbine accounts for the head lost due to flow friction in the power canal or penstock, rise in tailwater level due to flow, the location of the station and effect of varying gravity, the air temperature and barometric pressure, the density of the water at ambient temperature, and the relative altitudes of the forebay and tailbay. For precise calculations, errors due to rounding and the number of significant digits of constants must be considered.Some hydropower systems such as water wheels can draw power from the flow of a body of water without necessarily changing its height. In this case, the available power is the kinetic energy of the flowing water. Over-shot water wheels can efficiently capture both types of energy. The flow in a stream can vary widely from season to season. The development of a hydropower site requires analysis of flow records, sometimes spanning decades, to assess the reliable annual energy supply. Dams and reservoirs provide a more dependable source of power by smoothing seasonal changes in water flow. However, reservoirs have a significant environmental impact, as does alteration of naturally occurring streamflow. Dam design must account for the worst-case, "probable maximum flood" that can be expected at the site; a spillway is often included to route flood flows around the dam. A computer model of the hydraulic basin and rainfall and snowfall records are used to predict the maximum flood.
+
+
+== Disadvantages and limitations ==
+Some disadvantages of hydropower have been identified. People who live near a hydro plant site are displaced during construction or when reservoir banks become unstable. Another potential disadvantage is cultural or religious sites may block construction.Dams and reservoirs can have major negative impacts on river ecosystems such as preventing some animals traveling upstream, cooling and de-oxygenating of water released downstream, and loss of nutrients due to settling of particulates. River sediment builds river deltas and dams prevent them from restoring what is lost from erosion.  Large and deep dam and reservoir plants cover large areas of land which causes greenhouse gas emissions from underwater rotting vegetation. Furthermore, although at lower levels than other renewable energy sources, it was found that hydropower produces methane gas which is a greenhouse gas. This occurs when organic matters accumulate at the bottom of the reservoir because of the deoxygenation of water which triggers anaerobic digestion. Furthermore, studies found that the construction of dams and reservoirs can result in habitat loss for some aquatic species.Dam failures can have catastrophic effects, including loss of life, property and pollution of land.
+
+
+== Applications ==
+
+
+=== Mechanical power ===
+
+
+==== Watermills ====
+
+
+==== Compressed air ====
+
+A plentiful head of water can be made to generate compressed air directly without moving parts. In these designs, a falling column of water is deliberately mixed with air bubbles generated through turbulence or a venturi pressure reducer at the high-level intake. This allows it to fall down a shaft into a subterranean, high-roofed chamber where the now-compressed air separates from the water and becomes trapped. The height of the falling water column maintains compression of the air in the top of the chamber, while an outlet, submerged below the water level in the chamber allows water to flow back to the surface at a lower level than the intake. A separate outlet in the roof of the chamber supplies the compressed air. A facility on this principle was built on the Montreal River at Ragged Shutes near Cobalt, Ontario in 1910 and supplied 5,000 horsepower to nearby mines.
+
+
+=== Electricity ===
+
+Hydroelectricity is the biggest hydropower application. Hydroelectricity generates about 15% of global electricity and provides at least 50% of the total electricity supply for more than 35 countries. 
+Hydroelectricity generation starts with converting either the potential energy of water that is present due to the site's elevation or the kinetic energy of moving water into electrical energy.Hydroelectric power plants vary in terms of the way they harvest energy. One type involves a dam and a reservoir. The water in the reservoir is available on demand to be used to generate electricity by passing through channels that connect the dam to the reservoir. The water spins a turbine, which is connected to the generator that produces electricity.The other type is called a run-of-river plant. In this case, a barrage is built to control the flow of water, absent a reservoir. The run-of river power plant needs continuous water flow and therefore has less ability to provide power on demand. The kinetic energy of flowing water is the main source of energy.Both designs have limitations. For example, dam construction can result in discomfort to nearby residents. The dam and reservoirs occupy a relatively large amount of space that may be opposed by nearby communities. Moreover, reservoirs can potentially have major environmental consequences such as harming downstream habitats. On the other hand, the limitation of the run-of-river project is the decreased efficiency of electricity generation because the process depends on the speed of the seasonal river flow. This means that the rainy season increases electricity generation compared to the dry season.The size of hydroelectric plants can vary from small plants called micro hydro, to large plants supply that power to a whole country. As of 2019, the five largest power stations in the world are conventional hydroelectric power stations with dams.Hydroelectricity can also be used to store energy in the form of potential energy between two reservoirs at different heights with pumped-storage. Water is pumped uphill into reservoirs during periods of low demand to be released for generation when demand is high or system generation is low.
+Other forms of electricity generation with hydropower include tidal stream generators using energy from tidal power generated from oceans, rivers, and human-made canal systems to generating electricity.
+		
+		
+		
+
+
+== Rain power ==
+Rain has been referred to as "one of the last unexploited energy sources in nature. When it rains, billions of litres of water can fall, which have enormous electric potential if used in the right way." Research is being done into the different methods of generating power from rain, such as by using the energy in the impact of raindrops. This is in its very early stages with new and emerging technologies being tested, prototyped and created. Such power has been called rain power. One method in which this has been attempted is by using hybrid solar panels called "all-weather solar panels" that can generate electricity from both the sun and the rain.According to zoologist and science and technology educator, Luis Villazon, "A 2008 French study estimated that you could use piezoelectric devices, which generate power when they move, to extract 12 milliwatts from a raindrop. Over a year, this would amount to less than 0.001kWh per square metre – enough to power a remote sensor." Villazon suggested a better application would be to collect the water from fallen rain and use it to drive a turbine, with an estimated energy generation of 3 kWh of energy per year for a 185 m2 roof. A microturbine-based system created by three students from the Technological University of Mexico has been used to generate electricity. The Pluvia system "uses the stream of rainwater runoff from houses' rooftop rain gutters to spin a microturbine in a cylindrical housing. Electricity generated by that turbine is used to charge 12-volt batteries."The term rain power has also been applied to hydropower systems which include the process of capturing the rain.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+International Hydropower Association
+International Centre for Hydropower (ICH) hydropower portal with links to numerous organizations related to hydropower worldwide
+IEC TC 4: Hydraulic turbines (International Electrotechnical Commission – Technical Committee 4) IEC TC 4 portal with access to scope, documents and TC 4 website
+Micro-hydro power, Adam Harvey, 2004, Intermediate Technology Development Group. Retrieved 1 January 2005
+Microhydropower Systems, US Department of Energy, Energy Efficiency and Renewable Energy, 2005
+

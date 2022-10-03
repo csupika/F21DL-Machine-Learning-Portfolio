@@ -1,0 +1,1324 @@
+####### TITLE #######
+
+Polygon
+
+####### LINKS #######
+
+['10-cube', '10-demicube', '10-orthoplex', '10-simplex', '120-cell', '16-cell', '1 22 polytope', '1 32 polytope', '1 42 polytope', '24-cell', '257-gon', '2 21 polytope', '2 31 polytope', '2 41 polytope', '3 21 polytope', '4 21 polytope', '5-cell', '5-cube', '5-demicube', '5-orthoplex', '5-simplex', '6-cube', '6-demicube', '6-orthoplex', '6-simplex', '600-cell', '65537-gon', '7-cube', '7-demicube', '7-orthoplex', '7-simplex', '8-cube', '8-demicube', '8-orthoplex', '8-simplex', '9-cube', '9-demicube', '9-orthoplex', '9-simplex', 'Absolute value', 'Abstract polytope', 'Acute and obtuse triangles', 'Advances in Applied Mathematics', 'Angle trisector', 'Antiparallelogram', 'Apeirogon', 'Apothem', 'ArXiv (identifier)', 'Area (geometry)', 'Aristophanes (vase painter)', 'Basalt', 'Bee', 'Bicentric quadrilateral', 'Biology', 'Bolyai–Gerwien theorem', 'Boolean operations on polygons', 'Caere', 'California', 'Capitoline Museum', 'Cartography', 'Centroid', 'Charles Sanders Peirce', 'Chiliagon', 'Circle', 'Circumcircle', 'Circumscribed circle', 'Compass and straightedge', 'Complete graph', 'Complex number', 'Complex plane', 'Complex polygon', 'Complex polytope', 'Computational geometry', 'Computer graphics', 'Concave polygon', 'Configuration (polytope)', 'Constructible polygon', 'Convex polygon', 'Coxeter group', 'Cross-polytope', 'Crossed quadrilateral', 'Crystal', 'Cube', 'Cyclic polygon', 'Cyclic quadrilateral', 'David Hume', 'Decagon', 'Decagram (geometry)', 'Degree (angle)', 'Demihypercube', 'Density (polytope)', 'Determinant', "Devil's Postpile", 'Digon', 'Dodecagon', 'Dodecagram', 'Doi (identifier)', 'E6 (mathematics)', 'E7 (mathematics)', 'E8 (mathematics)', 'Edge-transitive', 'Edge (geometry)', 'Enneagram (geometry)', 'Equiangular polygon', 'Equidiagonal quadrilateral', 'Equilateral polygon', 'Equilateral triangle', 'Eric W. Weisstein', 'Euclidean geometry', 'Ex-tangential quadrilateral', 'Exterior angle', 'F4 (mathematics)', 'G2 (mathematics)', 'Geoffrey Colin Shephard', 'Geometric primitive', 'Geometric shape', 'Geometry', "Giant's Causeway", 'Golygon', 'Greek language', 'Günter Ziegler', 'H4 (mathematics)', 'Harmonic quadrilateral', 'Harold Scott MacDonald Coxeter', 'Hendecagon', 'Hendecagram', 'Heptadecagon', 'Heptagon', 'Heptagram', 'Hexadecagon', 'Hexagon', 'Hexagonal tiling', 'Hexagram', 'Hilbert space', 'Honeycomb', 'Hypercube', 'ISBN (identifier)', 'Icosagon', 'Icositetragon', 'Icositrigon', 'Ideal triangle', 'Igor Pak', 'Imaginary number', 'Immanuel Kant', 'Infinite skew polygon', 'Inscribed circle', 'Interior angle', 'Isogonal figure', 'Isoperimetric inequality', 'Isosceles trapezoid', 'Isosceles triangle', 'Isotoxal figure', 'JSTOR (identifier)', 'Johannes Kepler', 'John H. Conway', 'Kepler triangle', 'Kepler–Poinsot polyhedron', 'Kite (geometry)', 'Krater', 'Late Latin', 'Lava', 'Line segment', 'List of polygons', 'List of regular polytopes and compounds', 'List of self-intersecting polygons', 'MR (identifier)', 'Magic polygon', 'Material (computer graphics)', 'MathWorld', 'Meditations on First Philosophy', 'Megagon', 'Monogon', 'Monotone polygon', 'Myriagon', 'Neusis construction', 'Nonagon', 'Northern Ireland', 'Numerical prefix', 'Octadecagon', 'Octagon', 'Octagram', 'Octahedron', 'Orbit (dynamics)', 'Orientation (vector space)', 'Orthodiagonal quadrilateral', 'Orthogonal (geometry)', 'Parallelogram', 'Partially ordered set', 'Pentadecagon', 'Pentagon', 'Pentagonal polytope', 'Pentagram', 'Petrie polygon', 'Pi', "Pick's theorem", 'Plane (mathematics)', 'Point in polygon', 'Polyform', 'Polygon (computer graphics)', 'Polygon (disambiguation)', 'Polygon mesh', 'Polygon soup', 'Polygon triangulation', 'Polygonal chain', 'Polyhedron', 'Polytope', 'Polytope families', 'Precision polygon', 'Pseudotriangle', 'Quadrilateral', 'Quasiregular polyhedron', 'Radian', 'Real number', 'Rectangle', 'Rectilinear polygon', 'Region (mathematics)', 'Regular Polytopes (book)', 'Regular dodecahedron', 'Regular icosahedron', 'Regular polygon', 'Regular polytope', 'Reinhardt polygon', 'René Descartes', 'Rhombus', 'Right kite', 'Right trapezoid', 'Right triangle', 'S2CID (identifier)', 'Shape', 'Shoelace formula', 'Simple Lie group', 'Simple polygon', 'Simplex', 'Skew apeirogon', 'Skew polygon', 'Spherical polygon', 'Spirolateral', 'Square', 'Square tiling', 'Star-shaped polygon', 'Star polygon', 'Supplementary angle', 'Symmetry orbit', 'Synthetic geometry', 'Tangential polygon', 'Tangential quadrilateral', 'Tangential trapezoid', 'Tessellation', 'Tesseract', 'Tetradecagon', 'Tetrahedron', 'Thomas Bradwardine', 'Thomas Little Heath', 'Tiling puzzle', 'Trapezoid', 'Triacontagon', 'Triangle', 'Triangular tiling', 'Tridecagon', 'Turn (geometry)', 'Turning number', 'Uniform 10-polytope', 'Uniform 1 k2 polytope', 'Uniform 2 k1 polytope', 'Uniform 5-polytope', 'Uniform 6-polytope', 'Uniform 7-polytope', 'Uniform 8-polytope', 'Uniform 9-polytope', 'Uniform k 21 polytope', 'Uniform polychoron', 'Uniform polyhedra', 'Uniform polyhedron', 'Uniform polytope', 'Vertex-transitive', 'Vertex (computer graphics)', 'Vertex (geometry)', 'Wayback Machine', 'Wilhelm Magnus', "Wythoff's construction"]
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles with unsourced statements', 'Articles needing additional references from October 2018', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Articles with unsourced statements from February 2019', 'Commons category link is on Wikidata', 'Euclidean plane geometry', 'Polygons', 'Short description matches Wikidata', 'Webarchive template wayback links', 'Wikipedia indefinitely semi-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/1/1f/Assorted_polygons.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/26/Fotothek_df_tg_0003352_Geometrie_%5E_Dreieck_%5E_Viereck_%5E_Vieleck_%5E_Winkel.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/7f/Giants_causeway_closeup.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Polygon_types.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/42/Polygon_vertex_labels.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Winkelsumme-polygon.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg']
+
+####### REFERENCES #######
+
+['http://dynamicmathematicslearning.com/crossed-quad-area.pdf', 'http://dynamicmathematicslearning.com/star_pentagon.html', 'http://www.mathopenref.com/tocs/polygontoc.html', 'http://forumgeom.fau.edu/FG2002volume2/FG200215.pdf', 'http://www.seas.upenn.edu/~sys502/extra_materials/Polygon%20Area%20and%20Centroid.pdf', 'http://www.math.washington.edu/~grunbaum/Your%20polyhedra-my%20polyhedra.pdf', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007563260005171', 'http://www.ams.org/mathscinet-getitem?mr=1343696', 'http://www.ams.org/mathscinet-getitem?mr=2128993', 'http://arxiv.org/abs/math/0408104', 'http://doi.org/10.1007%2F978-3-540-87744-8_62', 'http://doi.org/10.1016%2Fj.aam.2004.08.006', 'http://doi.org/10.1016%2Fj.hm.2003.09.002', 'http://doi.org/10.1090%2FS0002-9939-96-03492-2', 'http://doi.org/10.2307%2F2686282', 'http://www.faqs.org/faqs/graphics/algorithms-faq/', 'http://www.jstor.org/stable/2161556', 'http://www.jstor.org/stable/2686282', 'http://www.maa.org/pubs/Calc_articles/ma063.pdf', 'http://mathforum.org/dr.math/faq/faq.polygon.names.html', 'http://en.museicapitolini.org/collezioni/percorsi_per_sale/museo_del_palazzo_dei_conservatori/sale_castellani/cratere_con_l_accecamento_di_polifemo_e_battaglia_navale', 'https://books.google.com/books?ei=fpDlVLuCDNCYuQTEx4LwDA&id=wALvAAAAMAAJ&dq=pentecontagon&q=hebdomecontagon&redir_esc=y', 'https://books.google.com/books?id=0YiXM-x--4wC&pg=PA249&dq=polygon+megagon&hl=en&sa=X&ei=0TE4T7jOMc-G0QGH1ezGAg&ved=0CDgQ6AEwAA#v=onepage&q=polygon%20megagon&f=false', 'https://books.google.com/books?id=4uQBAAAAcAAJ&pg=PA101', 'https://books.google.com/books?id=5yHtsM-NToYC&pg=PA26', 'https://books.google.com/books?id=DX4YstV76c4C&pg=PA90', 'https://books.google.com/books?id=Ey94E3sOMA0C&pg=PA202', 'https://books.google.com/books?id=KyFHAAAAIAAJ&q=%22million-sided+polygon%22&dq=%22million-sided+polygon%22&hl=en&sa=X&ei=gl06T6CeAcGjiQeO3qCNCg&ved=0CEkQ6AEwBA', 'https://books.google.com/books?id=MDe9AAAAIAAJ&pg=PA22', 'https://books.google.com/books?id=MrwKHqw06hMC&pg=PA27', 'https://books.google.com/books?id=OVu0CORmhL4C&pg=PA56&lpg=PA56', 'https://books.google.com/books?id=SnO1FKnJui4C&pg=PA86', 'https://books.google.com/books?id=_aNZAAAAMAAJ&q=%22million-sided+polygon%22&dq=%22million-sided+polygon%22&hl=en&sa=X&ei=gl06T6CeAcGjiQeO3qCNCg&ved=0CD0Q6AEwAg', 'https://books.google.com/books?id=drnY3Vjix3kC&pg=PA162', 'https://books.google.com/books?id=ehZGIy_ZYTgC&pg=PA124', 'https://books.google.com/books?id=l8tWAAAAYAAJ', 'https://books.google.com/books?id=t1SS5S9IBqUC', 'https://books.google.com/books?id=t1SS5S9IBqUC&pg=PA404', 'https://books.google.com/books?id=vAfBrK678_kC&q=star+polygon&pg=PA256', 'https://www.mathopenref.com/polygonregularareaderive.html', 'https://msdn.microsoft.com/en-us/library/windows/desktop/bb147325(v=vs.85).aspx', 'https://www.sciencedirect.com/bookseries/pure-and-applied-mathematics/vol/61/suppl/C', 'https://mathworld.wolfram.com/Polygon.html', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph327599&CON_LNG=ENG', 'https://catalogue.bnf.fr/ark:/12148/cb12266998h', 'https://data.bnf.fr/ark:/12148/cb12266998h', 'https://id.loc.gov/authorities/subjects/sh85104637', 'https://d-nb.info/gnd/4175197-8', 'https://archive.org/details/geometrydemystif00stan', 'https://web.archive.org/web/20050212114016/http://members.aol.com/Polycell/what.html', 'https://web.archive.org/web/20080412002923/http://herbert.gandraxa.com/herbert/dop.asp', 'https://web.archive.org/web/20110720075903/http://www.complex-a5.ru/polyboolean/comp.html', 'https://web.archive.org/web/20120916104133/http://www.seas.upenn.edu/~sys502/extra_materials/Polygon%20Area%20and%20Centroid.pdf', 'https://web.archive.org/web/20121107190918/http://www.maa.org/pubs/Calc_articles/ma063.pdf', 'https://web.archive.org/web/20131112080845/http://en.museicapitolini.org/collezioni/percorsi_per_sale/museo_del_palazzo_dei_conservatori/sale_castellani/cratere_con_l_accecamento_di_polifemo_e_battaglia_navale', 'https://doi.org/10.1080%2F00029890.2002.11919848', 'https://dx.doi.org/10.1017/S0305004113000753', 'https://www.khronos.org/opengl/wiki/Vertex_Specification#Primitives', 'https://api.semanticscholar.org/CorpusID:6756387', 'https://www.wikidata.org/wiki/Q37555#identifiers']
+
+####### SUMMARY #######
+
+In geometry, a polygon () is a plane figure that is described by a finite number of straight line segments connected to form a closed polygonal chain (or polygonal circuit). The bounded plane region, the bounding circuit, or the two together, may be called a polygon.
+The segments of a polygonal circuit are called its edges or sides. The points where two edges meet are the polygon's vertices (singular: vertex) or corners. The interior of a solid polygon is sometimes called its body. An n-gon is a polygon with n sides; for example, a triangle is a 3-gon.
+A simple polygon is one which does not intersect itself. Mathematicians are often concerned only with the bounding polygonal chains of simple polygons and they often define a polygon accordingly. A polygonal boundary may be allowed to cross over itself, creating star polygons and other self-intersecting polygons.
+A polygon is a 2-dimensional example of the more general polytope in any number of dimensions. There are many more generalizations of polygons defined for different purposes.
+
+####### CONTENT #######
+
+In geometry, a polygon () is a plane figure that is described by a finite number of straight line segments connected to form a closed polygonal chain (or polygonal circuit). The bounded plane region, the bounding circuit, or the two together, may be called a polygon.
+The segments of a polygonal circuit are called its edges or sides. The points where two edges meet are the polygon's vertices (singular: vertex) or corners. The interior of a solid polygon is sometimes called its body. An n-gon is a polygon with n sides; for example, a triangle is a 3-gon.
+A simple polygon is one which does not intersect itself. Mathematicians are often concerned only with the bounding polygonal chains of simple polygons and they often define a polygon accordingly. A polygonal boundary may be allowed to cross over itself, creating star polygons and other self-intersecting polygons.
+A polygon is a 2-dimensional example of the more general polytope in any number of dimensions. There are many more generalizations of polygons defined for different purposes.
+
+
+== Etymology ==
+The word polygon derives from the Greek adjective πολύς (polús) 'much', 'many' and γωνία (gōnía) 'corner' or 'angle'. It has been suggested that γόνυ (gónu) 'knee' may be the origin of gon.
+
+
+== Classification ==
+
+
+=== Number of sides ===
+Polygons are primarily classified by the number of sides. See the table below.
+
+
+=== Convexity and intersection ===
+Polygons may be characterized by their convexity or type of non-convexity:
+
+Convex: any line drawn through the polygon (and not tangent to an edge or corner) meets its boundary exactly twice. As a consequence, all its interior angles are less than 180°. Equivalently, any line segment with endpoints on the boundary passes through only interior points between its endpoints. This condition is true for polygons in ay geometry, not just Euclidean.
+Non-convex: a line may be found which meets its boundary more than twice. Equivalently, there exists a line segment between two boundary points that passes outside the polygon.
+Simple: the boundary of the polygon does not cross itself. All convex polygons are simple.
+Concave: Non-convex and simple. There is at least one interior angle greater than 180°.
+Star-shaped: the whole interior is visible from at least one point, without crossing any edge. The polygon must be simple, and may be convex or concave. All convex polygons are star-shaped.
+Self-intersecting: the boundary of the polygon crosses itself. The term complex is sometimes used in contrast to simple, but this usage risks confusion with the idea of a complex polygon as one which exists in the complex Hilbert plane consisting of two complex dimensions.
+Star polygon: a polygon which self-intersects in a regular way. A polygon cannot be both a star and star-shaped.
+
+
+=== Equality and symmetry ===
+Equiangular: all corner angles are equal.
+Equilateral: all edges are of the same length.
+Regular: both equilateral and equiangular.
+Cyclic: all corners lie on a single circle, called the circumcircle.
+Tangential: all sides are tangent to an inscribed circle.
+Isogonal or vertex-transitive: all corners lie within the same symmetry orbit. The polygon is also cyclic and equiangular.
+Isotoxal or edge-transitive: all sides lie within the same symmetry orbit. The polygon is also equilateral and tangential.The property of regularity may be defined in other ways: a polygon is regular if and only if it is both isogonal and isotoxal, or equivalently it is both cyclic and equilateral. A non-convex regular polygon is called a regular star polygon.
+
+
+=== Miscellaneous ===
+Rectilinear: the polygon's sides meet at right angles, i.e., all its interior angles are 90 or 270 degrees.
+Monotone with respect to a given line L: every line orthogonal to L intersects the polygon not more than twice.
+
+
+== Properties and formulas ==
+
+Euclidean geometry is assumed throughout.
+
+
+=== Angles ===
+Any polygon has as many corners as it has sides. Each corner has several angles. The two most important ones are:
+
+Interior angle – The sum of the interior angles of a simple n-gon is (n − 2) × π radians or (n − 2) × 180 degrees. This is because any simple n-gon ( having n sides ) can be considered to be made up of (n − 2) triangles, each of which has an angle sum of π radians or 180 degrees. The measure of any interior angle of a convex regular n-gon is 
+  
+    
+      
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  2
+                  n
+                
+              
+            
+          
+          )
+        
+        π
+      
+    
+    {\displaystyle \left(1-{\tfrac {2}{n}}\right)\pi }
+   radians or 
+  
+    
+      
+        180
+        −
+        
+          
+            
+              360
+              n
+            
+          
+        
+      
+    
+    {\displaystyle 180-{\tfrac {360}{n}}}
+   degrees. The interior angles of regular star polygons were first studied by Poinsot, in the same paper in which he describes the four regular star polyhedra: for a regular 
+  
+    
+      
+        
+          
+            
+              p
+              q
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {p}{q}}}
+  -gon (a p-gon with central density q), each interior angle is 
+  
+    
+      
+        
+          
+            
+              
+                π
+                (
+                p
+                −
+                2
+                q
+                )
+              
+              p
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\pi (p-2q)}{p}}}
+   radians or 
+  
+    
+      
+        
+          
+            
+              
+                180
+                (
+                p
+                −
+                2
+                q
+                )
+              
+              p
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {180(p-2q)}{p}}}
+   degrees.
+Exterior angle – The exterior angle is the supplementary angle to the interior angle. Tracing around a convex n-gon, the angle "turned" at a corner is the exterior or external angle. Tracing all the way around the polygon makes one full turn, so the sum of the exterior angles must be 360°. This argument can be generalized to concave simple polygons, if external angles that turn in the opposite direction are subtracted from the total turned. Tracing around an n-gon in general, the sum of the exterior angles (the total amount one rotates at the vertices) can be any integer multiple d of 360°, e.g. 720° for a pentagram and 0° for an angular "eight" or antiparallelogram, where d is the density or turning number of the polygon. See also orbit (dynamics).
+
+
+=== Area ===
+
+In this section, the vertices of the polygon under consideration are taken to be 
+  
+    
+      
+        (
+        
+          x
+          
+            0
+          
+        
+        ,
+        
+          y
+          
+            0
+          
+        
+        )
+        ,
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            1
+          
+        
+        )
+        ,
+        …
+        ,
+        (
+        
+          x
+          
+            n
+            −
+            1
+          
+        
+        ,
+        
+          y
+          
+            n
+            −
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{0},y_{0}),(x_{1},y_{1}),\ldots ,(x_{n-1},y_{n-1})}
+   in order.  For convenience in some formulas, the notation (xn, yn) = (x0, y0) will also be used.
+
+
+==== Simple polygons ====
+
+If the polygon is non-self-intersecting (that is, simple), the signed area is
+
+  
+    
+      
+        A
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        −
+        
+          x
+          
+            i
+            +
+            1
+          
+        
+        
+          y
+          
+            i
+          
+        
+        )
+        
+        
+          where 
+        
+        
+          x
+          
+            n
+          
+        
+        =
+        
+          x
+          
+            0
+          
+        
+        
+           and 
+        
+        
+          y
+          
+            n
+          
+        
+        =
+        
+          y
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle A={\frac {1}{2}}\sum _{i=0}^{n-1}(x_{i}y_{i+1}-x_{i+1}y_{i})\quad {\text{where }}x_{n}=x_{0}{\text{ and }}y_{n}=y_{0},}
+  or, using determinants
+
+  
+    
+      
+        16
+        
+          A
+          
+            2
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          
+            |
+            
+              
+                
+                  
+                    Q
+                    
+                      i
+                      ,
+                      j
+                    
+                  
+                
+                
+                  
+                    Q
+                    
+                      i
+                      ,
+                      j
+                      +
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    Q
+                    
+                      i
+                      +
+                      1
+                      ,
+                      j
+                    
+                  
+                
+                
+                  
+                    Q
+                    
+                      i
+                      +
+                      1
+                      ,
+                      j
+                      +
+                      1
+                    
+                  
+                
+              
+            
+            |
+          
+        
+        ,
+      
+    
+    {\displaystyle 16A^{2}=\sum _{i=0}^{n-1}\sum _{j=0}^{n-1}{\begin{vmatrix}Q_{i,j}&Q_{i,j+1}\\Q_{i+1,j}&Q_{i+1,j+1}\end{vmatrix}},}
+  where 
+  
+    
+      
+        
+          Q
+          
+            i
+            ,
+            j
+          
+        
+      
+    
+    {\displaystyle Q_{i,j}}
+   is the squared distance between 
+  
+    
+      
+        (
+        
+          x
+          
+            i
+          
+        
+        ,
+        
+          y
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{i},y_{i})}
+   and 
+  
+    
+      
+        (
+        
+          x
+          
+            j
+          
+        
+        ,
+        
+          y
+          
+            j
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle (x_{j},y_{j}).}
+  The signed area depends on the ordering of the vertices and of the orientation of the plane. Commonly, the positive orientation is defined by the (counterclockwise) rotation that maps the positive x-axis to the positive y-axis. If the vertices are ordered counterclockwise (that is, according to positive orientation), the signed area is positive; otherwise, it is negative. In either case, the area formula is correct in absolute value. This is commonly called the shoelace formula or surveyor's formula.The area A of a simple polygon can also be computed if the lengths of the sides, a1, a2, ..., an and the exterior angles, θ1, θ2, ..., θn are known, from:
+
+  
+    
+      
+        
+          
+            
+              
+                A
+                =
+                
+                  
+                    1
+                    2
+                  
+                
+                (
+                
+                  a
+                  
+                    1
+                  
+                
+                [
+                
+                  a
+                  
+                    2
+                  
+                
+                sin
+                ⁡
+                (
+                
+                  θ
+                  
+                    1
+                  
+                
+                )
+                +
+                
+                  a
+                  
+                    3
+                  
+                
+                sin
+                ⁡
+                (
+                
+                  θ
+                  
+                    1
+                  
+                
+                +
+                
+                  θ
+                  
+                    2
+                  
+                
+                )
+                +
+                ⋯
+                +
+                
+                  a
+                  
+                    n
+                    −
+                    1
+                  
+                
+                sin
+                ⁡
+                (
+                
+                  θ
+                  
+                    1
+                  
+                
+                +
+                
+                  θ
+                  
+                    2
+                  
+                
+                +
+                ⋯
+                +
+                
+                  θ
+                  
+                    n
+                    −
+                    2
+                  
+                
+                )
+                ]
+              
+            
+            
+              
+                
+
+                
+                +
+                
+                  a
+                  
+                    2
+                  
+                
+                [
+                
+                  a
+                  
+                    3
+                  
+                
+                sin
+                ⁡
+                (
+                
+                  θ
+                  
+                    2
+                  
+                
+                )
+                +
+                
+                  a
+                  
+                    4
+                  
+                
+                sin
+                ⁡
+                (
+                
+                  θ
+                  
+                    2
+                  
+                
+                +
+                
+                  θ
+                  
+                    3
+                  
+                
+                )
+                +
+                ⋯
+                +
+                
+                  a
+                  
+                    n
+                    −
+                    1
+                  
+                
+                sin
+                ⁡
+                (
+                
+                  θ
+                  
+                    2
+                  
+                
+                +
+                ⋯
+                +
+                
+                  θ
+                  
+                    n
+                    −
+                    2
+                  
+                
+                )
+                ]
+              
+            
+            
+              
+                
+
+                
+                +
+                ⋯
+                +
+                
+                  a
+                  
+                    n
+                    −
+                    2
+                  
+                
+                [
+                
+                  a
+                  
+                    n
+                    −
+                    1
+                  
+                
+                sin
+                ⁡
+                (
+                
+                  θ
+                  
+                    n
+                    −
+                    2
+                  
+                
+                )
+                ]
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}A={\frac {1}{2}}(a_{1}[a_{2}\sin(\theta _{1})+a_{3}\sin(\theta _{1}+\theta _{2})+\cdots +a_{n-1}\sin(\theta _{1}+\theta _{2}+\cdots +\theta _{n-2})]\\{}+a_{2}[a_{3}\sin(\theta _{2})+a_{4}\sin(\theta _{2}+\theta _{3})+\cdots +a_{n-1}\sin(\theta _{2}+\cdots +\theta _{n-2})]\\{}+\cdots +a_{n-2}[a_{n-1}\sin(\theta _{n-2})]).\end{aligned}}}
+  The formula was described by Lopshits in 1963.If the polygon can be drawn on an equally spaced grid such that all its vertices are grid points, Pick's theorem gives a simple formula for the polygon's area based on the numbers of interior and boundary grid points: the former number plus one-half the latter number, minus 1.
+In every polygon with perimeter p and area A , the isoperimetric inequality 
+  
+    
+      
+        
+          p
+          
+            2
+          
+        
+        >
+        4
+        π
+        A
+      
+    
+    {\displaystyle p^{2}>4\pi A}
+   holds.For any two simple polygons of equal area, the Bolyai–Gerwien theorem asserts that the first can be cut into polygonal pieces which can be reassembled to form the second polygon.
+The lengths of the sides of a polygon do not in general determine its area. However, if the polygon is simple and cyclic then the sides do determine the area.  Of all n-gons with given side lengths, the one with the largest area is cyclic. Of all n-gons with a given perimeter, the one with the largest area is regular (and therefore cyclic).
+
+
+==== Regular polygons ====
+Many specialized formulas apply to the areas of regular polygons.
+The area of a regular polygon is given in terms of the radius r of its inscribed circle and its perimeter p by 
+
+  
+    
+      
+        A
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        ⋅
+        p
+        ⋅
+        r
+        .
+      
+    
+    {\displaystyle A={\tfrac {1}{2}}\cdot p\cdot r.}
+  This radius is also termed its apothem and is often represented as a.
+The area of a regular n-gon in terms of the radius R of its circumscribed circle can be expressed trigonometrically as:
+
+  
+    
+      
+        A
+        =
+        
+          R
+          
+            2
+          
+        
+        ⋅
+        
+          
+            n
+            2
+          
+        
+        ⋅
+        sin
+        ⁡
+        
+          
+            
+              2
+              π
+            
+            n
+          
+        
+        =
+        
+          R
+          
+            2
+          
+        
+        ⋅
+        n
+        ⋅
+        sin
+        ⁡
+        
+          
+            π
+            n
+          
+        
+        ⋅
+        cos
+        ⁡
+        
+          
+            π
+            n
+          
+        
+      
+    
+    {\displaystyle A=R^{2}\cdot {\frac {n}{2}}\cdot \sin {\frac {2\pi }{n}}=R^{2}\cdot n\cdot \sin {\frac {\pi }{n}}\cdot \cos {\frac {\pi }{n}}}
+  The area of a regular n-gon inscribed in a unit-radius circle, with side s and interior angle 
+  
+    
+      
+        α
+        ,
+      
+    
+    {\displaystyle \alpha ,}
+   can also be expressed trigonometrically as:
+
+  
+    
+      
+        A
+        =
+        
+          
+            
+              n
+              
+                s
+                
+                  2
+                
+              
+            
+            4
+          
+        
+        cot
+        ⁡
+        
+          
+            π
+            n
+          
+        
+        =
+        
+          
+            
+              n
+              
+                s
+                
+                  2
+                
+              
+            
+            4
+          
+        
+        cot
+        ⁡
+        
+          
+            α
+            
+              n
+              −
+              2
+            
+          
+        
+        =
+        n
+        ⋅
+        sin
+        ⁡
+        
+          
+            α
+            
+              n
+              −
+              2
+            
+          
+        
+        ⋅
+        cos
+        ⁡
+        
+          
+            α
+            
+              n
+              −
+              2
+            
+          
+        
+        .
+      
+    
+    {\displaystyle A={\frac {ns^{2}}{4}}\cot {\frac {\pi }{n}}={\frac {ns^{2}}{4}}\cot {\frac {\alpha }{n-2}}=n\cdot \sin {\frac {\alpha }{n-2}}\cdot \cos {\frac {\alpha }{n-2}}.}
+  
+
+
+==== Self-intersecting ====
+The area of a self-intersecting polygon can be defined in two different ways, giving different answers:
+
+Using the formulas for simple polygons, we allow that particular regions within the polygon may have their area multiplied by a factor which we call the density of the region. For example, the central convex pentagon in the center of a pentagram has density 2. The two triangular regions of a cross-quadrilateral (like a figure 8) have opposite-signed densities, and adding their areas together can give a total area of zero for the whole figure.
+Considering the enclosed regions as point sets, we can find the area of the enclosed point set. This corresponds to the area of the plane covered by the polygon or to the area of one or more simple polygons having the same outline as the self-intersecting one. In the case of the cross-quadrilateral, it is treated as two simple triangles.
+
+
+=== Centroid ===
+Using the same convention for vertex coordinates as in the previous section, the coordinates of the centroid of a solid simple polygon are 
+
+  
+    
+      
+        
+          C
+          
+            x
+          
+        
+        =
+        
+          
+            1
+            
+              6
+              A
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+        +
+        
+          x
+          
+            i
+            +
+            1
+          
+        
+        )
+        (
+        
+          x
+          
+            i
+          
+        
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        −
+        
+          x
+          
+            i
+            +
+            1
+          
+        
+        
+          y
+          
+            i
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle C_{x}={\frac {1}{6A}}\sum _{i=0}^{n-1}(x_{i}+x_{i+1})(x_{i}y_{i+1}-x_{i+1}y_{i}),}
+  
+
+  
+    
+      
+        
+          C
+          
+            y
+          
+        
+        =
+        
+          
+            1
+            
+              6
+              A
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        (
+        
+          y
+          
+            i
+          
+        
+        +
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        )
+        (
+        
+          x
+          
+            i
+          
+        
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        −
+        
+          x
+          
+            i
+            +
+            1
+          
+        
+        
+          y
+          
+            i
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle C_{y}={\frac {1}{6A}}\sum _{i=0}^{n-1}(y_{i}+y_{i+1})(x_{i}y_{i+1}-x_{i+1}y_{i}).}
+  In these formulas, the signed value of area 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   must be used.
+For triangles (n = 3), the centroids of the vertices and of the solid shape are the same, but, in general, this is not true for n > 3.  The centroid of the vertex set of a polygon with n vertices has the coordinates
+
+  
+    
+      
+        
+          c
+          
+            x
+          
+        
+        =
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          x
+          
+            i
+          
+        
+        ,
+      
+    
+    {\displaystyle c_{x}={\frac {1}{n}}\sum _{i=0}^{n-1}x_{i},}
+  
+
+  
+    
+      
+        
+          c
+          
+            y
+          
+        
+        =
+        
+          
+            1
+            n
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          y
+          
+            i
+          
+        
+        .
+      
+    
+    {\displaystyle c_{y}={\frac {1}{n}}\sum _{i=0}^{n-1}y_{i}.}
+  
+
+
+== Generalizations ==
+The idea of a polygon has been generalized in various ways. Some of the more important include:
+
+A spherical polygon is a circuit of arcs of great circles (sides) and vertices on the surface of a sphere. It allows the digon, a polygon having only two sides and two corners, which is impossible in a flat plane. Spherical polygons play an important role in cartography (map making) and in Wythoff's construction of the uniform polyhedra.
+A skew polygon does not lie in a flat plane, but zigzags in three (or more) dimensions. The Petrie polygons of the regular polytopes are well known examples.
+An apeirogon is an infinite sequence of sides and angles, which is not closed but has no ends because it extends indefinitely in both directions.
+A skew apeirogon is an infinite sequence of sides and angles that do not lie in a flat plane.
+A complex polygon is a configuration analogous to an ordinary polygon, which exists in the complex plane of two real and two imaginary dimensions.
+An abstract polygon is an algebraic partially ordered set representing the various elements (sides, vertices, etc.) and their connectivity. A real geometric polygon is said to be a realization of the associated abstract polygon. Depending on the mapping, all the generalizations described here can be realized.
+A polyhedron is a three-dimensional solid bounded by flat polygonal faces, analogous to a polygon in two dimensions. The corresponding shapes in four or higher dimensions are called polytopes. (In other conventions, the words polyhedron and polytope are used in any dimension, with the distinction between the two that a polytope is necessarily bounded.)
+
+
+== Naming ==
+The word polygon comes from Late Latin polygōnum (a noun), from Greek πολύγωνον (polygōnon/polugōnon), noun use of neuter of πολύγωνος (polygōnos/polugōnos, the masculine adjective), meaning "many-angled". Individual polygons are named (and sometimes classified) according to the number of sides, combining a Greek-derived numerical prefix with the suffix -gon, e.g. pentagon, dodecagon. The triangle, quadrilateral and nonagon are exceptions.
+Beyond decagons (10-sided) and dodecagons (12-sided), mathematicians generally use numerical notation, for example 17-gon and 257-gon.Exceptions exist for side counts that are easily expressed in verbal form (e.g. 20 and 30), or are used by non-mathematicians. Some special polygons also have their own names; for example the regular star pentagon is also known as the pentagram.
+
+To construct the name of a polygon with more than 20 and less than 100 edges, combine the prefixes as follows. The "kai" term applies to 13-gons and higher and was used by Kepler, and advocated by John H. Conway for clarity of concatenated prefix numbers in the naming of quasiregular polyhedra, though not all sources use it.
+
+
+== History ==
+
+Polygons have been known since ancient times. The regular polygons were known to the ancient Greeks, with the pentagram, a non-convex regular polygon (star polygon), appearing as early as the 7th century B.C. on a krater by Aristophanes, found at Caere and now in the Capitoline Museum.The first known systematic study of non-convex polygons in general was made by Thomas Bradwardine in the 14th century.In 1952, Geoffrey Colin Shephard generalized the idea of polygons to the complex plane, where each real dimension is accompanied by an imaginary one, to create complex polygons.
+
+
+== In nature ==
+
+Polygons appear in rock formations, most commonly as the flat facets of crystals, where the angles between the sides depend on the type of mineral from which the crystal is made.
+Regular hexagons can occur when the cooling of lava forms areas of tightly packed columns of basalt, which may be seen at the Giant's Causeway in Northern Ireland, or at the Devil's Postpile in California.
+In biology, the surface of the wax honeycomb made by bees is an array of hexagons, and the sides and base of each cell are also polygons.
+
+
+== Computer graphics ==
+
+In computer graphics, a polygon is a primitive used in modelling and rendering. They are defined in a database, containing arrays of vertices (the coordinates of the geometrical vertices, as well as other attributes of the polygon, such as color, shading and texture), connectivity information, and materials.Any surface is modelled as a tessellation called polygon mesh. If a square mesh has n + 1 points (vertices) per side, there are n squared squares in the mesh, or 2n squared triangles since there are two triangles in a square. There are (n + 1)2 / 2(n2) vertices per triangle. Where n is large, this approaches one half. Or, each vertex inside the square mesh connects four edges (lines).
+The imaging system calls up the structure of polygons needed for the scene to be created from the database. This is transferred to active memory and finally, to the display system (screen, TV monitors etc.) so that the scene can be viewed. During this process, the imaging system renders polygons in correct perspective ready for transmission of the processed data to the display system. Although polygons are two-dimensional, through the system computer they are placed in a visual scene in the correct three-dimensional orientation.
+In computer graphics and computational geometry, it is often necessary to determine whether a given point 
+  
+    
+      
+        P
+        =
+        (
+        
+          x
+          
+            0
+          
+        
+        ,
+        
+          y
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle P=(x_{0},y_{0})}
+   lies inside a simple polygon given by a sequence of line segments. This is called the point in polygon test.
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Bibliography ===
+Coxeter, H.S.M.; Regular Polytopes, Methuen and Co., 1948 (3rd Edition, Dover, 1973).
+Cromwell, P.; Polyhedra, CUP hbk (1997), pbk. (1999).
+Grünbaum, B.; Are your polyhedra the same as my polyhedra? Discrete and comput. geom: the Goodman-Pollack festschrift, ed. Aronov et al. Springer (2003) pp. 461–488. (pdf)
+
+
+=== Notes ===
+
+
+== External links ==
+
+Weisstein, Eric W. "Polygon". MathWorld.
+What Are Polyhedra?, with Greek Numerical Prefixes
+Polygons, types of polygons, and polygon properties, with interactive animation
+How to draw monochrome orthogonal polygons on screens, by Herbert Glarner
+comp.graphics.algorithms Frequently Asked Questions, solutions to mathematical problems computing 2D and 3D polygons
+Comparison of the different algorithms for Polygon Boolean operations, compares capabilities, speed and numerical robustness
+Interior angle sum of polygons: a general formula, Provides an interactive Java investigation that extends the interior angle sum formula for simple closed polygons to include crossed (complex) polygons
+

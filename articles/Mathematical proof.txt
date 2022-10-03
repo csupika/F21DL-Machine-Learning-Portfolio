@@ -1,0 +1,556 @@
+####### TITLE #######
+
+Mathematical proof
+
+####### LINKS #######
+
+['Abductive reasoning', 'Abstract logic', 'Academic Press', 'Al-Hashimi', 'Al-Karaji', 'Aleph number', 'Algebra', 'Alphabet (formal languages)', 'Analytic number theory', 'Analytic proposition', 'Analytic–synthetic distinction', 'Antinomy', 'Antonella Cupillari', 'Argument', 'Argument-deduction-proof distinctions', 'Argumentation theory', 'Aristotle', 'Arithmetic', 'Arithmetic progression', 'Arity', 'Atomic formula', 'Atomic sentence', 'Automata theory', 'Automated theorem proving', 'Axiom', 'Axiom of choice', 'Axiom schema', 'Axiomatic method', 'Axiomatic set theory', 'Axiomatic system', 'Axiomatization of Boolean algebras', 'Banach–Tarski paradox', "Bayes' theorem", 'Bayesian analysis', 'Bayesian probability', 'Bibcode (identifier)', 'Bijection', 'Bill Casselman (mathematician)', 'Binary operation', 'Binomial theorem', 'Bonnie Gold', 'Boolean algebra', 'Boolean algebras canonically defined', 'Boolean function', 'Cambridge University Press', "Cantor's diagonal argument", "Cantor's paradox", "Cantor's theorem", 'Cardinality', 'Carnap', 'Caroline Series', 'Cartesian product', 'Categorical theory', 'Category (mathematics)', 'Category of sets', 'Category theory', 'Cengage', 'Certainty', 'Chaotic series', 'Church encoding', 'Church–Turing thesis', 'Class (set theory)', 'Classical logic', 'Closure (mathematics)', 'Codomain', 'Cogito ergo sum', 'Collatz conjecture', 'Combinatorial proof', 'Compactness theorem', 'Complement (set theory)', 'Complete theory', 'Complex analysis', 'Computability theory', 'Computable function', 'Computable set', 'Computably enumerable set', 'Computer-assisted proof', 'Concrete category', 'Conjecture', 'Consistency', 'Constructible universe', 'Construction of the real numbers', 'Constructive set theory', 'Continuum hypothesis', 'Contradiction', 'Contraposition', 'Contrapositive', 'Coprime', 'Countable set', 'Counterexample', 'Critical thinking', 'Cryptography', 'Data', 'Data analysis', 'Data structure', 'David Mumford', 'David Wright (arranger)', 'Decidability (logic)', 'Decision problem', 'Deductive closure', 'Deductive logic', 'Deductive reasoning', 'Deductive system', 'Definition', 'Descartes', 'Description', 'Diagram (mathematical logic)', 'Direct proof', 'Distributive property', 'Divisor', 'Doi (identifier)', 'Domain of a function', 'Double counting (proof technique)', 'Educational Studies in Mathematics', 'Element (mathematics)', 'Elementary diagram', 'Elementary equivalence', 'Elementary function arithmetic', 'Elementary proof', 'Empirical evidence', 'Empirical science', 'Empty set', 'Entailment (linguistics)', 'Enumeration', 'Eponym', 'Equality (mathematics)', 'Equiconsistency', 'Equivalence relation', 'Euclid', "Euclid's Elements", 'Euclidean geometry', 'Eudoxus of Cnidus', 'Evidence', 'Existence theorem', 'Existential quantification', 'Experiment', 'Experimental mathematics', 'Expression (mathematics)', 'Extension by new constant and function names', 'Extensionality', 'Finitary relation', 'Finite-valued logic', 'Finite model theory', 'Finite set', 'First-order logic', 'Forcing (mathematics)', 'Formal grammar', 'Formal language', 'Formal proof', 'Formal semantics (logic)', 'Formal semantics (natural language)', 'Formal system', 'Formation rule', 'Foundational mathematics', 'Foundations of geometry', 'Foundations of mathematics', 'Four color theorem', 'Fractal geometry', 'Fraction', 'Free logic', 'Free variables and bound variables', 'Function (mathematics)', 'Functional predicate', 'Fuzzy set', 'General set theory', 'Geometry', 'George Pólya', 'Gottfried Wilhelm Leibniz', 'Gottlob Frege', 'Greek mathematics', 'Grothendieck universe', 'Ground expression', 'Ground formula', "Gödel's completeness theorem", "Gödel's incompleteness theorem", "Gödel's incompleteness theorems", 'Gödel numbering', 'Halting problem', 'Hdl (identifier)', 'Hereditary set', 'Higher-order logic', "Hilbert's axioms", 'Hilbert system', 'Hippocrates of Chios', 'History of logic', 'History of mathematical logic', 'Howard Eves', 'ISBN (identifier)', 'Ian Hacking', 'Image (mathematics)', 'Immanuel Kant', 'Inaccessible cardinal', 'Independence (mathematical logic)', 'Index of logic articles', 'Inductive logic', 'Inductive reasoning', 'Inference', 'Infinite-valued logic', 'Infinite set', 'Informal logic', 'Information', 'Information theory', 'Inhabited set', 'Injective function', 'Integer', 'Interpretation (logic)', 'Intersection (set theory)', 'Introducing... (book series)', 'Invalid proof', 'Iraqi people', 'Irrational number', 'Isomorphism', 'James Franklin (philosopher)', 'Joseph Liouville', 'Kolmogorov complexity', "Kripke's theory of truth", 'Kripke–Platek set theory', 'Lambda calculus', 'Language of thought', 'Large cardinal', 'Latin', "Lindström's theorem", 'Liouville number', 'List of Boolean algebra topics', 'List of Hilbert systems', 'List of axioms', 'List of fallacies', 'List of first-order theories', 'List of incomplete proofs', 'List of logic symbols', 'List of logicians', 'List of long proofs', 'List of mathematical logic topics', 'List of mathematical proofs', 'List of paradoxes', 'List of rules of inference', 'List of set identities and relations', 'List of set theory topics', 'List of statements independent of ZFC', 'List of statements undecidable in ZFC', 'Logic', 'Logic in computer science', 'Logical biconditional', 'Logical conjunction', 'Logical connective', 'Logical consequence', 'Logical constant', 'Logical disjunction', 'Logical equality', 'Logical equivalence', 'Logical form', 'Logical truth', 'Logically equivalent', 'Logicism', 'Löwenheim–Skolem theorem', 'Many-valued logic', 'Map (mathematics)', 'Material conditional', 'Mathematical beauty', 'Mathematical exercise', 'Mathematical folklore', 'Mathematical induction', 'Mathematical logic', 'Mathematical methods of physics', 'Mathematical object', 'Mathematical practice', 'Mathematical statistics', 'Mathematics and plausible reasoning', 'Mathematics as a language', 'Mathematics in medieval Islam', 'Metalanguage', 'Metalogic', 'Metamathematics', 'Minimal axioms for Boolean algebra', 'Missing square puzzle', 'Model complete theory', 'Model theory', 'Monadic predicate calculus', 'Monadic second-order logic', 'Morse–Kelley set theory', 'NP (complexity)', 'Naive set theory', 'Name', 'Natural deduction', 'Natural language', 'Natural number', 'Necessity and sufficiency', 'Negation', 'New Foundations', 'New York Academy of Sciences', 'Non-Euclidean geometry', 'Non-classical logic', 'Non-logical symbol', 'Non-standard model', 'Non-standard model of arithmetic', 'Nonconstructive proof', 'Number theory', 'Observational study', 'Open formula', 'Operation (mathematics)', 'Ordered pair', 'Ordinal analysis', 'Ordinal number', 'Outline of logic', 'Oxford University Press', 'P (complexity)', 'P versus NP problem', 'Papyrus Oxyrhynchus 29', 'Paradox', 'Paradoxes of set theory', 'Parallel postulate', 'Parity (mathematics)', 'Particle physics', 'Partition of a set', "Pascal's triangle", 'Paul Erdős', 'Paul Halmos', 'Peano axioms', 'Philosopher', 'Philosophical logic', 'Philosophy', 'Philosophy of logic', 'Philosophy of mathematics', 'Physical cosmology', 'Physics', 'Power set', 'Predicate (mathematical logic)', 'Predicate logic', 'Predicate variable', 'Premise', 'Primality test', 'Prime number', 'Prime number theorem', 'Primitive recursive arithmetic', 'Primitive recursive function', 'Principia Mathematica', 'Probabilistic', 'Probabilistic algorithm', 'Probabilistic method', 'Probability', 'Probability theory', 'Proof assistant', 'Proof by construction', 'Proof by contradiction', 'Proof by contrapositive', 'Proof by exhaustion', 'Proof by infinite descent', 'Proof by intimidation', 'Proof of impossibility', 'Proof theory', 'Proof without words', 'Proofs from THE BOOK', 'Proposition', 'Propositional calculus', 'Propositional formula', 'Propositional variable', 'Psychologism', 'Pure mathematics', 'Pythagorean theorem', 'Q.E.D.', 'Quantifier (logic)', 'Quantifier rank', 'Quasi-empiricism in mathematics', 'Rational number', 'Reason', 'Recursion', 'Recursive set', 'Reductio ad absurdum', 'Reference', 'Relation (mathematics)', 'Reverse mathematics', 'Rigour', 'Robinson arithmetic', 'Rule of inference', "Russell's paradox", 'Rutgers University', 'S2CID (identifier)', 'Samuel Buss', 'Satisfiability', 'Saturated model', 'Scatter plot', 'Schröder–Bernstein theorem', 'Second-order arithmetic', 'Second-order logic', 'Self-verifying theories', 'Semantic theory of truth', 'Semantics of logic', 'Sentence (mathematical logic)', 'Sequent calculus', 'Set (mathematics)', 'Set theory', 'Signature (logic)', 'Singleton (mathematics)', 'Skolem arithmetic', 'Soundness', 'Spinoza', 'Square of opposition', 'Square root of 2', 'Square root of two', 'Statement (logic)', 'Statistical proof', 'Statistics', 'Strength (mathematical logic)', 'String (formal languages)', 'Structure (mathematical logic)', 'Subset', 'Substitution (logic)', 'Substructure (mathematics)', 'Supertask', 'Surjective function', 'Syllogism', 'Symbol (formal)', 'Symbolic language (mathematics)', 'Syntax (logic)', 'Synthetic proposition', 'T-schema', "Tarski's axiomatization of the reals", "Tarski's axioms", "Tarski's theory of truth", "Tarski's undefinability theorem", 'Tarski–Grothendieck set theory', 'Tautology (logic)', 'Term (logic)', 'Term logic', 'Termination analysis', 'Thales', 'Theaetetus (mathematician)', 'Theorem', 'Theories of truth', 'Theory (mathematical logic)', 'Thought experiment', 'Three-valued logic', 'Timeline of mathematical logic', 'Tombstone (typography)', 'Transcendental number', 'Transfer principle', 'Transitive set', 'Triangle', 'True arithmetic', 'Truth', 'Truth predicate', 'Truth table', 'Truth value', 'Turing machine', 'Two Dogmas of Empiricism', 'Type (model theory)', 'Type theory', 'Ultrafilter (set theory)', 'Ultraproduct', 'Uncountable set', 'Undecidable problem', 'Undefined term', 'Uninterpreted function', 'Union (set theory)', 'Uniqueness quantification', 'Universal quantification', 'Universal set', 'Universe (mathematics)', 'Urelement', 'Validity (logic)', 'Variable (mathematics)', 'Venn diagram', 'Von Neumann universe', 'Von Neumann–Bernays–Gödel set theory', 'Wayback Machine', 'Well-formed formula', 'What the Tortoise Said to Achilles', 'Wiley (publisher)', 'Wiley Publishing', 'Willard Van Orman Quine', 'William Kneale (logician)', 'Zermelo–Fraenkel set theory', 'Zermelo–Fraenkel set theory with the axiom of choice', 'Zhoubi Suanjing']
+
+####### CATEGORIES #######
+
+['All articles containing potentially dated statements', 'All articles with unsourced statements', 'Articles containing potentially dated statements from 2011', 'Articles with short description', 'Articles with unsourced statements from November 2014', 'Commons category link from Wikidata', 'Mathematical logic', 'Mathematical proofs', 'Mathematical terminology', 'Short description is different from Wikidata', 'Sources of knowledge', 'Use mdy dates from June 2019', 'Webarchive template wayback links']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/c/c3/Chinese_pythagoras.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/cd/Socrates.png', 'https://upload.wikimedia.org/wikipedia/commons/1/13/Twocolumnproof.png', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8d/P._Oxy._I_29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/65/Pythag_anim.gif', 'https://upload.wikimedia.org/wikipedia/commons/7/70/Pythagoras-2a.gif']
+
+####### REFERENCES #######
+
+['http://www.maths.unsw.edu.au/~jim/proofs.html', 'http://www.math.ubc.ca/~cass/Euclid/papyrus/papyrus.html', 'http://people.web.psi.ch/gassmann/eneseminare/abstracts/Goldbach1.pdf', 'http://dlist.sir.arizona.edu/1581/', 'http://zimmer.csufresno.edu/~larryc/proofs/proofs.mathinduction.html', 'http://www.math.rutgers.edu/~cherlin/History/Papers2000/eder.html', 'http://www.math.wustl.edu/~sk/eolss.pdf', 'http://hdl.handle.net/2027%2Fmdp.39015008206248', 'http://hdl.handle.net/2027.42%2F42653', 'http://www.cut-the-knot.org/proofs/index.shtml', 'http://doi.org/10.1023%2FA:1020264906740', 'http://doi.org/10.1111%2Fj.1749-6632.1987.tb37206.x', 'http://www.warwick.ac.uk/AEAhelp/glossary/glossaryParser.php?glossaryFile=Proof%20by%20induction.htm', 'https://www.theologie.uzh.ch/dam/jcr:ffffffff-fbd6-1538-0000-000070cf64bc/Quine51.pdf', 'https://books.google.com/books?id=MfTMDeCq7ukC&pg=PA3', 'https://ui.adsabs.harvard.edu/abs/1987NYASA.500..253M', 'https://deepblue.lib.umich.edu/bitstream/2027.42/42653/1/10649_2004_Article_5096042.pdf', 'https://hal.archives-ouvertes.fr/hal-01281050/document', 'https://home.att.net/~fractalia/history.htm', 'https://archive.org/details/introducingfract0000lesm', 'https://web.archive.org/web/20090215114618/https://home.att.net/~fractalia/history.htm', 'https://web.archive.org/web/20120218033011/http://www.warwick.ac.uk/AEAhelp/glossary/glossaryParser.php?glossaryFile=Proof%20by%20induction.htm', 'https://doi.org/10.1007%2F978-3-540-74282-1_78', 'https://www.jstor.org/pss/2686395', 'https://www.onemathematicalcat.org/Math/Geometry_obj/two_column_proof.htm', 'https://api.semanticscholar.org/CorpusID:121416910', 'https://api.semanticscholar.org/CorpusID:23084607']
+
+####### SUMMARY #######
+
+A mathematical proof is an inferential argument for a mathematical statement, showing that the stated assumptions logically guarantee the conclusion. The argument may use other previously established statements, such as theorems; but every proof can, in principle, be constructed using only certain basic or original assumptions known as axioms, along with the accepted rules of inference. Proofs are examples of exhaustive deductive reasoning which establish logical certainty, to be distinguished from empirical arguments or non-exhaustive inductive reasoning which establish "reasonable expectation". Presenting many cases in which the statement holds is not enough for a proof, which must demonstrate that the statement is true in all possible cases. A proposition that has not been proved but is believed to be true is known as a conjecture, or a hypothesis if frequently used as an assumption for further mathematical work.
+Proofs employ logic expressed in mathematical symbols, along with natural language which usually admits some ambiguity. In most mathematical literature, proofs are written in terms of rigorous informal logic. Purely formal proofs, written fully in symbolic language without the involvement of natural language, are considered in proof theory. The distinction between formal and informal proofs has led to much examination of current and historical mathematical practice, quasi-empiricism in mathematics, and so-called folk mathematics, oral traditions in the mainstream mathematical community or in other cultures. The philosophy of mathematics is concerned with the role of language and logic in proofs, and mathematics as a language.
+
+
+
+####### CONTENT #######
+
+A mathematical proof is an inferential argument for a mathematical statement, showing that the stated assumptions logically guarantee the conclusion. The argument may use other previously established statements, such as theorems; but every proof can, in principle, be constructed using only certain basic or original assumptions known as axioms, along with the accepted rules of inference. Proofs are examples of exhaustive deductive reasoning which establish logical certainty, to be distinguished from empirical arguments or non-exhaustive inductive reasoning which establish "reasonable expectation". Presenting many cases in which the statement holds is not enough for a proof, which must demonstrate that the statement is true in all possible cases. A proposition that has not been proved but is believed to be true is known as a conjecture, or a hypothesis if frequently used as an assumption for further mathematical work.
+Proofs employ logic expressed in mathematical symbols, along with natural language which usually admits some ambiguity. In most mathematical literature, proofs are written in terms of rigorous informal logic. Purely formal proofs, written fully in symbolic language without the involvement of natural language, are considered in proof theory. The distinction between formal and informal proofs has led to much examination of current and historical mathematical practice, quasi-empiricism in mathematics, and so-called folk mathematics, oral traditions in the mainstream mathematical community or in other cultures. The philosophy of mathematics is concerned with the role of language and logic in proofs, and mathematics as a language.
+
+
+== History and etymology ==
+
+The word "proof" comes from the Latin probare (to test). Related modern words are English "probe", "probation", and "probability", Spanish probar (to smell or taste, or sometimes touch or test), Italian provare (to try), and German probieren (to try).  The legal term "probity" means authority or credibility, the power of testimony to prove facts when given by persons of reputation or status.Plausibility arguments using heuristic devices such as pictures and analogies preceded strict mathematical proof. It is likely that the idea of demonstrating a conclusion first arose in connection with geometry, which originated in practical problems of land measurement. The development of mathematical proof is primarily the product of ancient Greek mathematics, and one of its greatest achievements. Thales (624–546 BCE) and Hippocrates of Chios (c. 470–410 BCE) gave some of the first known proofs of theorems in geometry. Eudoxus (408–355 BCE) and Theaetetus (417–369 BCE) formulated theorems but did not prove them. Aristotle (384–322 BCE) said definitions should describe the concept being defined in terms of other concepts already known.
+Mathematical proof was revolutionized by Euclid (300 BCE), who introduced the axiomatic method still in use today. It starts with undefined terms and axioms, propositions concerning the undefined terms which are assumed to be self-evidently true (from Greek "axios", something worthy). From this basis, the method proves theorems using deductive logic. Euclid's book, the Elements, was read by anyone who was considered educated in the West until the middle of the 20th century. In addition to theorems of geometry, such as the Pythagorean theorem, the Elements also covers number theory, including a proof that the square root of two is irrational and a proof that there are infinitely many prime numbers.
+Further advances also took place in medieval Islamic mathematics. While earlier Greek proofs were largely geometric demonstrations, the development of arithmetic and algebra by Islamic mathematicians allowed more general proofs with no dependence on geometric intuition. In the 10th century CE, the Iraqi mathematician Al-Hashimi worked with numbers as such, called "lines" but not necessarily considered as measurements of geometric objects, to prove algebraic propositions concerning multiplication, division, etc., including the existence of irrational numbers. An inductive proof for arithmetic sequences was introduced in the Al-Fakhri (1000) by Al-Karaji, who used it to prove the binomial theorem and properties of Pascal's triangle. Alhazen also developed the method of proof by contradiction, as the first attempt at proving the Euclidean parallel postulate.Modern proof theory treats proofs as inductively defined data structures, not requiring an assumption that axioms are "true" in any sense. This allows parallel mathematical theories as formal models of a given intuitive concept, based on alternate sets of axioms, for example Axiomatic set theory and Non-Euclidean geometry.
+
+
+== Nature and purpose ==
+As practiced, a proof is expressed in natural language and is a rigorous argument intended to convince the audience of the truth of a statement. The standard of rigor is not absolute and has varied throughout history. A proof can be presented differently depending on the intended audience. In order to gain acceptance, a proof has to meet communal standards of rigor; an argument considered vague or incomplete may be rejected.
+The concept of proof is formalized in the field of mathematical logic. A formal proof is written in a formal language instead of natural language. A formal proof is a sequence of formulas in a formal language, starting with an assumption, and with each subsequent formula a logical consequence of the preceding ones. This definition makes the concept of proof amenable to study. Indeed, the field of proof theory studies formal proofs and their properties, the most famous and surprising being that almost all axiomatic systems can generate certain undecidable statements not provable within the system.
+The definition of a formal proof is intended to capture the concept of proofs as written in the practice of mathematics. The soundness of this definition amounts to the belief that a published proof can, in principle, be converted into a formal proof. However, outside the field of automated proof assistants, this is rarely done in practice. A classic question in philosophy asks whether mathematical proofs are analytic or synthetic. Kant, who introduced the analytic–synthetic distinction, believed mathematical proofs are synthetic, whereas Quine argued in his 1951 "Two Dogmas of Empiricism" that such a distinction is untenable.Proofs may be admired for their mathematical beauty. The mathematician Paul Erdős was known for describing proofs which he found to be particularly elegant as coming from "The Book", a hypothetical tome containing the most beautiful method(s) of proving each theorem. The book Proofs from THE BOOK, published in 2003, is devoted to presenting 32 proofs its editors find particularly pleasing.
+
+
+== Methods of proof ==
+
+
+=== Direct proof ===
+
+In direct proof, the conclusion is established by logically combining the axioms, definitions, and earlier theorems. For example, direct proof can be used to  prove that the sum of two even integers is always even:
+
+Consider two even integers x and y. Since they are even, they can be written as x = 2a and y = 2b, respectively, for some integers a and b. Then the sum is x + y = 2a + 2b = 2(a+b). Therefore x+y has 2 as a factor and, by definition, is even. Hence, the sum of any two even integers is even.This proof uses the definition of even integers, the integer properties of closure under addition and multiplication, and the distributive property.
+
+
+=== Proof by mathematical induction ===
+
+Despite its name, mathematical induction is a method of deduction, not a form of inductive reasoning. In proof by mathematical induction, a single "base case" is proved, and an "induction rule" is proved that establishes that any arbitrary case implies the next case. Since in principle the induction rule can be applied repeatedly (starting from the proved base case), it follows that all (usually infinitely many) cases are provable. This avoids having to prove each case individually. A variant of mathematical induction is proof by infinite descent, which can be used, for example, to prove the irrationality of the square root of two.
+A common application of proof by mathematical induction is to prove that a property known to hold for one number holds for all natural numbers:
+Let N = {1, 2, 3, 4, ...} be the set of natural numbers, and let P(n) be a mathematical statement involving the natural number n belonging to N such that
+
+(i) P(1) is true, i.e., P(n) is true for n = 1.
+(ii) P(n+1) is true whenever P(n) is true, i.e., P(n) is true implies that P(n+1) is true.
+Then P(n) is true for all natural numbers n.For example, we can prove by induction that all positive integers of the form 2n − 1 are odd.  Let P(n) represent "2n − 1 is odd":
+
+(i) For n = 1, 2n − 1 = 2(1) − 1 = 1, and 1 is odd, since it leaves a remainder of 1 when divided by 2. Thus P(1) is true.
+(ii) For any n, if 2n − 1 is odd (P(n)), then (2n − 1) + 2 must also be odd, because adding 2 to an odd number results in an odd number.  But (2n − 1) + 2 = 2n + 1 = 2(n+1) − 1, so 2(n+1) − 1 is odd (P(n+1)).  So P(n) implies P(n+1).
+Thus 2n − 1 is odd, for all positive integers n.The shorter phrase "proof by induction" is often used instead of "proof by mathematical induction".
+
+
+=== Proof by contraposition ===
+
+Proof by contraposition infers the statement "if p then q" by establishing the logically equivalent contrapositive statement: "if not q then not p".
+For example, contraposition can be used to establish that, given an integer 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , if 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+   is even, then 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is even:
+
+Suppose 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is not even. Then 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is odd. The product of two odd numbers is odd, hence 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        x
+        ⋅
+        x
+      
+    
+    {\displaystyle x^{2}=x\cdot x}
+   is odd. Thus 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+   is not even. Thus, if 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}}
+   is even, the supposition must be false, so 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   has to be even.
+
+
+=== Proof by contradiction ===
+
+In proof by contradiction, also known by the Latin phrase reductio ad absurdum (by reduction to the absurd), it is shown that if some statement is assumed true, a logical contradiction occurs, hence the statement must be false.  A famous example involves the proof that 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   is an irrational number:
+
+Suppose that 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   were a rational number. Then it could be written in lowest terms as 
+  
+    
+      
+        
+          
+            2
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}={a \over b}}
+   where a and b are non-zero integers with no common factor. Thus, 
+  
+    
+      
+        b
+        
+          
+            2
+          
+        
+        =
+        a
+      
+    
+    {\displaystyle b{\sqrt {2}}=a}
+  . Squaring both sides yields 2b2 = a2. Since 2 divides the expression on the left, 2 must also divide the equal expression on the right. That is, a2 is even, which implies that a must also be even, as seen in the proposition above (in #Proof by contraposition). So we can write a = 2c, where c is also an integer. Substitution into the original equation yields 2b2 = (2c)2 = 4c2. Dividing both sides by 2 yields b2 = 2c2. But then, by the same argument as before, 2 divides b2, so b must be even. However, if a and b are both even, they have 2 as a common factor. This contradicts our previous statement that a and b have no common factor, so we must conclude that 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   is an irrational number.To paraphrase: if one could write 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   as a fraction, this fraction could never be written in lowest terms, since 2 could always be factored from numerator and denominator.
+
+
+=== Proof by construction ===
+
+Proof by construction, or proof by example, is the construction of a concrete example with a property to show that something having that property exists. Joseph Liouville, for instance, proved the existence of transcendental numbers by constructing an explicit example.  It can also be used to construct a counterexample to disprove a proposition that all elements have a certain property.
+
+
+=== Proof by exhaustion ===
+
+In proof by exhaustion, the conclusion is established by dividing it into a finite number of cases and proving each one separately. The number of cases sometimes can become very large. For example, the first proof of the four color theorem was a proof by exhaustion with 1,936 cases. This proof was controversial because the majority of the cases were checked by a computer program, not by hand. The shortest known proof of the four color theorem as of 2011 still has over 600 cases.
+
+
+=== Probabilistic proof ===
+
+A probabilistic proof is one in which an example is shown to exist, with certainty, by using methods of probability theory. Probabilistic proof, like proof by construction, is one of many ways to prove existence theorems.
+In the probabilistic method, one seeks an object having a given property, starting with a large set of candidates. One assigns a certain probability for each candidate to be chosen, and then proves that there is a non-zero probability that a chosen candidate will have the desired property. This does not specify which candidates have the property, but the probability could not be positive without at least one.
+A probabilistic proof is not to be confused with an argument that a theorem is 'probably' true, a 'plausibility argument'. The work on the Collatz conjecture shows how far plausibility is from genuine proof. While most mathematicians do not think that probabilistic evidence for the properties of a given object counts as a genuine mathematical proof, a few mathematicians and philosophers have argued that at least some types of probabilistic evidence (such as Rabin's probabilistic algorithm for testing primality) are as good as genuine mathematical proofs.
+
+
+=== Combinatorial proof ===
+
+A combinatorial proof establishes the equivalence of different expressions by showing that they count the same object in different ways. Often a bijection between two sets is used to show that the expressions for their two sizes are equal. Alternatively, a double counting argument provides two different expressions for the size of a single set, again showing that the two expressions are equal.
+
+
+=== Nonconstructive proof ===
+
+A nonconstructive proof establishes that a mathematical object with a certain property exists—without explaining how such an object can be found. Often, this takes the form of a proof by contradiction in which the nonexistence of the object is proved to be impossible. In contrast, a constructive proof establishes that a particular object exists by providing a method of finding it. The following famous example of a nonconstructive proof shows that there exist two irrational numbers a and b such that 
+  
+    
+      
+        
+          a
+          
+            b
+          
+        
+      
+    
+    {\displaystyle a^{b}}
+   is a rational number ( note: 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   is easily shown to be irrational, but is assumed here.) :
+
+Either 
+  
+    
+      
+        
+          
+            
+              2
+            
+          
+          
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}^{\sqrt {2}}}
+   is a rational number and we are done (take 
+  
+    
+      
+        a
+        =
+        b
+        =
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a=b={\sqrt {2}}}
+  ), or 
+  
+    
+      
+        
+          
+            
+              2
+            
+          
+          
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}^{\sqrt {2}}}
+   is irrational so we can write 
+  
+    
+      
+        a
+        =
+        
+          
+            
+              2
+            
+          
+          
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle a={\sqrt {2}}^{\sqrt {2}}}
+   and 
+  
+    
+      
+        b
+        =
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle b={\sqrt {2}}}
+  . This then gives 
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  2
+                
+              
+              
+                
+                  2
+                
+              
+            
+            )
+          
+          
+            
+              2
+            
+          
+        
+        =
+        
+          
+            
+              2
+            
+          
+          
+            2
+          
+        
+        =
+        2
+      
+    
+    {\displaystyle \left({\sqrt {2}}^{\sqrt {2}}\right)^{\sqrt {2}}={\sqrt {2}}^{2}=2}
+  , which is thus a rational number of the form 
+  
+    
+      
+        
+          a
+          
+            b
+          
+        
+        .
+      
+    
+    {\displaystyle a^{b}.}
+  
+
+
+=== Statistical proofs in pure mathematics ===
+
+The expression "statistical proof" may be used technically or colloquially in areas of pure mathematics, such as involving cryptography, chaotic series, and probabilistic number theory or analytic number theory.  It is less commonly used to refer to a mathematical proof in the branch of mathematics known as mathematical statistics.  See also the "Statistical proof using data" section below.
+
+
+=== Computer-assisted proofs ===
+
+Until the twentieth century it was assumed that any proof could, in principle, be checked by a competent mathematician to confirm its validity. However, computers are now used both to prove theorems and to carry out calculations that are too long for any human or team of humans to check; the first proof of the four color theorem is an example of a computer-assisted proof. Some mathematicians are concerned that the possibility of an error in a computer program or a run-time error in its calculations calls the validity of such computer-assisted proofs into question. In practice, the chances of an error invalidating a computer-assisted proof can be reduced by incorporating redundancy and self-checks into calculations, and by developing multiple independent approaches and programs. Errors can never be completely ruled out in case of verification of a proof by humans either, especially if the proof contains natural language and requires deep mathematical insight to uncover the potential hidden assumptions and fallacies involved.
+
+
+== Undecidable statements ==
+A statement that is neither provable nor disprovable from a set of axioms is called undecidable (from those axioms). One example is the parallel postulate, which is neither provable nor refutable from the remaining axioms of Euclidean geometry.
+Mathematicians have shown there are many statements that are neither provable nor disprovable in Zermelo–Fraenkel set theory with the axiom of choice (ZFC), the standard system of set theory in mathematics (assuming that ZFC is consistent); see List of statements undecidable in ZFC.
+Gödel's (first) incompleteness theorem shows that many axiom systems of mathematical interest will have undecidable statements.
+
+
+== Heuristic mathematics and experimental mathematics ==
+
+While early mathematicians such as Eudoxus of Cnidus did not use proofs, from Euclid to the foundational mathematics developments of the late 19th and 20th centuries, proofs were an essential part of mathematics. With the increase in computing power in the 1960s, significant work began to be done investigating mathematical objects outside of the proof-theorem framework, in experimental mathematics. Early pioneers of these methods intended the work ultimately to be embedded in a classical proof-theorem framework, e.g. the early development of fractal geometry, which was ultimately so embedded.
+
+
+== Related concepts ==
+
+
+=== Visual proof ===
+Although not a formal proof, a visual demonstration of a mathematical theorem is sometimes called a "proof without words". The left-hand picture below is an example of a historic visual proof of the Pythagorean theorem in the case of the (3,4,5) triangle.
+
+		
+		
+Some illusory visual proofs, such as the missing square puzzle, can be constructed in a way which appear to prove a supposed mathematical fact but only do so under the presence of tiny errors (for example, supposedly straight lines which actually bend slightly) which are unnoticeable until the entire picture is closely examined, with lengths and angles precisely measured or calculated.
+
+
+=== Elementary proof ===
+
+An elementary proof is a proof which only uses basic techniques. More specifically, the term is used in number theory to refer to proofs that make no use of complex analysis. For some time it was thought that certain theorems, like the prime number theorem, could only be proved using "higher" mathematics. However, over time, many of these results have been reproved using only elementary techniques.
+
+
+=== Two-column proof ===
+
+A particular way of organising a proof using two parallel columns is often used as a mathematical exercise in elementary geometry classes in the United States. The proof is written as a series of lines in two columns. In each line, the left-hand column contains a proposition, while the right-hand column contains a brief explanation of how the corresponding proposition in the left-hand column is either an axiom, a hypothesis, or can be logically derived from previous propositions. The left-hand column is typically headed "Statements" and the right-hand column is typically headed "Reasons".
+
+
+=== Colloquial use of "mathematical proof" ===
+The expression "mathematical proof" is used by lay people to refer to using mathematical methods or arguing with mathematical objects, such as numbers, to demonstrate something about everyday life, or when data used in an argument is numerical. It is sometimes also used to mean a "statistical proof" (below), especially when used to argue from data.
+
+
+=== Statistical proof using data ===
+
+"Statistical proof" from data refers to the application of statistics, data analysis, or Bayesian analysis to infer propositions regarding the probability of data. While using mathematical proof to establish theorems in statistics, it is usually not a mathematical proof in that the assumptions from which probability statements are derived require empirical evidence from outside mathematics to verify. In physics, in addition to statistical methods, "statistical proof" can refer to the specialized mathematical methods of physics applied to analyze data in a particle physics experiment or observational study in physical cosmology. "Statistical proof" may also refer to raw data or a convincing diagram involving data, such as scatter plots, when the data or diagram is adequately convincing without further analysis.
+
+
+=== Inductive logic proofs and Bayesian analysis ===
+
+Proofs using inductive logic, while considered mathematical in nature, seek to establish propositions with a degree of certainty, which acts in a similar manner to probability, and may be less than full certainty. Inductive logic should not be confused with mathematical induction.
+Bayesian analysis uses Bayes' theorem to update a person's assessment of likelihoods of hypotheses when new evidence or information is acquired.
+
+
+=== Proofs as mental objects ===
+
+Psychologism views mathematical proofs as psychological or mental objects.  Mathematician philosophers, such as Leibniz, Frege, and Carnap have variously criticized this view and attempted to develop a semantics for what they considered to be the language of thought, whereby standards of mathematical proof might be applied to empirical science.
+
+
+=== Influence of mathematical proof methods outside mathematics ===
+Philosopher-mathematicians such as Spinoza have attempted to formulate philosophical arguments in an axiomatic manner, whereby mathematical proof standards could be applied to argumentation in general philosophy. Other mathematician-philosophers have tried to use standards of mathematical proof and reason, without empiricism, to arrive at statements outside of mathematics, but having the certainty of propositions deduced in a mathematical proof, such as Descartes' cogito argument.
+
+
+== Ending a proof ==
+
+Sometimes, the abbreviation "Q.E.D." is written to indicate the end of a proof. This abbreviation stands for "quod erat demonstrandum", which is Latin for "that which was to be demonstrated". A more common alternative is to use a square or a rectangle, such as □ or ∎, known as a "tombstone" or "halmos" after its eponym Paul Halmos. Often, "which was to be shown" is verbally stated when writing "QED", "□", or "∎" during an oral presentation. Unicode explicitly provides the "end of proof" character, U+220E (∎) (220E(hex) = 8718(dec)).
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Pólya, G. (1954), Mathematics and Plausible Reasoning, Princeton University Press, hdl:2027/mdp.39015008206248, ISBN 9780691080055.
+Fallis, Don (2002), "What Do Mathematicians Want? Probabilistic Proofs and the Epistemic Goals of Mathematicians", Logique et Analyse, 45: 373–88.
+Franklin, J.; Daoud, A. (2011), Proof in Mathematics: An Introduction, Kew Books, ISBN 978-0-646-54509-7.
+Gold, Bonnie; Simons, Rogers A. (2008). Proof and Other Dilemmas: Mathematics and Philosophy. MAA.
+Solow, D. (2004), How to Read and Do Proofs: An Introduction to Mathematical Thought Processes, Wiley, ISBN 978-0-471-68058-1.
+Velleman, D. (2006), How to Prove It: A Structured Approach, Cambridge University Press, ISBN 978-0-521-67599-4.
+
+
+== External links ==
+
+ Media related to Mathematical proof at Wikimedia Commons
+Proofs in Mathematics: Simple, Charming and Fallacious
+A lesson about proofs, in a course from Wikiversity
+

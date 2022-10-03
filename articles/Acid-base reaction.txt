@@ -1,0 +1,224 @@
+####### TITLE #######
+
+Acid–base reaction
+
+####### LINKS #######
+
+['Acetate', 'Acetic acid', 'Acid', 'Acid-base', 'Acid dissociation constant', 'Acid strength', 'Acidic oxide', 'Acidity', 'Acidity function', 'Acid–base extraction', 'Acid–base homeostasis', 'Acid–base titration', 'Acta Chemica Scandinavica', 'Adducts', 'Adenine', 'Albert Fredrick Ottomar Germann', 'Alkali', 'Alkalinity', 'Amine', 'Ammonia', 'Ammonium', 'Ammonium chloride', 'Amphiphilic', 'Amphoterism', 'Antimony trichloride', 'Antoine Lavoisier', 'Aqueous solution', 'Base (chemistry)', 'Basic oxide', 'Bibcode (identifier)', 'Boron group', 'Boron trifluoride', 'Brønsted–Lowry acid–base theory', 'Buffer solution', 'Carbon', 'Carbon dioxide', 'Carbon monoxide', 'Chemical reaction', 'Chemist', 'Chiral Lewis acid', 'Chloride', 'CiteSeerX (identifier)', 'Conjugate acid', 'Cream of tartar', 'Dative covalent bond', 'Deprotonation', 'Dinitrogen tetroxide', 'Dissociation (chemistry)', 'Dissociation constant', 'Doi (identifier)', 'Donor number', 'ECW model', 'Edward Curtis Franklin', 'Electrochemistry', 'Electron configuration', 'Electron pair', 'Equilibrium chemistry', 'Ether', 'Fluoride', 'Friedrich Wilhelm Ostwald', 'Frustrated Lewis pair', 'Geochemistry', 'Gilbert N. Lewis', 'Greek language', 'Group 15', 'Group 16', 'Guillaume-François Rouelle', 'Gutmann–Beckett method', 'HSAB theory', 'Hammett acidity function', 'Hermann Lux', 'Humphry Davy', 'Hydrochloric acid', 'Hydrogen', 'Hydrogen bromide', 'Hydrogen chloride', 'Hydrogen fluoride', 'Hydrogen iodide', 'Hydrogen sulfide', 'Hydrogen telluride', 'Hydrohalic acid', 'Hydron (chemistry)', 'Hydronium', 'Hydroxide', 'Håkon Flood', 'ISBN (identifier)', 'IUPAC', 'Inorganic Chemistry (journal)', 'Johannes Nicolaus Brønsted', 'Journal of Chemical Education', 'Journal of Chemical Sciences', 'Journal of the American Ceramic Society', 'Journal of the American Chemical Society', 'Journal of the Society of Chemical Industry', 'Justus von Liebig', 'Jöns Jacob Berzelius', 'Lars Onsager', 'Lavoisier', 'Lewis acid catalysis', 'Lewis acids and bases', 'Lewis structure', 'Liquid ammonia', 'Lyate ion', 'Lyonium ion', 'Martin Lowry', 'Metal amides', 'Mikhail Usanovich', 'Mineral acid', 'Molten salt', 'Monocalcium phosphate', 'Neutralization (chemistry)', 'Nitrate', 'Nitric acid', 'Nitrosonium', 'Nobel Prize in Chemistry', 'Noble gas compound', 'Non-nucleophilic base', 'Norman Greenwood', 'Nucleophilic substitution', 'Octet rule', 'Organic acid', 'Organic base', 'Oxidation state', 'Oxidizing agent', 'Oxoacid', 'Oxyacid', 'Oxygen', 'PH', 'PH indicator', 'PMID (identifier)', 'Pergamon Press', 'Peter Debye', 'Phosgene', 'Phosphate', 'Phosphine', 'Potassium', 'Proton affinity', 'Protonation', 'Pure and Applied Chemistry', 'Pyridine', 'Ralph Pearson', 'Redox', 'Resonance (chemistry)', 'Robert Parr', 'Russell S. Drago', 'S2CID (identifier)', 'Salt (chemistry)', 'Salt metathesis reaction', 'Self-ionization of water', 'Sodium acid pyrophosphate', 'Sodium aluminium sulfate', 'Sodium chloride', 'Sodium hydroxide', 'Solid acid', 'Spectator ion', 'Stoichiometry', 'Strong acid', 'Sulfites', 'Sulfur dioxide', 'Sulfuric acid', 'Superacid', 'Superbase', 'Svante Arrhenius', 'Tartaric acid', 'Theory', 'Thioether', 'Thionyl', 'Water (molecule)', 'Weak acid', 'Weak base', 'William B. Jensen', 'Zeitschrift für Elektrochemie']
+
+####### CATEGORIES #######
+
+['AC with 0 elements', 'Acids', 'Acid–base chemistry', 'All articles needing additional references', 'Articles needing additional references from July 2022', 'Articles with short description', 'Bases (chemistry)', 'CS1: Julian–Gregorian uncertainty', 'CS1 German-language sources (de)', 'Chemistry', 'Equilibrium chemistry', 'Short description matches Wikidata', 'Use dmy dates from August 2020']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/5/57/08._%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BD%D0%B0_%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D0%B7%D0%B0_%D0%BD%D0%B0_%D0%B0%D0%BC%D0%BE%D0%BD%D0%B8%D1%83%D0%BC_%D1%85%D0%BB%D0%BE%D1%80%D0%B8%D0%B4.webm', 'https://upload.wikimedia.org/wikipedia/commons/9/96/Acetic-acid-dissociation-3D-balls.png', 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Arrhenius2.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/62/Bronsted_lowry_3d_diagram.png', 'https://upload.wikimedia.org/wikipedia/commons/e/e4/Calcium_dihydrogen_phosphate.png', 'https://upload.wikimedia.org/wikipedia/commons/2/24/Johannes_Br%C3%B8nsted.jpg', 'https://upload.wikimedia.org/wikipedia/commons/8/81/Thomas_Martin_Lowry2.jpg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg']
+
+####### REFERENCES #######
+
+['http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php', 'http://scholar.google.com/scholar?q=%22Acid%E2%80%93base+reaction%22', 'http://www.google.com/search?&q=%22Acid%E2%80%93base+reaction%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Acid%E2%80%93base+reaction%22', 'http://www.google.com/search?tbm=nws&q=%22Acid%E2%80%93base+reaction%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Acid%E2%80%93base+reaction%22+-wikipedia', 'http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.693.7436', 'http://pubmed.ncbi.nlm.nih.gov/18907702', 'http://www.ias.ac.in/chemsci/Pdf-sep2005/369.pdf', 'http://doi.org/10.1002%2Fjctb.5000420302', 'http://doi.org/10.1002%2Frecl.19230420815', 'http://doi.org/10.1007%2FBF02708340', 'http://doi.org/10.1021%2Fed017p124', 'http://doi.org/10.1021%2Fed073p701', 'http://doi.org/10.1021%2Fed083p1130', 'http://doi.org/10.1021%2Fed500891w', 'http://doi.org/10.1021%2Fic50038a038', 'http://doi.org/10.1021%2Fja00364a005', 'http://doi.org/10.1021%2Fja00905a001', 'http://doi.org/10.1021%2Fja01687a006', 'http://doi.org/10.1111%2Fj.1151-2916.1966.tb13302.x', 'http://doi.org/10.1351%2FPAC-REC-06-04-06', 'http://doi.org/10.3891%2Facta.chem.scand.01-0592', 'http://goldbook.iupac.org/terms/view/O04379', 'https://www.degruyter.com/downloadpdf/j/pac.2013.85.issue-7/pac-rec-06-04-06/pac-rec-06-04-06.pdf', 'https://books.google.com/books?id=OezvAAAAMAAJ', 'https://www.google.com/books?id=OTy8aIWxHhQC&lpg=PP1&pg=PA102#v=onepage&q=&f=false', 'https://ui.adsabs.harvard.edu/abs/1940JChEd..17..124H', 'https://ui.adsabs.harvard.edu/abs/1996JChEd..73..701V', 'https://ui.adsabs.harvard.edu/abs/2006JChEd..83.1130J', 'https://ui.adsabs.harvard.edu/abs/2015JChEd..92.1484P', 'https://archive.org/stream/ost-chemistry-chemistryindustr01soci/chemistryindustr01soci#page/n65/mode/2up', 'https://web.archive.org/web/20070207082349/http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/A/Acids_Bases.html', 'https://doi.org/10.1002%2F0471238961.0308051303082114.a01.pub2', 'https://www.jstor.org/action/doBasicSearch?Query=%22Acid%E2%80%93base+reaction%22&acc=on&wc=on', 'https://api.semanticscholar.org/CorpusID:96042488', 'https://api.semanticscholar.org/CorpusID:98095406', 'https://www.chemguide.co.uk/physical/acidbaseeqia/theories.html']
+
+####### SUMMARY #######
+
+An acid–base reaction is a chemical reaction that occurs between an acid and a base. It can be used to determine pH. Several theoretical frameworks provide alternative conceptions of the reaction mechanisms and their application in solving related problems; these are called the acid–base theories, for example, Brønsted–Lowry acid–base theory.
+Their importance becomes apparent in analyzing acid–base reactions for gaseous or liquid species, or when acid or base character may be somewhat less apparent. The first of these concepts was provided by the French chemist Antoine Lavoisier, around 1776.It is important to think of the acid-base reaction models as theories that complement each other. For example, the current Lewis model has the broadest definition of what an acid and base are, with the Brønsted-Lowry theory being a subset of what acids and bases are, and the Arrhenius theory being the most restrictive.
+
+
+
+####### CONTENT #######
+
+An acid–base reaction is a chemical reaction that occurs between an acid and a base. It can be used to determine pH. Several theoretical frameworks provide alternative conceptions of the reaction mechanisms and their application in solving related problems; these are called the acid–base theories, for example, Brønsted–Lowry acid–base theory.
+Their importance becomes apparent in analyzing acid–base reactions for gaseous or liquid species, or when acid or base character may be somewhat less apparent. The first of these concepts was provided by the French chemist Antoine Lavoisier, around 1776.It is important to think of the acid-base reaction models as theories that complement each other. For example, the current Lewis model has the broadest definition of what an acid and base are, with the Brønsted-Lowry theory being a subset of what acids and bases are, and the Arrhenius theory being the most restrictive.
+
+
+== Acid–base definitions ==
+
+
+=== Historic development ===
+The concept of an acid-base reaction was first proposed in 1754 by Guillaume-François Rouelle, who introduced the word "base" into chemistry to mean a substance which reacts with an acid to give it solid form (as a salt). Bases are mostly bitter in nature.
+
+
+==== Lavoisier's oxygen theory of acids ====
+The first scientific concept of acids and bases was provided by Lavoisier in around 1776. Since Lavoisier's knowledge of strong acids was mainly restricted to oxoacids, such as HNO3 (nitric acid) and H2SO4 (sulfuric acid), which tend to contain central atoms in high oxidation states surrounded by oxygen, and since he was not aware of the true composition of the hydrohalic acids (HF, HCl, HBr, and HI), he defined acids in terms of their containing oxygen, which in fact he named from Greek words meaning "acid-former" (from the Greek ὀξύς (oxys) meaning "acid" or "sharp" and γεινομαι (geinomai) meaning "engender"). The Lavoisier definition held for over 30 years, until the 1810 article and subsequent lectures by Sir Humphry Davy in which he proved the lack of oxygen in H2S, H2Te, and the hydrohalic acids. However, Davy failed to develop a new theory, concluding that "acidity does not depend upon any particular elementary substance, but upon peculiar arrangement of various substances". One notable modification of oxygen theory was provided by Jöns Jacob Berzelius, who stated that acids are oxides of nonmetals while bases are oxides of metals.
+
+
+==== Liebig's hydrogen theory of acids ====
+In 1838, Justus von Liebig proposed that an acid is a hydrogen-containing compound whose hydrogen can be replaced by a metal. This redefinition was based on his extensive work on the chemical composition of organic acids, finishing the doctrinal shift from oxygen-based acids to hydrogen-based acids started by Davy. Liebig's definition, while completely empirical, remained in use for almost 50 years until the adoption of the Arrhenius definition.
+
+
+=== Arrhenius definition ===
+
+The first modern definition of acids and bases in molecular terms was devised by Svante Arrhenius. A hydrogen theory of acids, it followed from his 1884 work with Friedrich Wilhelm Ostwald in establishing the presence of ions in aqueous solution and led to Arrhenius receiving the Nobel Prize in Chemistry in 1903.
+As defined by Arrhenius:
+
+an Arrhenius acid is a substance that dissociates in water to form hydrogen ions (H+); that is, an acid increases the concentration of H+ ions in an aqueous solution.This causes the protonation of water, or the creation of the hydronium (H3O+) ion. Thus, in modern times, the symbol H+ is interpreted as a shorthand for H3O+, because it is now known that a bare proton does not exist as a free species in aqueous solution. This is the species which is measured by pH indicators to measure the acidity or basicity of a solution. 
+
+an Arrhenius base is a substance that dissociates in water to form hydroxide (OH−) ions; that is, a base increases the concentration of OH− ions in an aqueous solution."The Arrhenius definitions of acidity and alkalinity are restricted to aqueous solutions and are not valid for most non-aqueous solutions, and refer to the concentration of the solvent ions. Under this definition, pure H2SO4 and HCl dissolved in toluene are not acidic, and molten NaOH and solutions of calcium amide in liquid ammonia are not alkaline. This led to the development of the Brønsted-Lowry theory and subsequent Lewis theory to account for these non-aqueous exceptions.The reaction of an acid with a base is called a neutralization reaction. The products of this reaction are a salt and water.
+
+acid + base → salt + waterIn this traditional representation an acid–base neutralization reaction is formulated as a double-replacement reaction. For example, the reaction of hydrochloric acid, HCl, with sodium hydroxide, NaOH, solutions produces a solution of sodium chloride, NaCl, and some additional water molecules.
+
+HCl(aq) + NaOH(aq) → NaCl(aq) + H2OThe modifier (aq) in this equation was implied by Arrhenius, rather than included explicitly. It indicates that the substances are dissolved in water. Though all three substances, HCl, NaOH and NaCl are capable of existing as pure compounds, in aqueous solutions they are fully dissociated into the aquated ions H+, Cl−, Na+ and OH−.
+
+
+==== Example: Baking Powder ====
+When combined with water, the sodium bicarbonate and acid salts react to produce gaseous carbon dioxide. 
+Whether commercially or domestically prepared, the principles behind baking powder formulations remain the same. The acid-base reaction can be generically represented as shown:
+NaHCO3  +  H+   →   Na+  +  CO2  +  H2OThe real reactions are more complicated because the acids are complicated. For example, starting with baking soda and monocalcium phosphate, the reaction produces carbon dioxide by the following stoichiometry:
+14 NaHCO3  +  5 Ca(H2PO4)2    →   14 CO2  +  Ca5(PO4)3OH  + 7 Na2HPO4  +  13 H2O
+A typical formulation (by weight) could call for 30% sodium bicarbonate, 5–12% monocalcium phosphate, and 21–26% sodium aluminium sulfate.  
+Alternately, a commercial baking powder might use sodium acid pyrophosphate as one of the two acidic components instead of sodium aluminium sulfate.
+Another typical acid in such formulations is cream of tartar (KC4H5O6), a derivative of tartaric acid.
+
+
+=== Brønsted–Lowry definition ===
+
+The Brønsted–Lowry definition, formulated in 1923, independently by Johannes Nicolaus Brønsted in Denmark and Martin Lowry in England, is based upon the idea of protonation of bases through the deprotonation of acids – that is, the ability of acids to "donate" hydrogen ions (H+)—otherwise known as protons—to bases, which "accept" them.An acid–base reaction is, thus, the removal of a hydrogen ion from the acid and its addition to the base. The removal of a hydrogen ion from an acid produces its conjugate base, which is the acid with a hydrogen ion removed. The reception of a proton by a base produces its conjugate acid, which is the base with a hydrogen ion added.
+Unlike the previous definitions, the Brønsted–Lowry definition does not refer to the formation of salt and solvent, but instead to the formation of conjugate acids and conjugate bases, produced by the transfer of a proton from the acid to the base. In this approach, acids and bases are fundamentally different in behavior from salts, which are seen as electrolytes, subject to the theories of Debye, Onsager, and others. An acid and a base react not to produce a salt and a solvent, but to form a new acid and a new base. The concept of neutralization is thus absent. Brønsted–Lowry acid–base behavior is formally independent of any solvent, making it more all-encompassing than the Arrhenius model. The calculation of pH under the Arrhenius model depended on alkalis (bases) dissolving in water (aqueous solution). The Brønsted–Lowry model expanded what could be pH tested using insoluble and soluble solutions (gas, liquid, solid).
+The general formula for acid–base reactions according to the Brønsted–Lowry definition is:
+
+HA + B → BH+ + A−where HA represents the acid, B represents the base, BH+ represents the conjugate acid of B, and A− represents the conjugate base of HA.
+For example, a Brønsted-Lowry model for the dissociation of hydrochloric acid (HCl) in aqueous solution would be the following:
+
+HCl + H2O ⇌ H3O+ + Cl−The removal of H+ from the HCl produces the chloride ion, Cl−, the conjugate base of the acid. The addition of H+ to the H2O (acting as a base) forms the hydronium ion, H3O+, the conjugate acid of the base.
+Water is amphoteric—that is, it can act as both an acid and a base. The Brønsted-Lowry model explains this, showing the dissociation of water into low concentrations of hydronium and hydroxide ions:
+
+H2O + H2O ⇌ H3O+ + OH−This equation is demonstrated in the image below:
+
+Here, one molecule of water acts as an acid, donating an H+ and forming the conjugate base, OH−, and a second molecule of water acts as a base, accepting the H+ ion and forming the conjugate acid, H3O+.
+As an example of water acting as an acid, consider an aqueous solution of pyridine, C5H5N.
+
+C5H5N + H2O ⇌ [C5H5NH]+ + OH−In this example, a water molecule is split into a hydrogen ion, which is donated to a pyridine molecule, and a hydroxide ion.
+In the Brønsted-Lowry model, the solvent does not necessarily have to be water, as is required by the Arrhenius Acid-Base model. For example, consider what happens when acetic acid, CH3COOH, dissolves in liquid ammonia.
+
+CH3COOH + NH3 ⇌ NH+4 + CH3COO−An H+ ion is removed from acetic acid, forming its conjugate base, the acetate ion, CH3COO−. The addition of an H+ ion to an ammonia molecule of the solvent creates its conjugate acid, the ammonium ion, NH+4.
+The Brønsted–Lowry model calls hydrogen-containing substances (like HCl) acids. Thus, some substances, which many chemists considered to be acids, such as SO3 or BCl3, are excluded from this classification due to lack of hydrogen. Gilbert N. Lewis wrote in 1938, "To restrict the group of acids to those substances that contain hydrogen interferes as seriously with the systematic understanding of chemistry as would the restriction of the term oxidizing agent to substances containing oxygen." Furthermore, KOH and KNH2 are not considered Brønsted bases, but rather salts containing the bases OH− and NH−2.
+
+
+=== Lewis definition ===
+
+The hydrogen requirement of Arrhenius and Brønsted–Lowry was removed by the Lewis definition of acid–base reactions, devised by Gilbert N. Lewis in 1923, in the same year as Brønsted–Lowry, but it was not elaborated by him until 1938. Instead of defining acid–base reactions in terms of protons or other bonded substances, the Lewis definition defines a base (referred to as a Lewis base) to be a compound that can donate an electron pair, and an acid (a Lewis acid) to be a compound that can receive this electron pair.For example, boron trifluoride, BF3 is a typical Lewis acid. It can accept a pair of electrons as it has a vacancy in its octet. The fluoride ion has a full octet and can donate a pair of electrons. Thus
+
+BF3 + F− → BF−4is a typical Lewis acid, Lewis base reaction. All compounds of group 13 elements with a formula AX3 can behave as Lewis acids. Similarly, compounds of group 15 elements with a formula DY3, such as amines, NR3, and phosphines, PR3, can behave as Lewis bases. Adducts between them have the formula X3A←DY3 with a dative covalent bond, shown symbolically as ←, between the atoms A (acceptor) and D (donor). Compounds of group 16 with a formula DX2 may also act as Lewis bases; in this way, a compound like an ether, R2O, or a thioether, R2S, can act as a Lewis base. The Lewis definition is not limited to these examples. For instance, carbon monoxide acts as a Lewis base when it forms an adduct with boron trifluoride, of formula F3B←CO.
+Adducts involving metal ions are referred to as co-ordination compounds; each ligand donates a pair of electrons to the metal ion. The reaction
+
+[Ag(H2O)4]+ + 2NH3 → [Ag(NH3)2]+ + 4H2Ocan be seen as an acid–base reaction in which a stronger base (ammonia) replaces a weaker one (water)
+The Lewis and Brønsted–Lowry definitions are consistent with each other since the reaction
+
+H+ + OH− ⇌ H2Ois an acid–base reaction in both theories.
+
+
+=== Solvent system definition ===
+One of the limitations of the Arrhenius definition is its reliance on water solutions. Edward Curtis Franklin studied the acid–base reactions in liquid ammonia in 1905 and pointed out the similarities to the water-based Arrhenius theory. Albert F.O. Germann, working with liquid phosgene, COCl2, formulated the solvent-based theory in 1925, thereby generalizing the Arrhenius definition to cover aprotic solvents.Germann pointed out that in many solutions, there are ions in equilibrium with the neutral solvent molecules:
+
+solvonium ions: a generic name for positive ions. (The term solvonium has replaced the older term lyonium ions: positive ions formed by protonation of solvent molecules.)
+solvate ions: a generic name for negative ions. (The term solvate has replaced the older term lyate ions: negative ions formed by deprotonation of solvent molecules.)For example, water and ammonia undergo such dissociation into hydronium and hydroxide, and ammonium and amide, respectively:
+
+2 H2O ⇌ H3O+ + OH−
+2 NH3 ⇌ NH+4 + NH−2Some aprotic systems also undergo such dissociation, such as dinitrogen tetroxide into nitrosonium and nitrate, antimony trichloride into dichloroantimonium and tetrachloroantimonate, and phosgene into chlorocarboxonium and chloride:
+
+N2O4 ⇌ NO+ + NO−3
+2 SbCl3 ⇌ SbCl+2 + SbCl−4
+COCl2 ⇌ COCl+ + Cl−A solute that causes an increase in the concentration of the solvonium ions and a decrease in the concentration of solvate ions is defined as an acid. A solute that causes an increase in the concentration of the solvate ions and a decrease in the concentration of the solvonium ions is defined as a base.
+Thus, in liquid ammonia, KNH2 (supplying NH−2) is a strong base, and NH4NO3 (supplying NH+4) is a strong acid. In liquid sulfur dioxide (SO2), thionyl compounds (supplying SO2+) behave as acids, and sulfites (supplying SO2−3) behave as bases.
+The non-aqueous acid–base reactions in liquid ammonia are similar to the reactions in water:
+
+2 NaNH2(base) + Zn(NH2)2(amphiphilic amide) → Na2[Zn(NH2)4]
+2 NH4I(acid) + Zn(NH2)2(amphiphilic amide) → [Zn(NH3)4]I2Nitric acid can be a base in liquid sulfuric acid:
+
+HNO3(base) + 2 H2SO4 → NO+2 + H3O+ + 2 HSO−4The unique strength of this definition shows in describing the reactions in aprotic solvents; for example, in liquid N2O4:
+
+AgNO3(base) + NOCl(acid) → N2O4(solvent) + AgCl(salt)Because the solvent system definition depends on the solute as well as on the solvent itself, a particular solute can be either an acid or a base depending on the choice of the solvent: HClO4 is a strong acid in water, a weak acid in acetic acid, and a weak base in fluorosulfonic acid; this characteristic of the theory has been seen as both a strength and a weakness, because some substances (such as SO3 and NH3) have been seen to be acidic or basic on their own right. On the other hand, solvent system theory has been criticized as being too general to be useful. Also, it has been thought that there is something intrinsically acidic about hydrogen compounds, a property not shared by non-hydrogenic solvonium salts.
+
+
+=== Lux–Flood definition ===
+This acid–base theory was a revival of the oxygen theory of acids and bases proposed by German chemist Hermann Lux in 1939, further improved by Håkon Flood circa 1947 and is still used in modern geochemistry and electrochemistry of molten salts. This definition describes an acid as an oxide ion (O2−) acceptor and a base as an oxide ion donor. For example:
+MgO(base) + CO2(acid) → MgCO3
+CaO(base) + SiO2(acid) → CaSiO3
+NO−3(base) + S2O2−7(acid) → NO+2 + 2 SO2−4This theory is also useful in the systematisation of the reactions of noble gas compounds, especially the xenon oxides, fluorides, and oxofluorides.
+
+
+=== Usanovich definition ===
+Mikhail Usanovich developed a general theory that does not restrict acidity to hydrogen-containing compounds, but his approach, published in 1938, was even more general than Lewis theory. Usanovich's theory can be summarized as defining an acid as anything that accepts negative species or donates positive ones, and a base as the reverse. This defined the concept of redox (oxidation-reduction) as a special case of acid–base reactions
+Some examples of Usanovich acid–base reactions include:
+
+Na2O(base) + SO3(acid) → 2 Na+ + SO2−4 (species exchanged: O2− anion)
+3 (NH4)2S(base) + Sb2S5(acid) → 6 NH+4 + 2 SbS3−4 (species exchanged: 3 S2− anions)
+2Na(base) + Cl2(acid) → 2Na+ + 2Cl− (species exchanged: 2 electrons)
+
+
+== Rationalizing the strength of Lewis acid–base interactions ==
+
+
+=== HSAB theory ===
+
+In 1963, Ralph Pearson proposed a qualitative concept known as the Hard and Soft Acids and Bases principle. later made quantitative with help of Robert Parr in 1984. 'Hard' applies to species that are small, have high charge states, and are weakly polarizable. 'Soft' applies to species that are large, have low charge states and are strongly polarizable. Acids and bases interact, and the most stable interactions are hard–hard and soft–soft. This theory has found use in organic and inorganic chemistry.
+
+
+=== ECW model ===
+
+The ECW model created by Russell S. Drago is a quantitative model that describes and predicts the strength of Lewis acid base interactions, −ΔH. The model assigned E and C parameters to many Lewis acids and bases. Each acid is characterized by an EA and a CA. Each base is likewise characterized by its own EB and CB. The E and C parameters refer, respectively, to the electrostatic and covalent contributions to the strength of the bonds that the acid and base will form. The equation is
+
+−ΔH = EAEB + CACB + WThe W term represents a constant energy contribution for acid–base reaction such as the cleavage of a dimeric acid or base. The equation predicts reversal of acids and base strengths. The graphical presentations of the equation show that there is no single order of Lewis base strengths or Lewis acid strengths.
+
+
+== Acid–base equilibrium ==
+
+The reaction of a strong acid with a strong base is essentially a quantitative reaction. For example,
+
+HCl(aq) + Na(OH)(aq) → H2O + NaCl(aq)In this reaction both the sodium and chloride ions are spectators as the neutralization reaction,
+
+H+ + OH− → H2Odoes not involve them. With weak bases addition of acid is not quantitative because a solution of a weak base is a buffer solution. A solution of a weak acid is also a buffer solution. When a weak acid reacts with a weak base an equilibrium mixture is produced. For example, adenine, written as AH, can react with a hydrogen phosphate ion, HPO2−4.
+
+AH + HPO2−4 ⇌ A− + H2PO−4The equilibrium constant for this reaction can be derived from the acid dissociation constants of adenine and of the dihydrogen phosphate ion.
+
+[A−] [H+] = Ka1[AH]
+[HPO2−4] [H+] = Ka2[H2PO−4]The notation [X] signifies "concentration of X". When these two equations are combined by eliminating the hydrogen ion concentration, an expression for the equilibrium constant, K is obtained.
+
+[A−] [H2PO−4] = K[AH] [HPO2−4];      K = Ka1/Ka2
+
+
+== Acid–alkali reaction ==
+
+An acid–alkali reaction is a special case of an acid–base reaction, where the base used is also an alkali. When an acid reacts with an alkali salt (a metal hydroxide), the product is a metal salt and water. Acid–alkali reactions are also neutralization reactions.
+In general, acid–alkali reactions can be simplified to
+
+OH−(aq) + H+(aq) → H2Oby omitting spectator ions.
+Acids are in general pure substances that contain hydrogen cations (H+) or cause them to be produced in solutions. Hydrochloric acid (HCl) and sulfuric acid (H2SO4) are common examples. In water, these break apart into ions:
+
+HCl → H+(aq) + Cl−(aq)
+H2SO4 → H+(aq) + HSO−4(aq)The alkali breaks apart in water, yielding dissolved hydroxide ions:
+
+NaOH → Na+(aq) + OH−(aq)
+
+
+== See also ==
+Acid–base titration
+Deprotonation
+Donor number
+Electron configuration
+Gutmann–Beckett method
+Lewis structure
+Nucleophilic substitution
+Neutralization (chemistry)
+Protonation
+Redox reactions
+Resonance (chemistry)
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Sources ===
+Clayden, Jonathan; Greeves, Nick; Warren, Stuart; Wothers, Peter (2000). Organic Chemistry (First ed.). Oxford University Press.
+Finston, H.L.; Rychtman, A.C. (1983). A New View of Current Acid-Base Theories. New York: John Wiley & Sons.
+Meyers, R. (2003). The Basics of Chemistry. Greenwood Press.
+Miessler, G.L.; Tarr, D.A. (1991). Inorganic Chemistry.
+
+
+== External links ==
+Acid-base Physiology: an on-line text
+John W. Kimball's online Biology book section of acid and bases.
+

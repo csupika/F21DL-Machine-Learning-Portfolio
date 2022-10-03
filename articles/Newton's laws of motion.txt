@@ -1,0 +1,1738 @@
+####### TITLE #######
+
+Newton's laws of motion
+
+####### LINKS #######
+
+['A Man on the Moon', 'Abraham de Moivre', 'Absolute space and time', "Abu'l-Barakāt al-Baghdādī", 'Acceleration', 'Action at a distance', 'Aether theories', 'Albert of Saxony (philosopher)', 'Alchemy', 'Alexis Clairaut', 'American Journal of Physics', 'An Historical Account of Two Notable Corruptions of Scripture', 'Analytical dynamics', 'Analytical mechanics', 'Andrew Chaikin', 'Andrew M. Gleason', 'Andrew Wiles', 'Angular acceleration', 'Angular displacement', 'Angular frequency', 'Angular momentum', 'Angular velocity', 'Anna Frebel', 'Anneliese Maier', 'Anthony Zee', 'Apollo 8', "Appell's equation of motion", 'Applied mechanics', 'ArXiv (identifier)', 'Aristotle', 'Arithmetica Universalis', 'Arthur Jaffe', 'Asher Peres', 'Atmosphere', 'Augustin-Louis Cauchy', 'Avicenna', 'Avogadro constant', 'Barycenter', "Bell's theorem", 'Benjamin Pulleyn', 'Bernard Koopman', 'Betty Jo Teeter Dobbs', 'Bibcode (identifier)', 'Born rule', 'Bouncing ball', 'Brownian motion', 'Bucket argument', 'Byzantine Greek', 'C. Doris Hellman', 'Calculus', 'Calculus Made Easy', 'Calculus of variations', 'Cambridge University Press', 'Catherine Barton', 'Celestial mechanics', 'Center of mass', 'Centrifugal force', 'Centripetal force', 'Chain rule', 'Chanda Prescod-Weinstein', 'Chandralekha Singh', 'Chaos theory', 'Charles Fefferman', 'Christiaan Huygens', 'Christopher Wren', 'Circular motion', 'Classical Mechanics (Goldstein)', 'Classical mechanics', 'Claude Cohen-Tannoudji', 'Closed-form expression', 'Conic section', 'Conservation of energy', 'Conservation of momentum', 'Continuum mechanics', 'Coordinate system', 'Copernican Revolution', 'Coriolis force', 'Corpuscular theory of light', "Coulomb's law", 'Couple (mechanics)', 'Course of Theoretical Physics', 'Cranbury Park', 'Cross product', 'Curvature of Space and Time, with an Introduction to Geometric Analysis', 'Cyclotron resonance', "D'Alembert's principle", 'Damping ratio', 'Daniel Bernoulli', 'David L. Goodstein', 'David Tong (physicist)', 'De analysi per aequationes numero terminorum infinitas', 'De motu corporum in gyrum', 'Deborah Hughes Hallett', 'Delta (letter)', 'Density', 'Derivative', 'Difference quotient', 'Differential equation', 'Displacement (geometry)', 'Doi (identifier)', 'Donald G. Saari', 'Double pendulum', 'Drag coefficient', 'Dynamical billiards', 'Early life of Isaac Newton', 'Earthrise', 'Edmond Halley', 'Edward Routh', 'Ehrenfest theorem', 'Einstein field equations', 'Elastic collision', 'Electric charge', 'Electricity', 'Ellipse', 'Emmy Noether', 'Encyclopædia Britannica', 'Energy', 'Equations of motion', 'Euclid', 'Euclidean vector', "Euler's equations (rigid body dynamics)", "Euler's laws of motion", 'Euler equations (fluid dynamics)', 'Euler–Lagrange equation', 'European Journal of Physics', 'Evgeny Lifshitz', 'Expectation value (quantum mechanics)', 'F=ma', 'Fermi–Pasta–Ulam–Tsingou problem', 'Fictitious force', 'Finite difference', 'Fluid', 'Fluxion', 'Force', 'Force field (physics)', 'Fork', 'Foundations of Science', 'Four-vector', 'Frame of reference', 'Frank Wilczek', 'Free body diagram', 'Free fall', 'Friction', 'Galilean invariance', 'Galileo', 'Galileo Galilei', 'Gauss–Newton algorithm', 'General Scholium', 'General relativity', 'Generalized Gauss–Newton method', 'George F. R. Ellis', 'Godfrey Kneller', 'Gradient', 'Gravitational constant', 'Gravity', 'Greg Gbur', "Hamilton's equations", 'Hamiltonian mechanics', 'Hamilton–Jacobi equation', 'Harmonic oscillator', 'Hdl (identifier)', 'Helix', 'Herbert Goldstein', 'Hermitian operator', 'History of classical mechanics', 'Horologium Oscillatorium', 'How I Killed Pluto and Why It Had It Coming', 'Hyperbola', 'Hypotheses non fingo', 'I. Bernard Cohen', 'ISBN (identifier)', 'ISSN (identifier)', 'Impact depth', 'Impulse (physics)', 'Imre Leader', 'Inclined plane', 'Inelastic collision', 'Inertia', 'Inertial frame of reference', 'Inertial observer', 'Institute of Physics Isaac Newton Medal', 'Interplanetary spaceflight', 'Isaac Barrow', 'Isaac Beeckman', 'Isaac Newton', "Isaac Newton's occult studies", 'Isaac Newton Group of Telescopes', 'Isaac Newton Institute', 'Isaac Newton Telescope', 'Isaac Newton in popular culture', 'Isis (journal)', 'JSTOR (identifier)', 'Jakob Hermann', "Jean le Rond d'Alembert", 'Jeremiah Horrocks', 'Johann Bernoulli', 'Johannes Kepler', 'John Archibald Wheeler', 'John Buridan', 'John C. Baez', 'John Conduitt', 'John Keill', 'John Maynard Keynes', 'John Philoponus', 'John Stewart Bell', 'John Wallis', 'John von Neumann', 'Jorge V. José', 'Joseph-Louis Lagrange', 'Joseph Liouville', 'Josiah Willard Gibbs', 'Journal of Physics A: Mathematical and Theoretical', 'Judith R. Goodstein', 'June Barrow-Green', 'Karin Reich', 'Kate Scholberg', "Kepler's laws of planetary motion", 'Kepler problem', 'Kinematics', 'Kinetic energy', 'Kinetic theory of gases', 'Kinetics (physics)', 'Kissing number', 'Kluwer', 'Koopman–von Neumann classical mechanics', 'Lagrangian mechanics', 'Langevin equation', 'Laplace–Runge–Lenz vector', 'Later life of Isaac Newton', 'Leibniz–Newton calculus controversy', 'Leonhard Euler', 'Lev Landau', 'Lillian C. McDermott', 'Limit (mathematics)', 'Linda Reichl', 'Linear motion', 'List of eponymous laws', 'List of equations in classical mechanics', 'List of scientific laws named after people', 'List of textbooks on classical mechanics and quantum mechanics', 'List of things named after Isaac Newton', 'Loop (computing)', 'Lorentz factor', 'Lorentz force law', 'Luminiferous aether', 'MIT OpenCourseWare', 'Magnetism', 'Margaret Baron', 'Marie-Antoinette Tonnelat', 'Martin Gardner', 'Mary Hesse', 'Mary L. Boas', 'Mary Somerville', 'Mass', 'Mass-to-charge ratio', 'Mass spectrometry', 'Material derivative', 'Mathematical Methods in the Physical Sciences', 'Mathematics Magazine', 'Matthew Sands', 'Max Jammer', "Maxwell's equations", 'Measurement in quantum mechanics', 'Mechanical equilibrium', 'Mechanical explanations of gravitation', 'Mechanics of planar particle motion', 'Mehran Kardar', 'Melba Phillips', 'Method of Fluxions', 'Mike Brown (astronomer)', 'Millennium Prize Problems', 'Moment (physics)', 'Moment of inertia', 'Momentum', 'Motion', 'N. David Mermin', 'Nathan Rosen', 'Natural satellite', 'Nature (journal)', 'Navier–Stokes equation', 'Navier–Stokes existence and smoothness', "Newton's cannonball", "Newton's cradle", "Newton's identities", "Newton's inequalities", "Newton's law (disambiguation)", "Newton's law of cooling", "Newton's law of universal gravitation", "Newton's laws", "Newton's metal", "Newton's method", "Newton's method in optimization", "Newton's notation", "Newton's reflector", "Newton's rings", "Newton's theorem about ovals", "Newton's theorem of revolving orbits", 'Newton (Blake)', 'Newton (Paolozzi)', 'Newton (unit)', 'Newton International Fellowship', 'Newton disc', 'Newton fractal', 'Newton polygon', 'Newton polynomial', 'Newton scale', 'Newtonian dynamics', 'Newtonian fluid', 'Newtonian potential', 'Newtonian telescope', 'Newtonianism', 'Newton–Cartan theory', 'Newton–Cotes formulas', 'Newton–Euler equations', 'Newton–Okounkov body', 'Newton–Pepys problem', 'Nina Byers', "Noether's theorem", 'Non-inertial reference frame', 'Normal force', "Norton's dome", 'Notes on the Jewish Temple', 'Notices of the American Mathematical Society', 'Numerical methods for ordinary differential equations', 'Nur ad-Din al-Bitruji', 'OCLC (identifier)', 'Oliver Heaviside', 'Olympia Nicodemi', 'OpenStax', 'Opticks', 'Optics', 'Orbit', 'Orbital eccentricity', 'Origin (mathematics)', 'PMID (identifier)', 'Parabola', 'Parallelogram of force', 'Parameterized post-Newtonian formalism', 'Partial derivative', 'Patricia Fara', 'Paul Ehrenfest', 'Paul Émile Appell', 'Pendulum', 'Pendulum (mechanics)', 'Pergamon Press', 'Perturbation theory', 'Peter Guthrie Tait', 'Peter Tait (physicist)', 'Philip Ball', 'Philosophiæ Naturalis Principia Mathematica', 'Physical Review Physics Education Research', 'Physical Review Special Topics - Physics Education Research', 'Physics (magazine)', 'Physics Education', 'Physics Today', 'Pierre-Simon Laplace', 'Pierre Gassendi', 'Pierre Louis Maupertuis', 'Planet', 'Plenum (physics)', 'Poincaré and the Three-Body Problem', 'Post-Newtonian expansion', 'Potential energy', 'Power (physics)', 'Power number', 'Power rule', 'Poynting vector', 'Pressure', 'Principles of Philosophy', 'Priscilla Laws', 'Problem of Apollonius', 'Proceedings of the American Mathematical Society', 'Projectile motion', 'Protoscience', 'Puiseux series', 'Quaestiones quaedam philosophicae', 'Quantum Theory: Concepts and Methods', 'Quantum mechanics', 'Quaternion', 'Reaction (physics)', 'Reactive centrifugal force', 'Relative velocity', 'Religious views of Isaac Newton', 'René Descartes', 'Resonance', 'Rest mass', 'Reviews of Modern Physics', 'Richard Feynman', 'Rigid body', 'Rigid body dynamics', 'Robert B. Leighton', 'Robert Resnick', 'Rocket', 'Rocket engine', 'Rotating reference frame', 'Rotating spheres', 'Rotation around a fixed axis', 'Rotational speed', 'Routhian mechanics', 'Ruth Chabay', 'Ruth Margaret Williams', 'S2CID (identifier)', 'Scalar potential', 'Schrödinger–Newton equation', 'Science (journal)', 'Scientific Revolution', 'Scientific law', 'Second law of motion', 'Silvanus P. Thompson', 'Simple harmonic motion', 'Siméon Denis Poisson', 'Sine and cosine', 'Sir Isaac Newton Sixth Form', 'Solar System', 'Space', 'Space Shuttle Atlantis', 'Spacetime', 'Special relativity', 'Spectrum', 'Speed', 'Speed of light', 'Standing on the shoulders of giants', 'Stanford Encyclopedia of Philosophy', 'Statal Institute of Higher Education Isaac Newton', 'Statics', 'Statistical Physics of Particles', 'Statistical mechanics', 'Statistical physics', 'Steven Frautschi', 'Stopper (plug)', 'Stroboscope', 'Structural coloration', 'Studies in History and Philosophy of Science Part A', 'Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics', 'Superposition principle', 'Synthese', 'Table of Newtonian series', 'Tara Nummedal', 'Tatiana Ehrenfest-Afanaseva', 'Tautology (logic)', 'Taylor series', 'Tensor calculus', 'The British Journal for the History of Science', 'The Chronology of Ancient Kingdoms Amended', 'The Feynman Lectures on Physics', 'The Mechanical Universe', 'The Physics Teacher', 'The Princeton Companion to Mathematics', 'The Queries', 'The Renaissance Society of America', 'Theory of impetus', 'Thermal energy', 'Thought experiment', 'Three-body problem', 'Tide', 'Time', 'Timeline of classical mechanics', 'Timothy Gowers', 'Tom M. Apostol', 'Toothpick', 'Torque', 'Traité de mécanique céleste', 'Trinity College, Cambridge', 'Truncated Newton method', 'Two-body problem', 'United States Physics Olympiad', 'Variable-mass system', 'Variable (computer science)', 'Vector (mathematics and physics)', 'Velocity', 'Vibration', 'Virtual work', 'Vis viva', 'Viscosity', 'Wave optics', 'William Anders', 'William Clarke (apothecary)', 'William G. McCallum', 'William Gilbert (physician)', 'William Jones (mathematician)', 'William R. Newman', 'William Rowan Hamilton', 'William Stukeley', 'William Thomson, 1st Baron Kelvin', 'Wolfgang Panofsky', 'Woolsthorpe Manor', 'Work-energy theorem', 'Work (physics)', 'Wren Library', 'Writing of Principia Mathematica', 'Yvonne Choquet-Bruhat', 'Zhihong Xia', 'Émilie du Châtelet']
+
+####### CATEGORIES #######
+
+['Articles containing video clips', 'Articles with GND identifiers', 'Articles with short description', 'Classical mechanics', 'Copernican Revolution', 'Equations of physics', 'Experimental physics', 'Isaac Newton', 'Latin texts', 'Scientific laws', 'Scientific observation', 'Short description is different from Wikidata', 'Use British English from July 2019', 'Use dmy dates from July 2019', 'Wikipedia pages semi-protected against vandalism']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/d/d5/Animated-mass-spring-faster.gif', 'https://upload.wikimedia.org/wikipedia/commons/a/ae/Binary_system_orbit_q%3D3_e%3D0.gif', 'https://upload.wikimedia.org/wikipedia/commons/5/55/Birds-2_deployed_from_Kibo_%28Iss056e130478%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/c2/Brownian_motion_large.gif', 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Cyclotron_motion.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Demonstrating_Chaos_with_a_Double_Pendulum.gif', 'https://upload.wikimedia.org/wikipedia/commons/d/d3/Free_body1.3.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/5f/He1523a.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Iridium-1_Launch_%2832312419215%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/0/04/Masocentro1.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Newton%27s_reflecting_telescope.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/41/NewtonsPrincipia.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/5d/Newtons_laws_in_latin.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif', 'https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Three-body_Problem_Animation.gif', 'https://upload.wikimedia.org/wikipedia/commons/3/3c/Bouncing_ball_strobe_edit.jpg', 'https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Noether.jpg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/0/08/Page_157_from_Mechanism_of_the_Heaven%2C_Mary_Somerville_1831.png', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2a/Space_Shuttle_Atlantis_launches_from_KSC_on_STS-132_side_view.jpg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg']
+
+####### REFERENCES #######
+
+['http://link.springer.com/10.1007/s11229-011-9983-8', 'http://pubmed.ncbi.nlm.nih.gov/29857796', 'http://hdl.handle.net/2158%2F530056', 'http://scitation.aip.org/content/aapt/journal/ajp/85/1/10.1119/1.4972041', 'http://www.ams.org/notices/199505/saari-2.pdf', 'http://archive.org/details/newtonspmathema00newtrich', 'http://arxiv.org/abs/1012.4384', 'http://arxiv.org/abs/1609.01421', 'http://arxiv.org/abs/1802.10119', 'http://arxiv.org/abs/1805.01372', 'http://arxiv.org/abs/1908.07936', 'http://arxiv.org/abs/1910.09414', 'http://doi.org/10.1007%2F978-1-60327-233-9_6', 'http://doi.org/10.1007%2Fs10699-019-09608-5', 'http://doi.org/10.1007%2Fs11229-011-9983-8', 'http://doi.org/10.1016%2Fj.shpsa.2018.01.006', 'http://doi.org/10.1016%2Fj.shpsb.2017.07.004', 'http://doi.org/10.1017%2FS0007087400010232', 'http://doi.org/10.1017%2FS000708740800188X', 'http://doi.org/10.1038%2F072429a0', 'http://doi.org/10.1063%2F1.2387086', 'http://doi.org/10.1086%2F349598', 'http://doi.org/10.1086%2F709344', 'http://doi.org/10.1088%2F0031-9120%2F20%2F4%2F308', 'http://doi.org/10.1088%2F0031-9120%2F27%2F2%2F011', 'http://doi.org/10.1088%2F0031-9120%2F49%2F5%2F564', 'http://doi.org/10.1088%2F0143-0807%2F20%2F1%2F018', 'http://doi.org/10.1088%2F0143-0807%2F26%2F2%2FL01', 'http://doi.org/10.1088%2F0143-0807%2F32%2F2%2F016', 'http://doi.org/10.1088%2F0143-0807%2F34%2F1%2F129', 'http://doi.org/10.1088%2F0143-0807%2F37%2F6%2F065201', 'http://doi.org/10.1088%2F0143-0807%2F38%2F1%2F015001', 'http://doi.org/10.1088%2F1361-6404%2Faa57d1', 'http://doi.org/10.1088%2F1361-6552%2Fab08f5', 'http://doi.org/10.1088%2F1751-8113%2F47%2F42%2F424011', 'http://doi.org/10.1090%2Fproc%2F15349', 'http://doi.org/10.1093%2Foxfordhb%2F9780199930418.013.35', 'http://doi.org/10.1103%2FPhysRevPhysEducRes.15.010123', 'http://doi.org/10.1103%2FPhysRevPhysEducRes.15.020126', 'http://doi.org/10.1103%2FPhysRevPhysEducRes.16.010111', 'http://doi.org/10.1103%2FPhysRevPhysEducRes.17.010121', 'http://doi.org/10.1103%2FPhysRevSTPER.5.010108', 'http://doi.org/10.1103%2FPhysRevSTPER.5.010110', 'http://doi.org/10.1103%2FPhysics.12.100', 'http://doi.org/10.1103%2FRevModPhys.65.803', 'http://doi.org/10.1119%2F1.1475326', 'http://doi.org/10.1119%2F1.15104', 'http://doi.org/10.1119%2F1.1649964', 'http://doi.org/10.1119%2F1.16590', 'http://doi.org/10.1119%2F1.1845990', 'http://doi.org/10.1119%2F1.18659', 'http://doi.org/10.1119%2F1.1937823', 'http://doi.org/10.1119%2F1.1971282', 'http://doi.org/10.1119%2F1.1987423', 'http://doi.org/10.1119%2F1.1987920', 'http://doi.org/10.1119%2F1.2834738', 'http://doi.org/10.1119%2F1.3492721', 'http://doi.org/10.1119%2F1.3579141', 'http://doi.org/10.1119%2F1.3607433', 'http://doi.org/10.1119%2F1.4752043', 'http://doi.org/10.1119%2F1.4972041', 'http://doi.org/10.1119%2F1.5054590', 'http://doi.org/10.1119%2F1.5109519', 'http://doi.org/10.1119%2F1.879949', 'http://doi.org/10.1119%2F10.0000781', 'http://doi.org/10.1119%2F10.0003660', 'http://doi.org/10.1126%2Fscience.1088786', 'http://doi.org/10.2307%2F2858681', 'http://doi.org/10.4169%2F002557010X479965', 'http://www.jstor.org/stable/227788', 'http://www.jstor.org/stable/25592244', 'http://www.jstor.org/stable/2858681', 'http://www.jstor.org/stable/43915795', 'http://www.jstor.org/stable/44216227', 'http://www.ketchum.org/billah/Billah-Scanlan.pdf', 'http://aapt.scitation.org/doi/10.1119/1.1475326', 'http://aapt.scitation.org/doi/10.1119/1.15104', 'http://aapt.scitation.org/doi/10.1119/1.1649964', 'http://aapt.scitation.org/doi/10.1119/1.18659', 'http://aapt.scitation.org/doi/10.1119/1.1937823', 'http://aapt.scitation.org/doi/10.1119/1.1971282', 'http://aapt.scitation.org/doi/10.1119/1.1987423', 'http://aapt.scitation.org/doi/10.1119/1.1987920', 'http://aapt.scitation.org/doi/10.1119/1.2834738', 'http://aapt.scitation.org/doi/10.1119/1.3492721', 'http://aapt.scitation.org/doi/10.1119/1.3579141', 'http://aapt.scitation.org/doi/10.1119/1.3607433', 'http://aapt.scitation.org/doi/10.1119/1.4752043', 'http://aapt.scitation.org/doi/10.1119/1.5054590', 'http://aapt.scitation.org/doi/10.1119/1.5109519', 'http://aapt.scitation.org/doi/10.1119/1.879949', 'http://aapt.scitation.org/doi/10.1119/10.0000781', 'http://physicstoday.scitation.org/doi/10.1063/1.2387086', 'http://www.worldcat.org/issn/0002-9505', 'http://www.worldcat.org/issn/0002-9939', 'http://www.worldcat.org/issn/0007-0874', 'http://www.worldcat.org/issn/0021-1753', 'http://www.worldcat.org/issn/0025-570X', 'http://www.worldcat.org/issn/0028-0836', 'http://www.worldcat.org/issn/0031-9120', 'http://www.worldcat.org/issn/0031-921X', 'http://www.worldcat.org/issn/0031-9228', 'http://www.worldcat.org/issn/0036-8075', 'http://www.worldcat.org/issn/0039-7857', 'http://www.worldcat.org/issn/0143-0807', 'http://www.worldcat.org/issn/0277-903X', 'http://www.worldcat.org/issn/0392-095X', 'http://www.worldcat.org/issn/1233-1821', 'http://www.worldcat.org/issn/1554-9178', 'http://www.worldcat.org/issn/1751-8113', 'http://www.worldcat.org/issn/2469-9896', 'http://www.worldcat.org/oclc/1020305599', 'http://www.worldcat.org/oclc/1058581988', 'http://www.worldcat.org/oclc/1084752471', 'http://www.worldcat.org/oclc/1120819093', 'http://www.worldcat.org/oclc/1144105192', 'http://www.worldcat.org/oclc/1150964892', 'http://www.worldcat.org/oclc/1164503847', 'http://www.worldcat.org/oclc/1195899886', 'http://www.worldcat.org/oclc/1202475208', 'http://www.worldcat.org/oclc/1288147292', 'http://www.worldcat.org/oclc/182818133', 'http://www.worldcat.org/oclc/20934820', 'http://www.worldcat.org/oclc/227002144', 'http://www.worldcat.org/oclc/28854083', 'http://www.worldcat.org/oclc/317496332', 'http://www.worldcat.org/oclc/37903527', 'http://www.worldcat.org/oclc/40964671', 'http://www.worldcat.org/oclc/44694623', 'http://www.worldcat.org/oclc/466500872', 'http://www.worldcat.org/oclc/47056311', 'http://www.worldcat.org/oclc/495271396', 'http://www.worldcat.org/oclc/495305340', 'http://www.worldcat.org/oclc/531535', 'http://www.worldcat.org/oclc/56526974', 'http://www.worldcat.org/oclc/5677169', 'http://www.worldcat.org/oclc/57579169', 'http://www.worldcat.org/oclc/61332593', 'http://www.worldcat.org/oclc/682200048', 'http://www.worldcat.org/oclc/704518582', 'http://www.worldcat.org/oclc/759812415', 'http://www.worldcat.org/oclc/794034942', 'http://www.worldcat.org/oclc/799163595', 'http://www.worldcat.org/oclc/799299609', 'http://www.worldcat.org/oclc/844001', 'http://www.worldcat.org/oclc/854617117', 'http://www.worldcat.org/oclc/857769535', 'http://www.worldcat.org/oclc/860391091', 'http://www.worldcat.org/oclc/874097920', 'http://www.worldcat.org/oclc/878730683', 'http://www.worldcat.org/oclc/892067655', 'http://www.worldcat.org/oclc/895896190', 'http://www.worldcat.org/oclc/898931862', 'http://www.worldcat.org/oclc/934741893', 'http://www.worldcat.org/oclc/953450997', 'http://www.worldcat.org/oclc/966177746', 'http://www.worldcat.org/oclc/972369868', 'http://www.damtp.cam.ac.uk/user/tong/dynamics/one.pdf', 'https://linkinghub.elsevier.com/retrieve/pii/S0039368118300177', 'https://linkinghub.elsevier.com/retrieve/pii/S135521981730120X', 'https://books.google.com/books?id=wwO9X3RPt5kC&pg=PA178', 'https://books.google.com/books?id=zGFkK2tTXPsC&pg=PA235', 'https://www.nature.com/articles/072429a0', 'https://skullsinthestars.com/2018/12/10/history-of-the-conservation-of-energy-booms-blood-and-beer-part-1/', 'https://skullsinthestars.com/2018/12/28/history-of-the-conservation-of-energy-booms-blood-and-beer-part-2/', 'https://skullsinthestars.com/2019/08/24/history-of-the-conservation-of-energy-booms-blood-and-beer-part-3/', 'https://webhome.phy.duke.edu/~schol/phy361/faqs/faq3/', 'https://ui.adsabs.harvard.edu/abs/1991AmJPh..59..118B', 'https://ui.adsabs.harvard.edu/abs/1993RvMP...65..803M', 'https://ui.adsabs.harvard.edu/abs/1997ptbp.book.....B', 'https://ui.adsabs.harvard.edu/abs/2014JPhA...47P4011W', 'https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/index.htm', 'https://physics.mit.edu/wp-content/uploads/2021/01/physicsatmit_03_wilczek_originofmass.pdf', 'https://plato.stanford.edu/entries/descartes-physics/', 'https://plato.stanford.edu/entries/newton-principia/', 'https://plato.stanford.edu/entries/newton/', 'https://www.journals.uchicago.edu/doi/10.1086/709344', 'https://www.history.nasa.gov/afj/ap08fj/24day5_green.html', 'https://d-nb.info/gnd/4642395-3', 'https://www.ams.org/proc/2021-149-07/S0002-9939-2021-15349-5/', 'https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010123', 'https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.020126', 'https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.16.010111', 'https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.17.010121', 'https://link.aps.org/doi/10.1103/PhysRevSTPER.5.010108', 'https://link.aps.org/doi/10.1103/PhysRevSTPER.5.010110', 'https://physics.aps.org/articles/v12/100', 'https://archive.org/details/outofshadowscont0000unse', 'https://archive.org/details/springer_10.1007-b97649', 'https://www.cambridge.org/core/product/identifier/S0007087400010232/type/journal_article', 'https://www.cambridge.org/core/product/identifier/S0277903X00013281/type/journal_article', 'https://www.claymath.org/sites/default/files/navierstokes.pdf', 'https://doi.org/10.1007/978-1-60327-233-9_6', 'https://doi.org/10.4169/002557010X479965', 'https://iopscience.iop.org/article/10.1088/0031-9120/20/4/308', 'https://iopscience.iop.org/article/10.1088/0031-9120/27/2/011', 'https://iopscience.iop.org/article/10.1088/0031-9120/49/5/564', 'https://iopscience.iop.org/article/10.1088/0143-0807/20/1/018', 'https://iopscience.iop.org/article/10.1088/0143-0807/26/2/L01', 'https://iopscience.iop.org/article/10.1088/0143-0807/32/2/016', 'https://iopscience.iop.org/article/10.1088/0143-0807/34/1/129', 'https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065201', 'https://iopscience.iop.org/article/10.1088/0143-0807/38/1/015001', 'https://iopscience.iop.org/article/10.1088/1361-6404/aa57d1', 'https://iopscience.iop.org/article/10.1088/1361-6552/ab08f5', 'https://www.jstor.org/stable/227788', 'https://www.jstor.org/stable/25592244', 'https://www.jstor.org/stable/43915795', 'https://openstax.org/details/books/college-physics', 'https://www.science.org/doi/10.1126/science.1088786', 'https://aapt.scitation.org/doi/10.1119/1.1845990', 'https://aapt.scitation.org/doi/10.1119/10.0003660', 'https://api.semanticscholar.org/CorpusID:11794836', 'https://api.semanticscholar.org/CorpusID:119546199', 'https://api.semanticscholar.org/CorpusID:122113958', 'https://api.semanticscholar.org/CorpusID:125131430', 'https://api.semanticscholar.org/CorpusID:126311599', 'https://api.semanticscholar.org/CorpusID:127471222', 'https://api.semanticscholar.org/CorpusID:144575106', 'https://api.semanticscholar.org/CorpusID:145120248', 'https://api.semanticscholar.org/CorpusID:149482566', 'https://api.semanticscholar.org/CorpusID:170120455', 'https://api.semanticscholar.org/CorpusID:182656563', 'https://api.semanticscholar.org/CorpusID:197512796', 'https://api.semanticscholar.org/CorpusID:203484310', 'https://api.semanticscholar.org/CorpusID:204188746', 'https://api.semanticscholar.org/CorpusID:204800598', 'https://api.semanticscholar.org/CorpusID:215832738', 'https://api.semanticscholar.org/CorpusID:220127889', 'https://api.semanticscholar.org/CorpusID:233803836', 'https://api.semanticscholar.org/CorpusID:243143427', 'https://api.semanticscholar.org/CorpusID:243203703', 'https://api.semanticscholar.org/CorpusID:246612625', 'https://api.semanticscholar.org/CorpusID:4016382', 'https://api.semanticscholar.org/CorpusID:46923474', 'https://api.semanticscholar.org/CorpusID:53625857', 'https://api.semanticscholar.org/CorpusID:58892714', 'https://www.wikidata.org/wiki/Q38433#identifiers', 'https://en.wikisource.org/wiki/Page:Encyclop%C3%A6dia_Britannica,_Ninth_Edition,_v._15.djvu/747', 'https://www.worldcat.org/oclc/1020305599', 'https://www.worldcat.org/oclc/1084752471', 'https://www.worldcat.org/oclc/1144105192', 'https://www.worldcat.org/oclc/1164503847', 'https://www.worldcat.org/oclc/182818133', 'https://www.worldcat.org/oclc/20934820', 'https://www.worldcat.org/oclc/317496332', 'https://www.worldcat.org/oclc/37903527', 'https://www.worldcat.org/oclc/44694623', 'https://www.worldcat.org/oclc/56526974', 'https://www.worldcat.org/oclc/57579169', 'https://www.worldcat.org/oclc/704518582', 'https://www.worldcat.org/oclc/794034942', 'https://www.worldcat.org/oclc/844001', 'https://www.worldcat.org/oclc/854617117', 'https://www.worldcat.org/oclc/857769535', 'https://www.worldcat.org/oclc/892067655', 'https://www.worldcat.org/oclc/934741893', 'https://www.worldcat.org/oclc/966177746']
+
+####### SUMMARY #######
+
+Newton's laws of motion are three basic laws of classical mechanics that describe the relationship between the motion of an object and the forces acting on it. These laws can be paraphrased as follows:: 49 
+A body remains at rest, or in motion at a constant speed in a straight line, unless acted upon by a force.
+When a body is acted upon by a force, the time rate of change of its momentum equals the force.
+If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.The three laws of motion were first stated by Isaac Newton in his Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), originally published in 1687. Newton used them to investigate and explain the motion of many physical objects and systems, which laid the foundation for classical mechanics. In the time since Newton, the conceptual content of classical physics has been reformulated in alternative ways, involving different mathematical approaches that have yielded insights which were obscured in the original, Newtonian formulation. Limitations to Newton's laws have also been discovered: new theories are necessary when objects are very fast (special relativity), very massive (general relativity), or very small (quantum mechanics).
+
+####### CONTENT #######
+
+Newton's laws of motion are three basic laws of classical mechanics that describe the relationship between the motion of an object and the forces acting on it. These laws can be paraphrased as follows:: 49 
+A body remains at rest, or in motion at a constant speed in a straight line, unless acted upon by a force.
+When a body is acted upon by a force, the time rate of change of its momentum equals the force.
+If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.The three laws of motion were first stated by Isaac Newton in his Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), originally published in 1687. Newton used them to investigate and explain the motion of many physical objects and systems, which laid the foundation for classical mechanics. In the time since Newton, the conceptual content of classical physics has been reformulated in alternative ways, involving different mathematical approaches that have yielded insights which were obscured in the original, Newtonian formulation. Limitations to Newton's laws have also been discovered: new theories are necessary when objects are very fast (special relativity), very massive (general relativity), or very small (quantum mechanics).
+
+
+== Prerequisites ==
+Newton's laws are often stated in terms of point or particle masses, that is, bodies whose volume is negligible. This is a reasonable approximation for real bodies when the motion of internal parts can be neglected, and when the separation between bodies is much larger than the size of each. For instance, the Earth and the Sun can both be approximated as pointlike when considering the orbit of the former around the latter, but the Earth is not pointlike when considering activities on its surface.The mathematical description of motion, or kinematics, is based on the idea of specifying positions using numerical coordinates. Movement is represented by these numbers changing over time: a body's trajectory is represented by a function that assigns to each value of a time variable the values of all the position coordinates. The simplest case is one-dimensional, that is, when a body is constrained to move only along a straight line. Its position can then be given by a single number, indicating where it is relative to some chosen reference point. For example, a body might be free to slide along a track that runs left to right, and so its location can be specified by its distance from a convenient zero point, or origin, with negative numbers indicating positions to the left and positive numbers indicating positions to the right. If the body's location as a function of time is 
+  
+    
+      
+        s
+        (
+        t
+        )
+      
+    
+    {\displaystyle s(t)}
+  , then its average velocity over the time interval from 
+  
+    
+      
+        
+          t
+          
+            0
+          
+        
+      
+    
+    {\displaystyle t_{0}}
+   to 
+  
+    
+      
+        
+          t
+          
+            1
+          
+        
+      
+    
+    {\displaystyle t_{1}}
+   is Here, the Greek letter 
+  
+    
+      
+        Δ
+      
+    
+    {\displaystyle \Delta }
+   (delta) is used, per tradition, to mean "change in". A positive average velocity means that the position coordinate 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   increases over the interval in question, a negative average velocity indicates a net decrease over that interval, and an average velocity of zero means that the body ends the time interval in the same place as it began. Calculus gives the means to define an instantaneous velocity, a measure of a body's speed and direction of movement at a single moment of time, rather than over an interval. One notation for the instantaneous velocity is to replace 
+  
+    
+      
+        Δ
+      
+    
+    {\displaystyle \Delta }
+   with the symbol 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  , for example,This denotes that the instantaneous velocity is the derivative of the position with respect to time. It can roughly be thought of as the ratio between an infinitesimally small change in position 
+  
+    
+      
+        d
+        s
+      
+    
+    {\displaystyle ds}
+   to the infinitesimally small time interval 
+  
+    
+      
+        d
+        t
+      
+    
+    {\displaystyle dt}
+   over which it occurs. More carefully, the velocity and all other derivatives can be defined using the concept of a limit. A function 
+  
+    
+      
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(t)}
+   has a limit of 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   at a given input value 
+  
+    
+      
+        
+          t
+          
+            0
+          
+        
+      
+    
+    {\displaystyle t_{0}}
+   if the difference between 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   and 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   can be made arbitrarily small by choosing an input sufficiently close to 
+  
+    
+      
+        
+          t
+          
+            0
+          
+        
+      
+    
+    {\displaystyle t_{0}}
+  . One writes, Instantaneous velocity can be defined as the limit of the average velocity as the time interval shrinks to zero: Acceleration is to velocity as velocity is to position: it is the derivative of the velocity with respect to time. Acceleration can likewise be defined as a limit:Consequently, the acceleration is the second derivative of position, often written 
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              s
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {d^{2}s}{dt^{2}}}}
+  .
+Position, when thought of as a displacement from an origin point, is a vector: a quantity with both magnitude and direction.: 1  Velocity and acceleration are vector quantities as well. The mathematical tools of vector algebra provide the means to describe motion in two, three or more dimensions. Vectors are often denoted with an arrow, as in 
+  
+    
+      
+        
+          
+            
+              s
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {s}}}
+  , or in bold typeface, such as 
+  
+    
+      
+        
+          
+            s
+          
+        
+      
+    
+    {\displaystyle {\bf {s}}}
+  . Often, vectors are represented visually as arrows, with the direction of the vector being the direction of the arrow, and the magnitude of the vector indicated by the length of the arrow. Numerically, a vector can be represented as a list; for example, a body's velocity vector might be 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        (
+        3
+        
+          
+            
+              m
+            
+            
+              s
+            
+          
+        
+        ,
+        4
+        
+          
+            
+              m
+            
+            
+              s
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\vec {v}}=(3{\frac {\rm {m}}{\rm {s}}},4{\frac {\rm {m}}{\rm {s}}})}
+  , indicating that it is moving at 3 metres per second along a horizontal axis and 4 metres per second along the vertical axis. The same motion described in a different coordinate system will be represented by different numbers, and vector algebra can be used to translate between these alternatives.: 4 The physics concept of force makes quantitative the everyday idea of a push or a pull. Forces in Newtonian mechanics are often due to strings and ropes, friction, muscle effort, gravity, and so forth. Like displacement, velocity, and acceleration, force is a vector quantity.
+
+
+== Laws ==
+
+
+=== First ===
+
+Translated from the Latin, Newton's first law reads,
+
+Every body continues in its state of rest, or of uniform motion in a straight line, unless it is compelled to change that state by forces impressed upon it.: 114 Newton's first law expresses the principle of inertia: the natural behavior of a body is to move in a straight line at constant speed. In the absence of outside influences, a body's motion preserves the status quo.
+The modern understanding of Newton's first law is that no inertial observer is privileged over any other. The concept of an inertial observer makes quantitative the everyday idea of feeling no effects of motion. For example, a person standing on the ground watching a train go past is an inertial observer (or can be idealized as one to a good approximation for many practical purposes). If the observer on the ground sees the train moving smoothly in a straight line at a constant speed, then a passenger sitting on the train will also be an inertial observer: the train passenger feels no motion. The principle expressed by Newton's first law is that there is no way to say which inertial observer is "really" moving and which is "really" standing still. One observer's state of rest is another observer's state of uniform motion in a straight line, and no experiment can deem either point of view to be correct or incorrect. There is no absolute standard of rest.
+
+
+=== Second ===
+The change of motion of an object is proportional to the force impressed; and is made in the direction of the straight line in which the force is impressed.: 114 By "motion", Newton meant the quantity now called momentum, which depends upon the amount of matter contained in a body, the speed at which that body is moving, and the direction in which it is moving. In modern notation, the momentum of a body is the product of its mass and its velocity:
+
+Newton's second law, in modern form, states that the time derivative of the momentum is the force:
+
+If the mass 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   does not change with time, then the derivative acts only upon the velocity, and so the force equals the product of the mass and the time derivative of the velocity, which is the acceleration:
+
+As the acceleration is the second derivative of position with respect to time, this can also be written
+
+ The forces acting on a body add as vectors, and so the total force on a body depends upon both the magnitudes and the directions of the individual forces. When the net force on a body is equal to zero, then by Newton's second law, the body does not accelerate, and it is said to be in mechanical equilibrium. A state of mechanical equilibrium is stable if, when the position of the body is changed slightly, the body remains near that equilibrium. Otherwise, the equilibrium is unstable.
+A common visual representation of forces acting in concert is the free body diagram, which schematically portrays a body of interest and the forces applied to it by outside influences. For example, a free body diagram of a block sitting upon an inclined plane can illustrate the combination of gravitational force, "normal" force, friction, and string tension.Newton's second law is sometimes presented as a definition of force, i.e., a force is that which exists when an inertial observer sees a body accelerating. In order for this to be more than a tautology — acceleration implies force, force implies acceleration — some other statement about force must also be made. For example, an equation detailing the force might be specified, like Newton's law of universal gravitation. By inserting such an expression for 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   into Newton's second law, an equation with predictive power can be written. Newton's second law has also been regarded as setting out a research program for physics, establishing that important goals of the subject are to identify the forces present in nature and to catalogue the constituents of matter.
+
+
+=== Third ===
+To every action there is always opposed an equal reaction; or, the mutual actions of two bodies upon each other are always equal, and directed to contrary parts.: 116 
+Overly brief paraphrases of the third law, like "action equals reaction", have contributed to a problem that has bedeviled generations of students: the "action" and "reaction" apply to different bodies. For example, consider a book at rest upon a table. The Earth's gravity pulls down upon the book. The "reaction" to that "action" is not the support force from the table holding up the book, but the gravitational pull of the book acting on the Earth.The modern view is that Newton's third law is a consequence of a more fundamental principle, the conservation of momentum. The latter remains true even in cases where Newton's statement does not, for instance when force fields as well as material bodies carry momentum, and when momentum is defined properly, in quantum mechanics as well. In Newtonian mechanics, if two bodies have momenta 
+  
+    
+      
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          
+            1
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}_{1}}
+   and 
+  
+    
+      
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}_{2}}
+   respectively, then the total momentum of the pair is 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          
+            1
+          
+        
+        +
+        
+          
+            
+              
+                p
+                →
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}={\vec {p}}_{1}+{\vec {p}}_{2}}
+  , and the rate of change of 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+   is  By Newton's second law, the first term is the total force upon the first body, and the second term is the total force upon the second body. If the two bodies are isolated from outside influences, the only force upon the first body can be that from the second, and vice versa. By Newton's third law, these forces have equal magnitude but opposite direction, so they cancel when added, and 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+   is constant. Alternatively, if 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+   is known to be constant, it follows that the forces have equal magnitude and opposite direction.
+
+
+=== Candidates for additional laws ===
+Various sources have proposed elevating other ideas used in classical mechanics to the status of Newton's laws. For example, in Newtonian mechanics, the total mass of a body made by bringing together two smaller bodies is the sum of their individual masses. Frank Wilczek has suggested calling attention to this assumption by designating it "Newton's Zeroth Law". Another candidate for a "zeroth law" is the fact that at any instant, a body reacts to the forces applied to it at that instant. Likewise, the idea that forces add like vectors (or in other words obey the superposition principle), and the idea that forces change the energy of a body, have both been described as a "fourth law".
+
+
+== Work and energy ==
+Physicists developed the concept of energy after Newton's time, but it has become an inseparable part of what is considered "Newtonian" physics. Energy can broadly be classified into kinetic, due to a body's motion, and potential, due to a body's position relative to others. Thermal energy, the energy carried by heat flow, is a type of kinetic energy not associated with the macroscopic motion of objects but instead with the movements of the atoms and molecules of which they are made. According to the work-energy theorem, when a force acts upon a body while that body moves along the line of the force, the force does work upon the body, and the amount of work done is equal to the change in the body's kinetic energy. In many cases of interest, the net work done by a force when a body moves in a closed loop — starting at a point, moving along some trajectory, and returning to the initial point — is zero. If this is the case, then the force can be written in terms of the gradient of a function called a scalar potential:: 303 
+This is true for many forces including that of gravity, but not for friction; indeed, almost any problem in a mechanics textbook that does not involve friction can be expressed in this way.: 19  The fact that the force can be written in this way can be understood from the conservation of energy. Without friction to dissipate a body's energy into heat, the body's energy will trade between potential and (non-thermal) kinetic forms while the total amount remains constant. Any gain of kinetic energy, which occurs when the net force on the body accelerates it to a higher speed, must be accompanied by a loss of potential energy. So, the net force upon the body is determined by the manner in which the potential energy decreases.
+
+
+== Examples ==
+
+
+=== Uniformly accelerated motion ===
+
+If a body falls from rest near the surface of the Earth, then in the absence of air resistance, it will accelerate at a constant rate. This is known as free fall. The speed attained during free fall is proportional to the elapsed time, and the distance traveled is proportional to the square of the elapsed time. Importantly, the acceleration is the same for all bodies, independently of their mass. This follows from combining Newton's second law of motion with his law of universal gravitation. The latter states that the magnitude of the gravitational force from the Earth upon the body is
+
+where 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is the mass of the falling body, 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is the mass of the Earth, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is Newton's constant, and 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the distance from the center of the Earth to the body's location, which is very nearly the radius of the Earth. Setting this equal to 
+  
+    
+      
+        m
+        a
+      
+    
+    {\displaystyle ma}
+  , the body's mass 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   cancels from both sides of the equation, leaving an acceleration that depends upon 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  , and 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  , and 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   can be taken to be constant. This particular value of acceleration is typically denoted 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  :
+
+If the body is not released from rest but instead launched upwards and/or horizontally with nonzero velocity, then free fall becomes projectile motion. When air resistance can be neglected, projectiles follow parabola-shaped trajectories, because gravity affects the body's vertical motion and not its horizontal. At the peak of the projectile's trajectory, its vertical velocity is zero, but its acceleration is 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   downwards, as it is at all times. Setting the wrong vector equal to zero is a common confusion among physics students.
+
+
+=== Uniform circular motion ===
+
+When a body is in uniform circular motion, the force on it changes the direction of its motion but not its speed. For a body moving in a circle of radius 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   at a constant speed 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  , its acceleration has a magnitudeand is directed toward the center of the circle. The force required to sustain this acceleration, called the centripetal force, is therefore also directed toward the center of the circle and has magnitude 
+  
+    
+      
+        m
+        
+          v
+          
+            2
+          
+        
+        
+          /
+        
+        r
+      
+    
+    {\displaystyle mv^{2}/r}
+  . Many orbits, such as that of the Moon around the Earth, can be approximated by uniform circular motion. In such cases, the centripetal force is gravity, and by Newton's law of universal gravitation has magnitude 
+  
+    
+      
+        G
+        M
+        m
+        
+          /
+        
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle GMm/r^{2}}
+  , where 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is the mass of the larger body being orbited. Therefore, the mass of a body can be calculated from observations of another body orbiting around it.: 130 Newton's cannonball is a thought experiment that interpolates between projectile motion and uniform circular motion. A cannonball that is lobbed weakly off the edge of a tall cliff will hit the ground in the same amount of time as if it were dropped from rest, because the force of gravity only affects the cannonball's momentum in the downward direction, and its effect is not diminished by horizontal movement. If the cannonball is launched with a greater initial horizontal velocity, then it will travel farther before it hits the ground, but it will still hit the ground in the same amount of time. However, if the cannonball is launched with an even larger initial velocity, then the curvature of the Earth becomes significant: the ground itself will curve away from the falling cannonball. A very fast cannonball will fall away from the inertial straight-line trajectory at the same rate that the Earth curves away beneath it; in other words, it will be in orbit (imagining that it is not slowed by air resistance or obstacles).
+
+
+=== Harmonic motion ===
+
+Consider a body of mass 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   able to move along the 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   axis, and suppose an equilibrium point exists at the position 
+  
+    
+      
+        x
+        =
+        0
+      
+    
+    {\displaystyle x=0}
+  . That is, at 
+  
+    
+      
+        x
+        =
+        0
+      
+    
+    {\displaystyle x=0}
+  , the net force upon the body is the zero vector, and by Newton's second law, the body will not accelerate. If the force upon the body is proportional to the displacement from the equilibrium point, and directed to the equilibrium point, then the body will perform simple harmonic motion. Writing the force as 
+  
+    
+      
+        F
+        =
+        −
+        k
+        x
+      
+    
+    {\displaystyle F=-kx}
+  , Newton's second law becomes
+
+This differential equation has the solution
+
+where the frequency 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   is equal to 
+  
+    
+      
+        
+          
+            k
+            
+              /
+            
+            m
+          
+        
+      
+    
+    {\displaystyle {\sqrt {k/m}}}
+  , and the constants 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   can be calculated knowing, for example, the position and velocity the body has at a given time, like 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+  .
+One reason that the harmonic oscillator is a conceptually important example is that it is good approximation for many systems near a stable mechanical equilibrium. For example, a pendulum has a stable equilibrium in the vertical position: if motionless there, it will remain there, and if pushed slightly, it will swing back and forth. Neglecting air resistance and friction in the pivot, the force upon the pendulum is gravity, and Newton's second law becomes where 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   is the length of the pendulum and 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is its angle from the vertical. When the angle 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is small, the sine of 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   is nearly equal to 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   (see Taylor series), and so this expression simplifies to the equation for a simple harmonic oscillator with frequency 
+  
+    
+      
+        ω
+        =
+        
+          
+            g
+            
+              /
+            
+            L
+          
+        
+      
+    
+    {\displaystyle \omega ={\sqrt {g/L}}}
+  .
+A harmonic oscillator can be damped, often by friction or viscous drag, in which case energy bleeds out of the oscillator and the amplitude of the oscillations decreases over time. Also, a harmonic oscillator can be driven by an applied force, which can lead to the phenomenon of resonance.
+
+
+=== Objects with variable mass ===
+
+Newtonian physics treats matter as being neither created nor destroyed, though it may be rearranged. It can be the case that an object of interest gains or loses mass because matter is added to or removed from it. In such a situation, Newton's laws can be applied to the individual pieces of matter, keeping track of which pieces belong to the object of interest over time. For instance, if a rocket of mass 
+  
+    
+      
+        M
+        (
+        t
+        )
+      
+    
+    {\displaystyle M(t)}
+  , moving at velocity 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle {\vec {v}}(t)}
+  , ejects matter at a velocity 
+  
+    
+      
+        
+          
+            
+              u
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}}
+   relative to the rocket, then
+
+where 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   is the net external force (e.g., a planet's gravitational pull).: 139 
+
+
+== Rigid-body motion and rotation ==
+A rigid body is an object whose size is too large to neglect and which maintains the same shape over time. In Newtonian mechanics, the motion of a rigid body is often understood by separating it into movement of the body's center of mass and movement around the center of mass.
+
+
+=== Center of mass ===
+
+Significant aspects of the motion of an extended body can be understood by imagining the mass of that body concentrated to a single point, known as the center of mass. The location of a body's center of mass depends upon how that body's material is distributed. For a collection of pointlike objects with masses 
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          m
+          
+            N
+          
+        
+      
+    
+    {\displaystyle m_{1},\ldots ,m_{N}}
+   at positions 
+  
+    
+      
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          
+            
+              
+                r
+                →
+              
+            
+          
+          
+            N
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}_{1},\ldots ,{\vec {r}}_{N}}
+  , the center of mass is located at  where 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is the total mass of the collection. In the absence of a net external force, the center of mass moves at a constant speed in a straight line. This applies, for example, to a collision between two bodies. If the total external force is not zero, then the center of mass changes velocity as though it were a point body of mass 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  . This follows from the fact that the internal forces within the collection, the forces that the objects exert upon each other, occur in balanced pairs by Newton's third law. In a system of two bodies with one much more massive than the other, the center of mass will approximately coincide with the location of the more massive body.: 22–24 
+
+
+=== Rotational analogues of Newton's laws ===
+When Newton's laws are applied to rotating extended bodies, they lead to new quantities that are analogous to those invoked in the original laws. The analogue of mass is the moment of inertia, the counterpart of momentum is angular momentum, and the counterpart of force is torque.
+Angular momentum is calculated with respect to a reference point. If the displacement vector from a reference point to a body is 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+   and the body has momentum 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+  , then the body's angular momentum with respect to that point is, using the vector cross product,  Taking the time derivative of the angular momentum gives  The first term vanishes because 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+   and 
+  
+    
+      
+        m
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle m{\vec {v}}}
+   point in the same direction. The remaining term is the torque,  When the torque is zero, the angular momentum is constant, just as when the force is zero, the momentum is constant.: 14–15  The torque can vanish even when the force is non-zero, if the body is located at the reference point (
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\vec {r}}=0}
+  ) or if the force 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   and the displacement vector 
+  
+    
+      
+        
+          
+            
+              r
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {r}}}
+   are directed along the same line.
+The angular momentum of a collection of point masses, and thus of an extended body, is found by adding the contributions from each of the points. This provides a means to characterize a body's rotation about an axis, by adding up the angular momenta of its individual pieces. The result depends on the chosen axis, the shape of the body, and the rate of rotation.: 28 
+
+
+=== Multi-body gravitational system ===
+
+Newton's law of universal gravitation states that any body attracts any other body along the straight line connecting them. The size of the attracting force is proportional to the product of their masses, and inversely proportional to the square of the distance between them. Finding the shape of the orbits that an inverse-square force law will produce is known as the Kepler problem. The Kepler problem can be solved in multiple ways, including by demonstrating that the Laplace–Runge–Lenz vector is constant, or by applying a duality transformation to a 2-dimensional harmonic oscillator. However it is solved, the result is that orbits will be conic sections, that is, ellipses (including circles), parabolas, or hyperbolas. The eccentricity of the orbit, and thus the type of conic section, is determined by the energy and the angular momentum of the orbiting body. Planets do not have sufficient energy to escape the Sun, and so their orbits are ellipses, to a good approximation; because the planets pull on one another, actual orbits are not exactly conic sections.
+If a third mass is added, the Kepler problem becomes the three-body problem, which in general has no exact solution in closed form. That is, there is no way to start from the differential equations implied by Newton's laws and, after a finite sequence of standard mathematical operations, obtain equations that express the three bodies' motions over time. Numerical methods can be applied to obtain useful, albeit approximate, results for the three-body problem. The positions and velocities of the bodies can be stored in variables within a computer's memory; Newton's laws are used to calculate how the velocities will change over a short interval of time, and knowing the velocities, the changes of position over that time interval can be computed. This process is looped to calculate, approximately, the bodies' trajectories. Generally speaking, the shorter the time interval, the more accurate the approximation.
+
+
+== Chaos and unpredictability ==
+
+
+=== Nonlinear dynamics ===
+
+Newton's laws of motion allow the possibility of chaos. That is, qualitatively speaking, physical systems obeying Newton's laws can exhibit sensitive dependence upon their initial conditions: a slight change of the position or velocity of one part of a system can lead to the whole system behaving in a radically different way within a short time. Noteworthy examples include the three-body problem, the double pendulum, dynamical billiards, and the Fermi–Pasta–Ulam–Tsingou problem.
+Newton's laws can be applied to fluids by considering a fluid as composed of infinitesimal pieces, each exerting forces upon neighboring pieces. The Euler momentum equation is an expression of Newton's second law adapted to fluid dynamics. A fluid is described by a velocity field, i.e., a function 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        (
+        
+          
+            
+              x
+              →
+            
+          
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle {\vec {v}}({\vec {x}},t)}
+   that assigns a velocity vector to each point in space and time. A small object being carried along by the fluid flow can change velocity for two reasons: first, because the velocity field at its position is changing over time, and second, because it moves to a new location where the velocity field has a different value. Consequently, when Newton's second law is applied to an infinitesimal portion of fluid, the acceleration 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   has two terms, a combination known as a total or material derivative. The mass of an infinitesimal portion depends upon the fluid density, and there is a net force upon it if the fluid pressure varies from one side of it to another. Accordingly, 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              F
+              →
+            
+          
+        
+        
+          /
+        
+        m
+      
+    
+    {\displaystyle {\vec {a}}={\vec {F}}/m}
+   becomes
+
+where 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the density, 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is the pressure, and 
+  
+    
+      
+        
+          
+            
+              f
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {f}}}
+   stands for an external influence like a gravitational pull. Incorporating the effect of viscosity turns the Euler equation into a Navier–Stokes equation:
+
+where 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   is the kinematic viscosity.
+
+
+=== Singularities ===
+It is mathematically possible for a collection of point masses, moving in accord with Newton's laws, to launch some of themselves away so forcefully that they fly off to infinity in a finite time. This unphysical behavior, known as a "noncollision singularity", depends upon the masses being pointlike and able to approach one another arbitrarily closely, as well as the lack of a relativistic speed limit in Newtonian physics.It is not yet known whether or not the Euler and Navier–Stokes equations exhibit the analogous behavior of initially smooth solutions "blowing up" in finite time. The question of existence and smoothness of Navier–Stokes solutions is one of the Millennium Prize Problems.
+
+
+== Relation to other formulations of classical physics ==
+Classical mechanics can be mathematically formulated in multiple different ways, other than the "Newtonian" description (which itself, of course, incorporates contributions from others both before and after Newton). The physical content of these different formulations is the same as the Newtonian, but they provide different insights and facilitate different types of calculations. For example, Lagrangian mechanics helps make apparent the connection between symmetries and conservation laws, and it is useful when calculating the motion of constrained bodies, like a mass restricted to move along a curving track or on the surface of a sphere.: 48  Hamiltonian mechanics is convenient for statistical physics,: 57  leads to further insight about symmetry,: 251  and can be developed into sophisticated techniques for perturbation theory.: 284  Due to the breadth of these topics, the discussion here will be confined to concise treatments of how they reformulate Newton's laws of motion.
+
+
+=== Lagrangian ===
+Lagrangian mechanics differs from the Newtonian formulation by considering entire trajectories at once rather than predicting a body's motion at a single instant.: 109  It is traditional in Lagrangian mechanics to denote position with 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   and velocity with 
+  
+    
+      
+        
+          
+            
+              q
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {q}}}
+  . The simplest example is a massive point particle, the Lagrangian for which can be written as the difference between its kinetic and potential energies:
+
+where the kinetic energy is
+
+and the potential energy is some function of the position, 
+  
+    
+      
+        V
+        (
+        q
+        )
+      
+    
+    {\displaystyle V(q)}
+  . The physical path that the particle will take between an initial point 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+   and a final point 
+  
+    
+      
+        
+          q
+          
+            f
+          
+        
+      
+    
+    {\displaystyle q_{f}}
+   is the path for which the integral of the Lagrangian is "stationary". That is, the physical path has the property that small perturbations of it will, to a first approximation, not change the integral of the Lagrangian. Calculus of variations provides the mathematical tools for finding this path.: 485  Applying the calculus of variations to the task of finding the path yields the Euler–Lagrange equation for the particle,
+
+Evaluating the partial derivatives of the Lagrangian gives
+
+which is a restatement of Newton's second law. The left-hand side is the time derivative of the momentum, and the right-hand side is the force, represented in terms of the potential energy.: 737 Landau and Lifshitz argue that the Lagrangian formulation makes the conceptual content of classical mechanics more clear than starting with Newton's laws. Lagrangian mechanics provides a convenient framework in which to prove Noether's theorem, which relates symmetries and conservation laws. The conservation of momentum can be derived by applying Noether's theorem to a Lagrangian for a multi-particle system, and so, Newton's third law is a theorem rather than an assumption.: 124 
+
+
+=== Hamiltonian ===
+
+In Hamiltonian mechanics, the dynamics of a system are represented by a function called the Hamiltonian, which in many cases of interest is equal to the total energy of the system.: 742  The Hamiltonian is a function of the positions and the momenta of all the bodies making up the system, and it may also depend explicitly upon time. The time derivatives of the position and momentum variables are given by partial derivatives of the Hamiltonian, via Hamilton's equations.: 203  The simplest example is a point mass 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   constrained to move in a straight line, under the effect of a potential. Writing 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   for the position coordinate and 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   for the body's momentum, the Hamiltonian is
+
+In this example, Hamilton's equations are
+
+and
+
+Evaluating these partial derivatives, the former equation becomes
+
+which reproduces the familiar statement that a body's momentum is the product of its mass and velocity. The time derivative of the momentum is
+
+which, upon identifying the negative derivative of the potential with the force, is just Newton's second law once again.: 742 As in the Lagrangian formulation, in Hamiltonian mechanics the conservation of momentum can be derived using Noether's theorem, making Newton's third law an idea that is deduced rather than assumed.: 251 Among the proposals to reform the standard introductory-physics curriculum is one that teaches the concept of energy before that of force, essentially "introductory Hamiltonian mechanics".
+
+
+=== Hamilton–Jacobi ===
+The Hamilton–Jacobi equation provides yet another formulation of classical mechanics, one which makes it mathematically analogous to wave optics.: 284  This formulation also uses Hamiltonian functions, but in a different way than the formulation described above. The paths taken by bodies or collections of bodies are deduced from a function 
+  
+    
+      
+        S
+        (
+        
+          
+            
+              
+                q
+                →
+              
+            
+          
+          
+            1
+          
+        
+        ,
+        
+          
+            
+              
+                q
+                →
+              
+            
+          
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        t
+        )
+      
+    
+    {\displaystyle S({\vec {q}}_{1},{\vec {q}}_{2},\ldots ,t)}
+   of positions 
+  
+    
+      
+        
+          
+            
+              
+                q
+                →
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle {\vec {q}}_{i}}
+   and time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  . The Hamiltonian is incorporated into the Hamilton–Jacobi equation, a differential equation for 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  . Bodies move over time in such a way that their trajectories are perpendicular to the surfaces of constant 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  , analogously to how a light ray propagates in the direction perpendicular to its wavefront. This is simplest to express for the case of a single point mass, in which 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is a function 
+  
+    
+      
+        S
+        (
+        
+          
+            
+              q
+              →
+            
+          
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle S({\vec {q}},t)}
+  , and the point mass moves in the direction along which 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   changes most steeply. In other words, the momentum of the point mass is the gradient of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  :
+
+The Hamilton–Jacobi equation for a point mass is
+
+The relation to Newton's laws can be seen by considering a point mass moving in a time-independent potential 
+  
+    
+      
+        V
+        (
+        
+          
+            
+              q
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle V({\vec {q}})}
+  , in which case the Hamilton–Jacobi equation becomes
+
+Taking the gradient of both sides, this becomes
+
+Interchanging the order of the partial derivatives on the left-hand side, and using the power and chain rules on the first term on the right-hand side,
+
+Gathering together the terms that depend upon the gradient of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  ,
+
+This is another re-expression of Newton's second law. The expression in brackets is a total or material derivative as mentioned above, in which the first term indicates how the function being differentiated changes over time at a fixed location, and the second term captures how a moving particle will see different values of that function as it travels from place to place:
+
+
+== Relation to other physical theories ==
+
+
+=== Thermodynamics and statistical physics ===
+
+In statistical physics, the kinetic theory of gases applies Newton's laws of motion to large numbers (typically on the order of Avogadro's number) of particles. Kinetic theory can explain, for example, the pressure that a gas exerts upon the container holding it as the aggregate of many impacts of atoms, each imparting a tiny amount of momentum.: 62 The Langevin equation is a special case of Newton's second law, adapted for the case of describing a small object bombarded stochastically by even smaller ones.: 235  It can be writtenwhere 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   is a drag coefficient and 
+  
+    
+      
+        
+          
+            
+              ξ
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {\xi }}}
+   is a force that varies randomly from instant to instant, representing the net effect of collisions with the surrounding particles. This is used to model Brownian motion.
+
+
+=== Electromagnetism ===
+Newton's three laws can be applied to phenomena involving electricity and magnetism, though subtleties and caveats exist.
+Coulomb's law for the electric force between two stationary, electrically charged bodies has much the same mathematical form as Newton's law of universal gravitation: the force is proportional to the product of the charges, inversely proportional to the square of the distance between them, and directed along the straight line between them. The Coulomb force that a charge 
+  
+    
+      
+        
+          q
+          
+            1
+          
+        
+      
+    
+    {\displaystyle q_{1}}
+   exerts upon a charge 
+  
+    
+      
+        
+          q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle q_{2}}
+   is equal in magnitude to the force that 
+  
+    
+      
+        
+          q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle q_{2}}
+   exerts upon 
+  
+    
+      
+        
+          q
+          
+            1
+          
+        
+      
+    
+    {\displaystyle q_{1}}
+  , and it points in the exact opposite direction. Coulomb's law is thus consistent with Newton's third law.Electromagnetism treats forces as produced by fields acting upon charges. The Lorentz force law provides an expression for the force upon a charged body that can be plugged into Newton's second law in order to calculate its acceleration.: 85  According to the Lorentz force law, a charged body in an electric field experiences a force in the direction of that field, a force proportional to its charge 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   and to the strength of the electric field. In addition, a moving charged body in a magnetic field experiences a force that is also proportional to its charge, in a direction perpendicular to both the field and the body's direction of motion. Using the vector cross product,
+
+If the electric field vanishes (
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\vec {E}}=0}
+  ), then the force will be perpendicular to the charge's motion, just as in the case of uniform circular motion studied above, and the charge will circle (or more generally move in a helix) around the magnetic field lines at the cyclotron frequency 
+  
+    
+      
+        ω
+        =
+        q
+        B
+        
+          /
+        
+        m
+      
+    
+    {\displaystyle \omega =qB/m}
+  .: 222  Mass spectrometry works by applying electric and/or magnetic fields to moving charges and measuring the resulting acceleration, which by the Lorentz force law yields the mass-to-charge ratio.Collections of charged bodies do not always obey Newton's third law: there can be a change of one body's momentum without a compensatory change in the momentum of another. The discrepancy is accounted for by momentum carried by the electromagnetic field itself. The momentum per unit volume of the electromagnetic field is proportional to the Poynting vector.: 184 There is subtle conceptual conflict between electromagnetism and Newton's first law: Maxwell's theory of electromagnetism predicts that electromagnetic waves will travel through empty space at a constant, definite speed. Thus, some inertial observers seemingly have a privileged status over the others, namely those who measure the speed of light and find it to be the value predicted by the Maxwell equations. In other words, light provides an absolute standard for speed, yet the principle of inertia holds that there should be no such standard. This tension is resolved in the theory of special relativity, which revises the notions of space and time in such a way that all inertial observers will agree upon the speed of light in vacuum.
+
+
+=== Special relativity ===
+In special relativity, the rule that Wilczek called "Newton's Zeroth Law" breaks down: the mass of a composite object is not merely the sum of the masses of the individual pieces.: 33  Newton's first law, inertial motion, remains true. A form of Newton's second law, that force is the rate of change of momentum, also holds, as does the conservation of momentum. However, the definition of momentum is modified. Among the consequences of this is the fact that the more quickly a body moves, the harder it is to accelerate, and so, no matter how much force is applied, a body cannot be accelerated to the speed of light. Depending on the problem at hand, momentum in special relativity can be represented as a three-dimensional vector, 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+        =
+        m
+        γ
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}=m\gamma {\vec {v}}}
+  , where 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is the body's rest mass and 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   is the Lorentz factor, which depends upon the body's speed. Alternatively, momentum and force can be represented as four-vectors.: 107 Newtonian mechanics is a good approximation to special relativity when the speeds involved are small compared to that of light.: 131 
+
+
+=== General relativity ===
+General relativity is theory of gravity that advances beyond that of Newton. In general relativity, gravitational force is reimagined as curvature of spacetime. A curved path like an orbit is not the result of a force deflecting a body from an ideal straight-line path, but rather the body's attempt to fall freely through a background that is itself curved by the presence of other masses. A remark by John Archibald Wheeler that has become proverbial among physicists summarizes the theory: "Spacetime tells matter how to move; matter tells spacetime how to curve." Wheeler himself thought of this reciprocal relationship as a modern, generalized form of Newton's third law. The relation between matter distribution and spacetime curvature is given by the Einstein field equations, which require tensor calculus to express.: 43 The Newtonian theory of gravity is a good approximation to the predictions of general relativity when gravitational effects are weak and objects are moving slowly compared to the speed of light.: 327 
+
+
+=== Quantum mechanics ===
+Quantum mechanics is a theory of physics originally developed in order to understand microscopic phenomena: behavior at the scale of molecules, atoms or subatomic particles. Generally and loosely speaking, the smaller a system is, the more an adequate mathematical model will require understanding quantum effects. The conceptual underpinning of quantum physics is very different from that of classical physics. Instead of thinking about quantities like position, momentum, and energy as properties that an object has, one considers what result might appear when a measurement of a chosen type is performed. Quantum mechanics allows the physicist to calculate the probability that a chosen measurement will elicit a particular result. The expectation value for a measurement is the average of the possible results it might yield, weighted by their probabilities of occurrence.The Ehrenfest theorem provides a connection between quantum expectation values and Newton's second law, a connection that is necessarily inexact, as quantum physics is fundamentally different from classical. In quantum physics, position and momentum are represented by mathematical entities known as Hermitian operators, and the Born rule is used to calculate the expectation values of a position measurement or a momentum measurement. These expectation values will generally change over time; that is, depending on the time at which (for example) a position measurement is performed, the probabilities for its different possible outcomes will vary. The Ehrenfest theorem says, roughly speaking, that the equations describing how these expectation values change over time have a form reminiscent of Newton's second law. However, the more pronounced quantum effects are in a given situation, the more difficult it is to derive meaningful conclusions from this resemblance.
+
+
+== History ==
+
+The concepts invoked in Newton's laws of motion — mass, velocity, momentum, force — have predecessors in earlier work, and the content of Newtonian physics was further developed after Newton's time. Newton combined knowledge of celestial motions with the study of events on Earth and showed that one theory of mechanics could encompass both.
+
+
+=== Antiquity and medieval background ===
+The subject of physics is often traced back to Aristotle; however, the history of the concepts involved is obscured by multiple factors. An exact correspondence between Aristotelian and modern concepts is not simple to establish: Aristotle did not clearly distinguish what we would call speed and force, and he used the same term for density and viscosity; he conceived of motion as always through a medium, rather than through space. In addition, some concepts often termed "Aristotelian" might better be attributed to his followers and commentators upon him. These commentators found that Aristotelian physics had difficulty explaining projectile motion. Aristotle divided motion into two types: "natural" and "violent". The "natural" motion of terrestrial solid matter was to fall downwards, whereas a "violent" motion could push a body sideways. Moreover, in Aristotelian physics, a "violent" motion requires an immediate cause; separated from the cause of its "violent" motion, a body would revert to its "natural" behavior. Yet a javelin continues moving after it leaves the hand of its thrower. Aristotle concluded that the air around the javelin must be imparted with the ability to move the javelin forward. John Philoponus, a Byzantine Greek thinker active during the sixth century, found this absurd: the same medium, air, was somehow responsible both for sustaining motion and for impeding it. If Aristotle's idea were true, Philoponus said, armies would launch weapons by blowing upon them with bellows. Philoponus argued that setting a body into motion imparted a quality, impetus, that would be contained within the body itself. As long as its impetus was sustained, the body would continue to move.: 47  In the following centuries, versions of impetus theory were advanced by individuals including Nur ad-Din al-Bitruji, Avicenna, Abu'l-Barakāt al-Baghdādī, John Buridan, and Albert of Saxony. In retrospect, the idea of impetus can be seen as a forerunner of the modern concept of momentum. (The intuition that objects move according to some kind of impetus persists in many students of introductory physics.)
+
+
+=== Inertia and the first law ===
+The modern concept of inertia is credited to Galileo. Based on his experiments, Galileo concluded that the "natural" behavior of a moving body was to keep moving, until something else interfered with it. Galileo recognized that in projectile motion, the Earth's gravity affects vertical but not horizontal motion. However, Galileo's idea of inertia was not exactly the one that would be codified into Newton's first law. Galileo thought that a body moving a long distance inertially would follow the curve of the Earth. This idea was corrected by Isaac Beeckman, René Descartes, and Pierre Gassendi, who recognized that inertial motion should be motion in a straight line.
+
+
+=== Force and the second law ===
+Christiaan Huygens, in his Horologium Oscillatorium (1673), put forth the hypothesis that "By the action of gravity, whatever its sources, it happens that bodies are moved by a motion composed both of a uniform motion in one direction or another and of a motion downward due to gravity." Newton's second law generalized this hypothesis from gravity to all forces.One important characteristic of Newtonian physics is that forces can act at a distance without requiring physical contact. For example, the Sun and the Earth pull on each other gravitationally, despite being separated by millions of kilometres. This contrasts with the idea, championed by Descartes among others, that the Sun's gravity held planets in orbit by swirling them in a vortex of transparent matter, aether. Newton considered aetherial explanations of force but ultimately rejected them. The study of magnetism by William Gilbert and others created a precedent for thinking of immaterial forces, and unable to find a quantitatively satisfactory explanation of his law of gravity in terms of an aetherial model, Newton eventually declared, "I feign no hypotheses": whether or not a model like Descartes's vortices could be found to underlie the Principia's theories of motion and gravity, the first grounds for judging them must be the successful predictions they made. And indeed, since Newton's time every attempt at such a model has failed.
+
+
+=== Momentum conservation and the third law ===
+Johannes Kepler suggested that gravitational attractions were reciprocal — that, for example, the Moon pulls on the Earth while the Earth pulls on the Moon — but he did not argue that such pairs are equal and opposite. In his Principles of Philosophy (1644), Descartes introduced the idea that during a collision between bodies, a "quantity of motion" remains unchanged. Descartes defined this quantity somewhat imprecisely by adding up the products of the speed and "size" of each body, where "size" for him incorporated both volume and surface area. Moreover, Descartes thought of the universe as a plenum, that is, filled with matter, so all motion required a body to displace a medium as it moved. During the 1650s, Huygens studied collisions between hard spheres and deduced a principle that is now identified as the conservation of momentum. Christopher Wren would later deduce the same rules for elastic collisions that Huygens had, and John Wallis would apply momentum conservation to study inelastic collisions. Newton cited the work of Huygens, Wren, and Wallis to support the validity of his third law.Newton arrived at his set of three laws incrementally. In a 1684 manuscript written to Huygens, he listed four laws: the principle of inertia, the change of motion by force, a statement about relative motion that would today be called Galilean invariance, and the rule that interactions between bodies do not change the motion of their center of mass. In a later manuscript, Newton added a law of action and reaction, while saying that this law and the law regarding the center of mass implied one another. Newton probably settled on the presentation in the Principia, with three primary laws and then other statements reduced to corollaries, during 1685.
+
+
+=== After the Principia ===
+
+Newton expressed his second law by saying that the force on a body is proportional to its change of motion, or momentum. By the time he wrote the Principia, he had already developed calculus (which he called "the science of fluxions"), but in the Principia he made no explicit use of it, perhaps because he believed geometrical arguments in the tradition of Euclid to be more rigorous.: 15  Consequently, the Principia does not express acceleration as the second derivative of position, and so it does not give the second law as 
+  
+    
+      
+        F
+        =
+        m
+        a
+      
+    
+    {\displaystyle F=ma}
+  . This form of the second law was written (for the special case of constant force) at least as early as 1716, by Jakob Hermann; Leonhard Euler would employ it as a basic premise in the 1740s. Euler pioneered the study of rigid bodies and established the basic theory of fluid dynamics. Pierre-Simon Laplace's five-volume Traité de mécanique céleste (1798–1825) forsook geometry and developed mechanics purely through algebraic expressions, while resolving questions that the Principia had left open, like a full theory of the tides.The concept of energy became a key part of Newtonian mechanics in the post-Newton period. Huygens' solution of the collision of hard spheres showed that in that case, not only is momentum conserved, but kinetic energy is as well (or, rather, a quantity that in retrospect we can identify as one-half the total kinetic energy). The question of what is conserved during all other processes, like inelastic collisions and motion slowed by friction, was not resolved until the 19th century. Debates on this topic overlapped with philosophical disputes between the metaphysical views of Newton and Leibniz, and variants of the term "force" were sometimes used to denote what we would call types of energy. For example, in 1742, Émilie du Châtelet wrote, "Dead force consists of a simple tendency to motion: such is that of a spring ready to relax; living force is that which a body has when it is in actual motion." In modern terminology, "dead force" and "living force" correspond to potential energy and kinetic energy respectively. Conservation of energy was not established as a universal principle until it was understood that the energy of mechanical work can be dissipated into heat. With the concept of energy given a solid grounding, Newton's laws could then be derived within formulations of classical mechanics that put energy first, as in the Lagrangian and Hamiltonian formulations described above.
+Modern presentations of Newton's laws use the mathematics of vectors, a topic that was not developed until the late 19th and early 20th centuries. Vector algebra, pioneered by Josiah Willard Gibbs and Oliver Heaviside, stemmed from and largely supplanted the earlier system of quaternions invented by William Rowan Hamilton.
+
+
+== See also ==
+History of classical mechanics
+List of eponymous laws
+List of equations in classical mechanics
+List of scientific laws named after people
+List of textbooks on classical mechanics and quantum mechanics
+Norton's dome
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+Chakrabarty, Deepto; Dourmashkin, Peter; Tomasik, Michelle; Frebel, Anna; Vuletic, Vladan (2016). "Classical Mechanics". MIT OpenCourseWare. Retrieved 17 January 2022.
+Thomson, W.; Tait, P. G. (1867). "242, Newton's laws of motion". Treatise on natural philosophy. Vol. 1.
+

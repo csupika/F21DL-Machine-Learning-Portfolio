@@ -1,0 +1,1100 @@
+####### TITLE #######
+
+Equation
+
+####### LINKS #######
+
+['=', 'Abel–Ruffini theorem', 'Abstract algebra', 'Addition', 'Alexandria', 'Algebra', 'Algebraic curve', 'Algebraic equation', 'Algebraic expression', 'Algebraic geometry', 'Algebraic number', 'Algebraic solution', 'Algebraic surface', 'Algebraic variety', 'Algorithm', 'Almost all', 'Analytic geometry', 'Antiderivative', 'Approximation', 'Biology', 'Cancelling out', 'Cartesian coordinate', 'Cartesian coordinate system', 'Cartesian coordinates', 'Cartesian geometry', 'Cassini oval', 'Chemistry', 'Circle', 'Clearing denominators', 'Cognate', 'Commutative algebra', 'Complex number', 'Computer model', 'Computer science', 'Computer simulation', 'Cone', 'Conic section', 'Coordinate system', 'Coordinates', 'Cosine function', 'Cubic curve', 'Cubic equation', 'Curve', 'Degree of a polynomial', 'Delay differential equation', 'Derivative', 'Descartes', 'Difference equation', 'Difference of two squares', 'Differential equation', 'Differential equations', 'Dimension', 'Dimension of a manifold', 'Diophantine equation', 'Diophantine equations', 'Diophantus', 'Division (mathematics)', 'Dynamical systems', 'Economics', 'Elasticity (physics)', 'Electrodynamics', 'Electrostatics', 'Elementary functions', 'Ellipse', 'Elliptic curve', 'Engineering', 'English language', 'Equality (mathematics)', 'Equals sign', 'Equation (disambiguation)', 'Equation solving', 'Euclidean geometry', 'Expression (mathematics)', 'Extraneous solution', 'Factorization of polynomials', 'Field (mathematics)', 'Fluid flow', 'Formula', 'French language', 'Function (mathematics)', 'Functional analysis', 'Functional differential equation', 'Functional equation', 'Gaussian elimination', 'Geometric figures', 'Geometry', 'Glenn James (mathematician)', 'Graph of a function', 'Greek mathematics', 'Heat', 'History of algebra', 'Hyperbola', 'Identity (mathematics)', 'Implicit equation', 'Independent variable', 'Indeterminate equation', 'Inequality (mathematics)', 'Inequation', 'Inflection point', 'Integer', 'Integers', 'Integral equation', 'Integro-differential equation', 'Intersection (Euclidean geometry)', 'Latinisation (literature)', 'Lattice point', 'Lemniscate of Bernoulli', 'Line (geometry)', 'Linear algebra', 'Linear equation', 'Linear equations', 'Linearization', 'List of equations', 'List of scientific equations named after people', 'List of trigonometric identities', 'Manifold', 'Mathematical analysis', 'Mathematical model', 'Mathematical symbol', 'Mathematics', 'Monomials', 'Multidimensional systems', 'Multiplication', 'Multivariable calculus', 'Nonlinear system', 'Number', 'Number theory', 'Numerical linear algebra', 'Numerical methods', 'Numerical ordinary differential equations', 'Octic equation', 'Operation (mathematics)', 'Ordinary differential equation', 'Ordinary differential equations', 'Parabola', 'Parameter', 'Parametric equation', 'Partial derivative', 'Partial differential equation', 'Periodic function', 'Perpendicular', 'Physics', 'Pi', 'Plane (geometry)', 'Plane algebraic curve', 'Point (geometry)', 'Point at infinity', 'Polynomial', 'Polynomial equation', 'Polynomial equations', 'Polynomial expansion', 'Positive and negative numbers', 'Pure mathematics', 'Quadratic equation', 'Quadratic function', 'Quantum mechanics', 'Quartic equation', 'Quintic equation', 'Rational number', 'Real number', 'Real numbers', 'Recurrence relation', 'René Descartes', 'Robert C. James', 'Robert Recorde', 'Root finding of polynomials', 'Seesaw', 'Septic equation', 'Sextic equation', 'Sides of an equation', 'Sine function', 'Singular point of a curve', 'Solution (equation)', 'Solution set', 'Sound', 'Space (mathematics)', 'Stochastic differential equation', 'Stochastic partial differential equations', 'Stochastic process', 'Strange attractor', 'Subtraction', 'Surface (topology)', 'System of equations', 'System of linear equations', 'System of polynomial equations', 'Systems of polynomial equations', 'Term (logic)', 'The Nine Chapters on the Mathematical Art', 'The Whetstone of Witte', 'Theory of equations', 'Topology', 'Transcendental equation', 'Transcendental function', 'Transcendental number', 'Trigonometric equation', 'Trigonometry', 'Unit circle', 'Unit length', 'Variable (math)', 'Variable (mathematics)', 'Weighing scale', 'Well-formed formula', 'Zero of a function']
+
+####### CATEGORIES #######
+
+['All articles covered by WikiProject Wikify', 'All articles needing additional references', 'All pages needing cleanup', 'Articles containing explicitly cited English-language text', 'Articles covered by WikiProject Wikify from July 2022', 'Articles needing additional references from July 2022', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with multiple maintenance issues', 'Articles with short description', 'CS1 French-language sources (fr)', 'Elementary algebra', 'Equations', 'Short description is different from Wikidata', 'Wikipedia introduction cleanup from July 2022']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/2/2e/Cartesian-coordinate-system-with-circle.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/51/Coniques_cone.png', 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Equation_illustration_colour.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8d/First_Equation_Ever.png', 'https://upload.wikimedia.org/wikipedia/commons/d/d6/FunLin_04.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Polynomialdeg2.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/88/%E4%B9%9D%E7%AB%A0%E7%AE%97%E8%A1%93.gif', 'https://upload.wikimedia.org/wikipedia/en/b/b4/Ambox_important.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/95/Attracteur_%C3%A9trange_de_Lorenz.png', 'https://upload.wikimedia.org/wikipedia/en/f/f2/Edit-clear.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg']
+
+####### REFERENCES #######
+
+['http://scholar.google.com/scholar?q=%22Equation%22', 'http://www.google.com/search?&q=%22Equation%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Equation%22', 'http://www.google.com/search?tbm=nws&q=%22Equation%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Equation%22+-wikipedia', 'http://mathworld.wolfram.com/ParametricEquations.html', 'http://www.cs.cornell.edu/w8/~andru/relplot', 'http://www.universalis.fr/encyclopedie/NT01240/EQUATION_mathematique.htm', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007552900305171', 'https://www.mathopenref.com/equation.html', 'https://www.mathsisfun.com/algebra/equation-formula.html', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph125241&CON_LNG=ENG', 'https://www.academia.edu/3287674', 'https://catalogue.bnf.fr/ark:/12148/cb119470816', 'https://data.bnf.fr/ark:/12148/cb119470816', 'https://id.loc.gov/authorities/subjects/sh85044510', 'https://d-nb.info/gnd/4021246-4', 'https://id.ndl.go.jp/auth/ndlna/00563553', 'https://archive.org/stream/TheWhetstoneOfWitte#page/n237/mode/2up', 'https://web.archive.org/web/20090816161008/http://math.exeter.edu/rparris/winplot.html', 'https://www.jstor.org/action/doBasicSearch?Query=%22Equation%22&acc=on&wc=on', 'https://www.wikidata.org/wiki/Q11345#identifiers']
+
+####### SUMMARY #######
+
+In mathematics, an equation is a formula that expresses the equality of two expressions, by connecting them with the equals sign =. The word equation and its cognates in other languages may have subtly different meanings; for example, in French an équation is defined as containing one or more variables, while in English, any well-formed formula consisting of two expressions related with an equals sign is an equation.Solving an equation containing variables consists of determining which values of the variables make the equality true. The variables for which the equation has to be solved are also called unknowns, and the values of the unknowns that satisfy the equality are called solutions of the equation. There are two kinds of equations: identities and conditional equations. An identity is true for all values of the variables. A conditional equation is only true for particular values of the variables.An equation is written as two expressions, connected by an equals sign ("="). The expressions on the two sides of the equals sign are called the "left-hand side" and "right-hand side" of the equation. Very often the right-hand side of an equation is assumed to be zero. Assuming this does not reduce the generality, as this can be realized by subtracting the right-hand side from both sides.
+The most common type of equation is a polynomial equation (commonly called also an algebraic equation) in which the two sides are polynomials.
+The sides of a polynomial equation contain one or more terms. For example, the equation 
+
+  
+    
+      
+        A
+        
+          x
+          
+            2
+          
+        
+        +
+        B
+        x
+        +
+        C
+        −
+        y
+        =
+        0
+      
+    
+    {\displaystyle Ax^{2}+Bx+C-y=0}
+  has left-hand side 
+  
+    
+      
+        A
+        
+          x
+          
+            2
+          
+        
+        +
+        B
+        x
+        +
+        C
+        −
+        y
+      
+    
+    {\displaystyle Ax^{2}+Bx+C-y}
+  , which has four terms, and right-hand side 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  , consisting of just one term. The names of the variables suggest that x and y are unknowns, and that  A, B, and C are parameters, but this is normally fixed by the context (in some contexts, y may be a parameter, or A, B, and C may be ordinary variables).
+An equation is analogous to a scale into which weights are placed. When equal weights of something (e.g., grain) are placed into the two pans, the two weights cause the scale to be in balance and are said to be equal. If a quantity of grain is removed from one pan of the balance, an equal amount of grain must be removed from the other pan to keep the scale in balance. More generally, an  equation remains in balance if the same operation is performed on its both sides.
+In Cartesian geometry, equations are used to describe geometric figures. As the equations that are considered, such as implicit equations or parametric equations, have infinitely many solutions, the objective is now different: instead of giving the solutions explicitly or counting them, which is impossible, one uses equations for studying properties of figures. This is the starting idea of algebraic geometry, an important area of mathematics.
+Algebra studies two main families of equations: polynomial equations and, among them, the special case of linear equations. When there is only one variable, polynomial equations have the form P(x) = 0, where P is a polynomial, and linear equations have the form ax + b = 0, where a and b are parameters. To solve equations from either family, one uses algorithmic or geometric techniques that originate from linear algebra or mathematical analysis. Algebra also studies Diophantine equations where the coefficients and solutions are integers. The techniques used are different and come from number theory. These equations are difficult in general; one often searches just to find the existence or absence of a solution, and, if they exist, to count the number of solutions.
+Differential equations are equations that involve one or more functions and their derivatives. They are solved by finding an expression for the function that does not involve derivatives. Differential equations are used to model processes that involve the rates of change of the variable, and are used in areas such as physics, chemistry, biology, and economics.
+The "=" symbol, which appears in every equation, was invented in 1557 by Robert Recorde, who considered that nothing could be more equal than parallel straight lines with the same length.
+
+####### CONTENT #######
+
+In mathematics, an equation is a formula that expresses the equality of two expressions, by connecting them with the equals sign =. The word equation and its cognates in other languages may have subtly different meanings; for example, in French an équation is defined as containing one or more variables, while in English, any well-formed formula consisting of two expressions related with an equals sign is an equation.Solving an equation containing variables consists of determining which values of the variables make the equality true. The variables for which the equation has to be solved are also called unknowns, and the values of the unknowns that satisfy the equality are called solutions of the equation. There are two kinds of equations: identities and conditional equations. An identity is true for all values of the variables. A conditional equation is only true for particular values of the variables.An equation is written as two expressions, connected by an equals sign ("="). The expressions on the two sides of the equals sign are called the "left-hand side" and "right-hand side" of the equation. Very often the right-hand side of an equation is assumed to be zero. Assuming this does not reduce the generality, as this can be realized by subtracting the right-hand side from both sides.
+The most common type of equation is a polynomial equation (commonly called also an algebraic equation) in which the two sides are polynomials.
+The sides of a polynomial equation contain one or more terms. For example, the equation 
+
+  
+    
+      
+        A
+        
+          x
+          
+            2
+          
+        
+        +
+        B
+        x
+        +
+        C
+        −
+        y
+        =
+        0
+      
+    
+    {\displaystyle Ax^{2}+Bx+C-y=0}
+  has left-hand side 
+  
+    
+      
+        A
+        
+          x
+          
+            2
+          
+        
+        +
+        B
+        x
+        +
+        C
+        −
+        y
+      
+    
+    {\displaystyle Ax^{2}+Bx+C-y}
+  , which has four terms, and right-hand side 
+  
+    
+      
+        0
+      
+    
+    {\displaystyle 0}
+  , consisting of just one term. The names of the variables suggest that x and y are unknowns, and that  A, B, and C are parameters, but this is normally fixed by the context (in some contexts, y may be a parameter, or A, B, and C may be ordinary variables).
+An equation is analogous to a scale into which weights are placed. When equal weights of something (e.g., grain) are placed into the two pans, the two weights cause the scale to be in balance and are said to be equal. If a quantity of grain is removed from one pan of the balance, an equal amount of grain must be removed from the other pan to keep the scale in balance. More generally, an  equation remains in balance if the same operation is performed on its both sides.
+In Cartesian geometry, equations are used to describe geometric figures. As the equations that are considered, such as implicit equations or parametric equations, have infinitely many solutions, the objective is now different: instead of giving the solutions explicitly or counting them, which is impossible, one uses equations for studying properties of figures. This is the starting idea of algebraic geometry, an important area of mathematics.
+Algebra studies two main families of equations: polynomial equations and, among them, the special case of linear equations. When there is only one variable, polynomial equations have the form P(x) = 0, where P is a polynomial, and linear equations have the form ax + b = 0, where a and b are parameters. To solve equations from either family, one uses algorithmic or geometric techniques that originate from linear algebra or mathematical analysis. Algebra also studies Diophantine equations where the coefficients and solutions are integers. The techniques used are different and come from number theory. These equations are difficult in general; one often searches just to find the existence or absence of a solution, and, if they exist, to count the number of solutions.
+Differential equations are equations that involve one or more functions and their derivatives. They are solved by finding an expression for the function that does not involve derivatives. Differential equations are used to model processes that involve the rates of change of the variable, and are used in areas such as physics, chemistry, biology, and economics.
+The "=" symbol, which appears in every equation, was invented in 1557 by Robert Recorde, who considered that nothing could be more equal than parallel straight lines with the same length.
+
+
+== Introduction ==
+
+
+=== Analogous illustration ===
+
+An equation is analogous to a weighing scale, balance, or seesaw.
+Each side of the equation corresponds to one side of the balance. Different quantities can be placed on each side: if the weights on the two sides are equal, the scale balances, and in analogy, the equality that represents the balance is also balanced (if not, then the lack of balance corresponds to an inequality represented by an inequation).
+In the illustration, x, y and z are all different quantities (in this case real numbers) represented as circular weights, and each of x, y, and z has a different weight. Addition corresponds to adding weight, while subtraction corresponds to removing weight from what is already there. When equality holds, the total weight on each side is the same.
+
+
+=== Parameters and unknowns ===
+
+Equations often contain terms other than the unknowns. These other terms, which are assumed to be known, are usually called constants, coefficients or parameters.
+An example of an equation involving x and y as unknowns and the parameter R is
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        
+          R
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle x^{2}+y^{2}=R^{2}.}
+  When R is chosen to have the value of 2 (R = 2), this equation would be recognized in Cartesian coordinates as the equation for the circle of radius of 2 around the origin. Hence, the equation with R unspecified is the general equation for the circle.
+Usually, the unknowns are denoted by letters at the end of the alphabet, x, y, z, w, ..., while coefficients (parameters) are denoted by letters at the beginning, a, b, c, d, ... . For example, the general quadratic equation is usually written ax2 + bx + c = 0.
+The process of finding the solutions, or, in case of parameters, expressing the unknowns in terms of the parameters, is called solving the equation. Such expressions of the solutions in terms of the parameters are also called solutions.
+A system of equations is a set of simultaneous equations, usually in several unknowns for which the common solutions are sought. Thus, a solution to the system is a set of values for each of the unknowns, which together form a solution to each equation in the system. For example, the system
+
+  
+    
+      
+        
+          
+            
+              
+                3
+                x
+                +
+                5
+                y
+              
+              
+                
+                =
+                2
+              
+            
+            
+              
+                5
+                x
+                +
+                8
+                y
+              
+              
+                
+                =
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}3x+5y&=2\\5x+8y&=3\end{aligned}}}
+  has the unique solution x = −1, y = 1.
+
+
+=== Identities ===
+
+An identity is an equation that is true for all possible values of the variable(s) it contains. Many identities are known in algebra and calculus. In the process of solving an equation, an identity is often used to simplify an equation, making it more easily solvable.
+In algebra, an example of an identity is the difference of two squares:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+          
+        
+        =
+        (
+        x
+        +
+        y
+        )
+        (
+        x
+        −
+        y
+        )
+      
+    
+    {\displaystyle x^{2}-y^{2}=(x+y)(x-y)}
+  which is true for all x and y.
+Trigonometry is an area where many identities exist; these are useful in manipulating or solving trigonometric equations. Two of many that involve the sine and cosine functions are:
+
+  
+    
+      
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        (
+        θ
+        )
+        +
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        θ
+        )
+        =
+        1
+      
+    
+    {\displaystyle \sin ^{2}(\theta )+\cos ^{2}(\theta )=1}
+  and
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        2
+        θ
+        )
+        =
+        2
+        sin
+        ⁡
+        (
+        θ
+        )
+        cos
+        ⁡
+        (
+        θ
+        )
+      
+    
+    {\displaystyle \sin(2\theta )=2\sin(\theta )\cos(\theta )}
+  which are both true for all values of θ.
+For example, to solve for the value of θ that satisfies the equation:
+
+  
+    
+      
+        3
+        sin
+        ⁡
+        (
+        θ
+        )
+        cos
+        ⁡
+        (
+        θ
+        )
+        =
+        1
+        
+        ,
+      
+    
+    {\displaystyle 3\sin(\theta )\cos(\theta )=1\,,}
+  where θ is limited to between 0 and 45 degrees, one may use the above identity for the product to give:
+
+  
+    
+      
+        
+          
+            3
+            2
+          
+        
+        sin
+        ⁡
+        (
+        2
+        θ
+        )
+        =
+        1
+        
+        ,
+      
+    
+    {\displaystyle {\frac {3}{2}}\sin(2\theta )=1\,,}
+  yielding the following solution for θ:
+
+  
+    
+      
+        θ
+        =
+        
+          
+            1
+            2
+          
+        
+        arcsin
+        ⁡
+        
+          (
+          
+            
+              2
+              3
+            
+          
+          )
+        
+        ≈
+        
+          20.9
+          
+            ∘
+          
+        
+        .
+      
+    
+    {\displaystyle \theta ={\frac {1}{2}}\arcsin \left({\frac {2}{3}}\right)\approx 20.9^{\circ }.}
+  Since the sine function is a periodic function, there are infinitely many solutions if there are no restrictions on θ. In this example, restricting θ to be between 0 and 45 degrees would restrict the solution to only one number.
+
+
+== Properties ==
+Two equations or two systems of equations are equivalent, if they have the same set of solutions. The following operations transform an equation or a system of equations into an equivalent one – provided that the operations are meaningful for the expressions they are applied to:
+
+Adding or subtracting the same quantity to both sides of an equation. This shows that every equation is equivalent to an equation in which the right-hand side is zero.
+Multiplying or dividing both sides of an equation by a non-zero quantity.
+Applying an identity to transform one side of the equation. For example, expanding a product or factoring a sum.
+For a system: adding to both sides of an equation the corresponding side of another equation, multiplied by the same quantity.If some function is applied to both sides of an equation, the resulting equation has the solutions of the initial equation among its solutions, but may have further solutions called extraneous solutions. For example, the equation 
+  
+    
+      
+        x
+        =
+        1
+      
+    
+    {\displaystyle x=1}
+   has the solution 
+  
+    
+      
+        x
+        =
+        1.
+      
+    
+    {\displaystyle x=1.}
+   Raising both sides to the exponent of 2 (which means applying the function 
+  
+    
+      
+        f
+        (
+        s
+        )
+        =
+        
+          s
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f(s)=s^{2}}
+   to both sides of the equation) changes the equation to 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle x^{2}=1}
+  , which not only has the previous solution but also introduces the extraneous solution, 
+  
+    
+      
+        x
+        =
+        −
+        1.
+      
+    
+    {\displaystyle x=-1.}
+   Moreover, if the function is not defined at some values (such as 1/x, which is not defined for x = 0), solutions existing at those values may be lost. Thus, caution must be exercised when applying such a transformation to an equation.
+The above transformations are the basis of most elementary methods for equation solving, as well as some less elementary one, like Gaussian elimination.
+
+
+== Algebra ==
+
+
+=== Polynomial equations ===
+
+In general, an algebraic equation or polynomial equation is an equation of the form
+
+  
+    
+      
+        P
+        =
+        0
+      
+    
+    {\displaystyle P=0}
+  , or
+  
+    
+      
+        P
+        =
+        Q
+      
+    
+    {\displaystyle P=Q}
+   where P and Q are polynomials with coefficients in some field (e.g., rational numbers, real numbers, complex numbers). An algebraic equation is univariate if it involves only one variable. On the other hand, a polynomial equation may involve several variables, in which case it is called multivariate (multiple variables, x, y, z, etc.).
+For example,
+
+  
+    
+      
+        
+          x
+          
+            5
+          
+        
+        −
+        3
+        x
+        +
+        1
+        =
+        0
+      
+    
+    {\displaystyle x^{5}-3x+1=0}
+  is a univariate algebraic (polynomial) equation with integer coefficients and
+
+  
+    
+      
+        
+          y
+          
+            4
+          
+        
+        +
+        
+          
+            
+              x
+              y
+            
+            2
+          
+        
+        =
+        
+          
+            
+              x
+              
+                3
+              
+            
+            3
+          
+        
+        −
+        x
+        
+          y
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        −
+        
+          
+            1
+            7
+          
+        
+      
+    
+    {\displaystyle y^{4}+{\frac {xy}{2}}={\frac {x^{3}}{3}}-xy^{2}+y^{2}-{\frac {1}{7}}}
+  is a multivariate polynomial equation over the rational numbers.
+Some polynomial equations with rational coefficients have a solution that is an algebraic expression, with a finite number of operations involving just those coefficients (i.e., can be solved algebraically). This can be done for all such equations of degree one, two, three, or four; but equations of degree five or more cannot always be solved in this way, as the Abel–Ruffini theorem demonstrates. 
+A large amount of research has been devoted to compute efficiently accurate approximations of the real or complex solutions of a univariate algebraic equation (see Root finding of polynomials) and of the common solutions of several multivariate polynomial equations (see System of polynomial equations).
+
+
+=== Systems of linear equations ===
+
+A system of linear equations (or linear system) is a collection of linear equations involving one or more variables. For example,
+
+  
+    
+      
+        
+          
+            
+              
+                3
+                x
+              
+              
+              
+                
+                +
+                
+              
+              
+              
+                2
+                y
+              
+              
+              
+                
+                −
+                
+              
+              
+              
+                z
+              
+              
+              
+                
+                =
+                
+              
+              
+              
+                1
+              
+              
+            
+            
+              
+                2
+                x
+              
+              
+              
+                
+                −
+                
+              
+              
+              
+                2
+                y
+              
+              
+              
+                
+                +
+                
+              
+              
+              
+                4
+                z
+              
+              
+              
+                
+                =
+                
+              
+              
+              
+                −
+                2
+              
+              
+            
+            
+              
+                −
+                x
+              
+              
+              
+                
+                +
+                
+              
+              
+              
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                y
+              
+              
+              
+                
+                −
+                
+              
+              
+              
+                z
+              
+              
+              
+                
+                =
+                
+              
+              
+              
+                0
+              
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{alignedat}{7}3x&&\;+\;&&2y&&\;-\;&&z&&\;=\;&&1&\\2x&&\;-\;&&2y&&\;+\;&&4z&&\;=\;&&-2&\\-x&&\;+\;&&{\tfrac {1}{2}}y&&\;-\;&&z&&\;=\;&&0&\end{alignedat}}}
+  is a system of three equations in the three variables x, y, z. A solution to a linear system is an assignment of numbers to the variables such that all the equations are simultaneously satisfied. A solution to the system above is given by
+
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              
+                
+                
+                =
+                
+              
+              
+                1
+              
+            
+            
+              
+                y
+              
+              
+                
+                
+                =
+                
+              
+              
+                −
+                2
+              
+            
+            
+              
+                z
+              
+              
+                
+                
+                =
+                
+              
+              
+                −
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{alignedat}{2}x&\,=\,&1\\y&\,=\,&-2\\z&\,=\,&-2\end{alignedat}}}
+  since it makes all three equations valid. The word "system" indicates that the equations are to be considered collectively, rather than individually.
+In mathematics, the theory of linear systems is a fundamental part of linear algebra, a subject which is used in many parts of modern mathematics. Computational algorithms for finding the solutions are an important part of numerical linear algebra, and play a prominent role in physics, engineering, chemistry, computer science, and economics. A system of non-linear equations can often be approximated by a linear system (see linearization), a helpful technique when making a mathematical model or computer simulation of a relatively complex system.
+
+
+== Geometry ==
+
+
+=== Analytic geometry ===
+
+In Euclidean geometry, it is possible to associate a set of coordinates to each point in space, for example by an orthogonal grid. This method allows one to characterize geometric figures by equations. A plane in three-dimensional space can be expressed as the solution set of an equation of the form 
+  
+    
+      
+        a
+        x
+        +
+        b
+        y
+        +
+        c
+        z
+        +
+        d
+        =
+        0
+      
+    
+    {\displaystyle ax+by+cz+d=0}
+  , where 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+   and 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   are real numbers and 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        z
+      
+    
+    {\displaystyle x,y,z}
+   are the unknowns that correspond to the coordinates of a point in the system given by the orthogonal grid. The values 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+   are the coordinates of a vector perpendicular to the plane defined by the equation. A line is expressed as the intersection of two planes, that is as the solution set of a single linear equation with values in 
+  
+    
+      
+        
+          
+            R
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{2}}
+   or as the solution set of two linear equations with values in 
+  
+    
+      
+        
+          
+            R
+          
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbb {R} ^{3}.}
+  
+A conic section is the intersection of a cone with equation 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        
+          z
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x^{2}+y^{2}=z^{2}}
+   and a plane. In other words, in space, all conics are defined as the solution set of an equation of a plane and of the equation of a cone just given. This formalism allows one to determine the positions and the properties of the focuses of a conic.
+The use of equations allows one to call on a large area of mathematics to solve geometric questions. The Cartesian coordinate system transforms a geometric problem into an analysis problem, once the figures are transformed into equations; thus the name analytic geometry. This point of view, outlined by Descartes, enriches and modifies the type of geometry conceived of by the ancient Greek mathematicians.
+Currently, analytic geometry designates an active branch of mathematics. Although it still uses equations to characterize figures, it also uses other sophisticated techniques such as functional analysis and linear algebra.
+
+
+=== Cartesian equations ===
+A Cartesian coordinate system is a coordinate system that specifies each point uniquely in a plane by a pair of numerical coordinates, which are the signed distances from the point to two fixed perpendicular directed lines, that are marked using the same unit of length.
+One can use the same principle to specify the position of any point in three-dimensional space by the use of three Cartesian coordinates, which are the signed distances to three mutually perpendicular planes (or, equivalently, by its perpendicular projection onto three mutually perpendicular lines).
+
+The invention of Cartesian coordinates in the 17th century by René Descartes (Latinized name: Cartesius) revolutionized mathematics by providing the first systematic link between Euclidean geometry and algebra. Using the Cartesian coordinate system, geometric shapes (such as curves) can be described by Cartesian equations: algebraic equations involving the coordinates of the points lying on the shape. For example, a circle of radius 2 in a plane, centered on a particular point called the origin, may be described as the set of all points whose coordinates x and y satisfy the equation x2 + y2 = 4.
+
+
+=== Parametric equations ===
+
+A parametric equation for a curve expresses the coordinates of the points of the curve as functions of a variable, called a parameter. For example,
+
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              
+                
+                =
+                cos
+                ⁡
+                t
+              
+            
+            
+              
+                y
+              
+              
+                
+                =
+                sin
+                ⁡
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}x&=\cos t\\y&=\sin t\end{aligned}}}
+  are parametric equations for the unit circle, where t is the parameter. Together, these equations are called a parametric representation of the curve.
+The notion of parametric equation has been generalized to surfaces, manifolds and algebraic varieties of higher dimension, with the number of parameters being equal to the dimension of the manifold or variety, and the number of equations being equal to the dimension of the space in which the manifold or variety is considered (for curves the dimension is one and one parameter is used, for surfaces dimension two and two parameters, etc.).
+
+
+== Number theory ==
+
+
+=== Diophantine equations ===
+
+A Diophantine equation is a polynomial equation in two or more unknowns for which only the integer solutions are sought (an integer solution is a solution such that all the unknowns take integer values). A linear Diophantine equation is an equation between two sums of monomials of degree zero or one. An example of linear Diophantine equation is ax + by = c where a, b, and c are constants. An exponential Diophantine equation is one for which exponents of the terms of the equation can be unknowns.
+Diophantine problems have fewer equations than unknown variables and involve finding integers that work correctly for all equations. In more technical language, they define an algebraic curve, algebraic surface, or more general object, and ask about the lattice points on it.
+The word Diophantine refers to the Hellenistic mathematician of the 3rd century, Diophantus of Alexandria, who made a study of such equations and was one of the first mathematicians to introduce symbolism into algebra. The mathematical study of Diophantine problems that Diophantus initiated is now called Diophantine analysis.
+
+
+=== Algebraic and transcendental numbers ===
+
+An algebraic number is a number that is a solution of a non-zero polynomial equation in one variable with rational coefficients (or equivalently — by clearing denominators — with integer coefficients). Numbers such as π that are not algebraic are said to be transcendental. Almost all real and complex numbers are transcendental.
+
+
+=== Algebraic geometry ===
+
+Algebraic geometry is a branch of mathematics, classically studying solutions of polynomial equations. Modern algebraic geometry is based on more abstract techniques of abstract algebra, especially commutative algebra, with the language and the problems of geometry.
+The fundamental objects of study in algebraic geometry are algebraic varieties, which are geometric manifestations of solutions of systems of polynomial equations. Examples of the most studied classes of algebraic varieties are: plane algebraic curves, which include lines, circles, parabolas, ellipses, hyperbolas, cubic curves like elliptic curves and quartic curves like lemniscates, and Cassini ovals. A point of the plane belongs to an algebraic curve if its coordinates satisfy a given polynomial equation. Basic questions involve the study of the points of special interest like the singular points, the inflection points and the points at infinity. More advanced questions involve the topology of the curve and relations between the curves given by different equations.
+
+
+== Differential equations ==
+
+A differential equation is a mathematical equation that relates some function with its derivatives. In applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two. Because such relations are extremely common, differential equations play a prominent role in many disciplines including physics, engineering, economics, and biology.
+In pure mathematics, differential equations are studied from several different perspectives, mostly concerned with their solutions — the set of functions that satisfy the equation. Only the simplest differential equations are solvable by explicit formulas; however, some properties of solutions of a given differential equation may be determined without finding their exact form.
+If a self-contained formula for the solution is not available, the solution may be numerically approximated using computers. The theory of dynamical systems puts emphasis on qualitative analysis of systems described by differential equations, while many numerical methods have been developed to determine solutions with a given degree of accuracy.
+
+
+=== Ordinary differential equations ===
+
+An ordinary differential equation or ODE is an equation containing a function of one independent variable and its derivatives. The term "ordinary" is used in contrast with the term partial differential equation, which may be with respect to more than one independent variable.
+Linear differential equations, which have solutions that can be added and multiplied by coefficients, are well-defined and understood, and exact closed-form solutions are obtained. By contrast, ODEs that lack additive solutions are nonlinear, and solving them is far more intricate, as one can rarely represent them by elementary functions in closed form: Instead, exact and analytic solutions of ODEs are in series or integral form. Graphical and numerical methods, applied by hand or by computer, may approximate solutions of ODEs and perhaps yield useful information, often sufficing in the absence of exact, analytic solutions.
+
+
+=== Partial differential equations ===
+
+A partial differential equation (PDE) is a differential equation that contains unknown multivariable functions and their partial derivatives. (This is in contrast to ordinary differential equations, which deal with functions of a single variable and their derivatives.) PDEs are used to formulate problems involving functions of several variables, and are either solved by hand, or used to create a relevant computer model.
+PDEs can be used to describe a wide variety of phenomena such as sound, heat, electrostatics, electrodynamics, fluid flow, elasticity, or quantum mechanics. These seemingly distinct physical phenomena can be formalised similarly in terms of PDEs. Just as ordinary differential equations often model one-dimensional dynamical systems, partial differential equations often model multidimensional systems. PDEs find their generalisation in stochastic partial differential equations.
+
+
+== Types of equations ==
+Equations can be classified according to the types of operations and quantities involved. Important types include:
+
+An algebraic equation or polynomial equation is an equation in which both sides are polynomials (see also system of polynomial equations). These are further classified by degree:
+linear equation for degree one
+quadratic equation for degree two
+cubic equation for degree three
+quartic equation for degree four
+quintic equation for degree five
+sextic equation for degree six
+septic equation for degree seven
+octic equation for degree eight
+A Diophantine equation is an equation where the unknowns are required to be integers
+A transcendental equation is an equation involving a transcendental function of its unknowns
+A parametric equation is an equation in which the solutions for the variables are expressed as functions of some other variables, called parameters appearing in the equations
+A functional equation is an equation in which the unknowns are functions rather than simple quantities
+Equations involving derivatives, integrals and finite differences:
+A differential equation is a functional equation involving derivatives of the unknown functions, where the function and its derivatives are evaluated at the same point, such as 
+  
+    
+      
+        
+          f
+          ′
+        
+        (
+        x
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f'(x)=x^{2}}
+  .  Differential equations are subdivided into ordinary differential equations for functions of a single variable and partial differential equations for functions of multiple variables
+An integral equation is a functional equation involving the antiderivatives of the unknown functions.  For functions of one variable, such an equation differs from a differential equation primarily through a change of variable substituting the function by its derivative, however this is not the case when the integral is taken over an open surface
+An integro-differential equation is a functional equation involving both the derivatives and the antiderivatives of the unknown functions.  For functions of one variable, such an equation differs from integral and differential equations through a similar change of variable.
+A functional differential equation of delay differential equation is a function equation involving derivatives of the unknown functions, evaluated at multiple points, such as 
+  
+    
+      
+        
+          f
+          ′
+        
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        −
+        2
+        )
+      
+    
+    {\displaystyle f'(x)=f(x-2)}
+  
+A difference equation is an equation where the unknown is a function f that occurs in the equation through f(x), f(x−1), ..., f(x−k), for some whole integer k called the order of the equation. If x is restricted to be an integer, a difference equation is the same as a recurrence relation
+A stochastic differential equation is a differential equation in which one or more of the terms is a stochastic process
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Winplot: General Purpose plotter that can draw and animate 2D and 3D mathematical equations.
+Equation plotter: A web page for producing and downloading pdf or postscript plots of the solution sets to equations and inequations in two variables (x and y).
+

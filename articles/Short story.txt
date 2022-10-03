@@ -1,0 +1,356 @@
+####### TITLE #######
+
+Short story
+
+####### LINKS #######
+
+['12:01 PM', 'A. L. Kennedy', 'A Clean, Well-Lighted Place', 'A Gentle Creature', 'A Good Man is Hard to Find', 'A Hunger Artist', 'A Legend of Old Egypt', 'A Mere Interlude', 'A Retrieved Reformation', 'A Sound of Thunder', "A Sportsman's Sketches", 'Ab ovo', 'Act (drama)', 'Act structure', 'Action (narrative)', 'Action fiction', 'Adolfo Bioy Casares', 'Adventure fiction', 'Adélia Prado', 'After Twenty Years', 'Agatha Christie', 'Alexandre Herculano', 'Alice Munro', 'Allegory', 'Almeida Garrett', 'Alternate history', 'Alyosha the Pot', 'Amrita Pritam', 'Anecdote', 'Angola', 'Ann Beattie', 'Antagonist', 'Anthology', 'Antihero', 'Antoine Galland', 'Anton Chekhov', 'Anton Chekov', 'Antônio Castilho de Alcântara Machado', 'Archenemy', 'Argentine', 'Arthur C. Clarke', 'Arthur Conan Doyle', 'Atlantic Monthly', 'Autobiography', 'Autran Dourado', 'Backstory', 'Ballad', 'Barbara of the House of Grebe', 'Bathos', 'Ben Okri', 'Bengali language', 'Bhisham Sahni', 'Biography', 'Black & White (magazine)', 'Bohemia', 'Bohemianism', 'Bolesław Prus', 'Boule de Suif', 'Brander Matthews', 'Brazil', 'Brokeback Mountain', 'Brothers Grimm', 'Button, Button (The Twilight Zone)', 'Byomkesh Bakshi', 'Caio Fernando Abreu', 'Canon (fiction)', 'Canterbury Tales', 'Carlos Drummond de Andrade', 'Carlos Heitor Cony', 'Catastasis', 'Catastrophe (drama)', 'Character (arts)', 'Character arc', 'Character flaw', 'Characterization', 'Charles Dickens', 'Charles Perrault', "Chekhov's gun", 'Children of the Corn', 'Chivalric romance', 'Claire Fuller', 'Clarice Lispector', 'Cliché', 'Cliffhanger', 'Climax (narrative)', 'Closet drama', 'Comedy', 'Comic novel', 'Comic relief', 'Coming-of-age novel', 'Confidant', 'Conflict (narrative)', 'Conflict between good and evil', 'Conte (literature)', 'Conte cruel', 'Continuity (fiction)', 'Creative nonfiction', 'Crime fiction', 'Crossover (fiction)', 'Dalton Trevisan', 'Dance of the Happy Shades', 'Daphne du Maurier', 'David Nicholls (writer)', 'Deal with the Devil', 'Decameron', 'Desh (magazine)', 'Detective fiction', 'Deus ex machina', 'Deuteragonist', 'Dharamvir Bharati', 'Dialogue in writing', 'Diary', 'Diction', 'Diderot', 'Diegesis', 'Docufiction', 'Documentary', 'Doi (identifier)', 'Dominant narrative', "Don't Look Now", 'Donald Barthelme', 'Dorothy L. Sayers', 'Dorothy Parker', 'Drabble', 'Drama', 'Dramatic poetry', 'Dramatic structure', 'Dream world (plot device)', 'Dubliners', 'Duel (1971 film)', 'Dystopia', 'E-book', 'E. T. A. Hoffmann', 'Edgar Allan Poe', 'Eduardo White', 'Edwardian era', 'Egypt', 'Elegy', 'Elizabeth Day', "Ellery Queen's Mystery Magazine", 'England', 'Epic poetry', 'Epigram', 'Epistle', 'Epistolary novel', 'Epitasis', 'Ernest Hemingway', 'Erotic literature', 'Esquire (magazine)', 'Essay', 'Eucatastrophe', 'Eudora Welty', 'Evelyn Waugh', 'Evie Wyld', 'Exposition (narrative)', 'Eça de Queiroz', 'F. Scott Fitzgerald', 'Fable', 'Fabliau', 'Fairy tale', 'False protagonist', 'Fantasy', 'Favela', 'Feluda', 'Fernando Goncalves Namora', 'Fernando Pessoa', 'Fiction', 'Fiction writing', 'Fictional city', 'Fictional country', 'Fictional location', 'Fictional universe', 'Figure of speech', 'First-person narrative', "Flannery O'Connor", 'Flappers and Philosophers', 'Flash fiction', 'Flashback (narrative)', 'Flashforward', 'Florbela Espanca', 'Focal character', 'Foil (fiction)', 'Folklore', 'Folklore genre', 'Foreshadowing', 'Frame story', 'France', "Frank O'Connor", 'Franz Kafka', "Freytag's Pyramid", 'Future tense', 'Fyodor Dostoyevski', 'G.K. Chesterton', 'Gabriel García Márquez', 'Gamebook', 'Gautama Buddha', 'Geoffrey Chaucer', 'Germany', 'Gesta Romanorum', 'Ghazal', 'Giovanni Boccaccio', 'Glossary of literary terms', 'Glossary of rhetorical terms', 'Go Down, Moses (book)', 'Going to Meet the Man', 'Gothic double', 'Gothic fiction', 'Grace Paley', 'Graciliano Ramos', 'Graham Greene', 'Graham Swift', 'Grammatical tense', "Grimms' Fairy Tales", 'Guy de Maupassant', 'H.G. Wells', 'Haiku', 'Hallucination', 'Hamartia', 'Harishankar Parsai', "Harper's Magazine", 'Haruki Murakami', 'Hearts in Atlantis', 'Heinrich von Kleist', 'Henry James', 'Herman Melville', 'Hero', 'Hilda Hilst', 'Hills Like White Elephants', 'Hindi', 'Hindustani language', 'Historical fiction', 'History', 'History of literature', 'History play', 'Hitopadesha', 'Homer', 'Homeric epithet', 'Horacio Quiroga', 'Horror (genre)', 'Horror fiction', 'How Much Land Does a Man Need?', 'Hugh Walpole', 'Humayun Ahmed', 'ISBN (identifier)', 'ISSN (identifier)', 'I Stand Here Ironing', 'Iliad', 'Imagery', 'In medias res', 'India', 'Infinity', 'Inspirational fiction', 'Irony', 'Isaac Asimov', 'Ismat Chughtai', 'Italo Calvino', 'Italy', 'Ivan Turgenev', 'Ivan the Fool (story)', 'J.D. Salinger', 'JSTOR (identifier)', 'Jack London', 'Jaishankar Prasad', 'James Baldwin (writer)', 'James Joyce', 'Japan', 'Jataka tales', 'Jean Stafford', 'Jeeves', 'Joaquim Maria Machado de Assis', 'John Barth', 'John Cheever', 'John Neal (writer)', "John O'Hara", 'John Steinbeck', 'John Updike', 'Jorge Luis Borges', 'José Eduardo Agualusa', 'José Luandino Vieira', 'José Saramago', 'Journalism', 'Joyce Carol Oates', 'João Antonio', 'João Guimarães Rosa', 'João do Rio', 'Juan Carlos Onetti', 'Julian Barnes', 'Julio Cortázar', 'Kamleshwar (writer)', 'Kate Chopin', 'Kathasaritsagara', 'Katherine Mansfield', 'Kenzaburō Ōe', 'Kew Gardens (short story)', 'Kishōtenketsu', 'Krishna Sobti', 'L.P. Hartley', 'Laurence Sterne', 'Legend', 'Leitmotif', 'Leo Tolstoy', 'Letter collection', 'Lima Barreto', 'Limerick (poetry)', 'Lionel Shriver', 'List of literary awards', 'List of narrative forms', 'List of narrative techniques', 'List of nonlinear narrative films', 'List of nonlinear narrative television series', 'List of poetry awards', 'List of writing genres', 'Lists of books', 'Lists of writers', 'Literary criticism', 'Literary genre', 'Literary journal', 'Literary magazine', 'Literary realism', 'Literary technique', 'Literary theory', 'Literature', 'Lives of Girls and Women', 'Lydia Davis', 'Lygia Fagundes Telles', 'Lyric poetry', 'Lyrics', 'MacGuffin', 'Madame de Lafayette', 'Magazine', 'Magic realism', 'Magical realism', 'Mahabharata', 'Mahasweta Devi', 'Manik Bandyopadhyay', 'Mannu Bhandari', 'Manuel Gutiérrez Nájera', 'Marcovaldo', 'Mario Vargas Llosa', 'Mark Twain', 'Mateo Falcone', 'Matteo Bandello', 'Mavis Gallant', 'Maxim Gorky', 'Memoir', 'Mental illness', 'Metaphor', 'Mia Couto', 'Minimalism', 'Minisaga', 'Mnemonic', 'Moacyr Scliar', 'Mode (literature)', 'Mood (literature)', 'Moral', 'Morality play', 'Motif (narrative)', 'Mozambique', 'Multiperspectivity', 'Munshi Premchand', 'Muriel Spark', 'Mystery fiction', 'Myth', 'Mário de Andrade', 'Mário de Sá-Carneiro', 'NBC Presents: Short Story', 'Naguib Mahfouz', 'Narration', 'Narrative', 'Narrative poetry', 'Narrative structure', 'Narrative therapy', 'Narratology', 'Nathaniel Hawthorne', 'Nationalism', 'Nature writing', 'Nautical fiction', 'Nebula Award', 'New Zealand', 'Nightfall (Asimov short story and novel)', 'Nightmare at 20,000 Feet', 'Nirmal Verma', 'Nobel Prize in Literature', 'Nobel prize', 'Non-fiction novel', 'Nonfiction', 'Nonlinear narrative', 'Nonsense poetry', 'Novel', 'Novella', 'Novellas', 'O. Henry', "Occam's razor", 'Ode', 'Odyssey', 'One Thousand and One Nights', 'Oral literature', 'Origin story', 'Orson Welles', 'Outline of literature', 'P.G. Wodehouse', 'Pace (narrative)', 'Pali', 'Panchatantra', 'Parable', 'Paranoid fiction', 'Past tense', 'Paul Heyse', 'Paulina Chiziane', 'Performance', 'Peripeteia', 'Peru', 'Peter Solis Nery', 'Philip Roth', 'Philippines', 'Philosophical fiction', 'Philosophy', 'Picaresque novel', 'Pin Drop Studio', 'Plain Tales from the Hills', 'Plot (narrative)', 'Plot device', 'Plot twist', 'Poetic justice', 'Poetry', 'Poland', 'Political fiction', 'Political narrative', 'Pop culture fiction', 'Portugal', 'Premchand', 'Premise (narrative)', 'Prequel', 'Present tense', 'Prose', 'Prosper Mérimée', 'Protagonist', 'Protasis', 'Proverb', 'Psychological fiction', 'Qasidah', 'Rabindranath Tagore', 'Radio drama', 'Ramapada Chowdhury', 'Ramayana', 'Ray Bradbury', 'Raymond Carver', 'Reboot (fiction)', 'Red herring', 'Retroactive continuity', 'Reveal (narrative)', 'Rhetoric', 'Rhythm', 'Richard Cumberland (dramatist)', 'Rip Van Winkle', 'Rising action', 'Roger de Coverley', 'Rogue literature', 'Roman Empire', 'Romance (prose fiction)', 'Romance novel', 'Rubem Fonseca', 'Rubén Darío', 'Rudyard Kipling', 'Runaway (book)', 'Russia', 'Ryūnosuke Akutagawa', 'S2CID (identifier)', 'Saadat Hasan Manto', 'Saga', 'Saki', 'Salon (gathering)', 'Sam Baker (writer)', 'Sanskrit', 'Sarat Chandra Chattopadhyay', 'Satire', 'Satyajit Ray', 'Science Fiction and Fantasy Writers of America', 'Science fiction', 'Screenwriting', "Scribner's Magazine", 'Sebastian Faulks', 'Self-fulfilling prophecy', 'Self-insertion', 'Sequel', 'Setting (narrative)', 'Shaggy dog story', 'Sharadindu Bandyopadhyay', 'Shirley Jackson', 'Shirshendu Mukhopadhyay', 'Short Stories (disambiguation)', 'Short Story (disambiguation)', 'Short film', 'Short stories', "Show, don't tell", 'Sketch story', 'Sociology of literature', 'Somerset Maugham', 'Sonnet', 'Sophia de Mello Breyner Andresen', 'Southern Gothic', 'Spanish language', 'Speculative fiction', 'Speech', 'Stephen Crane', 'Stephen King', 'Stock character', 'Story-Teller', 'Story arc', 'Story within a story', 'Storytelling', 'Straight man', 'Stream of consciousness', 'Stream of unconsciousness', 'Stylistic device', 'Subplot', 'Suchitra Bhattacharya', 'Sukumar Azhikode', 'Suleiman Cassamo', 'Sunday Times EFG Private Bank Short Story Award', 'Superhero fiction', 'Supernatural', 'Supporting character', 'Suspense', 'Suspension of disbelief', 'Symbolism (arts)', 'Tall tale', 'Tarasankar Bandyopadhyay', 'Television special', 'Tellability', 'The Adventures of Sherlock Holmes', 'The Aleph (short story)', 'The Beast in the Jungle', 'The Bet (short story)', 'The Birds (story)', 'The Body (2001 film)', 'The Bookman (New York)', 'The Cask of Amontillado', 'The Celebrated Jumping Frog of Calaveras County', 'The Cop and the Anthem', 'The Country of the Blind', "The Doll's House (short story)", 'The Dream of a Ridiculous Man', 'The Fall of the House of Usher', 'The Garden of Forking Paths', 'The Gold Bug', 'The Hitch-Hiker (radio play)', 'The Jungle Book', 'The Lady with the Dog', 'The Last Leaf', 'The Lawnmower Man', 'The Legend of Sleepy Hollow', 'The Library of Babel', 'The Lonely Voice', 'The Lottery', 'The Love of a Good Woman', 'The Murders in the Rue Morgue', 'The New Yorker', 'The Nutcracker and the Mouse King', 'The Philosophy of Composition', 'The Piazza Tales', 'The Pit and the Pendulum', 'The Progress of Love', 'The Purloined Letter', 'The Ransom of Red Chief', 'The Real Thing (story)', 'The Sandman (short story)', 'The Saturday Evening Post', 'The Secret Life of Walter Mitty', 'The Shawshank Redemption', 'The Skylight Room', 'The Snows of Kilimanjaro (short story)', 'The Strand Magazine', 'The Swimmer (short story)', 'The Tell-Tale Heart', 'The Three Strangers', 'The Yellow Book', 'Theme (narrative)', 'Theological fiction', 'Thomas Hardy', 'Thomas Mann', 'Thousand and One Nights', 'Three-act structure', 'Thriller (genre)', 'Tillie Olsen', 'Title character', 'Toba Tek Singh', 'Tone (literature)', 'Total Recall (1990 film)', 'Tragedy', 'Tragic hero', 'Tragicomedy', 'Travel by Wire!', 'Travel literature', 'Tritagonist', 'Trope (literature)', 'Twenty-One Stories', 'Twenty-six Men and a Girl', 'Twice-Told Tales', 'Types of fiction with multiple endings', 'United Kingdom', 'United States', 'Unreliable narrator', 'Urban fiction', 'Uruguay', 'Utopia', 'V.S. Pritchett', 'Vergílio Ferreira', 'Verse (poetry)', 'Verse novel', 'Vignette (literature)', 'Villain', 'Villanelle', 'Virginia Woolf', 'Voltaire', 'W. Somerset Maugham', 'Wallace Stegner', 'Walter Scott', 'Washington Irving', 'Western canon', 'Western fiction', 'Who Do You Think You Are? (book)', 'Who Goes There?', 'Will Self', 'William Boyd (writer)', 'William Faulkner', 'Word count', 'World War II', 'Worldbuilding', 'Writing style', 'Xavier de Maistre', 'Yukio Mishima']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles with style issues', 'All articles with unsourced statements', 'Articles needing additional references from August 2021', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NARA identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Articles with unsourced statements from August 2021', 'CS1 maint: url-status', 'Commons category link is on Wikidata', 'Fiction forms', 'Pages using sidebar with the child parameter', 'Short description matches Wikidata', 'Short stories', 'Wikipedia articles needing reorganization from June 2021', 'Wikipedia articles with style issues from August 2021']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/1/1c/Ambox_rewrite.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Books-aj.svg_aj_ashton_01.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Livre_ouvert.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/f/f2/Edit-clear.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg']
+
+####### REFERENCES #######
+
+['http://scholar.google.com/scholar?q=%22Short+story%22', 'http://www.google.com/search?&q=%22Short+story%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Short+story%22', 'http://www.google.com/search?tbm=nws&q=%22Short+story%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Short+story%22+-wikipedia', 'http://thephoenix.com/Portland/Arts/63088-Who-reads-short-shorts/', 'http://edinburgh.universitypressscholarship.com/view/10.3366/edinburgh/9781474427739.001.0001/upso-9781474427739', 'http://jfmueller.faculty.noctrl.edu/toolbox/examples/cihock10/narrative.pdf', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007541213805171', 'http://doi.org/10.1093%2Facprof:osobl%2F9780199862078.001.0001', 'http://doi.org/10.1093%2Foso%2F9780198839224.001.0001', 'http://doi.org/10.3366%2Fedinburgh%2F9781474427739.001.0001', 'http://www.eldritchpress.org/nh/nhpoe1.html', 'http://www.jstor.org/stable/24157289', 'http://nobelprize.org/nobel_prizes/literature/laureates/1910/index.html', 'http://nobelprize.org/nobel_prizes/literature/laureates/1982/index.html', 'http://nebulas.sfwa.org/about-the-nebulas/nebula-rules', 'http://www.worldcat.org/issn/0019-5804', 'http://www.worldcat.org/issn/0140-0460', 'http://www.worldcat.org/issn/0307-1235', 'http://www.prospectmagazine.co.uk/2006/07/william-boyd-short-history-of-the-short-story', 'http://www.simonandschuster.co.uk/books/A-Short-Affair/Simon-Oldfield/9781471147326', 'https://www.britannica.com/biography/Brander-Matthews', 'https://www.thebookseller.com/news/fuller-wins-royal-academy-pin-drop-short-story-prize-338201', 'https://www.thebookseller.com/news/short-story-collections-surge-half-value-and-third-volume-2017-709376', 'https://oxford.universitypressscholarship.com/view/10.1093/acprof:osobl/9780199862078.001.0001/acprof-9780199862078', 'https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198839224.001.0001/oso-9780198839224', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph124459&CON_LNG=ENG', 'https://catalogue.bnf.fr/ark:/12148/cb11932861c', 'https://data.bnf.fr/ark:/12148/cb11932861c', 'https://catalog.archives.gov/id/10629824', 'https://id.loc.gov/authorities/subjects/sh85121965', 'https://d-nb.info/gnd/4033842-3', 'https://id.ndl.go.jp/auth/ndlna/00572677', 'https://archive.org/details/columbiacompanio00blan', 'https://archive.org/details/lonelyvoicestudy0000ocon', 'https://archive.org/details/oxfordcompanionthart', 'https://archive.org/details/penguindictionar00cudd', 'https://archive.org/details/penguindictionar00cudd/page/864', 'https://archive.org/details/referenceguideto00wats', 'https://archive.org/details/shortstorycycleg0000mann', 'https://archive.org/details/shortstorywriter00magi', 'https://web.archive.org/web/20081011192641/http://nobelprize.org/nobel_prizes/literature/laureates/1910/index.html', 'https://web.archive.org/web/20081017212833/http://nobelprize.org/nobel_prizes/literature/laureates/1982/index.html', 'https://web.archive.org/web/20090821224948/http://thephoenix.com/Portland/Arts/63088-Who-reads-short-shorts', 'https://web.archive.org/web/20170816023001/https://shortstoryaward.co.uk/articles/view/97', 'https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/culture/books/10831961/The-irresistible-rise-of-the-short-story.html', 'https://www.jstor.org/action/doBasicSearch?Query=%22Short+story%22&acc=on&wc=on', 'https://www.jstor.org/stable/24157289', 'https://www.nobelprize.org/prizes/literature/2013/munro/25382-interview-with-alice-munro/', 'https://www.nobelprize.org/prizes/literature/2013/summary/', 'https://rsliterature.org/award/v-s-pritchett-short-story-prize/', 'https://api.semanticscholar.org/CorpusID:165346441', 'https://www.thelondonmagazine.org/the-london-magazine-short-story-prize-2019/', 'https://www.wikidata.org/wiki/Q49084#identifiers', 'https://www.bbc.co.uk/programmes/articles/2QXsYTZYWZ40CTc8lbH0FdV/how-to-enter', 'https://www.prospectmagazine.co.uk/magazine/william-boyd-short-history-of-the-short-story', 'https://shortstoryaward.co.uk/articles/view/97', 'https://www.standard.co.uk/lifestyle/esmagazine/salon-society-highbrow-nights-out-9771072.html', 'https://www.telegraph.co.uk/culture/books/10831961/The-irresistible-rise-of-the-short-story.html', 'https://www.thetimes.co.uk/article/short-story-revival-cuts-novels-down-to-size-mj6xzz535']
+
+####### SUMMARY #######
+
+A short story is a piece of prose fiction that typically can be read in one sitting and focuses on a self-contained incident or series of linked incidents, with the intent of evoking a single effect or mood. The short story is one of the oldest types of literature and has existed in the form of legends, mythic tales, folk tales, fairy tales, tall tales, fables and anecdotes in various ancient communities around the world. The modern short story developed in the early 19th century.
+
+####### CONTENT #######
+
+A short story is a piece of prose fiction that typically can be read in one sitting and focuses on a self-contained incident or series of linked incidents, with the intent of evoking a single effect or mood. The short story is one of the oldest types of literature and has existed in the form of legends, mythic tales, folk tales, fairy tales, tall tales, fables and anecdotes in various ancient communities around the world. The modern short story developed in the early 19th century.
+
+
+== Definition ==
+The short story is a crafted form in its own right. Short stories make use of plot, resonance, and other dynamic components as in a novel, but typically to a lesser degree. While the short story is largely distinct from the novel or novella/short novel, authors generally draw from a common pool of literary techniques. The short story is sometimes referred to as a genre.Determining what exactly defines a short story has been recurrently problematic. A classic definition of a short story is that one should be able to read it in one sitting, a point most notably made in Edgar Allan Poe's essay "The Philosophy of Composition" (1846). H.G. Wells described the purpose of the short story as "The jolly art, of making something very bright and moving; it may be horrible or pathetic or funny or profoundly illuminating, having only this essential, that it should take from fifteen to fifty minutes to read aloud." According to William Faulkner, a short story is character driven and a writer's job is to "...trot along behind him with a paper and pencil trying to keep up long enough to put down what he says and does.”Some authors have argued that a short story must have a strict form. Somerset Maugham thought that the short story "must have a definite design, which includes a point of departure, a climax and a point of test; in other words, it must have a plot". Hugh Walpole had a similar view: "A story should be a story; a record of things happening full of incidents, swift movements, unexpected development, leading through suspense to a climax and a satisfying denouement."This view of the short story as a finished product of art is however opposed by Anton Chekov, who thought that a story should have neither a beginning nor an end. It should just be a "slice of life", presented suggestively. In his stories, Chekov does not round off the end but leaves it to the readers to draw their own conclusions.Sukumar Azhikode defined a short story as "a brief prose narrative with an intense episodic or anecdotal effect". Flannery O'Connor emphasized the need to consider what is exactly meant by the descriptor short. Short story writers may define their works as part of the artistic and personal expression of the form. They may also attempt to resist categorization by genre and fixed formation.William Boyd, British author and short story writer has said:
+
+[short stories] seem to answer something very deep in our nature as if, for the duration of its telling, something special has been created, some essence of our experience extrapolated, some temporary sense has been made of our common, turbulent journey towards the grave and oblivion.
+In the 1880s, the term "short story" acquired its modern meaning – having initially referred to children's tales. During the early to mid 20th century, the short story underwent expansive experimentation which further hindered attempts to comprehensively provide a definition. Longer stories that cannot be called novels are sometimes considered "novellas" or novelettes and, like short stories, may be collected into the more marketable form of "collections", often containing previously unpublished stories. Sometimes, authors who do not have the time or money to write a novella or novel decide to write short stories instead, working out a deal with a popular website or magazine to publish them for profit. Around the world, the modern short story is comparable to lyrics, dramas, novels and essays – although examination of it as a major literary form remains diminished.
+
+
+== Length ==
+In terms of length, word count is typically anywhere from 1,000 to 4,000 for short stories; however, some have 15,000 words and are still classed as short stories. Stories of fewer than 1,000 words are sometimes referred to as "short short stories", or "flash fiction".Short stories have no set length. In terms of word count, there is no official demarcation between an anecdote, a short story, and a novel. Rather, the form's parameters are given by the rhetorical and practical context in which a given story is produced and considered so that what constitutes a short story may differ between genres, countries, eras, and commentators. Like the novel, the short story's predominant shape reflects the demands of the available markets for publication, and the evolution of the form seems closely tied to the evolution of the publishing industry and the submission guidelines of its constituent houses.As a point of reference for the genre writer, the Science Fiction and Fantasy Writers of America define short story length in the Nebula Awards for science fiction submission guidelines as having a word count of fewer than 7,500 words.
+
+
+== History ==
+Short stories date back to oral storytelling traditions which originally produced epics such as the Ramayana, the Mahabharata, and Homer's Iliad and Odyssey. Oral narratives were often told in the form of rhyming or rhythmic verse, often including recurring sections or, in the case of Homer, Homeric epithets. Such stylistic devices often acted as mnemonics for easier recall, rendition, and adaptation of the story. Short sections of verse might focus on individual narratives that could be told at one sitting. The overall arc of the tale would emerge only through the telling of multiple such sections.
+According to Azhikode, the short story has existed "in the most ancient times as the parable, the adventure-story of men, gods and demons, the account of daily events, the joke". All languages have had variations of short tales and stories almost since their inceptions. Emerging in the 17th century from oral storytelling traditions, the short story has grown to encompass a body of work so diverse as to defy easy characterization. "The short story as a carefully contrived literary form is of modern origin", wrote Azhikode.Another ancient form of a short story, the anecdote, was popular under the Roman Empire. Anecdotes functioned as a sort of parable, a brief realistic narrative that embodies a point. Many surviving Roman anecdotes were collected in the 13th or 14th century as the Gesta Romanorum. Anecdotes remained popular throughout Europe well into the 18th century with the publication of the fictional anecdotal letters of Sir Roger de Coverley. 
+In Europe, the oral story-telling tradition began to develop into written stories in the early 14th century, most notably with Geoffrey Chaucer's Canterbury Tales and Giovanni Boccaccio's Decameron. Both of these books are composed of individual short stories, which range from farce or humorous anecdotes to well-crafted literary fiction, set within a larger narrative story (a frame story), although the frame-tale device was not adopted by all writers. At the end of the 16th century, some of the most popular short stories in Europe were the darkly tragic "novella" of Matteo Bandello, especially in their French translation. 
+The mid 17th century in France saw the development of a refined short novel, the "nouvelle", by such authors as Madame de Lafayette. Traditional fairy tales began to be published in the late 17th century; one of the most famous collections was by Charles Perrault. The appearance of Antoine Galland's first modern translation of the 1001 Arabian Nights, a storehouse of Middle Eastern folk and fairy tales, is the Thousand and One Nights (or Arabian Nights) (from 1704; another translation appeared in 1710–12). His translation would have an enormous influence on the 18th-century European short stories of Voltaire, Diderot and others.
+In India, there is a rich heritage of ancient folktales as well as a compiled body of short fiction which shaped the sensibility of modern Indian short story. Some of the famous Sanskrit collections of legends, folktales, fairy tales, and fables are Panchatantra, Hitopadesha and Kathasaritsagara. Jataka tales, originally written in Pali, is a compilation of tales concerning the previous births of Lord Gautama Buddha. The Frame story, also known as the frame narrative or story within a story, is a narrative technique that probably originated in ancient Indian works such as Panchatantra.The evolution of printing technologies and periodical editions were among the factors contributing to the increasing importance of short story publications. Pioneering the rules of the genre in the Western canon were, among others, Rudyard Kipling (United Kingdom), Anton Chekhov (Russia), Guy de Maupassant (France), Manuel Gutiérrez Nájera (Mexico) and Rubén Darío (Nicaragua).
+
+
+=== 1790–1850 ===
+Early examples of short stories were published separately between 1790 and 1810, but the first true collections of short stories appeared between 1810 and 1830 in several countries.The first short stories in the United Kingdom were gothic tales like Richard Cumberland's "remarkable narrative", "The Poisoner of Montremos" (1791). Novelists such as Sir Walter Scott and Charles Dickens also wrote influential short stories during this time. Germany soon followed the United Kingdom's example by producing short stories; the first collection of short stories was by Heinrich von Kleist in 1810 and 1811.
+Edgar Allen Poe became one of the first American short story writers, taking a cosmopolitan approach to writing. His concise technique, deemed the "single effect", has had tremendous influence on the formation of the modern short story.Examples include:
+
+France
+Prosper Mérimée
+Mateo Falcone (1829)
+Germany
+E. T. A. Hoffmann
+"The Nutcracker and the Mouse King" (1816),
+"The Sandman",
+Brothers Grimm
+first volume of collected fairy tales (1812)
+United States
+Edgar Allan Poe
+"The Fall of the House of Usher",
+"The Tell-Tale Heart",
+"The Cask of Amontillado",
+"The Pit and the Pendulum",
+"The Gold Bug",
+"The Murders in the Rue Morgue"- one of the first detective stories
+"The Purloined Letter"- one of the first detective stories
+Nathaniel Hawthorne
+Twice-Told Tales (1837)
+John Neal
+"Otter-Bag, the Oneida Chief" (1829)
+"David Whicher" (1832)
+
+
+=== 1850–1900 ===
+In the latter half of the 19th century, the growth of print magazines and journals created a strong demand for short fiction of between 3,000 and 15,000 words. In 1890s Britain, literary periodicals such as The Yellow Book, Black & White, and The Strand Magazine popularized the short story. Britain was not alone in the endeavor to strengthen the short story movement. The most prolific French author of short stories was Guy de Maupassant, composing the short stories "Boule de Suif" ("Ball of Fat", 1880) and "L'Inutile Beauté" ("The Useless Beauty", 1890), which are important examples of French realism. The greatest specialist of the Russian short story was Anton Chekhov.In the late nineteenth and early twentieth century in India, many writers created short stories centered on daily life and the social scene of the different socioeconomic groups. Rabindranath Tagore published more than 150 short stories on the lives of the poor and oppressed such as peasants, women, and villagers under colonial misrule and exploitation. Sarat Chandra Chattopadhyay, Tagore's contemporary, was another pioneer in Bengali short stories. Chattopadhyay's stories focused on the social scenario of rural Bengal and the lives of common people, especially the oppressed classes. The prolific Indian author of short stories Munshi Premchand, pioneered the genre in the Hindustani language, writing over 200 short stories and many novels in a style characterized by realism and an unsentimental and authentic introspection into the complexities of Indian society.
+In the United States, Washington Irving was responsible for creating some of the first short stories of American origin, "The Legend of Sleepy Hollow" and "Rip Van Winkle". Twenty years later, in 1884, Brander Matthews, the first American professor of dramatic literature, published The Philosophy of the Short-Story. During that same year, Matthews was the first one to name the emerging genre "short story". Another theorist of narrative fiction was Henry James, who produced some of the most influential short narratives of the time. 
+The spread of the short story movement continued into South America, specifically Brazil. The novelist Machado de Assis was the most important short story writer from Brazil at the time, under the influences of Xavier de Maistre, Laurence Sterne, Guy de Maupassant, among others. At the end of the 19th century, the writer João do Rio became popular by short stories about the bohemianism. Writing about the former slaves, and very ironically about nationalism, Lima Barreto died almost forgotten, but became very popular in the 20th century.Examples include:
+
+India
+Rabindranath Tagore
+"The Kabuliwala"
+"The Hungry Stone"
+"The Wife's Letter"
+"The Parrot's Training"
+"Punishment"
+Sarat Chandra Chattopadhyay
+"Bindu's Son"
+"Abhagi's Heaven"
+"Mahesh"
+"Ram's Good Lesson"
+"Lalu" (3 parts)
+"The Husband"
+Premchand
+"The Shroud"
+"The Cost of Milk"
+"Lottery"
+Poland
+Bolesław Prus
+"A Legend of Old Egypt" (1888)
+Portugal
+Almeida Garrett
+Alexandre Herculano
+Eça de Queiroz
+Russia
+Ivan Turgenev
+A Sportsman's Sketches
+Fyodor Dostoyevski
+"The Meek One" (1876)
+"The Dream of a Ridiculous Man" (1877)
+Leo Tolstoy
+"Ivan the Fool" (1885)
+"How Much Land Does a Man Need?" (1886)
+"Alyosha the Pot" (1905)
+Anton Chekhov
+"The Bet" (1889)
+"Ward No. 6" (1892)
+"The Lady with the Dog" (1899)
+Maxim Gorky
+"Twenty-six Men and a Girl" (1899)
+United Kingdom
+Thomas Hardy
+"The Three Strangers" (1883),
+"A Mere Interlude" (1885),
+"Barbara of the House of Grebe" (1890)
+Rudyard Kipling
+Plain Tales from the Hills (1888)
+The Jungle Book (1894)
+Arthur Conan Doyle
+The Adventures of Sherlock Holmes (1892)- detective story
+H.G. Wells- Science fiction
+"The Country of the Blind" (1904)
+United States
+Herman Melville
+The Piazza Tales (1856)
+Mark Twain
+"The Celebrated Jumping Frog of Calaveras County"
+Henry James
+"The Real Thing" (1892)
+"Maud-Evelyn"
+The Beast in the Jungle (1903)
+Kate Chopin
+Stephen Crane
+
+
+=== 1900–1945 ===
+In the United Kingdom, periodicals like The Strand Magazine and Story-Teller contributed to the popularity of the short story. Several authors during this time wrote short stories centered on the devices of satire and humor. One such author, Hector Hugh Munro (1870–1916), also known by his pen name of Saki, wrote satirical short stories about Edwardian England. P.G. Wodehouse published his first collection of comical stories about the valet, Jeeves, in 1917. Other common genres of short stories during the early to mid 1900s in England were detective stories and thrillers. Many of these detective stories were written by authors such as G.K. Chesterton, Agatha Christie, and Dorothy L. Sayers. Graham Greene wrote his collection of short stories, Twenty-One Stories, between 1929 and 1954. Many of these short stories are classified in the genres of thriller, suspense, or even horror. The European short story movement during this time was not unique to England. In Ireland, James Joyce published his short story collection Dubliners in 1914. These stories, written in a more accessible style than his later novels, are based on careful observation of the inhabitants of his birth city.
+In the first half of the 20th century, a number of high-profile American magazines such as The Atlantic Monthly, Harper's Magazine, The New Yorker, Scribner's, The Saturday Evening Post, Esquire, and The Bookman published short stories in each issue. The demand for quality short stories was so great and the money paid so well that F. Scott Fitzgerald repeatedly turned to short-story writing to pay his numerous debts. His first collection, Flappers and Philosophers, appeared in book form in 1920. Ernest Hemingway's concise writing style was perfectly suited for shorter fiction.  Influenced by the short stories of Stephen Crane and Jack London, Hemingway's work "marks a new phase in the history of the short story".In Uruguay, Horacio Quiroga became one of the most influential short story writers in the Spanish language. With a clear influence from Edgar Allan Poe, he had a great skill in using the supernatural and the bizarre to show the struggle of man and animal to survive. He also excelled in portraying mental illness and hallucinatory states. 
+In India, Saadat Hasan Manto, the master of the short story in the Urdu language, is revered for his exceptional depth, irony, and sardonic humor. The author of some 250 short stories, radio plays, essays, reminiscences, and a novel, Manto is widely admired for his analyses of violence, bigotry, prejudice, and the relationships between reason and unreason. Combining realism with surrealism and irony, Manto's works, such as the celebrated short story Toba Tek Singh, are aesthetic masterpieces that continue to give profound insight into the nature of human loss, violence, and devastation. Another famous Urdu writer is Ismat Chughtai, whose short story, "Lihaaf" (The Quilt), on a lesbian relationship between an upper-class Muslim woman and her maidservant created great controversy following its publication in 1942.
+Examples include:
+
+Bohemia
+Franz Kafka
+"A Hunger Artist" (1922)
+Brazil
+Mário de Andrade
+António de Alcantâra Machado
+Brás, Bexiga e Barra Funda (1928)
+Graciliano Ramos
+Carlos Drummond de Andrade
+England
+Virginia Woolf
+"Kew Gardens" (1919)
+"Solid Objects"
+W. Somerset Maugham
+V.S. Pritchett
+Evelyn Waugh
+Muriel Spark
+L.P. Hartley
+Arthur C. Clarke
+"Travel by Wire!" (1937)
+Germany
+Thomas Mann
+Hindi
+Jaishankar Prasad
+Japan
+Ryūnosuke Akutagawa
+New Zealand
+Katherine Mansfield
+"The Doll's House" (1922)
+Portugal
+Mário de Sá-Carneiro
+Florbela Espanca
+Fernando Pessoa
+United States
+O. Henry
+"The Ransom of Red Chief",
+"The Cop and the Anthem",
+"The Skylight Room",
+"After Twenty Years",
+"The Last Leaf",
+"A Retrieved Reformation"
+Ernest Hemingway
+"A Clean, Well-Lighted Place" (1926)
+"Hills Like White Elephants" (1927)
+"The Snows of Kilimanjaro" (1936)
+William Faulkner
+Go Down, Moses
+Dorothy Parker
+"Big Blonde" (1929)
+Isaac Asimov
+"Nightfall"
+
+
+=== Since 1945 ===
+Following World War II, the artistic range and amount of writers of short stories grew significantly. Due in part to frequent contributions from John O'Hara, The New Yorker would demonstrate substantial influence as a weekly short story publication for more than half a century. Shirley Jackson's story, "The Lottery" (1948), elicited the strongest response in the magazine's history to that time. Other frequent contributors during the 1940s included John Steinbeck, Jean Stafford, Eudora Welty, and John Cheever, who is best known for "The Swimmer" (1964), beautifully blending realism and surrealism.
+Many other American short story writers greatly influenced the evolving form of the short story. For example, J.D. Salinger's Nine Stories (1953) experimented with point of view and voice, while Flannery O'Connor's well-known story, "A Good Man is Hard to Find" (1955), reinvigorated the Southern Gothic style. Cultural and social identity played a considerable role in much of the short fiction of the 1960s. Philip Roth and Grace Paley cultivated distinctive Jewish-American voices. Tillie Olsen's "I Stand Here Ironing" (1961) adopted a consciously feminist perspective. James Baldwin's collection, Going to Meet the Man (1965), told stories of African-American life. Science fiction stories with a special poetic touch was a genre developed with great popular success by Ray Bradbury. Stephen King published many science fiction short stories in men's magazines in the 1960s and after. King's interest is in the supernatural and macabre. Donald Barthelme and John Barth produced works in the 1970s that demonstrate the rise of the postmodern short story. While traditionalism maintained a significant influence on the form of the short story, minimalism gained widespread influence in the 1980s, most notably in the work of Raymond Carver and Ann Beattie. Carver helped usher in an "extreme minimalist aesthetic" and expand the scope of the short story, as did Lydia Davis, through her idiosyncratic and laconic style.The Argentine writer Jorge Luis Borges is one of the most famous writers of short stories in the Spanish language. "The Library of Babel" (1941) and "The Aleph" (1945) handle difficult subjects like infinity. Borges won American fame with "The Garden of Forking Paths", published in the August 1948 issue of Ellery Queen's Mystery Magazine. Two of the most representative writers of the Magical realism genre are also widely known Argentinian short story writers Adolfo Bioy Casares and Julio Cortázar. The Nobel prize laureate author Gabriel García Márquez and the Uruguay writer Juan Carlos Onetti are other significant magical realist short story writers from the Hispanic world. In Brazil, writing about poverty and the favelas, João Antonio became a well-known writer. Detective literature was led by Rubem Fonseca. João Guimarães Rosa wrote short stories in the book Sagarana using a complex, experimental language based on tales of oral tradition.
+The role of the bi-monthly magazine Desh (first published in 1933) is imperative in the development of the Bengali short story. Two of the most popular detective story writers of Bengali literature are Sharadindu Bandyopadhyay (the creator of Byomkesh Bakshi) and Satyajit Ray (the creator of Feluda).
+Examples include:
+
+Angola
+José Luandino Vieira
+José Eduardo Agualusa
+Bengali
+Tarasankar Bandyopadhyay,
+Manik Bandyopadhyay
+Mahasweta Devi,
+Shirshendu Mukhopadhyay,
+Suchitra Bhattacharya,
+Ramapada Chowdhury
+Humayun Ahmed
+Brazil
+Clarice Lispector,
+Lygia Fagundes Telles
+Adélia Prado
+Dalton Trevisan,
+Autran Dourado Moacyr Scliar
+Carlos Heitor Cony,
+Hilda Hilst
+Caio Fernando Abreu
+Egypt
+Naguib Mahfouz- Nobel Prize Winner
+Hindi
+Amrita Pritam
+Dharamvir Bharati
+Bhisham Sahni
+Krishna Sobti
+Nirmal Verma
+Kamleshwar (writer)
+Mannu Bhandari
+Harishankar Parsai
+Italy
+Italo Calvino
+Marcovaldo (1963)
+Japan
+Kenzaburō Ōe (Nobel prize winner of 1994),
+Yukio Mishima
+Haruki Murakami.
+Mozambique
+Suleiman Cassamo,
+Paulina Chiziane,
+Eduardo White
+Mia Couto
+Peru
+Mario Vargas Llosa- Nobel Prize Laureate
+Philippines
+Peter Solis Nery
+"Lirio" (1998)
+"Candido" (2007)
+"Donato Bugtot" (2011)
+"Si Padre Olan kag ang Dios" (2013)
+Portugal
+Vergílio Ferreira,
+Fernando Goncalves Namora
+Sophia de Mello Breyner Andresen
+José Saramago
+Manuel da Silva Ramos
+United Kingdom
+Daphne du Maurier
+"The Birds" (1952)
+"Don't Look Now" (1971)
+United States
+Frank O'Connor
+The Lonely Voice
+Wallace Stegner
+John Updike
+Joyce Carol Oates
+
+
+== Sales and profits ==
+21st-century short story writers run into the thousands. Female short story writers have seen increased critical attention, with British authors, in particular, exploring modern feminist politics in their writings.Sales of short-story fiction are strong. In the UK, sales jumped 45% in 2017, driven by collections from international names such as Alice Munro, new writers to the genre such as Tom Hanks, and the revival of short story salons such as those held by the short fiction company Pin Drop Studio.More than 690,000 short stories and anthologies were sold in the UK in 2017, generating £5.88 million, the genre's highest sales since 2010. Throughout the 2010s, a hypothetical "renaissance" was frequently speculated; Sam Baker deemed it the "perfect literary form for the 21st century".In 2012, Pin Drop Studio launched a short story salon held regularly in London and other major cities. Short story writers who have appeared at the salon to read their short stories to a live audience include Ben Okri, Lionel Shriver, Elizabeth Day, A.L. Kennedy, William Boyd, Graham Swift, David Nicholls, Will Self, Sebastian Faulks, Julian Barnes, Evie Wylde and Claire Fuller.Canadian short story writers include Alice Munro, Mavis Gallant, and Lynn Coady. In 2013, Alice Munro became the first writer of only short stories to win the Nobel Prize in Literature. Her award-winning short story collections include Dance of the Happy Shades, Lives of Girls and Women, Who Do You Think You Are?, The Progress of Love, The Love of a Good Woman and Runaway.
+
+
+== Awards ==
+Prominent short story awards such as The Sunday Times Short Story Award, the BBC National Short Story Award, the Royal Society of Literature's V.S. Pritchett Short Story Prize, The London Magazine Short Story Prize [1], the Pin Drop Studio Short Story Award and many others, attract hundreds of entries each year. Published and non-published writers take part, sending their stories from around the world.In 2013, Alice Munro was awarded the Nobel Prize in Literature—her citation read "master of the contemporary short story." She said she hopes the award would bring readership for the short story, as well as recognize the short story on its own merit, rather than "something that people do before they write their first novel." Short stories have been cited with regard to other laureates as well, Paul Heyse in 1910 and Gabriel García Márquez in 1982.
+
+
+== Adaptations ==
+Short stories are sometimes adapted for radio, TV and film:
+
+Radio dramas, as on NBC Presents: Short Story (1951–52). A popular example of this is "The Hitch-Hiker", read by Orson Welles.
+Short films, often rewritten by other people, and even as feature-length films; such is the case of "Children of the Corn", "The Shawshank Redemption", "The Birds", "Brokeback Mountain", "Who Goes There?", "Duel", "A Sound of Thunder", "The Body", "Total Recall", "The Lawnmower Man", "Hearts in Atlantis", and "The Secret Life of Walter Mitty".
+Television specials, such as "12:01 PM" (1993 television movie), "Nightmare at 20,000 Feet" (October 11, 1963, on The Twilight Zone), "The Lottery", and "Button, Button" (on The Twilight Zone).
+
+
+== Characteristics ==
+As a concentrated, concise form of narrative and descriptive prose fiction, the short story has been theorized through the traditional elements of dramatic structure: exposition (the introduction of setting, situation, and main characters), complication (the event that introduces the conflict), rising action, crisis (the decisive moment for the protagonist and his commitment to a course of action), climax (the point of highest interest in terms of the conflict and the point with the most action) and resolution (the point when the conflict is resolved). Because of their length, short stories may or may not follow this pattern. For example, modern short stories only occasionally have an exposition, more typically beginning in the middle of the action (in medias res). As with longer stories, plots of short stories also have a climax, crisis, or turning point. In general, short stories feature endings which are either conclusive or open-ended. Ambiguity is a recurrent trope in short stories; by means of ending, characterisation or length. As with any art form, the exact characteristics of a short story will vary by the creator.Characteristic of short story authors, according to professor of English, Clare Hanson, was for them to be "losers and loners, exiles, women, blacks – writers who for one reason or another have not been part of the ruling “narrative” or epistemological/experiential framework of their society".
+
+
+== See also ==
+Anthology
+Conte
+Conte cruel
+Drabble
+Flash fiction (also called microfiction)
+Literary journal
+Minisaga
+Sketch story
+Tall tale
+Vignette
+
+
+== References ==
+
+
+== Bibliography ==
+Browns, Julie, ed. (1997). Ethnicity and the American Short Story. New York: Garland.
+Dillard, Annie. (1990). The Writing Life. Harper Perennial. ISBN 0-06-016156-6
+Gelfant, Blanche; Lawrence Graver, eds. (2000). The Columbia Companion to the Twentieth-Century American Short Story. Columbia University Press. ISBN 9780231110983.
+Hart, James; Phillip Leininger, eds. (1995). Oxford Companion to American Literature. Oxford University Press. ISBN 978-0-19-506548-0.
+Hayes, Kevin J. (2012-03-15). A Journey Through American Literature. Oxford University Press. doi:10.1093/acprof:osobl/9780199862078.001.0001. ISBN 978-0-19-986207-8.
+Ibáñez, José R; José Francisco Fernández; Carmen M. Bretones, eds. (2007). Contemporary Debates on the Short Story. Bern: Lang.
+Iftekharrudin, Farhat; Joseph Boyden; Joseph Longo; Mary Rohrberger, eds. (2003). Postmodern Approaches to the Short Story. Westport, CN: Praeger.
+Kennedy, Gerald J., ed. (2011). Modern American Short Story Sequences: Composite Fictions and Fictive Communities. Cambridge: Cambridge University Press.
+Lohafer, Susan (2003). Reading for Storyness: Preclosure Theory, Empirical Poetics, and Culture in the Short Story. Baltimore, MD: Johns Hopkins University Press.
+Magill, Frank, ed. (1997). Short Story Writers. Pasadena, California: Salem Press.
+Mitchell, Lee Clark (2019-04-04). More Time: Contemporary Short Stories and Late Style (1 ed.). Oxford University Press. doi:10.1093/oso/9780198839224.001.0001. ISBN 978-0-19-883922-4.
+Patea, Viorica, ed. (2012). Short Story Theories: A Twenty-First-Century Perspective. Amsterdam: Rodopi.
+Scofield, Martin, ed. (2006). The Cambridge Introduction to the American Short Story. Cambridge: Cambridge University Press.
+Storr, Will (2020). The Science of Storytelling William Collins Publications ISBN 978-0-00-827697-3
+The Persephone Book of Short Stories (2012) Persephone Books Ltd. ISBN 978-1903-155-905
+Watson, Noelle, ed. (1994). Reference Guide to Short Fiction. Detroit: St. James Press. ISBN 9781558623347.
+Winther, Per; Jakob Lothe; Hans H. Skei, eds. (2004). The Art of Brevity: Excursions in Short Fiction Theory and Analysis. Columbia, SC: University of South Carolina Press.
+Young, Emma (2018-09-20). Contemporary Feminism and Women's Short Stories. Vol. 1. Edinburgh University Press. doi:10.3366/edinburgh/9781474427739.001.0001. ISBN 978-1-4744-2773-9. S2CID 165346441.
+
+
+=== Still often cited ===
+Bates, HE (1988). The Modern Short Story from 1809 to 1953. London: Hale.
+Eikhenbaum, Boris (1982). "How Gogol's 'Overcoat' is Made".  In Elizabeth Trahan (ed.). Gogol's "Overcoat": An Anthology of Critical Essays. Ann Arbor, MI: Ardis.
+Hanson, Clare (1985). Short Stories and Short Fictions, 1880–1980. New York: St. Martin's Press.
+LoCicero, Donald (1970). Novellentheorie: The Practicality of the Theoretical. (About the German theories of the Short Story) The Hague: Mouton.
+Lohafer, Susan; Jo Ellyn Clarey, eds. (1990). Short Story Theory at a Crossroads. Baton Rouge, LA: Louisiana State University Press.
+Mann, Susan Garland (1989). The Short Story Cycle: A Genre Companion and Reference Guide. New York: Greenwood Press.
+O'Connor, Frank (1963). The Lonely Voice: A Study of the Short Story. Cleveland, OH: World Publishing Company.
+O'Faoláin, Seán (1951). The short story. Cork: Mercier, 1948; New York: Devin-Adair.
+Rohrberger, Mary (1966). Hawthorne and the Modern Short Story: A Study in Genre. The Hague: Mouton.
+
+
+== External links ==
+
+The Short History of the Short Story by William Boyd
+Writing Your Own Short Story - Jon Mueller, Professor of Psychology, North Central College
+

@@ -1,0 +1,507 @@
+####### TITLE #######
+
+Explosive
+
+####### LINKS #######
+
+["1,1'-Azobis-1,2,3-triazole", '1,2,4-Butanetriol trinitrate', '1,2-Bis 2,2-difluro 2-nitroacetoxythane', '1,5-Dinitro naphthalene', '1-Diazidocarbamoyl-5-azidotetrazole', '2,2,2-Trinitroethyl orthocarbonate', '2,4-Dinitrophenylhydrazine', '4-Dimethyl amino phenyl pentazole', '4-Dimethylaminophenylpentazole', '65th United States Congress', 'ADR (treaty)', 'AIR Shipper', 'ANFO', 'ANNMAL', 'Acetone peroxide', 'Acetylide', 'Aerosol can', 'Alexander Solomonovich Kompaneyets', 'Alfred Nobel', 'Alkali metal Ozonides', 'Alkali metals', 'Alpha particle', 'Aluminium', 'Aluminum Orphorite', 'Amatex', 'Amatol', 'Ammonal', 'Ammonium chlorate', 'Ammonium nitrate', 'Ammonium nitrate disasters', 'Ammonium perchlorate', 'Ammonium permaganate', 'Ammonium permanganate', 'Ammonium picrate', "Armstrong's mixture", 'Astrolite', 'Australian Dangerous Goods Code', 'Azide', 'Azidoazide azide', 'Azidotetrazolates', 'Ballistite', 'Baranol', 'Baratol', 'Barium nitrate', 'Benzoyl peroxide', 'Benzvalene', 'Binary explosive', 'Bistrinitroethyl carbonate', 'Bistrinitroethyl nitramine', 'Black powder', 'Blast injury', 'Blasting cap', 'Boiling liquid expanding vapor explosion', 'Brisance', 'Bromine azide', 'Bureau of Alcohol, Tobacco, Firearms and Explosives', 'Butyl tetryl', 'C-4 (explosive)', 'C4 explosive', 'Calcium nitrate', 'Carbon dioxide', 'Carbon monoxide', 'Carbonite (explosive)', 'Carcinogen', 'Cellulose hexanitrate', 'Cellulose nitrate', 'Chapman–Jouguet condition', 'Charcoal', 'Cheddite', 'Chemical bond', 'Chemical compound', 'Chemical constitution', 'Chemical decomposition', 'Chemical element', 'Chemical energy', 'Chemical kinetics', 'Chemical stability', 'Chlorate', 'Chlorine azide', 'Chlorine oxide', 'Cladding (metalworking)', 'Combustible', 'Combustion', 'Composite propellant', 'Composition 1', 'Composition 2', 'Composition 3', 'Composition 4', 'Composition 5', 'Composition A', 'Composition B', 'Composition C', 'Composition H6', 'Construction', 'Consumption of Tide Pods', 'Contact explosive', 'Copper(I) acetylide', 'Copper(II) azide', 'Cordtex', 'Crotonaldehyde', 'Crystal', 'Cumene hydroperoxide', 'Cyanogen azide', 'Cyanuric triazide', 'Cyclotol', 'Cyclotrimethylene trinitramine', 'Cylinder (geometry)', 'Dangerous Substances Directive (67/548/EEC)', 'Dangerous goods', 'Danubit', 'Deflagration', 'Density', 'Detasheet', 'Detection dog', 'Detonate', 'Detonating cord', 'Detonating explosive', 'Detonation', 'Detonation velocity', 'Detonator', 'Diacetyl peroxide', 'Diamino trinitrobenzene', 'Diatomaceous earth', 'Diazo dinitro phenol', 'Diazodinitrophenol', 'Diazomethane', 'Dibenzoyl peroxide', 'Dichloroacetylene', 'Diethyl ether peroxide', 'Diethyleneglycol dinitrate', 'Dinitro cerine', 'Dinitrobenzene', 'Dinitroethylene urea', 'Dinitrogen tetroxide', 'Dinitropentano nitrile', 'Dinitrophenol', 'Dinitrophenolate', 'Dinitroresorcinol', 'Dipicryl sulfone', 'Dipicrylamine', 'Disulfur dinitride', 'Doi (identifier)', 'Dualin', 'Dunnite', 'Dust explosion', 'Dynamite', 'Early thermal weapons', 'Ecrasite', 'Ednatol', 'Electric arc', 'Electric shock', 'Electric spark', 'Electrical discharge', 'Electromagnetic radiation', 'Electrostatic', 'Electrostatic discharge', 'Entropy', 'Erythritol tetranitrate', 'Espionage Act of 1917', 'Ethyl 4,4-Dinitropentanate', 'Ethyl azide', 'Ethylene dinitramine', 'Ethylene glycol dinitrate', 'Ethylenediamine dinitrate', 'European hazard symbols', 'Exploding-bridgewire detonator', 'Explosion', 'Explosion (disambiguation)', 'Explosion welding', 'Explosive Substances Act 1883', 'Explosive antimony', 'Explosive booster', 'Explosive train', 'Explosive velocity', 'Explosive weapon', 'Explosives engineering', 'Explosives safety', 'Firework', 'Fireworks', 'Fissile', 'Flame speed', 'Flammable', 'Flare', 'Flash powder', 'Fluorine azide', 'Fluorine perchlorate', 'Fragmentation (weaponry)', 'Friction', 'Fuel', 'Fuel oil', 'Fulminate', 'Fulminating Gold', 'Fulminating gold', 'Fulminating silver', 'Fulminic Acid', 'Fulminic acid', 'GHS hazard pictograms', 'Gas compressor', 'Gas cylinder', 'Gas explosion', 'Gas state', 'Gasoline', 'Gelignite', 'Globally Harmonized System of Classification and Labelling of Chemicals', 'Grain dust', 'Greek fire', 'Grenade', 'Ground (electricity)', 'Gunpowder', 'Gurney equations', 'HAZMAT Class 1 Explosives', 'HAZMAT Class 2 Gases', 'HAZMAT Class 3 Flammable liquids', 'HAZMAT Class 4 Flammable solids', 'HAZMAT Class 5 Oxidizing agents and organic peroxides', 'HAZMAT Class 6 Toxic and infectious substances', 'HAZMAT Class 7 Radioactive substances', 'HAZMAT Class 8 Corrosive substances', 'HAZMAT Class 9 Miscellaneous', 'HAZWOPER', 'HMX', 'Hazardous Materials Identification System', 'Hazardous Materials Transportation Act', 'Hazardous Substances and New Organisms Act 1996', 'Hazchem', 'Heat', 'Hexafluoroarsenate', 'Hexamethylene triperoxide diamine', 'Hexamethylenetetramine dinitrate', 'Hexanite', 'Hexanitrostilbene', 'High production volume chemicals', 'History of gunpowder', 'Hong Kong International Convention for the safe and environmentally sound recycling of ships', 'Hydrazoic acid', 'Hydrazoic azide', 'Hydrogen', 'Hydromite 600', 'Hygroscopicity', 'Hypergolic', 'Hypofluorous acid', 'ISBN (identifier)', 'ISSN (identifier)', 'Ideal gas law', 'Impact (mechanics)', 'Improvised explosive device', 'Initiation (chemistry)', 'Insensitive munition', 'Iodine azide', 'Isotope', 'Kinetite', 'Largest artificial non-nuclear explosions', 'Laser', 'Lead(II) azide', 'Lead azide', 'Lead picrate', 'Lead styphnate', 'Light', 'Liquid', 'Liquid oxygen', 'List of United States federal legislation, 1901–2001', 'List of accidents and incidents involving transport or storage of ammunition', 'List of explosives used during World War II', 'List of fireworks accidents and incidents', 'List of natural gas and oil production accidents in the United States', 'List of pipeline accidents', 'Low explosive', 'Magnesium', 'Manganese heptoxide', 'Mannitol hexanitrate', 'Mass', 'Mercury(II) fulminate', 'Mercury fulminate', 'Mercury nitride', 'Metacresol', 'Methyl ammonium nitrate', 'Methyl ethyl ketone peroxide', 'Midwest Consortium for Hazardous Waste Worker Training', 'Mining', 'Minol (explosive)', 'Molecule', 'NA/UN exceptions', 'NFPA 704', 'NOx', 'National Transport Commission', 'Netherlands', 'Nickel hydrazine nitrate', 'Nitrate', 'Nitro compound', 'Nitroamine', 'Nitroaromatic', 'Nitrocellulose', 'Nitroethane', 'Nitrogen', 'Nitrogen tribromide', 'Nitrogen trichloride', 'Nitrogen triiodide', 'Nitrogen trisulfide', 'Nitroglycerin', 'Nitroguanidine', 'Nitromethane', 'Nitronium perchlorate', 'Nitropropane', 'Nitrostarch', 'Nitrosyl perchlorate', 'Nitrotetrazolate-N-Oxides', 'Nitrourea', 'Nuclear explosive', 'Nuclear flask', 'Nuclear fuel cycle', 'Nuclear weapon', 'Octaazacubane', 'Octanitrocubane', 'Octol', 'Open Government Licence', 'Organic peroxide', 'Organized Crime Control Act of 1970', 'Orica', 'Oxidant', 'Oxide', 'Oxidizer', 'Oxygen', 'Oxygen balance', 'Oxyliquit', 'Ozonide', 'PETN', 'PNNM', 'Panclastite', 'Pentaerythritol tetranitrate', 'Pentazenium', 'Pentolite', 'Perchlorate', 'Percussion cap', 'Peroxide', 'Peroxy acid', 'Peroxymonosulfuric acid', 'Physical property', 'Physics', 'Picratol', 'Pipeline and Hazardous Materials Safety Administration', 'Plasma (physics)', 'Plastic explosive', 'Platinum fulminate', 'Plutonium-239', 'Polydinitropropyl acrylate', 'Polymer-bonded explosive', 'Potassium chlorate', 'Potassium dinitrobenzofuroxan', 'Potassium fulminate', 'Potassium nitrate', 'Potassium perchlorate', 'Power (physics)', 'President Truman', 'Pressure', 'Primary explosive', 'Propane', 'Propellant', 'Public Law (United States)', 'Pyrophoricity', 'Pyrotechnics', 'Pyrotol', 'RDX', 'Red phosphorus', 'Relative effectiveness factor', 'Rocket motor', 'Rubidium azide', 'S2CID (identifier)', 'Safe handling of carcinogens', 'Sawdust', 'Schneiderite', 'Secondary explosive', 'Secondary explosives', 'Sedaxane', 'Selenium nitride', 'Selenium triazide', 'Sellier-Bellot', 'Semtex', 'Sensitivity (explosives)', 'Shellite (explosive)', 'Shock front', 'Shock wave', 'Silica', 'Silicon tetraazide', 'Silver acetylide', 'Silver azide', 'Silver fulminate', 'Silver nitride', 'Slapper detonator', 'Smokeless powder', 'Sodium azide', 'Sodium nitrate', 'Solid propellant', 'Sound', 'Speed of sound', 'Sprengel explosive', 'Standard conditions for temperature and pressure', 'Steam', 'Strength (explosive)', 'Styphnic Acid', 'Substance of very high concern', 'Sulfur', 'Sunlight', 'Supersonic', 'Sympathetic detonation', 'TATB', 'TATP', 'TM 31-210 Improvised Munitions Handbook', 'TNT', 'Tannerit simply', 'Tannerite', 'Tellurium tetraazide', 'Temperature', 'Tert-Butyl hydroperoxide', 'Tert-butyl hydroperoxide', 'Tertiary explosive', 'Tetraazidomethane', 'Tetramine copper complexes', 'Tetranitratoxycarbon', 'Tetrasulfur tetranitride', 'Tetrazene', 'Tetrazene explosive', 'Tetrazole', 'Tetryl', 'The Explosive', 'The Explosives', 'Thermal decomposition', 'Titadine', 'Titanium tetraazide', 'Title 18 of the United States Code', 'Title 27 of the Code of Federal Regulations', 'Torpex', 'Total body disruption', 'Tovex', 'Toxicity', 'Trauzl lead block test', 'Triamino trinitrobenzene', 'Triazomethane', 'Triethylene glycol dinitrate', 'Trigger (firearms)', 'Trimethylolethane trinitrate', 'Trinitroaniline', 'Trinitroanisole', 'Trinitrobenzene', 'Trinitrobenzoic acid', 'Trinitrocresol', 'Trinitroethyl formal', 'Trinitroethylorthoformate', 'Trinitronaphthalene', 'Trinitrophenol', 'Trinitrophloro glucinol', 'Trinitroresorcinol', 'Trinitrosorcinate', 'Trinitrotoluene', 'Tritonal', 'U.S. Army Materiel Command', 'UN Recommendations on the Transport of Dangerous Goods', 'Ultraviolet', 'United Nations', 'United Nations Economic Commission for Europe', 'United States Department of Transportation', 'United States Department of the Treasury', 'United States House Transportation Subcommittee on Railroads, Pipelines, and Hazardous Materials', 'United States Statutes at Large', 'Uranium-235', 'Urea nitrate', 'Use forms of explosives', 'Vaporization', 'Volatility (chemistry)', 'Warhead', 'Water', 'Wave propagation', 'Wayback Machine', 'Workplace Hazardous Materials Information System', 'World War I', 'World War II', 'Xenon dioxide', 'Xenon oxytetrafluoride', 'Xenon tetroxide', 'Xenon trioxide', 'Xylitol pentanitrate', "Yakov Borisovich Zel'dovich"]
+
+####### CATEGORIES #######
+
+['All articles with specifically marked weasel-worded phrases', 'All articles with unsourced statements', 'Articles with BNF identifiers', 'Articles with EMU identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NARA identifiers', 'Articles with NKC identifiers', 'Articles with PLWABN identifiers', 'Articles with short description', 'Articles with specifically marked weasel-worded phrases from June 2021', 'Articles with unsourced statements from April 2019', 'Articles with unsourced statements from February 2016', 'Articles with unsourced statements from October 2018', 'Articles with unsourced statements from September 2020', 'CS1 German-language sources (de)', 'Chinese inventions', 'Explosives', 'Hazardous materials', 'Open Government Licence attribution', 'Short description is different from Wikidata', 'Use dmy dates from March 2020', 'Webarchive template wayback links']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/8/8f/17._%D0%95%D0%BA%D1%81%D0%BF%D0%BB%D0%BE%D0%B7%D0%B8%D0%B2%D0%BD%D0%B8_%D1%81%D0%B2%D0%BE%D1%98%D1%81%D1%82%D0%B2%D0%B0_%D0%BD%D0%B0_%D1%82%D1%80%D0%B8_%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%BD%D0%B8_%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8_%D0%B5%D0%BA%D1%81%D0%BF%D0%BB%D0%BE%D0%B7%D0%B8%D0%B2%D0%B8.webm', 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Blast_Area_Security.webm', 'https://upload.wikimedia.org/wikipedia/commons/c/c3/GHS-pictogram-exclam.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4a/GHS-pictogram-explos.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6d/GHS-pictogram-flamme.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Handling_Explosives_in_Underground_Mines.webm', 'https://upload.wikimedia.org/wikipedia/commons/8/8b/UN_transport_pictogram_-_1.svg', 'https://upload.wikimedia.org/wikipedia/commons/e/e9/Year_book_-_photo_flashes_showing_Toledo%27s_phenomenal_progress%2C_thriving_industries_and_wonderful_resources_-_DPLA_-_ac95c5ef8efd2394c21e2b6edcd01d94_%28page_37%29_%28cropped%29.jpg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/4/46/UKOpenGovernmentLicence.svg']
+
+####### REFERENCES #######
+
+['http://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2710026/summary.html', 'http://policy.mofcom.gov.cn/GlobalLaw/english/flaw!fetch.action?id=bc92580b-0101-41ca-9697-686811f3d7c1&pager.pageNo=1#alaska-title-11-chapter-11-61-article-02-sec-11-61-240', 'http://environmentalchemistry.com/yogi/hazmat/placards/class1.html', 'http://www.idealexplosives.com/emulsion-explosives.html', 'http://www.idealexplosives.com/slurry-explosives.html', 'http://www.lexisnexis.com/hottopics/arcode/Default.asp', 'http://www.lexisnexis.com/hottopics/gacode/Default.asp', 'http://www.lexisnexis.com/hottopics/mscode/', 'http://www.tpub.com/content/aviation/14313/css/14313_288.htm', 'http://www.chem-page.de/publikationen/geschichte-der-sprengstoffe/195-2-wie-unterscheiden-sich-deflagration-detonation-und-explosion.html', 'http://afe.easia.columbia.edu/chinawh/web/s10/0781_sect10_timeline.pdf', 'http://www.newton.dep.anl.gov/askasci/chem99/chem99306.htm', 'http://www.atf.gov/content/library/codified-regulations', 'http://www.azleg.gov/ArizonaRevisedStatutes.asp?Title=13', 'http://www.leginfo.ca.gov/cgi-bin/calawquery?codesection=pen', 'http://www.cga.ct.gov/current/pub/chap_541.htm', 'http://delcode.delaware.gov/title16/index.shtml', 'http://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/pdf/USCODE-2011-title18-partI-chap40.pdf', 'http://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0134/HRS_0134-0028.htm', 'http://labor.hawaii.gov/hiosh/files/2012/12/12-58-Permits-and-Certificates.pdf', 'http://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=1332&ChapterID=24', 'http://www.legislature.mi.gov/(S(odttswon1sjuxewbcccjtvdj))/mileg.aspx?page=getObject&objectName=mcl-328-1931-XXXIII', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007562811805171', 'http://wetten.overheid.nl/BWBR0006803/geldigheidsdatum_23-12-2013', 'http://wetten.overheid.nl/BWBR0008804/geldigheidsdatum_23-12-2013', 'http://doi.org/10.1098%2Frspa.1958.0123', 'http://www.explosivesacademy.org/', 'http://legislink.org/us/stat-40-385', 'http://www.powerlabs.org/chemlabs/lead_picrate.htm', 'http://www.roguesci.org/theforum', 'http://www.worldcat.org/issn/0080-4630', 'http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=1&NU=1&IM=4&WI=9810546282805606', 'http://arquivo.pt/wayback/20160522174456/http://www.powerlabs.org/chemlabs/lead_picrate.htm', 'http://esu.com.ua/search_articles.php?id=33919', 'http://www.tandf.co.uk/journals/titles/07370652.asp', 'http://www.hse.gov.uk/explosives/licensing/index.htm', 'http://www.legislation.gov.uk/uksi/2014/1638/made/data.htm', 'http://www.legis.state.ak.us/basis/folioproxy.asp?url=http://wwwjnu01.legis.state.ak.us/cgi-bin/folioisa.dll/stattx12', 'http://alisondb.legislature.state.al.us/acas/ACASLoginfire.asp', 'http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0552/0552ContentsIndex.html&StatuteYear=2014&Title=-%3E2014-%3EChapter%20552', 'http://www.labor.state.ny.us/workerprotection/safetyhealth/sh39_12.shtm', 'https://gbtimes.com/chinas-explosive-history-gunpowder-and-fireworks', 'https://books.google.com/books?id=PmuqCHDC3pwC&pg=PA106', 'https://www.newscientist.com/article/dn8903-green-explosive-is-a-friend-of-the-earth.html', 'https://www.youtube.com/watch?v=TjC4SvZIARY', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph127407&CON_LNG=ENG', 'https://catalogue.bnf.fr/ark:/12148/cb13318566j', 'https://data.bnf.fr/ark:/12148/cb13318566j', 'https://catalog.archives.gov/id/10637807', 'https://id.loc.gov/authorities/subjects/sh85046474', 'https://www.revisor.mn.gov/topics/?type=statute&year=2014&id=EXPLOSIVES%20AND%20BLASTING%20AGENTS', 'https://docs.legis.wisconsin.gov/statutes/statutes/941/IV/31', 'https://d-nb.info/gnd/4056544-0', 'https://uslaw.link/citation/us-law/public/91/452', 'https://archive.org/details/FM_5_250_Explosives_And_Demolitions_', 'https://archive.org/details/TM_9_1300_214_Military_Explosives_', 'https://archive.org/details/ashortaccountex00marsgoog', 'https://archive.org/details/clearinglandofst00matt', 'https://archive.org/details/cu31924080100872', 'https://archive.org/details/explosivesblasti00dick', 'https://archive.org/details/explosivestheirp00bertrich', 'https://archive.org/details/farmershandbook00deptgoog', 'https://archive.org/details/gov.law.ime.explosives.1940', 'https://archive.org/details/historicalpapers00macdrich', 'https://archive.org/details/riseprogressofbr00interich', 'https://archive.org/details/useofexplosivesf00inst', 'https://web.archive.org/web/20100605034021/http://www.tpub.com/content/aviation/14313/css/14313_288.htm', 'https://web.archive.org/web/20100605064553/http://www.labor.state.ny.us/workerprotection/safetyhealth/sh39_12.shtm', 'https://web.archive.org/web/20130526130452/http://www.newton.dep.anl.gov/askasci/chem99/chem99306.htm', 'https://web.archive.org/web/20131012060546/http://www.explosives.org.au/', 'https://web.archive.org/web/20131225005146/http://wetten.overheid.nl/BWBR0006803/geldigheidsdatum_23-12-2013', 'https://web.archive.org/web/20131225005149/http://wetten.overheid.nl/BWBR0008804/geldigheidsdatum_23-12-2013', 'https://web.archive.org/web/20141112220348/http://www.newscientist.com/article/dn8903-green-explosive-is-a-friend-of-the-earth.html', 'https://web.archive.org/web/20141208215628/http://alisondb.legislature.state.al.us/acas/acasloginFire.asp', 'https://web.archive.org/web/20141215074434/http://www.atf.gov/content/library/codified-regulations', 'https://web.archive.org/web/20141220182600/http://www.legis.state.ak.us/basis/folioproxy.asp?url=http://wwwjnu01.legis.state.ak.us/cgi-bin/folioisa.dll/stattx12', 'https://web.archive.org/web/20151117031212/https://www.ime.org/content/1970_1979', 'https://web.archive.org/web/20160201054704/https://www.ime.org/content/1913_1919', 'https://web.archive.org/web/20160304075716/https://www.ime.org/content/1940_1949', 'https://web.archive.org/web/20160306153102/https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/pdf/USCODE-2011-title18-partI-chap40.pdf', 'https://web.archive.org/web/20161018221400/http://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2710026/summary.html', 'https://web.archive.org/web/20161213050629/http://afe.easia.columbia.edu/chinawh/web/s10/0781_sect10_timeline.pdf', 'https://web.archive.org/web/20170206104750/http://www.chem-page.de/publikationen/geschichte-der-sprengstoffe/195-2-wie-unterscheiden-sich-deflagration-detonation-und-explosion.html', 'https://web.archive.org/web/20171201033748/https://gbtimes.com/chinas-explosive-history-gunpowder-and-fireworks', 'https://web.archive.org/web/20190212014704/https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/', 'https://web.archive.org/web/20190421213250/http://www.hse.gov.uk/explosives/licensing/index.htm', 'https://web.archive.org/web/20190803013902/http://blasterexchange.com/', 'https://fas.org/man/dod-101/navy/docs/fun/part12.htm', 'https://www.ime.org/content/1913_1919', 'https://www.ime.org/content/1940_1949', 'https://www.ime.org/content/1970_1979', 'https://royalsocietypublishing.org/doi/10.1098/rspa.1958.0123', 'https://www.science.org/content/blog-post/can-t-stop-nitro-groups', 'https://api.semanticscholar.org/CorpusID:137728239', 'https://www.wikidata.org/wiki/Q12870#identifiers']
+
+####### SUMMARY #######
+
+An explosive (or explosive material) is a reactive substance that contains a great amount of potential energy that can produce an explosion if released suddenly, usually accompanied by the production of light, heat, sound, and pressure. An explosive charge is a measured quantity of explosive material, which may either be composed solely of one ingredient or be a mixture containing at least two substances.
+The potential energy stored in an explosive material may, for example, be
+
+chemical energy, such as nitroglycerin or grain dust
+pressurized gas, such as a gas cylinder, aerosol can, or BLEVE
+nuclear energy, such as in the fissile isotopes uranium-235 and plutonium-239Explosive materials may be categorized by the speed at which they expand. Materials that detonate (the front of the chemical reaction moves faster through the material than the speed of sound) are said to be "high explosives" and materials that deflagrate are said to be "low explosives". Explosives may also be categorized by their sensitivity. Sensitive materials that can be initiated by a relatively small amount of heat or pressure are primary explosives and materials that are relatively insensitive are secondary or tertiary explosives.
+A wide variety of chemicals can explode; a smaller number are manufactured specifically for the purpose of being used as explosives. The remainder are too dangerous, sensitive, toxic, expensive, unstable, or prone to decomposition or degradation over short time spans.
+In contrast, some materials are merely combustible or flammable if they burn without exploding.
+The distinction, however, is not razor-sharp. Certain materials—dusts, powders, gases, or volatile organic liquids—may be simply combustible or flammable under ordinary conditions, but become explosive in specific situations or forms, such as dispersed airborne clouds, or confinement or sudden release.
+
+####### CONTENT #######
+
+An explosive (or explosive material) is a reactive substance that contains a great amount of potential energy that can produce an explosion if released suddenly, usually accompanied by the production of light, heat, sound, and pressure. An explosive charge is a measured quantity of explosive material, which may either be composed solely of one ingredient or be a mixture containing at least two substances.
+The potential energy stored in an explosive material may, for example, be
+
+chemical energy, such as nitroglycerin or grain dust
+pressurized gas, such as a gas cylinder, aerosol can, or BLEVE
+nuclear energy, such as in the fissile isotopes uranium-235 and plutonium-239Explosive materials may be categorized by the speed at which they expand. Materials that detonate (the front of the chemical reaction moves faster through the material than the speed of sound) are said to be "high explosives" and materials that deflagrate are said to be "low explosives". Explosives may also be categorized by their sensitivity. Sensitive materials that can be initiated by a relatively small amount of heat or pressure are primary explosives and materials that are relatively insensitive are secondary or tertiary explosives.
+A wide variety of chemicals can explode; a smaller number are manufactured specifically for the purpose of being used as explosives. The remainder are too dangerous, sensitive, toxic, expensive, unstable, or prone to decomposition or degradation over short time spans.
+In contrast, some materials are merely combustible or flammable if they burn without exploding.
+The distinction, however, is not razor-sharp. Certain materials—dusts, powders, gases, or volatile organic liquids—may be simply combustible or flammable under ordinary conditions, but become explosive in specific situations or forms, such as dispersed airborne clouds, or confinement or sudden release.
+
+
+== History ==
+
+Early thermal weapons, such as Greek fire, have existed since ancient times. At its roots, the history of chemical explosives lies in the history of gunpowder. During the Tang Dynasty in the 9th century, Taoist Chinese alchemists were eagerly trying to find the elixir of immortality. In the process, they stumbled upon the explosive invention of black powder made from coal, saltpeter, and sulfur in 1044. Gunpowder was the first form of chemical explosives and by 1161, the Chinese were using explosives for the first time in warfare. The Chinese would incorporate explosives fired from bamboo or bronze tubes known as bamboo fire crackers. The Chinese also inserted live rats inside the bamboo fire crackers; when fired toward the enemy, the flaming rats created great psychological ramifications—scaring enemy soldiers away and causing cavalry units to go wild.The first useful explosive stronger than black powder was nitroglycerin, developed in 1847. Since nitroglycerin is a liquid and highly unstable, it was replaced by nitrocellulose, trinitrotoluene (TNT) in 1863, smokeless powder, dynamite in 1867 and gelignite (the latter two being sophisticated stabilized preparations of nitroglycerin rather than chemical alternatives, both invented by Alfred Nobel). World War I saw the adoption of TNT in artillery shells. World War II saw an extensive use of new explosives (see List of explosives used during World War II).
+In turn, these have largely been replaced by more powerful explosives such as C-4 and PETN. However, C-4 and PETN react with metal and catch fire easily, yet unlike TNT, C-4 and PETN are waterproof and malleable.
+
+
+== Applications ==
+
+
+=== Commercial ===
+
+The largest commercial application of explosives is mining. Whether the mine is on the surface or is buried underground, the detonation or deflagration of either a high or low explosive in a confined space can be used to liberate a fairly specific sub-volume of a brittle material in a much larger volume of the same or similar material. The mining industry tends to use nitrate-based explosives such as emulsions of fuel oil and ammonium nitrate solutions, mixtures of ammonium nitrate prills (fertilizer pellets) and fuel oil (ANFO) and gelatinous suspensions or slurries of ammonium nitrate and combustible fuels.
+In Materials Science and Engineering, explosives are used in cladding (explosion welding). A thin plate of some material is placed atop a thick layer of a different material, both layers typically of metal. Atop the thin layer is placed an explosive. At one end of the layer of explosive, the explosion is initiated. The two metallic layers are forced together at high speed and with great force. The explosion spreads from the initiation site throughout the explosive. Ideally, this produces a metallurgical bond between the two layers.
+
+As the length of time the shock wave spends at any point is small, we can see mixing of the two metals and their surface chemistries, through some fraction of the depth, and they tend to be mixed in some way. It is possible that some fraction of the surface material from either layer eventually gets ejected when the end of material is reached. Hence, the mass of the now "welded" bilayer, may be less than the sum of the masses of the two initial layers.
+There are applications where a shock wave, and electrostatics, can result in high velocity projectiles.
+
+
+=== Military ===
+
+
+=== Civilian ===
+
+
+=== Safety ===
+
+
+== Types ==
+
+
+=== Chemical ===
+
+An explosion is a type of spontaneous chemical reaction that, once initiated, is driven by both a large exothermic change (great release of heat) and a large positive entropy change (great quantities of gases are released) in going from reactants to products, thereby constituting a thermodynamically favorable process in addition to one that propagates very rapidly. Thus, explosives are substances that contain a large amount of energy stored in chemical bonds. The energetic stability of the gaseous products and hence their generation comes from the formation of strongly bonded species like carbon monoxide, carbon dioxide, and (di)nitrogen, which contain strong double and triple bonds having bond strengths of nearly 1 MJ/mole. Consequently, most commercial explosives are organic compounds containing -NO2, -ONO2 and -NHNO2 groups that, when detonated, release gases like the aforementioned (e.g., nitroglycerin, TNT, HMX, PETN, nitrocellulose).An explosive is classified as a low or high explosive according to its rate of combustion: low explosives burn rapidly (or deflagrate), while high explosives detonate. While these definitions are distinct, the problem of precisely measuring rapid decomposition makes practical classification of explosives difficult.
+Traditional explosives mechanics is based on the shock-sensitive rapid oxidation of carbon and hydrogen to carbon dioxide, carbon monoxide and water in the form of steam. Nitrates typically provide the required oxygen to burn the carbon and hydrogen fuel. High explosives tend to have the oxygen, carbon and hydrogen contained in one organic molecule, and less sensitive explosives like ANFO are combinations of fuel (carbon and hydrogen fuel oil) and ammonium nitrate. A sensitizer such as powdered aluminum may be added to an explosive to increase the energy of the detonation. Once detonated, the nitrogen portion of the explosive formulation emerges as nitrogen gas and toxic nitric oxides.
+
+
+==== Decomposition ====
+The chemical decomposition of an explosive may take years, days, hours, or a fraction of a second. The slower processes of decomposition take place in storage and are of interest only from a stability standpoint. Of more interest are the other two rapid forms besides decomposition: deflagration and detonation.
+
+
+==== Deflagration ====
+
+In deflagration, decomposition of the explosive material is propagated by a flame front which moves slowly through the explosive material at speeds less than the speed of sound within the substance (usually below 340 m/s or 1240km/h) in contrast to detonation, which occurs at speeds greater than the speed of sound. Deflagration is a characteristic of low explosive material.
+
+
+==== Detonation ====
+
+This term is used to describe an explosive phenomenon whereby the decomposition is propagated by an shock wave traversing the explosive material at speeds greater than the speed of sound within the substance. The shock front is capable of passing through the high explosive material at supersonic speeds, typically thousands of metres per second.
+
+
+=== Exotic ===
+In addition to chemical explosives, there are a number of more exotic explosive materials, and exotic methods of causing explosions. Examples include nuclear explosives, and abruptly heating a substance to a plasma state with a high-intensity laser or electric arc.
+Laser- and arc-heating are used in laser detonators, exploding-bridgewire detonators, and exploding foil initiators, where a shock wave and then detonation in conventional chemical explosive material is created by laser- or electric-arc heating. Laser and electric energy are not currently used in practice to generate most of the required energy, but only to initiate reactions.
+
+
+== Properties ==
+To determine the suitability of an explosive substance for a particular use, its physical properties must first be known. The usefulness of an explosive can only be appreciated when the properties and the factors affecting them are fully understood. Some of the more important characteristics are listed below:
+
+
+=== Sensitivity ===
+
+Sensitivity refers to the ease with which an explosive can be ignited or detonated, i.e., the amount and intensity of shock, friction, or heat that is required. When the term sensitivity is used, care must be taken to clarify what kind of sensitivity is under discussion. The relative sensitivity of a given explosive to impact may vary greatly from its sensitivity to friction or heat. Some of the test methods used to determine sensitivity relate to:
+
+Impact – Sensitivity is expressed in terms of the distance through which a standard weight must be dropped onto the material to cause it to explode.
+Friction – Sensitivity is expressed in terms of the amount of pressure applied to the material in order to create enough friction to cause a reaction.
+Heat – Sensitivity is expressed in terms of the temperature at which decomposition of the material occurs.Specific explosives (usually but not always highly sensitive on one or more of the three above axes) may be idiosyncratically sensitive to such factors as pressure drop, acceleration, the presence of sharp edges or rough surfaces, incompatible materials, or even—in rare cases—nuclear or electromagnetic radiation. These factors present special hazards that may rule out any practical utility.
+Sensitivity is an important consideration in selecting an explosive for a particular purpose. The explosive in an armor-piercing projectile must be relatively insensitive, or the shock of impact would cause it to detonate before it penetrated to the point desired. The explosive lenses around nuclear charges are also designed to be highly insensitive, to minimize the risk of accidental detonation.
+
+
+=== Sensitivity to initiation ===
+The index of the capacity of an explosive to be initiated into detonation in a sustained manner. It is defined by the power of the detonator which is certain to prime the explosive to a sustained and continuous detonation. Reference is made to the Sellier-Bellot scale that consists of a series of 10 detonators, from n. 1 to n. 10, each of which corresponds to an increasing charge weight. In practice, most of the explosives on the market today are sensitive to an n. 8 detonator, where the charge corresponds to 2 grams of mercury fulminate.
+
+
+=== Velocity of detonation ===
+The velocity with which the reaction process propagates in the mass of the explosive. Most commercial mining explosives have detonation velocities ranging from 1800 m/s to 8000 m/s. Today, velocity of detonation can be measured with accuracy. Together with density it is an important element influencing the yield of the energy transmitted for both atmospheric over-pressure and ground acceleration. By definition, a "low explosive", such as black powder, or smokeless gunpowder has a burn rate of 171–631 m/s. In contrast, a "high explosive", whether a primary, such as detonating cord, or a secondary, such as TNT or C-4 has a significantly higher burn rate about 6900-8092 m/s.
+
+
+=== Stability ===
+
+Stability  is the ability of an explosive to be stored without deterioration.
+The following factors affect the stability of an explosive:
+
+Chemical constitution. In the strictest technical sense, the word "stability" is a thermodynamic term referring to the energy of a substance relative to a reference state or to some other substance. However, in the context of explosives, stability commonly refers to ease of detonation, which is concerned with kinetics (i.e., rate of decomposition). It is perhaps best, then, to differentiate between the terms thermodynamically stable and kinetically stable by referring to the former as "inert." Contrarily, a kinetically unstable substance is said to be "labile." It is generally recognized that certain groups like nitro (–NO2), nitrate (–ONO2), and azide (–N3), are intrinsically labile. Kinetically, there exists a low activation barrier to the decomposition reaction. Consequently, these compounds exhibit high sensitivity to flame or mechanical shock. The chemical bonding in these compounds is characterized as predominantly covalent and thus they are not thermodynamically stabilized by a high ionic-lattice energy. Furthermore, they generally have positive enthalpies of formation and there is little mechanistic hindrance to internal molecular rearrangement to yield the more thermodynamically stable (more strongly bonded) decomposition products. For example, in lead azide, Pb(N3)2, the nitrogen atoms are already bonded to one another, so decomposition into Pb and N2[1] is relatively easy.
+Temperature of storage. The rate of decomposition of explosives increases at higher temperatures. All standard military explosives may be considered to have a high degree of stability at temperatures from –10 to +35 °C, but each has a high temperature at which its rate of decomposition rapidly accelerates and stability is reduced. As a rule of thumb, most explosives become dangerously unstable at temperatures above 70 °C.
+Exposure to sunlight. When exposed to the ultraviolet rays of sunlight, many explosive compounds containing nitrogen groups rapidly decompose, affecting their stability.
+Electrical discharge. Electrostatic or spark sensitivity to initiation is common in a number of explosives. Static or other electrical discharge may be sufficient to cause a reaction, even detonation, under some circumstances. As a result, safe handling of explosives and pyrotechnics usually requires proper electrical grounding of the operator.
+
+
+=== Power, performance, and strength ===
+
+The term power or performance as applied to an explosive refers to its ability to do work. In practice it is defined as the explosive's ability to accomplish what is intended in the way of energy delivery (i.e., fragment projection, air blast, high-velocity jet, underwater shock and bubble energy, etc.). Explosive power or performance is evaluated by a tailored series of tests to assess the material for its intended use. Of the tests listed below, cylinder expansion and air-blast tests are common to most testing programs, and the others support specific applications.
+
+Cylinder expansion test. A standard amount of explosive is loaded into a long hollow cylinder, usually of copper, and detonated at one end. Data is collected concerning the rate of radial expansion of the cylinder and the maximum cylinder wall velocity. This also establishes the Gurney energy or 2E.
+Cylinder fragmentation. A standard steel cylinder is loaded with explosive and detonated in a sawdust pit. The fragments are collected and the size distribution analyzed.
+Detonation pressure (Chapman–Jouguet condition). Detonation pressure data derived from measurements of shock waves transmitted into water by the detonation of cylindrical explosive charges of a standard size.
+Determination of critical diameter. This test establishes the minimum physical size a charge of a specific explosive must be to sustain its own detonation wave. The procedure involves the detonation of a series of charges of different diameters until difficulty in detonation wave propagation is observed.
+Massive-diameter detonation velocity. Detonation velocity is dependent on loading density (c), charge diameter, and grain size. The hydrodynamic theory of detonation used in predicting explosive phenomena does not include the diameter of the charge, and therefore a detonation velocity, for a massive diameter. This procedure requires the firing of a series of charges of the same density and physical structure, but different diameters, and the extrapolation of the resulting detonation velocities to predict the detonation velocity of a charge of a massive diameter.
+Pressure versus scaled distance. A charge of a specific size is detonated and its pressure effects measured at a standard distance. The values obtained are compared with those for TNT.
+Impulse versus scaled distance. A charge of a specific size is detonated and its impulse (the area under the pressure-time curve) measured as a function of distance. The results are tabulated and expressed as TNT equivalents.
+Relative bubble energy (RBE). A 5 to 50 kg charge is detonated in water and piezoelectric gauges measure peak pressure, time constant, impulse, and energy.The RBE may be defined as Kx 3
+RBE = Ks
+where K = the bubble expansion period for an experimental (x) or a standard (s) charge.
+
+
+=== Brisance ===
+
+In addition to strength, explosives display a second characteristic, which is their shattering effect or brisance (from the French meaning to "break"), which is distinguished and separate from their total work capacity. This characteristic is of practical importance in determining the effectiveness of an explosion in fragmenting shells, bomb casings, grenades, and the like. The rapidity with which an explosive reaches its peak pressure (power) is a measure of its brisance. Brisance values are primarily employed in France and Russia.
+The sand crush test is commonly employed to determine the relative brisance in comparison to TNT. No test is capable of directly comparing the explosive properties of two or more compounds; it is important to examine the data from several such tests (sand crush, trauzl, and so forth) in order to gauge relative brisance. True values for comparison require field experiments.
+
+
+=== Density ===
+Density of loading refers to the mass of an explosive per unit volume. Several methods of loading are available, including pellet loading, cast loading, and press loading, the choice being determined by the characteristics of the explosive. Dependent upon the method employed, an average density of the loaded charge can be obtained that is within 80–99% of the theoretical maximum density of the explosive. High load density can reduce sensitivity by making the mass more resistant to internal friction. However, if density is increased to the extent that individual crystals are crushed, the explosive may become more sensitive. Increased load density also permits the use of more explosive, thereby increasing the power of the warhead. It is possible to compress an explosive beyond a point of sensitivity, known also as dead-pressing, in which the material is no longer capable of being reliably initiated, if at all.
+
+
+=== Volatility ===
+Volatility is the readiness with which a substance vaporizes. Excessive volatility often results in the development of pressure within rounds of ammunition and separation of mixtures into their constituents. Volatility affects the chemical composition of the explosive such that a marked reduction in stability may occur, which results in an increase in the danger of handling.
+
+
+=== Hygroscopicity and water resistance ===
+The introduction of water into an explosive is highly undesirable since it reduces the sensitivity, strength, and velocity of detonation of the explosive. Hygroscopicity is a measure of a material's moisture-absorbing tendencies. Moisture affects explosives adversely by acting as an inert material that absorbs heat when vaporized, and by acting as a solvent medium that can cause undesired chemical reactions. Sensitivity, strength, and velocity of detonation are reduced by inert materials that reduce the continuity of the explosive mass. When the moisture content evaporates during detonation, cooling occurs, which reduces the temperature of reaction. Stability is also affected by the presence of moisture since moisture promotes decomposition of the explosive and, in addition, causes corrosion of the explosive's metal container.
+Explosives considerably differ from one another as to their behavior in the presence of water. Gelatin dynamites containing nitroglycerine have a degree of water resistance. Explosives based on ammonium nitrate have little or no water resistance as ammonium nitrate is highly soluble in water and is hygroscopic.
+
+
+=== Toxicity ===
+Many explosives are toxic to some extent. Manufacturing inputs can also be organic compounds or hazardous materials that require special handling due to risks (such as carcinogens). The decomposition products, residual solids, or gases of some explosives can be toxic, whereas others are harmless, such as carbon dioxide and water.
+Examples of harmful by-products are:
+
+Heavy metals, such as lead, mercury, and barium from primers (observed in high-volume firing ranges)
+Nitric oxides from TNT
+Perchlorates when used in large quantities"Green explosives" seek to reduce environment and health impacts. An example of such is the lead-free primary explosive copper(I) 5-nitrotetrazolate, an alternative to lead azide. One variety of a green explosive is CDP explosives, whose synthesis does not involve any toxic ingredients, consumes carbon dioxide while detonating and does not release any nitric oxides into the atmosphere when used.
+
+
+=== Explosive train ===
+
+Explosive material may be incorporated in the explosive train of a device or system. An example is a pyrotechnic lead igniting a booster, which causes the main charge to detonate.
+
+
+=== Volume of products of explosion ===
+The most widely used explosives are condensed liquids or solids converted to gaseous products by explosive chemical reactions and the energy released by those reactions. The gaseous products of complete reaction are typically carbon dioxide, steam, and nitrogen. Gaseous volumes computed by the ideal gas law tend to be too large at high pressures characteristic of explosions. Ultimate volume expansion may be estimated at three orders of magnitude, or one liter per gram of explosive. Explosives with an oxygen deficit will generate soot or gases like carbon monoxide and hydrogen, which may react with surrounding materials such as atmospheric oxygen. Attempts to obtain more precise volume estimates must consider the possibility of such side reactions, condensation of steam, and aqueous solubility of gases like carbon dioxide.By comparison, CDP detonation is based on the rapid reduction of carbon dioxide to carbon with the abundant release of energy. Rather than produce typical waste gases like carbon dioxide, carbon monoxide, nitrogen and nitric oxides, CDP is different. Instead, the highly energetic reduction of carbon dioxide to carbon vaporizes and pressurizes excess dry ice at the wave front, which is the only gas released from the detonation. The velocity of detonation for CDP formulations can therefore be customized by adjusting the weight percentage of reducing agent and dry ice. CDP detonations produce a large amount of solid materials that can have great commercial value as an abrasive:
+Example – CDP Detonation Reaction with Magnesium: XCO2 + 2Mg → 2MgO + C + (X-1)CO2The products of detonation in this example are magnesium oxide, carbon in various phases including diamond, and vaporized excess carbon dioxide that was not consumed by the amount of magnesium in the explosive formulation.
+
+
+=== Oxygen balance (OB% or Ω) ===
+
+Oxygen balance is an expression that is used to indicate the degree to which an explosive can be oxidized. If an explosive molecule contains just enough oxygen to convert all of its carbon to carbon dioxide, all of its hydrogen to water, and all of its metal to metal oxide with no excess, the molecule is said to have a zero oxygen balance. The molecule is said to have a positive oxygen balance if it contains more oxygen than is needed and a negative oxygen balance if it contains less oxygen than is needed. The sensitivity, strength, and brisance of an explosive are all somewhat dependent upon oxygen balance and tend to approach their maxima as oxygen balance approaches zero.
+Oxygen balance applies to traditional explosives mechanics with the assumption that carbon is oxidized to carbon monoxide and carbon dioxide during detonation. In what seems like a paradox to an explosives expert, Cold Detonation Physics uses carbon in its most highly oxidized state as the source of oxygen in the form of carbon dioxide. Oxygen balance, therefore, either does not apply to a CDP formulation or must be calculated without including the carbon in the carbon dioxide.
+
+
+=== Chemical composition ===
+A chemical explosive may consist of either a chemically pure compound, such as nitroglycerin, or a mixture of a fuel and an oxidizer, such as black powder or grain dust and air.
+
+
+==== Pure compounds ====
+Some chemical compounds are unstable in that, when shocked, they react, possibly to the point of detonation. Each molecule of the compound dissociates into two or more new molecules (generally gases) with the release of energy.
+
+Nitroglycerin: A highly unstable and sensitive liquid
+Acetone peroxide: A very unstable white organic peroxide
+TNT: Yellow insensitive crystals that can be melted and cast without detonation
+Cellulose nitrate: A nitrated polymer which can be a high or low explosive depending on nitration level and conditions
+RDX, PETN, HMX: Very powerful explosives which can be used pure or in plastic explosives
+C-4 (or Composition C-4): An RDX plastic explosive plasticized to be adhesive and malleableThe above compositions may describe most of the explosive material, but a practical explosive will often include small percentages of other substances. For example, dynamite is a mixture of highly sensitive nitroglycerin with sawdust, powdered silica, or most commonly diatomaceous earth, which act as stabilizers. Plastics and polymers may be added to bind powders of explosive compounds; waxes may be incorporated to make them safer to handle; aluminium powder may be introduced to increase total energy and blast effects. Explosive compounds are also often "alloyed": HMX or RDX powders may be mixed (typically by melt-casting) with TNT to form Octol or Cyclotol.
+
+
+==== Oxidized fuel ====
+An oxidizer is a pure substance (molecule) that in a chemical reaction can contribute some atoms of one or more oxidizing elements, in which the fuel component of the explosive burns. On the simplest level, the oxidizer may itself be an oxidizing element, such as gaseous or liquid oxygen.
+
+Black powder: Potassium nitrate, charcoal and sulfur
+Flash powder: Fine metal powder (usually aluminium or magnesium) and a strong oxidizer (e.g. potassium chlorate or perchlorate)
+Ammonal: Ammonium nitrate and aluminium powder
+Armstrong's mixture: Potassium chlorate and red phosphorus. This is a very sensitive mixture. It is a primary high explosive in which sulfur is substituted for some or all of the phosphorus to slightly decrease sensitivity.
+Cold Detonation Physics: Combinations of carbon dioxide in the form of dry ice (an untraditional oxygen source), and powdered reducing agents (fuel) like magnesium and aluminum.
+Sprengel explosives: A very general class incorporating any strong oxidizer and highly reactive fuel, although in practice the name was most commonly applied to mixtures of chlorates and nitroaromatics.
+ANFO: Ammonium nitrate and fuel oil
+Cheddites: Chlorates or perchlorates and oil
+Oxyliquits: Mixtures of organic materials and liquid oxygen
+Panclastites: Mixtures of organic materials and dinitrogen tetroxide
+
+
+=== Availability and cost ===
+The availability and cost of explosives are determined by the availability of the raw materials and the cost, complexity, and safety of the manufacturing operations.
+
+
+== Classification ==
+
+
+=== By sensitivity ===
+
+
+==== Primary ====
+A primary explosive is an explosive that is extremely sensitive to stimuli such as impact, friction, heat, static electricity, or electromagnetic radiation. Some primary explosives are also known as contact explosives. A relatively small amount of energy is required for initiation. As a very general rule, primary explosives are considered to be those compounds that are more sensitive than PETN. As a practical measure, primary explosives are sufficiently sensitive that they can be reliably initiated with a blow from a hammer; however, PETN can also usually be initiated in this manner, so this is only a very broad guideline. Additionally, several compounds, such as nitrogen triiodide, are so sensitive that they cannot even be handled without detonating. Nitrogen triiodide is so sensitive that it can be reliably detonated by exposure to alpha radiation; it is the only explosive for which this is true.Primary explosives are often used in detonators or to trigger larger charges of less sensitive secondary explosives. Primary explosives are commonly used in blasting caps and percussion caps to translate a physical shock signal. In other situations, different signals such as electrical or physical shock, or, in the case of laser detonation systems, light, are used to initiate an action, i.e., an explosion. A small quantity, usually milligrams, is sufficient to initiate a larger charge of explosive that is usually safer to handle.
+Examples of primary high explosives are:
+
+
+==== Secondary ====
+A secondary explosive is less sensitive than a primary explosive and requires substantially more energy to be initiated. Because they are less sensitive, they are usable in a wider variety of applications and are safer to handle and store. Secondary explosives are used in larger quantities in an explosive train and are usually initiated by a smaller quantity of a primary explosive.
+Examples of secondary explosives include TNT and RDX.
+
+
+==== Tertiary ====
+Tertiary explosives, also called blasting agents, are so insensitive to shock that they cannot be reliably detonated by practical quantities of primary explosive, and instead require an intermediate explosive booster of secondary explosive. These are often used for safety and the typically lower costs of material and handling. The largest consumers are large-scale mining and construction operations.
+Most tertiaries include a fuel and an oxidizer. ANFO can be a tertiary explosive if its reaction rate is slow.
+
+
+=== By velocity ===
+
+
+==== Low ====
+Low explosives are compounds wherein the rate of decomposition proceeds through the material at less than the speed of sound. The decomposition is propagated by a flame front (deflagration) which travels much more slowly through the explosive material than a shock wave of a high explosive. Under normal conditions, low explosives undergo deflagration at rates that vary from a few centimetres per second to approximately 0.4 kilometres per second (1,300 ft/s). It is possible for them to deflagrate very quickly, producing an effect similar to a detonation. This can happen under higher pressure (such as when gunpowder deflagrates inside the confined space of a bullet casing, accelerating the bullet to well beyond the speed of sound) or temperature.
+A low explosive is usually a mixture of a combustible substance and an oxidant that decomposes rapidly (deflagration); however, they burn more slowly than a high explosive, which has an extremely fast burn rate.Low explosives are normally employed as propellants. Included in this group are petroleum products such as propane and gasoline, gunpowder (including smokeless powder), and light pyrotechnics, such as flares and fireworks, but can replace high explosives in certain applications, including in gas pressure blasting.
+
+
+==== High ====
+High explosives (HE) are explosive materials that detonate, meaning that the explosive shock front passes through the material at a supersonic speed. High explosives detonate with explosive velocity of about 3–9 kilometres per second (9,800–29,500 ft/s). For instance, TNT has a detonation (burn) rate of approximately 6.9 km/s (22,600 feet per second), detonating cord of 6.7 km/s (22,000 feet per second), and C-4 about 8.0 km/s (26,000 feet per second). They are normally employed in mining, demolition, and military applications. The term high explosive is in contrast with the term low explosive, which explodes (deflagrates) at a lower rate.
+High explosives can be divided into two explosives classes differentiated by sensitivity: primary explosive and secondary explosive. Although tertiary explosives (such as ANFO at 3,200 m/s) can technically meet the explosive velocity definition, they are not considered high explosives in regulatory contexts.
+Countless high-explosive compounds are chemically possible, but commercially and militarily important ones have included NG, TNT, TNP, TNX, RDX, HMX, PETN, TATP, TATB, and HNS.
+
+
+=== By physical form ===
+
+Explosives are often characterized by the physical form that the explosives are produced or used in. These use forms are commonly categorized as:
+Pressings
+Castings
+Plastic or polymer bonded
+Plastic explosives, a.k.a. putties
+Rubberized
+Extrudable
+Binary
+Blasting agents
+Slurries and gels
+Dynamites
+
+
+=== Shipping label classifications ===
+Shipping labels and tags may include both United Nations and national markings.
+United Nations markings include numbered Hazard Class and Division (HC/D) codes and alphabetic Compatibility Group codes. Though the two are related, they are separate and distinct. Any Compatibility Group designator can be assigned to any Hazard Class and Division. An example of this hybrid marking would be a consumer firework, which is labeled as 1.4G or 1.4S.
+Examples of national markings would include United States Department of Transportation (U.S. DOT) codes.
+
+
+==== United Nations (UN) GHS Hazard Class and Division ====
+
+The UN GHS Hazard Class and Division (HC/D) is a numeric designator within a hazard class indicating the character, predominance of associated hazards, and potential for causing personnel casualties and property damage. It is an internationally accepted system that communicates using the minimum amount of markings the primary hazard associated with a substance.Listed below are the Divisions for Class 1 (Explosives):
+
+1.1 Mass Detonation Hazard. With HC/D 1.1, it is expected that if one item in a container or pallet inadvertently detonates, the explosion will sympathetically detonate the surrounding items. The explosion could propagate to all or the majority of the items stored together, causing a mass detonation. There will also be fragments from the item's casing and/or structures in the blast area.
+1.2 Non-mass explosion, fragment-producing. HC/D 1.2 is further divided into three subdivisions, HC/D 1.2.1, 1.2.2 and 1.2.3, to account for the magnitude of the effects of an explosion.
+1.3 Mass fire, minor blast or fragment hazard. Propellants and many pyrotechnic items fall into this category. If one item in a package or stack initiates, it will usually propagate to the other items, creating a mass fire.
+1.4 Moderate fire, no blast or fragment. HC/D 1.4 items are listed in the table as explosives with no significant hazard. Most small arms ammunition (including loaded weapons) and some pyrotechnic items fall into this category. If the energetic material in these items inadvertently initiates, most of the energy and fragments will be contained within the storage structure or the item containers themselves.
+1.5 mass detonation hazard, very insensitive.
+1.6 detonation hazard without mass detonation hazard, extremely insensitive.To see an entire UNO Table, browse Paragraphs 3-8 and 3-9 of NAVSEA OP 5, Vol. 1, Chapter 3.
+
+
+==== Class 1 Compatibility Group ====
+Compatibility Group codes are used to indicate storage compatibility for HC/D Class 1 (explosive) materials. Letters are used to designate 13 compatibility groups as follows.
+
+A: Primary explosive substance (1.1A).
+B: An article containing a primary explosive substance and not containing two or more effective protective features. Some articles, such as detonator assemblies for blasting and primers, cap-type, are included. (1.1B, 1.2B, 1.4B).
+C: Propellant explosive substance or other deflagrating explosive substance or article containing such explosive substance (1.1C, 1.2C, 1.3C, 1.4C). These are bulk propellants, propelling charges, and devices containing propellants with or without means of ignition. Examples include single-based propellant, double-based propellant, triple-based propellant, and composite propellants, solid propellant rocket motors and ammunition with inert projectiles.
+D: Secondary detonating explosive substance or black powder or article containing a secondary detonating explosive substance, in each case without means of initiation and without a propelling charge, or article containing a primary explosive substance and containing two or more effective protective features. (1.1D, 1.2D, 1.4D, 1.5D).
+E: Article containing a secondary detonating explosive substance without means of initiation, with a propelling charge (other than one containing flammable liquid, gel or hypergolic liquid) (1.1E, 1.2E, 1.4E).
+F containing a secondary detonating explosive substance with its means of initiation, with a propelling charge (other than one containing flammable liquid, gel or hypergolic liquid) or without a propelling charge (1.1F, 1.2F, 1.3F, 1.4F).
+G: Pyrotechnic substance or article containing a pyrotechnic substance, or article containing both an explosive substance and an illuminating, incendiary, tear-producing or smoke-producing substance (other than a water-activated article or one containing white phosphorus, phosphide or flammable liquid or gel or hypergolic liquid) (1.1G, 1.2G, 1.3G, 1.4G). Examples include Flares, signals, incendiary or illuminating ammunition and other smoke and tear producing devices.
+H: Article containing both an explosive substance and white phosphorus (1.2H, 1.3H). These articles will spontaneously combust when exposed to the atmosphere.
+J: Article containing both an explosive substance and flammable liquid or gel (1.1J, 1.2J, 1.3J). This excludes liquids or gels which are spontaneously flammable when exposed to water or the atmosphere, which belong in group H. Examples include liquid or gel filled incendiary ammunition, fuel-air explosive (FAE) devices, and flammable liquid fueled missiles.
+K: Article containing both an explosive substance and a toxic chemical agent (1.2K, 1.3K)
+L Explosive substance or article containing an explosive substance and presenting a special risk (e.g., due to water-activation or presence of hypergolic liquids, phosphides, or pyrophoric substances) needing isolation of each type (1.1L, 1.2L, 1.3L). Damaged or suspect ammunition of any group belongs in this group.
+N: Articles containing only extremely insensitive detonating substances (1.6N).
+S: Substance or article so packed or designed that any hazardous effects arising from accidental functioning are limited to the extent that they do not significantly hinder or prohibit fire fighting or other emergency response efforts in the immediate vicinity of the package (1.4S).
+
+
+== Regulation ==
+The legality of possessing or using explosives varies by jurisdiction. Various countries around the world have enacted explosives law and require licenses to manufacture, distribute, store, use, possess explosives or ingredients.
+
+
+=== Netherlands ===
+In the Netherlands, the civil and commercial use of explosives is covered under the Wet explosieven voor civiel gebruik (explosives for civil use Act), in accordance with EU directive nr. 93/15/EEG (Dutch). The illegal use of explosives is covered under the Wet Wapens en Munitie (Weapons and Munition Act) (Dutch).
+
+
+=== UK ===
+
+The new Explosives Regulations 2014 (ER 2014) came into force on 1 October 2014 and defines "explosive" as:
+
+"a) any explosive article or explosive substance which would —
+(i) if packaged for transport, be classified in accordance with the United Nations Recommendations as falling within Class 1; or
+(ii) be classified in accordance with the United Nations Recommendations as —
+(aa) being unduly sensitive or so reactive as to be subject to spontaneous reaction and accordingly too dangerous to transport, and
+(bb) falling within Class 1; or
+(b) a desensitised explosive,
+
+but it does not include an explosive substance produced as part of a manufacturing process which thereafter reprocesses it in order to produce a substance or preparation which is not an explosive substance"
+"Anyone who wishes to acquire and or keep relevant explosives needs to contact their local police explosives liaison officer. All explosives are relevant explosives apart from those listed under Schedule 2 of Explosives Regulations 2014."
+
+
+=== United States ===
+During World War I, numerous laws were created to regulate war related industries and increase security within the United States. In 1917, the 65th United States Congress created many laws, including the Espionage Act of 1917 and Explosives Act of 1917.
+The Explosives Act of 1917 (session 1, chapter 83, 40 Stat. 385) was signed on 6 October 1917 and went into effect on 16 November 1917. The legal summary is "An Act to prohibit the manufacture, distribution, storage, use, and possession in time of war of explosives, providing regulations for the safe manufacture, distribution, storage, use, and possession of the same, and for other purposes". This was the first federal regulation of licensing explosives purchases. The act was deactivated after World War I ended.After the United States entered World War II, the Explosives Act of 1917 was reactivated. In 1947, the act was deactivated by President Truman.The Organized Crime Control Act of 1970 (Pub.L. 91–452) transferred many explosives regulations to the Bureau of Alcohol, Tobacco and Firearms (ATF) of the Department of Treasury. The bill became effective in 1971.Currently, regulations are governed by Title 18 of the United States Code and Title 27 of the Code of Federal Regulations:
+
+"Importation, Manufacture, Distribution and Storage of Explosive Materials" (18 U.S.C. Chapter 40).
+"Commerce in Explosives" (27 C.F.R. Chapter II, Part 555).
+Many states restrict the possession, sale, and use of explosives.
+
+
+== List ==
+
+
+=== Compounds ===
+
+
+==== Acetylides ====
+CUA, DCA, AGA
+
+
+==== Fulminates ====
+HCNO, AUF, HGF, PTF, KF, AGF
+
+
+==== Nitro ====
+MonoNitro: NGA, NE, NM, NP, NS, NU
+DiNitro: DDNP, DNB, DNEU, DNN, DNP, DNPA, DNPH, DNR, DNPD, DNPA, DNC, DPS, DPA, EDNP, KDNBF, BEAF
+TriNitro: RDX, DATB, TATB, PBS, PBP, TNAL, TNAS, TNB, TNBA, TNC, MC, TNEF, TNOC, TNOF, TNP, TNT, TNN, TNPG, TNR, BTNEN, BTNEC, SA, API, TNS
+TetraNitro: Tetryl
+OctaNitro: ONC
+
+
+==== Nitrates ====
+Mononitrates: AN, BAN, CAN, MAN, NAN, UN
+Dinitrates: DEGDN, EDDN, EDNA, EGDN, HDN, TEGDN, TAOM
+Trinitrates: BTTN, TMOTN, NG
+Tetranitrates: ETN, PETN, TNOC
+Pentanitrates: XPN
+Hexanitrates: CHN, MHN
+
+
+==== Amines ====
+Tertiary Amines: NTBR, NTCL, NTI, NTS, SEN, AGN
+Diamines: DSDN
+Azides: CNA, CYA, CLA, CUA, EA, FA, HA, PBA, AGA, NAA, RBA, SEA, SIA, TEA, TAM, TIA
+Tetramines: TZE, TZO, AA
+Pentamines: PZ
+Octamines: OAC, ATA
+
+
+==== Peroxides ====
+AP (TATP), CHP, DAP, DBP, DEP, HMTD, MEKP, TBHP
+
+
+==== Oxides ====
+XOTF, XDIO, XTRO, XTEO
+
+
+==== Unsorted ====
+Alkali metal Ozonides
+Ammonium chlorate
+Ammonium perchlorate
+Ammonium permaganate
+Azidotetrazolates
+Azoclathrates
+Benzvalene
+Chlorine oxides
+DMAPP
+Fluorine perchlorate
+Fulminating gold
+Fulminating silver (several substances)
+Hexafluoroarsenate
+Hypofluorous acid
+Manganese heptoxide
+Mercury nitride
+Nitronium perchlorate
+Nitrotetrazolate-N-Oxides
+Peroxy acids
+Peroxymonosulfuric acid
+Tetramine copper complexes
+Tetrasulfur tetranitride
+
+
+=== Mixtures ===
+Aluminum Orphorite, Amatex, Amatol, Ammonal, Armstrong's mixture, ANFO, ANNMAL, Astrolite
+Baranol, Baratol, Ballistite, Butyl tetryl
+Carbonite, Composition A, Composition B, Composition C, Composition 1, Composition 2, Composition 3, Composition 4, Composition 5, Composition B, Composition H6, Cordtex, Cyclotol
+CDP Formulations
+Danubit, Detasheet, Detonating cord, Dualin, Dunnite, Dynamite
+Ecrasite, Ednatol
+Flash powder
+Gelignite, Gunpowder
+Hexanite, Hydromite 600
+Kinetite
+Minol
+Octol, Oxyliquit
+Panclastite, Pentolite, Picratol, PNNM, Pyrotol
+Schneiderite, Semtex, Shellite
+Tannerit simply, Tannerite, Titadine, Tovex, Torpex, Tritonal
+
+
+=== Elements and isotopes ===
+Alkali metals
+Explosive antimony
+Plutonium-239
+Uranium-235
+
+
+== See also ==
+Binary explosive
+Blast injury
+Detection dog
+Detonation velocity
+Fireworks
+Flame speed
+Gunpowder
+Improvised explosive device
+Insensitive munition
+Largest artificial non-nuclear explosions
+Nuclear weapon
+Orica; largest supplier of commercial explosives
+Pyrotechnics
+Relative effectiveness factor
+TM 31-210 Improvised Munitions Handbook
+Total body disruption
+
+
+== References ==
+
+
+== Further reading ==
+
+
+=== U.S. Government ===
+Explosives and Demolitions FM 5–250; U.S. Department of the Army; 274 pp.; 1992.
+Military Explosives TM 9-1300-214; U.S. Department of the Army; 355 pp.; 1984.
+Explosives and Blasting Procedures Manual; U.S. Department of Interior; 128 pp.; 1982.
+Safety and Performance Tests for Qualification of Explosives; Commander, Naval Ordnance Systems Command; NAVORD OD 44811. Washington, DC: GPO, 1972.
+Weapons Systems Fundamentals; Commander, Naval Ordnance Systems Command. NAVORD OP 3000, vol. 2, 1st rev. Washington, DC: GPO, 1971.
+Elements of Armament Engineering – Part One; Army Research Office. Washington, D.C.: U.S. Army Materiel Command, 1964.
+Hazardous Materials Transportation Plaecards; USDOT.
+
+
+=== Institute of Makers of Explosives ===
+Safety in the Handling and Use of Explosives SLP 17; Institute of Makers of Explosives; 66 pp.; 1932 / 1935 / 1940.
+History of the Explosives Industry in America; Institute of Makers of Explosives; 37 pp.; 1927.
+Clearing Land of Stumps; Institute of Makers of Explosives; 92 pp.; 1917.
+The Use of Explosives for Agricultural and Other Purposes; Institute of Makers of Explosives; 190 pp.; 1917.
+The Use of Explosives in making Ditches; Institute of Makers of Explosives; 80 pp.; 1917.
+
+
+=== Other historical ===
+Farmers' Hand Book of Explosives; duPont; 113 pp.; 1920.
+A Short Account of Explosives; Arthur Marshall; 119 pp.; 1917.
+Historical Papers on Modern Explosives; George MacDonald; 216 pp.; 1912.
+The Rise and Progress of the British Explosives Industry; International Congress of Pure and Applied Chemistry; 450 pp.; 1909.
+Explosives and their Power; M. Berthelot; 592 pp.; 1892.
+
+
+== External links ==
+Listed in Alphabetical Order:
+
+Blaster Exchange – Explosives Industry Portal
+Class 1 Hazmat Placards
+Explosives Academy
+Explosives info
+Journal of Energetic Materials
+Military Explosives
+The Explosives and Weapons Forum
+Why high nitrogen density in explosives? Archived 26 May 2013 at the Wayback Machine
+YouTube video demonstrating blast wave in slow motion
+

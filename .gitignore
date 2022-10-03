@@ -1,0 +1,8 @@
+# Intellij
+.idea/
+
+# Reports
+.ipynb_checkpoints
+
+# src
+articles.zip

@@ -1,0 +1,104 @@
+####### TITLE #######
+
+Physical chemistry
+
+####### LINKS #######
+
+['Acid–base reaction', 'Acoustics', 'Actinide chemistry', 'Aerogel', 'Agricultural chemistry', 'Alchemy', 'Alkane stereochemistry', 'Amateur chemistry', 'Analytical chemistry', 'Analytical dynamics', 'Analytical mechanics', 'Annales de chimie et de physique', 'Annual Review of Physical Chemistry', 'Applied physics', 'Astrochemistry', 'Astrophysics', 'Atmospheric chemistry', 'Atmospheric physics', 'Atom', 'Atom cluster', 'Atomic, molecular, and optical physics', 'Atomic nucleus', 'Atomic physics', 'Atoms', 'Avogadro constant', 'Basic research', 'Benson group increment theory', 'Bibcode (identifier)', 'Biochemistry', 'Biogeochemistry', 'Bioinorganic chemistry', 'Bioorganic chemistry', 'Bioorganometallic chemistry', 'Bioorthogonal chemistry', 'Biophysical chemistry', 'Biophysics', 'Biosynthesis', 'Branches of physics', 'Calorimetry', 'Carbochemistry', 'Carbohydrate chemistry', 'Catalysis', 'Catalysts', 'Celestial mechanics', 'Cell biology', 'Cell membrane', 'Ceramic chemistry', 'Ceramic engineering', 'Characterization (materials science)', 'ChemPhysChem', 'Chemical biology', 'Chemical bond', 'Chemical compound', 'Chemical element', 'Chemical engineering', 'Chemical equilibrium', 'Chemical kinetics', 'Chemical law', 'Chemical physics', 'Chemical potential', 'Chemical reaction', 'Chemical reactions', 'Chemical species', 'Chemical substance', 'Chemical synthesis', 'Chemical thermodynamics', 'Chemist', 'Chemistry', 'Chemistry education', 'Chromatography', 'Clandestine chemistry', 'Classical electromagnetism', 'Classical mechanics', 'Classical optics', 'Classical physics', 'Clay chemistry', 'Click chemistry', 'Clinical chemistry', 'Colligative properties', 'Colloid', 'Colloids', 'Combinatorial chemistry', 'Computational chemistry', 'Computational physics', 'Condensed matter physics', 'Conductivity (electrolytic)', 'Continuum mechanics', 'Coordination complex', 'Cosmochemistry', 'Cryochemistry', 'Crystallography', 'Doi (identifier)', 'Dynamic covalent chemistry', 'Electroanalytical methods', 'Electrochemical cell', 'Electrochemistry', 'Electrolyte', 'Electromagnetic radiation', 'Electron ionization', 'Electron paramagnetic resonance', 'Elemental analysis', 'Elementary reaction', 'Enantioselective synthesis', 'Energy', 'Engineering physics', 'Entropy', 'Environmental chemistry', 'Equilibrium chemistry', 'Experimental physics', 'Faraday Transactions', 'Femtochemistry', 'Food chemistry', 'Food physical chemistry', 'Force', 'Forensic chemistry', 'Forensic toxicology', 'Fullerene chemistry', 'Gas', 'Gas chromatography', 'General chemistry', 'General relativity', 'Geochemistry', 'Geometrical optics', 'Geophysics', "Gibbs' phase rule", 'Gibbs free energy', 'Glossary of chemical formulae', 'Glossary of chemistry', 'Green chemistry', 'Group contribution method', 'Heat', 'High-performance liquid chromatography', 'History of chemistry', 'History of physics', 'ISBN (identifier)', 'Index of chemistry articles', 'Inductively coupled plasma mass spectrometry', 'Infrared spectroscopy', 'Inorganic chemistry', 'Instrumental chemistry', 'Interdisciplinarity', 'Interface and colloid science', 'Intermolecular force', 'Internal combustion engine', 'Introduction to quantum mechanics', 'Ion', 'Irving Langmuir', "Jacobus Henricus van 't Hoff", 'Joback method', 'Josiah Willard Gibbs', 'Journal of Physical Chemistry A', 'Journal of Physical Chemistry B', 'Journal of Physical Chemistry C', 'Journal of Physical Chemistry Letters', 'Journal of Physical Organic Chemistry', 'Keith J. Laidler', 'Linus Pauling', 'Liquid', 'List of biomolecules', 'List of chemistry awards', 'List of chemistry journals', 'List of chemists', 'List of important publications in chemistry', 'List of inorganic compounds', 'List of unsolved problems in chemistry', 'Lydersen method', 'Macromolecular Chemistry and Physics', 'Macroscopic scale', 'Magnetochemistry', 'Mass spectrometry', 'Materials science', 'Mathematical chemistry', 'Mathematical physics', 'Matrix-assisted laser desorption/ionization', 'Matter', 'Medical physics', 'Medicinal chemistry', 'Metallurgy', 'Micromeritics', 'Microscopic scale', 'Microwave chemistry', 'Microwave spectroscopy', 'Mikhail Lomonosov', 'Modern physics', 'Molecular Physics (journal)', 'Molecular biology', 'Molecular dynamics', 'Molecular mechanics', 'Molecular modelling', 'Molecular physics', 'Molecule', 'Motion (physics)', 'Nanochemistry', 'Neurochemistry', "Newton's laws of motion", 'Nobel Prize in Chemistry', 'Nobel Prize in Physics', 'Non-equilibrium thermodynamics', 'Nuclear chemistry', 'Nuclear magnetic resonance spectroscopy', 'Nuclear physics', 'Ocean chemistry', 'On the Equilibrium of Heterogeneous Substances', 'Optics', 'Organic chemistry', 'Organic reactions', 'Organic synthesis', 'Organolanthanide chemistry', 'Organometallic chemistry', 'Outline of chemistry', 'Oxford University Press', 'PMID (identifier)', 'Particle physics', 'Periodic table', 'Petersburg University', 'Petrochemistry', 'Pharmacology', 'Phase (matter)', 'Phase rule', 'Photochemistry', 'Photoelectrochemistry', 'Photogeochemistry', 'Physical Chemistry Chemical Physics', 'Physical biochemistry', 'Physical oceanography', 'Physical optics', 'Physical organic chemistry', 'Physics', 'Physics education', 'Physiological chemistry', 'Plasticity (physics)', 'Polymer chemistry', 'Polymer science', 'Post-mortem chemistry', 'Pressure', 'Product (chemistry)', 'Quantitative structure–activity relationship', 'Quantum chemistry', 'Quantum information science', 'Quantum mechanics', 'Quasi-equilibrium', 'Radiation chemistry', 'Radiochemistry', 'Raman spectroscopy', 'Reaction rate', 'Reagent', 'Redox', 'Relativistic mechanics', 'Retrosynthetic analysis', 'Reversible process (thermodynamics)', 'Scientific journal', 'Semisynthesis', 'Separation process', 'Soil chemistry', 'Solid-state chemistry', 'Sonochemistry', 'Special relativity', 'Spectroelectrochemistry', 'Spectroscopy', 'Spin chemistry', 'Statistical mechanics', 'Statistical thermodynamics', 'Stellar chemistry', 'Stereochemistry', 'Structural chemistry', 'Supramolecular chemistry', 'Surface chemistry', 'Surface science', 'Surface tension', 'Svante August Arrhenius', 'Tensile strength', 'The central science', 'Theoretical chemistry', 'Theoretical physics', 'Thermal expansion coefficient', 'Thermochemistry', 'Thermodynamic equilibrium', 'Thermodynamic free energy', 'Thermodynamics', 'Time', 'Timeline of chemical element discoveries', 'Timeline of chemistry', 'Timeline of fundamental physics discoveries', 'Titration', 'Total synthesis', 'Transition state', 'Ultraviolet–visible spectroscopy', 'Wet chemistry', 'Wikiversity', 'Wilhelm Ostwald', 'Work (physics)', 'Zeitschrift für Physikalische Chemie']
+
+####### CATEGORIES #######
+
+['All articles with unsourced statements', 'Articles with BNF identifiers', 'Articles with FAST identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Articles with unsourced statements from February 2013', 'Commons category link from Wikidata', 'Physical chemistry', 'Short description is different from Wikidata']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/6/69/Aerogelflower_filtered.jpg', 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Gnome-applications-science.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/30/Lomonosov_Chymiae_Physicae_1752.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/ed/Papapishu-Lab-icon-6.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/37/People_icon.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Wikibooks-logo-en-noslogan.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Wikiversity_logo_2017.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/e/e2/Symbol_portal_class.svg']
+
+####### REFERENCES #######
+
+['http://www.oup.com/us/catalog/general/subject/Chemistry/?view=usa&ci=9780195321340', 'http://pubmed.ncbi.nlm.nih.gov/16833724', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007284917505171', 'http://www.joachimschummer.net/jslit/physchem.htm', 'http://doi.org/10.1021%2Fjp050461c', 'http://id.worldcat.org/fast/853521/', 'https://www.amazon.com/Years-Physical-Chemistry-Royal-Society/dp/0854049878/', 'https://books.google.com/books?id=01LRlPbH80cC', 'https://books.google.com/books?id=1UZjU2WfLAoC', 'https://books.google.com/books?id=B3WvWhJTTX8C', 'https://books.google.com/books?id=YoE1wsA6USQC&pg=PA388', 'https://books.google.com/books?id=v1oU13xAl6AC&pg=RA1-PA134', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph114602&CON_LNG=ENG', 'https://ui.adsabs.harvard.edu/abs/2005JPCA..109.4017H', 'https://catalogue.bnf.fr/ark:/12148/cb11936915f', 'https://data.bnf.fr/ark:/12148/cb11936915f', 'https://id.loc.gov/authorities/subjects/sh85023027', 'https://d-nb.info/gnd/4045959-7', 'https://id.ndl.go.jp/auth/ndlna/00561126', 'https://archive.org/details/worldofphysicalc0000laid', 'https://archive.org/details/worldofphysicalc0000laid/page/48', 'https://www.wikidata.org/wiki/Q11372#identifiers']
+
+####### SUMMARY #######
+
+Physical chemistry is the study of macroscopic and microscopic phenomena in chemical systems in terms of the principles, practices, and concepts of physics such as motion, energy, force, time, thermodynamics, quantum chemistry, statistical mechanics, analytical dynamics and chemical equilibria.
+Physical chemistry, in contrast to chemical physics, is predominantly (but not always) a supra-molecular science, as the majority of the principles on which it was founded relate to the bulk rather than the molecular or atomic structure alone (for example, chemical equilibrium and colloids).
+Some of the relationships that physical chemistry strives to resolve include the effects of:
+
+Intermolecular forces that act upon the physical properties of materials (plasticity, tensile strength, surface tension in liquids).
+Reaction kinetics on the rate of a reaction.
+The identity of ions and the electrical conductivity of materials.
+Surface science and electrochemistry of cell membranes.
+Interaction of one body with another in terms of quantities of heat and work called thermodynamics.
+Transfer of heat between a chemical system and its surroundings during change of phase or chemical reaction taking place called thermochemistry
+Study of colligative properties of number of species present in solution.
+Number of phases, number of components and degree of freedom (or variance) can be correlated with one another with help of phase rule.
+Reactions of electrochemical cells.
+Behaviour of microscopic systems using quantum mechanics and macroscopic systems using statistical thermodynamics.
+
+####### CONTENT #######
+
+Physical chemistry is the study of macroscopic and microscopic phenomena in chemical systems in terms of the principles, practices, and concepts of physics such as motion, energy, force, time, thermodynamics, quantum chemistry, statistical mechanics, analytical dynamics and chemical equilibria.
+Physical chemistry, in contrast to chemical physics, is predominantly (but not always) a supra-molecular science, as the majority of the principles on which it was founded relate to the bulk rather than the molecular or atomic structure alone (for example, chemical equilibrium and colloids).
+Some of the relationships that physical chemistry strives to resolve include the effects of:
+
+Intermolecular forces that act upon the physical properties of materials (plasticity, tensile strength, surface tension in liquids).
+Reaction kinetics on the rate of a reaction.
+The identity of ions and the electrical conductivity of materials.
+Surface science and electrochemistry of cell membranes.
+Interaction of one body with another in terms of quantities of heat and work called thermodynamics.
+Transfer of heat between a chemical system and its surroundings during change of phase or chemical reaction taking place called thermochemistry
+Study of colligative properties of number of species present in solution.
+Number of phases, number of components and degree of freedom (or variance) can be correlated with one another with help of phase rule.
+Reactions of electrochemical cells.
+Behaviour of microscopic systems using quantum mechanics and macroscopic systems using statistical thermodynamics.
+
+
+== Key concepts ==
+The key concepts of physical chemistry are the ways in which pure physics is applied to chemical problems.
+One of the key concepts in classical chemistry is that all chemical compounds can be described as groups of atoms bonded together and chemical reactions can be described as the making and breaking of those bonds. Predicting the properties of chemical compounds from a description of atoms and how they bond is one of the major goals of physical chemistry. To describe the atoms and bonds precisely, it is necessary to know both where the nuclei of the atoms are, and how electrons are distributed around them.
+
+
+== Disciplines ==
+Quantum chemistry, a subfield of physical chemistry especially concerned with the application of quantum mechanics to chemical problems, provides tools to determine how strong and what shape bonds are, how nuclei move, and how light can be absorbed or emitted by a chemical compound. Spectroscopy is the related sub-discipline of physical chemistry which is specifically concerned with the interaction of electromagnetic radiation with matter.
+Another set of important questions in chemistry concerns what kind of reactions can happen spontaneously and which properties are possible for a given chemical mixture. This is studied in chemical thermodynamics, which sets limits on quantities like how far a reaction can proceed, or how much energy can be converted into work in an internal combustion engine, and which provides links between properties like the thermal expansion coefficient and rate of change of entropy with pressure for a gas or a liquid. It can frequently be used to assess whether a reactor or engine design is feasible, or to check the validity of experimental data. To a limited extent, quasi-equilibrium and non-equilibrium thermodynamics can describe irreversible changes. However, classical thermodynamics is mostly concerned with systems in equilibrium and reversible changes and not what actually does happen, or how fast, away from equilibrium.
+Which reactions do occur and how fast is the subject of chemical kinetics, another branch of physical chemistry. A key idea in chemical kinetics is that for reactants to react and form products, most chemical species must go through transition states which are higher in energy than either the reactants or the products and serve as a barrier to reaction. In general, the higher the barrier, the slower the reaction. A second is that most chemical reactions occur as a sequence of elementary reactions, each with its own transition state. Key questions in kinetics include how the rate of reaction depends on temperature and on the concentrations of reactants and catalysts in the reaction mixture, as well as how catalysts and reaction conditions can be engineered to optimize the reaction rate.
+The fact that how fast reactions occur can often be specified with just a few concentrations and a temperature, instead of needing to know all the positions and speeds of every molecule in a mixture, is a special case of another key concept in physical chemistry, which is that to the extent an engineer needs to know, everything going on in a mixture of very large numbers (perhaps of the order of the Avogadro constant, 6 x 1023) of particles can often be described by just a few variables like pressure, temperature, and concentration. The precise reasons for this are described in statistical mechanics, a specialty within physical chemistry which is also shared with physics. Statistical mechanics also provides ways to predict the properties we see in everyday life from molecular properties without relying on empirical correlations based on chemical similarities.
+
+
+== History ==
+
+The term "physical chemistry" was coined by Mikhail Lomonosov in 1752, when he presented a lecture course entitled "A Course in True Physical Chemistry" (Russian: «Курс истинной физической химии») before the students of Petersburg University. In the preamble to these lectures he gives the definition: "Physical chemistry is the science that must explain under provisions of physical experiments the reason for what is happening in complex bodies through chemical operations".
+Modern physical chemistry originated in the 1860s to 1880s with work on chemical thermodynamics, electrolytes in solutions, chemical kinetics and other subjects. One milestone was the publication in 1876 by Josiah Willard Gibbs of his paper, On the Equilibrium of Heterogeneous Substances.  This paper introduced several of the cornerstones of physical chemistry, such as Gibbs energy, chemical potentials, and Gibbs' phase rule.The first scientific journal specifically in the field of physical chemistry was the German journal, Zeitschrift für Physikalische Chemie, founded in 1887 by Wilhelm Ostwald and Jacobus Henricus van 't Hoff. Together with Svante August Arrhenius,  these were the leading figures in physical chemistry in the late 19th century and early 20th century. All three were awarded the Nobel Prize in Chemistry between 1901 and 1909.
+Developments in the following decades include the application of statistical mechanics to chemical systems and work on colloids and surface chemistry, where Irving Langmuir made many contributions. Another important step was the development of quantum mechanics into quantum chemistry from the 1930s, where Linus Pauling was one of the leading names. Theoretical developments have gone hand in hand with developments in experimental methods, where the use of different forms of spectroscopy, such as infrared spectroscopy, microwave spectroscopy, electron paramagnetic resonance and nuclear magnetic resonance spectroscopy, is probably the most important 20th century development.
+Further development in physical chemistry may be attributed to discoveries in nuclear chemistry, especially in isotope separation (before and during World War II), more recent discoveries in astrochemistry, as well as the development of calculation algorithms in the field of "additive physicochemical properties" (practically all physicochemical properties, such as boiling point, critical point, surface tension, vapor pressure, etc.—more than 20 in all—can be precisely calculated from chemical structure alone, even if the chemical molecule remains unsynthesized), and herein lies the practical importance of contemporary physical chemistry.
+See Group contribution method, Lydersen method, Joback method, Benson group increment theory, quantitative structure–activity relationship
+
+
+== Journals ==
+
+Some journals that deal with physical chemistry include Zeitschrift für Physikalische Chemie (1887); Journal of Physical Chemistry A (from 1896 as Journal of Physical Chemistry, renamed in 1997); Physical Chemistry Chemical Physics (from 1999, formerly Faraday Transactions with a history dating back to 1905); Macromolecular Chemistry and Physics (1947); Annual Review of Physical Chemistry (1950); Molecular Physics (1957); Journal of Physical Organic Chemistry (1988); Journal of Physical Chemistry B (1997); ChemPhysChem (2000); Journal of Physical Chemistry C (2007); and Journal of Physical Chemistry Letters (from 2010, combined letters previously published in the separate journals)
+Historical journals that covered both chemistry and physics include Annales de chimie et de physique (started in 1789, published under the name given here from 1815 to 1914).
+
+
+== Branches and related topics ==
+
+
+== See also ==
+List of important publications in chemistry#Physical chemistry
+List of unsolved problems in chemistry#Physical chemistry problems
+Physical biochemistry
+Category:Physical chemists
+
+
+== References ==
+
+
+== External links ==
+
+The World of Physical Chemistry (Keith J. Laidler, 1993)
+Physical Chemistry from Ostwald to Pauling (John W. Servos, 1996)
+100 Years of Physical Chemistry (Royal Society of Chemistry, 2004)
+Physical Chemistry: neither Fish nor Fowl? (Joachim Schummer, The Autonomy of Chemistry, Würzburg, Königshausen & Neumann, 1998, pp. 135–148)
+Cathedrals of Science (Patrick Coffey, 2008)
+The Cambridge History of Science: The modern physical and mathematical sciences (Mary Jo Nye, 2003)
+

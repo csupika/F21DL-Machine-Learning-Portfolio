@@ -1,0 +1,3567 @@
+####### TITLE #######
+
+Limit (mathematics)
+
+####### LINKS #######
+
+['(ε, δ)-definition of limit', '0.999...', 'A Course of Pure Mathematics', 'Absolute convergence', 'Absolute value', 'Addison-Wesley', 'Asymptotic analysis', 'Augustin-Louis Cauchy', 'Banach limit', 'Basel problem', 'Bernard Bolzano', 'Big O notation', 'Brooks/Cole', 'Calculus', 'Calculus of variations', 'Category theory', 'Cauchy sequence', 'Cauchy sequences', 'Cengage Learning', 'Closed set', 'Complete metric space', 'Complex analysis', 'Conditionally convergent', 'Continuous function', 'Convergence of random variables', 'Convergence tests', 'Convergent matrix', 'Convergent series', 'Derivative', 'Differential equation', 'Direct limit', 'Doi (identifier)', 'Dynamical systems', 'Epsilon-delta', 'Euclidean distance', 'Fourier analysis', 'Function (mathematics)', 'Functional analysis', 'Fundamental theorem of calculus', 'G. H. Hardy', 'Geometric series', 'Grégoire de Saint-Vincent', 'Harmonic analysis', 'Hypercomplex analysis', 'Hypernatural', 'Hyperreal number', 'ISBN (identifier)', 'Indeterminate form', 'Indicator function', 'Infinitesimal', 'Infinity', 'Integral', 'Inverse limit', 'JSTOR (identifier)', 'James Stewart (mathematician)', 'John Stillwell', 'Karl Weierstrass', 'LCCN (identifier)', 'Least-squares spectral analysis', 'Limit (category theory)', 'Limit (disambiguation)', 'Limit at infinity', 'Limit lemma', 'Limit of a function', 'Limit of a sequence', 'Limit point', 'Limit set', 'Limit superior and limit inferior', 'List of limits', 'Lists of integrals', 'Lp space', 'Mathematical analysis', 'Mathematics', 'Matrix calculus', 'Measure (mathematics)', 'Metric space', 'Modes of convergence', 'Modes of convergence (annotated index)', 'Modulus of convergence', 'Natural number', 'Neighborhood (topology)', 'Net (topology)', 'Non-standard analysis', 'Numerical analysis', 'OCLC (identifier)', 'One-sided limit', 'Order of convergence', 'Ordinary differential equation', 'P-adic analysis', 'P-adic number', 'Partial differential equation', 'Pointwise convergence', 'Power series', 'Quaternionic analysis', 'Radius of convergence', 'Ratio test', 'Rational numbers', 'Real-valued function', 'Real analysis', 'Real number', 'Recursion theory', 'Representation theory', 'Riemann series theorem', 'Ron Larson (mathematician)', 'Sequence', 'Series (mathematics)', 'Smoothness', 'Sobolev space', 'Special functions', 'Squeeze theorem', 'Standard part function', 'Stochastic differential equation', 'Subsequence', 'Table of derivatives', 'Tensor calculus', 'Topological space', 'Topology', 'Undecidable problem', 'Uniform convergence', 'Value (mathematics)', 'Vector calculus']
+
+####### CATEGORIES #######
+
+['Articles with NDL identifiers', 'Articles with short description', 'Asymptotic analysis', 'CS1 maint: location', 'Convergence (mathematics)', 'Differential calculus', 'General topology', 'Limits (mathematics)', 'Real analysis', 'Short description matches Wikidata']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/6/66/Limit-at-infinity-graph.png', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Wikibooks-logo-en-noslogan.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg']
+
+####### REFERENCES #######
+
+['http://jeff560.tripod.com/calculus.html', 'http://lccn.loc.gov/72011473', 'http://doi.org/10.1016%2F0315-0860(84)90005-3', 'http://doi.org/10.2307%2F2695743', 'http://www.jstor.org/stable/2695743', 'http://www.worldcat.org/oclc/1154894968', 'https://www.britannica.com/science/limit-mathematics', 'https://linkinghub.elsevier.com/retrieve/pii/0315086084900053', 'https://mathworld.wolfram.com/Epsilon-DeltaDefinition.html', 'https://mathworld.wolfram.com/Limit.html', 'https://id.ndl.go.jp/auth/ndlna/00567231', 'https://dec41.user.srcf.net/h/IA_L/analysis_i', 'https://archive.org/details/calculusearlytra00stew_1', 'https://web.archive.org/web/20150501123549/http://jeff560.tripod.com/calculus.html', 'https://web.archive.org/web/20200620203909/https://mathworld.wolfram.com/Limit.html', 'https://web.archive.org/web/20200625125230/https://mathworld.wolfram.com/Epsilon-DeltaDefinition.html', 'https://web.archive.org/web/20210509211046/https://www.britannica.com/science/limit-mathematics', 'https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Limit+(mathematics)', 'https://www.wikidata.org/wiki/Q177239#identifiers', 'https://www.worldcat.org/oclc/1154894968']
+
+####### SUMMARY #######
+
+In mathematics, a limit is the value that a function (or sequence) approaches as the input (or index) approaches some value. Limits are essential to calculus and mathematical analysis, and are used to define continuity, derivatives, and integrals.
+The concept of a limit of a sequence is further generalized to the concept of a limit of a topological net, and is closely related to limit and direct limit in category theory.
+In formulas, a limit of a function is usually written as
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        L
+        ,
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=L,}
+  (although a few authors may use "Lt" instead of "lim")
+and is read as "the limit of f of x as x approaches c equals L". The fact that a function f approaches the limit L as x approaches c is sometimes denoted by a right arrow (→ or 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+  ), as in
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        →
+        L
+        
+           as 
+        
+        x
+        →
+        c
+        ,
+      
+    
+    {\displaystyle f(x)\to L{\text{ as }}x\to c,}
+  which reads "
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   tends to 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   as 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   tends to 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  ".
+
+####### CONTENT #######
+
+In mathematics, a limit is the value that a function (or sequence) approaches as the input (or index) approaches some value. Limits are essential to calculus and mathematical analysis, and are used to define continuity, derivatives, and integrals.
+The concept of a limit of a sequence is further generalized to the concept of a limit of a topological net, and is closely related to limit and direct limit in category theory.
+In formulas, a limit of a function is usually written as
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        L
+        ,
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=L,}
+  (although a few authors may use "Lt" instead of "lim")
+and is read as "the limit of f of x as x approaches c equals L". The fact that a function f approaches the limit L as x approaches c is sometimes denoted by a right arrow (→ or 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+  ), as in
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        →
+        L
+        
+           as 
+        
+        x
+        →
+        c
+        ,
+      
+    
+    {\displaystyle f(x)\to L{\text{ as }}x\to c,}
+  which reads "
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   tends to 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   as 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   tends to 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  ".
+
+
+== History ==
+Grégoire de Saint-Vincent gave the first definition of limit (terminus) of a geometric series in his work Opus Geometricum (1647): "The terminus of a progression is the end of the series, which none progression can reach, even not if she is continued in infinity, but which she can approach nearer than a given segment."The modern definition of a limit goes back to Bernard Bolzano who, in 1817, introduced the basics of the epsilon-delta technique to define continuous functions. However, his work was not known during his lifetime.Augustin-Louis Cauchy in 1821, followed by Karl Weierstrass, formalized the definition of the limit of a function which became known as the (ε, δ)-definition of limit.
+The modern notation of placing the arrow below the limit symbol is due to G. H. Hardy, who introduced it in his book A Course of Pure Mathematics in 1908.
+
+
+== Types of limits ==
+
+
+=== In sequences ===
+
+
+==== Real numbers ====
+
+The expression 0.999... should be interpreted as the limit of the sequence 0.9, 0.99, 0.999, ... and so on. This sequence can be rigorously shown to have the limit 1, and therefore this expression is meaningfully interpreted as having the value 1.Formally, suppose a1, a2, … is a sequence of real numbers. When the limit of the sequence exists, the real number L is the limit of this sequence if and only if for every real number ε > 0, there exists a natural number N such that for all n > N, we have |an − L| < ε.
+The notation
+
+is often used, and which is read as
+
+"The limit of an as n approaches infinity equals L"The formal definition intuitively means that eventually, all elements of the sequence get arbitrarily close to the limit, since the absolute value |an − L| is the distance between an and L. 
+Not every sequence has a limit. If it does, then it is called convergent, and if it does not, then it is divergent. One can show that a convergent sequence has only one limit.
+The limit of a sequence and the limit of a function are closely related. On one hand, the limit as n approaches infinity of a sequence {an} is simply the limit at infinity of a function a(n)—defined on the natural numbers {n}. On the other hand, if X is the domain of a function f(x) and if the limit as n approaches infinity of f(xn) is L for every arbitrary sequence of points {xn} in {X – {x0}} which converges to x0, then the limit of the function f(x) as x approaches x0 is L. One such sequence would be {x0 + 1/n}.
+
+
+==== Infinity as a limit ====
+There is also a notion of having a limit "at infinity", as opposed to at some finite 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  . A sequence 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+   is said to "tend to infinity" if, for each real number 
+  
+    
+      
+        M
+        >
+        0
+      
+    
+    {\displaystyle M>0}
+  , known as the bound, there exists an integer 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that for each 
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+  , 
+
+That is, for every possible bound, the magnitude of the sequence eventually exceeds the bound. This is often written 
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+        =
+        ∞
+      
+    
+    {\displaystyle \lim _{n\rightarrow \infty }a_{n}=\infty }
+   or simply 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        →
+        ∞
+      
+    
+    {\displaystyle a_{n}\rightarrow \infty }
+  . Such sequences are also called unbounded.
+It is possible for a sequence to be divergent, but not tend to infinity. Such sequences are called oscillatory. An example of an oscillatory sequence is 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n}=(-1)^{n}}
+  .
+For the real numbers, there are corresponding notions of tending to positive infinity and negative infinity, by removing the modulus sign from the above definition:
+
+defines tending to positive infinity, while 
+
+defines tending to negative infinity.
+Sequences which do not tend to infinity are called bounded. Sequences which do not tend to positive infinity are called bounded above, while those which do not tend to negative infinity are bounded below.
+
+
+==== Metric space ====
+The discussion of sequences above is for sequences of real numbers. The notion of limits can be defined for sequences valued in more abstract spaces. One example of a more abstract space is metric spaces. If 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is a metric space with distance function 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  , and 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        
+          }
+          
+            n
+            ≥
+            0
+          
+        
+      
+    
+    {\displaystyle \{a_{n}\}_{n\geq 0}}
+   is a sequence in 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  , then the limit (when it exists) of the sequence is an element 
+  
+    
+      
+        a
+        ∈
+        M
+      
+    
+    {\displaystyle a\in M}
+   such that, given 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+  , there exists an 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that for each 
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+  , the equation
+
+is satisfied.
+An equivalent statement is that 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        →
+        a
+      
+    
+    {\displaystyle a_{n}\rightarrow a}
+   if the sequence of real numbers 
+  
+    
+      
+        d
+        (
+        a
+        ,
+        
+          a
+          
+            n
+          
+        
+        )
+        →
+        0
+      
+    
+    {\displaystyle d(a,a_{n})\rightarrow 0}
+  .
+
+
+===== Example: ℝn =====
+An important example is the space of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -dimensional real vectors, with elements 
+  
+    
+      
+        
+          x
+        
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        ⋯
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {x} =(x_{1},\cdots ,x_{n})}
+   where each of the 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+   are real, an example of a suitable distance function is the Euclidean distance, defined by
+
+The sequence of points 
+  
+    
+      
+        {
+        
+          
+            x
+          
+          
+            n
+          
+        
+        
+          }
+          
+            n
+            ≥
+            0
+          
+        
+      
+    
+    {\displaystyle \{\mathbf {x} _{n}\}_{n\geq 0}}
+   converges to 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \mathbf {x} }
+   if the limit exists and 
+  
+    
+      
+        
+          |
+        
+        
+          
+            x
+          
+          
+            n
+          
+        
+        −
+        
+          x
+        
+        
+          |
+        
+        →
+        0
+      
+    
+    {\displaystyle |\mathbf {x} _{n}-\mathbf {x} |\rightarrow 0}
+  .
+
+
+==== Topological space ====
+In some sense the most abstract space in which limits can be defined are topological spaces. If 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   is a topological space with topology 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  , and 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        
+          }
+          
+            n
+            ≥
+            0
+          
+        
+      
+    
+    {\displaystyle \{a_{n}\}_{n\geq 0}}
+   is a sequence in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , then the limit (when it exists) of the sequence is a point 
+  
+    
+      
+        a
+        ∈
+        X
+      
+    
+    {\displaystyle a\in X}
+   such that, given a (open) neighborhood 
+  
+    
+      
+        U
+        ∈
+        τ
+      
+    
+    {\displaystyle U\in \tau }
+   of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , there exists an 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that for every 
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+  ,
+
+is satisfied.
+
+
+==== Function space ====
+This section deals with the idea of limits of sequences of functions, not to be confused with the idea of limits of functions, discussed below.
+The field of functional analysis partly seeks to identify useful notions of convergence on function spaces. For example, consider the space of functions from a generic set 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   to 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  . Given a sequence of functions 
+  
+    
+      
+        {
+        
+          f
+          
+            n
+          
+        
+        
+          }
+          
+            n
+            >
+            0
+          
+        
+      
+    
+    {\displaystyle \{f_{n}\}_{n>0}}
+   such that each is a function 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        :
+        E
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f_{n}:E\rightarrow \mathbb {R} }
+  , suppose that there exists a function such that for each 
+  
+    
+      
+        x
+        ∈
+        E
+      
+    
+    {\displaystyle x\in E}
+  ,
+
+Then the sequence 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f_{n}}
+   is said to  converge pointwise to 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  . However, such sequences can exhibit unexpected behavior. For example, it is possible to construct a sequence of continuous functions which has a discontinuous pointwise limit. 
+Another notion of convergence is uniform convergence. The uniform distance between two functions 
+  
+    
+      
+        f
+        ,
+        g
+        :
+        E
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f,g:E\rightarrow \mathbb {R} }
+   is the maximum difference between the two functions as the argument 
+  
+    
+      
+        x
+        ∈
+        E
+      
+    
+    {\displaystyle x\in E}
+   is varied. That is, 
+
+Then the sequence 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+      
+    
+    {\displaystyle f_{n}}
+   is said to uniformly converge or have a uniform limit of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   if 
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        →
+        f
+      
+    
+    {\displaystyle f_{n}\rightarrow f}
+   with respect to this distance. The uniform limit has "nicer" properties than the pointwise limit. For example, the uniform limit of a sequence of continuous functions is continuous.
+Many different notions of convergence can be defined on function spaces. This is sometimes dependent on the  regularity of the space. Prominent examples of function spaces with some notion of convergence are Lp spaces and Sobolev space.
+
+
+=== In functions ===
+
+Suppose f is a real-valued function and c is a real number. Intuitively speaking, the expression
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            c
+          
+        
+        f
+        (
+        x
+        )
+        =
+        L
+      
+    
+    {\displaystyle \lim _{x\to c}f(x)=L}
+  means that f(x) can be made to be as close to L as desired, by making x sufficiently close to c.  In that case, the above equation can be read as "the limit of f of x, as x approaches c, is L".
+Formally, the definition of the "limit of 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   as 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   approaches 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  " is given as follows. The limit is a real number 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   so that, given an arbitrary real number 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+   (thought of as the "error"), there is a 
+  
+    
+      
+        δ
+        >
+        0
+      
+    
+    {\displaystyle \delta >0}
+   such that, for any 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   satisfying 
+  
+    
+      
+        0
+        <
+        
+          |
+        
+        x
+        −
+        c
+        
+          |
+        
+        <
+        δ
+      
+    
+    {\displaystyle 0<|x-c|<\delta }
+  , it holds that 
+  
+    
+      
+        
+          |
+        
+        f
+        (
+        x
+        )
+        −
+        L
+        
+          |
+        
+        <
+        ϵ
+      
+    
+    {\displaystyle |f(x)-L|<\epsilon }
+  . This is known as the (ε, δ)-definition of limit. 
+The inequality 
+  
+    
+      
+        0
+        <
+        
+          |
+        
+        x
+        −
+        c
+        
+          |
+        
+      
+    
+    {\displaystyle 0<|x-c|}
+   is used to exclude 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   from the set of points under consideration, but some authors do not include this in their definition of limits, replacing 
+  
+    
+      
+        0
+        <
+        
+          |
+        
+        x
+        −
+        c
+        
+          |
+        
+        <
+        δ
+      
+    
+    {\displaystyle 0<|x-c|<\delta }
+   with simply 
+  
+    
+      
+        
+          |
+        
+        x
+        −
+        c
+        
+          |
+        
+        <
+        δ
+      
+    
+    {\displaystyle |x-c|<\delta }
+  . This replacement is equivalent to additionally requiring that 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   be continuous at 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  .
+It can be proven that there is an equivalent definition which makes manifest the connection between limits of sequences and limits of functions. The equivalent definition is given as follows. First observe that for every sequence 
+  
+    
+      
+        {
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{x_{n}\}}
+   in the domain of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  , there is an associated sequence 
+  
+    
+      
+        {
+        f
+        (
+        
+          x
+          
+            n
+          
+        
+        )
+        }
+      
+    
+    {\displaystyle \{f(x_{n})\}}
+  , the image of the sequence under 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  . The limit is a real number 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   so that, for all sequences 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        →
+        c
+      
+    
+    {\displaystyle x_{n}\rightarrow c}
+  , the associated sequence 
+  
+    
+      
+        f
+        (
+        
+          x
+          
+            n
+          
+        
+        )
+        →
+        L
+      
+    
+    {\displaystyle f(x_{n})\rightarrow L}
+  .
+
+
+==== One-sided limit ====
+
+It is possible to define the notion of having a limit "from above" or "left limit", and a notion of a limit "from below" or "right limit". These need not agree. An example is given by the positive indicator function, 
+  
+    
+      
+        f
+        :
+        
+          R
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f:\mathbb {R} \rightarrow \mathbb {R} }
+  , defined such that 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        0
+      
+    
+    {\displaystyle f(x)=0}
+   if 
+  
+    
+      
+        x
+        ≤
+        0
+      
+    
+    {\displaystyle x\leq 0}
+  , and 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        1
+      
+    
+    {\displaystyle f(x)=1}
+   if 
+  
+    
+      
+        x
+        >
+        0
+      
+    
+    {\displaystyle x>0}
+  . At 
+  
+    
+      
+        x
+        =
+        0
+      
+    
+    {\displaystyle x=0}
+  , the function has a "left limit" of 0, a "right limit" of 1, and its limit does not exist.
+
+
+==== Infinity in limits of functions ====
+It is possible to define the notion of "tending to infinity" in the domain of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  ,
+
+In this expression, the infinity is considered to be signed: either 
+  
+    
+      
+        +
+        ∞
+      
+    
+    {\displaystyle +\infty }
+   or 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+  . The "limit of f as x tends to positive infinity" is defined as follows. It is a real number 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   such that, given any real 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+  , there exists an 
+  
+    
+      
+        M
+        >
+        0
+      
+    
+    {\displaystyle M>0}
+   so that if 
+  
+    
+      
+        x
+        >
+        M
+      
+    
+    {\displaystyle x>M}
+  , 
+  
+    
+      
+        
+          |
+        
+        f
+        (
+        x
+        )
+        −
+        L
+        
+          |
+        
+        <
+        ϵ
+      
+    
+    {\displaystyle |f(x)-L|<\epsilon }
+  . Equivalently, for any sequence 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        →
+        +
+        ∞
+      
+    
+    {\displaystyle x_{n}\rightarrow +\infty }
+  , we have 
+  
+    
+      
+        f
+        (
+        
+          x
+          
+            n
+          
+        
+        )
+        →
+        L
+      
+    
+    {\displaystyle f(x_{n})\rightarrow L}
+  .
+It is also possible to define the notion of "tending to infinity" in the value of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  ,
+
+The definition is given as follows. Given any real number 
+  
+    
+      
+        M
+        >
+        0
+      
+    
+    {\displaystyle M>0}
+  , there is a 
+  
+    
+      
+        δ
+        >
+        0
+      
+    
+    {\displaystyle \delta >0}
+   so that for 
+  
+    
+      
+        0
+        <
+        
+          |
+        
+        x
+        −
+        c
+        
+          |
+        
+        <
+        δ
+      
+    
+    {\displaystyle 0<|x-c|<\delta }
+  , the absolute value of the function 
+  
+    
+      
+        
+          |
+        
+        f
+        (
+        x
+        )
+        
+          |
+        
+        >
+        M
+      
+    
+    {\displaystyle |f(x)|>M}
+  . Equivalently, for any sequence 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        →
+        c
+      
+    
+    {\displaystyle x_{n}\rightarrow c}
+  , the sequence 
+  
+    
+      
+        f
+        (
+        
+          x
+          
+            n
+          
+        
+        )
+        →
+        ∞
+      
+    
+    {\displaystyle f(x_{n})\rightarrow \infty }
+  .
+
+
+=== Nonstandard analysis ===
+In non-standard analysis (which involves a hyperreal enlargement of the number system), the limit of a sequence 
+  
+    
+      
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{n})}
+   can be expressed as the standard part of the value 
+  
+    
+      
+        
+          a
+          
+            H
+          
+        
+      
+    
+    {\displaystyle a_{H}}
+   of the natural extension of the sequence at an infinite hypernatural index n=H.  Thus,
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+        =
+        st
+        ⁡
+        (
+        
+          a
+          
+            H
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \lim _{n\to \infty }a_{n}=\operatorname {st} (a_{H}).}
+  Here, the standard part function "st" rounds off each finite hyperreal number to the nearest real number (the difference between them is infinitesimal). This formalizes the natural intuition that for "very large" values of the index, the terms in the sequence are "very close" to the limit value of the sequence. Conversely, the standard part of a hyperreal 
+  
+    
+      
+        a
+        =
+        [
+        
+          a
+          
+            n
+          
+        
+        ]
+      
+    
+    {\displaystyle a=[a_{n}]}
+   represented in the ultrapower construction by a Cauchy sequence 
+  
+    
+      
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (a_{n})}
+  , is simply the limit of that sequence:
+
+  
+    
+      
+        st
+        ⁡
+        (
+        a
+        )
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle \operatorname {st} (a)=\lim _{n\to \infty }a_{n}.}
+  In this sense, taking the limit and taking the standard part are equivalent procedures.
+
+
+=== Limit sets ===
+
+
+==== Limit set of a sequence ====
+Let 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        
+          }
+          
+            n
+            >
+            0
+          
+        
+      
+    
+    {\displaystyle \{a_{n}\}_{n>0}}
+   be a sequence in a topological space 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  . For concreteness, 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   can be thought of as 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  , but the definitions hold more generally. The limit set is the set of points such that if there is a convergent subsequence 
+  
+    
+      
+        {
+        
+          a
+          
+            
+              n
+              
+                k
+              
+            
+          
+        
+        
+          }
+          
+            k
+            >
+            0
+          
+        
+      
+    
+    {\displaystyle \{a_{n_{k}}\}_{k>0}}
+   with 
+  
+    
+      
+        
+          a
+          
+            
+              n
+              
+                k
+              
+            
+          
+        
+        →
+        a
+      
+    
+    {\displaystyle a_{n_{k}}\rightarrow a}
+  , then 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   belongs to the limit set. In this context, such an 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is sometimes called a limit point.
+A use of this notion is to characterize the "long-term behavior" of oscillatory sequences. For example, consider the sequence 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n}=(-1)^{n}}
+  . Starting from n=1, the first few terms of this sequence are 
+  
+    
+      
+        −
+        1
+        ,
+        +
+        1
+        ,
+        −
+        1
+        ,
+        +
+        1
+        ,
+        ⋯
+      
+    
+    {\displaystyle -1,+1,-1,+1,\cdots }
+  . It can be checked that it is oscillatory, so has no limit, but has limit points 
+  
+    
+      
+        {
+        −
+        1
+        ,
+        +
+        1
+        }
+      
+    
+    {\displaystyle \{-1,+1\}}
+  .
+
+
+==== Limit set of a trajectory ====
+This notion is used in dynamical systems, to study limits of trajectories. Defining a trajectory to be a function 
+  
+    
+      
+        γ
+        :
+        
+          R
+        
+        →
+        X
+      
+    
+    {\displaystyle \gamma :\mathbb {R} \rightarrow X}
+  , the point 
+  
+    
+      
+        γ
+        (
+        t
+        )
+      
+    
+    {\displaystyle \gamma (t)}
+   is thought of as the "position" of the trajectory at "time" 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  . The limit set of a trajectory is defined as follows. To any sequence of increasing times 
+  
+    
+      
+        {
+        
+          t
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{t_{n}\}}
+  , there is an associated sequence of positions 
+  
+    
+      
+        {
+        
+          x
+          
+            n
+          
+        
+        }
+        =
+        {
+        γ
+        (
+        
+          t
+          
+            n
+          
+        
+        )
+        }
+      
+    
+    {\displaystyle \{x_{n}\}=\{\gamma (t_{n})\}}
+  . If 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is the limit set of the sequence 
+  
+    
+      
+        {
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{x_{n}\}}
+   for any sequence of increasing times, then 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is a limit set of the trajectory.
+Technically, this is the 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  -limit set. The corresponding limit set for sequences of decreasing time is called the 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  -limit set.
+An illustrative example is the circle trajectory: 
+  
+    
+      
+        γ
+        (
+        t
+        )
+        =
+        (
+        cos
+        ⁡
+        (
+        t
+        )
+        ,
+        sin
+        ⁡
+        (
+        t
+        )
+        )
+      
+    
+    {\displaystyle \gamma (t)=(\cos(t),\sin(t))}
+  . This has no unique limit, but for each 
+  
+    
+      
+        θ
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle \theta \in \mathbb {R} }
+  , the point 
+  
+    
+      
+        (
+        cos
+        ⁡
+        (
+        θ
+        )
+        ,
+        sin
+        ⁡
+        (
+        θ
+        )
+        )
+      
+    
+    {\displaystyle (\cos(\theta ),\sin(\theta ))}
+   is a limit point, given by the sequence of times 
+  
+    
+      
+        
+          t
+          
+            n
+          
+        
+        =
+        θ
+        +
+        2
+        π
+        n
+      
+    
+    {\displaystyle t_{n}=\theta +2\pi n}
+  . But the limit points need not be attained on the trajectory. The trajectory 
+  
+    
+      
+        γ
+        (
+        t
+        )
+        =
+        t
+        
+          /
+        
+        (
+        1
+        +
+        t
+        )
+        (
+        cos
+        ⁡
+        (
+        t
+        )
+        ,
+        sin
+        ⁡
+        (
+        t
+        )
+        )
+      
+    
+    {\displaystyle \gamma (t)=t/(1+t)(\cos(t),\sin(t))}
+   also has the unit circle as its limit set.
+
+
+== Uses ==
+Limits are used to define a number of important concepts in analysis.
+
+
+=== Series ===
+
+A particular expression of interest which is formalized as the limit of a sequence is sums of infinite series. These are "infinite sums" of real numbers, generally written as
+
+This is defined through limits as follows: given a sequence of real numbers 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+  , the sequence of partial sums is defined by
+
+If the limit of the sequence 
+  
+    
+      
+        {
+        
+          s
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{s_{n}\}}
+   exists, the value of the expression 
+  
+    
+      
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \sum _{n=1}^{\infty }a_{n}}
+   is defined to be the limit. Otherwise, the series is said to be divergent.
+A classic example is the Basel problem, where 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        =
+        1
+        
+          /
+        
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a_{n}=1/n^{2}}
+  . Then 
+
+However, while for sequences there is essentially a unique notion of convergence, for series there are different notions of convergence. This is due to the fact that the expression 
+  
+    
+      
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \sum _{n=1}^{\infty }a_{n}}
+   does not discriminate between different orderings of the sequence 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+  , while the convergence properties of the sequence of partial sums can depend on the ordering of the sequence. 
+A series which converges for all orderings is called unconditionally convergent. It can be proven to be equivalent to absolute convergence. This is defined as follows. A series is absolutely convergent if 
+  
+    
+      
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          |
+        
+        
+          a
+          
+            n
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle \sum _{n=1}^{\infty }|a_{n}|}
+   is well defined. Furthermore, all possible orderings give the same value.
+Otherwise, the series is conditionally convergent. A surprising result for conditionally convergent series is the Riemann series theorem: depending on the ordering, the partial sums can be made to converge to any real number, as well as 
+  
+    
+      
+        ±
+        ∞
+      
+    
+    {\displaystyle \pm \infty }
+  .
+
+
+==== Power series ====
+
+A useful application of the theory of sums of series is for power series. These are sums of series of the form
+
+Often 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   is thought of as a complex number, and a suitable notion of convergence of complex sequences is needed. The set of values of 
+  
+    
+      
+        z
+        ∈
+        
+          C
+        
+      
+    
+    {\displaystyle z\in \mathbb {C} }
+   for which the series sum converges is a circle, with its radius known as the radius of convergence.
+
+
+=== Continuity of a function at a point ===
+The definition of continuity at a point is given through limits.
+The above definition of a limit is true even if 
+  
+    
+      
+        f
+        (
+        c
+        )
+        ≠
+        L
+      
+    
+    {\displaystyle f(c)\neq L}
+  . Indeed, the function f need not even be defined at c. However, if 
+  
+    
+      
+        f
+        (
+        c
+        )
+      
+    
+    {\displaystyle f(c)}
+   is defined and is equal to 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  , then the function is said to be continuous at the point 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  .
+Equivalently, the function is continuous at 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   if 
+  
+    
+      
+        f
+        (
+        x
+        )
+        →
+        f
+        (
+        c
+        )
+      
+    
+    {\displaystyle f(x)\rightarrow f(c)}
+   as 
+  
+    
+      
+        x
+        →
+        c
+      
+    
+    {\displaystyle x\rightarrow c}
+  , or in terms of sequences, whenever 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+        →
+        c
+      
+    
+    {\displaystyle x_{n}\rightarrow c}
+  , then 
+  
+    
+      
+        f
+        (
+        
+          x
+          
+            n
+          
+        
+        )
+        →
+        f
+        (
+        c
+        )
+      
+    
+    {\displaystyle f(x_{n})\rightarrow f(c)}
+  .
+An example of a limit where 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is not defined at 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is given below.
+Consider the function
+
+then f(1) is not defined (see Indeterminate form), yet as x moves arbitrarily close to 1, f(x) correspondingly approaches 2:
+Thus, f(x) can be made arbitrarily close to the limit of 2—just by making x sufficiently close to 1.
+In other words,
+
+This can also be calculated algebraically, as 
+  
+    
+      
+        
+          
+            
+              
+                x
+                
+                  2
+                
+              
+              −
+              1
+            
+            
+              x
+              −
+              1
+            
+          
+        
+        =
+        
+          
+            
+              (
+              x
+              +
+              1
+              )
+              (
+              x
+              −
+              1
+              )
+            
+            
+              x
+              −
+              1
+            
+          
+        
+        =
+        x
+        +
+        1
+      
+    
+    {\textstyle {\frac {x^{2}-1}{x-1}}={\frac {(x+1)(x-1)}{x-1}}=x+1}
+   for all real numbers x ≠ 1.
+Now, since x + 1 is continuous in x at 1, we can now plug in 1 for x, leading to the equation
+
+In addition to limits at finite values, functions can also have limits at infinity. For example, consider the function
+
+where:
+
+f(100) = 1.9900
+f(1000) = 1.9990
+f(10000) = 1.9999As x becomes extremely large, the value of f(x) approaches 2, and the value of f(x) can be made as close to 2 as one could wish—by making x sufficiently large. So in this case, the limit of f(x) as x approaches infinity is 2, or in mathematical notation,
+
+
+=== Continuous functions ===
+An important class of functions when considering limits are continuous functions. These are precisely those functions which preserve limits, in the sense that if 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is a continuous function, then whenever 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        →
+        a
+      
+    
+    {\displaystyle a_{n}\rightarrow a}
+   in the domain of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  , then the limit 
+  
+    
+      
+        f
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle f(a_{n})}
+   exists and furthermore is 
+  
+    
+      
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle f(a)}
+  .
+In the most general setting of topological spaces, a short proof is given below:
+Let 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f:X\rightarrow Y}
+   be a continuous function between topological spaces 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  . By definition, for each open set 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   in 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  , the preimage 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        V
+        )
+      
+    
+    {\displaystyle f^{-1}(V)}
+   is open in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  .
+Now suppose 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        →
+        a
+      
+    
+    {\displaystyle a_{n}\rightarrow a}
+   is a sequence with limit 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  . Then 
+  
+    
+      
+        f
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle f(a_{n})}
+   is a sequence in 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  , and 
+  
+    
+      
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle f(a)}
+   is some point.
+Choose a neighborhood 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   of 
+  
+    
+      
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle f(a)}
+  . Then 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        V
+        )
+      
+    
+    {\displaystyle f^{-1}(V)}
+   is an open set (by continuity of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  ) which in particular contains 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , and therefore 
+  
+    
+      
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        V
+        )
+      
+    
+    {\displaystyle f^{-1}(V)}
+   is a neighborhood of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . By the convergence of 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n}}
+   to 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , there exists an 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that for 
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+  , we have 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        ∈
+        
+          f
+          
+            −
+            1
+          
+        
+        (
+        V
+        )
+      
+    
+    {\displaystyle a_{n}\in f^{-1}(V)}
+  .
+Then applying 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   to both sides gives that, for the same 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  , for each 
+  
+    
+      
+        n
+        >
+        N
+      
+    
+    {\displaystyle n>N}
+   we have 
+  
+    
+      
+        f
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+        ∈
+        V
+      
+    
+    {\displaystyle f(a_{n})\in V}
+  . Originally 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   was an arbitrary neighborhood of 
+  
+    
+      
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle f(a)}
+  , so 
+  
+    
+      
+        f
+        (
+        
+          a
+          
+            n
+          
+        
+        )
+        →
+        f
+        (
+        a
+        )
+      
+    
+    {\displaystyle f(a_{n})\rightarrow f(a)}
+  . This concludes the proof.
+In real analysis, for the more concrete case of real-valued functions defined on a subset 
+  
+    
+      
+        E
+        ⊂
+        
+          R
+        
+      
+    
+    {\displaystyle E\subset \mathbb {R} }
+  , that is, 
+  
+    
+      
+        f
+        :
+        E
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f:E\rightarrow \mathbb {R} }
+  , a continuous function may also be defined as a function which is continuous at every point of its domain.
+
+
+=== Limit points ===
+In topology, limits are used to define limit points of a subset of a topological space, which in turn give a useful characterization of closed sets.
+In a topological space 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , consider a subset 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  . A point 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is called a limit point if there is a sequence 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+   in 
+  
+    
+      
+        S
+        ∖
+        {
+        a
+        }
+      
+    
+    {\displaystyle S\backslash \{a\}}
+   such that 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        →
+        a
+      
+    
+    {\displaystyle a_{n}\rightarrow a}
+  .
+The reason why 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+   is defined to be in 
+  
+    
+      
+        S
+        ∖
+        {
+        a
+        }
+      
+    
+    {\displaystyle S\backslash \{a\}}
+   rather than just 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is illustrated by the following example. Take 
+  
+    
+      
+        X
+        =
+        
+          R
+        
+      
+    
+    {\displaystyle X=\mathbb {R} }
+   and 
+  
+    
+      
+        S
+        =
+        [
+        0
+        ,
+        1
+        ]
+        ∪
+        {
+        2
+        }
+      
+    
+    {\displaystyle S=[0,1]\cup \{2\}}
+  . Then 
+  
+    
+      
+        2
+        ∈
+        S
+      
+    
+    {\displaystyle 2\in S}
+  , and therefore is the limit of the constant sequence 
+  
+    
+      
+        2
+        ,
+        2
+        ,
+        ⋯
+      
+    
+    {\displaystyle 2,2,\cdots }
+  . But 
+  
+    
+      
+        2
+      
+    
+    {\displaystyle 2}
+   is not a limit point of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  .
+A closed set, which is defined to be the complement of an open set, is equivalently any set 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   which contains all its limit points.
+
+
+=== Derivative ===
+
+The derivative is defined formally as a limit. In the scope of real analysis, the derivative is first defined for real functions 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   defined on a subset 
+  
+    
+      
+        E
+        ⊂
+        
+          R
+        
+      
+    
+    {\displaystyle E\subset \mathbb {R} }
+  . The derivative at 
+  
+    
+      
+        x
+        ∈
+        E
+      
+    
+    {\displaystyle x\in E}
+   is defined as follows. If the limit
+
+as 
+  
+    
+      
+        h
+        →
+        0
+      
+    
+    {\displaystyle h\rightarrow 0}
+   exists, then the derivative at 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   is this limit.
+Equivalently, it is the limit as 
+  
+    
+      
+        y
+        →
+        x
+      
+    
+    {\displaystyle y\rightarrow x}
+   of
+
+If the derivative exists, it is commonly denoted by 
+  
+    
+      
+        
+          f
+          ′
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle f'(x)}
+  .
+
+
+== Properties ==
+
+
+=== Sequences of real numbers ===
+For sequences of real numbers, a number of properties can be proven. Suppose 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+   and 
+  
+    
+      
+        {
+        
+          b
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{b_{n}\}}
+   are two sequences converging to 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   respectively.
+
+Sum of limits is equal to limit of sum
+
+Product of limits is equal to limit of product
+
+Inverse of limit is equal to limit of inverse (as long as 
+  
+    
+      
+        a
+        ≠
+        0
+      
+    
+    {\displaystyle a\neq 0}
+  )
+equivalently, the function 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        1
+        
+          /
+        
+        x
+      
+    
+    {\displaystyle f(x)=1/x}
+   is continuous about positive 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  .
+
+
+==== Cauchy sequences ====
+
+A property of convergent sequences of real numbers is that they are Cauchy sequences. The definition of a Cauchy sequence 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+   is that for every real number 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+  , there is an 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   such that whenever 
+  
+    
+      
+        m
+        ,
+        n
+        >
+        N
+      
+    
+    {\displaystyle m,n>N}
+  , 
+
+Informally, for any arbitrarily small error 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+  , it is possible to find an interval of diameter 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   such that eventually the sequence is contained within the interval. 
+Cauchy sequences are closely related to convergent sequences. In fact, for sequences of real numbers they are equivalent: any Cauchy sequence is convergent. 
+In general metric spaces, it continues to hold that convergent sequences are also Cauchy. But the converse is not true: not every Cauchy sequence is convergent in a general metric space. A classic counterexample is the rational numbers, 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  , with the usual distance. The sequence of decimal approximations to 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  , truncated at the 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  th decimal place is a Cauchy sequence, but does not converge in 
+  
+    
+      
+        
+          Q
+        
+      
+    
+    {\displaystyle \mathbb {Q} }
+  .
+A metric space in which every Cauchy sequence is also convergent, that is, Cauchy sequences are equivalent to convergent sequences, is known as a complete metric space.
+One reason Cauchy sequences can be "easier to work with" than convergent sequences is that they are a property of the sequence 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+   alone, while convergent sequences require not just the sequence 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+   but also the limit of the sequence 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  .
+
+
+=== Order of convergence ===
+Beyond whether or not a sequence 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{a_{n}\}}
+   converges to a limit 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , it is possible to describe how fast a sequence converges to a limit. One way to quantify this is using the order of convergence of a sequence.
+A formal definition of order of convergence can be stated as follows. Suppose 
+  
+    
+      
+        {
+        
+          a
+          
+            n
+          
+        
+        
+          }
+          
+            n
+            >
+            0
+          
+        
+      
+    
+    {\displaystyle \{a_{n}\}_{n>0}}
+   is a sequence of real numbers which is convergent with limit 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . Furthermore, 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+        ≠
+        a
+      
+    
+    {\displaystyle a_{n}\neq a}
+   for all 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  . If positive constants 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   and 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   exist such that
+
+then 
+  
+    
+      
+        
+          a
+          
+            n
+          
+        
+      
+    
+    {\displaystyle a_{n}}
+   is said to converge to 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   with order of convergence 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  . The constant 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   is known as the asymptotic error constant.
+Order of convergence is used for example the field of numerical analysis, in error analysis.
+
+
+=== Computability ===
+Limits can be difficult to compute. There exist limit expressions whose modulus of convergence is undecidable. In recursion theory, the limit lemma proves that it is possible to encode undecidable problems using limits.There are several theorems or tests that indicate whether the limit exists. These are known as convergence tests. Examples include the ratio test and the squeeze theorem. However they may not tell how to compute the limit.
+
+
+== See also ==
+Asymptotic analysis: a method of describing limiting behavior
+Big O notation: used to describe the limiting behavior of a function when the argument tends towards a particular value or infinity
+Banach limit defined on the Banach space 
+  
+    
+      
+        
+          ℓ
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle \ell ^{\infty }}
+   that extends the usual limits.
+Convergence of random variables
+Convergent matrix
+Limit in category theory
+Direct limit
+Inverse limit
+Limit of a function
+One-sided limit: either of the two limits of functions of a real variable x, as x approaches a point from above or below
+List of limits: list of limits for common functions
+Squeeze theorem: finds a limit of a function via comparison with two other functions
+Limit superior and limit inferior
+Modes of convergence
+An annotated index
+
+
+== Notes ==
+
+
+== References ==
+Apostol, Tom M. (1974), Mathematical Analysis (2nd ed.), Menlo Park: Addison-Wesley, LCCN 72011473
+
+
+== External links ==
+

@@ -1,0 +1,191 @@
+####### TITLE #######
+
+Visual arts
+
+####### LINKS #######
+
+['3-d printing', '3D modeling', '3D printing', 'Academy', 'Adhesive', 'Albrecht Dürer', 'Algorithm', 'Algorithmic art', 'Alternative exhibition space', 'Animator', 'Annibale Carracci', 'Anthropology', 'Antwerp', 'Applied art', 'Applied arts', 'Apprentice', 'Architecture', 'Archive.today', 'Art', 'Art auction', 'Art colony', 'Art commune', 'Art critic', 'Art criticism', 'Art dealer', 'Art exhibition', 'Art fabrication', 'Art finance', 'Art gallery', 'Art history', 'Art manifesto', 'Art market', 'Art materials', 'Art movement', 'Art museum', 'Art of Italy', 'Art of ancient Egypt', 'Art of the Upper Paleolithic', 'Art school', 'Art valuation', 'Art world', 'Artist', 'Artist-in-residence', 'Artist-run initiative', 'Artist-run space', 'Artist collective', 'Artist cooperative', 'Artistic rendering', 'Arts and Crafts Movement', 'Arts centre', 'Arts festival', 'Asemic writing', 'Barbara Maria Stafford', 'Baroque', 'Battle of Issus', 'Biennale', 'Black-figure pottery', 'Brush', 'Building', 'Building material', 'Byzantine art', 'CD-ROM', 'Camera', 'Canvas', 'Caravaggio', 'Carving', 'Casting', 'Catalogue raisonné', 'Cave of Altamira', 'Cave painting', 'Caves in the Maros-Pangkep karst', 'Ceramic art', 'Ceramics (art)', 'Charcoal', 'Chauvet Cave', 'Chemical', 'Chinese painting', 'Christ Falling on the Way to Calvary (Raphael)', 'Christiane Paul (curator)', 'Classificatory disputes about art', 'Claude Monet', 'Clay', 'Clip art', 'Collage', 'Collection Management Policy', 'Color pencil', 'Commission (art)', 'Composition (visual arts)', 'Computer', 'Computer-aided', 'Computer-generated imagery', 'Computer animation', 'Computer art', 'Conceptual art', 'Conservation and restoration of cultural heritage', 'Conservation and restoration of frescos', 'Conservation and restoration of paintings', 'Conservator-restorer', 'Construction', 'Contemporary art gallery', 'Counter Reformation', 'Craft', 'Crayon', 'Crowdsourcing creative work', 'Cubism', 'Cultural artifact', 'Cultural policy', 'Curator', 'DVD', 'De architectura', 'Deaccessioning (museum)', 'Decorative art', 'Design', 'Desmond Paul Henry', 'Destination painting', 'Diamond Sutra', 'Digital art', 'Digital data', 'Digital humanities', 'Digitizing', 'Doi (identifier)', 'Dominican Republic', 'Drawing', 'Dresden', 'Dutch Golden Age painting', 'Décollage', 'E-hon', 'Eclecticism in art', 'Economics of the arts and literature', 'Edo period', 'Edvard Munch', 'Elements of art', 'Environmental art', 'Erhard Reuwich', 'Erich Heckel', 'Ernst Ludwig Kirchner', 'Etching', 'Exposure (photography)', 'Expressionism', 'Fashion design', 'Fayum mummy portraits', 'Feminist art criticism', 'Figurative art', 'Filmmaking', 'Fine art', 'Flemish', 'Found object', 'Fresco', 'Gabarnmung', 'Garden', 'Georges Braque', 'Germany', 'Giotto', 'Glass', 'Glaze (painting technique)', 'Graffiti', 'Graphic design', 'Graphite', 'Hans Holbein the Younger', 'Hatching', 'Henri de Toulouse-Lautrec', 'Hierarchy of genres', 'History', 'History (U.S. TV channel)', 'History of art', 'History of painting', 'History of paper', 'Hokusai', 'Humanities', 'ISSN (identifier)', 'Illuminated manuscripts', 'Illusionistic ceiling painting', 'Illustration', 'Illustrator', 'Image', 'Image capture', 'Image editing', 'Impressionism', 'Index of painting-related articles', 'Industrial design', 'Ink', 'Installation art', 'Interactive art', 'Interior design', 'Isis', 'Italian Renaissance painting', 'Jan van Eyck', 'Jörg Blobelt', 'Kiln', 'Landscape art', 'Lascaux', 'Law', 'Le Déjeuner sur l’herbe (Monet)', 'Leonardo da Vinci', 'Lev Manovich', 'Light art', 'Line engraving', 'List of art magazines', 'List of art media', 'List of art movements', 'List of art museums', 'List of art reference books', 'List of art schools in Europe', 'List of art techniques', 'List of art universities and colleges in Europe', 'List of artistic media', 'List of colossal sculptures in situ', 'List of contemporary art galleries', 'List of contemporary artists', 'List of female sculptors', 'List of largest art museums', 'List of modern artists', 'List of most-visited art museums', 'List of most expensive artworks by living artists', 'List of most expensive paintings', 'List of most expensive sculptures', 'List of painters by name', 'List of photographers', 'List of sculptors', 'List of sculpture parks', 'List of single-artist museums', 'List of stolen paintings', 'List of tallest statues', 'Lists of painters', 'Lists of painters by nationality', 'Literature', 'Lithography', 'Manet', 'Manhattan', 'Marble', "Marie de' Medici", 'Marker pen', 'Mathematics and art', 'Matrix (printing)', 'Media (arts)', 'Melancholia I', 'Metal', 'Metropolitan Museum of Art', 'Michael Wolgemut', 'Michelangelo', 'Middle Ages', 'Ming Dynasty', 'Mixed media', 'Model (art)', 'Modern art', 'Molding (process)', 'Monotype', 'Montmartre', 'Moscow', 'Mural', 'Nefertari', 'Neoclassical architecture', 'Neoplasticism', 'New media', 'New media art', 'Night Watch (painting)', 'Non-figurative', 'Oil painting', 'Old master print', 'Oliver Grau', 'Onion dome', 'Optics', 'Outline of painting', 'Outline of painting history', 'Outline of sculpture', 'Outline of the visual arts', 'Outline of visual arts', 'Pablo Picasso', 'Page layout', 'Pagination', 'Paint', 'Painting', 'Paintings conservator', 'Paper', 'Papyrus', 'Pastel', 'Patronage', 'Paul Cézanne', 'Paul Gauguin', 'Pen and ink', 'Pencil', 'Performance', 'Performing arts', 'Peter Paul Rubens', 'Peter Weibel', 'Philosophy', 'Photograph', 'Photographer', 'Photography', 'Photon', 'Pierre-Auguste Renoir', 'Piet Mondrian', 'Pieter Bruegel the Elder', 'Pigment', 'Planning', 'Plastic', 'Plastic arts', 'Politics', 'Pompeii', 'Portrait painting', 'Post-Impressionism', 'Postdigital', 'Pottery of ancient Greece', 'Printing', 'Printmaking', 'Private collection', 'Process art', 'Protestant Reformation', 'Provenance', 'Public art', 'Qing Dynasty', 'Ramses II', 'Raphael', 'Recording medium', 'Red Fuji', 'Red Square', 'Religious studies', 'Rembrandt', 'Renaissance', 'René Magritte', 'Rock (geology)', 'Rudolf Arnheim', "Saint Basil's Cathedral", 'Salvador Dalí', 'Sandro Botticelli', 'Sculpture', 'Sculpture garden', 'Sculpture trail', 'Sean Cubitt', 'Shutter (photography)', 'Single-artist museum', 'Sistine Chapel', 'Site-specific art', 'Sketch (drawing)', 'Sociology of art', 'Song Dynasty', 'Sound art', 'Statue', 'Stippling', 'Stone sculpture', 'Street art', 'Style (visual arts)', 'Stylus', 'Technical drawing', 'Tenebrism', 'Tenements', 'Textile arts', 'The Church at Auvers', 'The Scream', 'The Vision After the Sermon', 'The arts', 'Thirty-six Views of Mount Fuji', 'Three-dimensional space', 'Timeline of art', 'Ukiyo-e', 'United Kingdom', 'Vellum', 'Vermeer', 'Vexillography', 'Video', 'Video art', 'Video game', 'Vincent van Gogh', 'Virtual art', 'Virtual museum', 'Visual Arts (company)', 'Visual arts and Theosophy', 'Visual arts education', 'Visual design elements and principles', 'Visual impairment in art', 'Visual poetry', 'Vitruvius', 'W. J. T. Mitchell', 'Wayback Machine', 'Website', 'Welding', 'Wood', 'Woodblock printing', 'Woodblock printing in Japan', 'Woodcut', 'Work for hire', 'Work of art']
+
+####### CATEGORIES #######
+
+['All articles with dead external links', 'All articles with unsourced statements', 'Articles with GND identifiers', 'Articles with NKC identifiers', 'Articles with dead external links from October 2011', 'Articles with multiple identifiers', 'Articles with short description', 'Articles with unsourced statements from August 2009', 'CS1 errors: missing periodical', 'Commons category link is on Wikidata', 'Communication design', 'Pages using multiple image with auto scaled images', 'Short description is different from Wikidata', 'Use dmy dates from July 2020', 'Visual arts', 'Visual arts media', 'Webarchive template archiveis links', 'Webarchive template other archives', 'Webarchive template wayback links']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/e/e4/20090617020DR_Dresden-Plauen_Klingenberger_Stra%C3%9Fe_6-4-2.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Ancient_Chinese_instrumentalists.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Ancient_Chinese_instrumentalists.jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Ankh_isis_nefertari.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/69/Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/18/D%C3%BCrer_Melancholia_I.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d2/Jingangjing.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Metropolitan_Museum_1_%284675714481%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/74/Monet_dejeunersurlherbe.jpg', 'https://upload.wikimedia.org/wikipedia/commons/8/85/Moscou.-_La_Cath%C3%A9drale_Basile-le-Bienheureux.jpg', 'https://upload.wikimedia.org/wikipedia/commons/2/22/Nuvola_apps_package_graphics.png', 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Paul_Gauguin_137.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/70/Raphael_Spasimo.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/cd/WPVA-khamsa.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/1e/Wiki.picture_by_drawing_machine_1.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/dd/Wikivoyage-Logo-v3-icon.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/57/Red_Fuji_southern_wind_clear_morning.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/ad/Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise%2C_View_from_the_Chevet_-_Google_Art_Project.jpg']
+
+####### REFERENCES #######
+
+['http://www.donau-uni.ac.at/de/department/bildwissenschaft/forschung/publikationen/index.php', 'http://www.georgebrown.ca/centres/AD/index.aspx', 'http://arthistory.about.com/cs/reference/f/visual_arts.htm?p=1', 'http://www.buzzle.com/articles/different-forms-of-art.html', 'http://calendarforartists.com/', 'http://www.chinavista.com/experience/engrave/engrave.html', 'http://www.dibujosparapintar.com/english_activities/drawing_course_history.html', 'http://www.engraving-review.com/chinese-art-engraving.html', 'http://www.history.com/encyclopedia.do?vendorId=FWNE.fw..dr085000.a', 'http://www.merriam-webster.com/dictionary/plastic%20arts', 'http://www.sciencedirect.com/science/article/pii/S187118711530033X', 'http://www.visual-arts-cork.com/modern-art-movements.htm', 'http://wwar.com/masters/movements/arts_and_crafts_movement.html', 'http://faculty.evansville.edu/rl29/art340/f04/renaissancepainting.html', 'http://www.artmuseums.harvard.edu/exhibitions/sackler/godsInColor.html', 'http://www.copyright.gov/title17/92chap1.html#101', 'http://www.historyworld.net/wrldhis/PlainTextHistories.asp?groupid=1320&HistoryID=ab20&gtrack=pthc', 'http://doi.org/10.1016%2Fj.tsc.2015.10.007', 'http://www.ibiblio.org/wm/paint/glo/impressionism/', 'http://www.impressionism.org/', 'http://www.metmuseum.org/toah', 'http://www.metmuseum.org/toah/hd/poim/hd_poim.htm', 'http://www.metmuseum.org/toah/hd/prnt/hd_prnt.htm', 'http://www.worldcat.org/issn/1871-1871', 'http://arquivo.pt/wayback/20091013011648/http://wwar.com/masters/movements/arts_and_crafts_movement.html', 'http://docs.ksu.edu.sa/DOC/Articles19/Article190588.doc', 'https://www.ashgate.com/pdf/SamplePages/Rethinking_the_Baroque_Intro.pdf', 'https://www.britannica.com/art/art-history', 'https://www.britannica.com/art/drawing-art', 'https://www.britannica.com/art/painting', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph116708&CON_LNG=ENG', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph220318&CON_LNG=ENG', 'https://www.academia.edu/35097884', 'https://d-nb.info/gnd/4114333-4', 'https://web.archive.org/web/20050424084418/http://www.artlex.com/', 'https://web.archive.org/web/20090104060402/http://www.artmuseums.harvard.edu/exhibitions/sackler/godsInColor.html', 'https://web.archive.org/web/20090314224108/http://www.history.com/encyclopedia.do?vendorId=FWNE.fw..dr085000.a', 'https://web.archive.org/web/20090908034201/http://www.metmuseum.org/toah/hd/prnt/hd_prnt.htm', 'https://web.archive.org/web/20091016061706/http://www.ibiblio.org/wm/paint/glo/impressionism/', 'https://web.archive.org/web/20100125181713/http://faculty.evansville.edu/rl29/art340/f04/renaissancepainting.html', 'https://web.archive.org/web/20100126093504/http://www.visual-arts-cork.com/modern-art-movements.htm', 'https://web.archive.org/web/20100612043808/http://historyworld.net/wrldhis/PlainTextHistories.asp?groupid=1320&HistoryID=ab20&gtrack=pthc', 'https://web.archive.org/web/20101120141213/http://dibujosparapintar.com/english_activities/drawing_course_history.html', 'https://web.archive.org/web/20111028075227/http://www.georgebrown.ca/centres/AD/index.aspx', 'https://web.archive.org/web/20141105105918/https://www.ashgate.com/pdf/SamplePages/Rethinking_the_Baroque_Intro.pdf', 'https://web.archive.org/web/20150702140440/http://arthistory.about.com/cs/reference/f/visual_arts.htm?p=1', 'https://web.archive.org/web/20170623143359/http://www.buzzle.com/articles/different-forms-of-art.html', 'https://web.archive.org/web/20171225173213/https://www.copyright.gov/title17/92chap1.html#101', 'https://web.archive.org/web/20181017073732/http://www.chinavista.com/experience/engrave/engrave.html', 'https://web.archive.org/web/20190329072159/http://www.impressionism.org/', 'https://web.archive.org/web/20190401081818/https://www.merriam-webster.com/dictionary/plastic', 'https://web.archive.org/web/20190707125803/https://www.metmuseum.org/toah/hd/poim/hd_poim.htm', 'https://web.archive.org/web/20190722211557/https://www.britannica.com/art/painting', 'https://web.archive.org/web/20200802183731/https://www.britannica.com/art/art-history', 'https://web.archive.org/web/20200813041724/https://www.britannica.com/art/drawing-art', 'https://web.archive.org/web/20220220002740/https://www.academia.edu/35097884', 'https://www.wikidata.org/wiki/Q36649#identifiers', 'https://archive.today/2012.07.29-021616/http://www.engraving-review.com/chinese-art-engraving.html']
+
+####### SUMMARY #######
+
+The visual arts are art forms such as painting, drawing, printmaking, sculpture, ceramics, photography, video, filmmaking, design, crafts and architecture. Many artistic disciplines such as performing arts, conceptual art, and textile arts also involve aspects of visual arts as well as arts of other types. Also included within the visual arts are the applied arts such as industrial design, graphic design, fashion design, interior design and decorative art.Current usage of the term "visual arts" includes fine art as well as the applied or decorative arts and crafts, but this was not always the case. Before the Arts and Crafts Movement in Britain and elsewhere at the turn of the 20th century, the term 'artist' had for some centuries often been restricted to a person working in the fine arts (such as painting, sculpture, or printmaking) and not the decorative arts, craft, or applied Visual arts media. The distinction was emphasized by artists of the Arts and Crafts Movement, who valued vernacular art forms as much as high forms. Art schools made a distinction between the fine arts and the crafts, maintaining that a craftsperson could not be considered a practitioner of the arts.
+
+The increasing tendency to prefer the painting styles, and to a lesser degree sculpture, of technique or style over another has been a feature of artist throughout the ages. In many instances painting has been seen as relying to the highest degree on the imagination of the artist, and the furthest removed from manual labour – in Chinese painting the most highly valued styles were those of "scholar-painting", at least in theory practiced by gentleman amateurs. The Western hierarchy of genres reflected similar attitudes.
+
+####### CONTENT #######
+
+The visual arts are art forms such as painting, drawing, printmaking, sculpture, ceramics, photography, video, filmmaking, design, crafts and architecture. Many artistic disciplines such as performing arts, conceptual art, and textile arts also involve aspects of visual arts as well as arts of other types. Also included within the visual arts are the applied arts such as industrial design, graphic design, fashion design, interior design and decorative art.Current usage of the term "visual arts" includes fine art as well as the applied or decorative arts and crafts, but this was not always the case. Before the Arts and Crafts Movement in Britain and elsewhere at the turn of the 20th century, the term 'artist' had for some centuries often been restricted to a person working in the fine arts (such as painting, sculpture, or printmaking) and not the decorative arts, craft, or applied Visual arts media. The distinction was emphasized by artists of the Arts and Crafts Movement, who valued vernacular art forms as much as high forms. Art schools made a distinction between the fine arts and the crafts, maintaining that a craftsperson could not be considered a practitioner of the arts.
+
+The increasing tendency to prefer the painting styles, and to a lesser degree sculpture, of technique or style over another has been a feature of artist throughout the ages. In many instances painting has been seen as relying to the highest degree on the imagination of the artist, and the furthest removed from manual labour – in Chinese painting the most highly valued styles were those of "scholar-painting", at least in theory practiced by gentleman amateurs. The Western hierarchy of genres reflected similar attitudes.
+
+
+== Education and training ==
+
+Training in the visual arts has generally been through variations of the apprentice and workshop systems. In Europe the Renaissance movement to increase the prestige of the artist led to the academy system for training artists, and today most of the people who are pursuing a career in arts train in art schools at tertiary levels. Visual arts have now become an elective subject in most education systems.
+
+
+== Drawing ==
+
+Drawing is a means of making an image, illustration or graphic using any of a wide variety of tools and techniques available online and offline. It generally involves making marks on a surface by applying pressure from a tool, or moving a tool across a surface using dry media such as graphite pencils, pen and ink, inked brushes, wax color pencils, crayons, charcoals, pastels, and markers. Digital tools, including pens, stylus, that simulate the effects of these are also used. The main techniques used in drawing are: line drawing, hatching, crosshatching, random hatching, shading, scribbling, stippling, and blending. An artist who excels in drawing is referred to as a draftsman or draughtsman.Drawing and painting goes back tens of thousands of years. Art of the Upper Paleolithic includes figurative art beginning between about 40,000 to 35,000 years ago. Non-figurative cave paintings consisting of hand stencils and simple geometric shapes are even older. Paleolithic cave representations of animals are found in areas such as Lascaux, France and Altamira, Spain in Europe, Maros, Sulawesi in Asia, and Gabarnmung, Australia.
+In ancient Egypt, ink drawings on papyrus, often depicting people, were used as models for painting or sculpture. Drawings on Greek vases, initially geometric, later developed to the human form with black-figure pottery during the 7th century BC.With paper becoming common in Europe by the 15th century, drawing was adopted by masters such as Sandro Botticelli, Raphael, Michelangelo, and Leonardo da Vinci who sometimes treated drawing as an art in its own right rather than a preparatory stage for painting or sculpture.
+
+
+== Painting ==
+
+Painting taken literally is the practice of applying pigment suspended in a carrier (or medium) and a binding agent (a glue) to a surface (support) such as paper, canvas or a wall. However, when used in an artistic sense it means the use of this activity in combination with drawing, composition, or other aesthetic considerations in order to manifest the expressive and conceptual intention of the practitioner. Painting is also used to express spiritual motifs and ideas; sites of this kind of painting range from artwork depicting mythological figures on pottery to The Sistine Chapel to the human body itself.
+
+
+=== History ===
+
+
+==== Origins and early history ====
+Like drawing, painting has its documented origins in caves and on rock faces. The finest examples, believed by some to be 32,000 years old, are in the Chauvet and Lascaux caves in southern France. In shades of red, brown, yellow and black, the paintings on the walls and ceilings are of bison, cattle, horses and deer.
+
+Paintings of human figures can be found in the tombs of ancient Egypt. In the great temple of Ramses II, Nefertari, his queen, is depicted being led by Isis. The Greeks contributed to painting but much of their work has been lost. One of the best remaining representations are the Hellenistic Fayum mummy portraits. Another example is mosaic of the Battle of Issus at Pompeii, which was probably based on a Greek painting. Greek and Roman art contributed to Byzantine art in the 4th century BC, which initiated a tradition in icon painting.
+
+
+==== The Renaissance ====
+
+Apart from the illuminated manuscripts produced by monks during the Middle Ages, the next significant contribution to European art was from Italy's renaissance painters. From Giotto in the 13th century to Leonardo da Vinci and Raphael at the beginning of the 16th century, this was the richest period in Italian art as the chiaroscuro techniques were used to create the illusion of 3-D space.
+
+Painters in northern Europe too were influenced by the Italian school. Jan van Eyck from Belgium, Pieter Bruegel the Elder from the Netherlands and Hans Holbein the Younger from Germany are among the most successful painters of the times. They used the glazing technique with oils to achieve depth and luminosity.
+
+
+==== Dutch masters ====
+
+The 17th century witnessed the emergence of the great Dutch masters such as the versatile Rembrandt who was especially remembered for his portraits and Bible scenes, and Vermeer who specialized in interior scenes of Dutch life.
+
+
+==== Baroque ====
+
+The Baroque started after the Renaissance, from the late 16th century to the late 17th century. Main artists of the Baroque included Caravaggio, who made heavy use of tenebrism. Peter Paul Rubens, a Flemish painter who studied in Italy, worked for local churches in Antwerp and also painted a series for Marie de' Medici. Annibale Carracci took influences from the Sistine Chapel and created the genre of illusionistic ceiling painting. Much of the development that happened in the Baroque was because of the Protestant Reformation and the resulting Counter Reformation. Much of what defines the Baroque is dramatic lighting and overall visuals.
+
+
+==== Impressionism ====
+
+Impressionism began in France in the 19th century with a loose association of artists including Claude Monet, Pierre-Auguste Renoir and Paul Cézanne who brought a new freely brushed style to painting, often choosing to paint realistic scenes of modern life outside rather than in the studio. This was achieved through a new expression of aesthetic features demonstrated by brush strokes and the impression of reality. They achieved intense color vibration by using pure, unmixed colors and short brush strokes. The movement influenced art as a dynamic, moving through time and adjusting to newfound techniques and perception of art. Attention to detail became less of a priority in achieving, whilst exploring a biased view of landscapes and nature to the artist's eye.
+
+
+==== Post-impressionism ====
+
+Towards the end of the 19th century, several young painters took impressionism a stage further, using geometric forms and unnatural color to depict emotions while striving for deeper symbolism. Of particular note are Paul Gauguin, who was strongly influenced by Asian, African and Japanese art, Vincent van Gogh, a Dutchman who moved to France where he drew on the strong sunlight of the south, and Toulouse-Lautrec, remembered for his vivid paintings of night life in the Paris district of Montmartre.
+
+
+==== Symbolism, expressionism and cubism ====
+
+Edvard Munch, a Norwegian artist, developed his symbolistic approach at the end of the 19th century, inspired by the French impressionist Manet. The Scream (1893), his most famous work, is widely interpreted as representing the universal anxiety of modern man. Partly as a result of Munch's influence, the German expressionist movement originated in Germany at the beginning of the 20th century as artists such as Ernst Kirschner and Erich Heckel began to distort reality for an emotional effect.
+In parallel, the style known as cubism developed in France as artists focused on the volume and space of sharp structures within a composition. Pablo Picasso and Georges Braque were the leading proponents of the movement. Objects are broken up, analyzed, and re-assembled in an abstracted form. By the 1920s, the style had developed into surrealism with Dali and Magritte.
+
+
+== Printmaking ==
+
+Printmaking is creating, for artistic purposes, an image on a matrix that is then transferred to a two-dimensional (flat) surface by means of ink (or another form of pigmentation). Except in the case of a monotype, the same matrix can be used to produce many examples of the print.
+
+Historically, the major techniques (also called media) involved are woodcut, line engraving, etching, lithography, and screen printing (serigraphy, silk screening) but there are many others, including modern digital techniques. Normally, the print is printed on paper, but other mediums range from cloth and vellum to more modern materials.
+
+
+=== European history ===
+
+Prints in the Western tradition produced before about 1830 are known as old master prints. In Europe, from around 1400 AD woodcut, was used for master prints on paper by using printing techniques developed in the Byzantine and Islamic worlds. Michael Wolgemut improved German woodcut from about 1475, and Erhard Reuwich, a Dutchman, was the first to use cross-hatching.  At the end of the century Albrecht Dürer brought the Western woodcut to a stage that has never been surpassed, increasing the status of the single-leaf woodcut.
+
+
+=== Chinese origin and practice ===
+
+In China, the art of printmaking developed some 1,100 years ago as illustrations alongside text cut in woodblocks for printing on paper. Initially images were mainly religious but in the Song Dynasty, artists began to cut landscapes. During the Ming (1368–1644) and Qing (1616–1911) dynasties, the technique was perfected for both religious and artistic engravings.
+
+
+=== Development in Japan 1603–1867 ===
+
+Woodblock printing in Japan (Japanese: 木版画, moku hanga) is a technique best known for its use in the ukiyo-e artistic genre; however, it was also used very widely for printing illustrated books in the same period. Woodblock printing had been used in China for centuries to print books, long before the advent of movable type, but was only widely adopted in Japan during the Edo period (1603–1867). Although similar to woodcut in western printmaking in some regards, moku hanga differs greatly in that water-based inks are used (as opposed to western woodcut, which uses oil-based inks), allowing for a wide range of vivid color, glazes and color transparency.
+
+
+== Photography ==
+
+Photography is the process of making pictures by means of the action of light. The light patterns reflected or emitted from objects are recorded onto a sensitive medium or storage chip through a timed exposure. The process is done through mechanical shutters or electronically timed exposure of photons into chemical processing or digitizing devices known as cameras.
+The word comes from the Greek φως phos ("light"), and γραφις graphis ("stylus", "paintbrush") or γραφη graphê, together meaning "drawing with light" or "representation by means of lines" or "drawing." Traditionally, the product of photography has been called a photograph. The term photo is an abbreviation; many people also call them pictures. In digital photography, the term image has begun to replace photograph. (The term image is traditional in geometric optics.)
+
+
+== Architecture ==
+
+Architecture is the process and the product of planning, designing, and constructing buildings or any other structures. Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art. Historical civilizations are often identified with their surviving architectural achievements.
+The earliest surviving written work on the subject of architecture is De architectura, by the Roman architect Vitruvius in the early 1st century AD. According to Vitruvius, a good building should satisfy the three principles of firmitas, utilitas, venustas, commonly known by the original translation – firmness, commodity and delight. An equivalent in modern English would be:
+
+Durability – a building should stand up robustly and remain in good condition.
+Utility – it should be suitable for the purposes for which it is used.
+Beauty – it should be aesthetically pleasing.Building first evolved out of the dynamics between needs (shelter, security, worship, etc.) and means (available building materials and attendant skills). As human cultures developed and knowledge began to be formalized through oral traditions and practices, building became a craft, and "architecture" is the name given to the most highly formalized and respected versions of that craft.
+
+
+== Filmmaking ==
+
+Filmmaking is the process of making a motion-picture, from an initial conception and research, through scriptwriting, shooting and recording, animation or other special effects, editing, sound and music work and finally distribution to an audience; it refers broadly to the creation of all types of films, embracing documentary, strains of theatre and literature in film, and poetic or experimental practices, and is often used to refer to video-based processes as well.
+
+
+== Computer art ==
+
+Visual artists are no longer limited to traditional Visual arts media. Computers have been used as an ever more common tool in the visual arts since the 1960s. Uses include the capturing or creating of images and forms, the editing of those images and forms (including exploring multiple compositions) and the final rendering or printing (including 3D printing).
+Computer art is any in which computers played a role in production or display. Such art can be an image, sound, animation, video, CD-ROM, DVD, video game, website, algorithm, performance or gallery installation. Many traditional disciplines are now integrating digital technologies and, as a result, the lines between traditional works of art and new media works created using computers have been blurred. For instance, an artist may combine traditional painting with algorithmic art and other digital techniques. As a result, defining computer art by its end product can be difficult. Nevertheless, this type of art is beginning to appear in art museum exhibits, though it has yet to prove its legitimacy as a form unto itself and this technology is widely seen in contemporary art more as a tool rather than a form as with painting. On the other hand, there are computer-based artworks which belong to a new conceptual and postdigital strand, assuming the same technologies, and their social impact, as an object of inquiry.
+Computer usage has blurred the distinctions between illustrators, photographers, photo editors, 3-D modelers, and handicraft artists. Sophisticated rendering and editing software has led to multi-skilled image developers. Photographers may become digital artists. Illustrators may become animators. Handicraft may be computer-aided or use computer-generated imagery as a template. Computer clip art usage has also made the clear distinction between visual arts and page layout less obvious due to the easy access and editing of clip art in the process of paginating a document, especially to the unskilled observer.
+
+
+== Plastic arts ==
+
+Plastic arts is a term for art forms that involve physical manipulation of a plastic medium by moulding or modeling such as sculpture or ceramics. The term has also been applied to all the visual (non-literary, non-musical) arts.Materials that can be carved or shaped, such as stone or wood, concrete or steel, have also been included in the narrower definition, since, with appropriate tools, such materials are also capable of modulation. This use of the term "plastic" in the arts should not be confused with Piet Mondrian's use, nor with the movement he termed, in French and English, "Neoplasticism."
+
+
+=== Sculpture ===
+
+Sculpture is three-dimensional artwork created by shaping or combining hard or plastic material, sound, or text and or light, commonly stone (either rock or marble), clay, metal, glass, or wood. Some sculptures are created directly by finding or carving; others are assembled, built together and fired, welded, molded, or cast. Sculptures are often painted.
+A person who creates sculptures is called a sculptor.
+Because sculpture involves the use of materials that can be moulded or modulated, it is considered one of the plastic arts. The majority of public art is sculpture. Many sculptures together in a garden setting may be referred to as a sculpture garden. Sculptors do not always make sculptures by hand. With increasing technology in the 20th century and the popularity of conceptual art over technical mastery, more sculptors turned to art fabricators to produce their artworks. With fabrication, the artist creates a design and pays a fabricator to produce it. This allows sculptors to create larger and more complex sculptures out of material like cement, metal and plastic, that they would not be able to create by hand. Sculptures can also be made with 3-d printing technology.
+
+
+== US copyright definition of visual art ==
+In the United States, the law protecting the copyright over a piece of visual art gives a more restrictive definition of "visual art".
+
+A "work of visual art" is —
+(1) a painting, drawing, print or sculpture, existing in a single copy, in a limited edition of 200 copies or fewer that are signed and consecutively numbered by the author, or, in the case of a sculpture, in multiple cast, carved, or fabricated sculptures of 200 or fewer that are consecutively numbered by the author and bear the signature or other identifying mark of the author; or
+(2) a still photographic image produced for exhibition purposes only, existing in a single copy that is signed by the author, or in a limited edition of 200 copies or fewer that are signed and consecutively numbered by the author.
+A work of visual art does not include —
+(A)(i) any poster, map, globe, chart, technical drawing, diagram, model, applied art, motion picture or other audiovisual work, book, magazine, newspaper, periodical, data base, electronic information service, electronic publication, or similar publication;
+  (ii) any merchandising item or advertising, promotional, descriptive, covering, or packaging material or container;
+  (iii) any portion or part of any item described in clause (i) or (ii);
+(B) any work made for hire; or
+(C) any work not subject to copyright protection under this title.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+Barnes, A. C., The Art in Painting, 3rd ed., 1937, Harcourt, Brace & World, Inc., NY.
+Bukumirovic, D. (1998). Maga Magazinovic. Biblioteka Fatalne srpkinje knj. br. 4. Beograd: Narodna knj.
+Fazenda, M. J. (1997). Between the pictorial and the expression of ideas: the plastic arts and literature in the dance of Paula Massano. n.p.
+Gerón, C. (2000). Enciclopedia de las artes plásticas dominicanas: 1844–2000. 4th ed. Dominican Republic s.n.
+Oliver Grau (Ed.): MediaArtHistories. MIT-Press, Cambridge 2007. with Rudolf Arnheim, Barbara Stafford, Sean Cubitt, W. J. T. Mitchell, Lev Manovich, Christiane Paul, Peter Weibel a.o. Rezensionen
+Laban, R. V. (1976). The language of movement: a guidebook to choreutics. Boston: Plays.
+La Farge, O. (1930). Plastic prayers: dances of the Southwestern Indians. n.p.
+Restany, P. (1974). Plastics in arts. Paris, New York: n.p.
+University of Pennsylvania. (1969). Plastics and new art. Philadelphia: The Falcon Pr.
+
+
+== External links ==
+
+ArtLex – online dictionary of visual art terms.
+Calendar for Artists – calendar listing of visual art festivals.
+Art History Timeline by the Metropolitan Museum of Art.
+

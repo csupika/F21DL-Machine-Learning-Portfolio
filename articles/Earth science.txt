@@ -1,0 +1,151 @@
+####### TITLE #######
+
+Earth science
+
+####### LINKS #######
+
+['Abiogenesis', 'Accelerating expansion of the universe', 'Acid rain', 'Africa', 'Age of Earth', 'Age of the earth', 'Age of the universe', 'Air', 'Air pollution', 'Alpha Centauri', 'American Geosciences Institute', 'Andromeda Galaxy', 'Animal', 'Antarctica', 'Ape', 'Aqueous geochemistry', 'Archaea', 'Arctic Ocean', 'Argon', 'Asia', 'Asthenosphere', 'Astrobiology', 'Atlantic Ocean', 'Atmosphere', 'Atmosphere of Earth', 'Atmospheric chemistry', 'Atmospheric physics', 'Atmospheric science', 'Atmospheric sciences', 'Australia (continent)', 'Bacteria', 'Billion years', 'Biodiversity', 'Biogeochemical cycle', 'Biogeochemistry', 'Biogeography', 'Biological organisation', 'Biology', 'Biome', 'Biosphere', 'Branches of science', 'Calculus', 'Cambrian explosion', 'Cartography', 'Caveasphaera', 'Chemical element', 'Chemical oceanography', 'Chemistry', 'Chronology', 'Chronology of the universe', 'Climate', 'Climate change', 'Climate system', 'Climate variability and change', 'Climatology', 'Cloud', 'Coastal geography', 'Complexity', 'Continent', 'Cosmic rays', 'Cosmochemistry', 'Costa Rica', 'Crust (geology)', 'Cryosphere', 'Crystal structure', 'Crystallography', 'Dependent territory', 'Digital mapping', 'Doi (identifier)', 'Drinking water', 'Dynamo theory', 'Earliest known life forms', 'Early Earth', 'Earth', "Earth's atmosphere", "Earth's crust", "Earth's energy budget", "Earth's magnetic field", "Earth's mantle", "Earth's orbit", 'Earth Day', 'Earth core', 'Earth in culture', 'Earth sciences graphics software', 'Earth system science', 'Earthquake', 'Earthquakes', 'Ecohydrology', 'Ecology', 'Economic geology', 'Ecosystem', 'Edaphology', 'Electromagnet', 'Energy', 'Engineering geology', 'Environmental geography', 'Environmental geology', 'Environmental science', 'Erosion', 'Eukaryote', 'Europe', 'Evolution of fungi', 'Evolution of photosynthesis', 'Evolutionary history of plants', 'Exosphere', 'Extremes on Earth', 'Fauna', 'Field (physics)', 'Figure of the Earth', 'Flora', 'Forensic geology', 'Formation and evolution of the Solar System', 'Fungus', 'Future of Earth', 'GIScience', 'Gaia hypothesis', 'Gas', 'Gauss (unit)', 'Gemology', 'Geoarchaeology', 'Geochemistry', 'Geochronology', 'Geodesy', 'Geodynamics', 'Geography', 'Geoinformatics', 'Geologic record', 'Geologic time scale', 'Geological history of Earth', 'Geological history of oxygen', 'Geologist', 'Geology', 'Geology of solar terrestrial planets', 'Geomagnetism', 'Geomicrobiology', 'Geomorphology', 'Geophysical survey', 'Geophysics', 'Geosphere', 'Geostatistics', 'Geothermal energy', 'Glacier', 'Glaciology', 'Glossary of geology terms', 'Goddard Space Flight Center', 'Gravimetry', 'Gravity field', 'Gravity of Earth', 'Greenhouse effect', 'Groundwater', 'HD1 (galaxy)', 'Heavy elements', 'Hendrik Antoon Lorentz', 'Historical geology', 'History of Earth', 'History of life', 'Holism', 'Hotspot (geology)', 'Houghton Mifflin', 'Human', 'Human geography', 'Human history', 'Human impact on the environment', 'Hydrogeology', 'Hydrology', 'Hydrometeorology', 'Hydrosphere', 'ISBN (identifier)', 'Ice', 'Index of Earth science articles', 'Indian Ocean', 'Inner core', 'Internal structure of Earth', 'Isotope geochemistry', 'Landscape ecology', 'Life', 'Limnology', 'List of Earth scientists', 'List of geoscience organizations', 'List of life sciences', 'List of sovereign states', 'List of unsolved problems in geoscience', 'Lithosphere', 'Location of Earth', 'MOS:LIST', 'MOS:PROSE', 'Magma', 'Magnetic field', 'Magnetic flux density', 'Magnetosphere', 'Makhtesh Ramon', 'Making North America (film)', 'Mammal', 'Mantle (geology)', 'Marine biology', 'Marine geology', 'Mathematics', 'Matter', 'Mesosphere', 'Meteorology', 'Methodology', 'Micropaleontology', 'Milky Way', 'Mineral spring', 'Mineralogy', 'Moon', 'Mountain', 'Multicellular organism', 'NGC 188', 'Nanogeoscience', 'National Association of Geoscience Teachers', 'Natural environment', 'Natural science', 'Nature', 'Nitrogen', 'North America', 'Nutrient', 'OCLC (identifier)', 'Ocean', 'Oceanography', 'Omega Centauri', 'Organism', 'Outer core', 'Outline of Earth', 'Outline of Earth sciences', 'Outline of natural science', 'Outline of physical science', 'Outline of space science', 'Oxygen', 'Pacific Ocean', 'Palaeogeography', 'Paleoceanography', 'Paleoclimatology', 'Paleontology', 'Palynology', 'Particle', 'Pedology', 'Pedology (soil study)', 'Pedosphere', 'Petrography', 'Petrology', 'Petrophysics', 'Physical geography', 'Physical oceanography', 'Physics', 'Planet', 'Planetary geology', 'Planetary science', 'Plant', 'Plate tectonics', 'Prebiotic atmosphere', 'Prokaryote', 'Protist', 'Quasar', 'Quaternary geology', 'Radiation', 'Radioactive decay', 'Rain', 'Reductionism', 'Reionization', 'Remote Sensing', 'Rock (geology)', 'Satellite imagery', 'Scale factor (cosmology)', 'Science', 'Science tourism', 'Seafloor spreading', 'Sedimentary rock', 'Sedimentology', 'Seismologist', 'Seismology', 'Sexual reproduction', 'Snow', 'Soil', 'Soil science', 'Solar System', 'Solar wind', 'Solid-earth science', 'South America', 'Southern Ocean', 'Space', 'Speleology', 'Stellar population', 'Stratigraphy', 'Stratosphere', 'Structural geology', 'Structure of Earth', 'Structure of the Earth', 'Subduction', 'Sunlight', 'Supermassive black hole', 'Surveying', 'Synergy', 'Systems ecology', 'Systems geology', 'Tectonics', 'Tesla (unit)', 'Thermosphere', 'Tide', 'Time', 'Time zone', 'Timeline of the evolutionary history of life', 'Tornado', 'Transform fault', 'Tropical cyclone', 'Troposphere', 'Unicellular organism', 'Uniformitarianism', 'Universe', 'Universities Space Research Association', 'Vertebrate', 'Virtual globe', 'Virus', 'Volcanic', 'Volcano', 'Volcanoes', 'Volcanology', 'Water', 'Water cycle', 'Wayback Machine', 'Weather', 'Wilderness', 'Wildfire', 'Wind', 'World', 'World economy', 'World map']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles that may have off-topic sections', 'All articles with unsourced statements', 'All pages needing cleanup', 'Articles needing additional references from August 2022', 'Articles needing cleanup from August 2022', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NARA identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with NLK identifiers', 'Articles with sections that need to be turned into prose from August 2022', 'Articles with short description', 'Articles with unsourced statements from February 2020', 'CS1 errors: generic name', 'Commons category link is on Wikidata', 'Earth', 'Earth sciences', 'Four traditions of geography', 'Pages that use a deprecated format of the chem tags', 'Physical sciences', 'Planetary science', 'Science-related lists', 'Short description is different from Wikidata', 'Webarchive template wayback links', 'Wikipedia articles needing clarification from November 2021', 'Wikipedia articles that may have off-topic sections from August 2022']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/72/DirkvdM_rocks.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Earth_Day_Flag.png', 'https://upload.wikimedia.org/wikipedia/commons/e/e1/Layers_of_sedimentary_rock_in_Makhtesh_Ramon_%2850754%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e4/Magnetic_field_produced_by_current.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Magnetosphere_rendition.jpg', 'https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png', 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Volcano_q.jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/19/Watercyclesummary.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e7/WikiProject_Geology.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/10/Wires-antiparallel-and-parallel-with-magnetic-field.svg', 'https://upload.wikimedia.org/wikipedia/en/b/b4/Ambox_important.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/f/f2/Edit-clear.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/e/e2/Symbol_portal_class.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg']
+
+####### REFERENCES #######
+
+['http://setiathome.berkeley.edu/~pauld/etc/210BPaper.pdf', 'http://www.ucmp.berkeley.edu/geology/tecmech.html', 'http://www2.cet.edu/ete/hilk4/intro/spheres.html', 'http://hyperphysics.phy-astr.gsu.edu/hbase/Forces/funfor.html#c3', 'http://jan.ucc.nau.edu/~doetqp-p/courses/env320/lec1/Lec1.html', 'http://okfirst.ocs.ou.edu/train/meteorology/EnergyBudget.html', 'http://wordnetweb.princeton.edu/perl/webwn?s=Earth+science&sub=Search+WordNet&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h=0', 'http://wordnetweb.princeton.edu/perl/webwn?s=geodesy&sub=Search+WordNet&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h=0', 'http://epod.usra.edu/', 'http://tierra.rediris.es/Geoethics_Planetary_Protection/', 'http://www.oceanservice.noaa.gov/education/kits/geodesy/welcome.html', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007567869305171', 'http://doi.org/10.1007%2F978-3-662-56375-5', 'http://www.flatheadwatershed.org/watershed/hydrology.shtml', 'http://okfirst.mesonet.org/train/meteorology/EnergyBudget.html', 'http://www.worldcat.org/oclc/1007498917', 'https://geology.buzz/earth-science/', 'https://link.springer.com/book/10.1007/978-3-662-56375-5', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph127381&CON_LNG=ENG', 'https://engineering.dartmouth.edu/~d76205x/research/Shielding/docs/Parker_06.pdf', 'https://web.mit.edu/sahughes/www/8.022/lec10.pdf', 'https://www.rpi.edu/dept/phys/ScIT/InformationStorage/faraday/magnetism_a.html', 'https://catalogue.bnf.fr/ark:/12148/cb11936451x', 'https://data.bnf.fr/ark:/12148/cb11936451x', 'https://catalog.archives.gov/id/10638064', 'https://id.loc.gov/authorities/subjects/sh85040468', 'https://d-nb.info/gnd/4020288-4', 'https://id.ndl.go.jp/auth/ndlna/00572966', 'https://lod.nl.go.kr/resource/KSH1998004638', 'https://archive.org/details/americanheritage0000unse_a1o7', 'https://web.archive.org/web/20041024223548/http://soil.gsfc.nasa.gov/ped/pedosph.htm', 'https://web.archive.org/web/20070221094040/http://setiathome.berkeley.edu/~pauld/etc/210BPaper.pdf', 'https://web.archive.org/web/20070831022404/http://www2.cet.edu/ete/hilk4/intro/spheres.html', 'https://web.archive.org/web/20180209052922/http://jan.ucc.nau.edu/~doetqp-p/courses/env320/lec1/Lec1.html', 'https://www.nobelprize.org/prizes/physics/1902/lorentz/biographical/', 'https://www.wikidata.org/wiki/Q8008#identifiers', 'https://www.worldcat.org/oclc/1007498917']
+
+####### SUMMARY #######
+
+Earth science or geoscience includes all fields of natural science related to the planet Earth. This is a branch of science dealing with the physical, chemical, and biological complex constitutions and synergistic linkages of Earth's four spheres, namely biosphere, hydrosphere, atmosphere, and geosphere. Earth science can be considered to be a branch of planetary science, but with a much older history. Earth science encompasses four main branches of study, the lithosphere, the hydrosphere, the atmosphere, and the biosphere, each of which is further broken down into more specialized fields.
+There are both reductionist and holistic approaches to Earth sciences. It is also the study of Earth and its neighbors in space. Some Earth scientists use their knowledge of the planet to locate and develop energy and mineral resources. Others study the impact of human activity on Earth's environment, and design methods to protect the planet. Some use their knowledge about Earth processes such as volcanoes, earthquakes, and hurricanes to plan communities that will not expose people to these dangerous events.
+Earth sciences can include the study of geology, the lithosphere, and the large-scale structure of Earth's interior, as well as the atmosphere, hydrosphere, and biosphere. Typically, Earth scientists use tools from geology, chronology, physics, chemistry, geography, biology, and mathematics to build a quantitative understanding of how Earth works and evolves. For example, meteorologists study the weather and watch for dangerous storms. Hydrologists examine water and warn of floods. Seismologists study earthquakes and try to understand where they will strike. Geologists study rocks and help to locate useful minerals. Earth scientists often work in the field—perhaps climbing mountains, exploring the seabed, crawling through caves, or wading in swamps. They measure and collect samples (such as rocks or river water), then record their findings on charts and maps.
+
+####### CONTENT #######
+
+Earth science or geoscience includes all fields of natural science related to the planet Earth. This is a branch of science dealing with the physical, chemical, and biological complex constitutions and synergistic linkages of Earth's four spheres, namely biosphere, hydrosphere, atmosphere, and geosphere. Earth science can be considered to be a branch of planetary science, but with a much older history. Earth science encompasses four main branches of study, the lithosphere, the hydrosphere, the atmosphere, and the biosphere, each of which is further broken down into more specialized fields.
+There are both reductionist and holistic approaches to Earth sciences. It is also the study of Earth and its neighbors in space. Some Earth scientists use their knowledge of the planet to locate and develop energy and mineral resources. Others study the impact of human activity on Earth's environment, and design methods to protect the planet. Some use their knowledge about Earth processes such as volcanoes, earthquakes, and hurricanes to plan communities that will not expose people to these dangerous events.
+Earth sciences can include the study of geology, the lithosphere, and the large-scale structure of Earth's interior, as well as the atmosphere, hydrosphere, and biosphere. Typically, Earth scientists use tools from geology, chronology, physics, chemistry, geography, biology, and mathematics to build a quantitative understanding of how Earth works and evolves. For example, meteorologists study the weather and watch for dangerous storms. Hydrologists examine water and warn of floods. Seismologists study earthquakes and try to understand where they will strike. Geologists study rocks and help to locate useful minerals. Earth scientists often work in the field—perhaps climbing mountains, exploring the seabed, crawling through caves, or wading in swamps. They measure and collect samples (such as rocks or river water), then record their findings on charts and maps.
+
+
+== Geology ==
+
+Geology is the study of the lithosphere, or Earth's surface, including the crust and rocks. It includes the physical characteristics and processes that occur in the lithosphere as well as how they are affected by geothermal energy. It incorporates aspects of chemistry, physics, and biology as elements of geology interact. Historical geology is the application of geology to interpret Earth's history and how it changes over time. Geochemistry studies the chemical components and processes of the Earth. Geophysics studies the physical properties of the lithosphere. Paleontology studies fossilized biological material in the lithosphere. Planetary geology studies geology as it pertains to extraterrestrial bodies. Geomorphology studies the origin of landscapes. Structural geology studies the deformation of rocks to produce mountains and lowlands. Resource geology studies how energy resources can be obtained from minerals. Environmental geology studies how pollution and contaminates affect soil and rock. Mineralogy is the study of minerals. It includes the study of mineral formation, crystal structure, hazards associated with minerals, and the physical and chemical properties of minerals. Petrology is the study of rocks, including the formation and composition of rocks. Petrography is a branch of petrology that studies the typology and classification of rocks.
+
+
+== Earth's interior ==
+
+Plate tectonics, mountain ranges, volcanoes, and earthquakes are geological phenomena that can be explained in terms of physical and chemical processes in the Earth's crust. Beneath the Earth's crust lies the mantle which is heated by the radioactive decay of heavy elements. The mantle is not quite solid and consists of magma which is in a state of semi-perpetual convection. This convection process causes the lithospheric plates to move, albeit slowly. The resulting process is known as plate tectonics. Areas of the crust where new crust is created are called divergent boundaries, those where it is brought back into the Earth are convergent boundaries and those where plates slide past each other, but no new lithospheric material is created or destroyed, are referred to as transform (or conservative) boundaries Earthquakes result from the movement of the lithospheric plates, and they often occur near convergent boundaries where parts of the crust are forced into the earth as part of subduction.Plate tectonics might be thought of as the process by which the Earth is resurfaced. As the result of seafloor spreading, new crust and lithosphere is created by the flow of magma from the mantle to the near surface, through fissures, where it cools and solidifies. Through  subduction, oceanic crust and lithosphere returns to the convecting mantle. Volcanoes result primarily from the melting of subducted crust material. Crust material that is forced into the asthenosphere melts, and some portion of the melted material becomes light enough to rise to the surface—giving birth to volcanoes.
+
+
+== Atmospheric science ==
+
+Atmospheric science initially developed in the late-19th century as a means to forecast the weather through meteorology, the study of weather. Atmospheric chemistry was developed in the 20th century to measure air pollution and expanded in the 1970s in response to acid rain. Climatology studies the climate and climate change.The troposphere, stratosphere, mesosphere, thermosphere, and exosphere are the five layers which make up Earth's atmosphere. 75% of the gases in the atmosphere are located within the troposphere, the lowest layer. In all, the atmosphere is made up of about 78.0% nitrogen, 20.9% oxygen, and 0.92% argon, and small amounts of other gases including CO2 and water vapor. Water vapor and CO2 allow the Earth's atmosphere to catch and hold the Sun's energy through the greenhouse effect. This allows Earth's surface to be warm enough to have liquid water and support life. In addition to storing heat, the atmosphere also protects living organisms by shielding the Earth's surface from cosmic rays—which are often incorrectly thought to be deflected by the magnetic field. The magnetic field—created by the internal motions of the core—produces the magnetosphere which protects Earth's atmosphere from the solar wind. As the Earth is 4.5 billion years old, it would have lost its atmosphere by now if there were no protective magnetosphere.
+
+
+== Earth's magnetic field ==
+An electromagnet is a magnet that is created by an electric current. The Earth has a solid iron inner core surrounded by a fluid outer core that convects; therefore, Earth is an electromagnet. The motion of fluid convection sustains the Earth's magnetic field.The magnetic field is also very important because some birds and insects use it to navigate over long distances, using the magnetized iron crystals found in their skin. The most important function of Earth's magnetic field is protecting its organisms. High energy protons are deflected along with electrons in the solar wind. If organisms were directly exposed to these particles it would be lethal. For the consistency of a magnetic field to remain constant there must be an attractive magnetic field. If the motion of a magnetic field changes then every aspect of it does as well. It indicates a force that is proportional to the velocity of a moving charge.Magnetic flux density is generally measured in teslas. Another unit sometimes used is the gauss (G). 1 G is equivalent to 10−4 T (or 1 mG = 0.1µT).
+
+
+=== The Lorentz Force Law ===
+The force exerted by a magnetic field on an object can be defined by the Lorentz Law.
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            =
+          
+          q
+          
+            (
+            
+              E
+            
+            +
+            
+              v
+            
+            ×
+            
+              B
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\ce {\mathbf {F} =q(\mathbf {E} +\mathbf {v} \times \mathbf {B} )}}}
+  
+where
+
+F is the force
+q is the object's electric charge
+E is the electric field
+v is the object's velocity
+B is the magnetic field strength.The electromagnetic force holds atoms and molecules together. In fact, at this scale the forces of electric attraction and repulsion of electric charges are so dominant over the other three fundamental forces that they can be considered to be negligible as determiners of atomic and molecular structure.The Lorentz Force Law was named after Dutch physicist Hendrik Antoon Lorentz. He was the first to formulate this equation. Lorentz theorized that atoms might consist of charged particles and suggested that the oscillations of these charged particles were the source of light.
+
+
+== Hydrology ==
+
+Hydrology is the study of the hydrosphere and the movement of water on Earth. It emphasizes the study of how humans use and interact with freshwater supplies. Study of water's movement is closely related to geomorphology and other branches of Earth science. Applied hydrology involves engineering to maintain aquatic environments and distribute water supplies. Subdisciplines of hydrology include oceanography, hydrogeology, ecohydrology, and glaciology. Oceanography is the study of oceans. Hydrogeology is the study of groundwater. It includes the mapping of groundwater supplies and the analysis of groundwater contaminants. Applied hydrogeology seeks to prevent contamination of groundwater and mineral springs and make it available as drinking water. The earliest exploitation of groundwater resources dates back to 3000 BC, and hydrogeology as a science was developed by hydrologists beginning in the 17th century. Ecohydrology is the study of ecological systems in the hydrosphere. It can be divided into the physical study of aquatic ecosystems and the biological study of aquatic organisms. Ecohydrology includes the effects that organisms and aquatic ecosystems have on one another as well as how these ecoystems are affected by humans. Glaciology is the study of the cryosphere, including glaciers and coverage of the Earth by ice and snow. Concerns of glaciology include access to glacial freshwater, mitigation of glacial hazards, obtaining resources that exist beneath frozen land, and addressing the effects of climate change on the cryosphere.
+
+
+== Ecology ==
+
+Ecology is the study of the biosphere. This includes the study of nature and of how living things interact with the Earth and one another. It considers how living things use resources such as oxygen, water, and nutrients from the Earth to sustain themselves. It also considers how humans and other living creatures cause changes to nature.
+
+
+== Physical geography ==
+
+Physical geography is the study of Earth's systems and how they interact with one another as part of a single self-contained system. It incorporates astronomy, mathematical geography, meteorology, climatology, geology, geomorphology, biology, biogeography, pedology, and soils geography. Physical geography is distinct from human geography, which studies the human populations on Earth, though it does include human effects on the environment.
+
+
+== Methodology ==
+Methodologies vary depending on the nature of the subjects being studied. Studies typically fall into one of three categories: observational, experimental, or theoretical. Earth scientists often conduct sophisticated computer analysis or visit an interesting location to study earth phenomena (e.g. Antarctica or hot spot island chains).
+A foundational idea in Earth science is the notion of uniformitarianism, which states that "ancient geologic features are interpreted by understanding active processes that are readily observed." In other words, any geologic processes at work in the present have operated in the same ways throughout geologic time. This enables those who study Earth's history to apply knowledge of how Earth processes operate in the present to gain insight into how the planet has evolved and changed throughout long history.
+
+
+== Earth's spheres ==
+Earth science generally recognizes four spheres, the lithosphere, the hydrosphere, the atmosphere, and the biosphere; these correspond to rocks, water, air and life. Also included by some are the cryosphere (corresponding to ice) as a distinct portion of the hydrosphere and the pedosphere (corresponding to soil) as an active and intermixed sphere.
+The following fields of science are generally categorized within the Earth sciences:
+
+Geology describes the rocky parts of the Earth's crust (or lithosphere) and its historic development. Major subdisciplines are mineralogy and petrology, geomorphology, paleontology, stratigraphy, structural geology, engineering geology, and sedimentology.
+Physical geography focuses on geography as an Earth science. Physical geography is the study of Earth's seasons, climate, atmosphere, soil, streams, landforms, and oceans. Physical geography can be divided into several branches or related fields, as follows: geomorphology, biogeography, environmental geography, palaeogeography, climatology, meteorology, coastal geography, hydrology, ecology, glaciology.
+Geophysics and geodesy investigate the shape of the Earth, its reaction to forces and its magnetic and gravity fields. Geophysicists explore the Earth's core and mantle as well as the tectonic and seismic activity of the lithosphere. Geophysics is commonly used to supplement the work of geologists in developing a comprehensive understanding of crustal geology, particularly in mineral and petroleum exploration. Seismologists use geophysics to understand plate tectonic shifting, as well as predict seismic activity.
+Geochemistry is defined as the study of the processes that control the abundance, composition, and distribution of chemical compounds and isotopes in geologic environments. Geochemists use the tools and principles of chemistry to study the composition, structure, processes, and other physical aspects of the Earth. Major subdisciplines are aqueous geochemistry, cosmochemistry, isotope geochemistry and biogeochemistry.
+Soil science covers the outermost layer of the Earth's crust that is subject to soil formation processes (or pedosphere). Major subdivisions in this field of study include edaphology and pedology.
+Ecology covers the interactions between organisms and their environment. This field of study differentiates the study of Earth from the study of other planets in the Solar System, Earth being its only planet teeming with life.
+Hydrology, oceanography and limnology are studies which focus on the movement, distribution, and quality of the water and involves all the components of the hydrologic cycle on the Earth and its atmosphere (or hydrosphere). "Sub-disciplines of hydrology include hydrometeorology, surface water hydrology, hydrogeology, watershed science, forest hydrology, and water chemistry."
+Glaciology covers the icy parts of the Earth (or cryosphere).
+Atmospheric sciences cover the gaseous parts of the Earth (or atmosphere) between the surface and the exosphere (about 1000 km). Major subdisciplines include meteorology, climatology, atmospheric chemistry, and atmospheric physics.
+
+
+=== Earth science breakup ===
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Sources ===
+
+
+== Further reading ==
+
+
+== External links ==
+
+Earth Science Picture of the Day, a service of Universities Space Research Association, sponsored by NASA Goddard Space Flight Center.
+Geoethics in Planetary and Space Exploration.
+Geology Buzz: Earth Science
+

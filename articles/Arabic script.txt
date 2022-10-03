@@ -1,0 +1,293 @@
+####### TITLE #######
+
+Arabic script
+
+####### LINKS #######
+
+['1829 braille', 'ASLwrite', 'Abdul Rahman Ibrahima Sori', 'Abjad', 'Abjad numerals', 'Abkhaz–Adyghe languages', 'Abugida', 'Accessible publishing', 'Aceh', 'Acehnese language', 'Adinkra symbols', 'Adlam script', 'Adygea', 'Adyghe language', 'Aer language', 'Afaka syllabary', 'Afghanistan', 'Afrikaans language', 'Ahom script', 'Ajami script', 'Akkadian cuneiform', 'Alay', 'Albanian Braille', 'Albanian language', 'Aleph', 'Aleppo Arabic', 'Algeria', 'Algerian Arabic', 'Algerian Braille', 'Algerian Saharan Arabic', 'Aljamiado', 'Alphabet', 'American Braille', 'American Printing House for the Blind', 'Anatolia', 'Anatolian Arabic', 'Anatolian hieroglyphs', 'Ancient North Arabian', 'Ancient South Arabian script', 'Andalusi Arabic', 'Anglo-Saxon runes', 'ArXiv (identifier)', 'Arabi Malayalam', 'Arabic', 'Arabic-based creole languages', 'Arabic (Unicode block)', 'Arabic Afrikaans', 'Arabic Braille', 'Arabic Extended-A', 'Arabic Extended-B', 'Arabic Mathematical Alphabetic Symbols', 'Arabic Presentation Forms-A', 'Arabic Presentation Forms-B', 'Arabic Supplement', 'Arabic alphabet', 'Arabic calligraphy', 'Arabic chat alphabet', 'Arabic diacritics', 'Arabic grammar', 'Arabic keyboard', 'Arabic language', 'Arabic literature', 'Arabic name', 'Arabic numerals', 'Arabic phonology', 'Arabic script in Unicode', 'Arabs', 'Aragonese language', 'Arakan', 'Aramaic', 'Aramaic alphabet', 'Archaic Greek alphabets', 'Arebica', 'Armenian Braille', 'Armenian alphabet', 'Arwi', 'Arwi alphabet', 'Arwi language', 'Aslian language', 'Asomtavruli', 'Aspirated consonant', 'Aspirated consonants', 'Assyrian cuneiform', 'Assyrian people', "Atatürk's reforms", 'Attic numerals', 'Austronesian languages', 'Avar language', 'Avestan alphabet', 'Avoiuli', 'Ayin', 'Ayuba Suleiman Diallo', 'Azerbaijan', 'Azerbaijani alphabet', 'Azerbaijani language', 'Azeri Braille', 'Azeri language', 'Aztec script', 'Bagam script', 'Baghdad Arabic', 'Baghdad Jewish Arabic', 'Bahrain', 'Bahraini Gulf Arabic', 'Bahrani Arabic', 'Bajau language', 'Bakhtiari dialect', 'Balanta-Ganja', 'Balanta language', 'Balinese script', 'Balkans', 'Balochi Standard Alphabet', 'Balochi alphabet', 'Balochi language', 'Balti language', 'Baluchi language', 'Bamum script', 'Bangladesh', 'Banjar language', 'Bareqi Arabic', 'Bashkir language', 'Basilan', 'Bassa Vah script', 'Batak script', 'Baybayin', 'Beja language', 'Belarusian Arabic alphabet', 'Belarusian Braille', 'Belarusian language', 'Beneventan script', 'Bengal', 'Bengali Braille', 'Bengali language', 'Bengali–Assamese script', 'Berber Arabic alphabet', 'Berber Latin alphabet', 'Berber language', 'Berber languages', 'Berber people', 'Bet (letter)', 'Bhadrawahi language', 'Bhaiksuki script', 'Bharati Braille', 'Bhattiprolu script', 'Bhujimol script', 'Bihar', 'Bilali Document', 'Bimbashi Arabic', 'Bird-worm seal script', 'Blackfoot language', 'Blackletter', 'Blissymbols', 'Bonggi language', 'Book Pahlavi', 'Bopomofo', 'Bosnian language', "Boyd's syllabic shorthand", 'Brahmi script', 'Brahmic family of scripts', 'Brahmic scripts', 'Brahui language', 'Braigo', 'Braille', 'Braille ASCII', 'Braille Institute of America', 'Braille Patterns', 'Braille Without Borders', 'Braille e-book', 'Braille embosser', 'Braille kanji', 'Braille literacy', 'Braille music', 'Braille technology', 'Braille translator', 'Braille watch', 'Breathy voice', 'Brunei', 'Buda script', 'Buhid script', 'Bulgarian Braille', 'Buri Wolio', 'Burma', 'Burmese Braille', 'Burundi', 'Burushaski', 'Byblos syllabary', 'Bété syllabary', 'B̤ē', 'Calligraphy', 'Canadian Aboriginal syllabics', 'Canadian currency tactile feature', 'Cantonese Braille', 'Cape Malay', 'Capital letters', 'Cappadocian Greek', 'Carian alphabets', 'Carolingian minuscule', 'Carrier syllabics', 'Casamance', 'Catalan Braille', 'Caucasian Albanian script', 'Caucasus', 'Celadet Bedir Khan', 'Celtiberian script', 'Central Asia', 'Central Asian Arabic', 'Central Atlas Tamazight', 'Central Hilalian Arabic dialects', 'Central Kurdish', 'Chad', 'Chadian Arabic', 'Chagatai language', 'Chakma script', 'Cham language', 'Cham script', 'Charles Barbier', 'Chechen language', 'Cherokee syllabary', 'Chinese bronze inscriptions', 'Chinese calligraphy', 'Chinese characters', 'Chinese family of scripts', 'Chinese language', 'Chittagong', 'Chittagonian language', 'Chữ Nôm', 'Cipher runes', 'Cirth', 'Classical Arabic', 'Clear Script', 'Close-mid back rounded vowel', 'Close-mid front rounded vowel', 'Close-mid front unrounded vowel', 'Close back rounded vowel', 'Close front unrounded vowel', 'Code page 708', 'Code page 720', 'Code page 864', 'Coelbren y Beirdd', 'Comorian language', 'Comoros', 'Computer Braille Code', 'Coorgi–Cox alphabet', 'Coptic alphabet', 'Coptic language', 'Cretan hieroglyphs', 'Crimean Tatar alphabet', 'Crimean Tatar language', 'Cuneiform', 'Cuneiform Luwian', 'Cursive', 'Cursive Hebrew', 'Cypriot Arabic', 'Cypriot syllabary', 'Cypro-Minoan syllabary', 'Cyrillic alphabet', 'Cyrillic alphabets', 'Cyrillic script', 'Czech Braille', 'Dagger alif', 'Daghestan', 'Dalecarlian runes', 'Dalet', 'Damascus Arabic', 'Dargwa language', 'Dari', 'Dari (Afghanistan)', 'Dari (Persian dialect)', 'Decapoint', 'Delhi', 'Demotic (Egyptian)', 'Denglisch', 'Dental consonant', 'Deseret alphabet', 'Devanagari', 'Devanagari Braille', 'Devanagari script', 'Dham script', 'Dhives Akuru', 'Dhofari Arabic', 'Diacritic', 'Digraph (orthography)', 'Ditema tsa Dinoko', 'Diwani', 'Djibouti', 'Dobhashi', 'Doge (meme)', 'DoggoLingo', 'Dogri language', 'Dogri script', 'Doi (identifier)', 'Dongba symbols', 'Dongolawi language', 'Dravidian languages', 'Dungan language', 'Dunging script', 'Duployan shorthand', 'Dusun language', 'Dutch Braille', 'Dyula language', 'Dzongkha Braille', 'Early Cyrillic alphabet', 'Eastern Arabic numerals', 'Eastern Hilalian Arabic dialects', 'Eastern Morocco Arabic', 'Eastern pre-Hilalian Village dialects', 'Eclectic shorthand', 'Egypt', 'Egyptian Arabic', 'Egyptian hieroglyphs', 'Elamite cuneiform', 'Elbasan script', 'Elder Futhark', 'Elifba alphabet', 'Elifbaja shqip', 'Elymaic', 'Emirati Dialect', 'Emoji', 'Emoticon', 'English Braille', 'Enochian', 'Eritrea', 'Ersu Shaba script', 'Eskayan script', 'Espanca script', 'Esperanto Braille', 'Estonian Braille', 'Ethiopia', 'Etruscan alphabet', 'Evenki alphabet', 'Eveyla Akuru', 'Fakkham script', 'Faroese Braille', 'Fertile Crescent', 'Fingilish', 'Flag semaphore', 'Fox language', 'Fraktur', 'Fraser script', 'French Braille', 'French language', 'Fula alphabets', 'Fula language', 'Fur language', 'Gabelsberger shorthand', 'Gadabuursi Somali Script', 'Gaelic type', 'Gaf', 'Galal alphabet', 'Galician-Portuguese', 'Gardner–Salinas braille codes', 'Garshuni', "Ge'ez Braille", "Ge'ez alphabet", 'Geba syllabary', 'Georgian Braille', 'Georgian calligraphy', 'Georgian scripts', 'German Braille', 'Germanic languages', 'Geʽez script', 'Ghanaian braille', 'Ghayn', 'Gimel', 'Gjirokastër alphabet', 'Glagolitic script', 'Glottal stop', 'Golmol script', 'Gondi writing', 'Gothic alphabet', 'Gothic runic inscriptions', 'Goykanadi', 'Grantha script', 'Grapheme', 'Graphemes', 'Great Lakes Algonquian syllabics', 'Greco-Iberian alphabet', 'Greece', 'Greek Braille', 'Greek alphabet', 'Greek language', 'Greeklish', 'Gregg shorthand', 'Guarani Braille', 'Gujarati Braille', 'Gujarati script', 'Gulf Arabic', 'Gunjala Gondi script', 'Gupta script', 'Gurmukhi', 'Gyaru-moji', 'Hadhrami Arabic', 'Hamza', 'Hangul', 'Hanifi Rohingya script', 'Hanifi alphabet', 'Hanja', 'Hanunuo script', 'Harakat', 'Harari Region', 'Harari language', 'Harari people', 'Harris Mowbray', 'Hassaniya Arabic', 'Hatran alphabet', 'Hausa language', 'Hawaiian Braille', 'He (letter)', 'Hebrew Braille', 'Hebrew alphabet', 'Hebrew language', 'Hejazi Arabic', 'Hentaigana', 'Heth', 'Hieratic', 'Hieroglyph', 'Hijazi script', 'Hilalian dialects', 'Himachal Pradesh', 'Himmol script', 'Hindustani language', 'Hindu–Arabic numeral system', 'Hiragana', 'History of the Arabic alphabet', 'History of writing', 'Hittite cuneiform', 'Hui people', 'Hungarian Braille', "I'jam", 'IConji', 'IPA Braille', 'ISBN (identifier)', 'ISO/IEC 8859-6', 'ISO 15924', 'Iban language', 'Icelandic Braille', "Ida'an language", 'Ideogram', 'Idu script', 'Imāla', 'India', 'Indian calligraphy', 'Indic Siyaq Numbers', 'Indo-Aryan languages', 'Indonesia', 'Indonesian language', 'Influence of Arabic on other languages', 'Ingush language', 'Inscription', 'Inscriptional Pahlavi', 'Inscriptional Parthian', 'Insular script', 'International Phonetic Alphabet', 'International maritime signal flags', 'International uniformity of braille alphabets', 'Internet slang', 'Inuktitut Braille', 'Iran', 'Iranian languages', 'Iraq', 'Irish Braille', 'Ishkashimi language', 'Islam', 'Islamic calligraphy', 'Isotype (picture language)', 'Isthmian script', 'Italian Braille', 'Iñupiaq Braille', 'Jambi', 'Jammu and Kashmir (state)', 'Japan Braille Library', 'Japanese Braille', 'Japanese calligraphy', 'Javanese language', 'Javanese script', 'Jawi (script)', 'Jawi alphabet', 'Jawi script', 'Jebli Arabic', 'Jejemon', 'Jharkhand', 'Jijel Arabic', 'Jindai moji', 'Jola-Fonyi language', 'Jordan', 'Jordanian Arabic', 'Juba Arabic', 'Judaeo-Spanish', 'Judeo-Arabic languages', 'Judeo-Iraqi Arabic', 'Judeo-Moroccan Arabic', 'Judeo-Tripolitanian Arabic', 'Judeo-Tunisian Arabic', 'Judeo-Yemeni Arabic', 'Jurchen script', 'Kadamba script', 'Kadazan language', 'Kaddare script', 'Kaidā glyphs', 'Kaithi', 'Kalami language', 'Kalimantan', 'Kalinga script', 'Kana', 'Kanji', 'Kannada Braille', 'Kannada script', 'Kaomoji', 'Kaph', 'Karachay-Balkar language', 'Karakalpak language', 'Karani script', 'Kashmiri language', 'Katakana', 'Kawi script', 'Kayah Li alphabet', 'Kazakh Braille', 'Kazakh alphabets', 'Kazakh language', 'Kazakhstan', 'Kedah', 'Kedah Malay language', 'Kelantan', 'Kerala', 'Kharosthi', 'Khema script', 'Khitan large script', 'Khitan small script', 'Khmer Braille', 'Khmer script', 'Khojki script', 'Khom Thai script', 'Khom script (Ong Kommadam)', 'Khorasani Arabic', 'Khowar alphabet', 'Khowar language', 'Khudabadi script', 'Khuzestani Arabic', 'Khē', 'Kinyarwanda', 'Kirundi', 'Klingon scripts', 'Kolezhuthu', 'Korean Braille', 'Korean calligraphy', 'Kpelle syllabary', 'Ktav Ashuri', 'Kufic', 'Kulitan', 'Kummol script', 'Kumyk language', 'Kurdish alphabet', 'Kurdish alphabets', 'Kurdish languages', 'Kurrent', 'Kurukh language', 'Kuwait', 'Kuwaiti Arabic', 'Kvemmol script', 'Kyrgyz Braille', 'Kyrgyz alphabets', 'Kyrgyz language', 'Kyrgyzstan', 'Ladakhi language', 'Ladino language', 'Lai Tay script', 'Lak language', 'Lakshadweep', 'Lamedh', 'Lampung script', 'Langdi', 'Language death', 'Languages of Algeria', 'Languages of India', 'Languages of Indonesia', 'Lao script', 'Large seal script', 'Latin alphabet', 'Latin script', 'Latinisation (USSR)', 'Latvian Braille', 'Laṇḍā scripts', 'Lebanese Arabic', 'Lebanon', 'Leet', 'Leke script', 'Lepcha script', 'Levant', 'Levantine Arabic', 'Lezgian language', 'Libya', 'Libyan Arabic', 'Limbu script', 'Linear B', 'Linear Elamite', 'Lipka Tatars', 'List of Arabic letter components', 'List of constructed scripts', 'List of creators of writing systems', 'List of languages by first written accounts', 'List of languages by writing system', 'List of writing systems', 'List of writing systems by adoption', 'Lisu language', 'Lithuanian Braille', 'Litumol script', 'Loanword', 'Logogram', 'Lolcat', 'Loma language', 'Lontara Bilang-bilang script', 'Lontara script', 'Lori dialects', 'Lotud language', 'Louis Braille', 'Lun Bawang language', 'Luo script', 'Luri language', 'Luxembourgish Braille', 'Lycian alphabet', 'Lydian alphabet', 'MacArabic encoding', 'Madagascar', 'Madrasa', 'Madurese language', 'Maghreb', 'Maghrebi Arabic', 'Maguindanao language', 'Mahajani', 'Mainland Chinese Braille', 'Makasar script', 'Malagasy language', 'Malay language', 'Malayalam', 'Malayalam Braille', 'Malayalam script', 'Malayanma', 'Malaysia', 'Maldivian writing systems', 'Mali', 'Maltese Braille', 'Maltese language', "Man'yōgana", 'Manchu alphabet', 'Mandaic alphabet', 'Mandarin Chinese', 'Mande languages', 'Mandinka language', 'Mandombe script', 'Manichaean script', 'Maqil Arabic dialects', 'Maranao language', 'Marchen script', 'Marcomannic runes', 'Maridi Arabic', 'Martian language', 'Marwari language', 'Mashq', 'Mater lectionis', 'Mauritania', 'Maya script', 'Mazanderani language', 'Medefaidrin', 'Medieval runes', 'Meitei language', 'Meitei script', 'Mem', 'Mende Kikakui script', 'Meroitic script', 'Merovingian script', 'Mesopotamia', 'Mesopotamian Arabic', 'Mesopotamian language', 'Miguxês', 'Minangkabau language', 'Mixtec writing', 'Miꞌkmaw hieroglyphic writing', 'Mkhedruli', 'Modern Standard Arabic', 'Modi script', 'Mogholi language', 'Molbog language', 'Molodtsov alphabet', 'Mongolian Braille', 'Mongolian calligraphy', 'Mongolian language', 'Mongolian script', 'Mon–Burmese script', 'Moon type', 'Mooré', 'Moroccan Arabic', 'Moroccan Darija', 'Morocco', 'Mountbatten Brailler', 'Mozarabic language', 'Mru language', 'Muhaqqaq', 'Muisca numerals', 'Multani script', 'Mundari Bani', 'Mustafa Kemal Atatürk', 'Mwangwego script', 'Myanmar', 'Māori Braille', "N'Ko script", 'Nabataean Arabic', 'Nabataean alphabet', 'Nabataeans', 'Najdi Arabic', 'Nandinagari', 'Naskh (script)', 'Nastaliq', 'Nastaʿlīq script', 'National Braille Association', 'Navajo Braille', 'Near-open front unrounded vowel', 'Nemeth Braille', 'Neo-Tifinagh', 'Nepalese scripts', 'New Epoch Notation Painting', 'New Tai Lue alphabet', 'New York Point', 'Ng (Arabic)', 'Nigerian braille', 'Night writing', 'Nobiin language', 'Nogai language', 'North Africa', 'North Levantine Arabic', 'North Mesopotamian Arabic', 'Northeast Africa', 'Northeast Caucasian languages', 'Northeastern Iberian script', 'Northern Kurdish', 'Northern Sami Braille', 'Northwest Arabian Arabic', 'Northwest Caucasian languages', 'Nsibidi', 'Nubi language', 'Nubian languages', 'Nun (letter)', 'Nuskhuri', 'Nwagu Aneke script', 'Nüshu', 'Nāgarī script', 'OCLC (identifier)', 'October Revolution', 'Odia Braille', 'Odia script', 'Official language', 'Ogham', 'Ojibwe writing systems', 'Ol Chiki script', 'Ol Onal', 'Old Arabic', 'Old Hungarian script', 'Old Italic scripts', 'Old Permic script', 'Old Persian cuneiform', 'Old Spanish', 'Old Sundanese script', 'Old Turkic script', 'Old Uyghur alphabet', 'Olmec hieroglyphs', 'Oman', 'Omani Arabic', 'Omar Ibn Said', 'Open-mid back rounded vowel', 'Open-mid front unrounded vowel', 'Optical braille recognition', 'Oracle bone script', 'Ormuri', 'Osage script', 'Osmanya script', 'Ottoman Empire', 'Ottoman Siyaq Numbers', 'Ottoman Turkish alphabet', 'Ottoman Turkish language', 'Pachumol script', 'Padonkaffsky jargon', 'Pahawh Hmong', 'Pahlavi scripts', 'Pakistan', 'Palatal lateral approximant', 'Palatal nasal', 'Palatalization (phonetics)', 'Palawan', 'Paleo-Hebrew alphabet', 'Palestinian Arabic', 'Pallava script', 'Papyrus', 'Pashto', 'Pashto alphabet', 'Pashto language', 'Pau Cin Hau script', 'Pazend', 'Pe (Semitic letter)', 'Pegon script', 'Peninsular Arabic', "People's Republic of China", 'Perforation', 'Perkins Brailler', 'Persian Braille', 'Persian Language', 'Persian alphabet', 'Persian calligraphy', 'Persian language', 'Perso-Arabic', 'Perso-Arabic alphabet', 'Pesantren', 'Petra', 'Philippine Braille', 'Philippines', 'Phoenician alphabet', 'Phoneme', 'Phonemes', 'Phonetic transcription', 'Phonology', 'Pictogram', 'Pidgin Arabic', 'Pitman shorthand', 'Polish Braille', 'Polish language', 'Pollard script', 'Portuguese Braille', 'Portuguese language', 'Pracalit script', 'Pre-Hilalian Arabic dialects', 'Pre-Hilalian Urban Arabic dialects', 'Pre-classical Arabic', 'Proto-Arabic language', 'Proto-Elamite script', 'Proto-Sinaitic script', 'Psalter Pahlavi', 'Pseudo-Chinese', 'Punic alphabet', 'Punjabi Braille', 'Punjabi language', 'Pyu script', 'Qatar', 'Qoph', 'Quran', 'Quranic Arabic Corpus', 'Rakhine State', 'Rakhine language', 'Ranjana script', 'Rashi script', 'Rasm', 'Refreshable braille display', 'Rejang script', 'Rencong script', 'Resh', 'Retroflex consonant', 'Retroflex flap', 'Retroflex lateral flap', 'Retroflex nasal', 'Riau', 'Riau Islands', 'Right-to-left script', 'RoboBraille', 'Rohingya language', 'Roman numerals', 'Romanian Braille', 'Romanization of Arabic', 'Rumi Numeral Symbols', 'Runes', 'Ruqʿah script', 'Russian Braille', 'Rwanda', 'Róża Czacka', "S'gaw Karen alphabet", 'SMS language', 'Sabah', 'Sabah Bisaya language', 'Sabriye Tenberken', 'Sahel', 'Salar language', 'Salar people', 'Sama language', 'Samaritan script', 'Samoan Braille', 'Samuel Kramer', 'Sanʽani Arabic', 'Saraiki alphabet', 'Saraiki language', 'Sarati', 'Sarawak', 'Sarawak Bisaya language', 'Saudi Arabia', 'Saurashtra script', 'Sawndip', 'Saʽidi Arabic', 'Scandinavian Braille', 'Scribal abbreviation', 'Seal script', 'Semi-syllabary', 'Semitic languages', 'Semitic root', 'Senegal', 'Serbo-Croatian', 'Shaddah', 'Shahmukhi', 'Shahmukhi alphabet', 'Shan script', 'Sharada script', 'Shavian alphabet', 'Shihhi Arabic', 'Shilha language', 'Shin (letter)', 'Shina language', 'Shirvani Arabic', 'Shona language', 'Shughni language', 'Si5s', 'Siculo-Arabic', 'Siddhaṃ script', 'Sidetic language', 'Siglas poveiras', 'SignWriting', 'Sign language', 'Simplified Chinese characters', 'Sindh', 'Sindhi alphabet', 'Sindhi language', 'Singapore', 'Sinhala Braille', 'Sinhala script', 'Sini (script)', 'Sinitic languages', 'Sino-Tibetan languages', 'Slate and stylus', 'Slovak Braille', 'Small seal script', 'Sogdian alphabet', 'Solitreo', 'Somali alphabet', 'Somali language', 'Somalia', 'Somaliland', 'Songhay languages', 'Sorabe alphabet', 'Sorang Sompeng script', 'Sorani', 'Soranî dialect', 'South African braille', 'South Levantine Arabic', 'South Mesopotamian Arabic', 'Southeast Asia', 'Southeastern Iberian script', 'Southern Thailand', 'Southwest Paleohispanic script', 'Southwestern Iranian languages', 'Soviet Union', 'Soyombo script', 'Spanish Braille', 'Spanish language', 'Sri Lanka', 'State of Palestine', 'Staveless runes', 'Stokoe notation', 'Strikethrough', 'Sub-Saharan Africa', 'Sudan', 'Sudanese Arabic', 'Sui script', 'Sukhothai script', 'Sulaym Arabic dialects', 'Sumatra', 'Sun and moon letters', 'Sundanese language', 'Sundanese script', 'Sunwar language', 'Swahili language', 'Sylheti Nagri', 'Sylheti language', 'Syllabary', 'Syria', 'Syriac alphabet', 'Syrian Arabic', 'Sütterlin', 'Sōgana', 'Tactile alphabet', 'Tadaksahak', 'Tagalog language', 'Tagbanwa script', 'Tai Le script', 'Tai Noi script', 'Tai Tham script', 'Tai Viet script', 'Taiwanese Braille', 'Tajik alphabet', 'Tajikistan', 'Tajwid', 'Takri script', 'Taliq', 'Talysh language', 'Tamil-Brahmi', 'Tamil Braille', 'Tamil Nadu', 'Tamil language', 'Tamil script', 'Tamyig script', 'Tanchangya script', 'Tangut script', 'Tanwin', 'Tashkil', 'Tat language (Caucasus)', 'Tatar Braille', 'Tatar language', 'Tatars', 'Tausug language', 'Taw', 'Taʽizzi-Adeni Arabic', 'Taʿlīq script', 'Teeline Shorthand', 'Telangana', 'Telegraph code', 'Telugu Braille', 'Telugu script', 'Temburong', 'Tengwar', 'Ternate language', 'Testerian', 'Teth', 'Thaana', 'Thai and Lao Braille', 'Thai language', 'Thai script', 'Thailand', 'Thakur Vishva Narain Singh', 'The Philippines', 'Thomas Natural Shorthand', 'Thuluth', 'Tibetan Braille', 'Tibetan calligraphy', 'Tibetan script', 'Tidore language', 'Tifinagh', 'Tigalari script', 'Tihamiyya Arabic', 'Timbuktu', 'Tirhuta script', 'Tironian notes', 'Tocharian script', 'Todhri script', 'Torwali language', 'Traditional Chinese characters', 'Translit', 'Transliteration of Arabic', 'Tripura', 'Tsade', 'Tuareg language', 'Tunisia', 'Tunisian Arabic', 'Turkey', 'Turkic languages', 'Turkish Braille', 'Turkish language', 'Turkmen alphabet', 'Turkmen language', 'Turkmenistan', 'Two-cell Chinese Braille', 'USSR', 'Uab Meto language', 'Uchen script', 'Ugaritic alphabet', 'Ukrainian Braille', 'Umê script', 'Undeciphered writing systems', 'Unicode', 'Unicode range', 'Unified English Braille', 'United Arab Emirates', 'United Nations', 'Urdu', 'Urdu Braille', 'Urdu alphabet', 'Urdu language', 'Uttar Pradesh', 'Uyghur Arabic alphabet', 'Uyghur language', 'Uzbek alphabet', 'Uzbek language', 'Uzbekistan', 'Vagindra script', 'Vai syllabary', 'Valentin Haüy', 'Varieties of Arabic', 'Variety (linguistics)', 'Vatteluttu', 'Velar nasal', 'Velarized alveolar lateral approximant', 'Vellara alphabet', 'Vibratese', 'Vietnamese Braille', 'Vietnamese calligraphy', 'Visible Speech', 'Visigothic script', 'Vithkuqi script', 'Voiced alveolar affricate', 'Voiced alveolar implosive', 'Voiced alveolar trill', 'Voiced alveolo-palatal affricate', 'Voiced alveolo-palatal fricative', 'Voiced bilabial implosive', 'Voiced bilabial plosive', 'Voiced labiodental fricative', 'Voiced palatal approximant', 'Voiced palatal fricative', 'Voiced palatal lateral approximant', 'Voiced palatal nasal', 'Voiced postalveolar fricative', 'Voiced retroflex flap', 'Voiced retroflex fricative', 'Voiced retroflex implosive', 'Voiced retroflex lateral approximant', 'Voiced retroflex nasal', 'Voiced retroflex plosive', 'Voiced velar implosive', 'Voiced velar nasal', 'Voiced velar plosive', 'Voiceless alveolar affricate', 'Voiceless alveolar lateral fricative', 'Voiceless alveolo-palatal affricate', 'Voiceless alveolo-palatal sibilant', 'Voiceless bilabial plosive', 'Voiceless dental affricate', 'Voiceless glottal fricative', 'Voiceless lateral fricative', 'Voiceless palatal fricative', 'Voiceless postalveolar affricate', 'Voiceless retroflex fricative', 'Voiceless retroflex plosive', 'Voiceless velar fricative', 'Voiceless velar plosive', 'Volapuk encoding', "Wadaad's writing", 'Wadaad writing', 'Wancho language', 'Warang Citi', 'Waw (letter)', 'Welsh Braille', 'West Africa', 'West Bengal', 'Western Algeria Arabic', 'Western Morocco Arabic', 'Western Persian', 'Western calligraphy', 'Western pre-Hilalian Village dialects', 'Wiktionary', 'William Bell Wait', 'Windows-1256', 'Woleai script', 'Wolof language', 'Wolofal', 'Wolofal alphabet', 'Wolofal script', 'Writing system', "Xiao'erjing", 'Xinjiang', 'Yakan language', 'Yaminjeongeum', 'Yaña imlâ', 'Yaña imlâ alphabet', 'Yañalif', 'Yemen', 'Yemeni Arabic', 'Yerkish', 'Yi script', 'Yodh', 'Yoruba language', 'Younger Futhark', 'Yugoslav Braille', 'Yugtun script', 'Zaghawa script', 'Zambian Braille', 'Zanabazar square script', 'Zaouia', 'Zapotec script', 'Zarma language', 'Zayin', 'Zimbabwe', 'Çukurova Arabic', 'İske imlâ', 'İske imlâ alphabet', 'Ƴ', 'ʼPhags-pa script', 'ʾIʿrab', 'ئ', 'ب', 'ج', 'ف', 'ق', 'ك', 'و', 'ٯ', 'ٺ', 'ټ', 'ٽ', 'پ', 'ڀ', 'ځ', 'ڃ', 'ڄ', 'څ', 'چ', 'ڈ', 'ډ', 'ڊ', 'ڌ', 'ڑ', 'ړ', 'ڕ', 'ږ', 'ژ', 'ښ', 'ڜ', 'ڠ', 'ڢ', 'ڣ', 'ڤ', 'ڥ', 'ڧ', 'ڨ', 'ګ', 'ڭ', 'گ', 'ڱ', 'ڳ', 'ڵ', 'ڹ', 'ڻ', 'ڼ', 'ڽ', 'ھ', 'ۆ', 'ۇ', 'ۉ', 'ۋ', 'ۍ', 'ێ', 'ۏ', 'ې', 'ۑ', 'ے', 'ە', 'ݗ', 'ݙ', 'ݜ', 'ݧ', 'ݨ', 'ݩ', 'ݪ', 'ݫ', 'ݭ', 'ࢳ', 'ࣇ', 'Ḍād', 'Ḏāl', 'Ḫāʾ', 'Ṯāʾ', 'Ẓāʾ', 'ﭦ']
+
+####### CATEGORIES #######
+
+['Abjad writing systems', 'All Wikipedia articles needing clarification', 'All accuracy disputes', 'All articles needing rewrite', 'All articles with unsourced statements', 'All articles with vague or ambiguous time', 'All pages needing factual verification', 'Arabic orthography', 'Arabic script', 'Articles containing Arabic-language text', 'Articles containing Balochi-language text', 'Articles containing Bosnian-language text', 'Articles containing Burushaski-language text', 'Articles containing Chinese-language text', 'Articles containing Javanese-language text', 'Articles containing Kashmiri-language text', 'Articles containing Kazakh-language text', 'Articles containing Khowar-language text', 'Articles containing Kurdish-language text', 'Articles containing Kyrgyz-language text', 'Articles containing Malay (macrolanguage)-language text', 'Articles containing Pashto-language text', 'Articles containing Persian-language text', 'Articles containing Punjabi-language text', 'Articles containing Punjabi (Western)-language text', 'Articles containing Saraiki-language text', 'Articles containing Sindhi-language text', 'Articles containing Tamil-language text', 'Articles containing Tatar-language text', 'Articles containing Uighur-language text', 'Articles containing Urdu-language text', 'Articles containing Wolof-language text', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with disputed statements from November 2011', 'Articles with short description', 'Articles with unsourced statements from August 2014', 'Articles with unsourced statements from June 2020', 'Articles with unsourced statements from March 2018', 'Commons category link from Wikidata', 'Pages using collapsible list with both background and text-align in titlestyle', 'Right-to-left writing systems', 'Scripts with ISO 15924 four-letter codes', 'Short description matches Wikidata', 'Vague or ambiguous time from March 2018', 'Wikipedia articles needing clarification from December 2020', 'Wikipedia articles needing factual verification from December 2021', 'Wikipedia articles needing rewrite from July 2022']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/8/8f/Arabic-script.png', 'https://upload.wikimedia.org/wikipedia/commons/e/e8/Arabic_alphabet_world_distribution_-_four_shades.png', 'https://upload.wikimedia.org/wikipedia/commons/e/e8/Crystal_Clear_app_kedit.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Somaliland.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6b/Wikipedia_in_Arabic_script_languages_in_KACST_Office.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg']
+
+####### REFERENCES #######
+
+['http://alnuba.com/english/lesson-four/2-3/', 'http://www.azer.com/aiweb/categories/magazine/52_folder/52_articles/52_alphabet.html', 'http://baask.com/diwwan/index.php?topic=1523.0%7CBalouchi', 'http://www.baluchiacademy.blogspot.com/', 'http://hisamullahbeg.blogspot.com/2010/04/burushaski-primer.html', 'http://khadimskardu1.blogspot.com/', 'http://naipaleikaohkabuak.blogspot.com/', 'http://edition.cnn.com/2010/LIVING/09/06/arabic.difficulty.learning/', 'http://www.ethnologue.com/18/language/aeq/', 'http://www.ethnologue.com/show_language.asp?code=ajt%7CJudeo-Tunisian', 'http://www.omniglot.com/writing/nabataean.htm', 'http://www.stshenouda.com/coptlang/copthist.htm', 'http://www.user.uni-hannover.de/nhtcapri/urdu-alphabet.html', 'http://socrates.berkeley.edu/~chechen/Ch_writing.htm', 'http://www.bu.edu/bostonia/summer09/ajami/', 'http://www.bne.es/es/Micrositios/Exposiciones/MemoriaMoriscos/Obras/', 'http://mushecht.haifa.ac.il/catalogues/Nabateans/Joseph_Naveh.pdf', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007558293805171', 'http://www.thenubian.net/lang.php', 'http://www.cimera.org/files/camel/en/27e/MICA27E-Siddikzoda.pdf', 'http://www.ethnologue.org/show_language.asp?code=bhd%7CBhadrawahi', 'http://muslimsinamerica.org/index.php?option=com_wrapper&Itemid=49', 'http://muslimsinamerica.org/index.php?option=com_zoom&Itemid=31&page=view&catid=1&PageNo=1&key=2&hit=1%7CBilali', 'http://muslimsinamerica.org/index.php?option=com_zoom&Itemid=31&page=view&catid=1&PageNo=2&key=17&hit=1%7COmar', "http://scriptsource.org/cms/scripts/page.php?item_id=wrSys_detail&uid=lrftufkq8x%7CIda'an", 'http://scriptsource.org/cms/scripts/page.php?item_id=wrSys_detail&uid=s772abcj2r%7CTadaksahak', 'http://scriptsource.org/cms/scripts/page.php?item_id=wrSys_detail&uid=rnuzk9azpb%7CZarma', 'http://scriptsource.org/cms/scripts/page.php?item_id=wrSys_detail&uid=y5ue5vjlaq%7CJola-Fonyi', 'http://scriptsource.org/cms/scripts/page.php?item_id=wrSys_detail&uid=bw87m6llbu%7CDyula', 'http://software.sil.org/arabicfonts/', 'http://www.unicode.org/L2/L2019/19111r-punjabi-lam.pdf', 'http://www.unicode.org/charts/collation/', 'http://worldcat.org/oclc/1124340016', 'http://www.worldcat.org/oclc/1124340016', 'http://www.worldscriptures.org/pages/brahui.html', 'http://blogs.tribune.com.pk/story/6179/pakistan-should-mind-all-of-its-languages%7Cscanned', 'https://www.britannica.com/EBchecked/topic/31666/Arabic-alphabet', 'https://books.google.com/books?id=65kOAAAAYAAJ&q=origin', 'https://books.google.com/books?id=D4cHAQAAMAAJ', 'https://books.google.com/books?id=FcAoBq4_EnEC&pg=PA152', 'https://books.google.com/books?id=Kc4xAlunCSEC&pg=PA100', 'https://books.google.com/books?id=fDohBQAAQBAJ&pg=PR1', 'https://www.scribd.com/doc/21180958/Rohingya-Language-Book-A-Z%7CRohingya-Language-Book-A-Z', 'https://vimeo.com/19594456', 'https://hal.archives-ouvertes.fr/hal-02113751', 'https://catalogue.bnf.fr/ark:/12148/cb11953438d', 'https://data.bnf.fr/ark:/12148/cb11953438d', 'https://id.loc.gov/authorities/subjects/sh85139095', 'https://d-nb.info/gnd/4355548-2', 'https://www.researchgate.net/publication/270568583', 'https://web.archive.org/web/20060613195726/http://www.cimera.org/files/camel/en/27e/MICA27E-Siddikzoda.pdf', 'https://web.archive.org/web/20081223111006/http://socrates.berkeley.edu/~chechen/Ch_writing.htm', 'https://web.archive.org/web/20120218074945/http://www.bne.es/es/Micrositios/Exposiciones/MemoriaMoriscos/Obras/', 'https://web.archive.org/web/20120419152624/http://www.stshenouda.com/coptlang/copthist.htm', 'https://web.archive.org/web/20130520132438/http://muslimsinamerica.org/index.php?option=com_wrapper&Itemid=49', 'https://web.archive.org/web/20130818234024/http://www.baluchiacademy.blogspot.com/', 'https://web.archive.org/web/20150426185709/https://www.britannica.com/EBchecked/topic/31666/Arabic-alphabet', 'https://web.archive.org/web/20150908050108/http://muslimsinamerica.org/index.php?option=com_zoom&Itemid=31&page=view&catid=1&PageNo=2&key=17&hit=1%7COmar', 'https://web.archive.org/web/20150908051416/http://muslimsinamerica.org/index.php?option=com_zoom&Itemid=31&page=view&catid=1&PageNo=1&key=2&hit=1%7CBilali', 'https://web.archive.org/web/20161030230355/http://www.worldscriptures.org/pages/brahui.html', 'https://web.archive.org/web/20190911052959/http://www.user.uni-hannover.de/nhtcapri/urdu-alphabet.html', 'https://arxiv.org/abs/1905.04051', 'https://doi.org/10.1007%2Fs10579-019-09464-6', 'https://www.unicode.org/charts/PDF/U0600.pdf', 'https://www.unicode.org/charts/PDF/U0750.pdf', 'https://www.unicode.org/charts/PDF/U0870.pdf', 'https://www.unicode.org/charts/PDF/U08A0.pdf', 'https://www.unicode.org/charts/PDF/U10E60.pdf', 'https://www.unicode.org/charts/PDF/U1EC70.pdf', 'https://www.unicode.org/charts/PDF/U1ED00.pdf', 'https://www.unicode.org/charts/PDF/U1EE00.pdf', 'https://www.unicode.org/charts/PDF/UFB50.pdf', 'https://www.unicode.org/charts/PDF/UFE70.pdf', 'https://www.wikidata.org/wiki/Q1828555#identifiers', 'https://www.wikidata.org/wiki/Q1828555?uselang=en#P1406', 'https://archive.today/20120719073438/http://alnuba.com/english/lesson-four/2-3/']
+
+####### SUMMARY #######
+
+The Arabic script is a writing system used for Arabic and several other languages of Asia and Africa. It is the second-most widely used writing system in the world by number of countries using it, and the third-most by number of users (after the Latin and Chinese scripts).The script was first used to write texts in Arabic, most notably the Quran, the holy book of Islam. With the religion's spread, it came to be used as the primary script for many language families, leading to the addition of new letters and other symbols. Such languages still using it are: Persian (Farsi/Dari), Malay (Jawi), Uyghur, Kurdish, Punjabi (Shahmukhi), Sindhi, Balti, Balochi, Pashto, Lurish, Urdu, Kashmiri, Rohingya, Somali and Mandinka,  Mooré among others. Until the 16th century, it was also used for some Spanish texts, and—prior to the language reform in 1928—it was the writing system of Turkish.The script is written from right to left in a cursive style, in which most of the letters are written in slightly different forms according to whether they stand alone or are joined to a following or preceding letter. However, the basic letter form remains unchanged. The script does not have capital letters. In most cases, the letters transcribe consonants, or consonants and a few vowels, so most Arabic alphabets are abjads, with the versions used for some languages, such as Sorani, Uyghur, Mandarin, and Serbo-Croatian, being alphabets. It is also the basis for the tradition of Arabic calligraphy.
+
+
+
+####### CONTENT #######
+
+The Arabic script is a writing system used for Arabic and several other languages of Asia and Africa. It is the second-most widely used writing system in the world by number of countries using it, and the third-most by number of users (after the Latin and Chinese scripts).The script was first used to write texts in Arabic, most notably the Quran, the holy book of Islam. With the religion's spread, it came to be used as the primary script for many language families, leading to the addition of new letters and other symbols. Such languages still using it are: Persian (Farsi/Dari), Malay (Jawi), Uyghur, Kurdish, Punjabi (Shahmukhi), Sindhi, Balti, Balochi, Pashto, Lurish, Urdu, Kashmiri, Rohingya, Somali and Mandinka,  Mooré among others. Until the 16th century, it was also used for some Spanish texts, and—prior to the language reform in 1928—it was the writing system of Turkish.The script is written from right to left in a cursive style, in which most of the letters are written in slightly different forms according to whether they stand alone or are joined to a following or preceding letter. However, the basic letter form remains unchanged. The script does not have capital letters. In most cases, the letters transcribe consonants, or consonants and a few vowels, so most Arabic alphabets are abjads, with the versions used for some languages, such as Sorani, Uyghur, Mandarin, and Serbo-Croatian, being alphabets. It is also the basis for the tradition of Arabic calligraphy.
+
+
+== History ==
+
+The Arabic alphabet is derived either from the Nabataean alphabet or (less widely believed) directly from the Syriac alphabet, which are both derived from the Aramaic alphabet (which also gave rise to the Hebrew alphabet), which, in turn, descended from the Phoenician alphabet.  In addition to the Aramaic script (and, therefore, the Arabic and Hebrew scripts), the Phoenician script also gave rise to the Greek alphabet (and, therefore, both the Cyrillic alphabet and the Latin alphabet used to write this article).
+
+
+=== Origins ===
+In the 6th and 5th centuries BCE, northern Arab tribes emigrated and founded a kingdom centred around Petra, Jordan. These people (now named Nabataeans from the name of one of the tribes, Nabatu) spoke Nabataean Arabic, a dialect of the Arabic language. In the 2nd or 1st centuries BCE, the first known records of the Nabataean alphabet were written in the Aramaic language (which was the language of communication and trade), but included some Arabic language features: the Nabataeans did not write the language which they spoke. They wrote in a form of the Aramaic alphabet, which continued to evolve; it separated into two forms: one intended for inscriptions (known as "monumental Nabataean") and the other, more cursive and hurriedly written and with joined letters, for writing on papyrus. This cursive form influenced the monumental form more and more and gradually changed into the Arabic alphabet.
+
+
+== Overview ==
+The Arabic script has been adapted for use in a wide variety of languages besides Arabic, including Persian, Malay and Urdu, which are not Semitic. Such adaptations may feature altered or new characters to represent phonemes that do not appear in Arabic phonology. For example, the Arabic language lacks a voiceless bilabial plosive (the [p] sound), therefore many languages add their own letter to represent [p] in the script, though the specific letter used varies from language to language. These modifications tend to fall into groups: Indian and Turkic languages written in the Arabic script tend to use the Persian modified letters, whereas the languages of Indonesia tend to imitate those of Jawi. The modified version of the Arabic script originally devised for use with Persian is known as the Perso-Arabic script by scholars.When the Arabic script is used to write Serbo-Croatian, Sorani, Kashmiri, Mandarin Chinese, or Uyghur, vowels are mandatory. The Arabic script can, therefore, be used as a true alphabet as well as an abjad, although it is often strongly, if erroneously, connected to the latter due to it being originally used only for Arabic.Use of the Arabic script in West African languages, especially in the Sahel, developed with the spread of Islam. To a certain degree the style and usage tends to follow those of the Maghreb (for instance the position of the dots in the letters fāʼ and qāf). Additional diacritics have come into use to facilitate the writing of sounds not represented in the Arabic language. The term ʻAjamī, which comes from the Arabic root for "foreign," has been applied to Arabic-based orthographies of African languages.
+
+
+=== Table of writing styles ===
+
+
+=== Table of alphabets ===
+
+
+=== Current use ===
+Today Iran, Afghanistan, Pakistan, India, and China are the main non-Arabic speaking states using the Arabic alphabet to write one or more official national languages, including Azerbaijani, Baluchi, Brahui, Persian, Pashto, Central Kurdish, Urdu, Sindhi, Kashmiri, Punjabi and Uyghur.An Arabic alphabet is currently used for the following languages:
+
+
+==== Middle East and Central Asia ====
+
+Arabic
+Garshuni (or Karshuni) originated in the 7th century, when Arabic became the dominant spoken language in the Fertile Crescent, but Arabic script was not yet fully developed or widely read, and so the Syriac alphabet was used. There is evidence that writing Arabic in this other set of letters (known as Garshuni) influenced the style of modern Arabic script. After this initial period, Garshuni writing has continued to the present day among some Syriac Christian communities in the Arabic-speaking regions of the Levant and Mesopotamia.
+Kazakh in Kazakhstan, China, Iran and Afghanistan
+Kurdish in Northern Iraq and Northwest Iran.  (In Turkey and Syria the Latin script is used for Kurdish)
+Kyrgyz by its 150,000 speakers in the Xinjiang Uyghur Autonomous Region in northwestern China, Pakistan, Kyrgyzstan and Afghanistan
+Turkmen in Turkmenistan, Afghanistan and Iran
+Uzbek in Uzbekistan and Afghanistan
+Official Persian in Iran and its dialects, like Dari in Afghanistan and Tajiki in Tajikistan
+Baluchi in Iran, in Pakistan's Balochistan region, Afghanistan and Oman An academy for the protection of the Baluchi Language was established in Iran in 2009
+Southwestern Iranian languages as Lori dialects and Bakhtiari language
+Pashto in Afghanistan and Pakistan, and Tajikistan
+Uyghur changed to Latin script in 1969 and back to a simplified, fully voweled Arabic script in 1983
+Judeo-Arabic languages
+Judeo-Tunisian Arabic
+Azerbaijani language in Iran
+Talysh language in Iran
+Mazanderani language in Iran
+Shughni language in Afghanistan
+
+
+==== East Asia ====
+The Chinese language is written by some Hui in the Arabic-derived Xiao'erjing alphabet (see also Sini (script))
+The Turkic Salar language is written by some Salar in the Arabic alphabet
+Uyghur alphabet
+
+
+==== South Asia ====
+Balochi in Pakistan and Iran
+Dari in Afghanistan
+Kashmiri in India and Pakistan (also written in Sharada and Devanagari  although Kashmiri is more commonly written in Perso-Arabic Script)
+Pashto in Afghanistan and Pakistan
+Khowar in Northern Pakistan, also uses the Latin script
+Punjabi (Shahmukhi) in Pakistan, also written in the Brahmic script known as Gurmukhi in India
+Saraiki, written with a modified Arabic script - that has 45 letters
+Sindhi, a British commissioner in Sindh on August 29, 1857, ordered to change Arabic script, also written in Devanagari in India
+Aer language
+Bhadrawahi language
+Ladakhi (India), although it is more commonly written using the Tibetan script
+Balti (a Sino-Tibetan language), also rarely written in the Tibetan script
+Brahui language in Pakistan and Afghanistan
+Burushaski or Burusho language, a language isolated to Pakistan
+Urdu in Pakistan (and historically several other Hindustani languages). Urdu is one of several official languages in the states of Jammu and Kashmir, Delhi, Uttar Pradesh, Bihar, Jharkhand, West Bengal and Telangana.
+Dogri, spoken by about five million people in India and Pakistan, chiefly in the Jammu region of Jammu and Kashmir and in Himachal Pradesh, but also in northern Punjab, although Dogri is more commonly written in Devanagari
+Arwi language (a mixture of Arabic and Tamil) uses the Arabic script together with the addition of 13 letters. It is mainly used in Sri Lanka and the South Indian state of Tamil Nadu for religious purposes. Arwi language is the language of Tamil Muslims
+Arabi Malayalam is Malayalam written in the Arabic script. The script has particular letters to represent the peculiar sounds of Malayalam. This script is mainly used in madrasas of the South Indian state of Kerala and of Lakshadweep.
+Rohingya language (Ruáingga) is a language spoken by the Rohingya people of Rakhine State, formerly known as Arakan (Rakhine), Burma (Myanmar). It is similar to Chittagonian language in neighboring Bangladesh and sometimes written using the Roman script, or an Arabic-derived script known as Hanifi
+Ishkashimi language (Ishkashimi) in Afghanistan
+
+
+==== Southeast Asia ====
+Malay in the Arabic script known as Jawi. In some cases it can be seen in the signboards of shops and market stalls. Particularly in Brunei, Jawi is used in terms of writing or reading for Islamic religious educational programs in primary school, secondary school, college, or even higher educational institutes such as universities. In addition, some television programming uses Jawi, such as announcements, advertisements, news, social programs or Islamic programs
+co-official in Brunei
+Malaysia but co-official in Kelantan and Kedah, Islamic states in Malaysia
+Indonesia, Jawi script is co-used with Latin in provinces of Aceh, Riau, Riau Islands and Jambi. The Javanese, Madurese and Sundanese also use another Arabic variant, the Pegon in Islamic writings and pesantren community.
+Southern Thailand
+Predominantly Muslim areas of the Philippines (especially Tausug language)
+Ida'an language (also Idahan) a Malayo-Polynesian language spoken by the Ida'an people of Sabah, Malaysia
+Cham language in Cambodia besides Western Cham script.
+
+
+==== Africa ====
+North Africa
+Arabic
+Berber languages have often been written in an adaptation of the Arabic alphabet. The use of the Arabic alphabet, as well as the competing Latin and Tifinagh scripts, has political connotations
+Tuareg language, (sometimes called Tamasheq) which is also a Berber language
+Coptic language of Egyptians as Coptic text written in Arabic letters
+Northeast Africa
+Bedawi or Beja, mainly in northeastern Sudan
+Wadaad writing, used in Somalia
+Nubian languages
+Dongolawi language or Andaandi language of Nubia, in the Nile Vale of northern Sudan
+Nobiin language, the largest Nubian language (previously known by the geographic terms Mahas and Fadicca/Fiadicca) is not yet standardized, being written variously in both Latinized and Arabic scripts; also, there have been recent efforts to revive the Old Nubian alphabet.
+Fur language of Darfur, Sudan
+Southeast Africa
+Comorian, in the Comoros, currently side by side with the Latin alphabet (neither is official)
+Swahili, was originally written in Arabic alphabet, Swahili orthography is now based on the Latin alphabet that was introduced by Christian missionaries and colonial administrators
+West Africa
+Zarma language of the Songhay family. It is the language of the southwestern lobe of the West African nation of Niger, and it is the second leading language of Niger, after Hausa, which is spoken in south central Niger
+Tadaksahak is a Songhay language spoken by the pastoralist Idaksahak of the Ménaka area of Mali
+Hausa language uses an adaptation of the Arabic script known as Ajami, for many purposes, especially religious, but including newspapers, mass mobilization posters and public information
+Dyula language is a Mandé language spoken in Burkina Faso, Côte d'Ivoire and Mali.
+Jola-Fonyi language of the Casamance region of Senegal
+Balanta language a Bak language of west Africa spoken by the Balanta people and Balanta-Ganja dialect in Senegal
+Mandinka, widely but unofficially (known as Ajami), (another non-Latin script used is the N'Ko script)
+Fula, especially the Pular of Guinea (known as Ajami)
+Wolof (at zaouia schools), known as Wolofal.
+Arabic script outside Africa
+In writings of African American slaves
+Writings of by Omar Ibn Said (1770–1864) of Senegal
+The Bilali Document also known as Bilali Muhammad Document is a handwritten, Arabic manuscript on West African Islamic law. It was written by Bilali Mohammet in the 19th century. The document is currently housed in the library at the University of Georgia
+Letter written by Ayuba Suleiman Diallo (1701–1773)
+Arabic Text From 1768
+Letter written by Abdul Rahman Ibrahima Sori (1762–1829)
+
+
+=== Former use ===
+In the 20th century, the Arabic script was generally replaced by the Latin alphabet in the Balkans, parts of Sub-Saharan Africa, and Southeast Asia, while in the Soviet Union, after a brief period of Latinisation, use of Cyrillic was mandated. Turkey changed to the Latin alphabet in 1928 as part of an internal Westernizing revolution. After the collapse of the Soviet Union in 1991, many of the Turkic languages of the ex-USSR attempted to follow Turkey's lead and convert to a Turkish-style Latin alphabet. However, renewed use of the Arabic alphabet has occurred to a limited extent in Tajikistan, whose language's close resemblance to Persian allows direct use of publications from Afghanistan and Iran.
+
+
+==== Africa ====
+Afrikaans (as it was first written among the "Cape Malays", see Arabic Afrikaans)
+Berber in North Africa, particularly Shilha in Morocco (still being considered, along with Tifinagh and Latin, for Central Atlas Tamazight)
+French by the Arabs and Berbers in Algeria and other parts of North Africa during the French colonial period
+Harari, by the Harari people of the Harari Region in Ethiopia. Now uses the Geʻez and Latin alphabets
+For the West African languages—Hausa, Fula, Mandinka, Wolof and some more—the Latin alphabet has officially replaced Arabic transcriptions for use in literacy and education
+Kinyarwanda in Rwanda
+Kirundi in Burundi
+Malagasy in Madagascar (script known as Sorabe)
+Nubian
+Shona in Zimbabwe
+Somali (see wadaad Arabic) has mostly used the Latin alphabet since 1972
+Songhay in West Africa, particularly in Timbuktu
+Swahili (has used the Latin alphabet since the 19th century)
+Yoruba in West Africa (this was probably limited, but still notable)
+
+
+==== Europe ====
+Albanian called Elifbaja shqip
+Aljamiado (Mozarabic, Berber, Aragonese, Portuguese, Ladino, and Spanish, during and residually after the Muslim rule in the Iberian peninsula)
+Belarusian (among ethnic Tatars; see Belarusian Arabic alphabet)
+Bosnian (only for literary purposes; currently written in the Latin alphabet; Text example: مۉلٖىمۉ   سه   ته‌بٖى   بۉژه‎ = Molimo se tebi, Bože (We pray to you, O God); see Arebica)
+Crimean Tatar
+Greek in certain areas in Greece and Anatolia. In particular, Cappadocian Greek written in Perso-Arabic
+Polish (among ethnic Lipka Tatars)
+
+
+==== Central Asia and Caucasus ====
+Adyghe language also known as West Circassian, is an official languages of the Republic of Adygea in the Russian Federation. It used Arabic alphabet before 1927
+Avar as well as other languages of Daghestan: Nogai, Kumyk, Lezgian, Lak and Dargwa
+Azeri in Azerbaijan (now written in the Latin alphabet and Cyrillic script in Azerbaijan)
+Bashkir (officially for some years from the October Revolution of 1917 until 1928, changed to Latin, now uses the Cyrillic script)
+Chaghatay across Central Asia
+Chechen (sporadically from the adoption of Islam; officially from 1917 until 1928)
+Circassian and some other members of the Abkhaz–Adyghe family in the western Caucasus and sporadically – in the countries of Middle East, like Syria
+Ingush
+Karachay-Balkar in the central Caucasus
+Karakalpak
+Kazakh in Kazakhstan (until the 1930s, changed to Latin, currently using Cyrillic, phasing in Latin)
+Kyrgyz in Kyrgyzstan (until the 1930s, changed to Latin, now uses the Cyrillic script)
+Mandarin Chinese and Dungan, among the Hui people (script known as Xiao'erjing)
+Ottoman Turkish
+Tat in South-Eastern Caucasus
+Tatar before 1928 (changed to Latin Yañalif), reformed in the 1880s (İske imlâ), 1918 (Yaña imlâ – with the omission of some letters)
+Turkmen in Turkmenistan (changed to Latin in 1929, then to the Cyrillic script, then back to Latin in 1991)
+Uzbek in Uzbekistan (changed to Latin, then to the Cyrillic script, then back to Latin in 1991)
+Some Northeast Caucasian languages of the Muslim peoples of the USSR between 1918 and 1928 (many also earlier), including Chechen, Lak, etc. After 1928, their script became Latin, then later Cyrillic
+
+
+==== South and Southeast Asia ====
+Acehnese in Sumatra, Indonesia
+Banjarese in Kalimantan, Indonesia
+Bengali in Bengal, Arabic scripts have been used historically in places like Chittagong and West Bengal among other places. See Dobhashi for further information.
+Maguindanaon in the Philippines
+Malay in Malaysia, Singapore and Indonesia. Although Malay speakers in Brunei and Southern Thailand still use the script on a daily basis
+Minangkabau in Sumatra, Indonesia
+Pegon script of Javanese, Madurese and Sundanese in Indonesia, used only in Islamic schools and institutions
+Tausug in the Philippines,Malaysia, and Indonesia it can be used in Islamic schools in the Philippines
+Maranao in the Philippines
+Rakhine in Burma and Bangladesh
+Mongolian in Afghanistan There is also a language in the Mongolic family that spoken in the Afghanistan  it is called Mogholi language
+Tagalog in the Philippines
+Yakan in Basilan
+Aslian in Malaysia
+Ternate in Indonesia by the Muslims
+Tidore in Indonesia
+Meitei in Bangladesh
+Shughni in Afghanistan
+Thai in Malaysia
+Sylheti in Arakan, Bengal, Chittagong, and Tripura
+Kedah Malay in Myanmar, Malaysia, and Thailand
+Uab Meto in Indonesia
+Molbog in Sabah used by the Muslims even though in Palawan
+Bonggi in Sabah by the Muslims
+Kadazan in Malaysia is a Muslim language
+Dusun used in Brunei, and Malaysia
+Sama used in Philippines,Malaysia, and Indonesia
+Bajau is in Philippines, Malaysia, and Indonesia
+Sarawak Bisaya used in Malaysia, and Brunei
+Sabah Bisaya is used in Sabah
+Lotud spoken in Malaysia only
+Lun Bawang in Sarawak,Sabah,Temburong and Kalimantan
+
+
+==== Middle East ====
+Hebrew was written in Arabic letters in a number of places in the past
+Northern Kurdish in Turkey and Syria was written in Arabic script until 1932, when a modified Kurdish Latin alphabet was introduced by Jaladat Ali Badirkhan in Syria
+Turkish in the Ottoman Empire was written in Arabic script until Mustafa Kemal Atatürk declared the change to Latin script in 1928. This form of Turkish is now known as Ottoman Turkish and is held by many to be a different language, due to its much higher percentage of Persian and Arabic loanwords (Ottoman Turkish alphabet)
+
+
+== Unicode ==
+
+As of Unicode 14.0, the following ranges encode Arabic characters:
+
+Arabic (0600–06FF)
+Arabic Supplement (0750–077F)
+Arabic Extended-A (08A0–08FF)
+Arabic Extended-B (0870–089F)
+Arabic Presentation Forms-A (FB50–FDFF)
+Arabic Presentation Forms-B (FE70–FEFF)
+Arabic Mathematical Alphabetic Symbols (1EE00–1EEFF)
+Rumi Numeral Symbols (10E60–10E7F)
+Indic Siyaq Numbers (1EC70–1ECBF)
+Ottoman Siyaq Numbers (1ED00–1ED4F)
+
+
+== Additional letters used in other languages ==
+
+
+=== Assignment of phonemes to graphemes ===
+Footnotes:
+
+
+== Letter construction ==
+Most languages that use alphabets based on the Arabic alphabet use the same base shapes. Most additional letters in languages that use alphabets based on the Arabic alphabet are built by adding (or removing) diacritics to existing Arabic letters. Some stylistic variants in Arabic have distinct meanings in other languages. For example, variant forms of kāf  ك ک ڪ ‎ are used in some languages and sometimes have specific usages. In Urdu and some neighbouring languages the letter Hā has diverged into two forms  ھ ‎ dō-čašmī hē and  ہ ہـ ـہـ ـہ ‎ gōl hē. while a variant form of  ي ‎ yā referred to as baṛī yē  ے ‎ is used at the end of some words.
+
+
+== Table of Letter Components ==
+
+
+== See also ==
+Arabic (Unicode block)
+Eastern Arabic numerals (digit shapes commonly used with Arabic script)
+History of the Arabic alphabet
+Transliteration of Arabic
+Xiao'erjing
+
+
+== References ==
+
+
+== External links ==
+
+Unicode collation charts—including Arabic letters, sorted by shape
+Why the right side of your brain doesn't like Arabic
+Arabic fonts by SIL's Non-Roman Script Initiative
+Alexis Neme and Sébastien Paumier (2019), "Restoring Arabic vowels through omission-tolerant dictionary lookup", Lang Resources & Evaluation, Vol. 53, pp. 1–65. arXiv:1905.04051; doi:10.1007/s10579-019-09464-6
+

@@ -1,0 +1,626 @@
+####### TITLE #######
+
+Iron
+
+####### LINKS #######
+
+['(Benzylideneacetone)iron tricarbonyl', '(Butadiene)iron tricarbonyl', "1,1'-Bis(diphenylphosphino)ferrocene", '2nd millennium BC', '5000 BC', 'Aaldert Wapstra', 'Abraham Darby I', "Abundance of elements in Earth's crust", 'Abundance of the chemical elements', 'Actinium', 'Actinometry', 'Adenosine triphosphate', 'Ages of man', 'Agriculture', 'Alkali metal', 'Alkaline earth metal', 'Allotropes of iron', 'Allotropy', 'Alloy', 'Alloy steel', 'Alpha decay', 'Alpha particle', 'Alpha process', 'Aluminium', 'Aluminium-26', 'Americium', 'Ammonium ferric citrate', 'Ammonium iron(II) sulfate', 'Ammonium iron(III) sulfate', 'Amphoterism', 'Anatolia', 'Ancient China', 'Ancient Greece', 'Ancient Rome', 'Ancient iron production', 'Anemia', 'Angew. Chem. Int. Ed.', 'Aniline', 'Annealing (metallurgy)', 'Antimony', 'Antoine Lavoisier', 'ArXiv (identifier)', 'Argon', 'Arsenic', 'Aryl', 'Asmar', 'Astatine', 'Asteroid', 'Atharvaveda', 'Atomic mass', 'Atomic number', 'Atomic radius', 'Attention deficit hyperactivity disorder', 'Attention deficit hyperactivity disorder predominantly inattentive', 'Austenite', 'Australia', 'Automobile', 'Bainite', 'Banded iron formations', 'Barium', 'Barium ferrate', 'Basic oxygen furnace', 'Bath stone', 'Bean', 'Bechamp reduction', 'Berkelium', 'Berlin iron jewellery', 'Beryllium', 'Bessemer converter', 'Beta', 'Beta decay', 'Bibcode (identifier)', 'Bicarbonate', 'Bioinorganic chemistry', 'Bismuth', 'Black-eyed peas', 'Blacksmith', 'Blackstrap molasses', 'Blast furnace', 'Blast furnaces', 'Block (periodic table)', 'Blood', 'Blood donation', 'Bloodstream', 'Bloomery', 'Blueprint', 'Bluing (steel)', 'Body-centered cubic', 'Bohr effect', 'Bohrium', 'Boiling point', 'Boron', 'Boron group', 'Brazil', 'Bread', 'Breakfast cereal', "Brill's New Pauly", 'Brinell hardness', 'Brinell hardness test', 'Brinell scale', 'Bromine', 'Bronze Age', 'Brown Jurassic', 'Bulk modulus', 'Bunter (geology)', 'Buntsandstein', 'Butterworth-Heinemann', 'CAS Registry Number', 'Cadmium', 'Caesium', 'Calcium', 'Calcium oxide', 'Calcium silicate', 'Californium', 'Cape York meteorite', 'Carbon', 'Carbon dioxide', 'Carbon group', 'Carbon monoxide', 'Carbon steel', 'Carbonate', 'Carbonyl complex', 'Carbonyl iron', 'Carbonyl ligand', 'Carboxyhemoglobin', 'Carburizing', 'Cast iron', 'Catalase', 'Catalyst', 'Cathodic protection', 'Caucasus', 'Cell (biology)', 'Cellular respiration', 'Celts', 'Cementation process', 'Cementite', 'Cerium', 'Chalcogen', 'Charcoal', 'Charge-transfer complex', 'Chelation', 'Chemical element', 'Chemotherapy', 'Chert', 'Chickpea', 'China', 'Chlorine', 'Chlorohydridobis(bis-1,2-(diphenylphosphino)ethane)iron(II)', 'Christian Bohr', 'Chromium', 'Chromosome 6', 'Clay', 'Coagulopathy', 'Coal', 'Coalbrookdale', 'Coalbrookdale by Night', 'Cobalt', 'Cobalt-59', 'Cobalt-60', 'Coefficient of thermal expansion', 'Cofactor (biochemistry)', 'Coke (fuel)', 'Cold forging', 'Cold forming', 'Cold working', 'Colorectal cancer', 'Coma', 'Commission on Isotopic Abundances and Atomic Weights', 'Compass', 'Computer memory', 'Congener (chemistry)', 'Conservation of mass', 'Coordination compound', 'Copernicium', 'Copper', 'Covalent radius', 'Crust (geology)', 'Crystal structure', 'Cubic crystal system', 'Curie point', 'Curie temperature', 'Curium', 'Cuticle', 'Cyanide', 'Cyanometallate', 'Cyclobutadieneiron tricarbonyl', 'Cyclopentadienyliron dicarbonyl dimer', 'Cysteine', 'Cytochrome', 'Cytochrome P450', 'Cytochrome a', 'D-block', 'DNA', 'Damascus steel', 'Darmstadtium', 'Daughter product', 'Decay product', 'Deferoxamine', 'Delta (letter)', 'Density', 'Dietary Reference Intake', 'Dietary supplement', 'Diiron nonacarbonyl', 'Direct reduced iron', 'Diseases of Canaries', 'Disko Island', 'Disodium tetracarbonylferrate', 'Doi (identifier)', 'Dolomites', 'Domestic canary', 'Donzdorf', 'Double beta decay', 'Dppe', 'Dubnium', 'Ductile iron', 'Ductility', 'Duodenum', 'Dysprosium', 'Earth', "Earth's crust", "Earth's inner core", "Earth's magnetic field", "Earth's outer core", 'Earth science', 'Einsteinium', 'El Mutún', 'Elastic modulus', 'Electric arc furnace', 'Electric motor', 'Electrical resistivity and conductivity', 'Electrical transformer', 'Electrolytic iron', 'Electrolytic process', 'Electron', 'Electron capture', 'Electron configuration', 'Electron transfer', 'Electronegativity', 'Enantiomer', 'Enol', 'Enthalpy of atomization', 'Enthalpy of fusion', 'Enthalpy of vaporization', 'Enzymes', 'Epsilon', 'Equilibrium constant', 'Erbium', 'Ernst Otto Fischer', 'Eurasia', 'European Food Safety Authority', 'Europium', 'Extinct radionuclide', 'F-block', 'Face-centered cubic', 'Fatigue limit', 'Fermium', 'Ferrate', 'Ferredoxin', 'Ferric chloride', 'Ferric chloride test', 'Ferric oxalate', 'Ferrimagnetism', 'Ferrite (magnet)', 'Ferritin', 'Ferrocene', 'Ferrocenium tetrafluoroborate', 'Ferromagnetic', 'Ferromagnetism', 'Ferropericlase', 'Ferrous sulfate', 'Finery forge', 'First transition series', 'Fischer–Tropsch process', 'Fish', 'Flerovium', 'Floppy disk', 'Fluorine', 'Flux (metallurgy)', 'Forging', 'Formation and evolution of the Solar System', 'Foundry', 'Francium', 'Frederick William III', 'Free radical', 'Fugacity', 'Gadolinium', 'Gallium', 'Galvanization', 'Gamma', 'Genetic disorder', 'Geoffrey Wilkinson', 'Geometric isomer', 'German Americans', 'German Campaign of 1813', 'Germanium', 'Germany', 'Gerzeh culture', 'Glucose', 'Glycine', 'Gold', 'Graphite', 'Gray iron', 'Greeks', 'Greenland', 'Group (periodic table)', 'Group 10 element', 'Group 11 element', 'Group 12 element', 'Group 3 element', 'Group 4 element', 'Group 5 element', 'Group 6 element', 'Group 7 element', 'Group 8 element', 'Group 9 element', 'HSLA steel', 'Haber–Bosch process', 'Hafnium', 'Half-life', 'Half-sandwich compound', 'Halide', 'Halogen', 'Hard disk drive', 'Hassium', 'Heart', 'Heat treatment', 'Helical chirality', 'Helium', 'Hematite', 'Heme', 'Heme proteins', 'Hemochromatosis', 'Hemoglobin', 'Hemolithin', 'Henry Bessemer', 'Henry Cort', 'Hepcidin', 'Hesiod', 'Hexaferrum', 'Hexagonal close-packed', 'Hexane', 'High-valent iron', 'Histidine', 'History of ferrous metallurgy', 'History of metallurgy in South Asia', 'History of metallurgy in the Indian subcontinent', 'Hittites', 'Holmium', 'Hot rolling', 'Hull (ship)', 'Human gastrointestinal tract', 'Human iron metabolism', 'Hydrate', 'Hydrocarbon', 'Hydrochloric acid', 'Hydrogen', 'Hydrogen bond', 'Hydrogen cyanide', 'Hydrohalic acid', 'IRE-BP', 'ISBN (identifier)', 'ISSN (identifier)', 'Igneous rock', 'Imidazole', 'India', 'Indium', 'Industrial Revolution', 'Industrial etching', 'Inner core', 'Inorg. Synth.', 'Inorganic Chemistry (journal)', 'Inorganica Chimica Acta', 'International Journal of Hematology', 'International Resource Panel', 'Intravenous iron infusion', 'Inuit people', 'Iodine', 'Ionization energy', 'Iridium', 'Iron(I) hydride', 'Iron(II)', 'Iron(II) acetate', 'Iron(II) bromide', 'Iron(II) carbonate', 'Iron(II) chloride', 'Iron(II) chromite', 'Iron(II) citrate', 'Iron(II) fluoride', 'Iron(II) fumarate', 'Iron(II) gluconate', 'Iron(II) hydride', 'Iron(II) hydroxide', 'Iron(II) iodide', 'Iron(II) lactate', 'Iron(II) molybdate', 'Iron(II) nitrate', 'Iron(II) oxalate', 'Iron(II) oxide', 'Iron(II) phosphate', 'Iron(II) selenate', 'Iron(II) selenide', 'Iron(II) sulfate', 'Iron(II) sulfide', 'Iron(II) tetrafluoroborate', 'Iron(II) titanate', 'Iron(II,III) oxide', 'Iron(II,III) sulfide', 'Iron(III)', 'Iron(III) bromide', 'Iron(III) chloride', 'Iron(III) chromate', 'Iron(III) fluoride', 'Iron(III) iodide', 'Iron(III) nitrate', 'Iron(III) oxide', 'Iron(III) oxide-hydroxide', 'Iron(III) oxyhydroxide', 'Iron(III) phosphate', 'Iron(III) pyrophosphate', 'Iron(III) sulfate', 'Iron(III) sulfide', 'Iron(IV) oxytetrafluoroborate', 'Iron-55', 'Iron-56', 'Iron-deficiency anemia', 'Iron-oxidizing bacteria', 'Iron (disambiguation)', 'Iron (metaphor)', 'Iron Age', 'Iron Cross', 'Iron and steel industry', 'Iron carbide', 'Iron cycle', 'Iron deficiency', 'Iron deficiency (medicine)', 'Iron deficiency anemia', 'Iron disilicide', 'Iron fertilization', 'Iron germanide', 'Iron in biology', 'Iron in folklore', 'Iron meteorite', 'Iron monosilicide', 'Iron nanoparticle', 'Iron ore', 'Iron overload', 'Iron overload disorder', 'Iron oxide', 'Iron oxychloride', 'Iron pentacarbonyl', 'Iron phosphide', 'Iron pillar of Delhi', 'Iron powder', 'Iron pyrite', 'Iron supplement', 'Iron tetracarbonyl dihydride', 'Iron tetracarbonyl diiodide', 'Iron triad', 'Ironworks', 'Iron–platinum nanoparticle', 'Iron–sulfur cluster', 'Iron–sulfur protein', 'Isotope', 'Isotopes of iron', 'JSTOR (identifier)', 'Japan', 'Jiangsu', 'Joseph Hall (metallurgist)', 'Journal of the American Chemical Society', 'Journal of the Chemical Society', 'Kamacite', 'Kelvin', 'Ketone', 'Kiln', 'Kilojoule per mole', 'Knölker complex', 'Krypton', 'LCCN (identifier)', 'Lanthanum', 'Latent iron deficiency', 'Latin language', 'Lattice defect', 'Lawrence Livermore National Laboratory', 'Lawrencium', 'Lead', 'Leaf vegetable', 'Lentil', 'Leopold Gmelin', 'Lethal dose', 'Levant', 'Ligand', 'Limestone', 'Lipids', 'Lipoxygenases', 'List of copper alloys', 'List of countries by iron production', 'List of data references for chemical elements', 'Lithium', 'Liver', 'Liver failure', 'Livermorium', 'Lodestone', 'Lower mantle', 'Luhe County', 'Luristan', 'Lutetium', 'M-type asteroid', 'Machine tool', 'Machining', 'Magnesium', 'Magnesium iron hexahydride', 'Magnet', 'Magnetic domain', 'Magnetic field', 'Magnetic recording', 'Magnetic storage', 'Magnetic tape', 'Magnetism', 'Magnetite', 'Manganese', 'Manganese-55', 'Mars', 'Mars (planet)', 'Mars surface color', 'Martensite', 'Mary Elvira Weeks', 'Mass attenuation coefficient', 'Mass spectrometry', 'Medieval', 'Meitnerium', 'Melting point', 'Mendelevium', 'Mercury (element)', 'Mercury (planet)', 'Metabolic acidosis', 'Metabolism', 'Metal', 'Metal Stocks in Society report', 'Metallicity', 'Metalloproteins', 'Metallurgical furnace', 'Metamorphoses', 'Meteoric iron', 'Meteorite', 'Meteorites', 'Methionine', 'Michael Witzel', 'Middle Bronze Age', 'Mild steel', 'Mineral', 'Mixed valence compound', 'Modern world', "Mohr's salt", 'Mohs scale of mineral hardness', 'Moiety (chemistry)', 'Molar heat capacity', 'Molar ionization energies of the elements', 'Molybdenum', 'Monocrystalline whisker', 'Moon', 'Moscovium', 'Muscle', 'Mussel', 'Myoglobin', 'Mössbauer spectroscopy', 'Narwhal', 'Native iron', 'Natural abundance', 'Nature (journal)', 'Neodymium', 'Neon', 'Neptunium', 'New International Encyclopedia', 'Nickel', 'Nickel-60', 'Nickel-62', 'Niels Bohr', 'Nihonium', 'Niobium', 'Nitric acid', 'Nitrobenzene', 'Nitrogen', 'Nitrogen fixation', 'Nitrogenase', 'Nobelium', 'Noble gas', 'Non-stoichiometric compound', 'Norman Greenwood', 'Nuclear fusion', 'Nuclear reaction', 'Nuclear spin', 'Nucleosynthesis', 'Nuclide', 'Nutritional deficiency', 'Ochre', 'Oganesson', 'Open hearth furnace', 'Oregon', 'Organoiron chemistry', 'Organometallic chemistry', 'Organometallic compound', 'Orthorhombic', 'Osmium', 'Outer core', 'Oxalate', 'Oxidation and reduction', 'Oxidation state', 'Oxygen', 'Oxygen transport', 'Oyster', 'P-block', 'PMC (identifier)', 'PMID (identifier)', 'Paint', 'Painted Hills', 'Palladium', 'Paramagnetic', 'Passivation (chemistry)', 'Pearlite', 'Pelletizing', 'Pentlandite', 'Pergamon Press', 'Periclase', 'Period (periodic table)', 'Period 1 element', 'Period 2 element', 'Period 3 element', 'Period 4 element', 'Period 5 element', 'Period 6 element', 'Period 7 element', 'Periodic table', 'Permanganate', 'Peroxide', 'Phase (matter)', 'Phase diagram', 'Phenol', 'Phosphorus', 'Phosphorus trifluoride', 'Photon', 'Photoreduction', 'Physics and Chemistry of Minerals', 'Phytoplankton', 'Picometre', 'Pig iron', 'Pigment', 'Planetary core', 'Planetary differentiation', 'Planetary science', 'Platinum', 'Pliny the Elder', 'Plutonium', 'Pnictogen', "Poisson's ratio", 'Polonium', 'Polymer', 'Polysulfide', 'Population III stars', 'Porphyrin', 'Potassium', 'Potassium ferrate', 'Potassium ferricyanide', 'Potassium ferrioxalate', 'Potassium ferrocyanide', 'Poultry', 'Pourbaix diagram', 'Praseodymium', 'Pre-menopausal', 'Primordial nuclide', 'Printed circuit board', 'Proc. Natl. Acad. Sci.', 'Promethium', 'Protactinium', 'Protein', 'Proteins', 'Proton decay', 'Prussian blue', 'Puddling (metallurgy)', 'Pyrite', 'Pyrophoricity', 'Pyrrhotite', 'Quantum tunnelling', 'R-process', 'Radioactive decay', 'Radium', 'Radon', 'Railroad', 'Rebar', 'Red blood cell', 'Red giant', 'Red meat', 'Redox', 'Reference Daily Intake', 'Refractory', 'Regolith', 'Reviews of Modern Physics', 'Rhenium', 'Rhodium', 'Rigveda', 'Ringwoodite', 'Road', 'Robert Burns Woodward', 'Rockwell scale', 'Roentgenium', 'Room temperature', 'Roussillon, Vaucluse', 'Royal family', 'Rubidium', 'Rubredoxin', 'Russia', 'Rust', 'Rustproof iron', 'Ruthenium', 'Rutherfordium', 'S-block', 'S2CID (identifier)', 'Salt (chemistry)', 'Samarium', 'Sandwich compound', 'Scandium', 'Seaborgium', 'Selenium', 'Sewage treatment', 'Shale', 'Shear modulus', 'Shock (circulatory)', 'Siderite', 'Siderophore', 'Silica', 'Silicate mineral', 'Silicate perovskite', 'Silicon', 'Silicon burning process', 'Silver', 'Slag', 'Smelting', 'Sodium', 'Sodium chloride', 'Sodium ferrioxalate', 'Solar System', 'Solid', 'Song Yingxing', 'Song dynasty', 'South Korea', 'Spectral line', 'Spectrochemical series', 'Speed of sound', 'Spin (physics)', 'Spin states (d electrons)', 'Sponge iron', 'Sponge iron reaction', 'Stability constants of complexes', 'Stable isotope', 'Stainless steel', 'Standard atomic weight', 'Standard conditions for temperature and pressure', 'Standard reduction potential', 'Steam engine', 'Steel', 'Steelmaking', 'Stress concentration', 'Strontium', 'Sulfur', 'Sulfur dioxide', 'Supernova', 'Supernova remnant', 'Symbol (chemistry)', 'Synthetic radioisotope', 'Taenite', 'Tang dynasty', 'Tantalum', 'Technetium', 'Telluric iron', 'Tellurium', 'Tennessine', 'Tensile strength', 'Terbium', 'Terrestrial planet', 'Tetrakis(methylammonium) hexachloroferrate(III) chloride', 'Thalamus', 'Thallium', 'The Iron Bridge', 'The New York Times', 'The Periodic Table of Videos', 'Thermal conductivity', 'Thermal decomposition', 'Thermite', 'Thermite reaction', 'Thiocyanate', 'Thorium', 'Thulium', 'Timeline of chemical element discoveries', 'Timeline of the far future', 'Tin', 'Titanium', 'Tofu', 'Tolerable upper intake level', 'Tonnes', 'Tool', 'Toughness', 'Trace radioisotope', 'Track (rail transport)', 'Transfer hydrogenation', 'Transferrin', 'Transition metal', 'Transition zone (Earth)', 'Triiron dodecacarbonyl', 'Tris(acetylacetonato)iron(III)', 'Tumor', 'Tungsten', 'Tutankhamun', "Tutankhamun's iron dagger blade", 'Type Ia supernova', 'UNEP', 'Ukraine', 'Universe', 'Uranium', 'Van der Waals radius', 'Vanadium', 'Vapor pressure', 'Vedas', 'Venus (planet)', 'Vertebrate', 'Vickers hardness test', 'Warring States period', 'Water', 'Water of crystallization', 'Watercress', 'Wayback Machine', 'Weapon', 'Weathering', 'Widmanstatten pattern', 'Wikisource', 'Wootz steel', 'Works and Days', 'Wrought iron', 'Wüstite', 'Xenon', 'Yakutia', "Young's modulus", 'Ytterbium', 'Yttrium', 'Zimbabwe', 'Zinc', 'Zirconium', 'Α']
+
+####### CATEGORIES #######
+
+['All articles containing potentially dated statements', 'Articles containing Latin-language text', 'Articles containing potentially dated statements from May 2016', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with HDS identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Building materials', 'CS1 German-language sources (de)', 'Chemical elements', 'Chemical elements with body-centered cubic structure', 'Commons link is on Wikidata', 'Cubic minerals', 'Dietary minerals', 'Ferromagnetic materials', 'Good articles', 'Iron', 'Minerals in space group 225', 'Minerals in space group 229', 'Native element minerals', 'Pages using div col with small parameter', 'Pyrotechnic fuels', 'Short description is different from Wikidata', 'Transition metals', 'Use dmy dates from April 2022', 'Webarchive template wayback links', 'Wikipedia indefinitely semi-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/5/5e/1255_-_Keramikos_Museum%2C_Athens_-_Iron_tool_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12_2009.jpg', 'https://upload.wikimedia.org/wikipedia/commons/0/06/2-isomers-of-ferrioxalate.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/36/Carboxyhemoglobin_from_1AJ9.png', 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Chinese_Fining_and_Blast_Furnace.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/a3/Cubic-body-centered.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/c9/Cubic-face-centered.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/1f/Eisernes_Kreuz_%281914%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/b/b0/Fe%28C2O4%29%28H2O%292-chain-from-xtal-2008-CM-3D-balls.png', 'https://upload.wikimedia.org/wikipedia/commons/9/94/Fe3O4.JPG', 'https://upload.wikimedia.org/wikipedia/commons/5/56/Ferrate_and_permanganate_solution.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e9/Ferrocene.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Geography_of_Ohio_-_DPLA_-_aaba7b3295ff6973b6fd1e23e33cde14_%28page_111%29_%28cropped%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/b/be/Heme_b.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Iron%28II%29-sulfate-heptahydrate-sample.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Iron%28II%29_oxide.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Iron%28III%29-oxide-sample.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Iron%28III%29_chloride_hexahydrate.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/57/Iron-Making.jpg', 'https://upload.wikimedia.org/wikipedia/commons/8/88/Iron-alpha-pV.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8a/Iron_carbon_phase_diagram.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Iron_powder.JPG', 'https://upload.wikimedia.org/wikipedia/commons/f/fd/Iron_spectrum_visible.png', 'https://upload.wikimedia.org/wikipedia/commons/6/69/Ironattenuation.PNG', 'https://upload.wikimedia.org/wikipedia/commons/f/f3/LightningVolt_Iron_Ore_Pellets.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Magnetization_curves.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/7a/Mars_symbol_%28fixed_width%29.svg', 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Melted_raw-iron.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Meteorite_iron_harpoon.jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/15/Outcropping_banded_iron_formation_-_panoramio.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/ed/Papapishu-Lab-icon-6.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/1e/Pentaaqua%28thiocyanato%29iron%28III%29_chloride.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/42/Philipp_Jakob_Loutherbourg_d._J._002.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/c9/Photo_of_Ferrocene_%28powdered%29.JPG', 'https://upload.wikimedia.org/wikipedia/commons/8/85/Pourbaix_Diagram_of_Iron.svg', 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Prussian_blue.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/59/Pure_iron_phase_diagram_%28EN%29.png', 'https://upload.wikimedia.org/wikipedia/commons/3/3f/QtubIronPillar.JPG', 'https://upload.wikimedia.org/wikipedia/commons/c/cc/Roussillon_sentier_des_ocres2.JPG', 'https://upload.wikimedia.org/wikipedia/commons/d/df/Sample_of_iron_pentacarbonyl.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/36/Widmanstatten_hand.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Wiktionary-logo-en-v2.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg', 'https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg', 'https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg', 'https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg', 'https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/ad/Iron_electrolytic_and_1cm3_cube.jpg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/9/94/Symbol_support_vote.svg']
+
+####### REFERENCES #######
+
+['http://journals.sagepub.com/doi/10.1177/1087054711430712', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX524497', 'http://lccn.loc.gov/68-15217', 'http://pubmed.ncbi.nlm.nih.gov/11109593', 'http://pubmed.ncbi.nlm.nih.gov/11377130', 'http://pubmed.ncbi.nlm.nih.gov/12405526', 'http://pubmed.ncbi.nlm.nih.gov/12418542', 'http://pubmed.ncbi.nlm.nih.gov/12663437', 'http://pubmed.ncbi.nlm.nih.gov/14691550', 'http://pubmed.ncbi.nlm.nih.gov/15864409', 'http://pubmed.ncbi.nlm.nih.gov/16115609', 'http://pubmed.ncbi.nlm.nih.gov/16224057', 'http://pubmed.ncbi.nlm.nih.gov/16463281', 'http://pubmed.ncbi.nlm.nih.gov/16592930', 'http://pubmed.ncbi.nlm.nih.gov/17469792', 'http://pubmed.ncbi.nlm.nih.gov/17847139', 'http://pubmed.ncbi.nlm.nih.gov/19741692', 'http://pubmed.ncbi.nlm.nih.gov/19792637', 'http://pubmed.ncbi.nlm.nih.gov/20947762', 'http://pubmed.ncbi.nlm.nih.gov/21102602', 'http://pubmed.ncbi.nlm.nih.gov/22552097', 'http://pubmed.ncbi.nlm.nih.gov/23582950', 'http://pubmed.ncbi.nlm.nih.gov/23595675', 'http://pubmed.ncbi.nlm.nih.gov/24275533', 'http://pubmed.ncbi.nlm.nih.gov/24470094', 'http://pubmed.ncbi.nlm.nih.gov/25057538', 'http://pubmed.ncbi.nlm.nih.gov/25430755', 'http://pubmed.ncbi.nlm.nih.gov/25707468', 'http://pubmed.ncbi.nlm.nih.gov/27074099', 'http://pubmed.ncbi.nlm.nih.gov/27812577', 'http://pubmed.ncbi.nlm.nih.gov/29394034', 'http://pubmed.ncbi.nlm.nih.gov/32992575', 'http://pubmed.ncbi.nlm.nih.gov/33824307', 'http://pubmed.ncbi.nlm.nih.gov/6455965', 'http://pubmed.ncbi.nlm.nih.gov/7592901', 'http://pubmed.ncbi.nlm.nih.gov/7837315', 'http://pubmed.ncbi.nlm.nih.gov/8070415', 'http://pubmed.ncbi.nlm.nih.gov/8502991', 'http://pubmed.ncbi.nlm.nih.gov/8800185', 'http://pubmed.ncbi.nlm.nih.gov/8867722', 'http://pubmed.ncbi.nlm.nih.gov/9761903', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC300689', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3099628', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC350422', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3924584', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC395301', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7583976', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8024266', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007560416405171', 'http://arxiv.org/abs/1005.3489', 'http://arxiv.org/abs/astro-ph/0601261', 'http://doi.org/10.1002%2F14356007.a14_591', 'http://doi.org/10.1002%2F9780470132487.ch19', 'http://doi.org/10.1002%2Fanie.200703053', 'http://doi.org/10.1002%2Fejic.201601323', 'http://doi.org/10.1002%2Fj.1460-2075.1994.tb06699.x', 'http://doi.org/10.1002%2Fmas.20078', 'http://doi.org/10.1002%2Fzaac.19824910109', 'http://doi.org/10.1007%2F978-3-319-12415-5_5', 'http://doi.org/10.1007%2F978-94-007-5561-1_8', 'http://doi.org/10.1007%2F978-94-007-7500-8_8', 'http://doi.org/10.1007%2FBF02698412', 'http://doi.org/10.1007%2Fs00269-008-0241-7', 'http://doi.org/10.1007%2Fs00394-005-0560-0', 'http://doi.org/10.1007%2Fs10751-007-9508-5', 'http://doi.org/10.1007%2Fs11144-020-01888-4', 'http://doi.org/10.1007%2Fs11144-021-02008-6', 'http://doi.org/10.1007%2Fs11144-021-02040-6', 'http://doi.org/10.1016%2F0020-1693(95)04955-X', 'http://doi.org/10.1016%2F0925-5710(95)00426-2', 'http://doi.org/10.1016%2F1044-5803(92)90112-U', 'http://doi.org/10.1016%2FB978-044452748-6.00047-X', 'http://doi.org/10.1016%2FS0022-2852(03)00225-X', 'http://doi.org/10.1016%2FS0248-8663(00)00252-6', 'http://doi.org/10.1016%2FS0899-9007(01)00519-6', 'http://doi.org/10.1016%2Fj.anpedi.2013.02.008', 'http://doi.org/10.1016%2Fj.apcatb.2020.119598', 'http://doi.org/10.1016%2Fj.apcatb.2020.119747', 'http://doi.org/10.1016%2Fj.apcatb.2020.119774', 'http://doi.org/10.1016%2Fj.apcatb.2021.120066', 'http://doi.org/10.1016%2Fj.apcatb.2021.120068', 'http://doi.org/10.1016%2Fj.bbrc.2005.08.020', 'http://doi.org/10.1016%2Fj.critrevonc.2013.10.008', 'http://doi.org/10.1016%2Fj.epsl.2016.12.022', 'http://doi.org/10.1016%2Fj.mehy.2012.04.049', 'http://doi.org/10.1016%2Fj.newar.2003.11.022', 'http://doi.org/10.1016%2Fj.nuclphysa.2003.11.001', 'http://doi.org/10.1021%2Facs.inorgchem.6b00442', 'http://doi.org/10.1021%2Far700027f', 'http://doi.org/10.1021%2Fcen-09544-notw3', 'http://doi.org/10.1021%2Fed052p658', 'http://doi.org/10.1021%2Fic50070a047', 'http://doi.org/10.1021%2Fja01128a527', 'http://doi.org/10.1023%2FA:1020218608266', 'http://doi.org/10.1029%2F1998RG000053', 'http://doi.org/10.1029%2F97JB02125', 'http://doi.org/10.1038%2F1681039b0', 'http://doi.org/10.1038%2F461179a', 'http://doi.org/10.1038%2Fjcbfm.2010.209', 'http://doi.org/10.1038%2Fnature11004', 'http://doi.org/10.1038%2Fnphys172', 'http://doi.org/10.1038%2Fs41467-021-22245-6', 'http://doi.org/10.1039%2FC6CP06753K', 'http://doi.org/10.1039%2FJR9520000632', 'http://doi.org/10.1039%2Fc6cp06753k', 'http://doi.org/10.1073%2Fpnas.77.12.6973', 'http://doi.org/10.1074%2Fjbc.270.45.26723', 'http://doi.org/10.1080%2F00438243.1989.9980081', 'http://doi.org/10.1086%2F366027', 'http://doi.org/10.1088%2F1742-6596%2F558%2F1%2F012013', 'http://doi.org/10.1088%2F2041-8205%2F717%2F2%2FL92', 'http://doi.org/10.1103%2FPhysRevLett.103.072502', 'http://doi.org/10.1103%2FRevModPhys.51.447', 'http://doi.org/10.1107%2FS0907444997012250', 'http://doi.org/10.1111%2Fj.1945-5100.1973.tb00146.x', 'http://doi.org/10.1111%2Fmaps.12664', 'http://doi.org/10.1119%2F1.17828', 'http://doi.org/10.1126%2Fscience.1194662', 'http://doi.org/10.1126%2Fscience.1261887', 'http://doi.org/10.1126%2Fscience.8502991', 'http://doi.org/10.1146%2Fannurev.bi.50.070181.003435', 'http://doi.org/10.1161%2F01.ATV.0000190610.63878.20', 'http://doi.org/10.1163%2F26669323-01801008', 'http://doi.org/10.1177%2F1087054711430712', 'http://doi.org/10.1179%2Ftns.1977.011', 'http://doi.org/10.1182%2Fblood-2003-03-0672', 'http://doi.org/10.1209%2F0295-5075%2F97%2F56004', 'http://doi.org/10.1371%2Fjournal.pbio.0000079', 'http://doi.org/10.1515%2F9783110470734-021', 'http://doi.org/10.2113%2Fgsecongeo.68.7.1135', 'http://doi.org/10.2355%2Ftetsutohagane1955.50.1_42', 'http://doi.org/10.3109%2F15563659509020217', 'http://doi.org/10.3109%2F15563659609028005', 'http://doi.org/10.3390%2Fmolecules25194440', 'http://www.jstor.org/stable/124562', 'http://www.jstor.org/stable/268960', 'http://tools.wmflabs.org/timescale/?Ma=1,800', 'http://tools.wmflabs.org/timescale/?Ma=3,700', 'http://www.worldcat.org/issn/0926-3373', 'http://www.worldcat.org/issn/1087-0547', 'http://www.worldcat.org/issn/1434-1948', 'http://www.worldcat.org/issn/1878-5204', 'http://www.worldcat.org/issn/2041-1723', 'https://www.gorni.eng.br/e/Gorni_SFHTHandbook.pdf', 'https://hls-dhs-dss.ch/fr/articles/026231', 'https://www.dora.lib4ri.ch/psi/islandora/object/psi:17743/datastream/PDF/view', 'https://bodyandhealth.canada.com/condition_info_details.asp?disease_id=274', 'https://www.degruyter.com/document/doi/10.1515/9783110589771-006', 'https://linkinghub.elsevier.com/retrieve/pii/S0306987712002149', 'https://www.emedicine.com/emerg/topic285.htm', 'https://books.google.com/books?id=-CQ4AQAAIAAJ&pg=PAPA492', 'https://books.google.com/books?id=-Ll6qjWB-RUC&pg=PAPA164', 'https://books.google.com/books?id=BiywGdlot9kC&pg=PAPA167', 'https://books.google.com/books?id=C-7I69gFIbMC&pg=PAPA11', 'https://books.google.com/books?id=LAgxAJNXhFwC&pg=PA200', 'https://books.google.com/books?id=LgB5dkmPML0C&pg=PAPA218', 'https://books.google.com/books?id=OA7L1l6oHAYC&pg=PAPR15', 'https://books.google.com/books?id=OezvAAAAMAAJ', 'https://books.google.com/books?id=P9MxAAAAMAAJ', 'https://books.google.com/books?id=QDU7AAAAIAAJ&pg=PAPA152', 'https://books.google.com/books?id=TSiII7s2wLkC&pg=PAPA152', 'https://books.google.com/books?id=brpx-LtdCLYC&pg=frontcover&d#v=onepage&q&f=true', 'https://books.google.com/books?id=fUmTX8yKU4gC&pg=PAPA190', 'https://books.google.com/books?id=hoM8VJHTt24C&pg=PAPA24', 'https://books.google.com/books?id=ixAe4qIGEmwC&pg=PA116', 'https://books.google.com/books?id=kdhrAAAAMAAJ', 'https://books.google.com/books?id=nosMAAAAYAAJ&pg=PAPA128', 'https://books.google.com/books?id=uMwUAAAAIAAJ&pg=PAPA54', 'https://books.google.com/books?id=xv420pEC2qMC&pg=PAPA183', 'https://www.keytometals.com/page.aspx?ID=CheckArticle&site=kts&NM=62', 'https://machinedesign.com/BasicsOfDesignEngineeringItem/717/65970/HSLASteel.aspx', 'https://mdmetric.com/tech/hardnessconversion.html', 'https://minervaconservation.com/articles/talesfromtheriverbank.html', 'https://www.newscientist.com/article/dn27570-supernova-space-bullets-could-have-seeded-earths-iron-core/', 'https://www.nytimes.com/2016/06/03/world/middleeast/king-tuts-dagger-made-of-iron-from-the-sky-researchers-say.html', 'https://www.periodicvideos.com/videos/026.htm', 'https://www.sciencedirect.com/science/article/abs/pii/S0926337320310134', 'https://www.sciencedirect.com/science/article/abs/pii/S0926337320311644', 'https://www.sciencedirect.com/science/article/abs/pii/S0926337320311917', 'https://www.sciencedirect.com/science/article/pii/S0926337321001946', 'https://www.sciencedirect.com/science/article/pii/S0926337321001922', 'https://www.scientificamerican.com/article/little-star-supernovae-that-could-dwarf-stars/', 'https://link.springer.com/article/10.1007/s11144-020-01888-4', 'https://link.springer.com/article/10.1007/s11144-021-02008-6', 'https://link.springer.com/article/10.1007/s11144-021-02040-6', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph127955&CON_LNG=ENG', 'https://www.anselm.edu/homepage/dbanach/h-carnegie-steel.htm', 'https://mysite.du.edu/~jcalvert/phys/iron.htm', 'https://ui.adsabs.harvard.edu/abs/1951Natur.168.1039K', 'https://ui.adsabs.harvard.edu/abs/1973Metic...8...91B', 'https://ui.adsabs.harvard.edu/abs/1975JChEd..52..658W', 'https://ui.adsabs.harvard.edu/abs/1979RvMP...51..447D', 'https://ui.adsabs.harvard.edu/abs/1980PNAS...77.6973M', 'https://ui.adsabs.harvard.edu/abs/1984msh..book.....R', 'https://ui.adsabs.harvard.edu/abs/1992pecg.book.....E', 'https://ui.adsabs.harvard.edu/abs/1993Sci...260.1482B', 'https://ui.adsabs.harvard.edu/abs/1995AAS...186.3707B', 'https://ui.adsabs.harvard.edu/abs/1995AmJPh..63..653F', 'https://ui.adsabs.harvard.edu/abs/1997JGR...10224729S', 'https://ui.adsabs.harvard.edu/abs/2000RvGeo..38..221B', 'https://ui.adsabs.harvard.edu/abs/2003JMoSp.221..261R', 'https://ui.adsabs.harvard.edu/abs/2003NuPhA.729....3A', 'https://ui.adsabs.harvard.edu/abs/2004NewAR..48..155M', 'https://ui.adsabs.harvard.edu/abs/2005NatPh...1..147W', 'https://ui.adsabs.harvard.edu/abs/2006HyInt.170..169K', 'https://ui.adsabs.harvard.edu/abs/2006MSRv...25..515D', 'https://ui.adsabs.harvard.edu/abs/2008PCM....35..467E', 'https://ui.adsabs.harvard.edu/abs/2009Natur.461..179L', 'https://ui.adsabs.harvard.edu/abs/2009PhRvL.103g2502R', 'https://ui.adsabs.harvard.edu/abs/2010ApJ...717L..92M', 'https://ui.adsabs.harvard.edu/abs/2010Sci...330..359T', 'https://ui.adsabs.harvard.edu/abs/2012EL.....9756004K', 'https://ui.adsabs.harvard.edu/abs/2012Natur.485...90M', 'https://ui.adsabs.harvard.edu/abs/2014JPhCS.558a2013G', 'https://ui.adsabs.harvard.edu/abs/2014Sci...346.1057S', 'https://ui.adsabs.harvard.edu/abs/2016M&PS...51.1301C', 'https://ui.adsabs.harvard.edu/abs/2016PCCP...1831125L', 'https://ui.adsabs.harvard.edu/abs/2017E&PSL.460..201P', 'https://www.people.fas.harvard.edu/~witzel/EJVS-7-3.pdf', 'https://www.iom.edu/Global/News%20Announcements/~/media/Files/Activity%20Files/Nutrition/DRIs/DRI_Summary_Listing.pdf', 'https://biology.kenyon.edu/BMB/Chime/catalase/frames/cattx.htm#Proposed%20Mechanism%20of%20Catalase', 'https://lpi.oregonstate.edu/mic/minerals/iron', 'https://www.slac.stanford.edu/cgi-wrap/getdoc/slac-pub-13033.pdf', 'https://geosci.uchicago.edu/~dauphas/OLwebsite/PDFfiles/Dauphas_Rouxel_MSR06.pdf', 'https://www.efsa.europa.eu/sites/default/files/assets/DRV_Summary_tables_jan_17.pdf', 'https://www.efsa.europa.eu/sites/default/files/efsa_rep/blobserver_assets/ndatolerableuil.pdf', 'https://hal.archives-ouvertes.fr/in2p3-00020241/document', 'https://catalogue.bnf.fr/ark:/12148/cb11975665r', 'https://data.bnf.fr/ark:/12148/cb11975665r', 'https://www.cdc.gov/mmwr/preview/mmwrhtml/00051880.htm', 'https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5140a1.htm', 'https://www.cdc.gov/nutrition/everyone/basics/vitamins/iron.html', 'https://www.gpo.gov/fdsys/pkg/FR-2016-05-27/pdf/2016-11867.pdf', 'https://periodic.lanl.gov/26.shtml', 'https://id.loc.gov/authorities/subjects/sh85068131', 'https://www.dsld.nlm.nih.gov/dsld/dailyvalue.jsp', 'https://www.nal.usda.gov/sites/default/files/fnic_uploads//290-393_150.pdf', 'https://d-nb.info/gnd/4014002-7', 'https://ci.nii.ac.jp/naid/110001459778/en', 'https://id.ndl.go.jp/auth/ndlna/00572915', 'https://cbs.ewha.ac.kr/pub/data/2007_07.pdf', 'https://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JCGMCS_1998_v19n2_267', 'https://www.researchgate.net/publication/312455203', 'https://cen.acs.org/articles/95/i44/Mussels-iron-grip-inspires-strong-stretchy-polymer.html', 'https://archive.org/details/discoveryofeleme07edunse', 'https://archive.org/details/discoveryofeleme07edunse/page/29', 'https://archive.org/details/in.ernet.dli.2015.162619', 'https://web.archive.org/web/20040913020231/https://www.lgrb.uni-freiburg.de/lgrb/Fachbereiche/rohstoffgeologie/grundlagen/lagerstaetten/naturwerksteine', 'https://web.archive.org/web/20060808184739/https://www.eatwell.gov.uk/healthissues/irondeficiency/', 'https://web.archive.org/web/20091230082918/https://machinedesign.com/article/hsla-steel-1115', 'https://web.archive.org/web/20100527235247/https://publicaffairs.llnl.gov/news/news_releases/2007/NR-07-09-03.html', 'https://web.archive.org/web/20100602031459/https://www.anselm.edu/homepage/dbanach/h-carnegie-steel.htm', 'https://web.archive.org/web/20100610095913/https://geosci.uchicago.edu/~dauphas/OLwebsite/PDFfiles/Dauphas_Rouxel_MSR06.pdf', 'https://web.archive.org/web/20120304124724/https://www.worldsteel.org/statistics/statistics-archive/yearbook-archive.html', 'https://web.archive.org/web/20130314000722/https://www.iom.edu/Global/News%20Announcements/~/media/Files/Activity%20Files/Nutrition/DRIs/DRI_Summary_Listing.pdf', 'https://web.archive.org/web/20150618071701/https://mdmetric.com/tech/hardnessconversion.html', 'https://web.archive.org/web/20180107175015/https://hist-met.org/images/Journal_PDFs/37_1_p_25_Wagner.pdf', 'https://web.archive.org/web/20190209231645/http://www.gorni.eng.br/e/Gorni_SFHTHandbook.pdf', 'https://web.archive.org/web/20200407073956/https://dsld.nlm.nih.gov/dsld/dailyvalue.jsp', 'https://www.ciaaw.org/iron.htm', 'https://doi.org/10.1002/anie.198907761', 'https://doi.org/10.1016%2F0304-4203(94)00055-I', 'https://doi.org/10.1016%2Fj.dsr2.2010.08.005', 'https://doi.org/10.1016/j.poly.2013.02.066', 'https://doi.org/10.1029%2F2008GB003214', 'https://doi.org/10.1111%2Fgbi.12189', 'https://doi.org/10.12952%2Fjournal.elementa.000130', 'https://doi.org/10.2113%2Fgselements.7.2.101', 'https://doi.org/10.4319%2Flo.1991.36.8.1742', 'https://ghostarchive.org/archive/20220103/https://www.nytimes.com/2016/06/03/world/middleeast/king-tuts-dagger-made-of-iron-from-the-sky-researchers-say.html', 'https://hist-met.org/images/Journal_PDFs/37_1_p_25_Wagner.pdf', 'https://education.jlab.org/itselemental/ele026.html', 'https://www.mindat.org/min-3328.html', 'https://www.mindat.org/min-35903.html', 'https://www.science.org/doi/10.1126/science.1194662', 'https://semanticscholar.org/paper/1fff854394cdc0c0663fb00bbcd06d653c93afd8', 'https://api.semanticscholar.org/CorpusID:118974639', 'https://api.semanticscholar.org/CorpusID:121861429', 'https://api.semanticscholar.org/CorpusID:14437704', 'https://api.semanticscholar.org/CorpusID:161808359', 'https://api.semanticscholar.org/CorpusID:19697776', 'https://api.semanticscholar.org/CorpusID:205049360', 'https://api.semanticscholar.org/CorpusID:206528628', 'https://api.semanticscholar.org/CorpusID:206563252', 'https://api.semanticscholar.org/CorpusID:224783194', 'https://api.semanticscholar.org/CorpusID:225148435', 'https://api.semanticscholar.org/CorpusID:229444245', 'https://api.semanticscholar.org/CorpusID:230544411', 'https://api.semanticscholar.org/CorpusID:233831901', 'https://api.semanticscholar.org/CorpusID:233833901', 'https://api.semanticscholar.org/CorpusID:235442316', 'https://api.semanticscholar.org/CorpusID:236940863', 'https://api.semanticscholar.org/CorpusID:28909635', 'https://api.semanticscholar.org/CorpusID:33458168', 'https://api.semanticscholar.org/CorpusID:35665289', 'https://api.semanticscholar.org/CorpusID:4181383', 'https://api.semanticscholar.org/CorpusID:42983904', 'https://api.semanticscholar.org/CorpusID:4387193', 'https://api.semanticscholar.org/CorpusID:98227499', 'https://api.semanticscholar.org/CorpusID:98739882', 'https://www.wikidata.org/wiki/Q677#identifiers', 'https://archive.today/20120914112201/https://www.unep.org/resourcepanel/Publications/MetalStocks/tabid/56054/Default.aspx', 'https://antiquity.ac.uk/projgall/tewari/tewari.pdf', 'https://www.eatwell.gov.uk/healthissues/irondeficiency/']
+
+####### SUMMARY #######
+
+Iron () is a chemical element with symbol Fe (from Latin: ferrum) and atomic number 26. It is a metal that belongs to the first transition series and group 8 of the periodic table. It is, by mass, the most common element on Earth, right in front of oxygen (32.1% and 30.1%, respectively), forming much of Earth's outer and inner core. It is the fourth most common element in the Earth's crust.
+In its metallic state, iron is rare in the Earth's crust, limited mainly to deposition by meteorites. Iron ores, by contrast, are among the most abundant in the Earth's crust, although extracting usable metal from them requires kilns or furnaces capable of reaching 1,500 °C (2,730 °F) or higher, about 500 °C (932 °F) higher than that required to smelt copper. Humans started to master that process in Eurasia during the 2nd millennium BCE and the use of iron tools and weapons began to displace copper alloys, in some regions, only around 1200 BCE. That event is considered the transition from the Bronze Age to the Iron Age. In the modern world, iron alloys, such as steel, stainless steel, cast iron and special steels, are by far the most common industrial metals, because of their mechanical properties and low cost. The iron and steel industry is thus very important economically, and iron is the cheapest metal, with a price of a few dollars per kilogram or per pound (see Metal#uses).
+Pristine and smooth pure iron surfaces are mirror-like silvery-gray. However, iron reacts readily with oxygen and water to give brown to black hydrated iron oxides, commonly known as rust. Unlike the oxides of some other metals, that form passivating layers, rust occupies more volume than the metal and thus flakes off, exposing fresh surfaces for corrosion. Although iron readily reacts, high purity iron, called electrolytic iron, has better corrosion resistance.
+The body of an adult human contains about 4 grams (0.005% body weight) of iron, mostly in hemoglobin and myoglobin. These two proteins play essential roles in vertebrate metabolism, respectively oxygen transport by blood and oxygen storage in muscles. To maintain the necessary levels, human iron metabolism requires a minimum of iron in the diet. Iron is also the metal at the active site of many important redox enzymes dealing with cellular respiration and oxidation and reduction in plants and animals.Chemically, the most common oxidation states of iron are iron(II) and iron(III). Iron shares many properties of other transition metals, including the other group 8 elements, ruthenium and osmium. Iron forms compounds in a wide range of oxidation states, −2 to +7. Iron also forms many coordination compounds; some of them, such as ferrocene, ferrioxalate, and Prussian blue, have substantial industrial, medical, or research applications.
+
+####### CONTENT #######
+
+Iron () is a chemical element with symbol Fe (from Latin: ferrum) and atomic number 26. It is a metal that belongs to the first transition series and group 8 of the periodic table. It is, by mass, the most common element on Earth, right in front of oxygen (32.1% and 30.1%, respectively), forming much of Earth's outer and inner core. It is the fourth most common element in the Earth's crust.
+In its metallic state, iron is rare in the Earth's crust, limited mainly to deposition by meteorites. Iron ores, by contrast, are among the most abundant in the Earth's crust, although extracting usable metal from them requires kilns or furnaces capable of reaching 1,500 °C (2,730 °F) or higher, about 500 °C (932 °F) higher than that required to smelt copper. Humans started to master that process in Eurasia during the 2nd millennium BCE and the use of iron tools and weapons began to displace copper alloys, in some regions, only around 1200 BCE. That event is considered the transition from the Bronze Age to the Iron Age. In the modern world, iron alloys, such as steel, stainless steel, cast iron and special steels, are by far the most common industrial metals, because of their mechanical properties and low cost. The iron and steel industry is thus very important economically, and iron is the cheapest metal, with a price of a few dollars per kilogram or per pound (see Metal#uses).
+Pristine and smooth pure iron surfaces are mirror-like silvery-gray. However, iron reacts readily with oxygen and water to give brown to black hydrated iron oxides, commonly known as rust. Unlike the oxides of some other metals, that form passivating layers, rust occupies more volume than the metal and thus flakes off, exposing fresh surfaces for corrosion. Although iron readily reacts, high purity iron, called electrolytic iron, has better corrosion resistance.
+The body of an adult human contains about 4 grams (0.005% body weight) of iron, mostly in hemoglobin and myoglobin. These two proteins play essential roles in vertebrate metabolism, respectively oxygen transport by blood and oxygen storage in muscles. To maintain the necessary levels, human iron metabolism requires a minimum of iron in the diet. Iron is also the metal at the active site of many important redox enzymes dealing with cellular respiration and oxidation and reduction in plants and animals.Chemically, the most common oxidation states of iron are iron(II) and iron(III). Iron shares many properties of other transition metals, including the other group 8 elements, ruthenium and osmium. Iron forms compounds in a wide range of oxidation states, −2 to +7. Iron also forms many coordination compounds; some of them, such as ferrocene, ferrioxalate, and Prussian blue, have substantial industrial, medical, or research applications.
+
+
+== Characteristics ==
+
+
+=== Allotropes ===
+
+At least four allotropes of iron (differing atom arrangements in the solid) are known, conventionally denoted α, γ, δ, and ε.
+
+The first three forms are observed at ordinary pressures. As molten iron cools past its freezing point of 1538 °C, it crystallizes into its δ allotrope, which has a body-centered cubic (bcc) crystal structure. As it cools further to 1394 °C, it changes to its γ-iron allotrope, a face-centered cubic (fcc) crystal structure, or austenite. At 912 °C and below, the crystal structure again becomes the bcc α-iron allotrope.The physical properties of iron at very high pressures and temperatures have also been studied extensively, because of their relevance to theories about the cores of the Earth and other planets. Above approximately 10 GPa and temperatures of a few hundred kelvin or less, α-iron changes into another hexagonal close-packed (hcp) structure, which is also known as ε-iron. The higher-temperature γ-phase also changes into ε-iron, but does so at higher pressure.
+Some controversial experimental evidence exists for a stable β phase at pressures above 50 GPa and temperatures of at least 1500 K. It is supposed to have an orthorhombic or a double hcp structure. (Confusingly, the term "β-iron" is sometimes also used to refer to α-iron above its Curie point, when it changes from being ferromagnetic to paramagnetic, even though its crystal structure has not changed.)
+The inner core of the Earth is generally presumed to consist of an iron-nickel alloy with ε (or β) structure.
+
+
+=== Melting and boiling points ===
+The melting and boiling points of iron, along with its enthalpy of atomization, are lower than those of the earlier 3d elements from scandium to chromium, showing the lessened contribution of the 3d electrons to metallic bonding as they are attracted more and more into the inert core by the nucleus; however, they are higher than the values for the previous element manganese because that element has a half-filled 3d sub-shell and consequently its d-electrons are not easily delocalized. This same trend appears for ruthenium but not osmium.The melting point of iron is experimentally well defined for pressures less than 50 GPa. For greater pressures, published data (as of 2007) still varies by tens of gigapascals and over a thousand kelvin.
+
+
+=== Magnetic properties ===
+
+Below its Curie point of 770 °C (1,420 °F; 1,040 K), α-iron changes from paramagnetic to ferromagnetic: the spins of the two unpaired electrons in each atom generally align with the spins of its neighbors, creating an overall magnetic field. This happens because the orbitals of those two electrons (dz2 and dx2 − y2) do not point toward neighboring atoms in the lattice, and therefore are not involved in metallic bonding.In the absence of an external source of magnetic field, the atoms get spontaneously partitioned into magnetic domains, about 10 micrometers across, such that the atoms in each domain have parallel spins, but some domains have other orientations. Thus a macroscopic piece of iron will have a nearly zero overall magnetic field.
+Application of an external magnetic field causes the domains that are magnetized in the same general direction to grow at the expense of adjacent ones that point in other directions, reinforcing the external field. This effect is exploited in devices that need to channel magnetic fields to fulfill design function, such as electrical transformers, magnetic recording heads, and electric motors. Impurities, lattice defects, or grain and particle boundaries can "pin" the domains in the new positions, so that the effect persists even after the external field is removed – thus turning the iron object into a (permanent) magnet.Similar behavior is exhibited by some iron compounds, such as the ferrites including the mineral magnetite, a crystalline form of the mixed iron(II,III) oxide Fe3O4 (although the atomic-scale mechanism, ferrimagnetism, is somewhat different). Pieces of magnetite with natural permanent magnetization (lodestones) provided the earliest compasses for navigation. Particles of magnetite were extensively used in magnetic recording media such as core memories, magnetic tapes, floppies, and disks, until they were replaced by cobalt-based materials.
+
+
+=== Isotopes ===
+
+Iron has four stable isotopes: 54Fe (5.845% of natural iron), 56Fe (91.754%), 57Fe (2.119%) and 58Fe (0.282%). 20-30 artificial isotopes have also been created. Of these stable isotopes, only 57Fe has a nuclear spin (−1⁄2). The nuclide 54Fe theoretically can undergo double electron capture to 54Cr, but the process has never been observed and only a lower limit on the half-life of 3.1×1022 years has been established.60Fe is an extinct radionuclide of long half-life (2.6 million years). It is not found on Earth, but its ultimate decay product is its granddaughter, the stable nuclide 60Ni. Much of the past work on isotopic composition of iron has focused on the nucleosynthesis of 60Fe through studies of meteorites and ore formation. In the last decade, advances in mass spectrometry have allowed the detection and quantification of minute, naturally occurring variations in the ratios of the stable isotopes of iron. Much of this work is driven by the Earth and planetary science communities, although applications to biological and industrial systems are emerging.In phases of the meteorites Semarkona and Chervony Kut, a correlation between the concentration of 60Ni, the granddaughter of 60Fe, and the abundance of the stable iron isotopes provided evidence for the existence of 60Fe at the time of formation of the Solar System. Possibly the energy released by the decay of 60Fe, along with that released by 26Al, contributed to the remelting and differentiation of asteroids after their formation 4.6 billion years ago. The abundance of 60Ni present in extraterrestrial material may bring further insight into the origin and early history of the Solar System.The most abundant iron isotope 56Fe is of particular interest to nuclear scientists because it represents the most common endpoint of nucleosynthesis. Since 56Ni (14 alpha particles) is easily produced from lighter nuclei in the alpha process in nuclear reactions in supernovae (see silicon burning process), it is the endpoint of fusion chains inside extremely massive stars, since addition of another alpha particle, resulting in 60Zn, requires a great deal more energy. This 56Ni, which has a half-life of about 6 days, is created in quantity in these stars, but soon decays by two successive positron emissions within supernova decay products in the supernova remnant gas cloud, first to radioactive 56Co, and then to stable 56Fe. As such, iron is the most abundant element in the core of red giants, and is the most abundant metal in iron meteorites and in the dense metal cores of planets such as Earth. It is also very common in the universe, relative to other stable metals of approximately the same atomic weight. Iron is the sixth most abundant element in the universe, and the most common refractory element.Although a further tiny energy gain could be extracted by synthesizing 62Ni, which has a marginally higher binding energy than 56Fe, conditions in stars are unsuitable for this process. Element production in supernovas and distribution on Earth greatly favor iron over nickel, and in any case, 56Fe still has a lower mass per nucleon than 62Ni due to its higher fraction of lighter protons. Hence, elements heavier than iron require a supernova for their formation, involving rapid neutron capture by starting 56Fe nuclei.In the far future of the universe, assuming that proton decay does not occur, cold fusion occurring via quantum tunnelling would cause the light nuclei in ordinary matter to fuse into 56Fe nuclei. Fission and alpha-particle emission would then make heavy nuclei decay into iron, converting all stellar-mass objects to cold spheres of pure iron.
+
+
+== Origin and occurrence in nature ==
+
+
+=== Cosmogenesis ===
+Iron's abundance in rocky planets like Earth is due to its abundant production during the runaway fusion and explosion of type Ia supernovae, which scatters the iron into space.
+
+
+=== Metallic iron ===
+
+Metallic or native iron is rarely found on the surface of the Earth because it tends to oxidize. However, both the Earth's inner and outer core, that account for 35% of the mass of the whole Earth, are believed to consist largely of an iron alloy, possibly with nickel. Electric currents in the liquid outer core are believed to be the origin of the Earth's magnetic field. The other terrestrial planets (Mercury, Venus, and Mars) as well as the Moon are believed to have a metallic core consisting mostly of iron. The M-type asteroids are also believed to be partly or mostly made of metallic iron alloy.
+The rare iron meteorites are the main form of natural metallic iron on the Earth's surface. Items made of cold-worked meteoritic iron have been found in various archaeological sites dating from a time when iron smelting had not yet been developed; and the Inuit in Greenland have been reported to use iron from the Cape York meteorite for tools and hunting weapons. About 1 in 20 meteorites consist of the unique iron-nickel minerals taenite (35–80% iron) and kamacite (90–95% iron). Native iron is also rarely found in basalts that have formed from magmas that have come into contact with carbon-rich sedimentary rocks, which have reduced the oxygen fugacity sufficiently for iron to crystallize. This is known as Telluric iron and is described from a few localities, such as Disko Island in West Greenland, Yakutia in Russia and Bühl in Germany.
+
+
+=== Mantle minerals ===
+Ferropericlase (Mg,Fe)O, a solid solution of periclase (MgO) and wüstite (FeO), makes up about 20% of the volume of the lower mantle of the Earth, which makes it the second most abundant mineral phase in that region after silicate perovskite (Mg,Fe)SiO3; it also is the major host for iron in the lower mantle. At the bottom of the transition zone of the mantle, the reaction γ-(Mg,Fe)2[SiO4] ↔ (Mg,Fe)[SiO3] + (Mg,Fe)O transforms γ-olivine into a mixture of silicate perovskite and ferropericlase and vice versa. In the literature, this mineral phase of the lower mantle is also often called magnesiowüstite. Silicate perovskite may form up to 93% of the lower mantle, and the magnesium iron form, (Mg,Fe)SiO3, is considered to be the most abundant mineral in the Earth, making up 38% of its volume.
+
+
+=== Earth's crust ===
+
+While iron is the most abundant element on Earth, most of this iron is concentrated in the inner and outer cores. The fraction of iron that is in Earth's crust only amounts to about 5% of the overall mass of the crust and is thus only the fourth most abundant element in that layer (after oxygen, silicon, and aluminium).Most of the iron in the crust is combined with various other elements to form many iron minerals. An important class is the iron oxide minerals such as hematite (Fe2O3), magnetite (Fe3O4), and siderite (FeCO3), which are the major ores of iron. Many igneous rocks also contain the sulfide minerals pyrrhotite and pentlandite. During weathering, iron tends to leach from sulfide deposits as the sulfate and from silicate deposits as the bicarbonate. Both of these are oxidized in aqueous solution and precipitate in even mildly elevated pH as iron(III) oxide.
+
+Large deposits of iron are banded iron formations, a type of rock consisting of repeated thin layers of iron oxides alternating with bands of iron-poor shale and chert. The banded iron formations were laid down in the time between 3,700 million years ago and 1,800 million years ago.Materials containing finely ground iron(III) oxides or oxide-hydroxides, such as ochre, have been used as yellow, red, and brown pigments since pre-historical times. They contribute as well to the color of various rocks and clays, including entire geological formations like the Painted Hills in Oregon and the Buntsandstein ("colored sandstone", British Bunter). Through Eisensandstein (a jurassic 'iron sandstone', e.g. from Donzdorf in Germany) and Bath stone in the UK, iron compounds are responsible for the yellowish color of many historical buildings and sculptures. The proverbial red color of the surface of Mars is derived from an iron oxide-rich regolith.Significant amounts of iron occur in the iron sulfide mineral pyrite (FeS2), but it is difficult to extract iron from it and it is therefore not exploited. In fact, iron is so common that production generally focuses only on ores with very high quantities of it.
+According to the International Resource Panel's Metal Stocks in Society report, the global stock of iron in use in society is 2,200 kg per capita. More-developed countries differ in this respect from less-developed countries (7,000–14,000 vs 2,000 kg per capita).
+
+
+=== Oceans ===
+Ocean science demonstrated the role of the iron in the ancient seas in both marine biota and climate.
+
+
+== Chemistry and compounds ==
+
+Iron shows the characteristic chemical properties of the transition metals, namely the ability to form variable oxidation states differing by steps of one and a very large coordination and organometallic chemistry: indeed, it was the discovery of an iron compound, ferrocene, that revolutionalized the latter field in the 1950s. Iron is sometimes considered as a prototype for the entire block of transition metals, due to its abundance and the immense role it has played in the technological progress of humanity. Its 26 electrons are arranged in the configuration [Ar]3d64s2, of which the 3d and 4s electrons are relatively close in energy, and thus it can lose a variable number of electrons and there is no clear point where further ionization becomes unprofitable.Iron forms compounds mainly in the oxidation states +2 (iron(II), "ferrous") and +3 (iron(III), "ferric"). Iron also occurs in higher oxidation states, e.g. the purple potassium ferrate (K2FeO4), which contains iron in its +6 oxidation state. Although iron(VIII) oxide (FeO4) has been claimed, the report could not be reproduced and such a species from the removal of all electrons of the element beyond the preceding inert gas configuration (at least with iron in its +8 oxidation state) has been found to be improbable computationally. However, one form of anionic [FeO4]– with iron in its +7 oxidation state, along with an iron(V)-peroxo isomer, has been detected by infrared spectroscopy at 4 K after cocondensation of laser-ablated Fe atoms with a mixture of O2/Ar. Iron(IV) is a common intermediate in many biochemical oxidation reactions. Numerous organoiron compounds contain formal oxidation states of +1, 0, −1, or even −2. The oxidation states and other bonding properties are often assessed using the technique of Mössbauer spectroscopy. Many mixed valence compounds contain both iron(II) and iron(III) centers, such as magnetite and Prussian blue (Fe4(Fe[CN]6)3). The latter is used as the traditional "blue" in blueprints.Iron is the first of the transition metals that cannot reach its group oxidation state of +8, although its heavier congeners ruthenium and osmium can, with ruthenium having more difficulty than osmium. Ruthenium exhibits an aqueous cationic chemistry in its low oxidation states similar to that of iron, but osmium does not, favoring high oxidation states in which it forms anionic complexes. In the second half of the 3d transition series, vertical similarities down the groups compete with the horizontal similarities of iron with its neighbors cobalt and nickel in the periodic table, which are also ferromagnetic at room temperature and share similar chemistry. As such, iron, cobalt, and nickel are sometimes grouped together as the iron triad.Unlike many other metals, iron does not form amalgams with mercury. As a result, mercury is traded in standardized 76 pound flasks (34 kg) made of iron.Iron is by far the most reactive element in its group; it is pyrophoric when finely divided and dissolves easily in dilute acids, giving Fe2+. However, it does not react with concentrated nitric acid and other oxidizing acids due to the formation of an impervious oxide layer, which can nevertheless react with hydrochloric acid. High purity iron, called electrolytic iron, is considered to be resistant to rust, due to its oxide layer.
+
+
+=== Binary compounds ===
+
+
+==== Oxides and hydroxides ====
+
+Iron forms various oxide and hydroxide compounds; the most common are iron(II,III) oxide (Fe3O4), and iron(III) oxide (Fe2O3). Iron(II) oxide also exists, though it is unstable at room temperature. Despite their names, they are actually all non-stoichiometric compounds whose compositions may vary. These oxides are the principal ores for the production of iron (see bloomery and blast furnace). They are also used in the production of ferrites, useful magnetic storage media in computers, and pigments. The best known sulfide is iron pyrite (FeS2), also known as fool's gold owing to its golden luster. It is not an iron(IV) compound, but is actually an iron(II) polysulfide containing Fe2+ and S2−2 ions in a distorted sodium chloride structure.
+
+
+==== Halides ====
+
+The binary ferrous and ferric halides are well-known. The ferrous halides typically arise from treating iron metal with the corresponding hydrohalic acid to give the corresponding hydrated salts.
+Fe + 2 HX → FeX2 + H2 (X = F, Cl, Br, I)Iron reacts with fluorine, chlorine, and bromine to give the corresponding ferric halides, ferric chloride being the most common.
+2 Fe + 3 X2 → 2 FeX3 (X = F, Cl, Br)Ferric iodide is an exception, being thermodynamically unstable due to the oxidizing power of Fe3+ and the high reducing power of I−:
+2 I− + 2 Fe3+ → I2 + 2 Fe2+ (E0 = +0.23 V)Ferric iodide, a black solid, is not stable in ordinary conditions, but can be prepared through the reaction of iron pentacarbonyl with iodine and carbon monoxide in the presence of hexane and light at the temperature of −20 °C, with oxygen and water excluded. Complexes of ferric iodide with some soft bases are known to be stable compounds.
+
+
+=== Solution chemistry ===
+
+The standard reduction potentials in acidic aqueous solution for some common iron ions are given below:
+The red-purple tetrahedral ferrate(VI) anion is such a strong oxidizing agent that it oxidizes nitrogen and ammonia at room temperature, and even water itself in acidic or neutral solutions:
+4 FeO2−4 + 10 H2O → 4 Fe3+ + 20 OH− + 3 O2The Fe3+ ion has a large simple cationic chemistry, although the pale-violet hexaquo ion [Fe(H2O)6]3+ is very readily hydrolyzed when pH increases above 0 as follows:
+
+As pH rises above 0 the above yellow hydrolyzed species form and as it rises above 2–3, reddish-brown hydrous iron(III) oxide precipitates out of solution. Although Fe3+ has a d5 configuration, its absorption spectrum is not like that of Mn2+ with its weak, spin-forbidden d–d bands, because Fe3+ has higher positive charge and is more polarizing, lowering the energy of its ligand-to-metal charge transfer absorptions. Thus, all the above complexes are rather strongly colored, with the single exception of the hexaquo ion – and even that has a spectrum dominated by charge transfer in the near ultraviolet region. On the other hand, the pale green iron(II) hexaquo ion [Fe(H2O)6]2+ does not undergo appreciable hydrolysis. Carbon dioxide is not evolved when carbonate anions are added, which instead results in white iron(II) carbonate being precipitated out. In excess carbon dioxide this forms the slightly soluble bicarbonate, which occurs commonly in groundwater, but it oxidises quickly in air to form iron(III) oxide that accounts for the brown deposits present in a sizeable number of streams.
+
+
+=== Coordination compounds ===
+Due to its electronic structure, iron has a very large coordination and organometallic chemistry.
+
+Many coordination compounds of iron are known. A typical six-coordinate anion is hexachloroferrate(III), [FeCl6]3−, found in the mixed salt tetrakis(methylammonium) hexachloroferrate(III) chloride. Complexes with multiple bidentate ligands have geometric isomers. For example, the trans-chlorohydridobis(bis-1,2-(diphenylphosphino)ethane)iron(II) complex is used as a starting material for compounds with the Fe(dppe)2 moiety. The ferrioxalate ion with three oxalate ligands (shown at right) displays helical chirality with its two non-superposable geometries labelled Λ (lambda) for the left-handed screw axis and Δ (delta) for the right-handed screw axis, in line with IUPAC conventions. Potassium ferrioxalate is used in chemical actinometry and along with its sodium salt undergoes photoreduction applied in old-style photographic processes. The dihydrate of iron(II) oxalate has a polymeric structure with co-planar oxalate ions bridging between iron centres with the water of crystallisation located forming the caps of each octahedron, as illustrated below.
+
+Iron(III) complexes are quite similar to those of chromium(III) with the exception of iron(III)'s preference for O-donor instead of N-donor ligands. The latter tend to be rather more unstable than iron(II) complexes and often dissociate in water. Many Fe–O complexes show intense colors and are used as tests for phenols or enols. For example, in the ferric chloride test, used to determine the presence of phenols, iron(III) chloride reacts with a phenol to form a deep violet complex:
+3 ArOH + FeCl3 → Fe(OAr)3 + 3 HCl (Ar = aryl)Among the halide and pseudohalide complexes, fluoro complexes of iron(III) are the most stable, with the colorless [FeF5(H2O)]2− being the most stable in aqueous solution. Chloro complexes are less stable and favor tetrahedral coordination as in [FeCl4]−; [FeBr4]− and [FeI4]− are reduced easily to iron(II). Thiocyanate is a common test for the presence of iron(III) as it forms the blood-red [Fe(SCN)(H2O)5]2+. Like manganese(II), most iron(III) complexes are high-spin, the exceptions being those with ligands that are high in the spectrochemical series such as cyanide. An example of a low-spin iron(III) complex is [Fe(CN)6]3−. The cyanide ligands may easily be detached in [Fe(CN)6]3−, and hence this complex is poisonous, unlike the iron(II) complex [Fe(CN)6]4− found in Prussian blue, which does not release hydrogen cyanide except when dilute acids are added. Iron shows a great variety of electronic spin states, including every possible spin quantum number value for a d-block element from 0 (diamagnetic) to 5⁄2 (5 unpaired electrons). This value is always half the number of unpaired electrons. Complexes with zero to two unpaired electrons are considered low-spin and those with four or five are considered high-spin.Iron(II) complexes are less stable than iron(III) complexes but the preference for O-donor ligands is less marked, so that for example [Fe(NH3)6]2+ is known while [Fe(NH3)6]3+ is not. They have a tendency to be oxidized to iron(III) but this can be moderated by low pH and the specific ligands used.
+
+
+=== Organometallic compounds ===
+
+Organoiron chemistry is the study of organometallic compounds of iron, where carbon atoms are covalently bound to the metal atom. They are many and varied, including cyanide complexes, carbonyl complexes, sandwich and half-sandwich compounds.
+
+Prussian blue or "ferric ferrocyanide", Fe4[Fe(CN)6]3, is an old and well-known iron-cyanide complex, extensively used as pigment and in several other applications. Its formation can be used as a simple wet chemistry test to distinguish between aqueous solutions of Fe2+ and Fe3+ as they react (respectively) with potassium ferricyanide and potassium ferrocyanide to form Prussian blue.Another old example of an organoiron compound is iron pentacarbonyl, Fe(CO)5, in which a neutral iron atom is bound to the carbon atoms of five carbon monoxide molecules. The compound can be used to make carbonyl iron powder, a highly reactive form of metallic iron. Thermolysis of iron pentacarbonyl gives triiron dodecacarbonyl, Fe3(CO)12, a complex with a cluster of three iron atoms at its core. Collman's reagent, disodium tetracarbonylferrate, is a useful reagent for organic chemistry; it contains iron in the −2 oxidation state. Cyclopentadienyliron dicarbonyl dimer contains iron in the rare +1 oxidation state.
+
+A landmark in this field was the discovery in 1951 of the remarkably stable sandwich compound ferrocene Fe(C5H5)2, by Pauson and Kealy and independently by Miller and colleagues, whose surprising molecular structure was determined only a year later by Woodward and Wilkinson and Fischer.
+Ferrocene is still one of the most important tools and models in this class.Iron-centered organometallic species are used as catalysts. The Knölker complex, for example, is a transfer hydrogenation catalyst for ketones.
+
+
+=== Industrial uses ===
+The iron compounds produced on the largest scale in industry are iron(II) sulfate (FeSO4·7H2O) and iron(III) chloride (FeCl3). The former is one of the most readily available sources of iron(II), but is less stable to aerial oxidation than Mohr's salt ((NH4)2Fe(SO4)2·6H2O). Iron(II) compounds tend to be oxidized to iron(III) compounds in the air.
+
+
+== History ==
+
+
+=== Development of iron metallurgy ===
+Iron is one of the elements undoubtedly known to the ancient world. It has been worked, or wrought, for millennia. However, iron objects of great age are much rarer than objects made of gold or silver due to the ease with which iron corrodes. The technology developed slowly, and even after the discovery of smelting it took many centuries for iron to replace bronze as the metal of choice for tools and weapons.
+
+
+==== Meteoritic iron ====
+
+Beads made from meteoric iron in 3500 BC or earlier were found in Gerzeh, Egypt by G.A. Wainwright. The beads contain 7.5% nickel, which is a signature of meteoric origin since iron found in the Earth's crust generally has only minuscule nickel impurities.
+Meteoric iron was highly regarded due to its origin in the heavens and was often used to forge weapons and tools. For example, a dagger made of meteoric iron was found in the tomb of Tutankhamun, containing similar proportions of iron, cobalt, and nickel to a meteorite discovered in the area, deposited by an ancient meteor shower. Items that were likely made of iron by Egyptians date from 3000 to 2500 BC.Meteoritic iron is comparably soft and ductile and easily cold forged but may get brittle when heated because of the nickel content.
+
+
+==== Wrought iron ====
+
+ 
+The first iron production started in the Middle Bronze Age, but it took several centuries before iron displaced bronze. Samples of smelted iron from Asmar, Mesopotamia and Tall Chagar Bazaar in northern Syria were made sometime between 3000 and 2700 BC. The Hittites established an empire in north-central Anatolia around 1600 BC. They appear to be the first to understand the production of iron from its ores and regard it highly in their society. The Hittites began to smelt iron between 1500 and 1200 BC and the practice spread to the rest of the Near East after their empire fell in 1180 BC. The subsequent period is called the Iron Age.
+Artifacts of smelted iron are found in India dating from 1800 to 1200 BC, and in the Levant from about 1500 BC (suggesting smelting in Anatolia or the Caucasus). Alleged references (compare history of metallurgy in South Asia) to iron in the Indian Vedas have been used for claims of a very early usage of iron in India respectively to date the texts as such. The rigveda term ayas (metal) refers to copper, while iron which is called as śyāma ayas, literally "black copper", first is mentioned in the post-rigvedic Atharvaveda.Some archaeological evidence suggests iron was smelted in Zimbabwe and southeast Africa as early as the eighth century BC. Iron working was introduced to Greece in the late 11th century BC, from which it spread quickly throughout Europe.
+
+The spread of ironworking in Central and Western Europe is associated with Celtic expansion. According to Pliny the Elder, iron use was common in the Roman era. In the lands of what is now considered China, iron appears approximately 700–500 BC. Iron smelting may have been introduced into China through Central Asia. The earliest evidence of the use of a blast furnace in China dates to the 1st century AD, and cupola furnaces were used as early as the Warring States period (403–221 BC). Usage of the blast and cupola furnace remained widespread during the Tang and Song dynasties.During the Industrial Revolution in Britain, Henry Cort began refining iron from pig iron to wrought iron (or bar iron) using innovative production systems. In 1783 he patented the puddling process for refining iron ore. It was later improved by others, including Joseph Hall.
+
+
+==== Cast iron ====
+
+Cast iron was first produced in China during 5th century BC, but was hardly in Europe until the medieval period. The earliest cast iron artifacts were discovered by archaeologists in what is now modern Luhe County, Jiangsu in China. Cast iron was used in ancient China for warfare, agriculture, and architecture. During the medieval period, means were found in Europe of producing wrought iron from cast iron (in this context known as pig iron) using finery forges. For all these processes, charcoal was required as fuel.
+
+Medieval blast furnaces were about 10 feet (3.0 m) tall and made of fireproof brick; forced air was usually provided by hand-operated bellows. Modern blast furnaces have grown much bigger, with hearths fourteen meters in diameter that allow them to produce thousands of tons of iron each day, but essentially operate in much the same way as they did during medieval times.In 1709, Abraham Darby I established a coke-fired blast furnace to produce cast iron, replacing charcoal, although continuing to use blast furnaces. The ensuing availability of inexpensive iron was one of the factors leading to the Industrial Revolution. Toward the end of the 18th century, cast iron began to replace wrought iron for certain purposes, because it was cheaper. Carbon content in iron was not implicated as the reason for the differences in properties of wrought iron, cast iron, and steel until the 18th century.Since iron was becoming cheaper and more plentiful, it also became a major structural material following the building of the innovative first iron bridge in 1778. This bridge still stands today as a monument to the role iron played in the Industrial Revolution. Following this, iron was used in rails, boats, ships, aqueducts, and buildings, as well as in iron cylinders in steam engines. Railways have been central to the formation of modernity and ideas of progress and various languages (e.g. French, Spanish, Italian and German) refer to railways as iron road.
+
+
+==== Steel ====
+
+Steel (with smaller carbon content than pig iron but more than wrought iron) was first produced in antiquity by using a bloomery. Blacksmiths in Luristan in western Persia were making good steel by 1000 BC. Then improved versions, Wootz steel by India and Damascus steel were developed around 300 BC and AD 500 respectively. These methods were specialized, and so steel did not become a major commodity until the 1850s.New methods of producing it by carburizing bars of iron in the cementation process were devised in the 17th century. In the Industrial Revolution, new methods of producing bar iron without charcoal were devised and these were later applied to produce steel. In the late 1850s, Henry Bessemer invented a new steelmaking process, involving blowing air through molten pig iron, to produce mild steel. This made steel much more economical, thereby leading to wrought iron no longer being produced in large quantities.
+
+
+=== Foundations of modern chemistry ===
+In 1774, Antoine Lavoisier used the reaction of water steam with metallic iron inside an incandescent iron tube to produce hydrogen in his experiments leading to the demonstration of the conservation of mass, which was instrumental in changing chemistry from a qualitative science to a quantitative one.
+
+
+== Symbolic role ==
+
+Iron plays a certain role in mythology and has found various usage as a metaphor and in folklore. The Greek poet Hesiod's Works and Days (lines 109–201) lists different ages of man named after metals like gold, silver, bronze and iron to account for successive ages of humanity. The Iron Age was closely related with Rome, and in Ovid's Metamorphoses
+
+The Virtues, in despair, quit the earth; and the depravity of man becomes universal and complete. Hard steel succeeded then.
+An example of the importance of iron's symbolic role may be found in the German Campaign of 1813. Frederick William III commissioned then the first Iron Cross as military decoration. Berlin iron jewellery reached its peak production between 1813 and 1815, when the Prussian royal family urged citizens to donate gold and silver jewellery for military funding. The inscription Gold gab ich für Eisen (I gave gold for iron) was used as well in later war efforts.
+
+
+== Production of metallic iron ==
+
+
+=== Laboratory routes ===
+For a few limited purposes when it is needed, pure iron is produced in the laboratory in small quantities by reducing the pure oxide or hydroxide with hydrogen, or forming iron pentacarbonyl and heating it to 250 °C so that it decomposes to form pure iron powder. Another method is electrolysis of ferrous chloride onto an iron cathode.
+
+
+=== Main industrial route ===
+
+Nowadays, the industrial production of iron or steel consists of two main stages. In the first stage, iron ore is reduced with coke in a blast furnace, and the molten metal is separated from gross impurities such as silicate minerals. This stage yields an alloy—pig iron—that contains relatively large amounts of carbon. In the second stage, the amount of carbon in the pig iron is lowered by oxidation to yield wrought iron, steel, or cast iron. Other metals can be added at this stage to form alloy steels.
+
+
+==== Blast furnace processing ====
+
+The blast furnace is loaded with iron ores, usually hematite Fe2O3 or magnetite Fe3O4, along with coke (coal that has been separately baked to remove volatile components) and flux (limestone or dolomite). "Blasts" of air pre-heated to 900 °C (sometimes with oxygen enrichment) is blown through the mixture, in sufficient amount to turn the carbon into carbon monoxide:
+
+  
+    
+      
+        
+          2
+          
+          C
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          CO
+        
+      
+    
+    {\displaystyle {\ce {2 C + O2 -> 2 CO}}}
+  This reaction raises the temperature to about 2000 °C. The carbon monoxide reduces the iron ore to metallic iron
+
+  
+    
+      
+        
+          
+            Fe
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          3
+          
+          CO
+          ⟶
+          2
+          
+          Fe
+          +
+          3
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Fe2O3 + 3 CO -> 2 Fe + 3 CO2}}}
+  Some iron in the high-temperature lower region of the furnace reacts directly with the coke:
+
+  
+    
+      
+        
+          2
+          
+          
+            Fe
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          3
+          
+          C
+          ⟶
+          4
+          
+          Fe
+          +
+          3
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2Fe2O3 + 3C -> 4Fe + 3CO2}}}
+  The flux removes silicaceous minerals in the ore, which would otherwise clog the furnace: The heat of the furnace decomposes the carbonates to calcium oxide, which reacts with any excess silica to form a slag composed of calcium silicate CaSiO3 or other products. At the furnace's temperature, the metal and the slag are both molten. They collect at the bottom as two immiscible liquid layers (with the slag on top), that are then easily separated. The slag can be used as a material in road construction or to improve mineral-poor soils for agriculture.Steelmaking thus remains one of the largest industrial contributors of CO2 emissions in the world.
+
+
+==== Steelmaking ====
+
+The pig iron produced by the blast furnace process contains up to 4–5% carbon (by mass), with small amounts of other impurities like sulfur, magnesium, phosphorus, and manganese. This high level of carbon makes it relatively weak and brittle. Reducing the amount of carbon to 0.002–2.1% produces steel, which may be up to 1000 times harder than pure iron. A great variety of steel articles can then be made by cold working, hot rolling, forging, machining, etc. Removing the impurities from pig iron, but leaving 2–4% carbon, results in cast iron, which is cast by foundries into articles such as stoves, pipes, radiators, lamp-posts, and rails.Steel products often undergo various heat treatments after they are forged to shape. Annealing consists of heating them to 700–800 °C for several hours and then gradual cooling. It makes the steel softer and more workable.
+
+
+=== Direct iron reduction ===
+Owing to environmental concerns, alternative methods of processing iron have been developed. "Direct iron reduction" reduces iron ore to a ferrous lump called "sponge" iron or "direct" iron that is suitable for steelmaking. Two main reactions comprise the direct reduction process:
+Natural gas is partially oxidized (with heat and a catalyst):
+
+  
+    
+      
+        
+          2
+          
+          
+            CH
+            
+              4
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          CO
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 CH4 + O2 -> 2 CO + 4 H2}}}
+  Iron ore is then treated with these gases in a furnace, producing solid sponge iron:
+
+  
+    
+      
+        
+          
+            Fe
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          CO
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          Fe
+          +
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {Fe2O3 + CO + 2 H2 -> 2 Fe + CO2 + 2 H2O}}}
+  Silica is removed by adding a limestone flux as described above.
+
+
+=== Thermite process ===
+
+Ignition of a mixture of aluminium powder and iron oxide yields metallic iron via the thermite reaction:
+
+  
+    
+      
+        
+          
+            Fe
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          2
+          
+          Al
+          ⟶
+          2
+          
+          Fe
+          +
+          
+            Al
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Fe2O3 + 2 Al -> 2 Fe + Al2O3}}}
+  Alternatively pig iron may be made into steel (with up to about 2% carbon) or wrought iron (commercially pure iron). Various processes have been used for this, including finery forges, puddling furnaces, Bessemer converters, open hearth furnaces, basic oxygen furnaces, and electric arc furnaces. In all cases, the objective is to oxidize some or all of the carbon, together with other impurities. On the other hand, other metals may be added to make alloy steels.
+
+
+== Applications ==
+
+
+=== As structural material ===
+Iron is the most widely used of all the metals, accounting for over 90% of worldwide metal production. Its low cost and high strength often make it the material of choice material to withstand stress or transmit forces, such as the construction of machinery and machine tools, rails, automobiles, ship hulls, concrete reinforcing bars, and the load-carrying framework of buildings. Since pure iron is quite soft, it is most commonly combined with alloying elements to make steel.
+
+
+==== Mechanical properties ====
+The mechanical properties of iron and its alloys are extremely relevant to their structural applications. Those properties can be evaluated in various ways, including the Brinell test, the Rockwell test and the Vickers hardness test.
+The properties of pure iron are often used to calibrate measurements or to compare tests. However, the mechanical properties of iron are significantly affected by the sample's purity: pure, single crystals of iron are actually softer than aluminium, and the purest industrially produced iron (99.99%) has a hardness of 20–30 Brinell. The pure iron (99.9%～99.999%), especially called electrolytic iron, is industrially produced by electrolytic refining.
+An increase in the carbon content will cause a significant increase in the hardness and tensile strength of iron. Maximum hardness of 65 Rc is achieved with a 0.6% carbon content, although the alloy has low tensile strength. Because of the softness of iron, it is much easier to work with than its heavier congeners ruthenium and osmium.
+
+
+==== Types of steels and alloys ====
+
+α-Iron is a fairly soft metal that can dissolve only a small concentration of carbon (no more than 0.021% by mass at 910 °C). Austenite (γ-iron) is similarly soft and metallic but can dissolve considerably more carbon (as much as 2.04% by mass at 1146 °C). This form of iron is used in the type of stainless steel used for making cutlery, and hospital and food-service equipment.Commercially available iron is classified based on purity and the abundance of additives. Pig iron has 3.5–4.5% carbon and contains varying amounts of contaminants such as sulfur, silicon and phosphorus. Pig iron is not a saleable product, but rather an intermediate step in the production of cast iron and steel. The reduction of contaminants in pig iron that negatively affect material properties, such as sulfur and phosphorus, yields cast iron containing 2–4% carbon, 1–6% silicon, and small amounts of manganese. Pig iron has a melting point in the range of 1420–1470 K, which is lower than either of its two main components, and makes it the first product to be melted when carbon and iron are heated together. Its mechanical properties vary greatly and depend on the form the carbon takes in the alloy."White" cast irons contain their carbon in the form of cementite, or iron carbide (Fe3C). This hard, brittle compound dominates the mechanical properties of white cast irons, rendering them hard, but unresistant to shock. The broken surface of a white cast iron is full of fine facets of the broken iron carbide, a very pale, silvery, shiny material, hence the appellation. Cooling a mixture of iron with 0.8% carbon slowly below 723 °C to room temperature results in separate, alternating layers of cementite and α-iron, which is soft and malleable and is called pearlite for its appearance. Rapid cooling, on the other hand, does not allow time for this separation and creates hard and brittle martensite. The steel can then be tempered by reheating to a temperature in between, changing the proportions of pearlite and martensite. The end product below 0.8% carbon content is a pearlite-αFe mixture, and that above 0.8% carbon content is a pearlite-cementite mixture.In gray iron the carbon exists as separate, fine flakes of graphite, and also renders the material brittle due to the sharp edged flakes of graphite that produce stress concentration sites within the material. A newer variant of gray iron, referred to as ductile iron, is specially treated with trace amounts of magnesium to alter the shape of graphite to spheroids, or nodules, reducing the stress concentrations and vastly increasing the toughness and strength of the material.Wrought iron contains less than 0.25% carbon but large amounts of slag that give it a fibrous characteristic. It is a tough, malleable product, but not as fusible as pig iron. If honed to an edge, it loses it quickly. Wrought iron is characterized by the presence of fine fibers of slag entrapped within the metal. Wrought iron is more corrosion resistant than steel. It has been almost completely replaced by mild steel for traditional "wrought iron" products and blacksmithing.
+Mild steel corrodes more readily than wrought iron, but is cheaper and more widely available. Carbon steel contains 2.0% carbon or less, with small amounts of manganese, sulfur, phosphorus, and silicon. Alloy steels contain varying amounts of carbon as well as other metals, such as chromium, vanadium, molybdenum, nickel, tungsten, etc. Their alloy content raises their cost, and so they are usually only employed for specialist uses. One common alloy steel, though, is stainless steel. Recent developments in ferrous metallurgy have produced a growing range of microalloyed steels, also termed 'HSLA' or high-strength, low alloy steels, containing tiny additions to produce high strengths and often spectacular toughness at minimal cost.
+
+Alloys with high purity elemental makeups (such as alloys of electrolytic iron) have specifically enhanced properties such as ductility, tensile strength, toughness, fatigue strength, heat resistance, and corrosion resistance.
+Apart from traditional applications, iron is also used for protection from ionizing radiation. Although it is lighter than another traditional protection material, lead, it is much stronger mechanically. The attenuation of radiation as a function of energy is shown in the graph.The main disadvantage of iron and steel is that pure iron, and most of its alloys, suffer badly from rust if not protected in some way, a cost amounting to over 1% of the world's economy. Painting, galvanization, passivation, plastic coating and bluing are all used to protect iron from rust by excluding water and oxygen or by cathodic protection. The mechanism of the rusting of iron is as follows:
+Cathode: 3 O2 + 6 H2O + 12 e− → 12 OH−
+Anode: 4 Fe → 4 Fe2+ + 8 e−; 4 Fe2+ → 4 Fe3+ + 4 e−
+Overall: 4 Fe + 3 O2 + 6 H2O → 4 Fe3+ + 12 OH− → 4 Fe(OH)3 or 4 FeO(OH) + 4 H2OThe electrolyte is usually iron(II) sulfate in urban areas (formed when atmospheric sulfur dioxide attacks iron), and salt particles in the atmosphere in seaside areas.
+
+
+=== Iron compounds ===
+Although the dominant use of iron is in metallurgy, iron compounds are also pervasive in industry. Iron catalysts are traditionally used in the Haber–Bosch process for the production of ammonia and the Fischer–Tropsch process for conversion of carbon monoxide to hydrocarbons for fuels and lubricants. Powdered iron in an acidic solvent was used in the Bechamp reduction the reduction of nitrobenzene to aniline. Iron based catalysts play a crucial role in converting biobased raw materials into valuable bulk- and fine chemicals, in fuel cells as well as in removal of hazardous chemicals.Iron(III) oxide mixed with aluminium powder can be ignited to create a thermite reaction, used in welding large iron parts (like rails) and purifying ores. Iron(III) oxide and oxyhydroxide are used as reddish and ocher pigments.
+Iron(III) chloride finds use in water purification and sewage treatment, in the dyeing of cloth, as a coloring agent in paints, as an additive in animal feed, and as an etchant for copper in the manufacture of printed circuit boards. It can also be dissolved in alcohol to form tincture of iron, which is used as a medicine to stop bleeding in canaries.Iron(II) sulfate is used as a precursor to other iron compounds. It is also used to reduce chromate in cement. It is used to fortify foods and treat iron deficiency anemia. Iron(III) sulfate is used in settling minute sewage particles in tank water. Iron(II) chloride is used as a reducing flocculating agent, in the formation of iron complexes and magnetic iron oxides, and as a reducing agent in organic synthesis.
+
+
+== Biological and pathological role ==
+
+Iron is required for life. The iron–sulfur clusters are pervasive and include nitrogenase, the enzymes responsible for biological nitrogen fixation. Iron-containing proteins participate in transport, storage and used of oxygen. Iron proteins are involved in electron transfer.
+
+Examples of iron-containing proteins in higher organisms include hemoglobin, cytochrome (see high-valent iron), and catalase. The average adult human contains about 0.005% body weight of iron, or about four grams, of which three quarters is in hemoglobin – a level that remains constant despite only about one milligram of iron being absorbed each day, because the human body recycles its hemoglobin for the iron content.Microbial growth may be assisted by oxidation of iron(II) or by reduction of iron (III).
+
+
+=== Biochemistry ===
+Iron acquisition poses a problem for aerobic organisms because ferric iron is poorly soluble near neutral pH. Thus, these organisms have developed means to absorb iron as complexes, sometimes taking up ferrous iron before oxidising it back to ferric iron. In particular, bacteria have evolved very high-affinity sequestering agents called siderophores.After uptake in human cells, iron storage is precisely regulated. A major component of this regulation is the protein transferrin, which binds iron ions absorbed from the duodenum and carries it in the blood to cells. Transferrin contains Fe3+ in the middle of a distorted octahedron, bonded to one nitrogen, three oxygens and a chelating carbonate anion that traps the Fe3+ ion: it has such a high stability constant that it is very effective at taking up Fe3+ ions even from the most stable complexes. At the bone marrow, transferrin is reduced from Fe3+ and Fe2+ and stored as ferritin to be incorporated into hemoglobin.The most commonly known and studied bioinorganic iron compounds (biological iron molecules) are the heme proteins: examples are hemoglobin, myoglobin, and cytochrome P450. These compounds participate in transporting gases, building enzymes, and transferring electrons. Metalloproteins are a group of proteins with metal ion cofactors. Some examples of iron metalloproteins are ferritin and rubredoxin. Many enzymes vital to life contain iron, such as catalase, lipoxygenases, and IRE-BP.Hemoglobin is an oxygen carrier that occurs in red blood cells and contributes their color, transporting oxygen in the arteries from the lungs to the muscles where it is transferred to myoglobin, which stores it until it is needed for the metabolic oxidation of glucose, generating energy. Here the hemoglobin binds to carbon dioxide, produced when glucose is oxidized, which is transported through the veins by hemoglobin (predominantly as bicarbonate anions) back to the lungs where it is exhaled. In hemoglobin, the iron is in one of four heme groups and has six possible coordination sites; four are occupied by nitrogen atoms in a porphyrin ring, the fifth by an imidazole nitrogen in a histidine residue of one of the protein chains attached to the heme group, and the sixth is reserved for the oxygen molecule it can reversibly bind to. When hemoglobin is not attached to oxygen (and is then called deoxyhemoglobin), the Fe2+ ion at the center of the heme group (in the hydrophobic protein interior) is in a high-spin configuration. It is thus too large to fit inside the porphyrin ring, which bends instead into a dome with the Fe2+ ion about 55 picometers above it. In this configuration, the sixth coordination site reserved for the oxygen is blocked by another histidine residue.When deoxyhemoglobin picks up an oxygen molecule, this histidine residue moves away and returns once the oxygen is securely attached to form a hydrogen bond with it. This results in the Fe2+ ion switching to a low-spin configuration, resulting in a 20% decrease in ionic radius so that now it can fit into the porphyrin ring, which becomes planar. (Additionally, this hydrogen bonding results in the tilting of the oxygen molecule, resulting in a Fe–O–O bond angle of around 120° that avoids the formation of Fe–O–Fe or Fe–O2–Fe bridges that would lead to electron transfer, the oxidation of Fe2+ to Fe3+, and the destruction of hemoglobin.) This results in a movement of all the protein chains that leads to the other subunits of hemoglobin changing shape to a form with larger oxygen affinity. Thus, when deoxyhemoglobin takes up oxygen, its affinity for more oxygen increases, and vice versa. Myoglobin, on the other hand, contains only one heme group and hence this cooperative effect cannot occur. Thus, while hemoglobin is almost saturated with oxygen in the high partial pressures of oxygen found in the lungs, its affinity for oxygen is much lower than that of myoglobin, which oxygenates even at low partial pressures of oxygen found in muscle tissue. As described by the Bohr effect (named after Christian Bohr, the father of Niels Bohr), the oxygen affinity of hemoglobin diminishes in the presence of carbon dioxide.
+
+Carbon monoxide and phosphorus trifluoride are poisonous to humans because they bind to hemoglobin similarly to oxygen, but with much more strength, so that oxygen can no longer be transported throughout the body. Hemoglobin bound to carbon monoxide is known as carboxyhemoglobin. This effect also plays a minor role in the toxicity of cyanide, but there the major effect is by far its interference with the proper functioning of the electron transport protein cytochrome a. The cytochrome proteins also involve heme groups and are involved in the metabolic oxidation of glucose by oxygen. The sixth coordination site is then occupied by either another imidazole nitrogen or a methionine sulfur, so that these proteins are largely inert to oxygen – with the exception of cytochrome a, which bonds directly to oxygen and thus is very easily poisoned by cyanide. Here, the electron transfer takes place as the iron remains in low spin but changes between the +2 and +3 oxidation states. Since the reduction potential of each step is slightly greater than the previous one, the energy is released step-by-step and can thus be stored in adenosine triphosphate. Cytochrome a is slightly distinct, as it occurs at the mitochondrial membrane, binds directly to oxygen, and transports protons as well as electrons, as follows:
+4 Cytc2+ + O2 + 8H+inside → 4 Cytc3+ + 2 H2O + 4H+outsideAlthough the heme proteins are the most important class of iron-containing proteins, the iron–sulfur proteins are also very important, being involved in electron transfer, which is possible since iron can exist stably in either the +2 or +3 oxidation states. These have one, two, four, or eight iron atoms that are each approximately tetrahedrally coordinated to four sulfur atoms; because of this tetrahedral coordination, they always have high-spin iron. The simplest of such compounds is rubredoxin, which has only one iron atom coordinated to four sulfur atoms from cysteine residues in the surrounding peptide chains. Another important class of iron–sulfur proteins is the ferredoxins, which have multiple iron atoms. Transferrin does not belong to either of these classes.The ability of sea mussels to maintain their grip on rocks in the ocean is facilitated by their use of organometallic iron-based bonds in their protein-rich cuticles. Based on synthetic replicas, the presence of iron in these structures increased elastic modulus 770 times, tensile strength 58 times, and toughness 92 times. The amount of stress required to permanently damage them increased 76 times.
+
+
+=== Nutrition ===
+
+
+==== Diet ====
+Iron is pervasive, but particularly rich sources of dietary iron include red meat, oysters, lentils, beans, poultry, fish, leaf vegetables, watercress, tofu, chickpeas, black-eyed peas, and blackstrap molasses. Bread and breakfast cereals are sometimes specifically fortified with iron.Iron provided by dietary supplements is often found as iron(II) fumarate, although iron(II) sulfate is cheaper and is absorbed equally well. Elemental iron, or reduced iron, despite being absorbed at only one-third to two-thirds the efficiency (relative to iron sulfate), is often added to foods such as breakfast cereals or enriched wheat flour. Iron is most available to the body when chelated to amino acids and is also available for use as a common iron supplement. Glycine, the least expensive amino acid, is most often used to produce iron glycinate supplements.
+
+
+==== Dietary recommendations ====
+The U.S. Institute of Medicine (IOM) updated Estimated Average Requirements (EARs) and Recommended Dietary Allowances (RDAs) for iron in 2001. The current EAR for iron for women ages 14–18 is 7.9 mg/day, 8.1 for ages 19–50 and 5.0 thereafter (post menopause). For men the EAR is 6.0 mg/day for ages 19 and up. The RDA is 15.0 mg/day for women ages 15–18, 18.0 for 19–50 and 8.0 thereafter. For men, 8.0 mg/day for ages 19 and up. RDAs are higher than EARs so as to identify amounts that will cover people with higher than average requirements. RDA for pregnancy is 27 mg/day and, for lactation, 9 mg/day. For children ages 1–3 years 7 mg/day, 10 for ages 4–8 and 8 for ages 9–13. As for safety, the IOM also sets Tolerable upper intake levels (ULs) for vitamins and minerals when evidence is sufficient. In the case of iron the UL is set at 45 mg/day. Collectively the EARs, RDAs and ULs are referred to as Dietary Reference Intakes.The European Food Safety Authority (EFSA) refers to the collective set of information as Dietary Reference Values, with Population Reference Intake (PRI) instead of RDA, and Average Requirement instead of EAR. AI and UL defined the same as in United States. For women the PRI is 13 mg/day ages 15–17 years, 16 mg/day for women ages 18 and up who are premenopausal and 11 mg/day postmenopausal. For pregnancy and lactation, 16 mg/day. For men the PRI is 11 mg/day ages 15 and older. For children ages 1 to 14 the PRI increases from 7 to 11 mg/day. The PRIs are higher than the U.S. RDAs, with the exception of pregnancy. The EFSA reviewed the same safety question did not establish a UL.Infants may require iron supplements if they are bottle-fed cow's milk. Frequent blood donors are at risk of low iron levels and are often advised to supplement their iron intake.For U.S. food and dietary supplement labeling purposes the amount in a serving is expressed as a percent of Daily Value (%DV). For iron labeling purposes 100% of the Daily Value was 18 mg, and as of May 27, 2016 remained unchanged at 18 mg. A table of the old and new adult daily values is provided at Reference Daily Intake.
+
+
+=== Deficiency ===
+
+Iron deficiency is the most common nutritional deficiency in the world. When loss of iron is not adequately compensated by adequate dietary iron intake, a state of latent iron deficiency occurs, which over time leads to iron-deficiency anemia if left untreated, which is characterised by an insufficient number of red blood cells and an insufficient amount of hemoglobin. Children, pre-menopausal women (women of child-bearing age), and people with poor diet are most susceptible to the disease. Most cases of iron-deficiency anemia are mild, but if not treated can cause problems like fast or irregular heartbeat, complications during pregnancy, and delayed growth in infants and children.
+
+
+=== Excess ===
+
+Iron uptake is tightly regulated by the human body, which has no regulated physiological means of excreting iron. Only small amounts of iron are lost daily due to mucosal and skin epithelial cell sloughing, so control of iron levels is primarily accomplished by regulating uptake. Regulation of iron uptake is impaired in some people as a result of a genetic defect that maps to the HLA-H gene region on chromosome 6 and leads to abnormally low levels of hepcidin, a key regulator of the entry of iron into the circulatory system in mammals. In these people, excessive iron intake can result in iron overload disorders, known medically as hemochromatosis. Many people have an undiagnosed genetic susceptibility to iron overload, and are not aware of a family history of the problem. For this reason, people should not take iron supplements unless they suffer from iron deficiency and have consulted a doctor. Hemochromatosis is estimated to be the cause of 0.3 to 0.8% of all metabolic diseases of Caucasians.Overdoses of ingested iron can cause excessive levels of free iron in the blood. High blood levels of free ferrous iron react with peroxides to produce highly reactive free radicals that can damage DNA, proteins, lipids, and other cellular components. Iron toxicity occurs when the cell contains free iron, which generally occurs when iron levels exceed the availability of transferrin to bind the iron. Damage to the cells of the gastrointestinal tract can also prevent them from regulating iron absorption, leading to further increases in blood levels. Iron typically damages cells in the heart, liver and elsewhere, causing adverse effects that include coma, metabolic acidosis, shock, liver failure, coagulopathy, long-term organ damage, and even death. Humans experience iron toxicity when the iron exceeds 20 milligrams for every kilogram of body mass; 60 milligrams per kilogram is considered a lethal dose. Overconsumption of iron, often the result of children eating large quantities of ferrous sulfate tablets intended for adult consumption, is one of the most common toxicological causes of death in children under six. The Dietary Reference Intake (DRI) sets the Tolerable Upper Intake Level (UL) for adults at 45 mg/day. For children under fourteen years old the UL is 40 mg/day.The medical management of iron toxicity is complicated, and can include use of a specific chelating agent called deferoxamine to bind and expel excess iron from the body.
+
+
+=== ADHD ===
+Some research has suggested that low thalamic iron levels may play a role in the pathophysiology of ADHD. Some researchers have found that iron supplementation can be effective especially in the inattentive subtype of the disorder. One study also showed that iron may be able to decrease the risk of cardiovascular events during treatment with ADHD drugs.Some researchers in the 2000s suggested a link between low levels of iron in the blood and ADHD. A 2012 study found no such correlation.
+
+
+=== Cancer ===
+The role of iron in cancer defense can be described as a "double-edged sword" because of its pervasive presence in non-pathological processes. People having chemotherapy may develop iron deficiency and anemia, for which intravenous iron therapy is used to restore iron levels. Iron overload, which may occur from high consumption of red meat, may initiate tumor growth and increase susceptibility to cancer onset, particularly for colorectal cancer.
+
+
+=== Marine systems ===
+Iron plays an essential role in marine systems and can act as a limiting nutrient for planktonic activity. Because of this, too much of a decrease in iron may lead to a decrease in growth rates in phytoplanktonic organisms such as diatoms. Iron can also be oxidized by marine microbes under conditions that are high in iron and low in oxygen.Iron can enter marine systems through adjoining rivers and directly from the atmosphere. Once iron enters the ocean, it can be distributed throughout the water column through ocean mixing and through recycling on the cellular level. In the arctic, sea ice plays a major role in the store and distribution of iron in the ocean, depleting oceanic iron as it freezes in the winter and releasing it back into the water when thawing occurs in the summer. The iron cycle can fluctuate the forms of iron from aqueous to particle forms altering the availability of iron to primary producers. Increased light and warmth increases the amount of iron that is in forms that are usable by primary producers.
+
+
+== See also ==
+
+El Mutún in Bolivia, where 10% of the world's accessible iron ore is located
+Iron and steel industry
+Iron cycle
+Iron nanoparticle
+Iron–platinum nanoparticle
+Iron fertilization – proposed fertilization of oceans to stimulate phytoplankton growth
+Iron-oxidizing bacteria
+List of countries by iron production
+Pelletising – process of creation of iron ore pellets
+Rustproof iron
+Steel
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+It's Elemental – Iron
+Iron at The Periodic Table of Videos (University of Nottingham)
+Metallurgy for the non-Metallurgist
+Iron by J.B. Calvert
+

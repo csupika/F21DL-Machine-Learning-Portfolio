@@ -1,0 +1,341 @@
+####### TITLE #######
+
+Motion
+
+####### LINKS #######
+
+['2019 redefinition of the SI base units', 'Absement', 'Absolute location', 'Absolute space and time', 'Absolute zero', 'Acceleration', 'Adenosine triphosphate', 'Albert Einstein', 'Anatomy', 'Angular momentum', 'Animal locomotion', 'ArXiv (identifier)', 'Astronomical objects', 'Atom', 'Atomic nucleus', 'Atomic orbital model', 'Axis of rotation', 'Bibcode (identifier)', 'Biological system', 'Black hole', 'Blood', 'Bohr model', 'Brownian motion', 'Car', 'Causality (physics)', 'Cell (biology)', 'Charles Tsun-Chu Liu', 'Circular motion', 'Classical mechanics', 'Cocos Plate', 'Colorado State University', 'Continent', 'Convection current', 'Cosmic microwave background', 'Curvature', 'Curvilinear motion', 'Cytoplasm', 'Cytoplasmic streaming', 'Day', 'Density', 'Derivative', 'Differential geometry', 'Digestive tract', 'Displacement (geometry)', 'Displacement (vector)', 'Distance', 'Doi (identifier)', 'Dynamics (mechanics)', 'Edwin Hubble', 'Electromagnetism', 'Electron', 'Electron cloud', 'Electron velocity', 'Electrons', 'Elementary particle', 'Emily Conover', 'Engineering', 'Eurasian Plate', 'Ferris wheel', 'Field (physics)', 'Fluids', 'Food', 'Forces', 'Fourth, fifth, and sixth derivatives of position', 'Frame of reference', 'Fundamental motions', 'Galactic Center', 'Galaxy', 'General relativity', 'Gravity', 'Heart', 'Helium', "Hubble's law", 'Human', 'Human body', 'Human skin', 'Hydrolysis', 'Hyperbolic angle', 'Hyperbolic tangent function', 'ISBN (identifier)', 'ISSN (identifier)', 'Inertia', 'Inertial reference frame', 'Integral', 'Invariant (physics)', 'Isaac Newton', 'Jerk (physics)', 'Kinematic chain', 'Kinematics', 'Kinetic energy', 'Laws of thermodynamics', 'Light echo', 'Line (geometry)', 'Linear motion', 'Lipids', 'Lorentz transformation', 'Lymphatic system', 'Machine (mechanical)', 'Machinery', 'Macroscopic', 'Mantle (geology)', 'Mass', 'Massless particle', 'Mathematical Principles of Natural Philosophy', 'Matter', 'Measurement', 'Metric expansion of space', 'Microswimmer', 'Microtubules', 'Milky Way Galaxy', 'Molecular motors', 'Molecule', 'Motion (disambiguation)', 'Motion (geometry)', 'Motion capture', 'Motion perception', 'Motor proteins', 'NASA', 'NASA JPL', 'National Academy Press', 'National Institute of Standards and Technology', 'Nature (journal)', 'Net force', 'Neutron', "Newton's laws of motion", 'Night', 'Olfactory receptor', 'Orbit', 'Orbital revolution', 'Oscillation', 'Oscillatory', 'Outer space', 'PMC (identifier)', 'PMID (identifier)', 'Pacific Plate', 'Pendulum', 'Peristalsis', 'Phenomenon', 'Philosophiæ Naturalis Principia Mathematica', 'Physical body', 'Physical constant', 'Physical systems', 'Physics', 'Planet', 'Planetary motion', 'Planets', 'Plate tectonic', 'Position (geometry)', 'Power (physics)', 'Prediction', 'Projectile', 'Projectile motion', 'Projectiles', 'Proper motion', 'Protein structure', 'Proton', 'Protons', 'Quantum', 'Quantum mechanic', 'Quantum mechanics', 'Quark', 'Radiation', 'Rapidity', 'Reciprocating motion', 'Rectilinear motion', 'Relative motion', 'Relativistic jet', 'Rolling', 'Rotation', 'Rotational motion', 'Rubber band', 'S2CID (identifier)', 'Science', 'Science News', 'Scientific law', 'Sense', 'Simple harmonic motion', 'Simple machines', 'Small intestine', 'Smooth muscle', 'Solar System', 'Space', 'Spacecraft', 'Spacetime', 'Special relativity', 'Speed', 'Speed of light', 'Star', 'Subatomic particle', 'Sun', 'Superconductivity', 'Superfluidity', 'Technology', 'Temperature', 'Texas A&M University', 'The Physics Teacher', 'Time-invariant', 'Trajectory', 'Translatory motion', 'Uncertainty principle', 'Universe', 'University of Oregon', 'Vector sum', 'Velocity', 'Venae cavae', 'Vesicle (biology)', 'Vibration', 'Viscera', 'W. K. Clifford', 'Wave', 'Wave–particle duality', 'Wayback Machine', 'Wheelie', 'Year']
+
+####### CATEGORIES #######
+
+['All articles with failed verification', 'Articles with BNF identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with failed verification from August 2016', 'Articles with short description', 'Commons category link is on Wikidata', 'Mechanics', 'Motion (physics)', 'Physical phenomena', 'Short description is different from Wikidata', 'Webarchive template wayback links']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/d/d0/Motor_cycle_stunt2_amk.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg']
+
+####### REFERENCES #######
+
+['http://www.colutron.com/download_files/chapt9.pdf', 'http://hypertextbook.com/facts/1997/ZhenHuang.shtml', 'http://www.physlink.com/education/askexperts/ae118.cfm', 'http://www.colorado.edu/UCB/AcademicAffairs/ArtsSciences/physics/PhysicsInitiative/Physics2000/bec/temperature.html', 'http://www.vivo.colostate.edu/hbooks/pathphys/digestion/basics/transit.html', 'http://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb2/part1/kinesin.htm', 'http://www-odp.tamu.edu/publications/170_SR/chap_07/chap_07.htm', 'http://zebu.uoregon.edu/~imamura/123/lecture-2/mass.html', 'http://www.newton.dep.anl.gov/newton/askasci/1993/physics/PHY112.HTM', 'http://www.lbl.gov/abc/wallchart/teachersguide/pdf/Chap02.pdf', 'http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/970401c.html', 'http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html', 'http://sideshow.jpl.nasa.gov/mbh/series.html', 'http://pubmed.ncbi.nlm.nih.gov/12660776', 'http://pubmed.ncbi.nlm.nih.gov/16577160', 'http://pubmed.ncbi.nlm.nih.gov/5676450', 'http://pubmed.ncbi.nlm.nih.gov/8769772', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC522427', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007545931005171', 'http://scitation.aip.org/content/aapt/journal/tpt/55/1/10.1119/1.4972491', 'http://arxiv.org/abs/1804.05122', 'http://arxiv.org/abs/astro-ph/0303513', 'http://arxiv.org/abs/astro-ph/9312056', 'http://www.bipm.org/en/si/new_si/explicit_constant.html', 'http://doi.org/10.1038%2Fnature01508', 'http://doi.org/10.1073%2Fpnas.15.3.168', 'http://doi.org/10.1086%2F173453', 'http://doi.org/10.1119%2F1.4972491', 'http://doi.org/10.1152%2Fajpheart.1996.270.1.H358', 'http://doi.org/10.1161%2F01.RES.23.3.349', 'http://doi.org/10.3847%2F1538-4357%2Faabf39', 'http://en.wiktionary.org/wiki/massive#:~:text=(physics,%20of%20a%20particle)%20Possessing%20mass.', 'http://www.worldcat.org/issn/0031-921X', 'https://www.britannica.com/eb/article-9028448/cytoplasmic-streaming', 'https://www.discovermagazine.com/the-sciences/how-quantum-mechanics-lets-us-see-smell-and-touch', 'https://books.google.com/books?id=Tm0FAAAAQAAJ&pg=PA19#v=onepage&q=&f=false', 'https://www.thoughtco.com/the-heisenberg-uncertainty-principle-2699357', 'https://feynmanlectures.caltech.edu/I_08.html', 'https://feynmanlectures.caltech.edu/I_38.html', 'https://ui.adsabs.harvard.edu/abs/1929PNAS...15..168H', 'https://ui.adsabs.harvard.edu/abs/1993ApJ...419....1K', 'https://ui.adsabs.harvard.edu/abs/2002APS..SES.EA002H', 'https://ui.adsabs.harvard.edu/abs/2003Natur.422..405B', 'https://ui.adsabs.harvard.edu/abs/2017PhTea..55...16K', 'https://ui.adsabs.harvard.edu/abs/2018ApJ...860....9M', 'https://catalogue.bnf.fr/ark:/12148/cb119798925', 'https://data.bnf.fr/ark:/12148/cb119798925', 'https://id.loc.gov/authorities/subjects/sh85087557', 'https://www.nist.gov/si-redefinition', 'https://archive.org/details/oneuniverse00neil', 'https://web.archive.org/web/20070301055338/http://zebu.uoregon.edu/~imamura/123/lecture-2/mass.html', 'https://web.archive.org/web/20071110174808/http://www.colorado.edu/UCB/AcademicAffairs/ArtsSciences/physics/PhysicsInitiative/Physics2000/bec/temperature.html', 'https://web.archive.org/web/20071130175151/http://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb2/part1/kinesin.htm', 'https://web.archive.org/web/20080611094209/http://www.britannica.com/eb/article-9028448/cytoplasmic-streaming', 'https://web.archive.org/web/20090304064927/http://www.lbl.gov/abc/wallchart/teachersguide/pdf/Chap02.pdf', 'https://web.archive.org/web/20090311000016/http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/970401c.html', 'https://web.archive.org/web/20100608223005/http://www.newton.dep.anl.gov/newton/askasci/1993/physics/PHY112.HTM', 'https://web.archive.org/web/20110721050552/http://sideshow.jpl.nasa.gov/mbh/series.html', 'https://web.archive.org/web/20110808174226/http://www-odp.tamu.edu/publications/170_SR/chap_07/chap_07.htm', 'https://web.archive.org/web/20130508021904/http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html', 'https://web.archive.org/web/20131103182340/http://physlink.com/Education/AskExperts/ae118.cfm', 'https://web.archive.org/web/20140811195806/http://www.bipm.org/en/si/new_si/explicit_constant.html', 'https://web.archive.org/web/20150403015943/http://www.vivo.colostate.edu/hbooks/pathphys/digestion/basics/transit.html', 'https://web.archive.org/web/20150928021402/https://books.google.com/books?id=Tm0FAAAAQAAJ&pg=PA19#v=onepage&q=&f=false', 'https://web.archive.org/web/20160304090354/http://www.colutron.com/download_files/chapt9.pdf', 'https://web.archive.org/web/20200619200724/https://hypertextbook.com/facts/1997/ZhenHuang.shtml', 'https://web.archive.org/web/20210126120506/https://www.discovermagazine.com/the-sciences/how-quantum-mechanics-lets-us-see-smell-and-touch', 'https://web.archive.org/web/20220510035843/https://www.thoughtco.com/the-heisenberg-uncertainty-principle-2699357', 'https://web.archive.org/web/20220814175040/https://www.feynmanlectures.caltech.edu/I_38.html', 'https://www.sciencenews.org/article/units-measure-are-getting-fundamental-upgrade', 'https://api.semanticscholar.org/CorpusID:117581000', 'https://api.semanticscholar.org/CorpusID:209835274', 'https://api.semanticscholar.org/CorpusID:67822924', 'https://api.semanticscholar.org/CorpusID:90973', 'https://www.wikidata.org/wiki/Q79782#identifiers']
+
+####### SUMMARY #######
+
+In physics, motion is the phenomenon in which an object changes its position with respect to time. Motion is mathematically described in terms of displacement, distance, velocity, acceleration, speed and frame of reference to an observer and measuring the change in position of the body relative to that frame with change in time. The branch of physics describing the motion of objects without reference to its cause is called kinematics, while the branch studying forces and their effect on motion is called dynamics.
+If an object is not changing relative to a given frame of reference, the object is said to be at rest, motionless, immobile, stationary, or to have a constant or time-invariant position with reference to its surroundings. Modern physics holds that, as there is no absolute frame of reference, Newton's concept of absolute motion cannot be determined. As such, everything in the universe can be considered to be in motion.: 20–21 Motion applies to various physical systems: objects, bodies, matter particles, matter fields, radiation, radiation fields, radiation particles, curvature, and space-time. One can also speak on the motion of images, shapes, and boundaries. In general, the term motion signifies a continuous change in the positions or configuration of a physical system in space. For example, one can talk about the motion of a wave or the motion of a quantum particle, where the configuration consists of probabilities of the wave or particle occupying specific positions.
+
+####### CONTENT #######
+
+In physics, motion is the phenomenon in which an object changes its position with respect to time. Motion is mathematically described in terms of displacement, distance, velocity, acceleration, speed and frame of reference to an observer and measuring the change in position of the body relative to that frame with change in time. The branch of physics describing the motion of objects without reference to its cause is called kinematics, while the branch studying forces and their effect on motion is called dynamics.
+If an object is not changing relative to a given frame of reference, the object is said to be at rest, motionless, immobile, stationary, or to have a constant or time-invariant position with reference to its surroundings. Modern physics holds that, as there is no absolute frame of reference, Newton's concept of absolute motion cannot be determined. As such, everything in the universe can be considered to be in motion.: 20–21 Motion applies to various physical systems: objects, bodies, matter particles, matter fields, radiation, radiation fields, radiation particles, curvature, and space-time. One can also speak on the motion of images, shapes, and boundaries. In general, the term motion signifies a continuous change in the positions or configuration of a physical system in space. For example, one can talk about the motion of a wave or the motion of a quantum particle, where the configuration consists of probabilities of the wave or particle occupying specific positions.
+
+
+== Laws of motion ==
+In physics, the motion of massive bodies is described through two related sets of laws of mechanics. Classical mechanics for super atomic (larger than an atom) objects (such as cars, projectiles, planets, cells, and humans) and quantum mechanics for atomic and sub-atomic objects (such as helium, protons, and electrons). Historically, Newton and Euler formulated three laws of classical mechanics:
+
+
+=== Classical mechanics ===
+
+Classical mechanics is used for describing the motion of macroscopic objects moving at speeds significantly slower than the speed of light, from projectiles to parts of machinery, as well as astronomical objects, such as spacecraft, planets, stars, and galaxies. It produces very accurate results within these domains and is one of the oldest and largest scientific descriptions in science, engineering, and technology.
+Classical mechanics is fundamentally based on Newton's laws of motion. These laws describe the relationship between the forces acting on a body and the motion of that body. They were first compiled by Sir Isaac Newton in his work Philosophiæ Naturalis Principia Mathematica, which was first published on July 5, 1687. Newton's three laws are:
+
+A body at rest will remain at rest, and a body in motion will remain in motion unless it is acted upon by an external force. (This is known as the law of inertia.)
+Force (
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+  ) is equal to the change in momentum per change in time (
+  
+    
+      
+        
+          
+            
+              Δ
+              m
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\Delta m{\vec {v}}}{\Delta t}}}
+  ). For a constant mass, force equals mass times acceleration (
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        m
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}=m{\vec {a}}}
+   ).
+For every action, there is an equal and opposite reaction. (In other words, whenever one body exerts a force 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   onto a second body, (in some cases, which is standing still) the second body exerts the force 
+  
+    
+      
+        −
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle -{\vec {F}}}
+   back onto the first body. 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   and 
+  
+    
+      
+        −
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle -{\vec {F}}}
+   are equal in magnitude and opposite in direction. So, the body which exerts 
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   will be pushed backward.)Newton's three laws of motion were the first to accurately provide a mathematical model for understanding orbiting bodies in outer space. This explanation unified the motion of celestial bodies and the motion of objects on Earth.
+
+
+=== Relativistic mechanics ===
+Modern kinematics developed with study of electromagnetism and refers all velocities 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   to their ratio to speed of light 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  . Velocity is then interpreted as rapidity, the hyperbolic angle 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   for which the hyperbolic tangent function 
+  
+    
+      
+        tanh
+        ⁡
+        φ
+        =
+        v
+        ÷
+        c
+      
+    
+    {\displaystyle \tanh \varphi =v\div c}
+  . Acceleration, the change of velocity over time, then changes rapidity according to Lorentz transformations. This part of mechanics is special relativity. Efforts to incorporate gravity into relativistic mechanics were made by W. K. Clifford and Albert Einstein. The development used differential geometry to describe a curved universe with gravity; the study is called general relativity.
+
+
+=== Quantum mechanics ===
+Quantum mechanics is a set of principles describing physical reality at the atomic level of matter (molecules and atoms) and the subatomic particles (electrons, protons, neutrons, and even smaller elementary particles such as quarks). These descriptions include the simultaneous wave-like and particle-like behavior of both matter and radiation energy as described in the wave–particle duality.In classical mechanics, accurate measurements and predictions of the state of objects can be calculated, such as location and velocity. In quantum mechanics, due to the Heisenberg uncertainty principle, the complete state of a subatomic particle, such as its location and velocity, cannot be simultaneously determined.In addition to describing the motion of atomic level phenomena, quantum mechanics is useful in understanding some large-scale phenomena such as superfluidity, superconductivity, and biological systems, including the function of smell receptors and the structures of protein.
+
+
+== Orders of magnitude ==
+Humans, like all known things in the universe, are in constant motion;: 8–9  however, aside from obvious movements of the various external body parts and locomotion, humans are in motion in a variety of ways which are more difficult to perceive.  Many of these "imperceptible motions" are only perceivable with the help of special tools and careful observation. The larger scales of imperceptible motions are difficult for humans to perceive for two reasons: Newton's laws of motion (particularly the third) which prevents the feeling of motion on a mass to which the observer is connected, and the lack of an obvious frame of reference which would allow individuals to easily see that they are moving. The smaller scales of these motions are too small to be detected conventionally with human senses.
+
+
+=== Universe ===
+Spacetime (the fabric of the universe) is expanding, meaning everything in the universe is stretching, like a rubber band. This motion is the most obscure as it is not physical motion, but rather a change in the very nature of the universe. The primary source of verification of this expansion was provided by Edwin Hubble who demonstrated that all galaxies and distant astronomical objects were moving away from Earth, known as Hubble's law, predicted by a universal expansion.
+
+
+=== Galaxy ===
+The Milky Way Galaxy is moving through space and many astronomers believe the velocity of this motion to be approximately 600 kilometres per second (1,340,000 mph) relative to the observed locations of other nearby galaxies. Another reference frame is provided by the Cosmic microwave background. This frame of reference indicates that the Milky Way is moving at around 582 kilometres per second (1,300,000 mph).
+
+
+=== Sun and Solar System ===
+
+The Milky Way is rotating around its dense Galactic Center, thus the Sun is moving in a circle within the galaxy's gravity. Away from the central bulge, or outer rim, the typical stellar velocity is between 210 and 240 kilometres per second (470,000 and 540,000 mph). All planets and their moons move with the Sun. Thus, the Solar System is in motion.
+
+
+=== Earth ===
+The Earth is rotating or spinning around its axis. This is evidenced by day and night, at the equator the earth has an eastward velocity of 0.4651 kilometres per second (1,040 mph). The Earth is also orbiting around the Sun in an orbital revolution. A complete orbit around the sun takes one year, or about 365 days; it averages a speed of about 30 kilometres per second (67,000 mph).
+
+
+=== Continents ===
+The Theory of Plate tectonics tells us that the continents are drifting on convection currents within the mantle, causing them to move across the surface of the planet at the slow speed of approximately 2.54 centimetres (1 in) per year. However, the velocities of plates range widely. The fastest-moving plates are the oceanic plates, with the Cocos Plate advancing at a rate of 75 millimetres (3.0 in) per year and the Pacific Plate moving 52–69 millimetres (2.0–2.7 in) per year. At the other extreme, the slowest-moving plate is the Eurasian Plate, progressing at a typical rate of about 21 millimetres (0.83 in) per year.
+
+
+=== Internal body ===
+The human heart is constantly contracting to move blood throughout the body. Through larger veins and arteries in the body, blood has been found to travel at approximately 0.33 m/s. Though considerable variation exists, and peak flows in the venae cavae have been found between 0.1 and 0.45 metres per second (0.33 and 1.48 ft/s). additionally, the smooth muscles of hollow internal organs are moving. The most familiar would be the occurrence of peristalsis which is where digested food is forced throughout the digestive tract. Though different foods travel through the body at different rates, an average speed through the human small intestine is 3.48 kilometres per hour (2.16 mph). The human lymphatic system is also constantly causing movements of excess fluids, lipids, and immune system related products around the body. The lymph fluid has been found to move through a lymph capillary of the skin at approximately 0.0000097 m/s.
+
+
+=== Cells ===
+The cells of the human body have many structures and organelles which move throughout them. Cytoplasmic streaming is a way in which cells move molecular substances throughout the cytoplasm, various motor proteins work as molecular motors within a cell and move along the surface of various cellular substrates such as microtubules, and motor proteins are typically powered by the hydrolysis of adenosine triphosphate (ATP), and convert chemical energy into mechanical work. Vesicles propelled by motor proteins have been found to have a velocity of approximately 0.00000152 m/s.
+
+
+=== Particles ===
+According to the laws of thermodynamics, all particles of matter are in constant random motion as long as the temperature is above absolute zero. Thus the molecules and atoms which make up the human body are vibrating, colliding, and moving. This motion can be detected as temperature; higher temperatures, which represent greater kinetic energy in the particles, feel warm to humans who sense the thermal energy transferring from the object being touched to their nerves. Similarly, when lower temperature objects are touched, the senses perceive the transfer of heat away from the body as a feeling of cold.
+
+
+=== Subatomic particles ===
+Within the standard atomic orbital model, electrons exist in a region around the nucleus of each atom.  This region is called the electron cloud.  According to Bohr's model of the atom, electrons have a high velocity, and the larger the nucleus they are orbiting the faster they would need to move.  If electrons were to move about the electron cloud in strict paths the same way planets orbit the sun, then electrons would be required to do so at speeds which would far exceed the speed of light.  However, there is no reason that one must confine oneself to this strict conceptualization (that electrons move in paths the same way macroscopic objects do), rather one can conceptualize electrons to be 'particles' that capriciously exist within the bounds of the electron cloud. Inside the atomic nucleus, the protons and neutrons are also probably moving around due to the electrical repulsion of the protons and the presence of angular momentum of both particles.
+
+
+== Light ==
+
+Light moves at a speed of 299,792,458 m/s, or 299,792.458 kilometres per second (186,282.397 mi/s), in a vacuum. The speed of light in vacuum (or 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  ) is also the speed of all massless particles and associated fields in a vacuum, and it is the upper limit on the speed at which energy, matter, information or causation can travel. The speed of light in vacuum is thus the upper limit for speed for all physical systems.
+In addition, the speed of light is an invariant quantity: it has the same value, irrespective of the position or speed of the observer. This property makes the speed of light c a natural measurement unit for speed and a fundamental constant of nature.
+In 2011, the speed of light was redefined alongside all seven SI base units using what it calls "the explicit-constant formulation", where each "unit is defined indirectly by specifying explicitly an exact value for a well-recognized fundamental constant", as was done for the speed of light. A new, but completely equivalent, wording of the metre's definition was proposed: "The metre, symbol m, is the unit of length; its magnitude is set by fixing the numerical value of the speed of light in vacuum to be equal to exactly 299792458 when it is expressed in the SI unit m s−1."  This implicit change to the speed of light was one of the changes that was incorporated in the 2019 redefinition of the SI base units, also termed the New SI.
+
+
+=== Superluminal motion ===
+Some motion appears to an observer to exceed the speed of light. Bursts of energy moving out along the relativistic jets emitted from these objects can have a proper motion that appears greater than the speed of light. All of these sources are thought to contain a black hole, responsible for the ejection of mass at high velocities. Light echoes can also produce apparent superluminal motion. This occurs owing to how motion is often calculated at long distances; oftentimes calculations fail to account for the fact that the speed of light is finite. When measuring the movement of distant objects across the sky, there is a large time delay between what has been observed and what has occurred, due to the large distance the light from the distant object has to travel to reach us. The error in the above naive calculation comes from the fact that when an object has a component of velocity directed towards the Earth, as the object moves closer to the Earth that time delay becomes smaller. This means that the apparent speed as calculated above is greater than the actual speed. Correspondingly, if the object is moving away from the Earth, the above calculation underestimates the actual speed.
+
+
+== Types of motion ==
+Simple harmonic motion – motion in which the body oscillates in such a way that the restoring force acting on it is directly proportional to the body's displacement. Mathematically Force is directly proportional to the negative of displacement. Negative sign signifies the restoring nature of the force. (e.g., that of a pendulum).
+Linear motion – motion which follows a straight linear path, and whose displacement is exactly the same as its trajectory. [Also known as rectilinear motion]
+Reciprocal motion
+Brownian motion (i.e. the random movement of particles)
+Circular motion
+Rotatory motion – a motion about a fixed point. (e.g. Ferris wheel).
+Curvilinear motion – It is defined as the motion along a curved path that may be planar or in three dimensions.
+Rolling motion – (as of the wheel of a bicycle)
+Oscillatory – (swinging from side to side)
+Vibratory motion
+Combination (or simultaneous) motions – Combination of two or more above listed motions
+Projectile motion –  uniform horizontal motion + vertical accelerated motion
+
+
+== Fundamental motions ==
+Linear motion
+Circular motion
+Oscillation
+Wave
+Relative motion
+Fundamental motions
+
+
+== See also ==
+
+Kinematics – Branch of physics describing the motion of objects without considering forces
+Simple machines
+Kinematic chain – Mathematical model for a mechanical system
+Power – Rate at which energy is transferred, used, or transformed to do work at a given interval of time
+Machine
+Microswimmer
+Motion (geometry)
+Motion capture – Process of recording the movement of objects or people
+Displacement
+Translatory motion
+
+
+== References ==
+
+
+== External links ==
+
+Feynman's lecture on motion
+ Media related to Motion at Wikimedia Commons
+

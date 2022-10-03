@@ -1,0 +1,881 @@
+####### TITLE #######
+
+Colonialism
+
+####### LINKS #######
+
+['1837-38 smallpox epidemic', '1890s African rinderpest epizootic', '2009 Peruvian political crisis', 'A Short Account of the Destruction of the Indies', 'Abolitionism', 'Acadia', 'Acre (state)', 'Adam Smith', 'Aden Protectorate', 'Afghanistan', 'Africa', "African Commission on Human and Peoples' Rights", 'African independence movements', 'African trypanosomiasis', 'Aftermath of World War II', 'Age of Discovery', 'Age of Exploration', 'Aimé Césaire', 'Ainu people', 'Akrotiri and Dhekelia', 'Alaska', 'Alexander the Great', 'Algeria', 'Algerian War of Independence', 'Allies of World War I', 'Alta controversy', 'Altishahr', 'Amazon Watch', 'Amazon rubber boom', 'American Concession (Shanghai)', 'American Indian boarding schools', 'American Revolution', 'American Revolutionary War', 'American Samoa', 'American imperialism', 'Americas', 'Amsterdam Stock Exchange', 'Analysis of Western European colonialism and colonization', 'Ancestral domain', 'Ancient Egypt', 'Ancient Rome', 'Andres Resendez', 'Anglo-Burmese people', 'Anglo-Egyptian Sudan', 'Anglo-Indian', 'Anglo-Indians', 'Anglo-Zulu War', 'Anguilla', 'Annam (French protectorate)', 'Annobón', 'Anthropometry', 'Anti-imperialism', 'Antigua', 'Apartheid', 'Appeasement', 'Arab Empire', 'Aragonese conquest of Sardinia', 'Archipelago of San Andrés, Providencia and Santa Catalina', 'Arctic Council', 'Argentina', 'Argentine Antarctica', 'Arsenio Martínez Campos', 'Aruba', 'Ascension Island', 'Asia', 'Assembly of First Nations', 'Atlantic slave trade', 'Augustus', 'Australia', 'Australian Antarctic Territory', 'Austrian Netherlands', 'Austrian colonial policy', 'Austrian colonization of Nicobar Islands', 'Austro-Hungarian campaign in Bosnia and Herzegovina in 1878', 'Austro-Hungarian rule in Bosnia and Herzegovina', 'Autonomous okrugs of Russia', 'Azores', 'Aztec civilisation', 'BBC News', 'BRICS', 'Bahamas', 'Bakumatsu', 'Balleny Islands', 'Balmis expedition', 'Baltic Sea', 'Bantustan', 'Barbados', 'Barbarian', 'Barbuda', 'Bartolomé de las Casas', 'Basutoland', 'Battle of Isandlwana', 'Battle of Tétouan', 'Bechuanaland', 'Beijing Legation Quarter', 'Belgian Congo', 'Belgian colonial empire', 'Belgrade', 'Belize', 'Bengal', 'Bermuda', 'Bioko', 'Bismarck Archipelago', 'Blackbirding', 'Bob Satterfield (cartoonist)', 'Boer', 'Boer Republics', 'Boer Wars', 'Bolivia', 'Bonaire', 'Bonin Islands', 'Bosniaks', 'Botswana', 'Bouvet Island', 'Brazil', 'Brexit', 'British Afghanistan', 'British Borneo', 'British East Africa', 'British East India Company', 'British Empire', 'British Guiana', 'British Honduras', 'British Hong Kong', 'British India', 'British Leeward Islands', 'British Malaya', 'British Mauritius', 'British Solomon Islands', 'British Somaliland', 'British Togoland', 'British Virgin Islands', 'British Western Pacific Territories', 'British Windward Islands', 'British nationality law', 'Brunei', 'Bubonic plague', 'Bureau of Indian Affairs', 'Burgher people', 'Byzantine', 'Caldoche', 'California', 'Canaan', 'Canada', 'Canada (New France)', 'Canadian Indian residential school system', 'Canarian people', 'Canary Islands', 'Canton and Enderbury Islands', 'Cape Colony', 'Cape Juby', 'Cape Verde', 'Capital (economics)', 'Capital accumulation', 'Capitalism', 'Captaincy General of Chile', 'Captaincy General of Cuba', 'Captaincy General of Guatemala', 'Captaincy General of Puerto Rico', 'Captaincy General of Santo Domingo', 'Captaincy General of Venezuela', 'Captaincy General of Yucatán', 'Captaincy General of the Philippines', 'Carl Linnaeus', 'Caroline Islands', 'Carolyn Gallaher', 'Cartography', 'Casta', 'Central America', 'Central American Free Trade Agreement', 'Central Intelligence Agency', 'Ceuta', 'Ceylon', 'Chad', 'Chandernagor', 'Charles Baudelaire', 'Charles de Gaulle', 'Chartered company', 'Chechen–Russian conflict', 'Chiapas', 'Chiapas conflict', 'Chile', 'China', 'Chinese Empire', 'Chinese domination of Vietnam', 'Chinese imperialism', 'Cholera', 'Christian mission', 'Christianity and colonialism', 'Christmas Island', 'Christopher Columbus', 'Christopher Newport', 'Chronology of Western colonialism', 'Cinnamon', 'Cisplatina', 'Civilising mission', 'Civilizing mission', 'Classical liberals', 'Clipperton Island', 'Cloves', 'Cocos (Keeling) Islands', 'Cocos Islands', 'Cold War', 'Collective Security Treaty Organization', 'Collective security', 'Collectivity of Saint Martin', 'Collins English Dictionary', 'Colombia', 'Colonia (Roman)', 'Colonial Brazil', 'Colonial Empire', 'Colonial surplus', 'Colonial war', 'Colonialism and the Olympic Games', 'Coloniality of power', 'Colonies in antiquity', 'Colonisation', 'Colonisation of Africa', 'Colony', 'Colony of Natal', 'Columbian Exchange', 'Commonwealth of Nations', 'Community of Portuguese Language Countries', 'Comoros Islands', 'Comparative anatomy', 'Concessions and leases in international relations', 'Concessions in Tianjin', 'Condominium (international law)', 'Confederation of Indigenous Nationalities of Ecuador', 'Congress of Aboriginal Peoples', 'Conquest', 'Conquest of the Desert', 'Conquistadors', 'Conscription crisis of 1917', 'Constructivism (international relations)', 'Cook Islands', 'Coolie', 'Coordinator of Indigenous Organizations of the Amazon River Basin', 'Coral Sea Islands', 'Corn Islands', 'Costa Rica', 'Council of Indigenous Peoples', 'Craniology', 'Crown Colony of Labuan', 'Crown of Castile', 'Crusaders', 'Cuba', 'Cuban Revolution', 'Cultural Survival', 'Cultural appropriation', 'Curaçao', 'Cyprus', 'Dakota Access Pipeline protests', 'Dalmatia', 'Daman District, India', 'Damascus Eyalet', 'Danish Gold Coast', 'Danish India', 'Danish Norway', 'Danish West Indies', 'Danish colonial empire', 'Daron Acemoglu', 'De Beers', 'De facto', 'De jure', 'Declaration on the Rights of Indigenous Peoples', 'Decoloniality', 'Decolonisation', 'Decolonization of the Americas', 'Delhi', 'Delhi Durbar', 'Department of Bantu Education', 'Detribalization', 'Development aid', 'Diplomacy', 'Diplomatic history of World War II', 'Direct colonial rule', 'Discourse', 'Discourse on Colonialism', 'Discovery doctrine', 'Diu, India', 'Doi (identifier)', 'Dominica', 'Dominican Republic', 'Dominions of Sweden', 'Duchy of Amalfi', 'Dutch Brazil', 'Dutch Cape Colony', 'Dutch Ceylon', 'Dutch East India Company', 'Dutch East Indies', 'Dutch Empire', 'Dutch Formosa', 'Dutch Indies literature', 'Dutch Language Union', 'Dutch New Guinea', 'Dutch West Indies', 'Dzungar Khanate', 'Dzungaria', 'East India Company', 'East Turkistan', 'Easter Island', 'Eastern Roman', 'Ecuador', 'Education in ancient Rome', 'Edward N. Zalta', 'Edward Said', 'Egypt', 'El Salvador', 'Ellen Churchill Semple', 'Ellsworth Huntington', 'Emirate of Bukhara', 'Emirate of Transjordan', 'Empire of Brazil', 'Empire of Japan', 'Empire of Liberty', 'Empress of India', 'English overseas possessions', 'Enlightenment in Spain', 'Enslavement', 'Environmental determinism', 'Equatorial Guinea', 'Eritrea', 'Eswatini', 'Ethiopian Empire', 'Ethnography of Argentina', 'Eurasian Singaporean', 'European American', 'European Australians', 'European Canadians', 'European History Online', 'European Moroccans', 'European Namibians', 'European New Zealanders', 'European Peruvian', 'European South African', 'European Tunisians', 'European colonial empires', 'European colonisation of Southeast Asia', 'European colonization of Africa', 'European colonization of Micronesia', 'European colonization of the Americas', 'European ethnic groups', 'Europeans', 'Europeans in Africa', 'Europeans in Kenya', 'Europeans in Oceania', 'Europeans in Zimbabwe', 'Expansionism', 'Exploitation colonialism', 'Exploitation of natural resources', 'Exports', 'Expulsion of the Chagossians', 'Extraterritoriality', 'Falkland Islands', 'Falkland Islands Dependencies', 'Faroe Islands', 'Fashoda incident', 'Federated Malay States', 'Fiji', 'Filipino mestizo', 'First Anglo-Ashanti War', 'First Anglo-Sikh War', 'First Indochina War', 'First Nations in Canada', 'First cholera pandemic', 'Florentine Codex', 'Flores', 'Forced labour', 'Formosa province', 'Fort Ross, California', 'Fort of São João Baptista de Ajudá', 'Fortress conservation', 'Fourth Crusade', 'Franco-Mauritian', 'Franco-Seychellois', 'Francophonie', 'Frantz Fanon', 'Frederick Pethick-Lawrence, 1st Baron Pethick-Lawrence', 'Free, prior and informed consent', 'Free trade', 'French Algeria', 'French Chad', 'French Cochinchina', 'French Congo', 'French Dahomey', 'French Equatorial Africa', 'French Guiana', 'French India', 'French Indochina', 'French Mandate for Syria and Lebanon', 'French Polynesia', 'French Protectorate of Cambodia', 'French Protectorate of Laos', 'French Somaliland', 'French Southern and Antarctic Lands', 'French Sudan', 'French Upper Volta', 'French West Africa', 'French colonial empire', 'French conquest of Algeria', 'French language', 'French law on colonialism', 'French people', 'French protectorate of Morocco', 'French protectorate of Tunisia', 'Frédéric Bastiat', 'Fundação Nacional do Índio', 'Félix Éboué', 'Gabon', 'Galápagos Islands', 'Gambia', 'Gayatri Chakravorty Spivak', 'General Agreement on Tariffs and Trade', 'General Government', 'Genoese colonies', 'Geopolitics', 'Georg Eberhard Rumphius', 'Georges Cuvier', 'German East Africa', 'German New Guinea', 'German Samoa', 'German Solomon Islands', 'German South-West Africa', 'German colonial empire', 'German eastward expansion', 'Germans of Kazakhstan', 'Gibraltar', 'Gibraltar National Day', 'Gilbert Islands', 'Gilbert and Ellice Islands', 'Gilgit Baltistan', 'Global Empire', 'Globalisation and disease', 'Goa', 'Gobierno del Cerrito', 'Gold Coast (British colony)', 'Government of Bashkortostan', 'Government of Tatarstan', 'Government of the Sakha Republic', 'Governorate of Dalmatia', 'Graham Land', 'Grand Duchy of Finland', 'Great Famine (Ireland)', 'Greater Europe', 'Greek colonization', 'Green grabbing', 'Greenland', 'Grenada', 'Grey-zone (international relations)', 'Grover Clark', 'Guadeloupe', 'Guam', 'Guangxi', 'Guangzhouwan', 'Guantánamo Bay', 'Guinea', 'Gujari', 'Gulangyu Island', 'Gunpowder', 'Habesh Eyalet', 'Habsburg monarchy', 'Hainan', 'Haiti', 'Hankou', 'HarperCollins', 'Harvard University Press', 'Hawaii', 'Hay–Bunau-Varilla Treaty', 'Hdl (identifier)', 'Heard Island and McDonald Islands', 'Heart of Darkness', 'Hegel', 'Hegemony', 'Hellenic State (1941–1944)', 'Hendrik van Rheede', 'Herbert Spencer', 'High Arctic relocation', 'Hippolyte Bouchard', 'Hispaniola', 'Historiography of the British Empire', 'History of South Africa (1815–1910)', 'History of colonialism', 'History of medicine', 'History of the Peloponnesian War', 'Hokkaido', 'Homeland', 'Honduras', 'Hong Kong', 'Honoré de Balzac', 'Human height', 'Human history', 'Human rights in Tibet', 'Hyrcanus II', 'ISBN (identifier)', 'ISSN (identifier)', 'Iberian Union', 'Ibrahim Muteferrika', 'Iceland', 'Idealism in international relations', 'Ifni', 'Immanuel Kant', 'Immigration', 'Immunity (medical)', 'Impact and evaluation of colonialism and colonization', 'Impact of Western European colonialism and colonisation', 'Imperialism', 'Indentured servant', 'Independence', 'Independence movement', 'Indian Territory', 'Indian colony', 'Indian independence movement', 'Indian people', 'Indian removal', 'Indian reservation', 'Indian reserve', 'Indian subcontinent', 'Indigenous Australian self-determination', 'Indigenous Australians', 'Indigenous Environmental Network', 'Indigenous Peoples Council on Biocolonialism', 'Indigenous and Northern Affairs Canada', 'Indigenous and Tribal Peoples Convention, 1989', 'Indigenous intellectual property', 'Indigenous land rights', 'Indigenous language', 'Indigenous peoples', 'Indigenous rights', 'Indigenous self-government in Canada', 'Indo people', 'Indonesia', 'Indonesian War of Independence', 'Indos in colonial history', 'Indos in pre-colonial history', 'Industrial Revolution', 'Influenza', 'Inner Mongolia', 'Institute of European History', 'Internal colonialism', 'International Criminal Court', 'International Work Group for Indigenous Affairs', 'International community', 'International law', 'International organization', 'International relations', 'International relations (1648–1814)', 'International relations (1814–1919)', 'International relations (1919–1939)', 'International relations of the Great Powers (1814–1919)', 'International relations since 1989', 'International relations theory', 'Internationalism (politics)', 'Ireland', 'Irish diaspora', 'Isla de la Juventud', 'Isolationism', 'Israel and the apartheid analogy', 'Istanbul', 'Italian Aegean Islands', 'Italian Cyrenaica', 'Italian East Africa', 'Italian Eritrea', 'Italian Eritreans', 'Italian Libya', 'Italian Somaliland', 'Italian Somalis', 'Italian Trans-Juba', 'Italian Tripolitania', 'Italian colonization of Libya', 'Italian concession of Tientsin', 'Italian concessions in China', 'Italian governorate of Montenegro', 'Italian invasion of Libya', 'Italian occupation of Majorca', 'Italian protectorate of Albania (1939–1943)', 'Italian protectorate over Albania', 'Italo-Turkish War', 'Ivory Coast', 'J.B. Harley', 'JSTOR (identifier)', 'Jacobus Bontius', 'Jamaica', 'James A. Robinson (Harvard University)', 'Jamestown, Virginia', 'Jan Mayen', 'Japan', 'Japanese colonial empire', 'Java', 'Jean-Baptiste Marchand', 'Jean-Paul Sartre', 'Joseph Conrad', 'Jörg Baten', 'Jürgen Osterhammel', 'Kamerun', 'Karafuto', 'Karaikal', 'Kashag', 'Kazakhstan', 'Kenya', 'Kenyan War of Independence', 'Khiva Khanate', 'Kiautschou Bay concession', 'Kingdom of Cambodia', 'Kingdom of Champasak', 'Kingdom of Luang Prabang', 'Kingdom of Madagascar', 'Kingdom of Sarawak', 'Kingdom of Vientiane', 'Kingston, Jamaica', 'Kodiak, Alaska', 'Korea under Japanese rule', 'Koreans', 'Kristang people', 'Kuril Islands', 'Kwantung Leased Territory', 'Kyrgyzstan', 'La Réunion', 'Lands inhabited by indigenous peoples', 'Laos', 'Late Qing reforms', 'Latin', 'Latin America', 'Latin American wars of independence', 'Latinobarómetro', 'Lautréamont', 'League of Nations', 'League of Nations mandate', 'Legend of the Rainbow Warriors', 'Liberal institutionalism', 'Liberalism (international relations)', 'Liberia', 'Library of Congress', 'Library of Congress Country Studies', 'List of French possessions and colonies', 'List of Guano Island claims', 'List of indigenous rights organizations', 'List of territories occupied by Imperial Japan', 'Little Danes experiment', 'Lockheed C-130 Hercules', 'London', 'Lord Ranfurly', 'Louisiana (New France)', 'Lyal S. Sunga', 'Macanese people', 'Macau', 'Madagascar', 'Madeira', 'Maghreb', 'Mahé, India', 'Makea Takau Ariki', 'Malaria', 'Maldives', 'Malta', 'Malta Colony', 'Manchuria', 'Mandatory Iraq', 'Mandatory Palestine', 'Manifest destiny', 'Manila Grand Opera House', 'Manila galleon', 'Mapuche conflict', 'Marambio Airport', 'Marginalisation', 'Mariana Islands', 'Marià Fortuny', 'Marshall Islands', 'Martinique', 'Marxist international relations theory', 'Massachusetts Bay', 'Mato Grosso do Sul', 'Mauritania', 'Mauritius', 'Mayotte', 'Measles', 'Mediterranean', 'Mennonites in Belize', 'Mercantilism', 'Merriam-Webster', 'Mesoamerican', 'Mestizo', 'Metaphysics', 'Metropole', 'Mexico', 'Michael Auslin', 'Microbiologist', 'Midway Atoll', 'Ministry for the Development of the Russian Far East and Arctic', 'Minority rights', 'Misiones', 'Misiones Orientales', 'Modern immigration to the United Kingdom', 'Mohandas Karamchand Gandhi', 'Moluccas', 'Mongolia', 'Monopoly', 'Montserrat', 'Morocco', 'Mortality rate', 'Mountstuart Elphinstone', 'Multinational corporation', 'Muscat and Oman', 'Muslim conquests', 'Myanmar', 'Myos Hormos', 'Māori people', 'NATO', 'Namibia', 'Nansha Islands', 'National Commission on Indigenous Peoples (Philippines)', 'National Indigenous Organization of Colombia', 'National Institute of Indigenous Peoples', 'Native American Rights Fund', 'Native American mascot controversy', 'Native American self-determination', 'Native schools', 'Nauru', 'Navigation', 'Nazi Germany', 'Neocolonialism', 'Nepal', 'Nevis', 'New Caledonia', 'New Frontier', 'New Hebrides', 'New South Wales', 'New Spain', 'New Sweden', 'New World', 'New Zealand', 'Newfoundland and Labrador', 'Nicaragua', 'Niger', 'Nigeria', 'Nikole Hannah-Jones', 'Niue', 'Non-Aligned Movement', 'Non-Hispanic Whites', 'Norfolk Island', 'Norsemen', 'North Africa', 'North Borneo', 'Northern Mariana Islands', 'Northern Rhodesia', 'Notting Hill Carnival', 'Nubia', 'Nutmeg', 'Nyasaland', 'OCLC (identifier)', 'Oceania', 'Oka Crisis', 'Old World', 'Omani Empire', 'Opium Wars', 'Oppression', 'Orange River Colony', 'Orientalism', 'Orientalism (book)', 'Othering', 'Ottoman Arabia', 'Ottoman Empire', 'Oubangui-Chari', 'Outer Mongolia', 'Outremer', 'PMC (identifier)', 'PMID (identifier)', 'Pacific War', 'Pakistan Movement', 'Palau', 'Palau Islands', 'Palmyra Atoll', 'Panama', 'Panama Canal Zone', 'Pandemic', 'Papua New Guinea', 'Paraguay', 'Partitio terrarum imperii Romaniae', 'Partition of British India', 'Patagonia', 'Pax Romana', 'Peace', 'Penghu Islands', 'Perlis', 'Persia', 'Persian empire', 'Peru', 'Peruvian bark', 'Peter I Island', 'Phalanx', 'Phenomenology of Spirit', 'Philip II of Macedon', 'Philippine Assembly', 'Philippines', 'Phoenicia', 'Phoenix Islands', 'Phrenology', 'Pied-Noir', 'Pied-noir', 'Pitcairn Islands', 'Pith helmet', 'Plains Indians', 'Plastic shaman', 'Platt Amendment', 'Pluricontinental', 'Political freedom', 'Political history of the world', 'Population history of indigenous peoples of the Americas', 'Portuguese American', 'Portuguese Angola', 'Portuguese Cape Verde', 'Portuguese Congo', 'Portuguese Empire', 'Portuguese Guinea', 'Portuguese India', 'Portuguese Mozambique', 'Portuguese São Tomé and Príncipe', 'Portuguese Timor', 'Portuguese discoveries', 'Post-colonialism', 'Postcolonial literature', 'Postcolonialism', 'Postmodern literature', 'Power (international relations)', 'Prince Henry the Navigator', 'Processo Revolucionário Em Curso', 'Project', 'Protectorate', 'Protectorate of Peru', 'Puducherry (union territory)', 'Puerto Rico', 'Puna de Atacama', 'Qatar', 'Quebec', 'Queen Maud Land', 'Queen Victoria', 'Queen Victoria Street, Hong Kong', 'Queensland', 'Quita Sueño Bank', 'Racism', 'Rancherie', 'Ranchería', 'Realism (international relations)', 'Redface', 'Reichskommissariat', 'Renaissance', 'Republic of Venice', 'Republics of Russia', 'Revillagigedo Islands', 'Richard Cobden', 'Rinderpest', 'Robert J. C. Young', 'Roman Egypt', 'Roman law', 'Roncador Bank', 'Roosevelt Island, Antarctica', 'Ross Dependency', 'Ross Island', 'Royal Dutch Shell', 'Ruanda-Urundi', 'Rudolf Hellgrewe', 'Rumelia', 'Russian America', 'Russian Dalian', 'Russian Empire', 'Russian Turkestan', 'Russian colonisation of the Americas', 'Russian diaspora', 'Russians', 'Russians in China', 'Russians in Kazakhstan', 'Ryukyu Domain', 'Ryukyu Islands', 'Réunion', 'Río Muni', 'Río de Oro', 'S2CID (identifier)', 'Saartjie Baartman', 'Saba', 'Saguia el-Hamra', 'Saint-Domingue', 'Saint-Pierre-et-Miquelon', 'Saint Barthélemy', 'Saint Helena', 'Saint Kitts', 'Saint Lucia', 'Saint Vincent and the Grenadines', 'Santiago de Chile', 'Satellite state', 'Scandinavian Journal of History', 'Schäffer affair', 'Scott Island', 'Scramble for Africa', 'Second British Empire', 'Self-determination', 'Senegal', 'Sepoy Rebellion', 'Serampore', 'Settler', 'Settler colonialism', 'Seychelles', 'Shanghai Cooperation Organisation', 'Shanghai French Concession', 'Shanghai International Settlement', 'Shipbuilding', 'Siam', 'Siamese invasion of Kedah', 'Siberia', 'Sidon Eyalet', 'Sierra Leone', 'Simon Johnson (economist)', 'Singapore', 'Sint Eustatius', 'Sint Maarten', 'Slavery in Africa', 'Slavs', 'Smallpox', 'Smallpox vaccination', 'Smallpox vaccine', 'Social Darwinism', 'Sociocultural evolution', 'Socotra', 'Solor', 'Somalia', 'South Africa', 'South Australia', 'South Georgia Island', 'South Orkney Islands', 'South Pacific Mandate', 'South Sandwich Islands', 'South Shetland Islands', 'Southern Rhodesia', 'Sovereignty', 'Soviet Empire', 'Space colonization', 'Spanish Empire', 'Spanish Florida', 'Spanish Formosa', 'Spanish Guinea', 'Spanish Louisiana', 'Spanish Morocco', 'Spanish Netherlands', 'Spanish Sahara', 'Spanish Sicily', 'Spanish people', 'Spanish–American War', 'Special Committee on Decolonization', 'Special member state territories and the European Union', 'Spiridione Roma', 'Sri Lankan Civil War', 'St Helena', 'Stanford Encyclopedia of Philosophy', 'Stanford University', 'State (polity)', 'Stato da Màr', 'Stolen Generations', 'Strabo', 'Straits Settlements', 'Stranger King (Concept)', 'Subaltern (post-colonialism)', 'Subaltern Studies', 'Subject (philosophy)', 'Sultanate of Oman', 'Sultanate of Sulu', 'Surinam (Dutch colony)', 'Surrogate Colonialism', 'Survival International', 'Suzerainty', 'Svalbard', 'Swahili coast', 'Swan Islands, Honduras', 'Swaziland', 'Sweden', 'Swedish Gold Coast', 'Swedish colony of Saint Barthélemy', 'Swedish overseas colonies', 'Syphilis', 'São Paulo', 'São Tomé and Príncipe', 'Taiwan', 'Taiwan under Japanese rule', 'Tajikistan', 'Tariff', 'Tasmania', 'Te Puni Kōkiri', 'Tea', 'Tenochtitlan', 'Texas', 'The Californias', 'The Globalist', 'The Levant', 'The New York Times Magazine', 'The Tropics', 'The Wealth of Nations', 'The World Factbook', 'The Wretched of the Earth', 'Thirteen Colonies', 'Tianjin', 'Tibet', 'Tierra del Fuego Province, Argentina', 'Tobacco', 'Togoland', 'Tonga', 'Tonkin (French protectorate)', 'Tonkinese Rifles', 'Trading post', 'Traditional ecological knowledge', 'Traditional knowledge', 'Traditional medicine', 'Transvaal Colony', 'Treaty', 'Treaty of Tordesillas', 'Treaty ports', 'Treaty rights', 'Trinidad and Tobago', 'Trinidadian and Tobagonian British', 'Tristan da Cunha', 'Trucial States', 'Tunisia', 'Turkmenistan', 'Tusi', 'Tuva', 'Two-spirit', 'Uganda', 'Ukrainians in Russia', 'Underdevelopment', 'Unequal treaty', 'Unfederated Malay States', 'Union Islands', 'United Nations', 'United Nations Permanent Forum on Indigenous Issues', 'United States', 'United States Virgin Islands', 'United States of America', 'United States territorial acquisitions', 'Unrepresented Nations and Peoples Organization', 'Urban Indian reserve', 'Uruguay', 'Uyghur genocide', 'Uzbekistan', 'Vaccine', 'Vasco de Gama', 'Vassal and tributary states of the Ottoman Empire', 'Venezuela', 'Viceroyalty of New Granada', 'Viceroyalty of New Spain', 'Viceroyalty of Peru', 'Viceroyalty of the Río de la Plata', 'Victoria (Australia)', 'Victoria Land', 'Vijay Prashad', 'Viking Age', 'Viking expansion', 'Vladimir Lenin', 'Volcano Islands', 'Volga Germans', 'Wake Island', 'Waldemar Haffkine', 'Wallis-et-Futuna', 'Walter Rodney', 'War', 'Wars of independence', 'Warsaw Pact', 'Wayback Machine', 'Western Australia', 'Western Sahara', 'Western culture', 'Western imperialism in Asia', 'White Barbadian', 'White Brazilian', 'White Colombian', 'White Cuban', 'White Hispanic and Latino Americans', 'White Latin American', 'White Mexican', 'White Venezuelan', 'Whooping cough', 'Wilkes Land', 'William Ewart Gladstone', 'William Howard Taft', 'Winning hearts and minds', 'World War I', 'World War II', 'World population', 'Xinjiang', 'Xisha Islands', 'Yanam', 'YouGov', 'Yunnan', 'Zanzibar', 'Zapatista Army of National Liberation', 'Zimbabwe', 'Zoreilles', 'Zulu Kingdom']
+
+####### CATEGORIES #######
+
+['All articles needing additional references', 'All articles with specifically marked weasel-worded phrases', 'All articles with unsourced statements', 'Articles containing video clips', 'Articles needing additional references from April 2021', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with HDS identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with short description', 'Articles with specifically marked weasel-worded phrases from February 2021', 'Articles with specifically marked weasel-worded phrases from May 2021', 'Articles with unsourced statements from April 2021', 'Articles with unsourced statements from February 2021', 'Articles with unsourced statements from May 2021', 'Articles with unsourced statements from November 2012', 'CS1 Spanish-language sources (es)', 'Colonialism', 'Cultural geography', 'International relations theory', 'Short description is different from Wikidata', 'Vague or ambiguous geographic scope from May 2021', 'Webarchive template wayback links', 'Wikipedia articles needing clarification from February 2021', 'Wikipedia articles needing clarification from March 2018', 'Wikipedia articles needing factual verification from February 2021', 'Wikipedia indefinitely semi-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/5/5e/093_La_batalla_de_Tetuan%2C_de_Mari%C3%A0_Fortuny_%28detall%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/78/1600gora.jpg', 'https://upload.wikimedia.org/wikipedia/commons/9/9c/16th_century_Portuguese_Spanish_trade_routes.png', 'https://upload.wikimedia.org/wikipedia/commons/d/d0/A_Castro%2C_Lorenzo_-_A_Dutch_East-Indiaman_off_Hoorn_-_Google_Art_Project.jpg', 'https://upload.wikimedia.org/wikipedia/commons/8/8a/A_view_of_shops_with_anti-British_and_pro-Independence_signs%2C_possibly_on_Kings_Street%2C_Valetta%2C_Malta_%285074435957%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/32/Arthur_Mees_Flags_of_A_Free_Empire_1910_Cornell_CUL_PJM_1167_01.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/60/Aschanti_Gefecht_11_july_1824_300dpi.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Base_Marambio_y_el_Hercules.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Battle_of_ferozeshah%28H_Martens%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d2/Boerfamily1886.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/46/COLLECTIE_TROPENMUSEUM_Rijsttafel_TMnr_60053682.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3d/Colonial_empires_in_1800.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Colonization_1945.png', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Cook_Islands_Annexation_Ceremony.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/72/EU_OCT_and_OMR_map_en.png', 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Emigrants_Leave_Ireland_by_Henry_Doyle_1868.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/c8/Empire_of_Oman.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2a/Entrada_triunfal_de_Arsenio_Mart%C3%ADnez_Campos_en_La_Habana%2C_1878.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3f/European_Ancestry_Large.svg', 'https://upload.wikimedia.org/wikipedia/commons/2/2a/Expeditionconstantine.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag_of_New_Hebrides.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Florentinoviruela.JPG', 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Fundacion_de_Santiago.jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/19/F%C3%A9lix_%C3%89bou%C3%A9_and_Charles_DeGaulle.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/71/Gibraltar_National_Day_027_%289719742224%29_%282%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/5c/HK_Queen_Victoria_Street_The_Central_Market.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Hakewill%2C_A_Picturesque_Tour_of_the_Island_of_Jamaica%2C_Plate_04.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Hocquard_and_Tonkinese.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/34/Isandhlwana.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Italians_Sao_Paulo_-_original.jpg', 'https://upload.wikimedia.org/wikipedia/commons/0/07/LeCommandantMarchand.jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/12/Libia-1911-Tripoli-conquista-bandiera-verde-del-profeta_%28cropped%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Lord_Pethic-Lawrence_and_Mahatma_Gandhi.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Lord_Pethic-Lawrence_and_Mahatma_Gandhi.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/4f/Mapa_ARGENTINA_1881.png', 'https://upload.wikimedia.org/wikipedia/commons/6/69/Marchands_d%27esclaves_de_Gor%C3%A9e-Jacques_Grasset_de_Saint-Sauveur_mg_8526.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/59/Martial_law%2C_Korea_1900s.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Mestizo.jpg', 'https://upload.wikimedia.org/wikipedia/commons/9/99/Musee-de-lArmee-IMG_0976.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/56/Nieuws_uit_Indonesi%C3%AB%2C_het_werk_van_de_Nederlandse_dienst_voor_Volksgezondheid_Weeknummer_46-21_-_Open_Beelden_-_16742.ogv', 'https://upload.wikimedia.org/wikipedia/commons/5/51/Notting_Hill_Carnival_2002_large.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/48/P_history.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/82/Pacification_of_the_Dzungars.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/ad/Philip_II%27s_realms_in_1598.png', 'https://upload.wikimedia.org/wikipedia/commons/3/36/Portuguese_immigrant_family_in_Hawaii_during_the_19th_century.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Procession1877.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Prokudin-Gorskii_Russians_in_Central_Asia.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/44/Resa_del_bacino_del_Brandewater.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/49/Russian_Sloop-of-War_Neva.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d2/Sarajevo_1878..jpg', 'https://upload.wikimedia.org/wikipedia/commons/1/10/Satterfield_cartoon_about_brutalities_committed_by_Western_nations.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Scramble-for-Africa-1880-1913-v2.png', 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Seychelles_Governor_inspection_1972.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Siamese_Army_in_Laos_1893.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/65/Taft_Addressing_First_Philippine_Assembly_1907.jpg', 'https://upload.wikimedia.org/wikipedia/commons/e/ed/The_East_offering_its_riches_to_Britannia_-_Roma_Spiridone%2C_1778_-_BL_Foster_245.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/31/The_National_Archives_UK_-_CO_1069-99-01.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/59/The_Prime_Minister%2C_Shri_Narendra_Modi_and_the_Prime_Minister_of_United_Kingdom_%28UK%29%2C_Mr._David_Cameron_interacting_with_the_school_children%2C_at_Wembley_Stadium%2C_in_London_on_November_13%2C_2015.jpg', 'https://upload.wikimedia.org/wikipedia/commons/5/5e/Victoria_%28Cameroon%29.jpg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/45/World_1914_empires_colonies_territory.PNG', 'https://upload.wikimedia.org/wikipedia/commons/2/20/World_1936_empires_colonies_territory.png', 'https://upload.wikimedia.org/wikipedia/en/7/76/Menonite_Children.JPG', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg']
+
+####### REFERENCES #######
+
+['http://www.cbc.ca/health/story/2008/05/09/f-cholera-outbreaks.html', 'http://www12.statcan.ca/census-recensement/2006/dp-pd/tbt/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=837928&GK=0&GRP=1&PID=92334&PRID=0&PTYPE=88971,97154&S=0&SHOWALL=0&SUB=0&Temporal=2006&THEME=80&VID=0&VNAMEE=&VNAMEF=', 'http://www.asianreviewofbooks.com/new/?revID=610', 'http://www.cieux.com/stbarth/stbfact.html', 'http://www.collinsdictionary.com/dictionary/english/colonialism', 'http://daniel-mattingly.com/s/Mattingly_CPS_Preprint.pdf', 'http://www.encyclopedia.com/doc/1G2-2586700129.html', 'http://www.everyculture.com/Russia-Eurasia-China/Siberian-Germans-Orientation.html', 'http://scholar.google.com/scholar?q=%22Colonialism%22', 'http://www.google.com/search?&q=%22Colonialism%22&tbs=bkt:s&tbm=bks', 'http://www.google.com/search?as_eq=wikipedia&q=%22Colonialism%22', 'http://www.google.com/search?tbm=nws&q=%22Colonialism%22+-wikipedia&tbs=ar:1', 'http://www.google.com/search?tbs=bks:1&q=%22Colonialism%22+-wikipedia', 'http://www.livescience.com/history/080114-syphilis-columbus.html', 'http://www.merriam-webster.com/dictionary/colonialism', 'http://encarta.msn.com/media_701508643/Smallpox_Through_History.html', 'http://www.stalvik.com/Engelska/laegreenland.htm', 'http://www.ted.com/talks/niall_ferguson_the_6_killer_apps_of_prosperity.html', 'http://www.theglobalist.com/printStoryId.aspx?StoryId=3727', 'http://content.time.com/time/world/article/0,8599,1713275,00.html', 'http://www.time.com/time/asia/features/ontheroad/japan.sapporo.ainu.html', 'http://www.cubagob.cu/otras_info/censo/tablas_html/ii_3.htm', 'http://nbn-resolving.de/urn:nbn:de:0159-20100921437', 'http://nbn-resolving.de/urn:nbn:de:0159-20101025319', 'http://nbn-resolving.de/urn:nbn:de:0159-2012041215', 'http://www.gmu.edu/programs/icar/ijps/vol2_2/seljuq.htm', 'http://www.hawaii.edu/satocenter/langnet/definitions/trinidad.html', 'http://muse.jhu.edu/login?uri=/journals/wicazo_sa_review/v018/18.2pearson01.html', 'http://www.millersville.edu/~columbus/papers/goodling.html', 'http://economics.mit.edu/files/4469', 'http://www.montgomerycollege.edu/Departments/hpolscrv/whiteser.html', 'http://www.canr.msu.edu/overseas/nzenvironsci/infopart2.htm', 'http://plato.stanford.edu/entries/colonialism/', 'http://www.ucpress.edu/books/pages/9968/9968.ch01.html', 'http://www.umsl.edu/services/govdocs/wofact2003/geos/mb.html#People', 'http://www.umsl.edu/services/govdocs/wofact2006/geos/fg.html#People', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX4576372', 'http://www.fsm.ac.fj/aboutfsm.html', 'http://pubmed.ncbi.nlm.nih.gov/17108254', 'http://pubmed.ncbi.nlm.nih.gov/18159275', 'http://pubmed.ncbi.nlm.nih.gov/394780', 'http://pubmed.ncbi.nlm.nih.gov/7815439', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1050080', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2094753', 'http://www.censtatd.gov.hk/hong_kong_statistics/statistical_tables/index.jsp?htmlTableID=139&excelID=&chartID=&tableID=139&ID=&subjectID=1', 'http://ieas.unideb.hu/admin/file_9708.pdf', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007565983805171', 'http://dlisv03.media.osaka-cu.ac.jp/contents/osakacu/kiyo/13423282-23-123.pdf', 'http://convergencia.uaemex.mx/rev38/38pdf/LIZCANO.pdf', 'http://abimperio.net/cgi-bin/aishow.pl?state=showa&idart=222&idlang=1&Code=', 'http://hdl.handle.net/1885%2F27945', 'http://hdl.handle.net/2027.42%2F136501', 'http://doi.org/10.1016%2FS1574-0684(05)01006-3', 'http://doi.org/10.1016%2Fj.jce.2021.01.001', 'http://doi.org/10.1017%2FS0021853717000433', 'http://doi.org/10.1017%2Fheq.2020.25', 'http://doi.org/10.1017%2Fs0021853700030942', 'http://doi.org/10.1080%2F02757206.2012.697060', 'http://doi.org/10.1080%2F03468755.2016.1210880', 'http://doi.org/10.1080%2F13688790701488155', 'http://doi.org/10.1093%2Frestud%2Frdz017', 'http://doi.org/10.1111%2F1467-9493.00060', 'http://doi.org/10.1136%2Fjmg.31.9.702', 'http://doi.org/10.1152%2Fadvan.00069.2005', 'http://doi.org/10.1155%2F2000%2F782978', 'http://doi.org/10.1177%2F0010414015600465', 'http://doi.org/10.1177%2F2332649214560440', 'http://doi.org/10.1353%2Faiq.0.0054', 'http://doi.org/10.1353%2Fgss.2019.0004', 'http://doi.org/10.1353%2Fimp.2002.0070', 'http://doi.org/10.1525%2Fae.1989.16.4.02a00030', 'http://doi.org/10.1525%2Fae.1989.16.4.02a00070', 'http://doi.org/10.2307%2F215456', 'http://doi.org/10.25120%2Fetropic.17.2.2018.3658', 'http://doi.org/10.3138%2FE635-7827-1757-9T53', 'http://www.infoamerica.org/primera/lb_2011.pdf', 'http://www.jstor.org/stable/182701', 'http://www.jstor.org/stable/215456', 'http://www.jstor.org/stable/40388468', 'http://www.jstor.org/stable/41575861', 'http://www.jstor.org/stable/45038321', 'http://books.openedition.org/ifpo/483', 'http://www.setav.org/ups/dosya/24514.pdf', 'http://www.victorianweb.org/history/empire/Empire.html', 'http://www.worldcat.org/issn/0040-781X', 'http://www.worldcat.org/issn/1405-1435', 'http://www.worldcat.org/issn/1448-2940', 'http://www.worldcat.org/oclc/1048081465', 'http://www.worldcat.org/oclc/849914517', 'http://www.doh.gov.ph/sphh/balmis.htm', 'http://www.gresham.ac.uk/event.asp?PageId=45&EventId=696', 'http://www.smallpoxhistory.ucl.ac.uk/Other%20Asia/ongoingwork.htm', 'http://news.bbc.co.uk/2/hi/asia-pacific/4420922.stm', 'http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/5224244.stm', 'http://www.legislation.gov.uk/ukpga/1981/61', 'http://countrystudies.us/ivory-coast/41.htm', 'http://countrystudies.us/tajikistan/23.htm', 'http://www.ine.gov.ve/CENSO2011/documentos/pdf/ResultadosBasicosCenso2011.pdf', 'https://hls-dhs-dss.ch/fr/articles/026457', 'https://www.amazon.com/Western-Power-Asia-Slow-Swift/dp/0470824891/', 'https://www.britannica.com/EBchecked/topic/379167/Mexico', 'https://books.google.com/books?id=1xJzCgAAQBAJ', 'https://books.google.com/books?id=47wCTCJX9X4C&pg=PA223', 'https://books.google.com/books?id=73zeBgAAQBAJ', 'https://books.google.com/books?id=CMfksrnWaUkC&pg=PA15', 'https://books.google.com/books?id=CMfksrnWaUkC&pg=PA16', 'https://books.google.com/books?id=CMfksrnWaUkC&pg=PR10', 'https://books.google.com/books?id=CmJWBaANlsEC', 'https://books.google.com/books?id=CwSSkemSJLcC&pg=PA224', 'https://books.google.com/books?id=Dbb8eQH-vbQC&pg=PA90', 'https://books.google.com/books?id=DrlABAAAQBAJ', 'https://books.google.com/books?id=InQKBAAAQBAJ', 'https://books.google.com/books?id=JNGm14xd1JkC', 'https://books.google.com/books?id=LcabJ98-t1wC&q=chile+60%25+blancos+Esteva-Fabregat&pg=PA93', 'https://books.google.com/books?id=N3RyAAAAMAAJ', 'https://books.google.com/books?id=N8VHizsqaH0C&pg=PA25', 'https://books.google.com/books?id=X38lxaUjm1MC&pg=PA951', 'https://books.google.com/books?id=XRXVbGwPgqIC&pg=PA125#v=onepage', 'https://books.google.com/books?id=XpBJclVnVdQC&pg=PA5', 'https://books.google.com/books?id=YLeAxHLmgR8C&pg=PA15#v=onepage', 'https://books.google.com/books?id=Z2gpCgAAQBAJ&q=Rese%CC%81ndez,%20Andre%CC%81s.%202017.%20The%20other%20slavery:%20the%20uncovered%20story%20of%20indian%20enslavement%20in%20America.&pg=PP1', 'https://books.google.com/books?id=bS3w6tGiraEC&dq=', 'https://books.google.com/books?id=eyiZafDHpqoC&pg=PA271', 'https://books.google.com/books?id=gZCAAAAAQBAJ', 'https://books.google.com/books?id=jXl0DwAAQBAJ&pg=PT174', 'https://books.google.com/books?id=nN6G-lMk_DEC&pg=PA163', 'https://books.google.com/books?id=qj8GEjW91oEC', 'https://books.google.com/books?id=rdNSDQAAQBAJ&q=The+native+cultures+of+the+colonised+peoples+can+also+have+a+powerful+influence+on+the+imperial+country&pg=PA934', 'https://www.nytimes.com/2008/01/15/science/15syph.html', 'https://www.nytimes.com/interactive/2019/08/14/magazine/black-history-american-democracy.html', 'https://www.sciencedaily.com/releases/2006/05/060517180333.htm', 'https://thearabweekly.com/rejection-ottoman-legacy-linked-turkish-behaviour-today', 'https://www.theguardian.com/commentisfree/2016/aug/24/colonial-nostalgia-horrors-of-empire-britain-olympic', 'https://www.theguardian.com/science/brain-flapping/2013/dec/04/male-female-brains-real-differences', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph121723&CON_LNG=ENG', 'https://www.academia.edu/9048629', 'https://scholar.harvard.edu/dell/publications/development-effects-extractive-colonial-economy-dutch-cultivation-system-java', 'https://plato.stanford.edu/entries/colonialism/', 'https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alexander*/6-7.html', 'https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/2E1*.html', 'https://deepblue.lib.umich.edu/bitstream/2027.42/136501/1/ae.1989.16.4.02a00030.pdf', 'https://catalogue.bnf.fr/ark:/12148/cb155447891', 'https://data.bnf.fr/ark:/12148/cb155447891', 'https://jeannicod.ccsd.cnrs.fr/ijn_00000568/file/ijn_00000568_00.pdf', 'https://www.archives.gov/research/guide-fed-records/groups/260.html#260.12', 'https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_DP_DPDP1&prodType=table', 'https://www.cia.gov/library/publications/the-world-factbook/fields/2075.html', 'https://www.cia.gov/the-world-factbook/countries/argentina/', 'https://www.cia.gov/the-world-factbook/countries/bahamas-the/', 'https://www.cia.gov/the-world-factbook/countries/barbados/', 'https://www.cia.gov/the-world-factbook/countries/bermuda/', 'https://www.cia.gov/the-world-factbook/countries/bolivia/', 'https://www.cia.gov/the-world-factbook/countries/botswana/', 'https://www.cia.gov/the-world-factbook/countries/brazil/', 'https://www.cia.gov/the-world-factbook/countries/colombia/', 'https://www.cia.gov/the-world-factbook/countries/costa-rica/', 'https://www.cia.gov/the-world-factbook/countries/dominican-republic/', 'https://www.cia.gov/the-world-factbook/countries/ecuador/', 'https://www.cia.gov/the-world-factbook/countries/el-salvador/', 'https://www.cia.gov/the-world-factbook/countries/eswatini/', 'https://www.cia.gov/the-world-factbook/countries/french-polynesia/', 'https://www.cia.gov/the-world-factbook/countries/guam/', 'https://www.cia.gov/the-world-factbook/countries/honduras/', 'https://www.cia.gov/the-world-factbook/countries/kyrgyzstan/', 'https://www.cia.gov/the-world-factbook/countries/mexico/', 'https://www.cia.gov/the-world-factbook/countries/namibia/', 'https://www.cia.gov/the-world-factbook/countries/nicaragua/', 'https://www.cia.gov/the-world-factbook/countries/panama/', 'https://www.cia.gov/the-world-factbook/countries/peru/', 'https://www.cia.gov/the-world-factbook/countries/south-africa/', 'https://www.cia.gov/the-world-factbook/countries/turkmenistan/', 'https://www.cia.gov/the-world-factbook/countries/uruguay/', 'https://id.loc.gov/authorities/subjects/sh85148216', 'https://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/virginia-records-timeline-1553-to-1743/1600-to-1609/#:~:text=December%2020,%201606,Christopher%20Newport,%20sails%20from%20England', 'https://2009-2017.state.gov/r/pa/ei/bgn/2862.htm', 'https://d-nb.info/gnd/4073624-6', 'https://www.who.int/mediacentre/factsheets/fs259/en/index.html', 'https://id.ndl.go.jp/auth/ndlna/01066128', 'https://www.researchgate.net/publication/234102374', 'https://archive.org/details/colonialtariffpo00unit', 'https://archive.org/details/dictionaryhumang00greg', 'https://archive.org/details/dictionaryhumang00greg/page/n114', 'https://archive.org/details/harperencycloped00morr', 'https://archive.org/details/in.ernet.dli.2015.260425/page/n1', 'https://archive.org/details/noturningbackhis00free/page/113', 'https://archive.org/details/noturningbackhis00free/page/25', 'https://archive.org/details/peopleonmoveatla0000unse/page/24', 'https://archive.org/details/peopleonmoveatla0000unse/page/26', 'https://archive.org/details/peopleonmoveatla0000unse/page/35', 'https://archive.org/details/peopleonmoveatla0000unse/page/34', 'https://archive.org/details/settlercoloniali00vera', 'https://archive.org/details/settlercoloniali00vera/page/n13', 'https://web.archive.org/web/20041223112019/http://www.doh.gov.ph/sphh/balmis.htm', 'https://web.archive.org/web/20071208065844/http://www.censtatd.gov.hk/hong_kong_statistics/statistical_tables/index.jsp?htmlTableID=139&excelID=&chartID=&tableID=139&ID=&subjectID=1', 'https://web.archive.org/web/20080205230347/http://muse.jhu.edu/login?uri=/journals/wicazo_sa_review/v018/18.2pearson01.html', 'https://web.archive.org/web/20080510163413/http://www.millersville.edu/~columbus/papers/goodling.html', 'https://web.archive.org/web/20080907093641/http://www.ucpress.edu/books/pages/9968/9968.ch01.html', 'https://web.archive.org/web/20081207015726/http://www.gresham.ac.uk/event.asp?PageId=45&EventId=696', 'https://web.archive.org/web/20091029184350/http://encarta.msn.com/media_701508643/Smallpox_Through_History.html', 'https://web.archive.org/web/20100612021507/http://www.canr.msu.edu/overseas/nzenvironsci/infopart2.htm', 'https://web.archive.org/web/20110414135412/http://www.cubagob.cu/otras_info/censo/tablas_html/ii_3.htm', 'https://web.archive.org/web/20110622085958/http://www.time.com/time/asia/features/ontheroad/japan.sapporo.ainu.html', 'https://web.archive.org/web/20110715022142/http://www.theglobalist.com/printStoryId.aspx?StoryId=3727', 'https://web.archive.org/web/20110922011211/http://www.setav.org/ups/dosya/24514.pdf', 'https://web.archive.org/web/20120416015559/http://www.smallpoxhistory.ucl.ac.uk/Other%20Asia/ongoingwork.htm', 'https://web.archive.org/web/20130626010236/http://convergencia.uaemex.mx/rev38/38pdf/LIZCANO.pdf', 'https://web.archive.org/web/20141009091039/http://www.montgomerycollege.edu/Departments/hpolscrv/whiteser.html', 'https://web.archive.org/web/20141020165015/http://www.fsm.ac.fj/aboutfsm.html', 'https://web.archive.org/web/20171019141854/http://www12.statcan.ca/census-recensement/2006/dp-pd/tbt/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=837928&GK=0&GRP=1&PID=92334&PRID=0&PTYPE=88971,97154&S=0&SHOWALL=0&SUB=0&Temporal=2006&THEME=80&VID=0&VNAMEE=&VNAMEF=', 'https://web.archive.org/web/20190106010801/https://www.cia.gov/library/publications/the-world-factbook/fields/2075.html', 'https://web.archive.org/web/20190223191440/http://ieas.unideb.hu/admin/file_9708.pdf', 'https://www.cambridge.org/core/journals/journal-of-african-history/article/ottoman-colonialism-the-ottoman-scramble-for-africa-empire-and-diplomacy-in-the-sahara-and-the-hijaz-by-mostafa-minawi-stanford-ca-stanford-university-press-2016-pp-xviii-219-8500-hardback-isbn-9780804795142-2495-paperback-isbn-9780804799270/3E67C60F1607516908CB96EFC30FF008', 'https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism', 'https://www.jstor.org/action/doBasicSearch?Query=%22Colonialism%22&acc=on&wc=on', 'https://www.jstor.org/stable/10.5699/austrianstudies.20.2012.0005', 'https://www.pbs.org/gunsgermssteel/variables/smallpox.html', 'https://api.semanticscholar.org/CorpusID:130148053', 'https://api.semanticscholar.org/CorpusID:144872634', 'https://api.semanticscholar.org/CorpusID:147875813', 'https://api.semanticscholar.org/CorpusID:155635060', 'https://api.semanticscholar.org/CorpusID:156822667', 'https://api.semanticscholar.org/CorpusID:161167051', 'https://api.semanticscholar.org/CorpusID:162411962', 'https://api.semanticscholar.org/CorpusID:162692337', 'https://api.semanticscholar.org/CorpusID:165186569', 'https://api.semanticscholar.org/CorpusID:166252688', 'https://api.semanticscholar.org/CorpusID:19474655', 'https://api.semanticscholar.org/CorpusID:225917190', 'https://api.semanticscholar.org/CorpusID:59931797', 'https://www.wikidata.org/wiki/Q7167#identifiers', 'https://www.worldcat.org/oclc/56493769', 'https://www.qdl.qa/en/country-profile-oman', 'https://archive.today/20120530044859/http://www.asianreviewofbooks.com/new/?revID=610', 'https://archive.today/20190521214830/https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_DP_DPDP1&prodType=table', 'https://www.independent.co.uk/news/science/how-did-easter-islands-ancient-statues-lead-to-the-destruction-of-an-entire-ecosystem-455877.html', 'https://yougov.co.uk/news/2014/07/26/britain-proud-its-empire/']
+
+####### SUMMARY #######
+
+Colonialism is a practice or policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices. The foreign administrators rule the territory in pursuit of their interests, seeking to benefit from the colonised region's people and resources. It is associated with but distinct from imperialism.Though colonialism has existed since ancient times, the concept is most strongly associated with the European colonial period starting with the 15th century when some European states established colonising empires.
+At first, European colonising countries followed policies of mercantilism, aiming to strengthen the home-country economy, so agreements usually restricted the colony to trading only with the metropole (mother country). By the mid-19th century, however, the British Empire gave up mercantilism and trade restrictions and adopted the principle of free trade, with few restrictions or tariffs.
+Christian missionaries were active in practically all of the European-controlled colonies because the metropoles were Christian.
+Historian Philip Hoffman calculated that by 1800, before the Industrial Revolution, Europeans already controlled at least 35% of the globe, and by 1914, they had gained control of 84% of the globe. In the aftermath of World War II colonial powers retreated between 1945 and 1975; over which time nearly all colonies gained independence, entering into changed colonial, so-called postcolonial and neocolonialist relations.
+Postcolonialism and neocolonialism have continued or shifted relations and ideologies of colonialism, justifying its continuation with concepts such as development and new frontiers, as in exploring outer space for colonization.
+
+####### CONTENT #######
+
+Colonialism is a practice or policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices. The foreign administrators rule the territory in pursuit of their interests, seeking to benefit from the colonised region's people and resources. It is associated with but distinct from imperialism.Though colonialism has existed since ancient times, the concept is most strongly associated with the European colonial period starting with the 15th century when some European states established colonising empires.
+At first, European colonising countries followed policies of mercantilism, aiming to strengthen the home-country economy, so agreements usually restricted the colony to trading only with the metropole (mother country). By the mid-19th century, however, the British Empire gave up mercantilism and trade restrictions and adopted the principle of free trade, with few restrictions or tariffs.
+Christian missionaries were active in practically all of the European-controlled colonies because the metropoles were Christian.
+Historian Philip Hoffman calculated that by 1800, before the Industrial Revolution, Europeans already controlled at least 35% of the globe, and by 1914, they had gained control of 84% of the globe. In the aftermath of World War II colonial powers retreated between 1945 and 1975; over which time nearly all colonies gained independence, entering into changed colonial, so-called postcolonial and neocolonialist relations.
+Postcolonialism and neocolonialism have continued or shifted relations and ideologies of colonialism, justifying its continuation with concepts such as development and new frontiers, as in exploring outer space for colonization.
+
+
+== Definitions ==
+
+Collins English Dictionary defines colonialism as "the practice by which a powerful country directly controls less powerful countries and uses their resources to increase its own power and wealth". Webster's Encyclopedic Dictionary defines colonialism as "the system or policy of a nation seeking to extend or retain its authority over other people or territories". The Merriam-Webster Dictionary offers four definitions, including "something characteristic of a colony" and "control by one power over a dependent area or people". Etymologically, the word "colony" comes from the Latin colōnia—"a place for agriculture".
+The Stanford Encyclopedia of Philosophy uses the term "to describe the process of European settlement and political control over the rest of the world, including the Americas, Australia, and parts of Africa and Asia". It discusses the distinction between colonialism, imperialism and conquest and states that "[t]he difficulty of defining colonialism stems from the fact that the term is often used as a synonym for imperialism. Both colonialism and imperialism were forms of conquest that were expected to benefit Europe economically and strategically," and continues "given the difficulty of consistently distinguishing between the two terms, this entry will use colonialism broadly to refer to the project of European political domination from the sixteenth to the twentieth centuries that ended with the national liberation movements of the 1960s".In his preface to Jürgen Osterhammel's Colonialism: A Theoretical Overview, Roger Tignor says "For Osterhammel, the essence of colonialism is the existence of colonies, which are by definition governed differently from other territories such as protectorates or informal spheres of influence." In the book, Osterhammel asks, "How can 'colonialism' be defined independently from 'colony?'" He settles on a three-sentence definition:
+
+Colonialism is a relationship between an indigenous (or forcibly imported) majority and a minority of foreign invaders. The fundamental decisions affecting the lives of the colonised people are made and implemented by the colonial rulers in pursuit of interests that are often defined in a distant metropolis. Rejecting cultural compromises with the colonised population, the colonisers are convinced of their own superiority and their ordained mandate to rule.
+
+
+== Types of colonialism ==
+
+The Times once quipped that there were three types of colonial empire: "The English, which consists in making colonies with colonists; the German, which collects colonists without colonies; the French, which sets up colonies without colonists." Modern studies of colonialism have often distinguished between various overlapping categories of colonialism, broadly classified into four types: settler colonialism, exploitation colonialism, surrogate colonialism, and internal colonialism. Some historians have identified other forms of colonialism, including national and trade forms.
+Settler colonialism involves large-scale immigration by settlers to colonies, often motivated by religious, political, or economic reasons. This form of colonialism aims largely to supplant prior existing populations with a settler one, and involves large number of settlers emigrating to colonies for the purpose of settling down and establishing settlements. Australia, Canada, the United States, South Africa (and to a more controversial extent Israel) are examples of nations created in their modern form by settler colonization.
+Exploitation colonialism involves fewer colonists and focuses on the exploitation of natural resources or labour to the benefit of the metropole. This form consists of trading posts as well as larger colonies where colonists would constitute much of the political and economic administration. The European colonization of Africa and Asia was largely conducted under the auspices of exploitation colonialism.
+Surrogate colonialism involves a settlement project supported by a colonial power, in which most of the settlers do not come from the same ethnic group as the ruling power.
+Internal colonialism is a notion of uneven structural power between areas of a state. The source of exploitation comes from within the state. This is demonstrated in the way control and exploitation may pass from people from the colonizing country to an immigrant population within a newly independent country.
+National colonialism is a process involving elements of both settler and internal colonialism, in which nation-building and colonization are symbiotically connected, with the colonial regime seeking to remake the colonized peoples into their own cultural and political image. The goal is to integrate them into the state, but only as reflections of the state's preferred culture. The Republic of China in Taiwan is the archetypal example of a national-colonialist society.
+Trade colonialism involves the undertaking of colonialist ventures in support of trade opportunities for merchants. This form of colonialism was most prominent in 19th-century Asia, where previously isolationist states were forced to open their ports to Western powers. Examples of this include the Opium Wars and the opening of Japan.
+
+
+== Socio-cultural evolution ==
+As colonialism often played out in pre-populated areas, sociocultural evolution included the formation of various ethnically hybrid populations. Colonialism gave rise to culturally and ethnically mixed populations such as the mestizos of the Americas, as well as racially divided populations such as those found in French Algeria or in Southern Rhodesia. In fact, everywhere where colonial powers established a consistent and continued presence, hybrid communities existed.
+Notable examples in Asia include the Anglo-Burmese, Anglo-Indian, Burgher, Eurasian Singaporean, Filipino mestizo, Kristang and Macanese peoples. In the Dutch East Indies (later Indonesia) the vast majority of "Dutch" settlers were in fact Eurasians known as Indo-Europeans, formally belonging to the European legal class in the colony (see also Indos in pre-colonial history and Indos in colonial history).
+
+
+== History ==
+
+		
+		
+		
+
+
+=== Premodern ===
+Activity that could be called colonialism has a long history, starting at least as early as the Ancient Egyptians. Phoenicians, Greeks and Romans founded colonies in antiquity. Phoenicia had an enterprising maritime trading-culture that spread across the Mediterranean from 1550 BC to 300 BC; later the Persian empire and various Greek city-states continued on this line of setting up colonies. The Romans would soon follow, setting up coloniae throughout the Mediterranean, in Northern Africa, and in Western Asia. Beginning in the 7th century, Arabs colonized a substantial portion of the Middle East, Northern Africa, and parts of Asia and Europe. From the 9th century Vikings (Norsemen) established colonies in Britain, Ireland, Iceland, Greenland, North America, present-day Russia and Ukraine, France (Normandy) and Sicily. In the 9th century a new wave of Mediterranean colonisation began, with competitors such as the Venetians, Genovese and Amalfians infiltrating the wealthy previously Byzantine or Eastern Roman islands and lands. European Crusaders set up colonial regimes in Outremer (in the Levant, 1097–1291) and in the Baltic littoral (12th century onwards). Venice began to dominate Dalmatia and reached its greatest nominal colonial extent at the conclusion of the Fourth Crusade in 1204, with the declaration of the acquisition of three octaves of the Byzantine Empire.
+
+
+=== Modern ===
+
+More than a century before the Jamestown, Virginia settlement led by captain Christopher Newport, modern colonialism started with the Portuguese Prince Henry the Navigator (1394–1460), initiating the Age of Exploration and establishing African trading posts (1445 onwards). Spain (initially the Crown of Castile) and soon after Portugal encountered the Americas (1492 onwards) through sea travel and built trading posts or conquered large extents of land. For some people, it is this building of colonies across oceans that differentiates colonialism from other types of expansionism. Madrid and Lisbon divided the areas of these "new" lands between the Spanish Empire and the Portuguese Empire in 1494; other would-be colonial powers paid little heed to the theoretical demarcation.
+The 17th century saw the birth of the French colonial empire and the Dutch Empire, as well as the English overseas possessions, which later became the British Empire. It also saw the establishment of a Danish colonial empire and some Swedish overseas colonies.A first wave of independence movements started with the American Revolutionary War (1775–1783), initiating a new phase for the British Empire. The Spanish Empire largely collapsed in the Americas with the Latin American wars of independence (c.  1808 onwards). However, empire-builders established several new colonies after this time, including in the German colonial empire and the Belgian colonial empire. In the late-19th century, many European powers became involved in the Scramble for Africa.The Russian Empire, Ottoman Empire and Austrian Empire existed at the same time as the above empires but did not expand over oceans. Rather, these empires expanded through the more traditional route of the conquest of neighbouring territories. There was, though, some Russian colonisation of the Americas across the Bering Strait. From the 1860s, the Empire of Japan modelled itself on European colonial empires and expanded its territories in the Pacific and on the Asian mainland. Argentina and the Empire of Brazil fought for hegemony in South America. The United States of America gained overseas territories after the 1898 Spanish–American War – hence the coining of the term "American Empire".
+
+After the First World War of 1914–1918, the victorious allies divided up the German colonial empire and much of the Ottoman Empire between themselves as League of Nations mandates, grouping these territories into three classes according to how quickly it was deemed that they could prepare for independence. The empires of Russia and Austria collapsed in 1917–1918. Nazi Germany set up short-lived colonial systems (Reichskommissariate, Generalgouvernement) in Eastern Europe in the early 1940s.
+After World War II (1939–1945) decolonisation progressed rapidly, due to a number of reasons. First, the Japanese victories in the Pacific War of 1941–1945 had showed Indians and other subject peoples that the colonial powers were not invincible. Second, World War II had significantly weakened all the overseas colonial powers economically.Dozens of independence movements and global political solidarity projects such as the Non-Aligned Movement proved instrumental in the decolonisation efforts of former colonies. These included significant wars of independence fought in Indonesia, Vietnam, Algeria, and Kenya. Eventually, the European powers—pressured by the United States and Soviets—resigned themselves to decolonisation.
+In 1962 the United Nations set up a Special Committee on Decolonization, often called the Committee of 24, to encourage this process.
+
+
+=== The status and cost of European colonization at the turn of the 20th century ===
+
+The world's colonial population at the outbreak of the First World War (1914) – a high point for colonialism – totalled about 560 million people, of whom 70% lived in British possessions, 10% in French possessions, 9% in Dutch possessions, 4% in Japanese possessions, 2% in German possessions, 2% in American possessions, 3% in Portuguese possessions, 1% in Belgian possessions and 0.5% in Italian possessions. The domestic domains of the colonial powers had a total population of about 370 million people. Outside Europe, few areas had remained without coming under formal colonial tutorship – and even Siam, China, Nepal, Japan, Afghanistan, Persia and Abyssinia had felt varying degrees of Western colonial-style influence – concessions, unequal treaties, extraterritoriality and the like.
+Asking whether colonies paid, economic historian Grover Clark (1891–1938) argues an emphatic "No!" He reports that in every case the support cost, especially the military system necessary to support and defend colonies, outran the total trade they produced. Apart from the British Empire, they did not provide favoured destinations for the immigration of surplus metropole populations. The question of whether colonies paid is, however, a complicated one when recognizing the multiplicity of interests involved. In some cases colonial powers paid a lot in military costs while private investors pocketed the benefits. In other cases the colonial powers managed to move the burden of administrative costs to the colonies themselves by imposing taxes.
+
+
+=== Neocolonialism ===
+
+The word "neocolonialism" has originated from Jean-Paul Sartre in 1956, to refer to a variety of contexts since the decolonisation that took place after World War II. Generally it does not refer to a type of direct colonisation – rather to colonialism or colonial-style exploitation by other means. Specifically, neocolonialism may refer to the theory that former or existing economic relationships, such as the General Agreement on Tariffs and Trade and the Central American Free Trade Agreement, or the operations of companies (such as Royal Dutch Shell in Nigeria and Brunei) fostered by former colonial powers were or are used to maintain control of former colonies and dependencies after the colonial independence movements of the post–World War II period.The term "neocolonialism" became popular in ex-colonies in the late-20th century.
+
+
+== List of colonies ==
+
+
+=== British colonies and protectorates ===
+
+Aden
+Afghanistan
+Anglo-Egyptian Sudan
+Ascension Island
+Australia
+New South Wales
+Victoria
+Tasmania
+Queensland
+South Australia
+Western Australia
+Bahamas
+Barbados
+Basutoland
+Bechuanaland
+British Borneo
+Brunei
+Labuan
+North Borneo
+Sarawak
+British East Africa
+British Guiana
+British Honduras
+British Hong Kong
+British Leeward Islands
+Anguilla
+Antigua
+Barbuda
+British Virgin Islands
+Dominica
+Montserrat
+Nevis 
+Saint Kitts
+British Malaya 
+Federated Malay States
+Straits Settlements
+Unfederated Malay States
+British Somaliland
+British Western Pacific Territories
+British Solomon Islands
+Fiji
+Gilbert and Ellice Islands
+Phoenix Islands
+Pitcairn Islands
+New Hebrides (condominium with France)
+Tonga
+Union Islands
+British Windward Islands
+Barbados
+Dominica
+Grenada
+Saint Lucia
+Saint Vincent and the Grenadines
+Myanmar
+Canada
+Ceylon
+Christmas Island
+Cocos (Keeling) Islands
+Cyprus (including Akrotiri and Dhekelia)
+Egypt
+Falkland Islands
+Falkland Islands Dependencies
+Graham Land
+South Georgia
+South Orkney Islands
+South Shetland Islands
+South Sandwich Islands
+Victoria Land
+Gambia
+Gibraltar
+Gold Coast
+India (including what is today Pakistan, Bangladesh, and Myanmar) 
+Heard Island and McDonald Islands
+Ireland
+Jamaica
+Kenya
+Maldives
+Malta
+Mandatory Palestine
+Emirate of Transjordan
+Mandatory Iraq
+Mauritius
+Muscat and Oman
+Norfolk Island
+Nigeria
+Northern Rhodesia
+Nyasaland 
+Seychelles
+Sierra Leone
+Shanghai International Settlement
+South Africa
+Cape Colony
+Natal
+Transvaal Colony
+Orange River Colony
+Southern Rhodesia
+St Helena
+Swaziland
+Trinidad and Tobago
+Tristan da Cunha
+Trucial States
+Uganda
+Tonga
+
+
+=== French colonies ===
+
+Acadia
+Algeria
+Canada
+Clipperton Island
+Comoros Islands (including Mayotte)
+French Guiana
+French Equatorial Africa
+Chad
+Oubangui-Chari
+French Congo
+Gabon
+French India (Pondichéry, Chandernagor, Karikal, Mahé and Yanaon)
+French Indochina
+Annam 
+Tonkin
+Cochinchina
+Cambodia
+Laos
+French Polynesia
+French Somaliland
+French Southern and Antarctic Lands
+French West Africa
+Ivory Coast
+Dahomey
+Guinea 
+French Sudan
+Mauritania
+Niger
+Senegal
+Upper Volta
+Guadeloupe
+Saint Barthélemy
+Saint Martin
+La Réunion
+Louisiana
+Madagascar
+Martinique
+French Morocco
+French Mandate for Syria and Lebanon
+New Caledonia
+Saint-Pierre-et-Miquelon
+Saint-Domingue
+Shanghai French Concession (similar concessions in Kouang-Tchéou-Wan, Tientsin, Hankéou)
+Tunisia
+New Hebrides (condominium with Britain)
+Wallis-et-Futuna
+
+
+=== United States colonies and protectorates ===
+
+American Concession in Tianjin (1869–1902)
+American Concession in Shanghai (1848–1863)
+American Concession in Beihai (1876–1943)
+American Concession in Harbin (1898–1943)
+American Samoa
+Beijing Legation Quarter (1861–1945)
+Corn Islands (1914–1971)
+Canton and Enderbury Islands
+Caroline Islands
+Cuba (Platt Amendment turned Cuba into a protectorate – until Cuban Revolution)
+Falkland Islands (1832)
+Guantánamo Bay
+Guam
+Gulangyu Island (1903–1945)
+Haiti (1915–1934)
+Indian Territory (1834–1907)
+Isle of Pines (1899–1925)
+Liberia (Independent since 1847, US protectorate until post-WW2)
+Marshall Islands
+Midway
+Nicaragua (1912–1933)
+Northern Mariana Islands
+Palau
+Palmyra Atoll
+Panama (Hay–Bunau-Varilla Treaty turned Panama into a protectorate, protectorate until post-WW2)
+Panama Canal Zone (1903–1979)
+Philippines (1898–1946)
+Puerto Rico
+Quita Sueño Bank (1869–1981)
+Roncador Bank (1856–1981)
+Ryukyu Islands (1945–1972) 
+Shanghai International Settlement (1863–1945)
+Sultanate of Sulu (1903–1915)
+Swan Islands, Honduras (1914–1972)
+Treaty Ports of China, Korea and Japan
+United States Virgin Islands
+Wake Island
+Wilkes Land
+
+
+=== Russian colonies and protectorates ===
+
+Emirate of Bukhara (1873–1917)
+Grand Duchy of Finland (1809–1917)
+Khiva Khanate (1873–1917)
+Kauai (Hawaii) (1816–1817)
+Russian America (Alaska) (1733–1867)
+Fort Ross (California)
+Russian Dalian (1898-1905)
+
+
+=== German colonies ===
+
+Bismarck Archipelago
+Kamerun
+Caroline Islands
+German New Guinea
+German Samoa
+German Solomon Islands
+German East Africa
+German South-West Africa
+Gilbert Islands
+Jiaozhou Bay
+Mariana Islands
+Marshall Islands
+Nauru
+Palau
+Togoland
+Tianjin
+
+
+=== Italian colonies and protectorates ===
+
+Italian Aegean Islands
+Italian Albania (1918–1920)
+Italian Albania (1939–1943)
+Italian concessions in China
+Italian concession of Tientsin
+Italian governorate of Dalmatia
+Italian governorate of Montenegro
+Hellenic State
+Italian Eritrea
+Italian Somaliland
+Italian Trans-Juba (briefly; annexed)
+Libya
+Italian Tripolitania
+Italian Cyrenaica
+Italian Libya
+Italian East Africa
+Italian occupation of Majorca (1936-1939)
+
+
+=== Dutch colonies and Overseas Territories ===
+Dutch Brazil
+Dutch Ceylon
+Dutch Formosa
+Dutch Cape Colony
+Aruba
+Bonaire
+Curaçao
+Saba
+Sint Eustatius
+Sint Maarten
+Surinam (Dutch colony)
+Dutch East Indies
+Dutch New Guinea
+
+
+=== Portuguese colonies ===
+
+Portuguese Africa
+Cabinda
+Ceuta
+Madeira
+Portuguese Angola
+Portuguese Cape Verde
+Portuguese Guinea
+Portuguese Mozambique
+Portuguese São Tomé and Príncipe
+Fort of São João Baptista de Ajudá
+Portuguese Asia
+Portuguese India
+Goa
+Daman
+Diu
+Portuguese Macau
+Portuguese Oceania
+Flores
+Portuguese Timor
+Solor
+Portuguese South America
+Colonial Brazil
+Cisplatina
+Misiones Orientales
+Portuguese North America
+Azores
+Newfoundland and Labrador
+
+
+=== Spanish colonies ===
+
+Canary Islands
+Cape Juby
+Captaincy General of Cuba
+Spanish Florida
+Spanish Louisiana
+Captaincy General of the Philippines
+Caroline Islands
+Mariana Islands
+Marshall Islands
+Palau Islands
+Ifni
+Río de Oro
+Saguia el-Hamra
+Spanish Morocco
+Spanish Netherlands
+Spanish Sahara
+Spanish Sardinia
+Spanish Sicily
+Viceroyalty of Peru
+Captaincy General of Chile
+Viceroyalty of the Río de la Plata
+Spanish Guinea
+Annobón
+Fernando Po
+Río Muni
+Viceroyalty of New Granada
+Captaincy General of Venezuela
+Viceroyalty of New Spain
+Captaincy General of Guatemala
+Captaincy General of Yucatán
+Captaincy General of Santo Domingo
+Captaincy General of Puerto Rico
+Spanish Formosa
+
+
+=== Austrian and Austro-Hungarian colonies ===
+
+Bosnia and Herzegovina 1878–1918.
+Tianjin, China, 1902–1917.
+Austrian Netherlands, 1714–1797
+Nicobar Islands, 1778–1783
+North Borneo, 1876–1879
+
+
+=== Danish colonies and dominions ===
+
+Andaman and Nicobar Islands
+Danish West Indies (now United States Virgin Islands)
+Danish Norway
+Faroe Islands
+Greenland
+Iceland
+Serampore
+Danish Gold Coast
+Danish India
+
+
+=== Belgian colonies ===
+Belgian Congo
+Ruanda-Urundi
+Tianjin
+
+
+=== Swedish colonies and dominions ===
+Guadeloupe
+New Sweden
+Saint Barthélemy
+Swedish Gold Coast
+Dominions of Sweden in continental Europe
+
+
+=== Norwegian Overseas Territories ===
+Svalbard
+Jan Mayen
+Bouvet Island
+Queen Maud Land
+Peter I Island
+
+
+=== Ottoman colonies and Vassal and tributary states of the Ottoman Empire ===
+Rumelia
+Ottoman North Africa
+Ottoman Arabia
+
+
+=== Other non-European colonialist countries ===
+
+
+==== Australian Overseas Territories ====
+Papua New Guinea
+Christmas Island
+Cocos Islands
+Coral Sea Islands
+Heard Island and McDonald Islands
+Norfolk Island
+Nauru
+Australian Antarctic Territory
+
+
+==== New Zealand dependencies ====
+
+Cook Islands
+Nauru
+Niue
+Ross Dependency
+Balleny Islands
+Ross Island
+Scott Island
+Roosevelt Island
+
+
+==== Japanese colonies and protectorates ====
+
+Bonin Islands 
+Karafuto
+Korea
+Kuril Islands
+Kwantung Leased Territory
+Nanyo
+Caroline Islands
+Marshall Islands
+Northern Mariana Islands
+Palau Islands
+Penghu Islands
+Ryukyu Domain
+Taiwan
+Volcano Islands
+
+
+==== Chinese colonies and protectorates ====
+
+Dzungaria (Xinjiang) from 1758–present
+Kashgaria (East Turkistan) from 1884 – 1933, 1934–1944, 1949–present
+Guangxi (Tusi)
+Hainan
+Nansha Islands
+Xisha Islands
+Manchuria
+Inner Mongolia
+Outer Mongolia (Mongolia & Tuva) during the late Qing dynasty
+Taiwan
+Tibet (Kashag)
+Yunnan (Tusi)
+Vietnam during the Han, Sui, and Tang dynasties
+
+
+==== Omani colonies ====
+Omani Empire
+
+Swahili coast
+Zanzibar
+Qatar
+Bahrain
+Somalia
+Socotra
+
+
+==== Mexican colonies ====
+The Californias
+Texas
+Central America
+Clipperton Island
+Revillagigedo Islands
+Chiapas
+
+
+==== Ecuatorian colonies ====
+Galápagos Islands
+
+
+==== Colombian colonies ====
+Panama
+Ecuador
+Venezuela
+Archipelago of San Andrés, Providencia and Santa Catalina
+
+
+==== Argentine colonies and protectorates ====
+
+Protectorate of Peru (1820–1822)
+Gobierno del Cerrito (1843–1851)
+Chile (1817–1818)
+Paraguay (1810–1811, 1873)
+Uruguay (1810–1813)
+Bolivia (1810–1822)
+Tierra del Fuego
+Patagonia
+Falkland Islands and Dependencies  (1829–1831, 1832–1833, 1982)
+Argentine Antarctica
+Misiones
+Formosa
+Puna de Atacama (1839– )
+Argentina expedition to California (1818)
+Equatorial Guinea (1810–1815)
+
+
+==== Paraguayan colonies ====
+Mato Grosso do Sul
+Formosa
+
+
+==== Bolivian colonies ====
+Puna de Atacama (1825–1839 ceded to Argentina) (1825–1879 ceded to Chile)
+Acre
+
+
+==== Ethiopian colonies ====
+Eritrea
+
+
+==== Moroccan colonies ====
+Western Sahara
+
+
+==== Indian colonies and protectorates ====
+Gilgit Baltistan
+
+
+==== Thai colonies (Siam) ====
+
+Kingdom of Vientiane (1778–1828)
+Kingdom of Luang Prabang (1778–1893)
+Kingdom of Champasak (1778–1893)
+Kingdom of Cambodia (1771–1867)
+Kedah (1821–1826)
+Perlis (1821–1836)
+
+
+==== (Ancient) Egyptian colonies ====
+Canaan
+Nubia
+
+
+==== (Khedivate) Egyptian colonies ====
+Anglo-Egyptian Sudan
+Habesh Eyalet
+Sidon Eyalet
+Damascus Eyalet
+
+
+== Impact of colonialism and colonisation ==
+
+The impacts of colonisation are immense and pervasive. Various effects, both immediate and protracted, include the spread of virulent diseases, unequal social relations, detribalization, exploitation, enslavement, medical advances, the creation of new institutions, abolitionism, improved infrastructure, and technological progress. Colonial practices also spur the spread of colonist languages, literature and cultural institutions, while endangering or obliterating those of native peoples. The native cultures of the colonised peoples can also have a powerful influence on the imperial country.
+
+
+=== Economy, trade and commerce ===
+Economic expansion, sometimes described as the colonial surplus, has accompanied imperial expansion since ancient times. Greek trade networks spread throughout the Mediterranean region while Roman trade expanded with the primary goal of directing tribute from the colonised areas towards the Roman metropole. According to Strabo, by the time of emperor Augustus, up to 120 Roman ships would set sail every year from Myos Hormos in Roman Egypt to India. With the development of trade routes under the Ottoman Empire,
+
+Gujari Hindus, Syrian Muslims, Jews, Armenians, Christians from south and central Europe operated trading routes that supplied Persian and Arab horses to the armies of all three empires, Mocha coffee to Delhi and Belgrade, Persian silk to India and Istanbul.
+
+Aztec civilisation developed into an extensive empire that, much like the Roman Empire, had the goal of exacting tribute from the conquered colonial areas. For the Aztecs, a significant tribute was the acquisition of sacrificial victims for their religious rituals.On the other hand, European colonial empires sometimes attempted to channel, restrict and impede trade involving their colonies, funneling activity through the metropole and taxing accordingly.
+Despite the general trend of economic expansion, the economic performance of former European colonies varies significantly. In "Institutions as a Fundamental Cause of Long-run Growth", economists Daron Acemoglu, Simon Johnson and James A. Robinson compare the economic influences of the European colonists on different colonies and study what could explain the huge discrepancies in previous European colonies, for example, between West African colonies like Sierra Leone and Hong Kong and Singapore.According to the paper, economic institutions are the determinant of the colonial success because they determine their financial performance and order for the distribution of resources. At the same time, these institutions are also consequences of political institutions – especially how de facto and de jure political power is allocated. To explain the different colonial cases, we thus need to look first into the political institutions that shaped the economic institutions.
+
+For example, one interesting observation is "the Reversal of Fortune" – the less developed civilisations in 1500, like North America, Australia, and New Zealand, are now much richer than those countries who used to be in the prosperous civilisations in 1500 before the colonists came, like the Mughals in India and the Incas in the Americas. One explanation offered by the paper focuses on the political institutions of the various colonies: it was less likely for European colonists to introduce economic institutions where they could benefit quickly from the extraction of resources in the area. Therefore, given a more developed civilisation and denser population, European colonists would rather keep the existing economic systems than introduce an entirely new system; while in places with little to extract, European colonists would rather establish new economic institutions to protect their interests. Political institutions thus gave rise to different types of economic systems, which determined the colonial economic performance.European colonisation and development also changed gendered systems of power already in place around the world. In many pre-colonialist areas, women maintained power, prestige, or authority through reproductive or agricultural control. For example, in certain parts of sub-Saharan Africa      women maintained farmland in which they had usage rights. While men would make political and communal decisions for a community, the women would control the village's food supply or their individual family's land. This allowed women to achieve power and autonomy, even in patrilineal and patriarchal societies.Through the rise of European colonialism came a large push for development and industrialisation of most economic systems. However, when working to improve productivity, Europeans focused mostly on male workers. Foreign aid arrived in the form of loans, land, credit, and tools to speed up development, but were only allocated to men. In a more European fashion, women were expected to serve on a more domestic level. The result was a technologic, economic, and class-based gender gap that widened over time.Within a colony, the presence of extractive colonial institutions in a given area has been found have effects on the modern day economic development, institutions and infrastructure of these areas.
+
+
+=== Slavery and indentured servitude ===
+
+European nations entered their imperial projects with the goal of enriching the European metropoles. Exploitation of non-Europeans and of other Europeans to support imperial goals was acceptable to the colonisers. Two outgrowths of this imperial agenda were the extension of slavery and indentured servitude. In the 17th century, nearly two-thirds of English settlers came to North America as indentured servants.European slave traders brought large numbers of African slaves to the Americas by sail. Spain and Portugal had brought African slaves to work in African colonies such as Cape Verde and São Tomé and Príncipe, and then in Latin America, by the 16th century. The British, French and Dutch joined in the slave trade in subsequent centuries. The European colonial system took approximately 11 million Africans to the Caribbean and to North and South America as slaves.
+
+Abolitionists in Europe and Americas protested the inhumane treatment of African slaves, which led to the elimination of the slave trade (and later, of most forms of slavery) by the late 19th century. One (disputed) school of thought points to the role of abolitionism in the American Revolution: while the British colonial metropole started to move towards outlawing slavery, slave-owning elites in the Thirteen Colonies saw this as one of the reasons to fight for their post-colonial independence and for the right to develop and continue a largely slave-based economy.British colonising activity in New Zealand from the early 19th century played a part in ending slave-taking and slave-keeping among the indigenous Māori.
+On the other hand, British colonial administration in Southern Africa, when it officially abolished slavery in the 1830s, caused rifts in society which arguably perpetuated slavery in the Boer Republics and fed into the philosophy of apartheid.The labour shortages that resulted from abolition inspired European colonisers in Queensland, British Guaiana and Fiji (for example) to develop new sources of labour, re-adopting a system of indentured servitude. Indentured servants consented to a contract with the European colonisers. Under their contract, the servant would work for an employer for a term of at least a year, while the employer agreed to pay for the servant's voyage to the colony, possibly pay for the return to the country of origin, and pay the employee a wage as well. The employees became "indentured" to the employer because they owed a debt back to the employer for their travel expense to the colony, which they were expected to pay through their wages. In practice, indentured servants were exploited through terrible working conditions and burdensome debts imposed by the employers, with whom the servants had no means of negotiating the debt once they arrived in the colony.
+India and China were the largest source of indentured servants during the colonial era. Indentured servants from India travelled to British colonies in Asia, Africa and the Caribbean, and also to French and Portuguese colonies, while Chinese servants travelled to British and Dutch colonies. Between 1830 and 1930, around 30 million indentured servants migrated from India, and 24 million returned to India. China sent more indentured servants to European colonies, and around the same proportion returned to China.Following the Scramble for Africa, an early but secondary focus for most colonial regimes was the suppression of slavery and the slave trade. By the end of the colonial period they were mostly successful in this aim, though slavery persists in Africa and in the world at large with much the same practices of de facto servility despite legislative prohibition.
+
+
+=== Military innovation ===
+
+Conquering forces have throughout history applied innovation in order to gain an advantage over the armies of the people they aim to conquer. Greeks developed the phalanx system, which enabled their military units to present themselves to their enemies as a wall, with foot soldiers using shields to cover one another during their advance on the battlefield. Under Philip II of Macedon, they were able to organise thousands of soldiers into a formidable battle force, bringing together carefully trained infantry and cavalry regiments. Alexander the Great exploited this military foundation further during his conquests.
+The Spanish Empire held a major advantage over Mesoamerican warriors through the use of weapons made of stronger metal, predominantly iron, which was able to shatter the blades of axes used by the Aztec civilisation and others. The use of gunpowder weapons cemented the European military advantage over the peoples they sought to subjugate in the Americas and elsewhere.
+
+
+=== The end of empire ===
+
+The populations of some colonial territories, such as Canada, enjoyed relative peace and prosperity as part of a European power, at least among the majority; however, minority populations such as First Nations peoples and French-Canadians experienced marginalisation and resented colonial practices. Francophone residents of Quebec, for example, were vocal in opposing conscription into the armed services to fight on behalf of Britain during World War I, resulting in the Conscription crisis of 1917. Other European colonies had much more pronounced conflict between European settlers and the local population. Rebellions broke out in the later decades of the imperial era, such as India's Sepoy Rebellion of 1857.
+The territorial boundaries imposed by European colonisers, notably in central Africa and South Asia, defied the existing boundaries of native populations that had previously interacted little with one another. European colonisers disregarded native political and cultural animosities, imposing peace upon people under their military control. Native populations were often relocated at the will of the colonial administrators.
+The Partition of British India in August 1947 led to the Independence of India and the creation of Pakistan. These events also caused much bloodshed at the time of the migration of immigrants from the two countries. Muslims from India and Hindus and Sikhs from Pakistan migrated to the respective countries they sought independence for.
+
+
+=== Post-independence population movement ===
+
+In a reversal of the migration patterns experienced during the modern colonial era, post-independence era migration followed a route back towards the imperial country. In some cases, this was a movement of settlers of European origin returning to the land of their birth, or to an ancestral birthplace. 900,000 French colonists (known as the Pied-Noirs) resettled in France following Algeria's independence in 1962. A significant number of these migrants were also of Algerian descent. 800,000 people of Portuguese origin migrated to Portugal after the independence of former colonies in Africa between 1974 and 1979; 300,000 settlers of Dutch origin migrated to the Netherlands from the Dutch West Indies after Dutch military control of the colony ended.After WWII 300,000 Dutchmen from the Dutch East Indies, of which the majority were people of Eurasian descent called Indo Europeans, repatriated to the Netherlands. A significant number later migrated to the US, Canada, Australia and New Zealand.Global travel and migration in general developed at an increasingly brisk pace throughout the era of European colonial expansion. Citizens of the former colonies of European countries may have a privileged status in some respects with regard to immigration rights when settling in the former European imperial nation. For example, rights to dual citizenship may be generous, or larger immigrant quotas may be extended to former colonies.In some cases, the former European imperial nations continue to foster close political and economic ties with former colonies. The Commonwealth of Nations is an organisation that promotes cooperation between and among Britain and its former colonies, the Commonwealth members. A similar organisation exists for former colonies of France, the Francophonie; the Community of Portuguese Language Countries plays a similar role for former Portuguese colonies, and the Dutch Language Union is the equivalent for former colonies of the Netherlands.Migration from former colonies has proven to be problematic for European countries, where the majority population may express hostility to ethnic minorities who have immigrated from former colonies. Cultural and religious conflict have often erupted in France in recent decades, between immigrants from the Maghreb countries of north Africa and the majority population of France. Nonetheless, immigration has changed the ethnic composition of France; by the 1980s, 25% of the total population of "inner Paris" and 14% of the metropolitan region were of foreign origin, mainly Algerian.
+
+
+=== Introduced diseases ===
+
+Encounters between explorers and populations in the rest of the world often introduced new diseases, which sometimes caused local epidemics of extraordinary virulence. For example, smallpox, measles, malaria, yellow fever, and others were unknown in pre-Columbian America.Half the native population of Hispaniola in 1518 was killed by smallpox. Smallpox also ravaged Mexico in the 1520s, killing 150,000 in Tenochtitlan alone, including the emperor, and Peru in the 1530s, aiding the European conquerors. Measles killed a further two million Mexican natives in the 17th century. In 1618–1619, smallpox wiped out 90% of the Massachusetts Bay Native Americans. Smallpox epidemics in 1780–1782 and 1837–1838 brought devastation and drastic depopulation among the Plains Indians. Some believe that the death of up to 95% of the Native American population of the New World was caused by Old World diseases. Over the centuries, the Europeans had developed high degrees of immunity to these diseases, while the indigenous peoples had no time to build such immunity.Smallpox decimated the native population of Australia, killing around 50% of indigenous Australians in the early years of British colonisation. It also killed many New Zealand Māori. As late as 1848–49, as many as 40,000 out of 150,000 Hawaiians are estimated to have died of measles, whooping cough and influenza. Introduced diseases, notably smallpox, nearly wiped out the native population of Easter Island. In 1875, measles killed over 40,000 Fijians, approximately one-third of the population. The Ainu population decreased drastically in the 19th century, due in large part
+to infectious diseases brought by Japanese settlers pouring into Hokkaido.Conversely, researchers have hypothesised that a precursor to syphilis may have been carried from the New World to Europe after Columbus's voyages. The findings suggested Europeans could have carried the nonvenereal tropical bacteria home, where the organisms may have mutated into a more deadly form in the different conditions of Europe. The disease was more frequently fatal than it is today; syphilis was a major killer in Europe during the Renaissance. The first cholera pandemic began in Bengal, then spread across India by 1820. Ten thousand British troops and countless Indians died during this pandemic. Between 1736 and 1834 only some 10% of East India Company's officers survived to take the final voyage home. Waldemar Haffkine, who mainly worked in India, who developed and used vaccines against cholera and bubonic plague in the 1890s, is considered the first microbiologist.
+According to a 2021 study by Jörg Baten and Laura Maravall on the anthropometric influence of colonialism on Africans, the average height of Africans decreased by 1.1 centimetres upon colonization and later recovered and increased overall during colonial rule. The authors attributed the decrease to diseases, such as malaria and sleeping sickness, forced labor during the early decades of colonial rule, conflicts, land grabbing, and widespread cattle deaths from the rinderpest viral disease.
+
+
+==== Countering disease ====
+As early as 1803, the Spanish Crown organised a mission (the Balmis expedition) to transport the smallpox vaccine to the Spanish colonies, and establish mass vaccination programs there. By 1832, the federal government of the United States established a smallpox vaccination program for Native Americans. Under the direction of Mountstuart Elphinstone a program was launched to propagate smallpox vaccination in India. From the beginning of the 20th century onwards, the elimination or control of disease in tropical countries became a driving force for all colonial powers. The sleeping sickness epidemic in Africa was arrested due to mobile teams systematically screening millions of people at risk. In the 20th century, the world saw the biggest increase in its population in human history due to lessening of the mortality rate in many countries due to medical advances. The world population has grown from 1.6 billion in 1900 to over seven billion today.
+
+
+== Colonialism and the history of thought ==
+
+
+=== Colonial botany ===
+Colonial botany refers to the body of works concerning the study, cultivation, marketing and naming of the new plants that were acquired or traded during the age of European colonialism. Notable examples of these plants included sugar, nutmeg, tobacco, cloves, cinnamon, Peruvian bark, peppers and tea. This work was a large part of securing financing for colonial ambitions, supporting European expansion and ensuring the profitability of such endeavors. Vasco de Gama and Christopher Columbus were seeking to establish routes to trade spices, dyes and silk from the Moluccas, India and China by sea that would be independent of the established routes controlled by Venetian and Middle Eastern merchants. Naturalists like Hendrik van Rheede, Georg Eberhard Rumphius, and Jacobus Bontius compiled data about eastern plants on behalf of the Europeans. Though Sweden did not possess an extensive colonial network, botanical research based on Carl Linnaeus identified and developed techniques to grow cinnamon, tea and rice locally as an alternative to costly imports.
+
+
+=== Universalism ===
+The conquest of vast territories brings multitudes of diverse cultures under the central control of the imperial authorities. From the time of Ancient Greece and Ancient Rome, this fact has been addressed by empires adopting the concept of universalism, and applying it to their imperial policies towards their subjects far from the imperial capitol. The capitol, the metropole, was the source of ostensibly enlightened policies imposed throughout the distant colonies.
+The empire that grew from Greek conquest, particularly by Alexander the Great, spurred the spread of Greek language, religion, science and philosophy throughout the colonies. While most Greeks considered their own culture superior to all others (the word barbarian is derived from mutterings that sounded to Greek ears like "bar-bar"), Alexander was unique in promoting a campaign to win the hearts and minds of the Persians. He adopted Persian customs of clothing and otherwise encouraged his men to go native by adopting local wives and learning their mannerisms. Of note is that he radically departed from earlier Greek attempts at colonisation, characterised by the murder and enslavement of the local inhabitants and the settling of Greek citizens from the polis.
+Roman universalism was characterised by cultural and religious tolerance and a focus on civil efficiency and the rule of law. Roman law was imposed on both Roman citizens and colonial subjects. Although Imperial Rome had no public education, Latin spread through its use in government and trade. Roman law prohibited local leaders to wage war between themselves, which was responsible for the 200 year long Pax Romana, at the time the longest period of peace in history. The Roman Empire was tolerant of diverse cultures and religious practises, even allowing them on a few occasions to threaten Roman authority.
+
+
+=== Colonialism and geography ===
+
+Settlers acted as the link between indigenous populations and the imperial hegemony, thus bridging the geographical, ideological and commercial gap between the colonisers and colonised. While the extent in which geography as an academic study is implicated in colonialism is contentious, geographical tools such as cartography, shipbuilding, navigation, mining and agricultural productivity were instrumental in European colonial expansion. Colonisers' awareness of the Earth's surface and abundance of practical skills provided colonisers with a knowledge that, in turn, created power.Anne Godlewska and Neil Smith argue that "empire was 'quintessentially a geographical project'". Historical geographical theories such as environmental determinism legitimised colonialism by positing the view that some parts of the world were underdeveloped, which created notions of skewed evolution. Geographers such as Ellen Churchill Semple and Ellsworth Huntington put forward the notion that northern climates bred vigour and intelligence as opposed to those indigenous to tropical climates (See The Tropics) viz a viz a combination of environmental determinism and Social Darwinism in their approach.Political geographers also maintain that colonial behaviour was reinforced by the physical mapping of the world, therefore creating a visual separation between "them" and "us". Geographers are primarily focused on the spaces of colonialism and imperialism; more specifically, the material and symbolic appropriation of space enabling colonialism.: 5 
+
+Maps played an extensive role in colonialism, as Bassett would put it "by providing geographical information in a convenient and standardised format, cartographers helped open West Africa to European conquest, commerce, and colonisation". However, because the relationship between colonialism and geography was not scientifically objective, cartography was often manipulated during the colonial era. Social norms and values had an effect on the constructing of maps. During colonialism map-makers used rhetoric in their formation of boundaries and in their art. The rhetoric favoured the view of the conquering Europeans; this is evident in the fact that any map created by a non-European was instantly regarded as inaccurate. Furthermore, European cartographers were required to follow a set of rules which led to ethnocentrism; portraying one's own ethnicity in the centre of the map. As J.B. Harley put it, "The steps in making a map – selection, omission, simplification, classification, the creation of hierarchies, and 'symbolisation' – are all inherently rhetorical."A common practice by the European cartographers of the time was to map unexplored areas as "blank spaces". This influenced the colonial powers as it sparked competition amongst them to explore and colonise these regions. Imperialists aggressively and passionately looked forward to filling these spaces for the glory of their respective countries. The Dictionary of Human Geography notes that cartography was used to empty 'undiscovered' lands of their Indigenous meaning and bring them into spatial existence via the imposition of "Western place-names and borders, [therefore] priming 'virgin' (putatively empty land, 'wilderness') for colonisation (thus sexualising colonial landscapes as domains of male penetration), reconfiguring alien space as absolute, quantifiable and separable (as property)."David Livingstone stresses "that geography has meant different things at different times and in different places" and that we should keep an open mind in regards to the relationship between geography and colonialism instead of identifying boundaries. Geography as a discipline was not and is not an objective science, Painter and Jeffrey argue, rather it is based on assumptions about the physical world. Comparison of exogeographical representations of ostensibly tropical environments in science fiction art support this conjecture, finding the notion of the tropics to be an artificial collection of ideas and beliefs that are independent of geography.
+
+
+=== Colonialism and imperialism ===
+
+A colony is a part of an empire and so colonialism is closely related to imperialism. Assumptions are that colonialism and imperialism are interchangeable, however Robert J. C. Young suggests that imperialism is the concept while colonialism is the practice. Colonialism is based on an imperial outlook, thereby creating a consequential relationship. Through an empire, colonialism is established and capitalism is expanded, on the other hand a capitalist economy naturally enforces an empire.
+
+
+=== Marxist view of colonialism ===
+Marxism views colonialism as a form of capitalism, enforcing exploitation and social change. Marx thought that working within the global capitalist system, colonialism is closely associated with uneven development. It is an "instrument of wholesale destruction, dependency and systematic exploitation producing distorted economies, socio-psychological disorientation, massive poverty and neocolonial dependency". Colonies are constructed into modes of production. The search for raw materials and the current search for new investment opportunities is a result of inter-capitalist rivalry for capital accumulation. Lenin regarded colonialism as the root cause of imperialism, as imperialism was distinguished by monopoly capitalism via colonialism and as Lyal S. Sunga explains: "Vladimir Lenin advocated forcefully the principle of self-determination of peoples in his "Theses on the Socialist Revolution and the Right of Nations to Self-Determination" as an integral plank in the programme of socialist internationalism" and he quotes Lenin who contended that "The right of nations to self-determination implies exclusively the right to independence in the political sense, the right to free political separation from the oppressor nation. Specifically, this demand for political democracy implies complete freedom to agitate for secession and for a referendum on secession by the seceding nation." Non Russian marxists within the RSFSR and later the USSR, like Sultan Galiev and Vasyl Shakhrai, meanwhile, between 1918 and 1923 and then after 1929, considered the Soviet Regime a renewed version of the Russian imperialism and colonialism.
+In his critique of colonialism in Africa, the Guyanese historian and political activist Walter Rodney states:
+
+"The decisiveness of the short period of colonialism and its negative consequences for Africa spring mainly from the fact that Africa lost power. Power is the ultimate determinant in human society, being basic to the relations within any group and between groups. It implies the ability to defend one's interests and if necessary to impose one's will by any means available ... When one society finds itself forced to relinquish power entirely to another society that in itself is a form of underdevelopment ... During the centuries of pre-colonial trade, some control over social political and economic life was retained in Africa, in spite of the disadvantageous commerce with Europeans. That little control over internal matters disappeared under colonialism. Colonialism went much further than trade. It meant a tendency towards direct appropriation by Europeans of the social institutions within Africa. Africans ceased to set indigenous cultural goals and standards, and lost full command of training young members of the society. Those were undoubtedly major steps backwards ... Colonialism was not merely a system of exploitation, but one whose essential purpose was to repatriate the profits to the so-called 'mother country'. From an African view-point, that amounted to consistent expatriation of surplus produced by African labour out of African resources. It meant the development of Europe as part of the same dialectical process in which Africa was underdeveloped. Colonial Africa fell within that part of the international capitalist economy from which surplus was drawn to feed the metropolitan sector. As seen earlier, exploitation of land and labour is essential for human social advance, but only on the assumption that the product is made available within the area where the exploitation takes place."According to Lenin, the new imperialism emphasised the transition of capitalism from free trade to a stage of monopoly capitalism to finance capital. He states it is, "connected with the intensification of the struggle for the partition of the world". As free trade thrives on exports of commodities, monopoly capitalism thrived on the export of capital amassed by profits from banks and industry. This, to Lenin, was the highest stage of capitalism. He goes on to state that this form of capitalism was doomed for war between the capitalists and the exploited nations with the former inevitably losing. War is stated to be the consequence of imperialism. As a continuation of this thought G.N. Uzoigwe states, "But it is now clear from more serious investigations of African history in this period that imperialism was essentially economic in its fundamental impulses."
+
+
+=== Liberalism, capitalism and colonialism ===
+Classical liberals were generally in abstract opposition to colonialism and imperialism, including Adam Smith, Frédéric Bastiat, Richard Cobden, John Bright, Henry Richard, Herbert Spencer, H.R. Fox Bourne, Edward Morel, Josephine Butler, W.J. Fox and William Ewart Gladstone. Their philosophies found the colonial enterprise, particularly mercantilism, in opposition to the principles of free trade and liberal policies. Adam Smith wrote in The Wealth of Nations that Britain should grant independence to all of its colonies and also argued that it would be economically beneficial for British people in the average, although the merchants having mercantilist privileges would lose out.
+
+
+=== Scientific thought in colonialism, race and gender ===
+During the colonial era, the global process of colonisation served to spread and synthesize the social and political belief systems of the "mother-countries" which often included a belief in a certain natural racial superiority of the race of the mother-country. Colonialism also acted to reinforce these same racial belief systems within the "mother-countries" themselves. Usually also included within the colonial belief systems was a certain belief in the inherent superiority of male over female, however this particular belief was often pre-existing amongst the pre-colonial societies, prior to their colonisation.Popular political practices of the time reinforced colonial rule by legitimising European (and/ or Japanese) male authority, and also legitimising female and non-mother-country race inferiority through studies of craniology, comparative anatomy, and phrenology. Biologists, naturalists, anthropologists, and ethnologists of the 19th century were focused on the study of colonised indigenous women, as in the case of Georges Cuvier's study of Sarah Baartman. Such cases embraced a natural superiority and inferiority relationship between the races based on the observations of naturalists' from the mother-countries. European studies along these lines gave rise to the perception that African women's anatomy, and especially genitalia, resembled those of mandrills, baboons, and monkeys, thus differentiating colonised Africans from what were viewed as the features of the evolutionarily superior, and thus rightfully authoritarian, European woman.In addition to what would now be viewed as pseudo-scientific studies of race, which tended to reinforce a belief in an inherent mother-country racial superiority, a new supposedly "science-based" ideology concerning gender roles also then emerged as an adjunct to the general body of beliefs of inherent superiority of the colonial era. Female inferiority across all cultures was emerging as an idea supposedly supported by craniology that led scientists to argue that the typical brain size of the female human was, on the average, slightly smaller than that of the male, thus inferring that therefore female humans must be less developed and less evolutionarily advanced than males. This finding of relative cranial size difference was later simply attributed to the general typical size difference of the human male body versus that of the typical human female body.Within the former European colonies, non-Europeans and women sometimes faced invasive studies by the colonial powers in the interest of the then prevailing pro-colonial scientific ideology of the day. Such seemingly flawed studies of race and gender coincided with the era of colonialism and the initial introduction of foreign cultures, appearances, and gender roles into the now gradually widening world-views of the scholars of the mother-countries.
+
+
+=== "The Other" ===
+
+"The Other", or "othering", is the process of creating a separate entity to persons or groups who are labelled as different or non-normal due to the repetition of characteristics. Othering is the creation of those who discriminate, to distinguish, label, categorise those who do not fit in the societal norm. Several scholars in recent decades developed the notion of the "other" as an epistemological concept in social theory. For example, postcolonial scholars, believed that colonising powers explained an "other" who were there to dominate, civilise, and extract resources through colonisation of land.Political geographers explain how colonial/imperial powers (countries, groups of people etc.) "othered" places they wanted to dominate to legalise their exploitation of the land. During and after the rise of colonialism the Western powers perceived the East as the "other", being different and separate from their societal norm. This viewpoint and separation of culture had divided the Eastern and Western culture creating a dominant/subordinate dynamic, both being the "other" towards themselves.
+
+
+=== Post-colonialism ===
+
+Post-colonialism (or post-colonial theory) can refer to a set of theories in philosophy and literature that grapple with the legacy of colonial rule. In this sense, one can regard post-colonial literature as a branch of postmodern literature concerned with the political and cultural independence of peoples formerly subjugated in colonial empires.
+Many practitioners take Edward Saïd's book  Orientalism (1978) as the theory's founding work (although French theorists such as Aimé Césaire (1913–2008) and Frantz Fanon (1925–1961) made similar claims decades before Saïd). Saïd analyzed the works of Balzac, Baudelaire and Lautréamont, arguing that they helped to shape a societal fantasy of European racial superiority.
+Writers of post-colonial fiction interact with the traditional colonial discourse, but modify or subvert it; for instance by retelling a familiar story from the perspective of an oppressed minor character in the story. Gayatri Chakravorty Spivak's Can the Subaltern Speak? (1998) gave its name to Subaltern Studies.
+In A Critique of Postcolonial Reason (1999), Spivak argued that major works of European metaphysics (such as those of  Kant and Hegel) not only tend to exclude the subaltern from their discussions, but actively prevent non-Europeans from occupying positions as fully human subjects. Hegel's Phenomenology of Spirit (1807), famous for its explicit ethnocentrism, considers  Western civilisation as the most accomplished of all, while Kant also had some traces of  racialism in his work.
+
+
+=== Colonistics ===
+The field of colonistics studies colonialism from such viewpoints as those of economics, sociology and psychology.
+
+
+=== Effects of colonialism on the colonisers ===
+
+In his 1955 essay, Discourse on Colonialism (French: Discours sur le colonialisme), French poet Aimé Césaire evaluates the effects of racist, sexist, and capitalist attitudes and motivations on the civilisations that attempted to colonise other civilisations. In explaining his position, he says, "I admit that it is a good thing to place different civilisations in contact with each other that it is an excellent thing to blend different worlds; that whatever its own particular genius may be, a civilisation that withdraws into itself atrophies; that for civilisations, exchange is oxygen." However, he contends that colonisation is a harmful and counterproductive means of interacting with and learning from neighbouring civilisations.To illustrate his point, he explains that colonisation relies on racist and xenophobic frameworks that dehumanise the targets of colonisation and justify their extreme and brutal mistreatment. Every time an immoral act perpetrated by colonisers onto the colonised is justified by racist, sexist, otherwise xenophobic, or capitalist motivations to subjugate a group of people, the colonising civilisation "acquires another dead weight, a universal regression takes place, a gangrene sets in, a centre of infection begins to spread." Césaire argues the result of this process is that "a poison [is] instilled into the veins of Europe and, slowly but surely, the continent proceeds toward savagery." Césaire is indicating that the racist and xenophobic justifications for colonisation—motivated by capitalist desires—ultimately result in the moral and cultural degradation of the colonising nation. Thusly, colonisation is damaging to the civilisations that participate as perpetrators in a way that is internally harmful.
+
+
+== British public opinion about the British Empire ==
+The 2014 YouGov survey found that British people are mostly proud of colonialism and the British Empire:
+A new YouGov survey finds that most think the British Empire is more something to be proud of (59%) than to be ashamed of (19%). 23% don't know. Young people are least likely to feel pride over shame when it comes to the Empire, though about half (48%) of 18–24 year old's do. In comparison, about two-thirds (65%) of over 60's feel mostly proud. ... A third of British people (34%) also say they would like it if Britain still had an empire. Under half (45%) say they would not like the Empire to exist today. 20% don't know.
+
+
+== Colonial migrations ==
+
+Nations and regions outside Europe with significant populations of European ancestry
+
+Africa (see Europeans in Africa)
+South Africa (European South African): 5.8% of the population
+Namibia (European Namibians): 6.5% of the population, of which most are Afrikaans-speaking, in addition to a German-speaking minority.
+Réunion: estimated to be approx. 25% of the population
+Zimbabwe (Europeans in Zimbabwe)
+Algeria (Pied-noir)
+Botswana: 3% of the population
+Kenya (Europeans in Kenya)
+Mauritius (Franco-Mauritian)
+Morocco (European Moroccans)
+Ivory Coast (French people)
+Senegal
+Canary Islands (Spaniards), known as Canarians.
+Seychelles (Franco-Seychellois)
+Somalia (Italian Somalis)
+Eritrea (Italian Eritreans)
+Saint Helena (UK) including Tristan da Cunha (UK): predominantly European.
+Eswatini: 3% of the population
+Tunisia (European Tunisians)
+Asia
+Siberia (Russians, Germans and Ukrainians)
+Kazakhstan (Russians in Kazakhstan, Germans of Kazakhstan): 30% of the population
+Uzbekistan (Russians and other Slavs): 6% of the population
+Kyrgyzstan (Russians and other Slavs): 14% of the population
+Turkmenistan (Russians and other Slavs): 4% of the population
+Tajikistan (Russians and other Slavs): 1% of the population
+Hong Kong
+Philippines (Spanish Ancestry): 3% of the population
+China (Russians in China)
+Indian subcontinent (Anglo-Indians)
+Latin America (see White Latin American) 
+Argentina (European Immigration to Argentina): 97% european and mestizo of the population
+Bolivia: 15% of the population
+Brazil (White Brazilian): 47% of the population
+Chile (White Chilean): 60–70% of the population.
+Colombia (White Colombian): 37% of the population
+Costa Rica: 83% of the population
+Cuba (White Cuban): 65% of the population
+Dominican Republic: 16% of the population
+Ecuador: 7% of the population
+Honduras: 1% of the population
+El Salvador: 12% of the population
+Mexico (White Mexican): 9% or ~17% of the population. and 70–80% more as Mestizos.
+Nicaragua: 17% of the population
+Panama: 10% of the population
+Puerto Rico: approx. 80% of the population
+Peru (European Peruvian): 15% of the population
+Paraguay: approx. 20% of the population
+Uruguay (White Uruguayan): 88% of the population
+Venezuela (White Venezuelan): 42% of the population
+Rest of the Americas
+Bahamas: 12% of the population
+Barbados (White Barbadian): 4% of the population
+Bermuda: 34% of the population
+Canada (European Canadians): 80% of the population
+Falkland Islands: mostly of British descent.
+French Guiana: 12% of the population
+Greenland: 12% of the population
+Martinique: 5% of the population
+Saint Barthélemy
+Trinidad and Tobago: 1% of the population
+United States (European American): 72% of the population, including Hispanic and Non-Hispanic Whites.
+Oceania (see Europeans in Oceania)
+Australia (European Australians): 90% of the population
+New Zealand (European New Zealanders): 78% of the population
+New Caledonia (Caldoche): 35% of the population
+French Polynesia: (Zoreilles) 10% of the population
+Hawaii: 25% of the population
+Christmas Island: approx. 20% of the population.
+Guam: 7% of the population
+Norfolk Island: 9→5% of the population
+
+
+=== Numbers of European settlers in the colonies (1500–1914) ===
+
+By 1914, Europeans had migrated to the colonies in the millions. Some intended to remain in the colonies as temporary settlers, mainly as military personnel or on business. Others went to the colonies as immigrants. British people were by far the most numerous population to migrate to the colonies: 2.5 million settled in Canada; 1.5 million in Australia; 750,000 in New Zealand; 450,000 in the Union of South Africa; and 200,000 in India. French citizens also migrated in large numbers, mainly to the colonies in the north African Maghreb region: 1.3 million settled in Algeria; 200,000 in Morocco; 100,000 in Tunisia; while only 20,000 migrated to French Indochina. Dutch and German colonies saw relatively scarce European migration, since Dutch and German colonial expansion focused on commercial goals rather than settlement. Portugal sent 150,000 settlers to Angola, 80,000 to Mozambique, and 20,000 to Goa. During the Spanish Empire, approximately 550,000 Spanish settlers migrated to Latin America.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Albertini, Rudolf von. European Colonial Rule, 1880–1940: The Impact of the West on India, Southeast Asia, and Africa (1982) 581 pp
+Benjamin, Thomas, ed. Encyclopedia of Western Colonialism Since 1450 (2006)
+Cooper, Frederick. Colonialism in Question: Theory, Knowledge, History (2005)
+Cotterell, Arthur. Western Power in Asia: Its Slow Rise and Swift Fall, 1415 – 1999 (2009) popular history; excerpt
+Getz, Trevor R. and Heather Streets-Salter, eds.: Modern Imperialism and Colonialism: A Global Perspective (2010)
+Jensen, Niklas Thode; Simonsen, Gunvor (2016). "Introduction: The historiography of slavery in the Danish-Norwegian West Indies, c. 1950–2016". Scandinavian Journal of History. 41 (4–5): 475–494. doi:10.1080/03468755.2016.1210880.
+LeCour Grandmaison, Olivier: Coloniser, Exterminer – Sur la guerre et l'Etat colonial, Fayard, 2005, ISBN 2-213-62316-3
+Lindqvist, Sven: Exterminate All The Brutes, 1992, New Press; Reprint edition (June 1997), ISBN 978-1-56584-359-2
+Morris, Richard B. and Graham W. Irwin, eds. Harper Encyclopedia of the Modern World: A Concise Reference History from 1760 to the Present (1970) online
+Ness, Immanuel and Zak Cope, eds. The Palgrave Encyclopedia of Imperialism and Anti-Imperialism (2 vol 2015), 1456 pp
+Nuzzo, Luigi: Colonial Law, European History Online, Mainz: Institute of European History, 2010, retrieved: December 17, 2012.
+Osterhammel, Jürgen: Colonialism: A Theoretical Overview, Princeton, NJ: M. Wiener, 1997.
+Page, Melvin E. et al. eds. Colonialism: An International Social, Cultural, and Political Encyclopedia (3 vol 2003)
+Petringa, Maria, Brazza, A Life for Africa (2006), ISBN 978-1-4259-1198-0.
+Prashad, Vijay: The Darker Nations: A People's History of the Third World, The New Press, 2007. ISBN 978-1-56584-785-9
+Resendez, Andres (2016). The Other Slavery: The Uncovered Story of Indian Enslavement in America. Houghton Mifflin Harcourt. p. 448. ISBN 978-0544602670.
+Rönnbäck, K. & Broberg, O. (2019) Capital and Colonialism. The Return on British Investments in Africa 1869–1969 (Palgrave Studies in Economic History)
+Schill, Pierre : Réveiller l'archive d'une guerre coloniale. Photographies et écrits de Gaston Chérau, correspondant de guerre lors du conflit italo-turc pour la Libye (1911–1912), Créaphis, 480 p., 2018 (ISBN 978-2-35428-141-0). Awaken the archive of a colonial war. Photographs and writings of a French war correspondent during the Italo-Turkish war in Libya (1911–1912). With contributions from art historian Caroline Recher, critic Smaranda Olcèse, writer Mathieu Larnaudie and historian Quentin Deluermoz.
+Stuchtey, Benedikt: Colonialism and Imperialism, 1450–1950, European History Online, Mainz: Institute of European History, 2011, retrieved: July 13, 2011.
+Townsend, Mary Evelyn. European colonial expansion since 1871 (1941).
+U.S. Tariff Commission. Colonial tariff policies (1922), worldwide; 922pp survey online
+Velychenko, Stephen (2002). "The Issue of Russian Colonialism in Ukrainian Thought. Dependency Identity and Development". Ab Imperio. 2002 (1): 323–367. doi:10.1353/imp.2002.0070. S2CID 155635060. Ab Imperio E
+Wendt, Reinhard: European Overseas Rule, European History Online, Mainz: Institute of European History, 2011, retrieved: June 13, 2012.
+
+
+=== Primary sources ===
+Conrad, Joseph, Heart of Darkness, 1899
+Fanon, Frantz, The Wretched of the Earth, Preface by Jean-Paul Sartre. Translated by Constance Farrington. London: Penguin Book, 2001
+Las Casas, Bartolomé de, A Short Account of the Destruction of the Indies (1542, published in 1552).
+
+
+== External links ==
+ Quotations related to colonialism at Wikiquote
+Kohn, Margaret. "Colonialism".  In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+

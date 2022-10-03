@@ -1,0 +1,560 @@
+####### TITLE #######
+
+Big Bang
+
+####### LINKS #######
+
+['1,000,000,000 (number)', '2dF Galaxy Redshift Survey', '6dF Galaxy Survey', 'APM 08279+5255', 'A Brief History of Time', 'Abell 2744', 'Abiogenesis', 'Absolute zero', 'Accelerating expansion of the universe', 'Addison-Wesley', 'Age of the universe', 'Ahmed Farag Ali', 'Alan Guth', 'Alan Lightman', 'Albert Einstein', 'Alex Filippenko', 'Alexander Friedmann', 'Allan Sandage', 'American Physical Society', 'Americans', 'Anchor Books', 'Andrei Linde', 'Andrei Sakharov', 'Anisotropy', 'Annals of the New York Academy of Sciences', 'Annihilation', 'Annual Review of Astronomy and Astrophysics', 'Anthropic principle', 'Antimatter', 'Antiparticle', 'Apparent magnitude', 'ArXiv (identifier)', 'Aristotle', 'Arno Allan Penzias', 'Arthur Eddington', 'Astronomer', 'Astronomy & Astrophysics', 'Astronomy & Geophysics', 'Astronomy and Astrophysics Decadal Survey', 'Astrophysics', 'Astrophysics and Space Science', 'Atom', 'Atomic nucleus', 'BBC', 'BBC News', 'BBC Radio', 'BICEP and Keck Array', 'BOOMERanG experiment', 'Bantam Dell Publishing Group', 'Baryogenesis', 'Baryon', 'Baryon asymmetry', 'Baryon number', 'Baryonic matter', 'Basic Books', 'Belgium', 'Bernard Sadoulet', 'Bharat Ratra', 'Bibcode (identifier)', 'Big Bang (disambiguation)', 'Big Bang Theory (disambiguation)', 'Big Bang nucleosynthesis', 'Big Bounce', 'Big Crunch', 'Big History', 'Big History (TV series)', 'Big History Project', 'Big Rip', 'Big Slurp', 'Binary star', 'Black Hole Initiative', 'Black body', 'Black hole', 'Brane', 'Brane cosmology', 'Brian Schmidt', 'Brilliance Audio', 'C-symmetry', 'C. Marcella Carollo', 'CP violation', 'Cambridge University Press', 'Carl Sagan', 'Causality (physics)', 'Centre for Theoretical Cosmology', 'Characteristic length', 'Charles L. Bennett', 'Chemical element', 'Chinese Physics C', 'ChronoZoom', 'Chronology of the universe', 'CiteSeerX (identifier)', 'Clarendon Press', 'Classical and Quantum Gravity', 'Cold Big Bang', 'Cold dark matter', 'Comoving coordinates', 'Comoving distance', 'Coordinate system', 'Copernican principle', 'Cosmic Background Explorer', 'Cosmic Calendar', 'Cosmic age problem', 'Cosmic distance ladder', 'Cosmic microwave background', 'Cosmic neutrino background', 'Cosmogony', 'Cosmological constant', 'Cosmological constant problem', 'Cosmological horizon', 'Cosmological lithium problem', 'Cosmological principle', 'Cosmology', 'Curlie', 'Curvature', 'Cuspy halo problem', 'Cyclic model', 'Cynthia Stokes Brown', 'Dark Energy Survey', 'Dark energy', 'Dark fluid', 'Dark matter', 'Data point', 'David Christian (historian)', 'David Spergel', 'Deep time', 'Dennis Overbye', 'Density', 'Density gradient', 'Deuterium', 'Discovery of cosmic microwave background radiation', 'Distance measures (cosmology)', 'Doi (identifier)', 'Doppler effect', 'Dwarf galaxy problem', 'Eberly College of Science', 'Edmund Bertschinger', 'Edward Arthur Milne', 'Edward Kolb', 'Edward L. Wright', 'Edwin Hubble', 'Einstein field equations', 'Ekpyrotic universe', 'Electromagnetic force', 'Electromagnetic radiation', 'Electroweak epoch', 'Elementary particle', 'Emergence', 'Encyclopedia of Life Support Systems', 'Energy density', 'English people', 'Entropy', 'Equation of state (cosmology)', 'Eric Chaisson', 'Eternal inflation', 'Eternity of the world', 'Eureka: A Prose Poem', 'European Southern Observatory', 'Event horizon', 'Evolution', 'Expansion of the universe', 'Explicit symmetry breaking', 'Exponential growth', 'False vacuum', 'Falsifiability', 'Far future', 'Farrar, Straus and Giroux', 'Faster-than-light', 'Fine-structure constant', 'Flatness problem', 'Focal plane', 'Fred Adams', 'Fred Hoyle', 'Free Press (publisher)', 'Friedmann equations', 'Friedmann–Lemaître–Robertson–Walker metric', 'Fritz Zwicky', 'Fundamental force', 'Future of an expanding universe', 'Future plc', 'Galaxy', 'Galaxy cluster', 'Galaxy filament', 'Galaxy formation and evolution', 'Galaxy morphological classification', 'Galileo Galilei', 'Gary Gibbons', 'Gary Steigman', 'General Relativity and Gravitation', 'General relativity', 'Geologic time scale', 'George F. R. Ellis', 'George Gamow', 'George Smoot', 'Georges Lemaître', 'Globular cluster', 'Gluon', 'Goddard Space Flight Center', 'Goldilocks principle', 'Graeme Snooks', 'Grand Unified Theory', 'Grand unification epoch', 'Graphical timeline of the Big Bang', 'Gravitational-wave observatory', 'Gravitational collapse', 'Gravitational energy', 'Gravitational force', 'Gravitational lens', 'Gravitational potential', 'Gravitational singularity', 'Gravitational wave', 'Gravitational wave background', 'Gravity', 'Great Debate (astronomy)', 'Gregory P. Laughlin', 'Hadron epoch', 'Hannes Alfvén', 'Hans Bethe', 'HarperCollins', 'Hartle–Hawking state', 'Harvard Faculty of Arts and Sciences', 'Harvard University', 'Harvard–Smithsonian Center for Astrophysics', 'Hawking radiation', 'Hdl (identifier)', 'Heat death of the universe', 'Helge Kragh', 'Helium', 'Helium-3', 'Helium-4', 'Higgs mechanism', 'Hiranya Peiris', 'History of the Big Bang theory', 'Homogeneity (physics)', 'Homogeneous space', 'Horizon problem', 'Hot dark matter', 'How the Universe Works', "Hubble's law", 'Hubble Space Telescope', 'Hubble Ultra-Deep Field', 'Hubble parameter', 'Hubble–Lemaître law', 'Human evolution', 'Hydrogen', 'ISBN (identifier)', 'ISSN (identifier)', 'Illustris project', 'Imperial College Press', 'Infinity', 'Inflation (cosmology)', 'Inflationary epoch', 'Infrared', 'Inhomogeneous cosmology', 'Initial singularity', 'International Journal of Modern Physics D', 'International Journal of Modern Physics E', 'Isaac Newton', 'Isotopes of lithium', 'Isotropy', 'Ivor Robinson (physicist)', 'JSTOR (identifier)', 'James Hartle', 'Jay Pasachoff', 'Jesús Mosterín', 'Jet Propulsion Laboratory', 'Jim Peebles', 'Jo Dunkley', 'Johannes Kepler', 'John A. Peacock', 'John C. Mather', 'John D. Barrow', 'John Earman', 'John Huchra', 'Jonathan Cape', 'Joseph Silk', 'Journal of Astrophysics and Astronomy', 'Journal of Cosmology and Astroparticle Physics', 'Journal of Experimental and Theoretical Physics', 'Journal of Physics G', 'Jürgen Ehlers', 'Kelvin', 'Ken Croswell', 'Kilometres', 'Kluwer Academic Publishers', 'LCCN (identifier)', 'Lambda-CDM model', 'Large-scale structure of the Universe', 'Large-scale structure of the cosmos', 'Large quasar group', 'Lawrence M. Krauss', 'Lepton', 'Lepton epoch', 'Licia Verde', 'Light', 'Light element', 'List of cosmic microwave background experiments', 'List of cosmologists', 'List of unsolved problems in physics', 'Lithium', 'Lowell Observatory Bulletin', 'Magnetic monopole', 'Marc Aaronson', 'Marc Kamionkowski', 'Mario Livio', 'Martin Bojowald', 'Mathematician', 'Matter', 'Megaparsec', 'Mercury (magazine)', 'Metric expansion of space', 'Metric tensor', 'Michael Riordan (physicist)', 'Michael Turner (cosmologist)', 'Michael Woolfson', 'Microwave', 'Milky Way', 'Milne model', 'Modern Physics Letters A', 'Modern history', 'Modernity', 'Monthly Notices of the Royal Astronomical Society', 'Moon', 'Mount Wilson Observatory', 'Multiverse', 'NASA', 'National Academies Press', 'National Academies of Sciences, Engineering, and Medicine', 'National Academy of Sciences', 'Nature (journal)', 'Nature Physics', 'Nebular hypothesis', 'Neolithic Revolution', 'Neutrino', 'Neutron', 'Neutron star', 'New York Academy of Sciences', 'Nicholas B. Suntzeff', 'Nicolaus Copernicus', 'Nobel Prize in Physics', 'Non-standard cosmology', 'Normal distribution', 'Norman Jarosik', 'OCLC (identifier)', 'Observable Universe', 'Observable universe', 'Observational cosmology', 'Observational error', 'Oddbjørn Engvold', 'Olivier Doré', 'On the order of', 'Open Court Publishing Company', 'Oxford University Press', 'PMC (identifier)', 'PMID (identifier)', 'Pair production', 'Pallab Ghosh', 'Particle Data Group', 'Particle accelerator', 'Particle horizon', 'Particle physics', 'Paul Davies', 'Paul Steinhardt', 'Pennsylvania State University', 'Pequannock Township, New Jersey', 'Peter Harrison (historian)', 'Phantom energy', 'Phase transition', 'Philosophy of Science (journal)', 'Photon', 'Photon epoch', 'Physical Review', 'Physical Review D', 'Physical Review Letters', 'Physical cosmology', 'Physical theory', 'Physicist', 'Physics Letters', 'Physics Today', 'Pie chart', 'Planck (spacecraft)', 'Planck epoch', 'Planck length', 'Planck time', 'Planck units', 'Popular Astronomy (US magazine)', 'Prehistory', 'Pressure', 'Primordial fluctuations', 'Princeton University Press', 'Proceedings of the National Academy of Sciences', 'Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences', 'Progress of Theoretical Physics Supplement', 'Protogalaxy', 'Proton', 'Proton decay', 'Publications of the Astronomical Society of Australia', 'Quantum', 'Quantum fluctuation', 'Quantum gravity', 'Quantum mechanics', 'Quark', 'Quark epoch', 'Quark–gluon plasma', 'Quasar', 'Quintessence (physics)', 'Rachel Bean', 'Radiometric dating', 'Raghunathan Srianand', 'Rainer Weiss', 'Ralph Alpher', 'Ralph Asher Alpher', 'Rashid Sunyaev', 'Recessional velocity', 'Recombination (cosmology)', 'Red Wheel/Weiser/Conari', 'Redshift', 'Reionization', 'Relationship between religion and science', 'Relativistic speed', 'Religious interpretations of the Big Bang theory', 'Rest mass', 'Reviews of Modern Physics', 'Richard C. Tolman', 'Richard Dawkins', 'Richard Dawkins Foundation for Reason and Science', 'Robert H. Dicke', 'Robert Herman', 'Robert R. Caldwell', 'Robert Woodrow Wilson', 'Roger Penrose', 'Routledge', 'Russia', 'S2CID (identifier)', 'SUDOC (identifier)', 'Sakharov conditions', 'Scalar field', 'Scale factor (cosmology)', 'Scale invariance', 'Science (journal)', 'Science Channel', 'Science Mission Directorate', 'Science and Technology Facilities Council', 'Scientific American', 'Scientific law', 'Sean M. Carroll', 'Second', 'Shape of the universe', 'Simon & Schuster', 'Simon Mitton', 'Simon Singh', 'Singularity (mathematics)', 'Sloan Digital Sky Survey', 'Solar System', 'Somnath Bharadwaj', 'Source counts', 'Space.com', 'Spacetime', 'Special relativity', 'Spectral density', 'Spectral line', 'Spectroscopy', 'Speed of light', 'Spektrum der Wissenschaft', 'Spiral galaxy', 'Springer Science+Business Media', "St John's College, Cambridge", 'Standard Model', 'Standard error of estimation', 'Star', 'Star formation', 'Static universe', 'Steady-state model', 'Stellar age estimation', 'Stellar evolution', 'Stellar nucleosynthesis', 'Stellar population', 'Stellar wind', 'Stephen Hawking', 'Steven Weinberg', 'String theory', 'Strong nuclear force', 'Structure formation', 'Studies in History and Philosophy of Science Part B', 'Subatomic particle', 'Sunyaev–Zeldovich effect', 'Supercluster', 'Tamara Davis', 'Telescope', 'Temperature', 'Templeton Press', 'Tests of general relativity', 'The Astronomical Journal', 'The Astrophysical Journal', 'The Astrophysical Journal Supplement Series', 'The Big Bang Theory', 'The First Three Minutes', 'The Inflationary Universe', 'The Mind of God', 'The New York Times', 'The Road to Reality', 'Theory of relativity', 'Thermalization', 'Thermodynamic equilibrium', 'Thomson scattering', "Thunder's Mouth Press", 'Time', 'Timeline of cosmological theories', 'Timothy Ferris', 'Tired light', 'Tom Frame (bishop)', 'Topological defect', 'Topological manifold', 'Totalitarian principle', 'Type Ia supernova', 'UNESCO', 'Ultimate fate of the universe', 'Uncertainty principle', 'Universe', 'University of California, Berkeley', 'University of California, Los Angeles', 'University of California, Santa Cruz', 'University of Cambridge', 'Vacuum energy', 'Vera Rubin', 'Vesto Slipher', 'Vintage Books', 'WGBH-TV', 'Walter Alvarez', 'Warm dark matter', 'Wayback Machine', 'Weak-Nuclear Force', 'Weidenfeld & Nicolson', 'Wendy Freedman', 'Werner Israel', 'Wheeler–DeWitt equation', 'White dwarf', 'Why there is anything at all', 'Wiley-VCH', 'Wiley (publisher)', 'Wilkinson Microwave Anisotropy Probe', 'Willem B. Drees', 'Willem de Sitter', 'William Allen Zajc', 'William Lane Craig', 'World War II', 'X-ray astronomy', 'Yakov Zeldovich', 'Ylem', 'Zeitschrift für Physik', 'Zvi Bern']
+
+####### CATEGORIES #######
+
+['All Wikipedia articles written in American English', 'All articles with unsourced statements', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with Curlie links', 'Articles with EMU identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with NDL identifiers', 'Articles with NKC identifiers', 'Articles with SUDOC identifiers', 'Articles with hAudio microformats', 'Articles with short description', 'Articles with unsourced statements from June 2020', 'Astronomical events', 'Beginnings', 'Big Bang', 'CS1: long volume value', 'CS1 French-language sources (fr)', 'CS1 German-language sources (de)', 'CS1 Russian-language sources (ru)', 'Concepts in astronomy', 'Origins', 'Physical cosmology', 'Scientific models', 'Short description is different from Wikidata', 'Spoken articles', 'Use American English from May 2016', 'Use dmy dates from March 2020', 'Webarchive template wayback links', 'Wikipedia articles needing page number citations from January 2020', 'Wikipedia indefinitely semi-protected pages']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/7/7d/2MASS_LSS_chart-NEW_Nasa.jpg', 'https://upload.wikimedia.org/wikipedia/commons/c/cd/Cmbr.svg', 'https://upload.wikimedia.org/wikipedia/commons/7/76/Cosmological_Composition_%E2%80%93_Pie_Chart.svg', 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Earth-moon.jpg', 'https://upload.wikimedia.org/wikipedia/commons/7/78/En-BigBang.ogg', 'https://upload.wikimedia.org/wikipedia/commons/5/5f/He1523a.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/4d/Heic1401a-Abell2744-20140107.jpg', 'https://upload.wikimedia.org/wikipedia/commons/3/3c/Ilc_9yr_moll4096.png', 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/8b/Nuvola_apps_kalzium.svg', 'https://upload.wikimedia.org/wikipedia/commons/1/1a/PIA17993-DetectorsForInfantUniverseStudies-20140317.jpg', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Planck_satellite_cmb.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d6/RocketSunIcon.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg', 'https://upload.wikimedia.org/wikipedia/commons/4/47/Sound-icon.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg', 'https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Hubble_eXtreme_Deep_Field.jpg', 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Timeline_icon.svg', 'https://upload.wikimedia.org/wikipedia/commons/3/37/Universe_expansion2.png', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Wikiversity_logo_2017.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/9b/XDF-scale.jpg', 'https://upload.wikimedia.org/wikipedia/commons/a/a3/XDF-separated.jpg', 'https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg', 'https://upload.wikimedia.org/wikipedia/commons/9/98/End_of_universe.jpg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/1/1b/Semi-protection-shackle.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg']
+
+####### REFERENCES #######
+
+['http://cds.cern.ch/record/167897', 'http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/planck.html', 'http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.337.542', 'http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.758.6956', 'http://pages.astronomy.ua.edu/keel/galaxies/darkmatter.html', 'http://www.astro.ucla.edu/~wright/BBhistory.html', 'http://www.astro.ucla.edu/~wright/cosmology_faq.html#BBevidence', 'http://www.dpf99.library.ucla.edu/session9/white0910.pdf', 'http://home.physics.ucla.edu/calendar/conferences/dpf99/', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX528974', 'http://pdg.lbl.gov/2006/download/rpp-2006-book.pdf', 'http://pdg.lbl.gov/2006/reviews/darkmatrpp.pdf', 'http://pdg.lbl.gov/2014/reviews/rpp2014-rev-dark-energy.pdf', 'http://pdg.lbl.gov/2015/download/rpp2014-Chin.Phys.C.38.090001.pdf', 'http://pdg.lbl.gov/2018/reviews/rpp2018-rev-dark-energy.pdf', 'http://pdg.lbl.gov/2018/reviews/rpp2018-rev-dark-matter.pdf', 'http://lccn.loc.gov/00042415', 'http://lccn.loc.gov/2002013176', 'http://lccn.loc.gov/2002041704', 'http://lccn.loc.gov/2002071095', 'http://lccn.loc.gov/2004056306', 'http://lccn.loc.gov/2005277053', 'http://lccn.loc.gov/2006272995', 'http://lccn.loc.gov/2007936678', 'http://lccn.loc.gov/2008274126', 'http://lccn.loc.gov/2009010014', 'http://lccn.loc.gov/2010016793', 'http://lccn.loc.gov/2010052741', 'http://lccn.loc.gov/2011032519', 'http://lccn.loc.gov/2011293530', 'http://lccn.loc.gov/2012956159', 'http://lccn.loc.gov/2013012345', 'http://lccn.loc.gov/2013371163', 'http://lccn.loc.gov/34032023', 'http://lccn.loc.gov/35019093', 'http://lccn.loc.gov/72093671', 'http://lccn.loc.gov/78062112', 'http://lccn.loc.gov/87033333', 'http://lccn.loc.gov/87037440', 'http://lccn.loc.gov/89014030', 'http://lccn.loc.gov/90038498', 'http://lccn.loc.gov/91024894', 'http://lccn.loc.gov/91028606', 'http://lccn.loc.gov/93232406', 'http://lccn.loc.gov/94006343', 'http://lccn.loc.gov/94014980', 'http://lccn.loc.gov/94030452', 'http://lccn.loc.gov/94045995', 'http://lccn.loc.gov/96005612', 'http://lccn.loc.gov/96010781', 'http://lccn.loc.gov/96046117', 'http://lccn.loc.gov/98029460', 'http://lccn.loc.gov/99022278', 'http://pubmed.ncbi.nlm.nih.gov/10019408', 'http://pubmed.ncbi.nlm.nih.gov/10020536', 'http://pubmed.ncbi.nlm.nih.gov/10801117', 'http://pubmed.ncbi.nlm.nih.gov/10859119', 'http://pubmed.ncbi.nlm.nih.gov/11140672', 'http://pubmed.ncbi.nlm.nih.gov/12935004', 'http://pubmed.ncbi.nlm.nih.gov/16577160', 'http://pubmed.ncbi.nlm.nih.gov/16577237', 'http://pubmed.ncbi.nlm.nih.gov/17743107', 'http://pubmed.ncbi.nlm.nih.gov/18877094', 'http://pubmed.ncbi.nlm.nih.gov/22075722', 'http://pubmed.ncbi.nlm.nih.gov/30613193', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC522427', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC522555', 'http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6299071', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007284759505171', 'http://www.eolss.net/ebooklib/bookinfo/astronomy-astrophysics.aspx', 'http://hdl.handle.net/10044%2F1%2F60851', 'http://hdl.handle.net/2152%2F43001', 'http://www.aip.org/pnu/2005/split/728-1.html', 'http://arxiv.org/abs/0802.2005', 'http://arxiv.org/abs/0806.1731', 'http://arxiv.org/abs/1001.4744', 'http://arxiv.org/abs/1009.4505', 'http://arxiv.org/abs/1106.3928v2', 'http://arxiv.org/abs/1111.2334', 'http://arxiv.org/abs/1112.1320', 'http://arxiv.org/abs/1112.1862', 'http://arxiv.org/abs/1212.5225', 'http://arxiv.org/abs/1404.1207', 'http://arxiv.org/abs/1404.3093v3', 'http://arxiv.org/abs/1408.4795', 'http://arxiv.org/abs/1411.0753', 'http://arxiv.org/abs/1412.1408', 'http://arxiv.org/abs/1502.01589', 'http://arxiv.org/abs/1505.03070', 'http://arxiv.org/abs/1802.02231v2', 'http://arxiv.org/abs/1806.10122', 'http://arxiv.org/abs/astro-ph/0004404', 'http://arxiv.org/abs/astro-ph/0012222', 'http://arxiv.org/abs/astro-ph/0101009', 'http://arxiv.org/abs/astro-ph/0207347', 'http://arxiv.org/abs/astro-ph/0210134', 'http://arxiv.org/abs/astro-ph/0302209', 'http://arxiv.org/abs/astro-ph/0302506', 'http://arxiv.org/abs/astro-ph/0305591', 'http://arxiv.org/abs/astro-ph/0310808', 'http://arxiv.org/abs/astro-ph/0504215', 'http://arxiv.org/abs/astro-ph/0511534', 'http://arxiv.org/abs/astro-ph/0603449', 'http://arxiv.org/abs/astro-ph/0603588', 'http://arxiv.org/abs/astro-ph/9506068', 'http://arxiv.org/abs/astro-ph/9701131', 'http://arxiv.org/abs/astro-ph/9805201', 'http://arxiv.org/abs/astro-ph/9810166', 'http://arxiv.org/abs/astro-ph/9812133', 'http://arxiv.org/abs/astro-ph/9903232', 'http://arxiv.org/abs/astro-ph/9906421', 'http://arxiv.org/abs/astro-ph/9911445', 'http://arxiv.org/abs/hep-ph/9304273', 'http://arxiv.org/abs/hep-th/0012253', 'http://arxiv.org/abs/hep-th/0209261', 'http://www.astrosociety.org/pubs/mercury/31_02/nothing.html', 'http://bicepkeck.org/bicep2_2014_release.html', 'http://doi.org/10.1007%2F978-3-642-32254-9_8', 'http://doi.org/10.1007%2F978-94-011-4114-7', 'http://doi.org/10.1007%2FBF01332580', 'http://doi.org/10.1007%2FBF03012187', 'http://doi.org/10.1007%2Fs41114-018-0017-4', 'http://doi.org/10.1016%2F0370-2693(86)90611-8', 'http://doi.org/10.1016%2F0370-2693(93)91239-J', 'http://doi.org/10.1016%2FS1355-2198(02)00033-3', 'http://doi.org/10.1016%2Fj.dark.2013.11.004', 'http://doi.org/10.1016%2Fj.physletb.2014.12.057', 'http://doi.org/10.1017%2FCBO9781139152303.004', 'http://doi.org/10.1023%2FA:1017083700096', 'http://doi.org/10.1023%2FA:1026751225741', 'http://doi.org/10.1038%2F127447a0', 'http://doi.org/10.1038%2F127706b0', 'http://doi.org/10.1038%2F128704a0', 'http://doi.org/10.1038%2F162774b0', 'http://doi.org/10.1038%2F35010035', 'http://doi.org/10.1038%2F35050020', 'http://doi.org/10.1038%2Fnphys654', 'http://doi.org/10.1038%2Fscientificamerican0411-36', 'http://doi.org/10.1038%2Fscientificamerican0506-34a', 'http://doi.org/10.1046%2Fj.1365-8711.2003.06421.x', 'http://doi.org/10.1051%2F0004-6361%2F201525830', 'http://doi.org/10.1051%2F0004-6361:200809727', 'http://doi.org/10.1063%2F1.881126', 'http://doi.org/10.1071%2Fas03040', 'http://doi.org/10.1073%2Fpnas.15.10.773', 'http://doi.org/10.1073%2Fpnas.15.3.168', 'http://doi.org/10.1086%2F148307', 'http://doi.org/10.1086%2F149520', 'http://doi.org/10.1086%2F171797', 'http://doi.org/10.1086%2F300499', 'http://doi.org/10.1086%2F307221', 'http://doi.org/10.1086%2F312293', 'http://doi.org/10.1086%2F312744', 'http://doi.org/10.1086%2F377226', 'http://doi.org/10.1086%2F392675', 'http://doi.org/10.1086%2F509909', 'http://doi.org/10.1086%2F513700', 'http://doi.org/10.1088%2F0067-0049%2F192%2F2%2F14', 'http://doi.org/10.1088%2F0067-0049%2F208%2F2%2F20', 'http://doi.org/10.1088%2F0264-9381%2F32%2F10%2F105003', 'http://doi.org/10.1088%2F0954-3899%2F33%2F1%2F001', 'http://doi.org/10.1088%2F1475-7516%2F2012%2F02%2F013', 'http://doi.org/10.1088%2F1674-1137%2F38%2F9%2F090001', 'http://doi.org/10.1093%2Fastrogeo%2Fatt035', 'http://doi.org/10.1093%2Fmnras%2F108.5.372', 'http://doi.org/10.1093%2Fmnras%2F91.5.483', 'http://doi.org/10.1098%2Frspa.1970.0021', 'http://doi.org/10.1103%2FPhysRev.73.803', 'http://doi.org/10.1103%2FPhysRevD.23.347', 'http://doi.org/10.1103%2FPhysRevD.28.2960', 'http://doi.org/10.1103%2FPhysRevD.52.1821', 'http://doi.org/10.1103%2FPhysRevD.89.083510', 'http://doi.org/10.1103%2FPhysRevD.98.030001', 'http://doi.org/10.1103%2FPhysRevLett.91.071301', 'http://doi.org/10.1103%2FRevModPhys.69.337', 'http://doi.org/10.1103%2FRevModPhys.75.559', 'http://doi.org/10.1111%2Fj.1365-2966.2005.09601.x', 'http://doi.org/10.1111%2Fj.1749-6632.1989.tb50513.x', 'http://doi.org/10.1126%2Fscience.1213581', 'http://doi.org/10.1126%2Fscience.256.5055.321', 'http://doi.org/10.1142%2FS0217732316500449', 'http://doi.org/10.1142%2FS0217732386000129', 'http://doi.org/10.1142%2FS0218271811020561', 'http://doi.org/10.1142%2FS0218301306004028', 'http://doi.org/10.1143%2FPTPS.148.181', 'http://doi.org/10.1146%2Fannurev.astro.36.1.599', 'http://doi.org/10.1146%2Fannurev.nucl.58.020807.111839', 'http://www.jstor.org/stable/188736', 'http://pdfs.semanticscholar.org/ffc4/1045e433c10454ba32e811d25eafd3ac324f.pdf', 'http://www.worldcat.org/issn/0028-0836', 'http://www.worldcat.org/issn/0077-8923', 'http://www.worldcat.org/issn/0362-4331', 'http://www.worldcat.org/issn/2212-6864', 'http://www.worldcat.org/oclc/1087978842', 'http://www.worldcat.org/oclc/1088190774', 'http://www.worldcat.org/oclc/1088758264', 'http://www.worldcat.org/oclc/1100389944', 'http://www.worldcat.org/oclc/1120809270', 'http://www.worldcat.org/oclc/1123849709', 'http://www.worldcat.org/oclc/1319934', 'http://www.worldcat.org/oclc/226086793', 'http://www.worldcat.org/oclc/227004453', 'http://www.worldcat.org/oclc/237734029', 'http://www.worldcat.org/oclc/318253659', 'http://www.worldcat.org/oclc/34357391', 'http://www.worldcat.org/oclc/39256652', 'http://www.worldcat.org/oclc/43669022', 'http://www.worldcat.org/oclc/461940674', 'http://www.worldcat.org/oclc/475508230', 'http://www.worldcat.org/oclc/488469247', 'http://www.worldcat.org/oclc/488800074', 'http://www.worldcat.org/oclc/490957073', 'http://www.worldcat.org/oclc/554124256', 'http://www.worldcat.org/oclc/59940452', 'http://www.worldcat.org/oclc/60157380', 'http://www.worldcat.org/oclc/609531953', 'http://www.worldcat.org/oclc/61672162', 'http://www.worldcat.org/oclc/691095693', 'http://www.worldcat.org/oclc/709673181', 'http://www.worldcat.org/oclc/759923541', 'http://www.worldcat.org/oclc/774201415', 'http://www.worldcat.org/oclc/782015652', 'http://www.worldcat.org/oclc/798281050', 'http://www.worldcat.org/oclc/818734366', 'http://www.worldcat.org/oclc/835115510', 'http://www.worldcat.org/oclc/839779611', 'http://www.worldcat.org/oclc/850950122', 'http://www.worldcat.org/oclc/851369444', 'http://www.worldcat.org/oclc/875920635', 'http://www.worldcat.org/oclc/876678499', 'http://www.worldcat.org/oclc/905464231', 'http://www.worldcat.org/oclc/906709898', 'http://www.worldcat.org/oclc/919672203', 'http://www.worldcat.org/oclc/919976', 'http://www.worldcat.org/oclc/920157277', 'http://www.worldcat.org/oclc/937330165', 'http://www.worldcat.org/oclc/972341489', 'http://www.jetpletters.ac.ru/ps/1643/article_25089.pdf', 'http://www.jetpletters.ac.ru/ps/808/article_12459.pdf', 'http://esu.com.ua/search_articles.php?id=32732', 'http://www.ctc.cam.ac.uk/outreach/origins/big_bang_four.php', 'http://www.damtp.cam.ac.uk/user/gr/public/bb_pillars.html', 'http://news.bbc.co.uk/2/hi/uk_news/1503721.stm', 'http://www.hawking.org.uk/the-beginning-of-time.html', 'https://www.mso.anu.edu.au/~charley/papers/LineweaverDavisSciAm.pdf', 'https://cds.cern.ch/record/283096/files/9506068.pdf', 'https://www.bbc.com/news/science-environment-35524440', 'https://fermatslibrary.com/s/a-measurement-of-excess-antenna-temperature-at-4080-mc-s', 'https://books.google.com/?id=0mSCHC0QMUgC&pg=PA9', 'https://books.google.com/books?id=1mb-h1lom9IC&pg=PA137', 'https://books.google.com/books?id=5G3wdV1IPE4C&pg=PR17', 'https://books.google.com/books?id=MWKQhXo2eaIC&pg=PA129#v=onepage&q&f=false', 'https://books.google.com/books?id=Rx2Qf9ieFKYC&pg=PA128', 'https://books.google.com/books?id=Rx2Qf9ieFKYC&pg=PA129', 'https://books.google.com/books?id=TVhiDAAAQBAJ&pg=PA199', 'https://books.google.com/books?id=ZripBAAAQBAJ&pg=PT210', 'https://books.google.com/books?id=fp9wrkMYHvMC&pg=PA211', 'https://books.google.com/books?id=qjYbQ7EBAKwC&pg=PA323', 'https://books.google.com/books?id=zQaCSlEM-OEC&pg=PA272', 'https://translate.google.com/translate?sl=de&tl=en&prev=_t&hl=en&u=www.spektrum.de/news/quantentrick-schafft-urknall-singularitaet-ab/1332377', 'https://www.google.com/books/edition/Foundations_of_Modern_Cosmology/s5MUDAAAQBAJ?hl=en&gbpv=1&pg=PA355&printsec=frontcover', 'https://www.google.com/books?id=1--3BAAAQBAJ&pg=PA13', 'https://www.google.com/books?id=l8S9BwAAQBAJ&pg=PA4', 'https://www.google.com/books?id=wX4fEAAAQBAJ&pg=PA208', 'https://www.livescience.com/32278-was-the-big-bang-really-an-explosion.html', 'https://www.nytimes.com/2001/05/22/science/before-the-big-bang-there-was-what.html', 'https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html', 'https://www.nytimes.com/2014/03/25/science/space/ripples-from-the-big-bang.html', 'https://www.nytimes.com/2020/04/15/science/physics-neutrino-antimatter-ichikawa-t2k.html', 'https://onceuponauniverse.com/about/in-the-beginning/', 'https://www.science20.com/hammock_physicist/big_bang_big_bewilderment', 'https://www.sciencechannel.com/tv-shows/how-the-universe-works/full-episodes/first-second', 'https://www.scientificamerican.com/article/according-to-the-big-bang/', 'https://www.scientificamerican.com/article/the-future-of-gravitational-wave-astronomy/', 'https://www.space.com/16281-big-bang-god-intervention-science.html', 'https://www.space.com/17755-farthest-universe-view-hubble-space-telescope.html', 'https://www.space.com/19027-universe-baby-picture-wmap.html', 'https://www.space.com/2372-recycled-universe-theory-solve-cosmic-mystery.html', 'https://media.wiley.com/product_data/excerpt/42/35274076/3527407642.pdf', 'https://www.youtube.com/watch?v=7ImvlS8PLIo', 'https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph135484&CON_LNG=ENG', 'https://www.mpg.de/7044245/Planck_cmb_universe', 'https://www.spektrum.de/news/quantentrick-schafft-urknall-singularitaet-ab/1332377', 'https://astro.berkeley.edu/~dperley/univage/univage.html', 'https://ui.adsabs.harvard.edu/abs/1913LowOB...2...56S', 'https://ui.adsabs.harvard.edu/abs/1915PA.....23...21S', 'https://ui.adsabs.harvard.edu/abs/1922ZPhy...10..377F', 'https://ui.adsabs.harvard.edu/abs/1927ASSB...47...49L', 'https://ui.adsabs.harvard.edu/abs/1929PNAS...15..168H', 'https://ui.adsabs.harvard.edu/abs/1929PNAS...15..773Z', 'https://ui.adsabs.harvard.edu/abs/1931MNRAS..91..483L', 'https://ui.adsabs.harvard.edu/abs/1931Natur.127..447E', 'https://ui.adsabs.harvard.edu/abs/1931Natur.127..706L', 'https://ui.adsabs.harvard.edu/abs/1931Natur.128..704L', 'https://ui.adsabs.harvard.edu/abs/1948MNRAS.108..372H', 'https://ui.adsabs.harvard.edu/abs/1948Natur.162..774A', 'https://ui.adsabs.harvard.edu/abs/1948PhRv...73..803A', 'https://ui.adsabs.harvard.edu/abs/1965ApJ...142..419P', 'https://ui.adsabs.harvard.edu/abs/1968ApJ...152...25H', 'https://ui.adsabs.harvard.edu/abs/1970RSPSA.314..529H', 'https://ui.adsabs.harvard.edu/abs/1981PhRvD..23..347G', 'https://ui.adsabs.harvard.edu/abs/1983PhRvD..28.2960H', 'https://ui.adsabs.harvard.edu/abs/1986MPLA....1...81L', 'https://ui.adsabs.harvard.edu/abs/1986PhLB..175..395L', 'https://ui.adsabs.harvard.edu/abs/1988PhT....41h..24A', 'https://ui.adsabs.harvard.edu/abs/1989NYASA.571..249P', 'https://ui.adsabs.harvard.edu/abs/1992ApJ...397..420B', 'https://ui.adsabs.harvard.edu/abs/1993PhLB..314..298E', 'https://ui.adsabs.harvard.edu/abs/1995PhRvD..52.1821G', 'https://ui.adsabs.harvard.edu/abs/1997RvMP...69..337A', 'https://ui.adsabs.harvard.edu/abs/1998AJ....116.1009R', 'https://ui.adsabs.harvard.edu/abs/1998ARA&A..36..599B', 'https://ui.adsabs.harvard.edu/abs/1999A&A...343..439I', 'https://ui.adsabs.harvard.edu/abs/1999Ap&SS.269..721C', 'https://ui.adsabs.harvard.edu/abs/1999ApJ...517..565P', 'https://ui.adsabs.harvard.edu/abs/1999ApJ...524L...1M', 'https://ui.adsabs.harvard.edu/abs/1999GReGr..31.1991F', 'https://ui.adsabs.harvard.edu/abs/1999dpf..conf.....W', 'https://ui.adsabs.harvard.edu/abs/2000ApJ...536L..63M', 'https://ui.adsabs.harvard.edu/abs/2000Natur.404..955D', 'https://ui.adsabs.harvard.edu/abs/2000Natur.408..931S', 'https://ui.adsabs.harvard.edu/abs/2002Mercu..31b..15F', 'https://ui.adsabs.harvard.edu/abs/2002PThPS.148..181L', 'https://ui.adsabs.harvard.edu/abs/2002SHPMP..33..663R', 'https://ui.adsabs.harvard.edu/abs/2003ApJS..148..175S', 'https://ui.adsabs.harvard.edu/abs/2003JApA...24....3N', 'https://ui.adsabs.harvard.edu/abs/2003MNRAS.341..251W', 'https://ui.adsabs.harvard.edu/abs/2003PhRvL..91g1301C', 'https://ui.adsabs.harvard.edu/abs/2003RvMP...75..559P', 'https://ui.adsabs.harvard.edu/abs/2003ftpc.book..801L/abstract', 'https://ui.adsabs.harvard.edu/abs/2004PASA...21...97D', 'https://ui.adsabs.harvard.edu/abs/2004biba.book.....S', 'https://ui.adsabs.harvard.edu/abs/2004mmu..symp..291W', 'https://ui.adsabs.harvard.edu/abs/2005MNRAS.364..665D', 'https://ui.adsabs.harvard.edu/abs/2006IJMPE..15....1S', 'https://ui.adsabs.harvard.edu/abs/2006JPhG...33....1Y', 'https://ui.adsabs.harvard.edu/abs/2006SciAm.294e..34R', 'https://ui.adsabs.harvard.edu/abs/2007ApJ...655..128G', 'https://ui.adsabs.harvard.edu/abs/2007ApJS..170..377S', 'https://ui.adsabs.harvard.edu/abs/2007NatPh...3..523B', 'https://ui.adsabs.harvard.edu/abs/2008A&A...482L..39S', 'https://ui.adsabs.harvard.edu/abs/2008ARNPS..58..207T', 'https://ui.adsabs.harvard.edu/abs/2008arXiv0802.2005R', 'https://ui.adsabs.harvard.edu/abs/2009astro2010S..35B', 'https://ui.adsabs.harvard.edu/abs/2011ApJS..192...14J', 'https://ui.adsabs.harvard.edu/abs/2011IJMPD..20.2749D', 'https://ui.adsabs.harvard.edu/abs/2011Sci...334.1245F', 'https://ui.adsabs.harvard.edu/abs/2012ASSL..395...89B', 'https://ui.adsabs.harvard.edu/abs/2012JCAP...02..013A', 'https://ui.adsabs.harvard.edu/abs/2013A&G....54b2.28K', 'https://ui.adsabs.harvard.edu/abs/2013ApJS..208...20B', 'https://ui.adsabs.harvard.edu/abs/2013PDU.....2..195L', 'https://ui.adsabs.harvard.edu/abs/2014ChPhC..38i0001O', 'https://ui.adsabs.harvard.edu/abs/2014PhRvD..89h3510H', 'https://ui.adsabs.harvard.edu/abs/2014arXiv1401.0046M/abstract', 'https://ui.adsabs.harvard.edu/abs/2014arXiv1408.4795H', 'https://ui.adsabs.harvard.edu/abs/2015CQGra..32j5003D', 'https://ui.adsabs.harvard.edu/abs/2015PhLB..741..276F', 'https://ui.adsabs.harvard.edu/abs/2016A&A...594A..13P', 'https://ui.adsabs.harvard.edu/abs/2016MPLA...3150044L', 'https://ui.adsabs.harvard.edu/abs/2018PhRvD..98c0001T', 'https://ui.adsabs.harvard.edu/abs/2018arXiv180202231C', 'https://ui.adsabs.harvard.edu/abs/2019LRR....22....1I', 'https://lweb.cfa.harvard.edu/seuforum/faq.htm#m12', 'https://www.cfa.harvard.edu/~dfabricant/huchra/hubble/', 'https://physics.princeton.edu/~steinh/0411036.pdf', 'https://science.psu.edu/news-and-events/2007-news/Bojowald6-2007.htm', 'https://news.ucsc.edu/2011/11/pristine-gas.html', 'https://rhig.physics.yale.edu/Summer2014/sc%20am%20-%20zjac%20and%20riordan.pdf', 'https://catalogue.bnf.fr/ark:/12148/cb12043075w', 'https://data.bnf.fr/ark:/12148/cb12043075w', 'https://www.idref.fr/02863537X', 'https://journal.ibsu.edu.ge/index.php/ibsusj/article/view/180', 'https://id.loc.gov/authorities/subjects/sh85013943', 'https://apod.nasa.gov/debate/1996/hub_1929.html', 'https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/online_edition/1955/hoyle.html', 'https://lambda.gsfc.nasa.gov/product/map/dr4/pub_papers/sevenyear/basic_results/wmap_7yr_basic_results.pdf', 'https://map.gsfc.nasa.gov/universe/', 'https://map.gsfc.nasa.gov/universe/bb_theory.html', 'https://map.gsfc.nasa.gov/universe/uni_fate.html', 'https://www.jpl.nasa.gov/news/news.php?release=2014-007', 'https://www.jpl.nasa.gov/news/news.php?release=2014-082', 'https://science.nasa.gov/astrophysics/focus-areas/what-powered-the-big-bang/', 'https://d-nb.info/gnd/4187224-1', 'https://id.ndl.go.jp/auth/ndlna/01055844', 'https://webspace.science.uu.nl/~proko101/JanGWeenink_bg3.pdf', 'https://archive.org/details/B-001-004-204', 'https://archive.org/details/Mario_Livio-The_Accelerating_Universe-AUDiOBOOK-WEB-2018-PROLOG', 'https://archive.org/details/RelativityGravitationAndWorldStructure', 'https://archive.org/details/RoadToRealityRobertPenrose', 'https://archive.org/details/TheFirstThreeMinutesAModernViewOfTheOriginOfTheUniverseS.Weinberg', 'https://archive.org/details/TheLargeScaleStructureOfSpaceTime', 'https://archive.org/details/alchemyofheavens00cros/page/', 'https://archive.org/details/beyondbigbangqua0000dree/page/223', 'https://archive.org/details/bigbang00simo_0', 'https://archive.org/details/cosmologicalphys0000peac', 'https://archive.org/details/cosmologycontrov00helg', 'https://archive.org/details/edwinhubblemarin00chri', 'https://archive.org/details/in.ernet.dli.2015.177229/page/n1', 'https://archive.org/details/introducingeinst0000dinv', 'https://archive.org/details/originofuniverse00barr', 'https://archive.org/details/universefromnoth0000krau', 'https://archive.org/details/universefromnoth0000krau/page/118', 'https://archive.org/details/veryfirstlight00john', 'https://web.archive.org/web/19980128054235/http://www.damtp.cam.ac.uk/user/gr/public/bb_pillars.html', 'https://web.archive.org/web/19990423033457/https://www.pbs.org/wgbh/aso/databank/entries/dp27bi.html', 'https://web.archive.org/web/20050423224100/http://www.aip.org/pnu/2005/split/728-1.html', 'https://web.archive.org/web/20060911000604/https://astro.berkeley.edu/~dperley/univage/univage.html', 'https://web.archive.org/web/20061001060258/https://apod.nasa.gov/debate/1996/hub_1929.html', 'https://web.archive.org/web/20090413141208/https://www8.nationalacademies.org/astro2010/DetailFileDisplay.aspx?id=225', 'https://web.archive.org/web/20110629050256/https://map.gsfc.nasa.gov/universe/', 'https://web.archive.org/web/20110807103919/http://www8.nationalacademies.org/astro2010/DetailFileDisplay.aspx?id=243', 'https://web.archive.org/web/20111114140012/https://news.ucsc.edu/2011/11/pristine-gas.html', 'https://web.archive.org/web/20130227035220/http://www.nytimes.com/2001/05/22/science/before-the-big-bang-there-was-what.html', 'https://web.archive.org/web/20130620105441/http://www.astro.ucla.edu/~wright/cosmology_faq.html', 'https://web.archive.org/web/20131022135932/http://www.astrosociety.org/pubs/mercury/31_02/nothing.html', 'https://web.archive.org/web/20131102133646/http://www.ctc.cam.ac.uk/outreach/origins/big_bang_four.php', 'https://web.archive.org/web/20140317154023/https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html', 'https://web.archive.org/web/20140318190423/http://bicepkeck.org/', 'https://web.archive.org/web/20140325015901/https://www.nytimes.com/2014/03/25/science/space/ripples-from-the-big-bang.html', 'https://web.archive.org/web/20140526084945/https://www.joh.cam.ac.uk/library/special_collections/hoyle/exhibition/radio/', 'https://web.archive.org/web/20141130184142/http://rhig.physics.yale.edu/M_article_11_2005.pdf', 'https://web.archive.org/web/20160211235836/https://www.bbc.com/news/science-environment-35524440', 'https://web.archive.org/web/20160213012852/https://www.scientificamerican.com/article/the-future-of-gravitational-wave-astronomy/', 'https://web.archive.org/web/20160413195349/https://www.cfa.harvard.edu/seuforum/faq.htm', 'https://web.archive.org/web/20170130212215/http://pdg.lbl.gov/2015/download/rpp2014-Chin.Phys.C.38.090001.pdf', 'https://web.archive.org/web/20170204083018/http://www.dpf99.library.ucla.edu/session9/white0910.pdf', 'https://web.archive.org/web/20170212055045/http://pdg.lbl.gov/2006/download/rpp-2006-book.pdf', 'https://web.archive.org/web/20170721041648/https://www.spektrum.de/news/quantentrick-schafft-urknall-singularitaet-ab/1332377', 'https://web.archive.org/web/20180310172435/https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/online_edition/1955/hoyle.html', 'https://web.archive.org/web/20180728190714/http://www.jetpletters.ac.ru/ps/808/article_12459.pdf', 'https://web.archive.org/web/20190309060807/http://pdfs.semanticscholar.org/ffc4/1045e433c10454ba32e811d25eafd3ac324f.pdf', 'https://web.archive.org/web/20190417211031/http://cds.cern.ch/record/167897/', 'https://web.archive.org/web/20190502001358/https://cds.cern.ch/record/283096/files/9506068.pdf', 'https://web.archive.org/web/20190502001358/https://spiral.imperial.ac.uk/bitstream/10044/1/60851/2/0004404v1.pdf', 'https://web.archive.org/web/20190503112916/http://pages.astronomy.ua.edu/keel/galaxies/darkmatter.html', 'https://web.archive.org/web/20190903152416/http://news.bbc.co.uk/2/hi/uk_news/1503721.stm', 'https://web.archive.org/web/20190903225105/https://www.jpl.nasa.gov/news/news.php?release=2014-007', 'https://web.archive.org/web/20190906000057/https://www.space.com/2372-recycled-universe-theory-solve-cosmic-mystery.html', 'https://web.archive.org/web/20190914181522/https://lambda.gsfc.nasa.gov/product/map/dr4/pub_papers/sevenyear/basic_results/wmap_7yr_basic_results.pdf', 'https://web.archive.org/web/20190930124013/https://www.cfa.harvard.edu/~dfabricant/huchra/hubble/', 'https://web.archive.org/web/20191009072713/https://www.mso.anu.edu.au/~charley/papers/LineweaverDavisSciAm.pdf', 'https://web.archive.org/web/20191010183450/https://www.jpl.nasa.gov/news/news.php?release=2014-082', 'https://web.archive.org/web/20191012164808/https://www.space.com/17755-farthest-universe-view-hubble-space-telescope.html', 'https://web.archive.org/web/20191014185903/https://fermatslibrary.com/s/a-measurement-of-excess-antenna-temperature-at-4080-mc-s', 'https://web.archive.org/web/20191015052245/https://map.gsfc.nasa.gov/universe/uni_fate.html', 'https://web.archive.org/web/20191029114309/https://www.space.com/19027-universe-baby-picture-wmap.html', 'https://web.archive.org/web/20191101165817/https://physics.princeton.edu/~steinh/0411036.pdf', 'https://web.archive.org/web/20191106162705/http://www.hawking.org.uk/the-beginning-of-time.html', 'https://web.archive.org/web/20191109163819/http://www.jetpletters.ac.ru/ps/1643/article_25089.pdf', 'https://web.archive.org/web/20191215041942/http://science.psu.edu/news-and-events/2007-news/Bojowald6-2007.htm/', 'https://web.archive.org/web/20200415151520/https://www.nytimes.com/2020/04/15/science/physics-neutrino-antimatter-ichikawa-t2k.html', 'https://web.archive.org/web/20200622230141/https://onceuponauniverse.com/about/in-the-beginning/', 'https://curlie.org/Science/Astronomy/Cosmology/', 'https://doi.org/10.1007%2F978-94-011-4114-7_85', 'https://www.eso.org/public/usa/news/eso0043/', 'https://ghostarchive.org/varchive/youtube/20211123/7ImvlS8PLIo', 'https://www8.nationalacademies.org/astro2010/DetailFileDisplay.aspx?id=225', 'https://www8.nationalacademies.org/astro2010/DetailFileDisplay.aspx?id=243', 'https://www.pbs.org/wgbh/aso/databank/entries/dp27bi.html', 'https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/the-ultimate-question-of-origins-god-and-the-beginning-of-the-universe', 'https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/the-ultimate-question-of-origins-god-and-the-beginning-of-the-universe/', 'https://api.semanticscholar.org/CorpusID:10794058', 'https://api.semanticscholar.org/CorpusID:10855653', 'https://api.semanticscholar.org/CorpusID:117794135', 'https://api.semanticscholar.org/CorpusID:118371273', 'https://api.semanticscholar.org/CorpusID:118910636', 'https://api.semanticscholar.org/CorpusID:118961123', 'https://api.semanticscholar.org/CorpusID:119194106', 'https://api.semanticscholar.org/CorpusID:119199160', 'https://api.semanticscholar.org/CorpusID:119205665', 'https://api.semanticscholar.org/CorpusID:119220266', 'https://api.semanticscholar.org/CorpusID:119247745', 'https://api.semanticscholar.org/CorpusID:119261969', 'https://api.semanticscholar.org/CorpusID:119262962', 'https://api.semanticscholar.org/CorpusID:119270708', 'https://api.semanticscholar.org/CorpusID:119271232', 'https://api.semanticscholar.org/CorpusID:1193946', 'https://api.semanticscholar.org/CorpusID:119406262', 'https://api.semanticscholar.org/CorpusID:119498512', 'https://api.semanticscholar.org/CorpusID:120393154', 'https://api.semanticscholar.org/CorpusID:12173790', 'https://api.semanticscholar.org/CorpusID:12188807', 'https://api.semanticscholar.org/CorpusID:122383812', 'https://api.semanticscholar.org/CorpusID:122950995', 'https://api.semanticscholar.org/CorpusID:123471347', 'https://api.semanticscholar.org/CorpusID:123472763', 'https://api.semanticscholar.org/CorpusID:125190902', 'https://api.semanticscholar.org/CorpusID:13068122', 'https://api.semanticscholar.org/CorpusID:1386346', 'https://api.semanticscholar.org/CorpusID:15640044', 'https://api.semanticscholar.org/CorpusID:1924091', 'https://api.semanticscholar.org/CorpusID:206574821', 'https://api.semanticscholar.org/CorpusID:2434386', 'https://api.semanticscholar.org/CorpusID:27518923', 'https://api.semanticscholar.org/CorpusID:29015610', 'https://api.semanticscholar.org/CorpusID:37979862', 'https://api.semanticscholar.org/CorpusID:4028196', 'https://api.semanticscholar.org/CorpusID:4089233', 'https://api.semanticscholar.org/CorpusID:4113488', 'https://api.semanticscholar.org/CorpusID:4140648', 'https://api.semanticscholar.org/CorpusID:4313603', 'https://api.semanticscholar.org/CorpusID:4412370', 'https://api.semanticscholar.org/CorpusID:46171526', 'https://api.semanticscholar.org/CorpusID:55463396', 'https://api.semanticscholar.org/CorpusID:9007190', 'https://api.semanticscholar.org/CorpusID:9751130', 'https://www.wikidata.org/wiki/Q323#identifiers', 'https://zenodo.org/record/896670', 'https://www.joh.cam.ac.uk/library/special_collections/hoyle/exhibition/radio/', 'https://spiral.imperial.ac.uk/bitstream/10044/1/60851/2/0004404v1.pdf']
+
+####### SUMMARY #######
+
+The Big Bang event is a physical theory that describes how the universe expanded from an initial state of high density and temperature. Various cosmological models of the Big Bang explain the evolution of the observable universe from the earliest known periods through its subsequent large-scale form. These models offer a comprehensive explanation for a broad range of observed phenomena, including the abundance of light elements, the cosmic microwave background (CMB) radiation, and large-scale structure. The overall uniformity of the Universe, known as the flatness problem, is explained through cosmic inflation: a sudden and very rapid expansion of space during the earliest moments. However, physics currently lacks a widely accepted theory of quantum gravity that can successfully model the earliest conditions of the Big Bang.
+Crucially, these models are compatible with Hubble–Lemaître law—the observation that the farther away a galaxy is, the faster it is moving away from Earth. Extrapolating this cosmic expansion backwards in time using the known laws of physics, the models describe an increasingly concentrated cosmos preceded by a singularity in which space and time lose meaning (typically named "the Big Bang singularity"). In 1964 the CMB was discovered, which convinced many cosmologists that the competing steady-state model of cosmic evolution was falsified, since the Big Bang models predict a uniform background radiation caused by high temperatures and densities in the distant past. A wide range of empirical evidence strongly favors the Big Bang event, which is now essentially universally accepted. Detailed measurements of the expansion rate of the universe place the Big Bang singularity at an estimated 13.787±0.020 billion years ago, which is considered the age of the universe.There remain aspects of the observed universe that are not yet adequately explained by the Big Bang models. After its initial expansion, the universe cooled sufficiently to allow the formation of subatomic particles, and later atoms. The unequal abundances of matter and antimatter that allowed this to occur is an unexplained effect known as baryon asymmetry. These primordial elements—mostly hydrogen, with some helium and lithium—later coalesced through gravity, forming early stars and galaxies. Astronomers observe the gravitational effects of an unknown and unexplained dark matter surrounding galaxies. Most of the gravitational potential in the universe seems to be in this form, and the Big Bang models and various observations indicate that this excess gravitational potential is not created by baryonic matter, such as normal atoms. Measurements of the redshifts of supernovae indicate that the expansion of the universe is accelerating, an observation attributed to an unexplained phenomenon known as dark energy.
+
+####### CONTENT #######
+
+The Big Bang event is a physical theory that describes how the universe expanded from an initial state of high density and temperature. Various cosmological models of the Big Bang explain the evolution of the observable universe from the earliest known periods through its subsequent large-scale form. These models offer a comprehensive explanation for a broad range of observed phenomena, including the abundance of light elements, the cosmic microwave background (CMB) radiation, and large-scale structure. The overall uniformity of the Universe, known as the flatness problem, is explained through cosmic inflation: a sudden and very rapid expansion of space during the earliest moments. However, physics currently lacks a widely accepted theory of quantum gravity that can successfully model the earliest conditions of the Big Bang.
+Crucially, these models are compatible with Hubble–Lemaître law—the observation that the farther away a galaxy is, the faster it is moving away from Earth. Extrapolating this cosmic expansion backwards in time using the known laws of physics, the models describe an increasingly concentrated cosmos preceded by a singularity in which space and time lose meaning (typically named "the Big Bang singularity"). In 1964 the CMB was discovered, which convinced many cosmologists that the competing steady-state model of cosmic evolution was falsified, since the Big Bang models predict a uniform background radiation caused by high temperatures and densities in the distant past. A wide range of empirical evidence strongly favors the Big Bang event, which is now essentially universally accepted. Detailed measurements of the expansion rate of the universe place the Big Bang singularity at an estimated 13.787±0.020 billion years ago, which is considered the age of the universe.There remain aspects of the observed universe that are not yet adequately explained by the Big Bang models. After its initial expansion, the universe cooled sufficiently to allow the formation of subatomic particles, and later atoms. The unequal abundances of matter and antimatter that allowed this to occur is an unexplained effect known as baryon asymmetry. These primordial elements—mostly hydrogen, with some helium and lithium—later coalesced through gravity, forming early stars and galaxies. Astronomers observe the gravitational effects of an unknown and unexplained dark matter surrounding galaxies. Most of the gravitational potential in the universe seems to be in this form, and the Big Bang models and various observations indicate that this excess gravitational potential is not created by baryonic matter, such as normal atoms. Measurements of the redshifts of supernovae indicate that the expansion of the universe is accelerating, an observation attributed to an unexplained phenomenon known as dark energy.
+
+
+== Features of the models ==
+The Big Bang models offer a comprehensive explanation for a broad range of observed phenomena, including the abundances of the light elements, the CMB, large-scale structure, and Hubble's law. The theory depends on two major assumptions: the universality of physical laws and the cosmological principle. The universality of physical laws is one of the underlying principles of the theory of relativity. The cosmological principle states that on large scales the universe is homogeneous and isotropic—appearing the same in all directions regardless of location.These ideas were initially taken as postulates, but later efforts were made to test each of them. For example, the first assumption has been tested by observations showing that largest possible deviation of the fine-structure constant over much of the age of the universe is of order 10−5. Also, general relativity has passed stringent tests on the scale of the Solar System and binary stars.The large-scale universe appears isotropic as viewed from Earth. If it is indeed isotropic, the cosmological principle can be derived from the simpler Copernican principle, which states that there is no preferred (or special) observer or vantage point. To this end, the cosmological principle has been confirmed to a level of 10−5 via observations of the temperature of the CMB. At the scale of the CMB horizon, the universe has been measured to be homogeneous with an upper bound on the order of 10% inhomogeneity, as of 1995.
+
+
+=== Expansion of space ===
+
+The expansion of the Universe was inferred from early twentieth century astronomical observations and is an essential ingredient of the Big Bang models. Mathematically, general relativity describes spacetime by a metric, which determines the distances that separate nearby points. The points, which can be galaxies, stars, or other objects, are specified using a coordinate chart or "grid" that is laid down over all spacetime. The cosmological principle implies that the metric should be homogeneous and isotropic on large scales, which uniquely singles out the Friedmann–Lemaître–Robertson–Walker (FLRW) metric. This metric contains a scale factor, which describes how the size of the universe changes with time. This enables a convenient choice of a coordinate system to be made, called comoving coordinates. In this coordinate system, the grid expands along with the universe, and objects that are moving only because of the expansion of the universe remain at fixed points on the grid. While their coordinate distance (comoving distance) remains constant, the physical distance between two such co-moving points expands proportionally with the scale factor of the universe.The Big Bang is not an explosion of matter moving outward to fill an empty universe. Instead, space itself expands with time everywhere and increases the physical distances between comoving points. In other words, the Big Bang is not an explosion in space, but rather an expansion of space. Because the FLRW metric assumes a uniform distribution of mass and energy, it applies to our universe only on large scales—local concentrations of matter such as our galaxy do not necessarily expand with the same speed as the whole Universe.
+
+
+=== Horizons ===
+
+An important feature of the Big Bang spacetime is the presence of particle horizons. Since the universe has a finite age, and light travels at a finite speed, there may be events in the past whose light has not yet had time to reach us. This places a limit or a past horizon on the most distant objects that can be observed. Conversely, because space is expanding, and more distant objects are receding ever more quickly, light emitted by us today may never "catch up" to very distant objects. This defines a future horizon, which limits the events in the future that we will be able to influence. The presence of either type of horizon depends on the details of the FLRW model that describes our universe.Our understanding of the universe back to very early times suggests that there is a past horizon, though in practice our view is also limited by the opacity of the universe at early times. So our view cannot extend further backward in time, though the horizon recedes in space. If the expansion of the universe continues to accelerate, there is a future horizon as well.
+
+
+=== Thermalization ===
+Some processes in the early universe occurred too slowly, compared to the expansion rate of the universe, to reach approximate thermodynamic equilibrium. Others were fast enough to reach thermalization. The parameter usually used to find out whether a process in the very early universe has reached thermal equilibrium is the ratio between the rate of the process (usually rate of collisions between particles) and the Hubble parameter. The larger the ratio, the more time particles had to thermalize before they were too far away from each other.
+
+
+== Timeline ==
+
+According to the Big Bang models, the universe at the beginning was very hot and very compact, and since then it has been expanding and cooling down.
+
+
+=== Singularity ===
+
+Extrapolation of the expansion of the universe backwards in time using general relativity yields an infinite density and temperature at a finite time in the past. This irregular behavior, known as the gravitational singularity, indicates that general relativity is not an adequate description of the laws of physics in this regime. Models based on general relativity alone can not extrapolate toward the singularity—before the end of the so-called Planck epoch.This primordial singularity is itself sometimes called "the Big Bang", but the term can also refer to a more generic early hot, dense phase of the universe. In either case, "the Big Bang" as an event is also colloquially referred to as the "birth" of our universe since it represents the point in history where the universe can be verified to have entered into a regime where the laws of physics as we understand them (specifically general relativity and the Standard Model of particle physics) work. Based on measurements of the expansion using Type Ia supernovae and measurements of temperature fluctuations in the cosmic microwave background, the time that has passed since that event—known as the "age of the universe"—is 13.8 billion years.Despite being extremely dense at this time—far denser than is usually required to form a black hole—the universe did not re-collapse into a singularity. Commonly used calculations and limits for explaining gravitational collapse are usually based upon objects of relatively constant size, such as stars, and do not apply to rapidly expanding space such as the Big Bang. Since the early universe did not immediately collapse into a multitude of black holes, matter at that time must have been very evenly distributed with a negligible density gradient.
+
+
+=== Inflation and baryogenesis ===
+
+The earliest phases of the Big Bang are subject to much speculation, since astronomical data about them are not available. In the most common models the universe was filled homogeneously and isotropically with a very high energy density and huge temperatures and pressures, and was very rapidly expanding and cooling. The period from 0 to 10−43 seconds into the expansion, the Planck epoch, was a phase in which the four fundamental forces — the electromagnetic force, the strong nuclear force, the weak nuclear force, and the gravitational force, were unified as one. In this stage, the characteristic scale length of the universe was the Planck length, 1.6×10−35 m, and consequently had a temperature of approximately 1032 degrees Celsius. Even the very concept of a particle breaks down in these conditions. A proper understanding of this period awaits the development of a theory of quantum gravity. The Planck epoch was succeeded by the grand unification epoch beginning at 10−43 seconds, where gravitation separated from the other forces as the universe's temperature fell.At approximately 10−37 seconds into the expansion, a phase transition caused a cosmic inflation, during which the universe grew exponentially, unconstrained by the light speed invariance, and temperatures dropped by a factor of 100,000. Microscopic quantum fluctuations that occurred because of Heisenberg's uncertainty principle were amplified into the seeds that would later form the large-scale structure of the universe. At a time around 10−36 seconds, the electroweak epoch begins when the strong nuclear force separates from the other forces, with only the electromagnetic force and weak nuclear force remaining unified.Inflation stopped at around the 10−33 to 10−32 seconds mark, with the universe's volume having increased by a factor of at least 1078. Reheating occurred until the universe obtained the temperatures required for the production of a quark–gluon plasma as well as all other elementary particles. Temperatures were so high that the random motions of particles were at relativistic speeds, and particle–antiparticle pairs of all kinds were being continuously created and destroyed in collisions. At some point, an unknown reaction called baryogenesis violated the conservation of baryon number, leading to a very small excess of quarks and leptons over antiquarks and antileptons—of the order of one part in 30 million. This resulted in the predominance of matter over antimatter in the present universe.
+
+
+=== Cooling ===
+
+The universe continued to decrease in density and fall in temperature, hence the typical energy of each particle was decreasing. Symmetry-breaking phase transitions put the fundamental forces of physics and the parameters of elementary particles into their present form, with the electromagnetic force and weak nuclear force separating at about 10−12 seconds. After about 10−11 seconds, the picture becomes less speculative, since particle energies drop to values that can be attained in particle accelerators. At about 10−6 seconds, quarks and gluons combined to form baryons such as protons and neutrons. The small excess of quarks over antiquarks led to a small excess of baryons over antibaryons. The temperature was no longer high enough to create either new proton–antiproton or neutron–antineutron pairs. A mass annihilation immediately followed, leaving just one in 108 of the original matter particles and none of their antiparticles. A similar process happened at about 1 second for electrons and positrons. After these annihilations, the remaining protons, neutrons and electrons were no longer moving relativistically and the energy density of the universe was dominated by photons (with a minor contribution from neutrinos).
+A few minutes into the expansion, when the temperature was about a billion kelvin and the density of matter in the universe was comparable to the current density of Earth's atmosphere, neutrons combined with protons to form the universe's deuterium and helium nuclei in a process called Big Bang nucleosynthesis (BBN). Most protons remained uncombined as hydrogen nuclei.As the universe cooled, the rest energy density of matter came to gravitationally dominate that of the photon radiation. After about 379,000 years, the electrons and nuclei combined into atoms (mostly hydrogen), which were able to emit radiation. This relic radiation, which continued through space largely unimpeded, is known as the cosmic microwave background.
+
+
+=== Structure formation ===
+
+Over a long period of time, the slightly denser regions of the uniformly distributed matter gravitationally attracted nearby matter and thus grew even denser, forming gas clouds, stars, galaxies, and the other astronomical structures observable today. The details of this process depend on the amount and type of matter in the universe. The four possible types of matter are known as cold dark matter, warm dark matter, hot dark matter, and baryonic matter. The best measurements available, from the Wilkinson Microwave Anisotropy Probe (WMAP), show that the data is well-fit by a Lambda-CDM model in which dark matter is assumed to be cold (warm dark matter is ruled out by early reionization), and is estimated to make up about 23% of the matter/energy of the universe, while baryonic matter makes up about 4.6%. In an "extended model" which includes hot dark matter in the form of neutrinos, then if the "physical baryon density" 
+  
+    
+      
+        
+          Ω
+          
+            b
+          
+        
+        
+          h
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \Omega _{\text{b}}h^{2}}
+   is estimated at about 0.023 (this is different from the 'baryon density' 
+  
+    
+      
+        
+          Ω
+          
+            b
+          
+        
+      
+    
+    {\displaystyle \Omega _{\text{b}}}
+   expressed as a fraction of the total matter/energy density, which is about 0.046), and the corresponding cold dark matter density 
+  
+    
+      
+        
+          Ω
+          
+            c
+          
+        
+        
+          h
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \Omega _{\text{c}}h^{2}}
+   is about 0.11, the corresponding neutrino density 
+  
+    
+      
+        
+          Ω
+          
+            v
+          
+        
+        
+          h
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \Omega _{\text{v}}h^{2}}
+   is estimated to be less than 0.0062.
+
+
+=== Cosmic acceleration ===
+
+Independent lines of evidence from Type Ia supernovae and the CMB imply that the universe today is dominated by a mysterious form of energy known as dark energy, which apparently permeates all of space. The observations suggest 73% of the total energy density of today's universe is in this form. When the universe was very young, it was likely infused with dark energy, but with less space and everything closer together, gravity predominated, and it was slowly braking the expansion. But eventually, after numerous billion years of expansion, the declining density of matter relative to the density of dark energy caused the expansion of the universe to slowly begin to accelerate.Dark energy in its simplest formulation takes the form of the cosmological constant term in Einstein field equations of general relativity, but its composition and mechanism are unknown and, more generally, the details of its equation of state and relationship with the Standard Model of particle physics continue to be investigated both through observation and theoretically.All of this cosmic evolution after the inflationary epoch can be rigorously described and modeled by the ΛCDM model of cosmology, which uses the independent frameworks of quantum mechanics and general relativity. There are no easily testable models that would describe the situation prior to approximately 10−15 seconds. Understanding this earliest of eras in the history of the universe is currently one of the greatest unsolved problems in physics.
+
+
+== History ==
+
+
+=== Etymology ===
+English astronomer Fred Hoyle is credited with coining the term "Big Bang" during a talk for a March 1949 BBC Radio broadcast, saying: "These theories were based on the hypothesis that all the matter in the universe was created in one big bang at a particular time in the remote past." However, it did not catch on until the 1970s.It is popularly reported that Hoyle, who favored an alternative "steady-state" cosmological model, intended this to be pejorative, but Hoyle explicitly denied this and said it was just a striking image meant to highlight the difference between the two models. Helge Kragh writes that the evidence for the claim that it was meant as a pejorative is "unconvincing", and mentions a number of indications that it was not a pejorative.The term itself is a misnomer as it implies the occurrence of an explosion. However, an explosion implies expansion from a center point out into the surrounding space. Rather than expanding into space, the Big Bang was the expansion/stretching of space itself, everywhere simultaneously (not from a single point), causing the universe to cool down and the density to be lowered, which is a much harder concept to grasp. Another issue pointed out by Santhosh Mathew is that bang implies sound, which would require a vibrating particle and medium through which it travels. Since this is the beginning of anything we can imagine, there is no basis for any sound, and thus the Big Bang was likely silent. An attempt to find a more suitable alternative was not successful.
+
+
+=== Development ===
+
+The Big Bang models developed from observations of the structure of the universe and from theoretical considerations. In 1912, Vesto Slipher measured the first Doppler shift of a "spiral nebula" (spiral nebula is the obsolete term for spiral galaxies), and soon discovered that almost all such nebulae were receding from Earth. He did not grasp the cosmological implications of this fact, and indeed at the time it was highly controversial whether or not these nebulae were "island universes" outside our Milky Way. Ten years later, Alexander Friedmann, a Russian cosmologist and mathematician, derived the Friedmann equations from the Einstein field equations, showing that the universe might be expanding in contrast to the static universe model advocated by Albert Einstein at that time.In 1924, American astronomer Edwin Hubble's measurement of the great distance to the nearest spiral nebulae showed that these systems were indeed other galaxies. Starting that same year, Hubble painstakingly developed a series of distance indicators, the forerunner of the cosmic distance ladder, using the 100-inch (2.5 m) Hooker telescope at Mount Wilson Observatory. This allowed him to estimate distances to galaxies whose redshifts had already been measured, mostly by Slipher. In 1929, Hubble discovered a correlation between distance and recessional velocity—now known as Hubble's law. By that time, Lemaître had already shown that this was to be  expected, given the cosmological principle.Independently deriving Friedmann's equations in 1927, Georges Lemaître, a Belgian physicist and Roman Catholic priest, proposed that the inferred recession of the nebulae was due to the expansion of the universe. In 1931, Lemaître went further and suggested that the evident expansion of the universe, if projected back in time, meant that the further in the past the smaller the universe was, until at some finite time in the past all the mass of the universe was concentrated into a single point, a "primeval atom" where and when the fabric of time and space came into existence.In the 1920s and 1930s, almost every major cosmologist preferred an eternal steady-state universe, and several complained that the beginning of time implied by the Big Bang imported religious concepts into physics; this objection was later repeated by supporters of the steady-state theory. This perception was enhanced by the fact that the originator of the Big Bang concept, Lemaître, was a Roman Catholic priest. Arthur Eddington agreed with Aristotle that the universe did not have a beginning in time, viz., that matter is eternal. A beginning in time was "repugnant" to him. Lemaître, however, disagreed:
+
+If the world has begun with a single quantum, the notions of space and time would altogether fail to have any meaning at the beginning; they would only begin to have a sensible meaning when the original quantum had been divided into a sufficient number of quanta. If this suggestion is correct, the beginning of the world happened a little before the beginning of space and time.
+During the 1930s, other ideas were proposed as non-standard cosmologies to explain Hubble's observations, including the Milne model, the oscillatory universe (originally suggested by Friedmann, but advocated by Albert Einstein and Richard C. Tolman) and Fritz Zwicky's tired light hypothesis.After World War II, two distinct possibilities emerged. One was Fred Hoyle's steady-state model, whereby new matter would be created as the universe seemed to expand. In this model the universe is roughly the same at any point in time. The other was Lemaître's Big Bang theory, advocated and developed by George Gamow, who introduced BBN and whose associates, Ralph Alpher and Robert Herman, predicted the CMB. Ironically, it was Hoyle who coined the phrase that came to be applied to Lemaître's theory, referring to it as "this big bang idea" during a BBC Radio broadcast in March 1949. For a while, support was split between these two theories. Eventually, the observational evidence, most notably from radio source counts, began to favor Big Bang over steady state. The discovery and confirmation of the CMB in 1964 secured the Big Bang as the best theory of the origin and evolution of the universe. Much of the current work in cosmology includes understanding how galaxies form in the context of the Big Bang, understanding the physics of the universe at earlier and earlier times, and reconciling observations with the basic theory.In 1968 and 1970, Roger Penrose, Stephen Hawking, and George F. R. Ellis published papers where they showed that mathematical singularities were an inevitable initial condition of relativistic models of the Big Bang. Then, from the 1970s to the 1990s, cosmologists worked on characterizing the features of the Big Bang universe and resolving outstanding problems. In 1981, Alan Guth made a breakthrough in theoretical work on resolving certain outstanding theoretical problems in the Big Bang models with the introduction of an epoch of rapid expansion in the early universe he called "inflation". Meanwhile, during these decades, two questions in observational cosmology that generated much discussion and disagreement were over the precise values of the Hubble Constant and the matter-density of the universe (before the discovery of dark energy, thought to be the key predictor for the eventual fate of the universe).In the mid-1990s, observations of certain globular clusters appeared to indicate that they were about 15 billion years old, which conflicted with most then-current estimates of the age of the universe (and indeed with the age measured today). This issue was later resolved when new computer simulations, which included the effects of mass loss due to stellar winds, indicated a much younger age for globular clusters. While there still remain some questions as to how accurately the ages of the clusters are measured, globular clusters are of interest to cosmology as some of the oldest objects in the universe.Significant progress in Big Bang cosmology has been made since the late 1990s as a result of advances in telescope technology as well as the analysis of data from satellites such as the Cosmic Background Explorer (COBE), the Hubble Space Telescope and WMAP. Cosmologists now have fairly precise and accurate measurements of many of the parameters of the Big Bang model, and have made the unexpected discovery that the expansion of the universe appears to be accelerating.
+
+
+== Observational evidence ==
+
+The earliest and most direct observational evidence of the validity of the theory are the expansion of the universe according to Hubble's law (as indicated by the redshifts of galaxies), discovery and measurement of the cosmic microwave background and the relative abundances of light elements produced by Big Bang nucleosynthesis (BBN). More recent evidence includes observations of galaxy formation and evolution, and the distribution of large-scale cosmic structures, These are sometimes called the "four pillars" of the Big Bang models.Precise modern models of the Big Bang appeal to various exotic physical phenomena that have not been observed in terrestrial laboratory experiments or incorporated into the Standard Model of particle physics. Of these features, dark matter is currently the subject of most active laboratory investigations. Remaining issues include the cuspy halo problem and the dwarf galaxy problem of cold dark matter. Dark energy is also an area of intense interest for scientists, but it is not clear whether direct detection of dark energy will be possible. Inflation and baryogenesis remain more speculative features of current Big Bang models. Viable, quantitative explanations for such phenomena are still being sought. These are currently unsolved problems in physics.
+
+
+=== Hubble's law and the expansion of space ===
+
+Observations of distant galaxies and quasars show that these objects are redshifted: the light emitted from them has been shifted to longer wavelengths. This can be seen by taking a frequency spectrum of an object and matching the spectroscopic pattern of emission or absorption lines corresponding to atoms of the chemical elements interacting with the light. These redshifts are uniformly isotropic, distributed evenly among the observed objects in all directions. If the redshift is interpreted as a Doppler shift, the recessional velocity of the object can be calculated. For some galaxies, it is possible to estimate distances via the cosmic distance ladder. When the recessional velocities are plotted against these distances, a linear relationship known as Hubble's law is observed:
+  
+    
+      
+        v
+        =
+        
+          H
+          
+            0
+          
+        
+        D
+      
+    
+    {\displaystyle v=H_{0}D}
+  
+where
+
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   is the recessional velocity of the galaxy or other distant object,
+
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the proper distance to the object, and
+
+  
+    
+      
+        
+          H
+          
+            0
+          
+        
+      
+    
+    {\displaystyle H_{0}}
+   is Hubble's constant, measured to be 70.4+1.3−1.4 km/s/Mpc by the WMAP.Hubble's law has two possible explanations. Either we are at the center of an explosion of galaxies—which is untenable under the assumption of the Copernican principle—or the universe is uniformly expanding everywhere. This universal expansion was predicted from general relativity by Friedmann in 1922 and Lemaître in 1927, well before Hubble made his 1929 analysis and observations, and it remains the cornerstone of the Big Bang model as developed by Friedmann, Lemaître, Robertson, and Walker.
+The theory requires the relation 
+  
+    
+      
+        v
+        =
+        H
+        D
+      
+    
+    {\displaystyle v=HD}
+   to hold at all times, where 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the proper distance, v is the recessional velocity, and 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  , 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  , and 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   vary as the universe expands (hence we write 
+  
+    
+      
+        
+          H
+          
+            0
+          
+        
+      
+    
+    {\displaystyle H_{0}}
+   to denote the present-day Hubble "constant"). For distances much smaller than the size of the observable universe, the Hubble redshift can be thought of as the Doppler shift corresponding to the recession velocity 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  . However, the redshift is not a true Doppler shift, but rather the result of the expansion of the universe between the time the light was emitted and the time that it was detected.That space is undergoing metric expansion is shown by direct observational evidence of the cosmological principle and the Copernican principle, which together with Hubble's law have no other explanation. Astronomical redshifts are extremely isotropic and homogeneous, supporting the cosmological principle that the universe looks the same in all directions, along with much other evidence. If the redshifts were the result of an explosion from a center distant from us, they would not be so similar in different directions.
+Measurements of the effects of the cosmic microwave background radiation on the dynamics of distant astrophysical systems in 2000 proved the Copernican principle, that, on a cosmological scale, the Earth is not in a central position. Radiation from the Big Bang was demonstrably warmer at earlier times throughout the universe. Uniform cooling of the CMB over billions of years is explainable only if the universe is experiencing a metric expansion, and excludes the possibility that we are near the unique center of an explosion.
+
+
+=== Cosmic microwave background radiation ===
+
+In 1964, Arno Penzias and Robert Wilson serendipitously discovered the cosmic background radiation, an omnidirectional signal in the microwave band. Their discovery provided substantial confirmation of the big-bang predictions by Alpher, Herman and Gamow around 1950. Through the 1970s, the radiation was found to be approximately consistent with a blackbody spectrum in all directions; this spectrum has been redshifted by the expansion of the universe, and today corresponds to approximately 2.725 K. This tipped the balance of evidence in favor of the Big Bang model, and Penzias and Wilson were awarded the 1978 Nobel Prize in Physics.
+The surface of last scattering corresponding to emission of the CMB occurs shortly after recombination, the epoch when neutral hydrogen becomes stable. Prior to this, the universe comprised a hot dense photon-baryon plasma sea where photons were quickly scattered from free charged particles. Peaking at around 372±14 kyr, the mean free path for a photon becomes long enough to reach the present day and the universe becomes transparent.
+
+In 1989, NASA launched COBE, which made two major advances: in 1990, high-precision spectrum measurements showed that the CMB frequency spectrum is an almost perfect blackbody with no deviations at a level of 1 part in 104, and measured a residual temperature of 2.726 K (more recent measurements have revised this figure down slightly to 2.7255 K); then in 1992, further COBE measurements discovered tiny fluctuations (anisotropies) in the CMB temperature across the sky, at a level of about one part in 105. John C. Mather and George Smoot were awarded the 2006 Nobel Prize in Physics for their leadership in these results.
+During the following decade, CMB anisotropies were further investigated by a large number of ground-based and balloon experiments. In 2000–2001, several experiments, most notably BOOMERanG, found the shape of the universe to be spatially almost flat by measuring the typical angular size (the size on the sky) of the anisotropies.In early 2003, the first results of the Wilkinson Microwave Anisotropy Probe were released, yielding what were at the time the most accurate values for some of the cosmological parameters. The results disproved several specific cosmic inflation models, but are consistent with the inflation theory in general. The Planck space probe was launched in May 2009. Other ground and balloon-based cosmic microwave background experiments are ongoing.
+
+
+=== Abundance of primordial elements ===
+
+Using the Big Bang model, it is possible to calculate the concentration of helium-4, helium-3, deuterium, and lithium-7 in the universe as ratios to the amount of ordinary hydrogen. The relative abundances depend on a single parameter, the ratio of photons to baryons. This value can be calculated independently from the detailed structure of CMB fluctuations. The ratios predicted (by mass, not by number) are about 0.25 for 
+  
+    
+      
+        
+          
+            He
+            
+            
+            
+            
+            4
+          
+          
+            /
+          
+          H
+        
+      
+    
+    {\displaystyle {\ce {^4He/H}}}
+  , about 10−3 for 
+  
+    
+      
+        
+          
+            H
+            
+            
+            
+            
+            2
+          
+          
+            /
+          
+          H
+        
+      
+    
+    {\displaystyle {\ce {^2H/H}}}
+  , about 10−4 for 
+  
+    
+      
+        
+          
+            He
+            
+            
+            
+            
+            3
+          
+          
+            /
+          
+          H
+        
+      
+    
+    {\displaystyle {\ce {^3He/H}}}
+   and about 10−9 for 
+  
+    
+      
+        
+          
+            Li
+            
+            
+            
+            
+            7
+          
+          
+            /
+          
+          H
+        
+      
+    
+    {\displaystyle {\ce {^7Li/H}}}
+  .The measured abundances all agree at least roughly with those predicted from a single value of the baryon-to-photon ratio. The agreement is excellent for deuterium, close but formally discrepant for 
+  
+    
+      
+        
+          
+            He
+            
+            
+            
+            
+            4
+          
+        
+      
+    
+    {\displaystyle {\ce {^4He}}}
+  , and off by a factor of two for 
+  
+    
+      
+        
+          
+            Li
+            
+            
+            
+            
+            7
+          
+        
+      
+    
+    {\displaystyle {\ce {^7Li}}}
+   (this anomaly is known as the cosmological lithium problem); in the latter two cases, there are substantial systematic uncertainties. Nonetheless, the general consistency with abundances predicted by BBN is strong evidence for the Big Bang, as the theory is the only known explanation for the relative abundances of light elements, and it is virtually impossible to "tune" the Big Bang to produce much more or less than 20–30% helium. Indeed, there is no obvious reason outside of the Big Bang that, for example, the young universe (i.e., before star formation, as determined by studying matter supposedly free of stellar nucleosynthesis products) should have more helium than deuterium or more deuterium than 
+  
+    
+      
+        
+          
+            He
+            
+            
+            
+            
+            3
+          
+        
+      
+    
+    {\displaystyle {\ce {^3He}}}
+  , and in constant ratios, too.: 182–185 
+
+
+=== Galactic evolution and distribution ===
+
+Detailed observations of the morphology and distribution of galaxies and quasars are in agreement with the current state of the Big Bang models. A combination of observations and theory suggest that the first quasars and galaxies formed about a billion years after the Big Bang, and since then, larger structures have been forming, such as galaxy clusters and superclusters.Populations of stars have been aging and evolving, so that distant galaxies (which are observed as they were in the early universe) appear very different from nearby galaxies (observed in a more recent state). Moreover, galaxies that formed relatively recently, appear markedly different from galaxies formed at similar distances but shortly after the Big Bang. These observations are strong arguments against the steady-state model. Observations of star formation, galaxy and quasar distributions and larger structures, agree well with Big Bang simulations of the formation of structure in the universe, and are helping to complete details of the theory.
+
+
+=== Primordial gas clouds ===
+
+In 2011, astronomers found what they believe to be pristine clouds of primordial gas by analyzing absorption lines in the spectra of distant quasars. Before this discovery, all other astronomical objects have been observed to contain heavy elements that are formed in stars. Despite being sensitive to carbon, oxygen, and silicon, these three elements were not detected in these two clouds. Since the clouds of gas have no detectable levels of heavy elements, they likely formed in the first few minutes after the Big Bang, during BBN.
+
+
+=== Other lines of evidence ===
+The age of the universe as estimated from the Hubble expansion and the CMB is now in good agreement with other estimates using the ages of the oldest stars, both as measured by applying the theory of stellar evolution to globular clusters and through radiometric dating of individual Population II stars. It is also in good agreement with age estimates based on measurements of the expansion using Type Ia supernovae and measurements of temperature fluctuations in the cosmic microwave background. The agreement of independent measurements of this age supports the Lambda-CDM (ΛCDM) model, since the model is used to relate some of the measurements to an age estimate, and all estimates turn out to agree. Still, some observations of objects from the relatively early universe (in particular quasar APM 08279+5255) raise concern as to whether these objects had enough time to form so early in the ΛCDM model.The prediction that the CMB temperature was higher in the past has been experimentally supported by observations of very low temperature absorption lines in gas clouds at high redshift. This prediction also implies that the amplitude of the Sunyaev–Zel'dovich effect in clusters of galaxies does not depend directly on redshift. Observations have found this to be roughly true, but this effect depends on cluster properties that do change with cosmic time, making precise measurements difficult.
+
+
+=== Future observations ===
+Future gravitational-wave observatories might be able to detect primordial gravitational waves, relics of the early universe, up to less than a second after the Big Bang.
+
+
+== Problems and related issues in physics ==
+
+As with any theory, a number of mysteries and problems have arisen as a result of the development of the Big Bang models. Some of these mysteries and problems have been resolved while others are still outstanding. Proposed solutions to some of the problems in the Big Bang model have revealed new mysteries of their own. For example, the horizon problem, the magnetic monopole problem, and the flatness problem are most commonly resolved with inflationary theory, but the details of the inflationary universe are still left unresolved and many, including some founders of the theory, say it has been disproven. What follows are a list of the mysterious aspects of the Big Bang concept still under intense investigation by cosmologists and astrophysicists.
+
+
+=== Baryon asymmetry ===
+
+It is not yet understood why the universe has more matter than antimatter. It is generally assumed that when the universe was young and very hot it was in statistical equilibrium and contained equal numbers of baryons and antibaryons. However, observations suggest that the universe, including its most distant parts, is made almost entirely of matter. A process called baryogenesis was hypothesized to account for the asymmetry. For baryogenesis to occur, the Sakharov conditions must be satisfied. These require that baryon number is not conserved, that C-symmetry and CP-symmetry are violated and that the universe depart from thermodynamic equilibrium. All these conditions occur in the Standard Model, but the effects are not strong enough to explain the present baryon asymmetry.
+
+
+=== Dark energy ===
+
+Measurements of the redshift–magnitude relation for type Ia supernovae indicate that the expansion of the universe has been accelerating since the universe was about half its present age. To explain this acceleration, general relativity requires that much of the energy in the universe consists of a component with large negative pressure, dubbed "dark energy".Dark energy, though speculative, solves numerous problems. Measurements of the cosmic microwave background indicate that the universe is very nearly spatially flat, and therefore according to general relativity the universe must have almost exactly the critical density of mass/energy. But the mass density of the universe can be measured from its gravitational clustering, and is found to have only about 30% of the critical density. Since theory suggests that dark energy does not cluster in the usual way it is the best explanation for the "missing" energy density. Dark energy also helps to explain two geometrical measures of the overall curvature of the universe, one using the frequency of gravitational lenses, and the other using the characteristic pattern of the large-scale structure as a cosmic ruler.
+Negative pressure is believed to be a property of vacuum energy, but the exact nature and existence of dark energy remains one of the great mysteries of the Big Bang. Results from the WMAP team in 2008 are in accordance with a universe that consists of 73% dark energy, 23% dark matter, 4.6% regular matter and less than 1% neutrinos. According to theory, the energy density in matter decreases with the expansion of the universe, but the dark energy density remains constant (or nearly so) as the universe expands. Therefore, matter made up a larger fraction of the total energy of the universe in the past than it does today, but its fractional contribution will fall in the far future as dark energy becomes even more dominant.
+The dark energy component of the universe has been explained by theorists using a variety of competing theories including Einstein's cosmological constant but also extending to more exotic forms of quintessence or other modified gravity schemes. A cosmological constant problem, sometimes called the "most embarrassing problem in physics", results from the apparent discrepancy between the measured energy density of dark energy, and the one naively predicted from Planck units.
+
+
+=== Dark matter ===
+
+During the 1970s and the 1980s, various observations showed that there is not sufficient visible matter in the universe to account for the apparent strength of gravitational forces within and between galaxies. This led to the idea that up to 90% of the matter in the universe is dark matter that does not emit light or interact with normal baryonic matter. In addition, the assumption that the universe is mostly normal matter led to predictions that were strongly inconsistent with observations. In particular, the universe today is far more lumpy and contains far less deuterium than can be accounted for without dark matter. While dark matter has always been controversial, it is inferred by various observations: the anisotropies in the CMB, galaxy cluster velocity dispersions, large-scale structure distributions, gravitational lensing studies, and X-ray measurements of galaxy clusters.Indirect evidence for dark matter comes from its gravitational influence on other matter, as no dark matter particles have been observed in laboratories. Many particle physics candidates for dark matter have been proposed, and several projects to detect them directly are underway.Additionally, there are outstanding problems associated with the currently favored cold dark matter model which include the dwarf galaxy problem and the cuspy halo problem. Alternative theories have been proposed that do not require a large amount of undetected matter, but instead modify the laws of gravity established by Newton and Einstein; yet no alternative theory has been as successful as the cold dark matter proposal in explaining all extant observations.
+
+
+=== Horizon problem ===
+
+The horizon problem results from the premise that information cannot travel faster than light. In a universe of finite age this sets a limit—the particle horizon—on the separation of any two regions of space that are in causal contact. The observed isotropy of the CMB is problematic in this regard: if the universe had been dominated by radiation or matter at all times up to the epoch of last scattering, the particle horizon at that time would correspond to about 2 degrees on the sky. There would then be no mechanism to cause wider regions to have the same temperature.: 191–202 A resolution to this apparent inconsistency is offered by inflationary theory in which a homogeneous and isotropic scalar energy field dominates the universe at some very early period (before baryogenesis). During inflation, the universe undergoes exponential expansion, and the particle horizon expands much more rapidly than previously assumed, so that regions presently on opposite sides of the observable universe are well inside each other's particle horizon. The observed isotropy of the CMB then follows from the fact that this larger region was in causal contact before the beginning of inflation.: 180–186 Heisenberg's uncertainty principle predicts that during the inflationary phase there would be quantum thermal fluctuations, which would be magnified to a cosmic scale. These fluctuations served as the seeds for all the current structures in the universe.: 207  Inflation predicts that the primordial fluctuations are nearly scale invariant and Gaussian, which has been accurately confirmed by measurements of the CMB.: sec 6 If inflation occurred, exponential expansion would push large regions of space well beyond our observable horizon.: 180–186 A related issue to the classic horizon problem arises because in most standard cosmological inflation models, inflation ceases well before electroweak symmetry breaking occurs, so inflation should not be able to prevent large-scale discontinuities in the electroweak vacuum since distant parts of the observable universe were causally separate when the electroweak epoch ended.
+
+
+=== Magnetic monopoles ===
+The magnetic monopole objection was raised in the late 1970s. Grand Unified theories (GUTs) predicted topological defects in space that would manifest as magnetic monopoles. These objects would be produced efficiently in the hot early universe, resulting in a density much higher than is consistent with observations, given that no monopoles have been found. This problem is resolved by cosmic inflation, which removes all point defects from the observable universe, in the same way that it drives the geometry to flatness.
+
+
+=== Flatness problem ===
+
+The flatness problem (also known as the oldness problem) is an observational problem associated with a FLRW. The universe may have positive, negative, or zero spatial curvature depending on its total energy density. Curvature is negative if its density is less than the critical density; positive if greater; and zero at the critical density, in which case space is said to be flat. Observations indicate the universe is consistent with being flat.The problem is that any small departure from the critical density grows with time, and yet the universe today remains very close to flat. Given that a natural timescale for departure from flatness might be the Planck time, 10−43 seconds, the fact that the universe has reached neither a heat death nor a Big Crunch after billions of years requires an explanation. For instance, even at the relatively late age of a few minutes (the time of nucleosynthesis), the density of the universe must have been within one part in 1014 of its critical value, or it would not exist as it does today.
+
+
+== Ultimate fate of the universe ==
+
+Before observations of dark energy, cosmologists considered two scenarios for the future of the universe. If the mass density of the universe were greater than the critical density, then the universe would reach a maximum size and then begin to collapse. It would become denser and hotter again, ending with a state similar to that in which it started—a Big Crunch.Alternatively, if the density in the universe were equal to or below the critical density, the expansion would slow down but never stop. Star formation would cease with the consumption of interstellar gas in each galaxy; stars would burn out, leaving white dwarfs, neutron stars, and black holes. Collisions between these would result in mass accumulating into larger and larger black holes. The average temperature of the universe would very gradually asymptotically approach absolute zero—a Big Freeze. Moreover, if protons are unstable, then baryonic matter would disappear, leaving only radiation and black holes. Eventually, black holes would evaporate by emitting Hawking radiation. The entropy of the universe would increase to the point where no organized form of energy could be extracted from it, a scenario known as heat death.Modern observations of accelerating expansion imply that more and more of the currently visible universe will pass beyond our event horizon and out of contact with us. The eventual result is not known. The ΛCDM model of the universe contains dark energy in the form of a cosmological constant. This theory suggests that only gravitationally bound systems, such as galaxies, will remain together, and they too will be subject to heat death as the universe expands and cools. Other explanations of dark energy, called phantom energy theories, suggest that ultimately galaxy clusters, stars, planets, atoms, nuclei, and matter itself will be torn apart by the ever-increasing expansion in a so-called Big Rip.
+
+
+== Misconceptions ==
+One of the common misconceptions about the Big Bang model is that it fully explains the origin of the universe. However, the Big Bang model does not describe how energy, time, and space were caused, but rather it describes the emergence of the present universe from an ultra-dense and high-temperature initial state. It is misleading to visualize the Big Bang by comparing its size to everyday objects. When the size of the universe at Big Bang is described, it refers to the size of the observable universe, and not the entire universe.Hubble's law predicts that galaxies that are beyond Hubble distance recede faster than the speed of light. However, special relativity does not apply beyond motion through space. Hubble's law describes velocity that results from expansion of space, rather than through space.Astronomers often refer to the cosmological redshift as a Doppler shift which can lead to a misconception. Although similar, the cosmological redshift is not identical to the classically derived Doppler redshift because most elementary derivations of the Doppler redshift do not accommodate the expansion of space. Accurate derivation of the cosmological redshift requires the use of general relativity, and while a treatment using simpler Doppler effect arguments gives nearly identical results for nearby galaxies, interpreting the redshift of more distant galaxies as due to the simplest Doppler redshift treatments can cause confusion.
+
+
+== Pre–Big Bang cosmology ==
+
+The Big Bang explains the evolution of the universe from a starting density and temperature that is well beyond humanity's capability to replicate, so extrapolations to the most extreme conditions and earliest times are necessarily more speculative. Lemaître called this initial state the "primeval atom" while Gamow called the material "ylem". How the initial state of the universe originated is still an open question, but the Big Bang model does constrain some of its characteristics. For example, specific laws of nature most likely came to existence in a random way, but as inflation models show, some combinations of these are far more probable. A flat universe implies a balance between gravitational potential energy and other energy forms, requiring no additional energy to be created.The Big Bang theory, built upon the equations of classical general relativity, indicates a singularity at the origin of cosmic time, and such an infinite energy density may be a physical impossibility. However, the physical theories of general relativity and quantum mechanics as currently realized are not applicable before the Planck epoch, and correcting this will require the development of a correct treatment of quantum gravity. Certain quantum gravity treatments, such as the Wheeler–DeWitt equation, imply that time itself could be an emergent property. As such, physics may conclude that time did not exist before the Big Bang.While it is not known what could have preceded the hot dense state of the early universe or how and why it originated, or even whether such questions are sensible, speculation abounds on the subject of "cosmogony".
+Some speculative proposals in this regard, each of which entails untested hypotheses, are:
+
+The simplest models, in which the Big Bang was caused by quantum fluctuations. That scenario had very little chance of happening, but, according to the totalitarian principle, even the most improbable event will eventually happen. It took place instantly, in our perspective, due to the absence of perceived time before the Big Bang.
+Models in which the whole of spacetime is finite, including the Hartle–Hawking no-boundary condition. For these cases, the Big Bang does represent the limit of time but without a singularity. In such a case, the universe is self-sufficient.
+Brane cosmology models, in which inflation is due to the movement of branes in string theory; the pre-Big Bang model; the ekpyrotic model, in which the Big Bang is the result of a collision between branes; and the cyclic model, a variant of the ekpyrotic model in which collisions occur periodically. In the latter model the Big Bang was preceded by a Big Crunch and the universe cycles from one process to the other.
+Eternal inflation, in which universal inflation ends locally here and there in a random fashion, each end-point leading to a bubble universe, expanding from its own big bang.Proposals in the last two categories see the Big Bang as an event in either a much larger and older universe or in a multiverse.
+
+
+== Religious and philosophical interpretations ==
+
+As a description of the origin of the universe, the Big Bang has significant bearing on religion and philosophy. As a result, it has become one of the liveliest areas in the discourse between science and religion. Some believe the Big Bang implies a creator, while others argue that Big Bang cosmology makes the notion of a creator superfluous.
+
+
+== See also ==
+Anthropic principle – Philosophical principle about the occurrence of sapient life in the Universe
+Big Bounce – Hypothetical cosmological model for the origin of the known universe
+Big Crunch – Theoretical scenario for the ultimate fate of the universe
+Cold Big Bang – Designation of an absolute zero temperature at the beginning of the Universe
+Cosmic Calendar – Method to visualize the chronology of the universe
+Cosmogony – Branch of science or a theory concerning the origin of the universe
+Eureka: A Prose Poem – Lengthy non-fiction work by American author Edgar Allan Poe, a Big Bang speculation
+Future of an expanding universe – Future scenario if the expansion of the universe will continue forever or not
+Heat death of the universe – Possible fate of the universe. Also known as the Big Chill and the Big Freeze
+Shape of the universe – The local and global geometry of the universe
+Steady-state model – Model of the evolution of the universe, a discredited theory that denied the Big Bang and posited that the universe always existed.
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Bibliography ===
+
+
+== Further reading ==
+
+Alpher, Ralph A.; Herman, Robert (August 1988). "Reflections on Early Work on 'Big Bang' Cosmology". Physics Today. 41 (8): 24–34. Bibcode:1988PhT....41h..24A. doi:10.1063/1.881126.
+Barrow, John D. (1994). The Origin of the Universe. Science Masters. London: Weidenfeld & Nicolson. ISBN 978-0-297-81497-9. LCCN 94006343. OCLC 490957073.
+Davies, Paul (1992). The Mind of God: The Scientific Basis for a Rational World. New York: Simon & Schuster. ISBN 978-0-671-71069-9. LCCN 91028606. OCLC 59940452.
+Lineweaver, Charles H.; Davis, Tamara M. (March 2005). "Misconceptions about the Big Bang" (PDF). Scientific American. Vol. 292, no. 3. pp. 36–45. Archived (PDF) from the original on 9 October 2019. Retrieved 23 December 2019.
+Mather, John C.; Boslough, John (1996). The Very First Light: The True Inside Story of the Scientific Journey Back to the Dawn of the Universe (1st ed.). New York: Basic Books. ISBN 978-0-465-01575-7. LCCN 96010781. OCLC 34357391.
+Riordan, Michael; Zajc, William A. (May 2006). "The First Few Microseconds" (PDF). Scientific American. Vol. 294, no. 5. pp. 34–41. Bibcode:2006SciAm.294e..34R. doi:10.1038/scientificamerican0506-34a. Archived (PDF) from the original on 30 November 2014.
+Weinberg, Steven (1993) [Originally published 1977]. The First Three Minutes: A Modern View of the Origin of the Universe (Updated ed.). New York: Basic Books. ISBN 978-0-465-02437-7. LCCN 93232406. OCLC 488469247. 1st edition is available from the Internet Archive. Retrieved 23 December 2019.
+
+
+== External links ==
+
+Once Upon a Universe Archived 22 June 2020 at the Wayback Machine – STFC funded project explaining the history of the universe in easy-to-understand language
+"Big Bang Cosmology" – NASA/WMAP Science Team
+"The Big Bang" – NASA Science
+"Big Bang, Big Bewilderment" – Big bang model with animated graphics by Johannes Koelman
+Cosmology at Curlie
+

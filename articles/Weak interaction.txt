@@ -1,0 +1,646 @@
+####### TITLE #######
+
+Weak interaction
+
+####### LINKS #######
+
+['Abdus Salam', 'Abraham Pais', 'Additive quantum number', 'Andrei Sakharov', 'Anthropic principle', 'Antimatter', 'Antineutrino', 'ArXiv (identifier)', 'Astronomical scale', 'Atomic nucleus', 'Axial vector', 'Baryogenesis', 'Beta-minus decay', 'Beta decay', 'Betavoltaics', 'Bibcode (identifier)', 'Binding energy', 'Boson', 'Bottom quark', 'Bound state', 'C. F. Powell', 'C. R. Hagen', 'CERN', 'CKM matrix', 'CKM parameters', 'CP-symmetry', 'CP violation', 'Cabibbo–Kobayashi–Maskawa matrix', 'Canonical quantum gravity', 'Carbon-14', 'Carl David Anderson', 'Carlo Rubbia', 'Causal dynamical triangulation', 'Charge (physics)', 'Charged-current interaction', 'Charged current', 'Charm quark', 'Chen-Ning Yang', 'Chien Shiung Wu', 'Chirality', 'Chirality (physics)', 'Chronology of the universe', 'Clyde Cowan', 'Color charge', 'Color confinement', 'Color force', 'Conservation law (physics)', 'Cosmological constant', 'Coupling constant', 'César Lattes', 'Dark matter', 'David Gross', 'Doi (identifier)', 'Down quark', 'E. C. George Sudarshan', 'Electric charge', 'Electromagnetic interaction', 'Electromagnetic radiation', 'Electromagnetism', 'Electron', 'Electron capture', 'Electron neutrino', 'Electroweak interaction', 'Electroweak scale', 'Elementary charge', 'Elementary particle', 'Elementary particles', 'Enrico Fermi', 'Ernest Rutherford', 'Ettore Majorana', 'Femtometer', "Fermi's interaction", "Fermi's theory", 'Fermion', 'Fermions', 'Feynman diagram', 'Field strength', 'Fifth force', 'Fine Structure Constant', 'Flavour (particle physics)', 'Flavour changing processes', 'Force', 'Frank Wilczek', 'François Englert', 'Frederick Reines', 'Fundamental interaction', 'Fundamental interactions', 'Gauge boson', 'Gauge group', 'Gauge theory', 'George Sudarshan', 'George Zweig', 'Georgia State University', 'Gerald Guralnik', "Gerard 't Hooft", 'Glossary of physics', 'Gluon', 'Goldstone boson', 'Grand Unified Theory', 'Gravitation', 'Gravitational wave', 'Gravity', 'Half-integer', 'Hdl (identifier)', 'Henry Way Kendall', 'Hideki Yukawa', 'Hierarchy problem', 'Higgs boson', 'Higgs field', 'Higgs mechanism', 'Hugh David Politzer', 'ISBN (identifier)', 'ISSN (identifier)', 'India-based Neutrino Observatory', 'J. J. Thomson', 'James Chadwick', 'James Cronin', 'Jerome Isaac Friedman', 'John C. Baez', 'John Clive Ward', 'John Hasbrouck Van Vleck', 'John Iliopoulos', 'Johns Hopkins University Press', 'Journal of Physics G', 'Julian Schwinger', 'Kaluza–Klein theory', 'Kaon', 'Laboratori Nazionali del Gran Sasso', 'Lagrangian (field theory)', 'Large Hadron Collider', 'Leon M. Lederman', 'Lepton', 'Loop quantum gravity', 'Luciano Maiani', 'Makoto Kobayashi (physicist)', 'Martin Lewis Perl', 'Martinus J. G. Veltman', 'Mass', 'Mathematical formulation of the Standard Model', 'Melvin Schwartz', 'Meson', 'Michigan State University', 'Minimal Supersymmetric Standard Model', 'Muon', 'Muon neutrino', 'Murray Gell-Mann', 'Neutral-current interaction', 'Neutral current', 'Neutrino', 'Neutrino oscillation', 'Neutron', 'Next-to-Minimal Supersymmetric Standard Model', 'Nicola Cabibbo', 'Nitrogen-14', 'Nobel Prize in Physics', 'Non-contact force', 'Nuclear fission', 'Nuclear force', 'Nuclear fusion', 'Nuclear physics', 'Nucleon', 'Owen Chamberlain', 'PMID (identifier)', 'Parity (physics)', 'Particle Data Group', 'Particle physics', 'Paul Dirac', 'Perseus Books', 'Peter Higgs', 'Philip Warren Anderson', 'Philosophy of physics', 'Photon', 'Physical law', 'Physics', 'Physics Letters B', 'Physics beyond the Standard Model', 'Pion', 'Plume (publisher)', 'Progress of Theoretical Physics', 'Proton', 'Quantum chromodynamics', 'Quantum electrodynamics', 'Quantum field theory', 'Quantum gravity', 'Quantum superposition', 'Quark', 'Quark epoch', 'Quark model', 'Quintessence (physics)', 'Radiation', 'Radioactive decay', 'Radiocarbon dating', 'Radioluminescence', 'Radium dial', 'Raymond Davis Jr.', 'Reflection (physics)', 'Renormalization', 'Renormalization group', 'Richard E. Taylor', 'Richard Feynman', 'River Edge', 'Robert Brout', 'Robert Marshak', 'Robert Mills (physicist)', 'S2CID (identifier)', 'SUDOC (identifier)', 'Santiago Antúnez de Mayolo', 'Satyendra Nath Bose', 'Scalar boson', 'Selection rule', 'Sheldon Glashow', 'Simon van der Meer', 'Spin (physics)', 'Split supersymmetry', 'Spontaneous symmetry breaking', 'Standard Model', 'Stellar nucleosynthesis', 'Sterile neutrino', 'Steven Weinberg', 'Strange quark', 'String theory', 'Strong CP problem', 'Strong interaction', 'Subatomic particles', 'Sudbury Neutrino Observatory', 'Super-Kamiokande', 'Superfluid vacuum theory', 'Supergravity', 'Superstring theory', 'Supersymmetry', 'Tau (particle)', 'Tau neutrino', 'Technicolor (physics)', 'Tevatron', 'Theory of everything', 'Tom Kibble', 'Top quark', 'Toshihide Maskawa', 'Tritium radioluminescence', 'Tsung-Dao Lee', 'Twistor theory', 'Universe', 'Up quark', 'Vacuum expectation value', 'Val Fitch', 'Val Logsdon Fitch', 'Vector (geometry)', 'Vector boson', 'Virtual particle', 'W and Z boson', 'W and Z bosons', 'W boson', 'Walter Greiner', 'Weak charge', 'Weak gravity conjecture', 'Weak hypercharge', 'Weak isospin', 'Weak mixing angle', 'Weakless universe', 'Wolfgang Pauli', 'Yang Chen-Ning', 'Yoichiro Nambu', 'Yukawa potential', 'Z boson', 'Zeitschrift für Physik A']
+
+####### CATEGORIES #######
+
+['All articles with unsourced statements', 'Articles with BNE identifiers', 'Articles with BNF identifiers', 'Articles with GND identifiers', 'Articles with J9U identifiers', 'Articles with LCCN identifiers', 'Articles with SUDOC identifiers', 'Articles with short description', 'Articles with unsourced statements from November 2015', 'CS1 German-language sources (de)', 'CS1 maint: url-status', 'Fundamental interactions', 'Good articles', 'Short description is different from Wikidata', 'Use Oxford spelling from August 2016', 'Use dmy dates from April 2020', 'Weak interaction']
+
+####### IMAGES #######
+
+['https://upload.wikimedia.org/wikipedia/commons/a/aa/Beta-minus_Decay.svg', 'https://upload.wikimedia.org/wikipedia/commons/8/89/Beta_Negative_Decay.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/69/PiPlus_muon_decay.svg', 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Right_left_helicity.svg', 'https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg', 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Weak_Decay_%28flipped%29.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg', 'https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg', 'https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg', 'https://upload.wikimedia.org/wikipedia/en/9/94/Symbol_support_vote.svg']
+
+####### REFERENCES #######
+
+['http://home.web.cern.ch/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson', 'http://hyperphysics.phy-astr.gsu.edu/hbase/Forces/funfor.html', 'http://hyperphysics.phy-astr.gsu.edu/hbase/forces/couple.html', 'http://hyperphysics.phy-astr.gsu.edu/hbase/index.html', 'http://physnet2.pa.msu.edu/home/modules/pdf_modules/m281.pdf', 'http://math.ucr.edu/~huerta/guts/node9.html', 'http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX529197', 'http://fnal.gov/', 'http://home.fnal.gov/~cheung/rtes/RTESWeb/LQCD_site/pages/weakforce.htm', 'http://pdg.lbl.gov/2006/tables/qxxx.pdf', 'http://pdg.lbl.gov/2008/reviews/higgs_s055.pdf', 'http://pdg.lbl.gov/2010/listings/rpp2010-list-n.pdf', 'http://pdg.lbl.gov/2010/tables/rpp2010-sum-gauge-higgs-bosons.pdf', 'http://pubmed.ncbi.nlm.nih.gov/23215482', 'http://pubmed.ncbi.nlm.nih.gov/9957220', 'http://www.osti.gov/accomplishments/weinberg.html', 'http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007553649205171', 'http://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/66179/1/49_652.pdf', 'http://hdl.handle.net/1854%2FLU-685594', 'http://hdl.handle.net/2433%2F66179', 'http://arxiv.org/abs/0904.1556', 'http://arxiv.org/abs/1207.5864', 'http://arxiv.org/abs/astro-ph/0601168', 'http://doi.org/10.1007%2FBF01351864', 'http://doi.org/10.1016%2F0003-4916(57)90015-5', 'http://doi.org/10.1016%2Fj.physletb.2008.07.018', 'http://doi.org/10.1088%2F0954-3899%2F33%2F1%2F001', 'http://doi.org/10.1088%2F0954-3899%2F37%2F7a%2F075021', 'http://doi.org/10.1090%2Fs0273-0979-10-01294-2', 'http://doi.org/10.1103%2FPhysRevD.34.873', 'http://doi.org/10.1103%2FPhysRevLett.109.203003', 'http://doi.org/10.1119%2F1.1974382', 'http://doi.org/10.1143%2FPTP.49.652', 'http://nobelprize.org/nobel_prizes/physics/laureates/1957/', 'http://nobelprize.org/nobel_prizes/physics/laureates/1979/', 'http://nobelprize.org/nobel_prizes/physics/laureates/1979/press.html', 'http://nobelprize.org/nobel_prizes/physics/laureates/1980/', 'http://nobelprize.org/nobel_prizes/physics/laureates/2008/', 'http://www.particleadventure.org/electroweak.html', 'http://www.worldcat.org/issn/0003-4916', 'https://briankoberlein.com/', 'https://briankoberlein.com/2015/03/01/light-of-other-days/', 'https://cerncourier.com/a/microboone-sees-no-hint-of-a-sterile-neutrino/', 'https://books.google.com/books?id=00r9waSNv1cC&pg=PA225', 'https://books.google.com/books?id=0VIpJPn-qWoC&pg=PA30', 'https://books.google.com/books?id=U5TC5DSWOmIC', 'https://books.google.com/books?id=yWTcPwqg_00C', 'https://ui.adsabs.harvard.edu/abs/1934ZPhy...88..161F', 'https://ui.adsabs.harvard.edu/abs/1957AnPhy...2..407S', 'https://ui.adsabs.harvard.edu/abs/1968AmJPh..36.1150W', 'https://ui.adsabs.harvard.edu/abs/1973PThPh..49..652K', 'https://ui.adsabs.harvard.edu/abs/1986PhRvD..34..873C', 'https://ui.adsabs.harvard.edu/abs/2006JPhG...33....1Y', 'https://ui.adsabs.harvard.edu/abs/2008PhLB..667....1A', 'https://ui.adsabs.harvard.edu/abs/2009arXiv0904.1556B', 'https://ui.adsabs.harvard.edu/abs/2010JPhG...37g5021N', 'https://ui.adsabs.harvard.edu/abs/2012PhRvL.109t3003D', 'https://catalogue.bnf.fr/ark:/12148/cb11958802q', 'https://data.bnf.fr/ark:/12148/cb11958802q', 'https://www.idref.fr/027577767', 'https://id.loc.gov/authorities/subjects/sh85145822', 'https://d-nb.info/gnd/4129644-8', 'https://archive.org/details/deepdownthingsbr00schu', 'https://archive.org/details/storyofwz0000watk', 'https://archive.org/details/storyofwz0000watk/page/70', 'https://archive.org/details/theoryofalmostev0000oert', 'https://web.archive.org/web/20110720004912/http://physnet2.pa.msu.edu/home/modules/pdf_modules/m281.pdf', 'https://web.archive.org/web/20140706082221/http://www.nobelprize.org/nobel_prizes/physics/laureates/1979/', 'https://web.archive.org/web/20160809083339/https://www.osti.gov/accomplishments/weinberg.html', 'https://dx.doi.org/10.1016/0003-4916(57)90015-5', 'https://api.semanticscholar.org/CorpusID:125763380', 'https://api.semanticscholar.org/CorpusID:227119789', 'https://api.semanticscholar.org/CorpusID:27741778', 'https://api.semanticscholar.org/CorpusID:2941843', 'https://www.wikidata.org/wiki/Q11418#identifiers']
+
+####### SUMMARY #######
+
+In nuclear physics and particle physics, the weak interaction, which is also often called the weak force or weak nuclear force, is one of the four known fundamental interactions, with the others being electromagnetism, the strong interaction, and gravitation. It is the mechanism of interaction between subatomic particles that is responsible for the radioactive decay of atoms: The weak interaction participates in nuclear fission and nuclear fusion. The theory describing its behaviour and effects is sometimes called quantum flavourdynamics (QFD); however, the term QFD is rarely used, because the weak force is better understood by electroweak theory (EWT).The effective range of the weak force is limited to subatomic distances and is less than the diameter of a proton.
+
+
+
+####### CONTENT #######
+
+In nuclear physics and particle physics, the weak interaction, which is also often called the weak force or weak nuclear force, is one of the four known fundamental interactions, with the others being electromagnetism, the strong interaction, and gravitation. It is the mechanism of interaction between subatomic particles that is responsible for the radioactive decay of atoms: The weak interaction participates in nuclear fission and nuclear fusion. The theory describing its behaviour and effects is sometimes called quantum flavourdynamics (QFD); however, the term QFD is rarely used, because the weak force is better understood by electroweak theory (EWT).The effective range of the weak force is limited to subatomic distances and is less than the diameter of a proton.
+
+
+== Background ==
+The Standard Model of particle physics provides a uniform framework for understanding the electromagnetic, weak, and strong interactions. An interaction occurs when two particles (typically, but not necessarily, half-integer spin fermions) exchange integer-spin, force-carrying bosons. The fermions involved in such exchanges can be either elementary (e.g. electrons or quarks) or composite (e.g. protons or neutrons), although at the deepest levels, all weak interactions ultimately are between elementary particles.
+In the weak interaction, fermions can exchange three types of force carriers, namely W+, W−, and Z bosons. The masses of these bosons are far greater than the mass of a proton or neutron, which is consistent with the short range of the weak force. In fact, the force is termed weak because its field strength over any set distance is typically several orders of magnitude less than that of the electromagnetic force, which itself is further orders of magnitude less than the strong nuclear force.
+The weak interaction is the only fundamental interaction that breaks parity symmetry, and similarly, but far more rarely, the only interaction to break charge–parity symmetry.
+Quarks, which make up composite particles like neutrons and protons, come in six "flavours" –  up, down, strange, charm, top and bottom –  which give those composite particles their properties. The weak interaction is unique in that it allows quarks to swap their flavour for another. The swapping of those properties is mediated by the force carrier bosons. For example, during beta-minus decay, a down quark within a neutron is changed into an up quark, thus converting the neutron to a proton and resulting in the emission of an electron and an electron antineutrino. Another important example of a phenomenon involving the weak interaction is the fusion of hydrogen into helium, which powers the Sun's thermonuclear process. 
+Most fermions decay by a weak interaction over time. Such decay makes radiocarbon dating possible, as carbon-14 decays through the weak interaction to nitrogen-14. It can also create radioluminescence, commonly used in tritium luminescence, and in the related field of betavoltaics (but not similar radium luminescence).
+The electroweak force separated into the electromagnetic and weak forces during the quark epoch of the early universe.
+
+
+== History ==
+In 1933, Enrico Fermi proposed the first theory of the weak interaction, known as Fermi's interaction. He suggested that beta decay could be explained by a four-fermion interaction, involving a contact force with no range.However, it is better described as a non-contact force field having a finite range, albeit very short. In the 1960s, Sheldon Glashow, Abdus Salam and Steven Weinberg unified the electromagnetic force and the weak interaction by showing them to be two aspects of a single force, now termed the electroweak force.The existence of the W and Z bosons was not directly confirmed until 1983.(p8)
+
+
+== Properties ==
+
+The electrically charged weak interaction is unique in a number of respects:
+
+It is the only interaction that can change the flavour of quarks and leptons (i.e., of changing one type of quark into another).
+It is the only interaction that violates P, or parity symmetry. It is also the only one that violates charge–parity CP symmetry.
+Both the electrically charged and the electrically neutral interactions are mediated (propagated) by force carrier particles that have significant masses, an unusual feature which is explained in the Standard Model by the Higgs mechanism.Due to their large mass (approximately 90 GeV/c2) these carrier particles, called the W and Z bosons, are short-lived with a lifetime of under 10−24 seconds. The weak interaction has a coupling constant (an indicator of how frequently interactions occur) between 10−7 and 10−6, compared to the electromagnetic coupling constant of about 10−2 and the strong interaction coupling constant of 1; consequently the weak interaction is "weak" in terms of intensity. The weak interaction has a very short effective range (around 10−17 to 10−16 m (0.01 to 0.1 fm)). At distances around 10−18 meters (0.001 fm), the weak interaction has an intensity of a similar magnitude to the electromagnetic force, but this starts to decrease exponentially with increasing distance. Scaled up by just one and a half orders of magnitude, at distances of around 3×10−17 m, the weak interaction becomes 10,000 times weaker.The weak interaction affects all the fermions of the Standard Model, as well as the Higgs boson; neutrinos interact only through gravity and the weak interaction. The weak interaction does not produce bound states, nor does it involve binding energy –  something that gravity does on an astronomical scale, the electromagnetic force does at the molecular and atomic levels, and the strong nuclear force does only at the subatomic level, inside of nuclei.Its most noticeable effect is due to its first unique feature: The charged weak interaction causes flavour change. For example, a neutron is heavier than a proton (its partner nucleon) and can decay into a proton by changing the flavour (type) of one of its two down quarks to an up quark. Neither the strong interaction nor electromagnetism permit flavour changing, so this can only proceed by weak decay; without weak decay, quark properties such as strangeness and charm (associated with the strange quark and charm quark, respectively) would also be conserved across all interactions.
+All mesons are unstable because of weak decay.(p29)
+In the process known as beta decay, a down quark in the neutron can change into an up quark by emitting a virtual W− boson, which then decays into an electron and an electron antineutrino.(p28) Another example is electron capture –  a common variant of radioactive decay –  wherein a proton and an electron within an atom interact and are changed to a neutron (an up quark is changed to a down quark), and an electron neutrino is emitted.
+Due to the large masses of the W bosons, particle transformations or decays (e.g., flavour change) that depend on the weak interaction typically occur much more slowly than transformations or decays that depend only on the strong or electromagnetic forces.
+For example, a neutral pion decays electromagnetically, and so has a life of only about 10−16 seconds. In contrast, a charged pion can only decay through the weak interaction, and so lives about 10−8 seconds, or a hundred million times longer than a neutral pion.(p30) A particularly extreme example is the weak-force decay of a free neutron, which takes about 15 minutes.(p28)
+
+
+=== Weak isospin and weak hypercharge ===
+
+All particles have a property called weak isospin (symbol T3), which serves as an additive quantum number that restricts how the particle can interact with the W± of the weak force. Weak isospin plays the same role in the weak interaction with W± as electric charge does in electromagnetism, and color charge in the strong interaction; a different number with a similar name, weak charge, discussed below, is used for interactions with the Z. All left-handed fermions have a weak isospin value of either ++1/2 or −+1/2; all right-handed fermions have 0 isospin. For example, the up quark has T3 = ++1/2 and the down quark has   T3 = −+1/2. A quark never decays through the weak interaction into a quark of the same T3: Quarks with a T3 of ++1/2 only decay into quarks with a T3 of −+1/2 and conversely.
+
+In any given interaction, weak isospin is conserved: The sum of the weak isospin numbers of the particles entering the interaction equals the sum of the weak isospin numbers of the particles exiting that interaction. For example, a (left-handed) π+, with a weak isospin of +1 normally decays into a νμ (with T3 = ++1/2) and a μ+ (as a right-handed antiparticle, ++1/2).(p30)For the development of the electroweak theory, another property, weak hypercharge, was invented, defined as
+
+  
+    
+      
+        
+          Y
+          
+            W
+          
+        
+        =
+        2
+        
+        (
+        Q
+        −
+        
+          T
+          
+            3
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle Y_{\text{W}}=2\,(Q-T_{3}),}
+  where YW is the weak hypercharge of a particle with electrical charge Q (in elementary charge units) and weak isospin T3. Weak hypercharge is the generator of the U(1) component of the electroweak gauge group; whereas some particles have a weak isospin of zero, all known spin-1/2 particles have a non-zero weak hypercharge.
+
+
+== Interaction types ==
+There are two types of weak interaction (called vertices). The first type is called the "charged-current interaction" because the weakly interacting fermions form a current with total electric charge that is nonzero.  The second type is called the "neutral-current interaction" because the weakly interacting fermions form a current with total electric charge of zero. It is responsible for the (rare) deflection of neutrinos. The two types of interaction follow different selection rules. This naming convention is often misunderstood to label the electric charge of the W and Z bosons, however the naming convention predates the concept of the mediator bosons, and clearly (at least in name) labels the charge of the current (formed from the fermions), not necessarilly the bosons.
+
+
+=== Charged-current interaction ===
+
+In one type of charged current interaction, a charged lepton (such as an electron or a muon, having a charge of −1) can absorb a W+ boson (a particle with a charge of +1) and be thereby converted into a corresponding neutrino (with a charge of 0), where the type ("flavour") of neutrino (electron, muon or tau) is the same as the type of lepton in the interaction, for example:
+
+  
+    
+      
+        
+          μ
+          
+            −
+          
+        
+        +
+        
+          W
+          
+            +
+          
+        
+        →
+        
+          ν
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle \mu ^{-}+W^{+}\to \nu _{\mu }}
+  Similarly, a down-type quark (d with a charge of −1⁄3) can be converted into an up-type quark (u, with a charge of +2⁄3), by emitting a W− boson or by absorbing a W+ boson. More precisely, the down-type quark becomes a quantum superposition of up-type quarks: that is to say, it has a possibility of becoming any one of the three up-type quarks, with the probabilities given in the CKM matrix tables. Conversely, an up-type quark can emit a W+ boson, or absorb a W− boson, and thereby be converted into a down-type quark, for example:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                
+                →
+                u
+                +
+                
+                  W
+                  
+                    −
+                  
+                
+              
+            
+            
+              
+                d
+                +
+                
+                  W
+                  
+                    +
+                  
+                
+              
+              
+                
+                →
+                u
+              
+            
+            
+              
+                c
+              
+              
+                
+                →
+                s
+                +
+                
+                  W
+                  
+                    +
+                  
+                
+              
+            
+            
+              
+                c
+                +
+                
+                  W
+                  
+                    −
+                  
+                
+              
+              
+                
+                →
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}d&\to u+W^{-}\\d+W^{+}&\to u\\c&\to s+W^{+}\\c+W^{-}&\to s\end{aligned}}}
+  The W boson is unstable so will rapidly decay, with a very short lifetime. For example:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  W
+                  
+                    −
+                  
+                
+              
+              
+                
+                →
+                
+                  e
+                  
+                    −
+                  
+                
+                +
+                
+                  
+                    
+                      
+                        ν
+                        ¯
+                      
+                    
+                  
+                  
+                    e
+                  
+                
+                 
+              
+            
+            
+              
+                
+                  W
+                  
+                    +
+                  
+                
+              
+              
+                
+                →
+                
+                  e
+                  
+                    +
+                  
+                
+                +
+                
+                  ν
+                  
+                    e
+                  
+                
+                 
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}W^{-}&\to e^{-}+{\bar {\nu }}_{e}~\\W^{+}&\to e^{+}+\nu _{e}~\end{aligned}}}
+  Decay of a W boson to other products can happen, with varying probabilities.In the so-called beta decay of a neutron (see picture, above), a down quark within the neutron emits a virtual W− boson and is thereby converted into an up quark, converting the neutron into a proton. Because of the limited energy involved in the process (i.e., the mass difference between the down quark and the up quark), the virtual W− boson can only carry sufficient energy to produce an electron and an electron-antineutrino – the two lowest-possible masses among its prospective decay products. At the quark level, the process can be represented as:
+
+  
+    
+      
+        d
+        →
+        u
+        +
+        
+          e
+          
+            −
+          
+        
+        +
+        
+          
+            
+              
+                ν
+                ¯
+              
+            
+          
+          
+            e
+          
+        
+         
+      
+    
+    {\displaystyle d\to u+e^{-}+{\bar {\nu }}_{e}~}
+  
+
+
+=== Neutral-current interaction ===
+
+In neutral current interactions, a quark or a lepton (e.g., an electron or a muon) emits or absorbs a neutral Z boson. For example:
+
+  
+    
+      
+        
+          e
+          
+            −
+          
+        
+        →
+        
+          e
+          
+            −
+          
+        
+        +
+        
+          Z
+          
+            0
+          
+        
+      
+    
+    {\displaystyle e^{-}\to e^{-}+Z^{0}}
+  Like the W± bosons, the Z0 boson also decays rapidly, for example:
+
+  
+    
+      
+        
+          Z
+          
+            0
+          
+        
+        →
+        b
+        +
+        
+          
+            
+              b
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle Z^{0}\to b+{\bar {b}}}
+  Unlike the charged-current interaction, whose selection rules are strictly limited by chirality, electric charge, and / or weak isospin, the neutral-current  Z0  interaction can cause any two fermions in the standard model to deflect: Either particles or anti-particles, with any electric charge, and both left- and right-chirality, although the strength of the interaction differs.The quantum number weak charge (QW) serves the same role in the neutral current interaction with the  Z0  that electric charge (Q, with no subscript) does in the electromagnetic interaction: It quantifies the vector part of the interaction. Its value is given by:
+
+  
+    
+      
+        
+          Q
+          
+            W
+          
+        
+        =
+        2
+        
+        
+          T
+          
+            3
+          
+        
+        −
+        4
+        
+        Q
+        
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        
+          θ
+          
+            W
+          
+        
+        =
+        2
+        
+        
+          T
+          
+            3
+          
+        
+        −
+        Q
+        +
+        (
+        1
+        −
+        4
+        
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        
+          θ
+          
+            W
+          
+        
+        )
+        
+        Q
+        .
+      
+    
+    {\displaystyle Q_{\text{W}}=2\,T_{3}-4\,Q\,\sin ^{2}\theta _{\text{W}}=2\,T_{3}-Q+(1-4\,\sin ^{2}\theta _{\text{W}})\,Q.}
+  Since the weak mixing angle 
+  
+    
+      
+         
+        
+          θ
+          
+            W
+          
+        
+        ≈
+        
+          29
+          
+            ∘
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle ~\theta _{\text{W}}\approx 29^{\circ }~,}
+   the parenthetic expression 
+  
+    
+      
+        (
+        1
+        −
+        4
+        
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        
+          θ
+          
+            W
+          
+        
+        )
+        ≈
+        0.060
+        ,
+      
+    
+    {\displaystyle (1-4\,\sin ^{2}\theta _{\text{W}})\approx 0.060,}
+   with its value varying slightly with the momentum difference (called “running”) between the particles involved. Hence 
+
+  
+    
+      
+        
+          Q
+          
+            W
+          
+        
+        ≈
+        2
+        
+        
+          T
+          
+            3
+          
+        
+        −
+        Q
+        =
+        sgn
+        ⁡
+        (
+        Q
+        )
+        
+        
+          
+            (
+          
+        
+        1
+        −
+        
+          |
+        
+        Q
+        
+          |
+        
+        
+          
+            )
+          
+        
+        ,
+      
+    
+    {\displaystyle Q_{\text{W}}\approx 2\,T_{3}-Q=\operatorname {sgn}(Q)\,{\big (}1-|Q|{\big )},}
+  since by convention 
+  
+    
+      
+        sgn
+        ⁡
+        
+          T
+          
+            3
+          
+        
+        ≡
+        sgn
+        ⁡
+        Q
+        ,
+      
+    
+    {\displaystyle \operatorname {sgn} T_{3}\equiv \operatorname {sgn} Q,}
+   and for all fermions involved in the weak interaction 
+  
+    
+      
+        
+          T
+          
+            3
+          
+        
+        =
+        ±
+        
+          
+            
+              1
+              2
+            
+          
+        
+        .
+      
+    
+    {\displaystyle T_{3}=\pm {\tfrac {1}{2}}.}
+   The weak charge of charged leptons is then close to zero, so these mostly interact with the Z boson through the axial coupling.
+
+
+== Electroweak theory ==
+
+The Standard Model of particle physics describes the electromagnetic interaction and the weak interaction as two different aspects of a single electroweak interaction. This theory was developed around 1968 by Sheldon Glashow, Abdus Salam, and Steven Weinberg, and they were awarded the 1979 Nobel Prize in Physics for their work. The Higgs mechanism provides an explanation for the presence of three massive gauge bosons (W+, W−, Z0, the three carriers of the weak interaction), and the massless photon (γ, the carrier of the electromagnetic interaction).According to the electroweak theory, at very high energies, the universe has four components of the Higgs field whose interactions are carried by four massless gauge bosons – each similar to the photon – forming a complex scalar Higgs field doublet. Likewise, there are four massless electroweak bosons. However, at low energies, this gauge symmetry is spontaneously broken down to the U(1) symmetry of electromagnetism, since one of the Higgs fields acquires a vacuum expectation value. Naïvely, the symmetry-breaking would be expected to produce three massless bosons, but instead those "extra" three Higgs bosons become incorporated into the three weak bosons, which then acquire mass through the Higgs mechanism. These three composite bosons are the W+, W−, and Z0 bosons actually observed in the weak interaction. The fourth electroweak gauge boson is the photon (γ) of electromagnetism, which does not couple to any of the Higgs fields and so remains massless.This theory has made a number of predictions, including a prediction of the masses of the Z and W bosons before their discovery and detection in 1983.
+On 4 July 2012, the CMS and the ATLAS experimental teams at the Large Hadron Collider independently announced that they had confirmed the formal discovery of a previously unknown boson of mass between 125 and 127 GeV/c², whose behaviour so far was "consistent with" a Higgs boson, while adding a cautious note that further data and analysis were needed before positively identifying the new boson as being a Higgs boson of some type. By 14 March 2013, a Higgs boson was tentatively confirmed to exist.In a speculative case where the electroweak symmetry breaking scale were lowered, the unbroken SU(2) interaction would eventually become confining. Alternative models where SU(2) becomes confining above that scale appear quantitatively similar to the Standard Model at lower energies, but dramatically different above symmetry breaking.
+
+
+== Violation of symmetry ==
+
+The laws of nature were long thought to remain the same under mirror reflection. The results of an experiment viewed via a mirror were expected to be identical to the results of a separately constructed, mirror-reflected copy of the experimental apparatus watched through the mirror. This so-called law of parity conservation was known to be respected by classical gravitation, electromagnetism and the strong interaction; it was assumed to be a universal law. However, in the mid-1950s Chen-Ning Yang and Tsung-Dao Lee suggested that the weak interaction might violate this law. Chien Shiung Wu and collaborators in 1957 discovered that the weak interaction violates parity, earning Yang and Lee the 1957 Nobel Prize in Physics.Although the weak interaction was once described by Fermi's theory, the discovery of parity violation and renormalization theory suggested that a new approach was needed. In 1957, Robert Marshak and George Sudarshan and, somewhat later, Richard Feynman and Murray Gell-Mann proposed a V − A (vector minus axial vector or left-handed) Lagrangian for weak interactions. In this theory, the weak interaction acts only on left-handed particles (and right-handed antiparticles). Since the mirror reflection of a left-handed particle is right-handed, this explains the maximal violation of parity. The V − A theory was developed before the discovery of the Z boson, so it did not include the right-handed fields that enter in the neutral current interaction.
+However, this theory allowed a compound symmetry CP to be conserved. CP combines parity P (switching left to right) with charge conjugation C (switching particles with antiparticles). Physicists were again surprised when in 1964, James Cronin and Val Fitch provided clear evidence in kaon decays that CP symmetry could be broken too, winning them the 1980 Nobel Prize in Physics. In 1973, Makoto Kobayashi and Toshihide Maskawa showed that CP violation in the weak interaction required more than two generations of particles, effectively predicting the existence of a then unknown third generation. This discovery earned them half of the 2008 Nobel Prize in Physics.Unlike parity violation, CP violation occurs only in rare circumstances. Despite its limited occurrence under present conditions, it is widely believed to be the reason that there is much more matter than antimatter in the universe, and thus forms one of Andrei Sakharov's three conditions for baryogenesis.
+
+
+== See also ==
+
+Weakless universe – the postulate that weak interactions are not anthropically necessary
+Gravity
+Strong interaction
+Electromagnetism
+
+
+== Footnotes ==
+
+
+== References ==
+
+
+== Sources ==
+
+
+=== Technical ===
+Greiner, W.; Müller, B. (2000). Gauge Theory of Weak Interactions. Springer. ISBN 3-540-67672-4.
+Coughlan, G. D.; Dodd, J. E.; Gripaios, B. M. (2006). The Ideas of Particle Physics: An introduction for scientists (3rd ed.). Cambridge University Press. ISBN 978-0-521-67775-2.
+Cottingham, W. N.; Greenwood, D. A. (2001) [1986]. An introduction to nuclear physics (2nd ed.). Cambridge University Press. p. 30. ISBN 978-0-521-65733-4.
+Griffiths, D. J. (1987). Introduction to Elementary Particles. John Wiley & Sons. ISBN 0-471-60386-4.Kane, G. L. (1987). Modern Elementary Particle Physics. Perseus Books. ISBN 0-201-11749-5.
+Perkins, D. H. (2000). Introduction to High Energy Physics. Cambridge University Press. ISBN 0-521-62196-8.
+
+
+=== For general readers ===
+Oerter, R. (2006). The Theory of Almost Everything: The Standard Model, the unsung triumph of modern physics. Plume. ISBN 978-0-13-236678-6.
+Schumm, B. A. (2004). Deep Down Things: The breathtaking beauty of particle physics. Johns Hopkins University Press. ISBN 0-8018-7971-X.
+
+
+== External links ==
+
+Harry Cheung, The Weak Force @Fermilab
+Fundamental Forces @Hyperphysics, Georgia State University.
+Brian Koberlein, What is the weak force?
+

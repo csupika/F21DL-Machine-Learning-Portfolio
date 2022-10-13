@@ -3,6 +3,7 @@
 
 # Reports
 .ipynb_checkpoints
+__pycache__/
 
 # src
 articles.zip

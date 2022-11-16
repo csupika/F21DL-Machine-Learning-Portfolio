@@ -1,0 +1,999 @@
+Title,Links,Categories,Images,References,Length,Quality,Theme
+Hammurabi,1103,45,44,97,15484,4,People
+Hatshepsut,755,49,18,97,33266,3,People
+Ramesses II,662,43,25,119,32507,2,People
+Cyrus the Great,515,61,32,213,47616,2,People
+Alexander the Great,1910,71,75,401,89053,4,People
+Ashoka,780,46,57,149,84837,3,People
+Qin Shi Huang,400,57,23,129,39510,3,People
+Julius Caesar,840,93,41,358,53213,3,People
+Augustus,867,65,48,145,84168,5,People
+Charlemagne,1099,108,58,183,83252,2,People
+Genghis Khan,611,82,38,173,56848,3,People
+Mansa Musa,133,33,10,67,17536,2,People
+Joan of Arc,643,84,32,937,45538,5,People
+Suleiman the Magnificent,403,48,31,91,37090,3,People
+Akbar,646,61,32,167,91274,3,People
+Elizabeth I,615,81,42,138,57770,5,People
+Catherine the Great,761,100,50,139,84596,2,People
+George Washington,1318,113,76,289,110697,4,People
+Napoleon,1673,112,90,290,116451,4,People
+Simón Bolívar,821,71,28,68,49455,3,People
+Abraham Lincoln,2047,97,63,297,91888,4,People
+Mahatma Gandhi,2038,133,56,580,124934,4,People
+Joseph Stalin,1366,127,62,210,130198,4,People
+Adolf Hitler,1680,125,60,144,80697,4,People
+Mao Zedong,1386,115,58,305,96649,3,People
+Nelson Mandela,1155,116,42,247,97313,5,People
+Abraham,967,50,31,157,33875,2,People
+Moses,1039,75,31,171,53246,3,People
+Gautama Buddha,921,79,88,221,87167,3,People
+Jesus,1851,80,62,530,84700,5,People
+Paul the Apostle,1798,77,44,433,68768,3,People
+Muhammad,1444,77,36,280,67383,4,People
+Adi Shankara,776,89,22,150,52761,4,People
+Martin Luther,1203,108,65,145,77429,3,People
+Marco Polo,385,77,30,146,52393,4,People
+Zheng He,343,70,28,96,34481,2,People
+Christopher Columbus,855,89,34,385,64638,3,People
+Vasco da Gama,481,63,31,64,37251,2,People
+Ferdinand Magellan,323,66,21,95,23410,2,People
+James Cook,811,87,22,221,45792,3,People
+Roald Amundsen,609,82,31,114,21027,2,People
+Confucius,1119,111,31,239,41083,2,People
+Laozi,874,71,20,85,17643,2,People
+Herodotus,562,66,12,99,15874,2,People
+Socrates,1166,101,27,107,53327,4,People
+Plato,2271,126,49,232,79938,3,People
+Aristotle,2232,136,67,276,65825,4,People
+Cicero,1400,92,21,159,51670,3,People
+Thomas Aquinas,1717,132,37,190,73542,2,People
+Ibn Khaldun,862,74,18,114,34843,2,People
+Niccolò Machiavelli,650,74,21,172,49950,4,People
+René Descartes,1620,153,34,244,46941,2,People
+John Locke,1754,89,23,117,38770,2,People
+Adam Smith,1439,95,30,197,57018,3,People
+Immanuel Kant,1984,147,31,287,89715,3,People
+Mary Wollstonecraft,981,92,42,89,60151,5,People
+Karl Marx,1619,152,48,286,83138,4,People
+Friedrich Nietzsche,1645,142,35,355,87095,3,People
+Sigmund Freud,1141,91,32,274,107760,3,People
+Homer,1013,66,22,131,22541,2,People
+Virgil,696,70,20,113,30235,2,People
+Li Bai,409,62,21,79,37070,3,People
+Murasaki Shikibu,180,63,34,42,36694,5,People
+Rumi,1553,90,26,147,38630,3,People
+Dante Alighieri,947,84,29,156,31453,2,People
+Miguel de Cervantes,232,89,16,99,23688,2,People
+William Shakespeare,2048,76,61,162,42401,5,People
+Voltaire,1280,141,40,187,65517,3,People
+Leo Tolstoy,648,137,37,151,39097,2,People
+Rabindranath Tagore,1267,117,57,184,46078,3,People
+Leonardo da Vinci,816,110,76,194,57125,4,People
+Michelangelo,399,76,61,91,43597,3,People
+Rembrandt,549,59,101,173,49715,4,People
+Hokusai,293,48,31,60,18020,3,People
+Pablo Picasso,928,80,54,158,50413,3,People
+Frida Kahlo,899,81,30,185,63699,3,People
+Johann Sebastian Bach,1041,100,75,368,67621,3,People
+Wolfgang Amadeus Mozart,430,99,34,143,37761,3,People
+Ludwig van Beethoven,816,95,43,108,60854,3,People
+Louis Armstrong,778,107,35,171,56434,2,People
+The Beatles,2141,78,48,264,94596,5,People
+Michael Jackson,2040,131,44,579,83095,5,People
+Hippocrates,648,55,25,108,20369,2,People
+Avicenna,1401,112,24,157,47805,3,People
+Shen Kuo,609,101,42,38,57684,5,People
+Johannes Gutenberg,195,68,19,122,22688,2,People
+Nicolaus Copernicus,583,96,45,203,77250,3,People
+Galileo Galilei,754,96,42,185,64203,2,People
+Isaac Newton,1350,133,38,314,51567,4,People
+Carl Linnaeus,714,108,44,178,54295,4,People
+Antoine Lavoisier,780,71,31,144,44513,3,People
+Michael Faraday,464,81,33,143,30136,3,People
+Charles Darwin,1234,111,40,387,61649,5,People
+Florence Nightingale,475,90,41,282,49157,3,People
+Louis Pasteur,364,85,24,287,45609,3,People
+James Clerk Maxwell,350,88,27,233,37649,4,People
+Dmitri Mendeleev,330,82,24,97,21472,2,People
+Thomas Edison,1074,104,52,303,59069,2,People
+Nikola Tesla,865,109,55,229,73512,4,People
+Marie Curie,866,114,27,259,43343,4,People
+Albert Einstein,1218,137,60,520,75702,4,People
+Archimedes,952,73,33,295,39037,5,People
+Euclid,736,63,19,75,14024,3,People
+Muhammad ibn Musa al-Khwarizmi,622,69,24,148,22921,3,People
+Leonhard Euler,821,89,38,275,35707,5,People
+Carl Friedrich Gauss,694,99,32,148,36572,2,People
+Emmy Noether,408,64,26,196,78301,5,People
+Kurt Gödel,1213,81,14,101,26509,3,People
+Alan Turing,484,105,27,324,53347,4,People
+Charlie Chaplin,979,108,42,243,80764,5,People
+Walt Disney,928,118,31,207,44580,5,People
+Henry Ford,627,100,31,151,54330,2,People
+History,732,34,21,113,44965,3,History
+Human history,1103,17,55,331,68223,2,History
+Civilization,691,27,34,161,43299,2,History
+Archaeology,795,33,34,291,57578,2,History
+History of Africa,1645,32,77,266,165877,3,History
+History of Asia,750,19,37,45,81328,2,History
+History of East Asia,677,15,33,54,60157,2,History
+History of India,1850,33,162,295,117903,3,History
+History of the Middle East,755,21,37,48,56810,2,History
+History of Europe,1691,15,79,210,159481,3,History
+History of North America,442,14,12,42,25322,2,History
+History of Oceania,519,7,43,103,52205,2,History
+History of South America,601,26,36,208,46135,2,History
+History of science,1332,18,40,228,97872,2,History
+History of art,2225,20,284,184,96817,3,History
+History of agriculture,812,14,34,302,48839,4,History
+History of architecture,1854,25,267,75,77012,2,History
+History of film,1151,37,26,224,94867,2,History
+History of literature,659,18,7,53,49841,1,History
+History of mathematics,1022,14,40,96,70595,3,History
+History of medicine,962,30,60,326,103887,2,History
+History of music,1242,17,44,158,46630,2,History
+History of technology,1384,27,30,93,49357,2,History
+Military history,1042,25,21,79,52591,2,History
+Prehistory,613,17,15,86,24529,2,History
+Stone Age,682,20,24,78,52339,2,History
+Early human migrations,430,19,17,379,33428,2,History
+Neolithic Revolution,938,21,32,182,42366,2,History
+Ancient history,672,21,36,53,49295,2,History
+Bronze Age,657,20,28,148,53900,2,History
+Ancient Egypt,964,30,67,155,78842,5,History
+Indus Valley Civilisation,682,38,42,314,64368,3,History
+Mesopotamia,668,53,47,74,44464,2,History
+Sumer,1559,41,87,128,49527,3,History
+Phoenicia,800,52,32,110,47012,2,History
+Iron Age,385,25,9,70,26801,2,History
+Ancient Greece,1231,20,35,42,53197,2,History
+Ancient Rome,2216,41,67,262,122993,2,History
+Achaemenid Empire,2129,49,117,230,80550,2,History
+Gupta Empire,704,29,64,84,28494,2,History
+Han dynasty,1092,33,80,62,72127,5,History
+Silk Road,918,63,60,177,60602,2,History
+Pre-Columbian era,1401,17,30,102,34811,3,History
+Andean civilizations,378,7,17,30,17706,2,History
+Mesoamerica,1759,29,71,78,52421,3,History
+Maya civilization,769,26,64,304,97727,5,History
+Post-classical history,692,10,47,173,56576,2,History
+Aztecs,615,35,70,146,92728,4,History
+Inca Empire,851,36,30,126,54892,2,History
+Islamic Golden Age,1038,37,25,219,53286,2,History
+Middle Ages,1240,41,49,52,101512,5,History
+Black Death,487,41,21,295,42455,3,History
+Byzantine Empire,1804,57,91,335,110786,5,History
+Crusades,1375,34,51,96,86181,4,History
+Holy Roman Empire,1140,56,54,214,83180,2,History
+Viking Age,1135,30,30,112,64021,3,History
+Mongol Empire,904,49,53,112,70105,3,History
+Ottoman Empire,1990,76,74,273,97763,3,History
+Tang dynasty,1237,31,71,85,96527,5,History
+Early modern period,1235,34,32,174,83144,2,History
+Renaissance,1449,36,41,133,66791,4,History
+Age of Discovery,2165,39,63,303,116856,2,History
+European colonization of the Americas,717,21,28,72,48939,2,History
+Western imperialism in Asia,536,21,80,61,70040,2,History
+Spanish Empire,1383,37,59,184,101287,3,History
+Reformation,1470,46,49,225,75387,2,History
+Mughal Empire,1193,34,55,230,51582,2,History
+Scientific Revolution,825,21,30,132,63227,3,History
+Age of Enlightenment,1513,50,50,130,111562,2,History
+Late modern period,1159,23,60,98,84509,2,History
+British Empire,1264,28,37,208,70903,3,History
+American Revolution,1903,43,52,249,114664,3,History
+French Revolution,1447,29,59,213,93094,3,History
+Industrial Revolution,1783,48,49,269,140033,2,History
+Scramble for Africa,916,24,34,107,48532,2,History
+World War I,1436,94,141,514,159434,3,History
+Soviet Union,1746,101,153,434,103478,3,History
+Great Depression,1316,42,35,304,89755,3,History
+World War II,1474,124,78,349,85678,4,History
+Decolonization,845,24,45,120,69857,2,History
+Cold War,1881,40,93,415,117414,2,History
+Green Revolution,417,31,16,177,42582,3,History
+Information Age,718,14,17,87,26119,2,History
+Geography,505,32,69,117,34282,2,Geography
+Continent,1517,21,35,114,26504,2,Geography
+Africa,2203,44,197,427,57071,2,Geography
+Antarctica,1253,48,100,379,49758,5,Geography
+Asia,2038,36,190,202,42791,2,Geography
+Europe,2736,52,212,432,79865,2,Geography
+North America,1993,41,142,313,51543,2,Geography
+South America,2471,49,153,411,81545,2,Geography
+Arctic,2003,34,36,99,18388,2,Geography
+Caribbean,1990,32,111,96,41659,2,Geography
+Middle East,944,43,91,122,27793,2,Geography
+Oceania,2372,32,145,733,95958,2,Geography
+Land,373,27,9,97,13153,1,Geography
+Desert,578,21,37,205,58380,4,Geography
+Sahara,721,41,40,165,52290,3,Geography
+Forest,584,27,31,131,31721,2,Geography
+Amazon rainforest,1454,36,54,275,29078,2,Geography
+Grassland,422,17,15,117,25444,3,Geography
+Island,342,20,18,111,10750,2,Geography
+Mountain,279,16,21,93,16713,3,Geography
+Alps,802,47,65,72,56735,2,Geography
+Andes,1734,21,41,54,29243,2,Geography
+Himalayas,2057,37,26,114,34134,3,Geography
+Rocky Mountains,736,37,30,85,26282,3,Geography
+Sea,1059,28,47,451,72500,5,Geography
+Arctic Ocean,1983,43,37,151,28848,2,Geography
+Atlantic Ocean,679,37,41,204,51426,2,Geography
+Mediterranean Sea,1884,54,100,218,57598,2,Geography
+Indian Ocean,1774,30,42,208,49389,2,Geography
+Pacific Ocean,1570,35,45,146,28312,2,Geography
+Great Barrier Reef,882,40,32,308,43458,2,Geography
+Southern Ocean,1052,34,54,197,54509,3,Geography
+Lake,463,33,30,142,41319,3,Geography
+Caspian Sea,2117,73,37,172,38208,2,Geography
+Great Lakes,507,39,30,184,51093,3,Geography
+Lake Victoria,366,38,24,158,31626,3,Geography
+River,420,25,29,36,23552,2,Geography
+Amazon River,472,45,77,181,40236,2,Geography
+Ganges,1216,42,40,210,63276,3,Geography
+Mississippi River,1020,52,53,214,60168,2,Geography
+Nile,990,59,47,150,41671,2,Geography
+Yangtze,740,58,62,206,54729,3,Geography
+Glacier,553,22,44,112,33735,3,Geography
+Country,169,19,12,77,15583,1,Geography
+Algeria,1140,79,82,377,71715,2,Geography
+Democratic Republic of the Congo,890,62,76,446,75896,2,Geography
+Egypt,1399,76,106,505,92183,2,Geography
+Ethiopia,1268,78,97,568,128220,3,Geography
+Kenya,1250,60,70,478,82946,3,Geography
+Nigeria,1172,61,73,368,97906,3,Geography
+South Africa,1511,64,96,461,74867,2,Geography
+Tanzania,867,60,73,387,76717,3,Geography
+Bangladesh,1771,71,123,652,123246,3,Geography
+China,2261,89,122,837,101792,3,Geography
+India,1622,72,111,567,72689,5,Geography
+Indonesia,1184,73,110,490,61364,3,Geography
+Iran,2310,88,133,712,108420,3,Geography
+Israel,1528,88,131,799,108283,3,Geography
+Japan,1416,60,118,394,52530,5,Geography
+Malaysia,1358,58,94,466,59344,4,Geography
+Myanmar,889,63,78,537,94057,3,Geography
+Pakistan,1972,72,136,799,113519,3,Geography
+Philippines,1408,106,86,913,66955,4,Geography
+Saudi Arabia,1130,74,103,706,122379,3,Geography
+South Korea,1372,83,139,582,101472,3,Geography
+Taiwan,1201,68,79,611,108285,2,Geography
+Thailand,1455,79,103,390,92921,2,Geography
+United Arab Emirates,1256,67,92,501,84684,3,Geography
+Vietnam,1534,58,79,591,89949,3,Geography
+Russia,2002,66,77,935,80648,4,Geography
+Turkey,1910,80,166,627,106716,3,Geography
+France,2124,89,189,678,139225,3,Geography
+Germany,1194,66,116,535,55174,5,Geography
+Italy,2449,67,203,762,151824,3,Geography
+Netherlands,1528,69,170,377,111133,3,Geography
+Poland,1637,52,154,461,75180,3,Geography
+Spain,1393,87,160,472,108053,3,Geography
+Ukraine,1162,63,111,542,78983,3,Geography
+United Kingdom,1941,74,84,861,113013,3,Geography
+Canada,1468,59,55,629,72756,5,Geography
+Mexico,1244,73,82,491,127351,3,Geography
+United States,1728,64,62,733,78048,3,Geography
+Australia,1148,58,55,498,58947,5,Geography
+Argentina,1643,73,146,447,91388,3,Geography
+Brazil,1443,66,111,537,86864,3,Geography
+Colombia,1157,50,110,571,75687,2,Geography
+City,1377,34,63,287,58810,3,Geography
+Cairo,953,61,101,250,62751,2,Geography
+Lagos,761,46,68,283,50138,3,Geography
+Beijing,2334,57,273,477,83034,3,Geography
+Hong Kong,1610,53,60,402,53419,4,Geography
+Tokyo,1275,53,339,252,45018,3,Geography
+Jakarta,1034,44,113,447,59494,3,Geography
+Singapore,1374,63,82,742,85724,4,Geography
+Delhi,1134,55,80,553,53049,4,Geography
+Mumbai,1341,64,83,642,66369,4,Geography
+Istanbul,1774,62,96,348,81358,3,Geography
+Jerusalem,1773,93,105,565,90868,3,Geography
+Mecca,1160,45,44,178,48024,3,Geography
+London,2258,51,120,771,95372,4,Geography
+Moscow,1305,92,124,330,102554,3,Geography
+Paris,2246,63,271,631,108219,4,Geography
+Rome,1698,81,161,337,96480,3,Geography
+Mexico City,1389,56,145,271,91204,3,Geography
+New York City,2994,72,132,801,124747,3,Geography
+São Paulo,1885,48,152,391,90166,3,Geography
+The arts,1055,23,33,83,21772,2,Arts
+Art,519,30,36,256,57072,2,Arts
+Prehistoric art,849,12,46,80,50775,2,Arts
+Fashion,1548,31,26,104,54418,2,Arts
+Museum,441,29,30,131,44326,2,Arts
+Abstract art,267,29,31,42,22941,3,Arts
+Modernism,2339,20,35,114,78982,2,Arts
+Realism (arts),728,9,37,26,25653,2,Arts
+Romanticism,1738,45,82,79,85474,2,Arts
+Architecture,1053,23,73,73,30147,2,Arts
+Great Pyramid of Giza,517,38,34,176,74858,3,Arts
+Great Wall of China,436,33,50,84,23542,3,Arts
+Literature,421,31,24,189,31746,2,Arts
+English literature,1093,25,31,99,81070,2,Arts
+Fiction,326,19,7,75,15568,2,Arts
+Novel,852,29,24,77,51620,2,Arts
+Short story,632,21,9,61,31143,2,Arts
+Fairy tale,1231,24,22,101,53603,2,Arts
+Poetry,1032,29,42,112,53688,3,Arts
+Epic poetry,489,24,9,49,16042,2,Arts
+Music,1052,56,54,146,83655,2,Arts
+Musical instrument,681,16,25,58,47860,4,Arts
+Piano,446,38,49,90,60905,2,Arts
+Singing,315,23,13,79,37948,3,Arts
+Classical music,1699,26,29,132,44148,2,Arts
+Folk music,859,24,24,362,62109,2,Arts
+Jazz,927,40,57,168,96577,3,Arts
+Pop music,551,21,12,57,16205,2,Arts
+Rock music,1584,35,50,222,91417,2,Arts
+Performing arts,253,18,18,40,23677,2,Arts
+Dance,433,17,56,53,29830,2,Arts
+Opera,873,28,42,80,67784,3,Arts
+Orchestra,382,28,9,40,41088,2,Arts
+Theatre,580,25,34,58,38357,2,Arts
+Visual arts,382,19,22,58,20596,2,Arts
+Film,882,35,24,87,48538,2,Arts
+Animation,879,13,20,67,36516,2,Arts
+Calligraphy,679,58,39,51,28036,2,Arts
+Comics,388,24,30,120,25100,4,Arts
+Design,389,16,9,87,12243,2,Arts
+Drawing,302,17,18,50,24158,2,Arts
+Painting,742,24,35,125,40542,2,Arts
+Photography,527,27,38,107,45003,3,Arts
+Pottery,533,14,37,88,49525,2,Arts
+Sculpture,1321,24,293,57,93678,3,Arts
+Philosophy,917,33,34,345,46121,2,Philosophy and religion
+Philosophy of science,928,30,23,169,49532,4,Philosophy and religion
+Aesthetics,679,25,14,132,31549,2,Philosophy and religion
+Epistemology,940,38,23,175,59761,2,Philosophy and religion
+Knowledge,809,21,17,190,43380,2,Philosophy and religion
+Belief,1811,34,17,179,54795,2,Philosophy and religion
+Reason,710,41,12,98,53820,3,Philosophy and religion
+Truth,990,34,10,77,53389,3,Philosophy and religion
+Ethics,740,36,19,184,67035,2,Philosophy and religion
+Good and evil,552,44,17,52,47791,2,Philosophy and religion
+Logic,701,26,16,304,57218,3,Philosophy and religion
+Metaphysics,976,36,18,123,57869,2,Philosophy and religion
+Free will,819,27,16,354,104137,3,Philosophy and religion
+Ontology,411,30,9,209,64969,2,Philosophy and religion
+Eastern philosophy,1231,29,21,74,38800,2,Philosophy and religion
+Confucianism,1747,37,33,123,66840,2,Philosophy and religion
+Western philosophy,979,10,31,42,54990,2,Philosophy and religion
+Myth,345,26,15,93,28398,3,Philosophy and religion
+Greek mythology,1591,22,37,87,52472,3,Philosophy and religion
+Religion,1875,31,34,290,61625,2,Philosophy and religion
+Afterlife,1639,27,21,163,66120,2,Philosophy and religion
+Deity,603,25,43,257,39466,2,Philosophy and religion
+God,1101,26,30,89,35533,3,Philosophy and religion
+Meditation,1051,31,26,266,48047,3,Philosophy and religion
+New religious movement,928,10,13,73,27429,2,Philosophy and religion
+Prayer,1203,36,22,143,50010,3,Philosophy and religion
+Ritual,943,12,20,65,41964,2,Philosophy and religion
+Shamanism,1514,32,19,117,37463,3,Philosophy and religion
+Soul,1253,40,15,157,45247,3,Philosophy and religion
+Spirituality,1182,42,11,186,40075,2,Philosophy and religion
+Secularism,440,16,7,45,18575,2,Philosophy and religion
+Atheism,1776,41,28,427,62017,5,Philosophy and religion
+Christianity,2199,54,80,461,95592,3,Philosophy and religion
+Bible,1818,40,55,261,81756,2,Philosophy and religion
+Catholic Church,3662,60,64,410,96623,4,Philosophy and religion
+Eastern Orthodox Church,1985,42,58,280,83070,2,Philosophy and religion
+Protestantism,1951,39,103,327,108438,3,Philosophy and religion
+Islam,1760,35,59,374,66376,3,Philosophy and religion
+Shia Islam,1951,28,39,250,56772,3,Philosophy and religion
+Sunni Islam,1676,15,19,121,72266,2,Philosophy and religion
+Quran,1193,56,49,203,63822,3,Philosophy and religion
+Judaism,1367,46,59,200,95313,3,Philosophy and religion
+Talmud,805,37,29,184,78377,3,Philosophy and religion
+Chinese folk religion,1157,22,53,151,85492,2,Philosophy and religion
+Shinto,1202,27,40,59,75016,3,Philosophy and religion
+Taoism,1477,32,31,104,35722,4,Philosophy and religion
+Buddhism,1772,41,93,305,119188,3,Philosophy and religion
+Mahayana,1376,24,46,69,75539,3,Philosophy and religion
+Theravada,1412,29,43,84,81019,3,Philosophy and religion
+Hinduism,1885,49,90,610,79134,3,Philosophy and religion
+Vedas,621,27,23,125,42923,3,Philosophy and religion
+Bhagavad Gita,1245,49,55,220,90820,3,Philosophy and religion
+Jainism,1458,27,61,223,55745,4,Philosophy and religion
+Sikhism,1201,35,36,206,70079,3,Philosophy and religion
+Traditional African religions,961,11,14,64,21294,3,Philosophy and religion
+Clothing,811,21,40,131,33720,2,Everyday life
+Home,504,22,26,108,14715,2,Everyday life
+Furniture,474,33,98,51,24822,2,Everyday life
+Jewellery,1262,21,79,55,56426,3,Everyday life
+Ethnic group,522,26,14,150,41809,2,Everyday life
+Family,597,31,32,344,52398,2,Everyday life
+Adult,298,14,4,74,19315,2,Everyday life
+Adolescence,301,29,27,323,93538,3,Everyday life
+Child,387,25,29,128,25339,2,Everyday life
+Infant,270,20,27,82,19446,3,Everyday life
+Marriage,1409,52,53,435,116980,2,Everyday life
+Old age,249,24,19,211,45179,3,Everyday life
+Parenting,294,23,13,189,36726,2,Everyday life
+Friendship,187,23,15,98,18432,1,Everyday life
+Human sexuality,915,27,13,326,66733,3,Everyday life
+Sexual intercourse,798,24,20,312,58476,3,Everyday life
+Sexual orientation,520,22,11,326,62157,3,Everyday life
+Gender,591,29,20,332,71065,2,Everyday life
+Man,292,23,13,97,12340,1,Everyday life
+Woman,1251,33,32,199,35041,2,Everyday life
+Cooking,1167,19,25,103,21667,2,Everyday life
+Food,1746,28,55,327,42724,2,Everyday life
+Bread,792,27,33,94,23267,2,Everyday life
+Cereal,622,19,14,77,15157,2,Everyday life
+Wheat,643,41,48,342,49930,3,Everyday life
+Maize,924,45,59,300,59331,3,Everyday life
+Rice,1509,32,52,320,47871,3,Everyday life
+Cheese,643,49,79,141,30756,2,Everyday life
+Fruit,816,19,31,88,22677,2,Everyday life
+Meat,743,30,40,442,53226,3,Everyday life
+Salt,854,27,30,187,27247,4,Everyday life
+Spice,948,18,27,43,13043,2,Everyday life
+Sugar,915,24,39,192,38621,4,Everyday life
+Vegetable,614,17,44,55,19405,4,Everyday life
+Potato,656,42,43,240,47206,3,Everyday life
+Soybean,1122,52,37,335,51044,3,Everyday life
+Drink,468,18,23,110,25575,2,Everyday life
+Alcoholic beverage,1229,22,24,64,19485,2,Everyday life
+Coffee,634,40,45,297,55454,3,Everyday life
+Drinking water,301,13,19,135,23074,3,Everyday life
+Milk,612,25,82,313,57859,3,Everyday life
+Tea,467,30,46,174,36522,3,Everyday life
+Entertainment,784,16,117,65,73536,4,Everyday life
+Play (activity),284,21,16,97,40784,2,Everyday life
+Game,309,23,20,43,29463,2,Everyday life
+Board game,264,31,25,146,21397,2,Everyday life
+Card game,436,23,12,25,32404,2,Everyday life
+Gambling,278,24,20,77,22647,2,Everyday life
+Video game,841,24,34,258,66454,3,Everyday life
+Sport,327,36,30,140,26102,2,Everyday life
+Association football,984,42,49,240,41431,2,Everyday life
+Sport of athletics,926,22,23,144,40850,3,Everyday life
+Olympic Games,2449,41,81,401,79229,5,Everyday life
+Toy,281,36,26,112,37680,2,Everyday life
+Martial arts,425,29,17,52,26988,3,Everyday life
+Swimming,329,16,17,63,25632,3,Everyday life
+Tourism,1426,39,58,223,42167,2,Everyday life
+Culture,505,32,34,144,36428,2,Society and social sciences
+Folklore,619,15,23,84,45802,2,Society and social sciences
+Festival,281,20,30,95,11547,1,Society and social sciences
+Oral tradition,253,20,6,123,36450,3,Society and social sciences
+Popular culture,601,28,9,52,21362,2,Society and social sciences
+Society,535,20,18,117,23914,2,Society and social sciences
+Community,164,26,12,38,19738,1,Society and social sciences
+Power (social and political),662,41,10,77,40973,2,Society and social sciences
+Social class,347,40,16,152,29623,2,Society and social sciences
+Communication,802,29,20,136,45923,2,Society and social sciences
+Social science,673,29,23,90,50766,2,Society and social sciences
+Anthropology,919,32,20,190,55386,2,Society and social sciences
+Sociology,833,29,29,211,87750,4,Society and social sciences
+Politics,667,27,28,138,36301,2,Society and social sciences
+Political party,606,19,75,301,43345,4,Society and social sciences
+Political science,275,21,17,127,24193,2,Society and social sciences
+Colonialism,1093,31,67,236,71451,2,Society and social sciences
+Imperialism,1127,37,38,157,68961,2,Society and social sciences
+Government,787,30,24,53,15854,1,Society and social sciences
+Democracy,1511,47,29,320,89684,2,Society and social sciences
+Dictatorship,481,15,17,285,49145,3,Society and social sciences
+Monarchy,1075,28,23,52,35369,3,Society and social sciences
+Ideology,955,30,9,79,26648,2,Society and social sciences
+Anarchism,1612,30,31,155,45869,4,Society and social sciences
+Capitalism,1607,60,31,258,50612,2,Society and social sciences
+Communism,1315,61,23,351,85696,2,Society and social sciences
+Conservatism,1528,31,20,244,68761,2,Society and social sciences
+Fascism,1517,52,30,175,90244,3,Society and social sciences
+Liberalism,1590,36,34,132,66882,3,Society and social sciences
+Nationalism,946,28,31,248,91336,2,Society and social sciences
+Socialism,2336,66,46,464,120918,2,Society and social sciences
+State (polity),422,25,7,259,44090,2,Society and social sciences
+Diplomacy,427,25,24,76,39266,2,Society and social sciences
+Military,545,36,49,64,32863,2,Society and social sciences
+European Union,1721,82,138,443,85357,3,Society and social sciences
+International Red Cross and Red Crescent Movement,785,37,262,77,57406,3,Society and social sciences
+NATO,1295,93,104,373,42010,4,Society and social sciences
+United Nations,817,63,86,359,57445,4,Society and social sciences
+War,532,44,40,217,37636,3,Society and social sciences
+Genocide,529,39,20,195,48882,3,Society and social sciences
+Peace,757,21,29,91,37232,2,Society and social sciences
+Terrorism,810,38,38,269,58439,2,Society and social sciences
+Education,1698,45,44,516,71198,2,Society and social sciences
+School,280,28,25,49,24331,2,Society and social sciences
+Library,340,30,31,179,36575,2,Society and social sciences
+University,688,31,20,70,36384,2,Society and social sciences
+Business,339,27,18,83,26916,2,Society and social sciences
+Corporation,559,24,15,55,30344,2,Society and social sciences
+Management,600,42,10,75,37903,2,Society and social sciences
+Marketing,361,21,11,72,33658,2,Society and social sciences
+Retail,1171,21,37,97,36575,2,Society and social sciences
+Trade union,1252,30,31,220,67283,2,Society and social sciences
+Economics,840,44,32,456,75409,2,Society and social sciences
+Trade,572,20,21,153,26473,2,Society and social sciences
+Supply and demand,400,16,15,39,26139,3,Society and social sciences
+Employment,765,18,14,84,31700,2,Society and social sciences
+Finance,428,17,35,78,29468,2,Society and social sciences
+Bank,497,33,36,60,40557,2,Society and social sciences
+Money,527,28,24,69,34461,3,Society and social sciences
+Insurance,1144,35,29,134,81120,3,Society and social sciences
+Tax,769,34,22,128,81313,3,Society and social sciences
+Economy,292,19,8,71,13672,2,Society and social sciences
+Agriculture,702,34,65,441,52187,4,Society and social sciences
+Manufacturing,944,20,66,91,17559,1,Society and social sciences
+Construction,547,18,51,65,29459,2,Society and social sciences
+Fishing,376,24,37,81,29706,2,Society and social sciences
+Hunting,1226,50,107,240,64211,2,Society and social sciences
+Mining,1191,33,41,152,55196,3,Society and social sciences
+Abortion,653,36,22,603,51998,3,Society and social sciences
+Disability,454,31,19,308,60154,2,Society and social sciences
+Discrimination,798,35,21,162,28943,3,Society and social sciences
+Racism,1578,31,38,290,88646,3,Society and social sciences
+Sexism,1206,57,36,446,78621,2,Society and social sciences
+Environmentalism,753,25,29,102,37453,2,Society and social sciences
+Pollution,862,28,32,176,31269,3,Society and social sciences
+Famine,821,45,43,304,84360,2,Society and social sciences
+Feminism,1316,36,34,364,73345,4,Society and social sciences
+Globalization,1191,53,51,373,83310,3,Society and social sciences
+Human migration,209,24,18,108,31683,2,Society and social sciences
+Human rights,921,36,25,133,58775,2,Society and social sciences
+Liberty,1079,28,19,52,20053,2,Society and social sciences
+Privacy,443,21,11,195,63691,2,Society and social sciences
+Slavery,2826,57,71,556,116237,3,Society and social sciences
+Social equality,272,20,11,33,18606,1,Society and social sciences
+Suffrage,964,32,15,160,58966,3,Society and social sciences
+Indigenous peoples,684,34,41,250,69680,3,Society and social sciences
+Poverty,1003,30,47,551,59601,3,Society and social sciences
+Violence,256,33,20,277,69498,2,Society and social sciences
+Welfare,347,35,13,112,37068,2,Society and social sciences
+Law,1182,32,46,312,71547,3,Society and social sciences
+Crime,762,35,14,53,33883,2,Society and social sciences
+Constitution,677,33,23,121,53094,2,Society and social sciences
+Justice,1071,21,26,61,31318,2,Society and social sciences
+Police,1005,47,34,188,81941,2,Society and social sciences
+Property,929,27,13,57,44863,2,Society and social sciences
+Psychology,851,28,31,415,99495,2,Society and social sciences
+Emotion,596,28,15,244,60615,2,Society and social sciences
+Anger,571,20,20,182,56463,2,Society and social sciences
+Fear,447,28,11,319,49548,3,Society and social sciences
+Happiness,589,45,22,291,28375,3,Society and social sciences
+Humour,429,21,13,95,33330,2,Society and social sciences
+Love,614,41,24,101,39954,2,Society and social sciences
+Mind,570,68,18,259,52688,2,Society and social sciences
+Consciousness,834,30,21,298,75283,4,Society and social sciences
+Dream,368,19,22,143,33290,3,Society and social sciences
+Memory,488,20,21,376,63470,2,Society and social sciences
+Thought,260,45,11,274,64303,2,Society and social sciences
+Human behavior,449,16,15,135,26998,2,Society and social sciences
+Intelligence,283,21,9,105,16985,2,Society and social sciences
+Learning,377,30,15,119,38189,2,Society and social sciences
+Personality,146,15,7,59,23815,2,Society and social sciences
+Language,993,29,42,94,81956,4,Society and social sciences
+Indo-European languages,1098,35,19,93,47932,2,Society and social sciences
+Bengali language,1011,41,38,165,37116,2,Society and social sciences
+English language,1161,51,38,331,90400,4,Society and social sciences
+French language,1067,85,57,156,55961,2,Society and social sciences
+German language,1090,59,54,105,62734,2,Society and social sciences
+Greek language,1190,40,27,92,22970,2,Society and social sciences
+Hindustani language,638,28,15,99,23810,2,Society and social sciences
+Latin,768,59,33,113,57368,3,Society and social sciences
+Portuguese language,1030,50,62,242,51665,3,Society and social sciences
+Russian language,985,48,30,186,41834,2,Society and social sciences
+Spanish language,787,82,42,496,53297,2,Society and social sciences
+Arabic,963,78,82,157,88225,2,Society and social sciences
+Chinese language,1161,40,29,65,45785,2,Society and social sciences
+Japanese language,712,34,22,118,46506,2,Society and social sciences
+Malay language,2020,40,29,64,22055,3,Society and social sciences
+Swahili language,1088,41,29,117,34946,3,Society and social sciences
+Linguistics,739,42,15,133,47261,3,Society and social sciences
+Grammar,259,22,9,34,15844,2,Society and social sciences
+Word,219,15,8,59,20392,1,Society and social sciences
+Personal name,464,27,7,57,21376,3,Society and social sciences
+Speech,395,16,19,78,14748,2,Society and social sciences
+Writing,513,26,15,77,25998,2,Society and social sciences
+Alphabet,787,17,16,44,31982,2,Society and social sciences
+Arabic script,1262,50,37,76,20537,1,Society and social sciences
+Brahmic scripts,838,12,282,23,7047,2,Society and social sciences
+Cyrillic script,1836,34,44,58,24500,2,Society and social sciences
+Greek alphabet,1558,21,160,61,34805,3,Society and social sciences
+Latin script,1022,20,160,45,22149,2,Society and social sciences
+Arabic numerals,343,23,12,64,12251,1,Society and social sciences
+Chinese characters,1138,47,58,108,85654,2,Society and social sciences
+Mass media,551,37,22,66,46683,2,Society and social sciences
+Broadcasting,615,17,14,53,20453,2,Society and social sciences
+News,451,18,14,62,82901,2,Society and social sciences
+Publishing,226,20,12,58,14720,3,Society and social sciences
+Disease,385,24,15,96,35665,2,"Health, medicine and disease"
+Allergy,630,33,19,326,39557,3,"Health, medicine and disease"
+Asthma,455,26,22,641,49712,4,"Health, medicine and disease"
+Cancer,580,33,26,608,66853,3,"Health, medicine and disease"
+Cardiovascular disease,604,18,11,519,38591,2,"Health, medicine and disease"
+Stroke,571,35,22,627,66303,3,"Health, medicine and disease"
+Diabetes,371,25,18,392,39605,3,"Health, medicine and disease"
+Gastroenteritis,462,22,10,237,22260,4,"Health, medicine and disease"
+Infection,802,29,24,209,57249,2,"Health, medicine and disease"
+Common cold,399,24,13,219,18113,4,"Health, medicine and disease"
+Influenza,517,25,31,185,66988,5,"Health, medicine and disease"
+Malaria,630,36,41,754,72852,4,"Health, medicine and disease"
+Pneumonia,482,26,24,354,46100,4,"Health, medicine and disease"
+Sexually transmitted infection,719,44,21,264,29243,3,"Health, medicine and disease"
+HIV_AIDS,779,43,36,741,62137,4,"Health, medicine and disease"
+Smallpox,628,39,36,332,72839,4,"Health, medicine and disease"
+Tuberculosis,485,46,28,593,47996,4,"Health, medicine and disease"
+Mental disorder,572,39,21,581,76045,2,"Health, medicine and disease"
+Injury,381,17,15,299,28298,3,"Health, medicine and disease"
+Medicine,686,23,37,131,50498,2,"Health, medicine and disease"
+Dentistry,511,18,23,119,22501,2,"Health, medicine and disease"
+Hospital,499,37,35,92,28215,2,"Health, medicine and disease"
+Nursing,474,30,20,184,67861,2,"Health, medicine and disease"
+Surgery,474,24,26,187,42356,3,"Health, medicine and disease"
+Ageing,399,36,20,615,55010,3,"Health, medicine and disease"
+Exercise,270,19,22,423,24084,2,"Health, medicine and disease"
+Health,279,18,15,138,29524,2,"Health, medicine and disease"
+Mental health,703,35,21,258,44511,2,"Health, medicine and disease"
+Hygiene,629,29,23,167,44228,2,"Health, medicine and disease"
+Sanitation,583,16,28,97,27192,3,"Health, medicine and disease"
+Nutrition,399,14,20,67,17668,2,"Health, medicine and disease"
+Obesity,425,31,26,628,50980,4,"Health, medicine and disease"
+Drug,709,9,10,80,11940,2,"Health, medicine and disease"
+Medication,584,22,10,103,39510,2,"Health, medicine and disease"
+Anesthesia,684,18,22,165,42320,2,"Health, medicine and disease"
+Antibiotic,921,26,20,469,46239,2,"Health, medicine and disease"
+Birth control,759,28,38,474,46318,4,"Health, medicine and disease"
+Vaccine,629,27,25,419,51122,3,"Health, medicine and disease"
+Addiction,625,27,15,432,57066,2,"Health, medicine and disease"
+Alcoholism,620,33,20,443,47656,4,"Health, medicine and disease"
+Smoking,572,28,39,186,49203,3,"Health, medicine and disease"
+Science,661,32,29,416,45955,3,Science
+Scientific method,769,17,21,151,73762,3,Science
+Measurement,304,16,10,38,20674,2,Science
+International System of Units,681,31,19,195,58608,4,Science
+Nature,746,22,59,207,37866,4,Science
+Astronomy,804,28,43,235,45746,4,Science
+Universe,738,39,48,334,58723,4,Science
+Solar System,881,27,46,731,55589,5,Science
+Sun,1206,49,49,553,63079,5,Science
+Mercury (planet),876,32,51,392,50178,5,Science
+Venus,863,31,47,598,49983,5,Science
+Earth,1109,42,56,535,54066,5,Science
+Moon,1180,44,79,820,74128,5,Science
+Mars,1466,33,54,592,53728,5,Science
+Jupiter,710,39,49,475,45116,4,Science
+Saturn,614,37,51,419,30637,5,Science
+Uranus,549,39,39,420,49299,5,Science
+Neptune,549,44,50,384,39548,5,Science
+Asteroid,1028,24,50,358,62767,3,Science
+Big Bang,550,33,31,511,56670,3,Science
+Black hole,740,27,47,626,61286,4,Science
+Comet,841,32,63,357,54805,4,Science
+Galaxy,519,20,46,467,54060,5,Science
+Milky Way,518,34,49,749,53690,4,Science
+Natural satellite,606,23,64,83,16179,2,Science
+Orbit,273,21,16,52,44704,2,Science
+Outer space,679,17,37,286,40782,4,Science
+Physical cosmology,407,14,7,230,30988,2,Science
+Planet,809,24,51,488,62406,5,Science
+Star,766,23,36,399,61661,5,Science
+Supernova,1142,22,38,642,62720,5,Science
+Physics,645,21,33,173,37514,2,Science
+Energy,766,25,25,48,39391,2,Science
+Time,922,34,27,194,46378,2,Science
+Day,405,16,19,62,13445,2,Science
+Year,420,19,16,63,27182,2,Science
+Classical mechanics,424,10,14,33,30135,2,Science
+Mass,383,23,18,98,46168,2,Science
+Momentum,379,22,12,88,42468,3,Science
+Motion,214,12,5,75,16261,2,Science
+Newton's laws of motion,493,15,28,258,53072,2,Science
+Force,500,17,18,58,58434,4,Science
+Electromagnetism,316,19,9,70,13124,2,Science
+Gravity,480,30,26,171,27142,3,Science
+Strong interaction,219,12,10,25,12202,1,Science
+Weak interaction,265,17,12,75,20242,4,Science
+Magnetism,356,22,23,47,31320,3,Science
+Matter,509,15,13,140,40954,2,Science
+State of matter,303,12,21,48,25895,2,Science
+Atom,707,20,27,343,54763,3,Science
+Particle physics,603,11,11,85,18814,2,Science
+Standard Model,517,18,11,121,26561,3,Science
+Subatomic particle,301,9,6,95,11415,2,Science
+Electron,996,27,30,428,56023,5,Science
+Neutron,585,19,16,239,51145,2,Science
+Photon,561,27,19,243,41590,3,Science
+Proton,474,18,10,160,27970,2,Science
+Quantum mechanics,610,17,29,184,49291,4,Science
+Radioactive decay,422,25,23,137,52239,2,Science
+Space,349,14,23,34,22151,2,Science
+Vacuum,317,23,16,108,36416,2,Science
+Thermodynamics,524,18,12,58,30923,3,Science
+Heat,252,19,10,40,49792,2,Science
+Temperature,1867,26,19,110,56669,3,Science
+Theory of relativity,469,25,23,67,16286,3,Science
+Speed of light,716,18,23,427,49398,5,Science
+Wave,319,18,31,49,31316,3,Science
+Electromagnetic radiation,499,18,29,132,53839,2,Science
+Light,572,24,21,73,28369,3,Science
+Color,543,19,44,57,28665,2,Science
+Optics,603,17,33,145,64696,3,Science
+Sound,209,22,23,80,19835,3,Science
+Biology,1783,31,72,506,132586,4,Science
+Life,1494,22,30,580,50038,3,Science
+Cell (biology),477,18,24,130,30248,2,Science
+Death,583,38,34,169,39854,2,Science
+Suicide,486,35,31,588,47267,4,Science
+Abiogenesis,889,20,26,646,47048,4,Science
+Evolution,1022,31,41,1310,70367,5,Science
+Human evolution,1292,21,29,834,79577,2,Science
+Natural selection,861,25,21,356,48476,4,Science
+Organism,430,13,10,154,20110,3,Science
+Archaea,920,21,22,677,47944,5,Science
+Bacteria,1057,22,30,654,51692,5,Science
+Eukaryote,1708,26,38,432,37855,2,Science
+Animal,843,29,51,401,25202,4,Science
+Zoology,596,16,19,69,19912,2,Science
+Amphibian,643,22,61,367,77189,5,Science
+Arthropod,765,23,31,364,42872,4,Science
+Crustacean,336,28,27,140,13485,4,Science
+Insect,781,33,33,388,69005,3,Science
+Bird,1540,37,117,678,75339,5,Science
+Chicken,598,42,45,296,28726,2,Science
+Fish,829,32,89,199,51225,4,Science
+Mammal,1317,28,86,730,77081,4,Science
+Cat,1003,65,47,527,45803,4,Science
+Cattle,1057,56,60,422,62657,3,Science
+Dog,931,35,33,339,41413,3,Science
+Horse,521,34,37,292,52461,4,Science
+Pig,290,30,34,216,29284,2,Science
+Primate,592,22,52,478,53570,5,Science
+Human,1328,38,50,1092,59322,4,Science
+Rodent,603,25,81,346,56496,5,Science
+Sheep,553,27,61,199,55340,5,Science
+Mollusca,547,30,31,224,35925,4,Science
+Reptile,651,29,62,308,57845,3,Science
+Dinosaur,1208,29,56,882,83992,5,Science
+Plant,1202,31,28,329,44935,2,Science
+Algae,683,31,25,218,33488,2,Science
+Botany,1195,21,48,271,54072,4,Science
+Cotton,768,36,51,203,53447,3,Science
+Flower,544,26,40,235,49185,2,Science
+Seed,526,20,23,133,44918,3,Science
+Tree,689,25,39,332,49259,4,Science
+Fungus,1278,29,44,657,63733,5,Science
+Virus,611,34,37,526,64466,5,Science
+Anatomy,771,27,41,138,40435,4,Science
+Human body,691,18,29,127,30781,2,Science
+Circulatory system,2119,25,25,72,28682,2,Science
+Blood,540,31,23,110,36398,2,Science
+Heart,667,25,61,207,74788,4,Science
+Lung,610,20,35,190,47454,4,Science
+Digestion,298,21,14,63,27407,2,Science
+Liver,449,29,32,190,42912,2,Science
+Immune system,647,13,18,430,48981,5,Science
+Skeletal muscle,408,27,21,141,48806,2,Science
+Nervous system,477,17,19,141,45601,3,Science
+Brain,370,18,27,313,62042,4,Science
+Ear,418,20,25,89,29931,4,Science
+Eye,310,21,16,130,34857,3,Science
+Sense,556,23,13,189,57433,3,Science
+Skeleton,174,20,10,92,17963,1,Science
+Bone,991,24,23,148,40691,2,Science
+Skin,262,27,11,96,21656,2,Science
+Ecology,1034,26,42,759,73293,4,Science
+Biodiversity,1189,50,34,604,83085,2,Science
+Ecosystem,747,15,32,115,32768,3,Science
+Extinction,1032,23,33,218,39129,2,Science
+Genetics,591,20,34,265,41073,5,Science
+DNA,562,28,44,613,57877,5,Science
+Gene,510,18,18,393,47264,4,Science
+Heredity,335,10,16,110,15188,2,Science
+RNA,350,21,18,243,20712,4,Science
+Metabolism,2707,20,41,441,42116,5,Science
+Molecular biology,525,17,21,142,23444,2,Science
+Hormone,346,23,5,90,19083,2,Science
+Protein,561,20,27,239,43571,4,Science
+Paleontology,654,31,36,330,32051,4,Science
+Photosynthesis,933,30,32,240,47194,2,Science
+Reproduction,342,20,13,86,16025,3,Science
+Sex,431,20,27,150,20708,3,Science
+Pregnancy,945,31,42,346,50990,2,Science
+Sleep,503,19,32,396,45206,3,Science
+Taxonomy (biology),365,19,19,155,25886,4,Science
+Species,338,16,36,293,34084,4,Science
+Chemistry,577,25,41,114,43060,2,Science
+Biochemistry,697,16,28,101,28678,2,Science
+Inorganic chemistry,379,10,16,45,22135,3,Science
+Organic chemistry,396,19,25,38,25435,3,Science
+Physical chemistry,292,13,11,22,9673,1,Science
+Chemical element,796,21,17,110,45068,2,Science
+Periodic table,587,29,34,394,72560,5,Science
+Aluminium,698,32,31,326,52549,4,Science
+Carbon,795,24,36,251,43538,4,Science
+Copper,853,46,47,303,42826,4,Science
+Gold,1065,48,63,313,62359,3,Science
+Hydrogen,694,37,32,363,42162,5,Science
+Iron,846,32,58,304,65088,4,Science
+Nitrogen,825,32,27,189,53218,4,Science
+Oxygen,692,31,39,268,46800,5,Science
+Phosphorus,540,30,20,140,44886,2,Science
+Silicon,730,28,28,211,72795,4,Science
+Silver,848,44,46,157,50365,4,Science
+Sulfur,726,50,43,210,41674,2,Science
+Chemical compound,250,13,9,47,9725,2,Science
+Water,1086,51,63,476,62525,2,Science
+Carbon dioxide,1150,45,36,419,50714,2,Science
+Chemical bond,361,15,15,44,26306,2,Science
+Molecule,679,19,32,77,17475,1,Science
+Chemical reaction,613,23,38,68,41464,2,Science
+Acid–base reaction,172,13,8,38,20697,2,Science
+Catalysis,503,21,18,81,23801,2,Science
+Redox,241,19,15,38,17906,2,Science
+Metal,536,19,56,45,50383,2,Science
+Alloy,261,17,15,36,28632,2,Science
+Bronze,374,31,32,53,17129,2,Science
+Steel,486,26,28,95,32042,4,Science
+Earth science,327,30,21,37,15113,1,Science
+History of Earth,766,16,37,419,59864,3,Science
+Atmosphere of Earth,535,20,32,86,29941,2,Science
+Internal structure of Earth,261,14,15,106,8641,2,Science
+Season,513,23,30,64,31422,2,Science
+Flood,671,22,35,105,30248,3,Science
+Climate,695,17,18,119,14404,4,Science
+Climate change,871,31,60,696,55945,5,Science
+Weather,373,23,21,116,19235,4,Science
+Cloud,505,25,59,250,59345,4,Science
+Rain,647,18,41,356,41320,4,Science
+Snow,457,30,48,185,45755,4,Science
+Tornado,541,24,52,244,49158,3,Science
+Tropical cyclone,634,34,24,680,57159,3,Science
+Wind,563,11,23,277,41140,,Science
+Geology,725,21,51,157,39447,2,Science
+Earthquake,451,29,46,168,38809,3,Science
+Erosion,462,26,23,153,25195,2,Science
+Mineral,570,22,31,102,70395,3,Science
+Plate tectonics,589,27,28,246,56856,3,Science
+Rock (geology),271,19,17,63,13524,2,Science
+Soil,1072,31,38,639,72576,3,Science
+Volcano,520,28,42,108,37627,3,Science
+Technology,1109,21,16,214,27404,3,Technology
+Engineering,1293,32,39,163,37683,2,Technology
+Civil engineering,443,19,29,54,23367,2,Technology
+Mechanical engineering,621,23,17,91,34566,3,Technology
+Electricity,579,16,29,129,46463,4,Technology
+Electric battery,407,33,23,112,36399,2,Technology
+Fire,289,19,23,103,21030,2,Technology
+Explosive,481,24,11,95,47363,2,Technology
+Gunpowder,369,28,21,88,51114,3,Technology
+Fossil fuel,642,22,26,133,13600,2,Technology
+Coal,612,33,29,352,46349,2,Technology
+Natural gas,340,34,27,222,46122,3,Technology
+Petroleum,744,46,60,335,54666,3,Technology
+Nuclear power,954,27,48,525,70744,4,Technology
+Renewable energy,977,40,70,512,51812,3,Technology
+Hydropower,482,21,23,55,17953,2,Technology
+Solar energy,751,21,40,188,37143,2,Technology
+Wind power,818,29,65,376,42581,3,Technology
+Animal husbandry,358,14,28,178,31905,4,Technology
+Domestication,564,23,14,198,32894,2,Technology
+Biotechnology,423,22,12,194,27182,2,Technology
+Genetic engineering,617,33,24,432,36015,4,Technology
+Fertilizer,360,33,27,236,36863,2,Technology
+Food preservation,462,19,13,61,25300,2,Technology
+Garden,341,19,24,32,17106,1,Technology
+Medical imaging,437,26,12,124,35471,3,Technology
+Refrigeration,440,17,13,74,53211,3,Technology
+Stove,127,17,30,55,26287,3,Technology
+Weapon,827,22,17,49,19173,2,Technology
+Armour,443,16,22,20,20498,2,Technology
+Bow and arrow,744,14,11,52,16131,2,Technology
+Firearm,681,39,30,115,62614,2,Technology
+Knife,754,16,23,45,28038,2,Technology
+Nuclear weapon,965,39,35,193,51423,2,Technology
+Tool,853,19,12,87,18003,2,Technology
+Simple machine,118,10,6,31,16616,2,Technology
+Wheel,741,18,15,67,20444,2,Technology
+Engine,391,14,10,46,27336,2,Technology
+Electric motor,459,38,27,171,64005,2,Technology
+Internal combustion engine,795,21,30,87,70027,2,Technology
+Jet engine,450,23,22,79,35876,2,Technology
+Steam engine,417,29,29,63,50162,2,Technology
+Robotics,640,24,38,306,60461,3,Technology
+Printing,884,27,28,63,27128,3,Technology
+Book,902,34,49,60,47235,2,Technology
+Mail,304,26,28,75,35924,3,Technology
+Telecommunications,803,29,21,184,45452,4,Technology
+Internet,1030,56,41,351,69777,2,Technology
+Radio,776,24,37,192,70731,2,Technology
+Telephone,335,32,33,71,26709,2,Technology
+Mobile phone,641,38,26,156,36218,2,Technology
+Video,759,27,20,77,15977,2,Technology
+Television,1617,65,52,260,83043,2,Technology
+Computer science,536,23,88,137,31256,2,Technology
+Computer,959,31,34,217,57790,2,Technology
+Artificial intelligence,1485,30,33,441,72887,3,Technology
+Cryptography,911,39,26,147,52430,2,Technology
+Electronics,640,18,23,63,14259,2,Technology
+Electric light,206,11,13,37,12275,1,Technology
+Integrated circuit,1428,35,28,146,41397,2,Technology
+Semiconductor device,304,11,7,30,22377,2,Technology
+Rocket,481,30,40,182,49632,3,Technology
+Satellite,435,29,17,121,16286,2,Technology
+Space exploration,1143,23,131,180,48773,2,Technology
+Spaceflight,1235,21,110,81,35302,2,Technology
+Space station,691,28,23,160,17688,2,Technology
+Transport,1094,24,35,74,31733,2,Technology
+Aircraft,566,22,22,106,33518,2,Technology
+Bicycle,540,36,56,156,44593,2,Technology
+Car,1001,45,39,149,35139,3,Technology
+Rail transport,791,34,68,134,65324,3,Technology
+Ship,1036,30,49,105,50643,2,Technology
+Navigation,353,17,26,110,40084,2,Technology
+Compass,377,10,20,44,30891,2,Technology
+Map,359,25,29,39,22309,2,Technology
+Radar,391,32,26,82,66235,3,Technology
+Calendar,597,27,19,31,22452,2,Technology
+Clock,588,42,49,83,50191,2,Technology
+Fortification,691,26,30,65,39337,2,Technology
+Infrastructure,386,20,9,84,33219,2,Technology
+Bridge,358,31,42,187,25213,2,Technology
+Canal,674,22,44,37,40834,2,Technology
+Dam,442,33,35,143,55777,2,Technology
+Road,858,25,59,126,45650,3,Technology
+Concrete,596,29,30,239,71644,2,Technology
+Glass,679,28,49,204,35847,4,Technology
+Masonry,115,19,12,29,13767,1,Technology
+Metallurgy,722,20,19,52,17394,2,Technology
+Natural rubber,523,37,22,95,28646,3,Technology
+Paper,998,23,19,76,21693,2,Technology
+Plastic,1020,29,55,250,43417,3,Technology
+Textile,936,30,53,157,33112,2,Technology
+Wood,1328,36,39,77,43873,3,Technology
+Camera,463,17,22,45,31156,2,Technology
+Laser,459,35,33,182,56737,2,Technology
+Lens,205,20,33,66,28218,3,Technology
+Microscope,397,21,21,38,19196,2,Technology
+Telescope,229,20,15,127,12521,2,Technology
+Mathematics,523,40,35,142,42424,2,Mathematics
+Algorithm,504,28,17,129,63010,2,Mathematics
+Mathematical proof,474,13,10,27,23882,3,Mathematics
+Set (mathematics),390,12,14,60,18062,3,Mathematics
+Function (mathematics),318,21,19,61,55654,2,Mathematics
+Combinatorics,437,14,22,65,19612,1,Mathematics
+Number,410,31,13,61,40925,2,Mathematics
+Real number,324,17,7,39,30213,3,Mathematics
+E (mathematical constant),153,20,14,60,20767,4,Mathematics
+Pi,599,25,39,263,71503,5,Mathematics
+Fraction,192,20,7,64,48939,2,Mathematics
+Integer,1349,18,8,51,16445,3,Mathematics
+0,1376,31,15,98,29819,2,Mathematics
+Natural number,445,16,8,76,18831,3,Mathematics
+Prime number,809,23,30,297,55207,4,Mathematics
+Complex number,417,24,20,77,55025,2,Mathematics
+Number theory,551,28,29,77,39945,3,Mathematics
+Algebra,324,25,21,58,27583,1,Mathematics
+Equation,203,19,12,22,25321,3,Mathematics
+Variable (mathematics),118,10,2,18,14807,1,Mathematics
+Linear algebra,382,29,11,51,40489,3,Mathematics
+Abstract algebra,283,16,12,41,21110,1,Mathematics
+Mathematical analysis,466,17,9,90,24058,3,Mathematics
+Calculus,734,15,24,135,33780,2,Mathematics
+Infinity,295,19,10,109,25782,2,Mathematics
+Limit (mathematics),121,10,3,20,27246,3,Mathematics
+Series (mathematics),422,15,5,37,41644,3,Mathematics
+Arithmetic,268,20,13,34,27043,2,Mathematics
+Exponentiation,415,16,8,57,58577,2,Mathematics
+Logarithm,421,21,38,113,49090,5,Mathematics
+Nth root,99,9,10,10,23519,3,Mathematics
+Geometry,531,21,30,272,32379,2,Mathematics
+Angle,224,19,17,38,26248,2,Mathematics
+Trigonometry,288,12,26,98,18794,3,Mathematics
+Area,279,10,38,58,24348,2,Mathematics
+Conic section,281,18,19,52,47565,2,Mathematics
+Circle,333,16,23,41,29064,2,Mathematics
+Line (geometry),241,16,14,20,19672,2,Mathematics
+Polygon,280,16,11,60,17906,2,Mathematics
+Triangle,273,14,34,39,52741,2,Mathematics
+Three-dimensional space,309,11,23,6,24209,2,Mathematics
+Volume,233,15,21,42,15667,2,Mathematics
+Topology,326,19,19,57,23611,3,Mathematics
+Probability,309,16,13,41,22436,3,Mathematics
+Statistics,739,33,22,122,44761,3,Mathematics
